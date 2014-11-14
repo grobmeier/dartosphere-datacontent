@@ -166,3 +166,11 @@
     id: 'https://pub.dartlang.org/packages/glob#1.0.3'
     link: 'https://pub.dartlang.org/api/packages/glob'
     author: 'Dart Team'
+-
+    package_name: smooth_scroll
+    package_version: v0.0.1
+    title: 'v0.0.1 of smooth_scroll'
+    published: '2014-11-14T23:30:17+00:00'
+    id: 'https://pub.dartlang.org/packages/smooth_scroll#0.0.1'
+    link: 'https://pub.dartlang.org/api/packages/smooth_scroll'
+    author: 'Honza Bittner'
