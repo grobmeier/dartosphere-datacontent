@@ -150,3 +150,11 @@
     id: 'https://pub.dartlang.org/packages/forcemvc#0.5.8'
     link: 'https://pub.dartlang.org/api/packages/forcemvc'
     author: 'Joris Hermans'
+-
+    package_name: xml
+    package_version: v2.1.6
+    title: 'v2.1.6 of xml'
+    published: '2014-11-14T19:30:34+00:00'
+    id: 'https://pub.dartlang.org/packages/xml#2.1.6'
+    link: 'https://pub.dartlang.org/api/packages/xml'
+    author: 'Lukas Renggli'
