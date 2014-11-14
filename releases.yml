@@ -142,3 +142,11 @@
     id: 'https://pub.dartlang.org/packages/csp_fixer#0.0.6'
     link: 'https://pub.dartlang.org/api/packages/csp_fixer'
     author: 'Sungguk Lim'
+-
+    package_name: forcemvc
+    package_version: v0.5.8
+    title: 'v0.5.8 of forcemvc'
+    published: '2014-11-14T15:05:36+00:00'
+    id: 'https://pub.dartlang.org/packages/forcemvc#0.5.8'
+    link: 'https://pub.dartlang.org/api/packages/forcemvc'
+    author: 'Joris Hermans'
