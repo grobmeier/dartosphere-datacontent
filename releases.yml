@@ -134,3 +134,11 @@
     id: 'https://pub.dartlang.org/packages/liquid#0.1.1+1'
     link: 'https://pub.dartlang.org/api/packages/liquid'
     author: 'Boris Kaul'
+-
+    package_name: csp_fixer
+    package_version: v0.0.6
+    title: 'v0.0.6 of csp_fixer'
+    published: '2014-11-14T11:20:22+00:00'
+    id: 'https://pub.dartlang.org/packages/csp_fixer#0.0.6'
+    link: 'https://pub.dartlang.org/api/packages/csp_fixer'
+    author: 'Sungguk Lim'
