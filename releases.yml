@@ -78,3 +78,11 @@
     id: 'https://pub.dartlang.org/packages/i_dart#0.1.3'
     link: 'https://pub.dartlang.org/api/packages/i_dart'
     author: ila
+-
+    package_name: csp_fixer
+    package_version: v0.0.5
+    title: 'v0.0.5 of csp_fixer'
+    published: '2014-11-14T01:56:19+00:00'
+    id: 'https://pub.dartlang.org/packages/csp_fixer#0.0.5'
+    link: 'https://pub.dartlang.org/api/packages/csp_fixer'
+    author: 'Sungguk Lim'
