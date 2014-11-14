@@ -86,3 +86,11 @@
     id: 'https://pub.dartlang.org/packages/csp_fixer#0.0.5'
     link: 'https://pub.dartlang.org/api/packages/csp_fixer'
     author: 'Sungguk Lim'
+-
+    package_name: wsk
+    package_version: v0.5.1
+    title: 'v0.5.1 of wsk'
+    published: '2014-11-14T03:26:06+00:00'
+    id: 'https://pub.dartlang.org/packages/wsk#0.5.1'
+    link: 'https://pub.dartlang.org/api/packages/wsk'
+    author: 'Google team'
