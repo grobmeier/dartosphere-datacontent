@@ -94,3 +94,11 @@
     id: 'https://pub.dartlang.org/packages/wsk#0.5.1'
     link: 'https://pub.dartlang.org/api/packages/wsk'
     author: 'Google team'
+-
+    package_name: liquid
+    package_version: v0.1.1
+    title: 'v0.1.1 of liquid'
+    published: '2014-11-14T03:36:23+00:00'
+    id: 'https://pub.dartlang.org/packages/liquid#0.1.1'
+    link: 'https://pub.dartlang.org/api/packages/liquid'
+    author: 'Boris Kaul'
