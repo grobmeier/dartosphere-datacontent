@@ -126,3 +126,11 @@
     id: 'https://pub.dartlang.org/packages/forcemvc#0.5.7+1'
     link: 'https://pub.dartlang.org/api/packages/forcemvc'
     author: 'Joris Hermans'
+-
+    package_name: liquid
+    package_version: v0.1.1+1
+    title: 'v0.1.1+1 of liquid'
+    published: '2014-11-14T07:35:38+00:00'
+    id: 'https://pub.dartlang.org/packages/liquid#0.1.1+1'
+    link: 'https://pub.dartlang.org/api/packages/liquid'
+    author: 'Boris Kaul'
