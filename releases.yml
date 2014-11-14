@@ -110,3 +110,11 @@
     id: 'https://pub.dartlang.org/packages/wsk#0.5.1+1'
     link: 'https://pub.dartlang.org/api/packages/wsk'
     author: 'Google team'
+-
+    package_name: wsk
+    package_version: v0.5.2
+    title: 'v0.5.2 of wsk'
+    published: '2014-11-14T05:50:12+00:00'
+    id: 'https://pub.dartlang.org/packages/wsk#0.5.2'
+    link: 'https://pub.dartlang.org/api/packages/wsk'
+    author: 'Google team'
