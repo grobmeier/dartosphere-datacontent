@@ -134,3 +134,12 @@
     link: 'https://pub.dartlang.org/packages/cargo'
     author:
         - 'Joris Hermans'
+-
+    package_name: codemirror
+    package_version: v0.0.7+4.4.0
+    title: 'v0.0.7+4.4.0 of codemirror'
+    published: '2014-11-15T18:15:16+00:00'
+    id: 'urn:uuid:bb4e7ae8-6cfa-5ecb-bb1f-6ddcc022d8e6'
+    link: 'https://pub.dartlang.org/packages/codemirror'
+    author:
+        - 'Devon Carew'
