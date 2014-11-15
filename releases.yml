@@ -270,3 +270,11 @@
     id: 'urn:uuid:eb779729-fbee-5930-b83a-7b35ed2adec4'
     link: 'https://pub.dartlang.org/packages/codemirror'
     author: 'Devon Carew'
+-
+    package_name: smooth_scroll
+    package_version: v0.0.2
+    title: 'v0.0.2 of smooth_scroll'
+    published: '2014-11-15T09:50:10+00:00'
+    id: 'urn:uuid:6127675a-d9c7-563a-9fc6-bcda874d2707'
+    link: 'https://pub.dartlang.org/packages/smooth_scroll'
+    author: 'Honza Bittner'
