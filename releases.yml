@@ -116,3 +116,12 @@
     link: 'https://pub.dartlang.org/packages/tags'
     author:
         - 'Ross Smith'
+-
+    package_name: tags
+    package_version: v0.8.0
+    title: 'v0.8.0 of tags'
+    published: '2014-11-15T16:25:15+00:00'
+    id: 'urn:uuid:c3d22f7c-6e87-5aea-9a98-202851e59eaa'
+    link: 'https://pub.dartlang.org/packages/tags'
+    author:
+        - 'Ross Smith'
