@@ -294,3 +294,11 @@
     id: 'urn:uuid:c6cc6421-7562-5197-86a1-eef86871b710'
     link: 'https://pub.dartlang.org/packages/csp_fixer'
     author: 'Sungguk Lim'
+-
+    package_name: vdom
+    package_version: v0.5.1
+    title: 'v0.5.1 of vdom'
+    published: '2014-11-15T11:30:14+00:00'
+    id: 'urn:uuid:2343e337-e7db-516e-8882-b4c26158620e'
+    link: 'https://pub.dartlang.org/packages/vdom'
+    author: 'Boris Kaul'
