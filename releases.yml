@@ -224,3 +224,21 @@
     link: 'https://pub.dartlang.org/packages/cargo'
     author:
         - 'Joris Hermans'
+-
+    package_name: rest
+    package_version: v0.1.10-alpha
+    title: 'v0.1.10-alpha of rest'
+    published: '2014-11-15T22:50:11+00:00'
+    id: 'urn:uuid:c4f9c338-08f2-5b80-bc45-962d6549fc47'
+    link: 'https://pub.dartlang.org/packages/rest'
+    author:
+        - 'Matthew Coleman'
+-
+    package_name: bigcargo
+    package_version: v0.1.2+1
+    title: 'v0.1.2+1 of bigcargo'
+    published: '2014-11-15T22:50:11+00:00'
+    id: 'urn:uuid:6d10f4c4-a6be-5fe3-ada1-0ab23a7beb28'
+    link: 'https://pub.dartlang.org/packages/bigcargo'
+    author:
+        - 'Joris Hermans'
