@@ -215,3 +215,12 @@
     link: 'https://pub.dartlang.org/packages/mojito'
     author:
         - 'Anders Holmgren'
+-
+    package_name: cargo
+    package_version: v0.4.4+1
+    title: 'v0.4.4+1 of cargo'
+    published: '2014-11-15T22:35:09+00:00'
+    id: 'urn:uuid:dc9ca5b3-930f-58aa-8b54-951321baa371'
+    link: 'https://pub.dartlang.org/packages/cargo'
+    author:
+        - 'Joris Hermans'
