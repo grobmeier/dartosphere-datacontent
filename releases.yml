@@ -161,3 +161,12 @@
     link: 'https://pub.dartlang.org/packages/json_mapper'
     author:
         - 'Ajithan Ravindiran'
+-
+    package_name: semantics3
+    package_version: v0.1.0
+    title: 'v0.1.0 of semantics3'
+    published: '2014-11-15T19:30:17+00:00'
+    id: 'urn:uuid:5e276cc4-4643-593a-bf7f-a46823610492'
+    link: 'https://pub.dartlang.org/packages/semantics3'
+    author:
+        - 'Amarnath Ravikumar'
