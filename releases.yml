@@ -197,3 +197,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_auth_session'
     author:
         - 'Anders Holmgren'
+-
+    package_name: shelf_auth_session
+    package_version: v0.0.1+1
+    title: 'v0.0.1+1 of shelf_auth_session'
+    published: '2014-11-15T22:10:13+00:00'
+    id: 'urn:uuid:2606c7c0-83b5-5bab-8362-548835cab203'
+    link: 'https://pub.dartlang.org/packages/shelf_auth_session'
+    author:
+        - 'Anders Holmgren'
