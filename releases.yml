@@ -125,3 +125,12 @@
     link: 'https://pub.dartlang.org/packages/tags'
     author:
         - 'Ross Smith'
+-
+    package_name: cargo
+    package_version: v0.4.4
+    title: 'v0.4.4 of cargo'
+    published: '2014-11-15T18:00:17+00:00'
+    id: 'urn:uuid:4252a1b8-4600-5f25-b03c-e97a3e3f8c37'
+    link: 'https://pub.dartlang.org/packages/cargo'
+    author:
+        - 'Joris Hermans'
