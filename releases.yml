@@ -170,3 +170,12 @@
     link: 'https://pub.dartlang.org/packages/semantics3'
     author:
         - 'Amarnath Ravikumar'
+-
+    package_name: semantics3
+    package_version: v0.1.1
+    title: 'v0.1.1 of semantics3'
+    published: '2014-11-15T20:50:11+00:00'
+    id: 'urn:uuid:fae48e91-79e3-5947-aa56-03a6358de902'
+    link: 'https://pub.dartlang.org/packages/semantics3'
+    author:
+        - 'Amarnath Ravikumar'
