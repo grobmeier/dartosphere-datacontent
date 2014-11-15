@@ -286,3 +286,11 @@
     id: 'urn:uuid:7384db2e-7c0b-5145-b1aa-4b91050fc7b5'
     link: 'https://pub.dartlang.org/packages/smooth_scroll'
     author: 'Honza Bittner'
+-
+    package_name: csp_fixer
+    package_version: v0.0.7
+    title: 'v0.0.7 of csp_fixer'
+    published: '2014-11-15T10:55:10+00:00'
+    id: 'urn:uuid:c6cc6421-7562-5197-86a1-eef86871b710'
+    link: 'https://pub.dartlang.org/packages/csp_fixer'
+    author: 'Sungguk Lim'
