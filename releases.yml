@@ -310,3 +310,11 @@
     id: 'urn:uuid:ef27bf82-2f67-5cc3-916d-ec7777c605f1'
     link: 'https://pub.dartlang.org/packages/liquid'
     author: 'Boris Kaul'
+-
+    package_name: vdom
+    package_version: v0.5.1+1
+    title: 'v0.5.1+1 of vdom'
+    published: '2014-11-15T11:50:10+00:00'
+    id: 'urn:uuid:d3e902ff-965d-5eae-af98-15c042a30376'
+    link: 'https://pub.dartlang.org/packages/vdom'
+    author: 'Boris Kaul'
