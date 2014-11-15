@@ -188,3 +188,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_oauth_memcache'
     author:
         - 'Anders Holmgren'
+-
+    package_name: shelf_auth_session
+    package_version: v0.0.1
+    title: 'v0.0.1 of shelf_auth_session'
+    published: '2014-11-15T22:00:18+00:00'
+    id: 'urn:uuid:8be9f2cc-3879-53b7-af9b-07e656d3e873'
+    link: 'https://pub.dartlang.org/packages/shelf_auth_session'
+    author:
+        - 'Anders Holmgren'
