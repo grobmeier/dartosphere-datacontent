@@ -89,3 +89,12 @@
     author:
         - 'Google team'
         - 'Hiroshi Yamamoto'
+-
+    package_name: petitparser
+    package_version: v1.3.0
+    title: 'v1.3.0 of petitparser'
+    published: '2014-11-15T14:05:11+00:00'
+    id: 'urn:uuid:5269d49f-bf47-5f13-9399-d7da4264b9e4'
+    link: 'https://pub.dartlang.org/packages/petitparser'
+    author:
+        - 'Lukas Renggli'
