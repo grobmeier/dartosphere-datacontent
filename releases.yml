@@ -143,3 +143,12 @@
     link: 'https://pub.dartlang.org/packages/codemirror'
     author:
         - 'Devon Carew'
+-
+    package_name: csp_fixer
+    package_version: v0.1.0
+    title: 'v0.1.0 of csp_fixer'
+    published: '2014-11-15T18:25:11+00:00'
+    id: 'urn:uuid:196b73e4-5021-5576-98b6-99fc9628c7a9'
+    link: 'https://pub.dartlang.org/packages/csp_fixer'
+    author:
+        - 'Sungguk Lim'
