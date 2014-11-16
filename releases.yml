@@ -260,3 +260,12 @@
     link: 'https://pub.dartlang.org/packages/mojito'
     author:
         - 'Anders Holmgren'
+-
+    package_name: mojito
+    package_version: v0.0.4+1
+    title: 'v0.0.4+1 of mojito'
+    published: '2014-11-16T06:30:16+00:00'
+    id: 'urn:uuid:d733c9b0-4979-5391-8e29-39cb19dc124e'
+    link: 'https://pub.dartlang.org/packages/mojito'
+    author:
+        - 'Anders Holmgren'
