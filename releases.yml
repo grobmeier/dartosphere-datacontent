@@ -296,3 +296,12 @@
     link: 'https://pub.dartlang.org/packages/bigcargo'
     author:
         - 'Joris Hermans'
+-
+    package_name: bigcargo
+    package_version: v0.1.2+3
+    title: 'v0.1.2+3 of bigcargo'
+    published: '2014-11-16T13:55:09+00:00'
+    id: 'urn:uuid:0bdd9c4f-dbd2-5a0c-b8c2-e1464f62e7f2'
+    link: 'https://pub.dartlang.org/packages/bigcargo'
+    author:
+        - 'Joris Hermans'
