@@ -242,3 +242,12 @@
     link: 'https://pub.dartlang.org/packages/bigcargo'
     author:
         - 'Joris Hermans'
+-
+    package_name: mojito
+    package_version: v0.0.3
+    title: 'v0.0.3 of mojito'
+    published: '2014-11-16T06:10:15+00:00'
+    id: 'urn:uuid:16677820-3497-5520-83f8-72ea129dfcc1'
+    link: 'https://pub.dartlang.org/packages/mojito'
+    author:
+        - 'Anders Holmgren'
