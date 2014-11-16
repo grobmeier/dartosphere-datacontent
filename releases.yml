@@ -287,3 +287,12 @@
     link: 'https://pub.dartlang.org/packages/slownie'
     author:
         - 'Tomasz Kubacki'
+-
+    package_name: bigcargo
+    package_version: v0.1.2+2
+    title: 'v0.1.2+2 of bigcargo'
+    published: '2014-11-16T13:25:10+00:00'
+    id: 'urn:uuid:4296cd5d-e826-58e6-af71-514c9b43648e'
+    link: 'https://pub.dartlang.org/packages/bigcargo'
+    author:
+        - 'Joris Hermans'
