@@ -386,3 +386,12 @@
     link: 'https://pub.dartlang.org/packages/http_server'
     author:
         - 'Dart Team'
+-
+    package_name: pixel_clock
+    package_version: v1.0.1
+    title: 'v1.0.1 of pixel_clock'
+    published: '2014-11-17T17:55:21+00:00'
+    id: 'urn:uuid:0b8d0c70-edbc-58b6-b1f8-37a818732912'
+    link: 'https://pub.dartlang.org/packages/pixel_clock'
+    author:
+        - 'Wang Feng'
