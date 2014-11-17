@@ -377,3 +377,12 @@
     link: 'https://pub.dartlang.org/packages/slickdart'
     author:
         - CJKAO
+-
+    package_name: http_server
+    package_version: v0.9.4
+    title: 'v0.9.4 of http_server'
+    published: '2014-11-17T16:40:35+00:00'
+    id: 'urn:uuid:b260d594-4b0c-56a2-80f4-a55a3eaa0d4c'
+    link: 'https://pub.dartlang.org/packages/http_server'
+    author:
+        - 'Dart Team'
