@@ -341,3 +341,21 @@
     link: 'https://pub.dartlang.org/packages/bootjack_datepicker'
     author:
         - 'Jimmy Shiau'
+-
+    package_name: googleapis_beta
+    package_version: v0.5.1
+    title: 'v0.5.1 of googleapis_beta'
+    published: '2014-11-17T14:10:27+00:00'
+    id: 'urn:uuid:87b28497-6c0f-5c04-9d5e-bd1faa8a17b8'
+    link: 'https://pub.dartlang.org/packages/googleapis_beta'
+    author:
+        - 'Dart Team'
+-
+    package_name: googleapis
+    package_version: v0.4.1
+    title: 'v0.4.1 of googleapis'
+    published: '2014-11-17T14:10:27+00:00'
+    id: 'urn:uuid:75b65495-07a2-5c03-b794-80655d697d8f'
+    link: 'https://pub.dartlang.org/packages/googleapis'
+    author:
+        - 'Dart Team'
