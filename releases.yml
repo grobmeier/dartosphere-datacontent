@@ -332,3 +332,12 @@
     link: 'https://pub.dartlang.org/packages/dart_transducers'
     author:
         - 'Julien Castelain'
+-
+    package_name: bootjack_datepicker
+    package_version: v0.5.4+2
+    title: 'v0.5.4+2 of bootjack_datepicker'
+    published: '2014-11-17T03:15:13+00:00'
+    id: 'urn:uuid:784f7378-f114-5741-ba3c-cc22703ace4a'
+    link: 'https://pub.dartlang.org/packages/bootjack_datepicker'
+    author:
+        - 'Jimmy Shiau'
