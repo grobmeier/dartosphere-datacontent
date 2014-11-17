@@ -395,3 +395,12 @@
     link: 'https://pub.dartlang.org/packages/pixel_clock'
     author:
         - 'Wang Feng'
+-
+    package_name: clean_sync
+    package_version: v0.8.1
+    title: 'v0.8.1 of clean_sync'
+    published: '2014-11-17T23:00:20+00:00'
+    id: 'urn:uuid:0753407a-daf4-5d52-85af-c57c9f65b6e9'
+    link: 'https://pub.dartlang.org/packages/clean_sync'
+    author:
+        - 'Clean Team'
