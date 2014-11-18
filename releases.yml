@@ -469,3 +469,12 @@
     link: 'https://pub.dartlang.org/packages/appengine'
     author:
         - 'Dart Team'
+-
+    package_name: clean_sync
+    package_version: v0.8.2
+    title: 'v0.8.2 of clean_sync'
+    published: '2014-11-18T13:05:22+00:00'
+    id: 'urn:uuid:20e13c44-856e-5d04-9571-d1f63765a385'
+    link: 'https://pub.dartlang.org/packages/clean_sync'
+    author:
+        - 'Clean Team'
