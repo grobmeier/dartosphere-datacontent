@@ -423,3 +423,13 @@
     author:
         - 'Seth Ladd'
         - 'Devon Carew'
+-
+    package_name: FileTeCouch
+    package_version: v0.4.1
+    title: 'v0.4.1 of FileTeCouch'
+    published: '2014-11-18T06:10:16+00:00'
+    id: 'urn:uuid:4142b0f8-6bc5-58b4-a827-3686bfaa9193'
+    link: 'https://pub.dartlang.org/packages/FileTeCouch'
+    author:
+        - 'Samuel BERTHE'
+        - 'Corentin PILLET'
