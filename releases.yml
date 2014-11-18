@@ -413,3 +413,13 @@
     link: 'https://pub.dartlang.org/packages/console'
     author:
         - 'Kenneth Endfinger'
+-
+    package_name: stagehand
+    package_version: v0.1.3+1
+    title: 'v0.1.3+1 of stagehand'
+    published: '2014-11-18T04:55:13+00:00'
+    id: 'urn:uuid:061405a6-86ef-5471-b8c0-915a4fc544e5'
+    link: 'https://pub.dartlang.org/packages/stagehand'
+    author:
+        - 'Seth Ladd'
+        - 'Devon Carew'
