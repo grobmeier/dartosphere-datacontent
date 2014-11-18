@@ -433,3 +433,12 @@
     author:
         - 'Samuel BERTHE'
         - 'Corentin PILLET'
+-
+    package_name: postgresql2
+    package_version: v0.2.14+5
+    title: 'v0.2.14+5 of postgresql2'
+    published: '2014-11-18T08:55:17+00:00'
+    id: 'urn:uuid:251eddab-ad39-5da8-ab6d-33dc338cb897'
+    link: 'https://pub.dartlang.org/packages/postgresql2'
+    author:
+        - 'Greg Lowe'
