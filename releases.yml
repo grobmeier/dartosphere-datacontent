@@ -404,3 +404,12 @@
     link: 'https://pub.dartlang.org/packages/clean_sync'
     author:
         - 'Clean Team'
+-
+    package_name: console
+    package_version: v1.1.2
+    title: 'v1.1.2 of console'
+    published: '2014-11-18T03:30:21+00:00'
+    id: 'urn:uuid:5d8a2abd-24a5-5b91-8f22-ee9eaf11125c'
+    link: 'https://pub.dartlang.org/packages/console'
+    author:
+        - 'Kenneth Endfinger'
