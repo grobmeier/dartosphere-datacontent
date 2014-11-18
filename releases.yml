@@ -487,3 +487,13 @@
     link: 'https://pub.dartlang.org/packages/force'
     author:
         - 'Joris Hermans'
+-
+    package_name: simple_dart_api
+    package_version: v0.0.6
+    title: 'v0.0.6 of simple_dart_api'
+    published: '2014-11-18T22:55:17+00:00'
+    id: 'urn:uuid:20dc6ef3-6a01-53b2-b320-5dd9f525cf76'
+    link: 'https://pub.dartlang.org/packages/simple_dart_api'
+    author:
+        - 'Corentin Pillet'
+        - 'Samuel BERTHE'
