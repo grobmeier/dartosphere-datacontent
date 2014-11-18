@@ -442,3 +442,12 @@
     link: 'https://pub.dartlang.org/packages/postgresql2'
     author:
         - 'Greg Lowe'
+-
+    package_name: postgresql2
+    package_version: v0.2.14+6
+    title: 'v0.2.14+6 of postgresql2'
+    published: '2014-11-18T09:15:19+00:00'
+    id: 'urn:uuid:6f10fa91-bc15-5bfb-b0f5-397fdd241ce7'
+    link: 'https://pub.dartlang.org/packages/postgresql2'
+    author:
+        - 'Greg Lowe'
