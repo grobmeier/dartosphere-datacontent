@@ -460,3 +460,12 @@
     link: 'https://pub.dartlang.org/packages/unittest'
     author:
         - 'Dart Team'
+-
+    package_name: appengine
+    package_version: v0.2.3
+    title: 'v0.2.3 of appengine'
+    published: '2014-11-18T11:45:21+00:00'
+    id: 'urn:uuid:3678448a-3de2-5e38-9745-5f3c8156444d'
+    link: 'https://pub.dartlang.org/packages/appengine'
+    author:
+        - 'Dart Team'
