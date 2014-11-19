@@ -562,3 +562,14 @@
     link: 'https://pub.dartlang.org/packages/csp_fixer'
     author:
         - 'Sungguk Lim'
+-
+    package_name: bootstrap_for_pub
+    package_version: v3.3.0+2
+    title: 'v3.3.0+2 of bootstrap_for_pub'
+    published: '2014-11-19T21:50:27+00:00'
+    id: 'urn:uuid:0a84089b-cd69-52bb-ac71-ef9291ea367f'
+    link: 'https://pub.dartlang.org/packages/bootstrap_for_pub'
+    author:
+        - 'Bootstrap core team'
+        - 'Victor Berchet'
+        - 'Seth Ladd'
