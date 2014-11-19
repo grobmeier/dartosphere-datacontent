@@ -506,3 +506,12 @@
     link: 'https://pub.dartlang.org/packages/http_server'
     author:
         - 'Dart Team'
+-
+    package_name: stream
+    package_version: v1.3.0+1
+    title: 'v1.3.0+1 of stream'
+    published: '2014-11-19T12:05:27+00:00'
+    id: 'urn:uuid:5a925639-7ff0-5861-ab83-68f00003232b'
+    link: 'https://pub.dartlang.org/packages/stream'
+    author:
+        - 'Tom Yeh'
