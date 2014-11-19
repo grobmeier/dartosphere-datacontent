@@ -573,3 +573,12 @@
         - 'Bootstrap core team'
         - 'Victor Berchet'
         - 'Seth Ladd'
+-
+    package_name: laser
+    package_version: v0.0.2
+    title: 'v0.0.2 of laser'
+    published: '2014-11-19T22:35:39+00:00'
+    id: 'urn:uuid:65ed961a-55a1-571b-bcd7-caeabfda8863'
+    link: 'https://pub.dartlang.org/packages/laser'
+    author:
+        - 'Lex Berezhny'
