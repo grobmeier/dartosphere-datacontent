@@ -535,3 +535,12 @@
     author:
         - 'Corentin Pillet'
         - 'Samuel BERTHE'
+-
+    package_name: import_resolver
+    package_version: v1.0.0
+    title: 'v1.0.0 of import_resolver'
+    published: '2014-11-19T14:35:31+00:00'
+    id: 'urn:uuid:567aa251-fa78-5113-9b5e-96d308e5d3a1'
+    link: 'https://pub.dartlang.org/packages/import_resolver'
+    author:
+        - 'Zdenko Vrabel'
