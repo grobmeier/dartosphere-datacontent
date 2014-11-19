@@ -515,3 +515,13 @@
     link: 'https://pub.dartlang.org/packages/stream'
     author:
         - 'Tom Yeh'
+-
+    package_name: simple_dart_api
+    package_version: v0.0.7
+    title: 'v0.0.7 of simple_dart_api'
+    published: '2014-11-19T12:20:29+00:00'
+    id: 'urn:uuid:b8444ad6-109b-5529-8a29-bd741f6ec494'
+    link: 'https://pub.dartlang.org/packages/simple_dart_api'
+    author:
+        - 'Corentin Pillet'
+        - 'Samuel BERTHE'
