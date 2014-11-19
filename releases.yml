@@ -553,3 +553,12 @@
     link: 'https://pub.dartlang.org/packages/slickdart'
     author:
         - CJKAO
+-
+    package_name: csp_fixer
+    package_version: v0.1.1
+    title: 'v0.1.1 of csp_fixer'
+    published: '2014-11-19T18:05:25+00:00'
+    id: 'urn:uuid:7a11e76b-f3a1-57f0-8917-805d12bdb6f0'
+    link: 'https://pub.dartlang.org/packages/csp_fixer'
+    author:
+        - 'Sungguk Lim'
