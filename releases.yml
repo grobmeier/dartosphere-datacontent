@@ -544,3 +544,12 @@
     link: 'https://pub.dartlang.org/packages/import_resolver'
     author:
         - 'Zdenko Vrabel'
+-
+    package_name: slickdart
+    package_version: v0.1.0+2
+    title: 'v0.1.0+2 of slickdart'
+    published: '2014-11-19T17:40:36+00:00'
+    id: 'urn:uuid:6b2424f5-0c13-575d-a200-0df9ed7539b1'
+    link: 'https://pub.dartlang.org/packages/slickdart'
+    author:
+        - CJKAO
