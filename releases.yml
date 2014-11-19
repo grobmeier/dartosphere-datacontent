@@ -497,3 +497,12 @@
     author:
         - 'Corentin Pillet'
         - 'Samuel BERTHE'
+-
+    package_name: http_server
+    package_version: v0.9.5
+    title: 'v0.9.5 of http_server'
+    published: '2014-11-19T11:30:30+00:00'
+    id: 'urn:uuid:aee24304-7b74-5695-9195-96959cc947ed'
+    link: 'https://pub.dartlang.org/packages/http_server'
+    author:
+        - 'Dart Team'
