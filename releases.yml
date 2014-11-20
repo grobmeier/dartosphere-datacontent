@@ -627,3 +627,13 @@
     link: 'https://pub.dartlang.org/packages/u_til'
     author:
         - 'Axel Christ'
+-
+    package_name: FileTeCouch
+    package_version: v0.4.3
+    title: 'v0.4.3 of FileTeCouch'
+    published: '2014-11-20T14:40:34+00:00'
+    id: 'urn:uuid:21384fc6-2958-557b-895b-2c507435cf23'
+    link: 'https://pub.dartlang.org/packages/FileTeCouch'
+    author:
+        - 'Samuel BERTHE'
+        - 'Corentin PILLET'
