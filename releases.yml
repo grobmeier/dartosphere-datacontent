@@ -600,3 +600,12 @@
     link: 'https://pub.dartlang.org/packages/csp_fixer'
     author:
         - 'Sungguk Lim'
+-
+    package_name: u_til
+    package_version: v0.1.3
+    title: 'v0.1.3 of u_til'
+    published: '2014-11-20T12:55:22+00:00'
+    id: 'urn:uuid:3e1dbf4f-afe7-59d1-bcf6-3e8bbf0ef7db'
+    link: 'https://pub.dartlang.org/packages/u_til'
+    author:
+        - 'Axel Christ'
