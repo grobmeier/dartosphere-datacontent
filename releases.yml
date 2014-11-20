@@ -609,3 +609,12 @@
     link: 'https://pub.dartlang.org/packages/u_til'
     author:
         - 'Axel Christ'
+-
+    package_name: u_til
+    package_version: v0.1.4
+    title: 'v0.1.4 of u_til'
+    published: '2014-11-20T13:30:28+00:00'
+    id: 'urn:uuid:2d258fa9-36b3-527c-9e37-e7ada6a18855'
+    link: 'https://pub.dartlang.org/packages/u_til'
+    author:
+        - 'Axel Christ'
