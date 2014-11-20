@@ -618,3 +618,12 @@
     link: 'https://pub.dartlang.org/packages/u_til'
     author:
         - 'Axel Christ'
+-
+    package_name: u_til
+    package_version: v0.1.5
+    title: 'v0.1.5 of u_til'
+    published: '2014-11-20T13:35:20+00:00'
+    id: 'urn:uuid:fbf95b26-88b2-59f5-bad3-fbe73d4d41b6'
+    link: 'https://pub.dartlang.org/packages/u_til'
+    author:
+        - 'Axel Christ'
