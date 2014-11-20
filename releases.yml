@@ -665,3 +665,12 @@
     link: 'https://pub.dartlang.org/packages/bigcargo'
     author:
         - 'Joris Hermans'
+-
+    package_name: dilithium
+    package_version: v0.2.0
+    title: 'v0.2.0 of dilithium'
+    published: '2014-11-20T22:25:17+00:00'
+    id: 'urn:uuid:74efb433-00f4-52fc-b15d-0b49f7efdede'
+    link: 'https://pub.dartlang.org/packages/dilithium'
+    author:
+        - brucedavidson
