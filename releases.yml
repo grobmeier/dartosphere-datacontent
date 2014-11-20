@@ -591,3 +591,12 @@
     link: 'https://pub.dartlang.org/packages/sketch'
     author:
         - 'Marcos Cooper'
+-
+    package_name: csp_fixer
+    package_version: v0.1.2
+    title: 'v0.1.2 of csp_fixer'
+    published: '2014-11-20T07:20:15+00:00'
+    id: 'urn:uuid:5eea8cac-dabc-5bd5-925c-51d1af08d044'
+    link: 'https://pub.dartlang.org/packages/csp_fixer'
+    author:
+        - 'Sungguk Lim'
