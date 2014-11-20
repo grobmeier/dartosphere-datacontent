@@ -582,3 +582,12 @@
     link: 'https://pub.dartlang.org/packages/laser'
     author:
         - 'Lex Berezhny'
+-
+    package_name: sketch
+    package_version: v0.0.2
+    title: 'v0.0.2 of sketch'
+    published: '2014-11-20T02:05:18+00:00'
+    id: 'urn:uuid:c7ce9e4f-f987-50e9-a869-c8b81d0d1951'
+    link: 'https://pub.dartlang.org/packages/sketch'
+    author:
+        - 'Marcos Cooper'
