@@ -637,3 +637,12 @@
     author:
         - 'Samuel BERTHE'
         - 'Corentin PILLET'
+-
+    package_name: useful
+    package_version: v1.0.19
+    title: 'v1.0.19 of useful'
+    published: '2014-11-20T19:10:45+00:00'
+    id: 'urn:uuid:ba65cd8c-60e8-5521-bb9d-483ba04c56b7'
+    link: 'https://pub.dartlang.org/packages/useful'
+    author:
+        - 'Tomas Kulich'
