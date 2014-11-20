@@ -656,3 +656,12 @@
     author:
         - 'Seth Ladd'
         - 'Devon Carew'
+-
+    package_name: bigcargo
+    package_version: v0.1.2+4
+    title: 'v0.1.2+4 of bigcargo'
+    published: '2014-11-20T21:55:15+00:00'
+    id: 'urn:uuid:120fd330-1e29-547e-a4e2-365efdb88d0a'
+    link: 'https://pub.dartlang.org/packages/bigcargo'
+    author:
+        - 'Joris Hermans'
