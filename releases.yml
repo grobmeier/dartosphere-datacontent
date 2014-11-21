@@ -710,3 +710,12 @@
     link: 'https://pub.dartlang.org/packages/access'
     author:
         - 'Tom Yeh'
+-
+    package_name: access
+    package_version: v0.5.2
+    title: 'v0.5.2 of access'
+    published: '2014-11-21T12:30:18+00:00'
+    id: 'urn:uuid:8cc822ea-dde9-53e3-b167-83fe352671f7'
+    link: 'https://pub.dartlang.org/packages/access'
+    author:
+        - 'Tom Yeh'
