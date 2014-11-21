@@ -827,3 +827,12 @@
     link: 'https://pub.dartlang.org/packages/review_breakdown'
     author:
         - pjv
+-
+    package_name: purity
+    package_version: v0.19.0
+    title: 'v0.19.0 of purity'
+    published: '2014-11-21T23:10:12+00:00'
+    id: 'urn:uuid:67c0f04c-c445-59eb-89eb-a1e2bce4dac5'
+    link: 'https://pub.dartlang.org/packages/purity'
+    author:
+        - 'Daniel Robinson'
