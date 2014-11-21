@@ -755,3 +755,12 @@
     link: 'https://pub.dartlang.org/packages/amazon_s3'
     author:
         - 'Clean Team'
+-
+    package_name: viltage
+    package_version: v0.3.0+6
+    title: 'v0.3.0+6 of viltage'
+    published: '2014-11-21T15:40:16+00:00'
+    id: 'urn:uuid:ff74d1c9-a828-5348-a20f-edb91094bcd8'
+    link: 'https://pub.dartlang.org/packages/viltage'
+    author:
+        - ViliX64
