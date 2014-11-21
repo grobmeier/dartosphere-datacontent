@@ -809,3 +809,12 @@
     link: 'https://pub.dartlang.org/packages/dart_ext'
     author:
         - 'Kun Zhao'
+-
+    package_name: smartcanvas
+    package_version: v0.1.6
+    title: 'v0.1.6 of smartcanvas'
+    published: '2014-11-21T21:25:12+00:00'
+    id: 'urn:uuid:29f16f9d-ce97-5ed0-839f-54f36694fed8'
+    link: 'https://pub.dartlang.org/packages/smartcanvas'
+    author:
+        - 'Kun Zhao'
