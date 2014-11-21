@@ -791,3 +791,12 @@
     link: 'https://pub.dartlang.org/packages/clean_lock'
     author:
         - 'Clean Team'
+-
+    package_name: clean_lock
+    package_version: v0.0.8
+    title: 'v0.0.8 of clean_lock'
+    published: '2014-11-21T19:25:12+00:00'
+    id: 'urn:uuid:9a9e0def-6674-57cd-9468-ed97bf3a87e1'
+    link: 'https://pub.dartlang.org/packages/clean_lock'
+    author:
+        - 'Clean Team'
