@@ -818,3 +818,12 @@
     link: 'https://pub.dartlang.org/packages/smartcanvas'
     author:
         - 'Kun Zhao'
+-
+    package_name: review_breakdown
+    package_version: v1.0.0
+    title: 'v1.0.0 of review_breakdown'
+    published: '2014-11-21T23:00:16+00:00'
+    id: 'urn:uuid:66cb6a7d-d0cf-52bd-aae4-25a94dd88e93'
+    link: 'https://pub.dartlang.org/packages/review_breakdown'
+    author:
+        - pjv
