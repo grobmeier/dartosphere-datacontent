@@ -782,3 +782,12 @@
     link: 'https://pub.dartlang.org/packages/deploylocal'
     author:
         - 'Sébastien Lambour'
+-
+    package_name: clean_lock
+    package_version: v0.0.7
+    title: 'v0.0.7 of clean_lock'
+    published: '2014-11-21T17:00:22+00:00'
+    id: 'urn:uuid:750d93f2-6261-5c37-a9e1-a13a441c1247'
+    link: 'https://pub.dartlang.org/packages/clean_lock'
+    author:
+        - 'Clean Team'
