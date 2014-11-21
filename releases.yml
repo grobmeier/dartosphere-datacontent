@@ -701,3 +701,12 @@
     link: 'https://pub.dartlang.org/packages/codemirror'
     author:
         - 'Devon Carew'
+-
+    package_name: access
+    package_version: v0.5.1
+    title: 'v0.5.1 of access'
+    published: '2014-11-21T11:00:20+00:00'
+    id: 'urn:uuid:bc269364-06a0-5f27-88a5-9ca43d0cd1cb'
+    link: 'https://pub.dartlang.org/packages/access'
+    author:
+        - 'Tom Yeh'
