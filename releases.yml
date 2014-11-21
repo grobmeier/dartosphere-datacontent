@@ -674,3 +674,12 @@
     link: 'https://pub.dartlang.org/packages/dilithium'
     author:
         - brucedavidson
+-
+    package_name: ripplelib
+    package_version: v0.1.0
+    title: 'v0.1.0 of ripplelib'
+    published: '2014-11-21T00:00:19+00:00'
+    id: 'urn:uuid:1691f404-952b-5717-8d74-fa2d8db83b0d'
+    link: 'https://pub.dartlang.org/packages/ripplelib'
+    author:
+        - 'Steven Roose'
