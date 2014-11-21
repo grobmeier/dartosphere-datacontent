@@ -773,3 +773,12 @@
     link: 'https://pub.dartlang.org/packages/viltage'
     author:
         - ViliX64
+-
+    package_name: deploylocal
+    package_version: v0.0.0
+    title: 'v0.0.0 of deploylocal'
+    published: '2014-11-21T16:25:22+00:00'
+    id: 'urn:uuid:dd095d73-cbb1-5421-a132-b8f8e956c822'
+    link: 'https://pub.dartlang.org/packages/deploylocal'
+    author:
+        - 'Sébastien Lambour'
