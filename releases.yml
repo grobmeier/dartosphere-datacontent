@@ -800,3 +800,12 @@
     link: 'https://pub.dartlang.org/packages/clean_lock'
     author:
         - 'Clean Team'
+-
+    package_name: dart_ext
+    package_version: v0.0.8
+    title: 'v0.0.8 of dart_ext'
+    published: '2014-11-21T19:45:15+00:00'
+    id: 'urn:uuid:9e323656-f56d-513e-aef8-f407c08ed03e'
+    link: 'https://pub.dartlang.org/packages/dart_ext'
+    author:
+        - 'Kun Zhao'
