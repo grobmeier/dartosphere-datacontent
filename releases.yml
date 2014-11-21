@@ -746,3 +746,12 @@
     link: 'https://pub.dartlang.org/packages/simple_webserver'
     author:
         - 'Alessandro Pungitore'
+-
+    package_name: amazon_s3
+    package_version: v0.1.7
+    title: 'v0.1.7 of amazon_s3'
+    published: '2014-11-21T15:05:16+00:00'
+    id: 'urn:uuid:3023abe4-932a-5b37-af70-a712da7661df'
+    link: 'https://pub.dartlang.org/packages/amazon_s3'
+    author:
+        - 'Clean Team'
