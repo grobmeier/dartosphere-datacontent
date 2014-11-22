@@ -926,3 +926,12 @@
     link: 'https://pub.dartlang.org/packages/sketch'
     author:
         - 'Marcos Cooper'
+-
+    package_name: viltage
+    package_version: v0.3.1+6
+    title: 'v0.3.1+6 of viltage'
+    published: '2014-11-22T11:35:10+00:00'
+    id: 'urn:uuid:cf2dd763-3958-59e0-b390-798433008e61'
+    link: 'https://pub.dartlang.org/packages/viltage'
+    author:
+        - ViliX64
