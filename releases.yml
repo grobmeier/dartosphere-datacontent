@@ -845,3 +845,12 @@
     link: 'https://pub.dartlang.org/packages/purity_oauth2'
     author:
         - 'Daniel Robinson'
+-
+    package_name: source_span
+    package_version: v1.0.2
+    title: 'v1.0.2 of source_span'
+    published: '2014-11-22T00:00:16+00:00'
+    id: 'urn:uuid:7d76a0f6-b830-5e1b-9f5d-da8782f12b28'
+    link: 'https://pub.dartlang.org/packages/source_span'
+    author:
+        - 'Dart Team'
