@@ -944,3 +944,12 @@
     link: 'https://pub.dartlang.org/packages/ccompile'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: viltage
+    package_version: v0.3.2+0
+    title: 'v0.3.2+0 of viltage'
+    published: '2014-11-22T17:20:10+00:00'
+    id: 'urn:uuid:e346766c-cc42-5ccd-ba5e-45bb566b3634'
+    link: 'https://pub.dartlang.org/packages/viltage'
+    author:
+        - ViliX64
