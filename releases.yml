@@ -971,3 +971,12 @@
     link: 'https://pub.dartlang.org/packages/typeof'
     author:
         - 'Karan Goel'
+-
+    package_name: viltage
+    package_version: v0.3.2+1
+    title: 'v0.3.2+1 of viltage'
+    published: '2014-11-22T21:10:11+00:00'
+    id: 'urn:uuid:863cb1db-7ab5-54bd-b2cd-70f3a59d03a7'
+    link: 'https://pub.dartlang.org/packages/viltage'
+    author:
+        - ViliX64
