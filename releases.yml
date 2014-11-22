@@ -953,3 +953,12 @@
     link: 'https://pub.dartlang.org/packages/viltage'
     author:
         - ViliX64
+-
+    package_name: typeof
+    package_version: v0.0.1
+    title: 'v0.0.1 of typeof'
+    published: '2014-11-22T18:55:11+00:00'
+    id: 'urn:uuid:65abb22f-7581-5278-8d45-8448068fff6b'
+    link: 'https://pub.dartlang.org/packages/typeof'
+    author:
+        - 'Karan Goel'
