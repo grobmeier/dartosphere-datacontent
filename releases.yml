@@ -854,3 +854,12 @@
     link: 'https://pub.dartlang.org/packages/source_span'
     author:
         - 'Dart Team'
+-
+    package_name: viltage
+    package_version: v0.3.1+0
+    title: 'v0.3.1+0 of viltage'
+    published: '2014-11-22T07:25:11+00:00'
+    id: 'urn:uuid:e231a245-9556-59fa-ab10-f26996ef8144'
+    link: 'https://pub.dartlang.org/packages/viltage'
+    author:
+        - ViliX64
