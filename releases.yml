@@ -881,3 +881,12 @@
     link: 'https://pub.dartlang.org/packages/viltage'
     author:
         - ViliX64
+-
+    package_name: purity_oauth2
+    package_version: v0.11.1
+    title: 'v0.11.1 of purity_oauth2'
+    published: '2014-11-22T10:50:12+00:00'
+    id: 'urn:uuid:8a39396c-a9a3-5127-a75f-713ded89c51d'
+    link: 'https://pub.dartlang.org/packages/purity_oauth2'
+    author:
+        - 'Daniel Robinson'
