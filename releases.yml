@@ -1010,3 +1010,12 @@
         - 'Santiago Arias'
         - 'James Hurford'
         - 'Srdjan Pejic'
+-
+    package_name: do2
+    package_version: v0.0.2
+    title: 'v0.0.2 of do2'
+    published: '2014-11-23T17:25:09+00:00'
+    id: 'urn:uuid:ce6e726d-f903-5f12-bda8-6781ce2b5dcd'
+    link: 'https://pub.dartlang.org/packages/do2'
+    author:
+        - Schnack
