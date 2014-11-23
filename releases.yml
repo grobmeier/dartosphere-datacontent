@@ -998,3 +998,15 @@
     link: 'https://pub.dartlang.org/packages/purity'
     author:
         - 'Daniel Robinson'
+-
+    package_name: ice_code_editor
+    package_version: v1.0.0
+    title: 'v1.0.0 of ice_code_editor'
+    published: '2014-11-23T04:35:12+00:00'
+    id: 'urn:uuid:6d5322dd-a046-57e2-b527-0af737bf5b89'
+    link: 'https://pub.dartlang.org/packages/ice_code_editor'
+    author:
+        - 'Chris Strom'
+        - 'Santiago Arias'
+        - 'James Hurford'
+        - 'Srdjan Pejic'
