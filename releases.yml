@@ -989,3 +989,12 @@
     link: 'https://pub.dartlang.org/packages/purity_oauth2'
     author:
         - 'Daniel Robinson'
+-
+    package_name: purity
+    package_version: v0.19.1
+    title: 'v0.19.1 of purity'
+    published: '2014-11-23T00:00:13+00:00'
+    id: 'urn:uuid:8d478e83-2b43-5024-9e30-c241f46924bb'
+    link: 'https://pub.dartlang.org/packages/purity'
+    author:
+        - 'Daniel Robinson'
