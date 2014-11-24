@@ -1156,3 +1156,12 @@
     link: 'https://pub.dartlang.org/packages/plink'
     author:
         - 'Axel Christ'
+-
+    package_name: do2
+    package_version: v0.1.0
+    title: 'v0.1.0 of do2'
+    published: '2014-11-24T21:15:15+00:00'
+    id: 'urn:uuid:82e0b0fe-2e2a-5e09-a381-2591895417cd'
+    link: 'https://pub.dartlang.org/packages/do2'
+    author:
+        - Schnack
