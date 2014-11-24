@@ -1046,3 +1046,12 @@
     link: 'https://pub.dartlang.org/packages/dart_begin'
     author:
         - 'Shan Liang'
+-
+    package_name: import_resolver
+    package_version: v1.0.1
+    title: 'v1.0.1 of import_resolver'
+    published: '2014-11-24T09:00:15+00:00'
+    id: 'urn:uuid:ae47ecc1-5af3-52a1-ab55-60ed9c147840'
+    link: 'https://pub.dartlang.org/packages/import_resolver'
+    author:
+        - 'Zdenko Vrabel'
