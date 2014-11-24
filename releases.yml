@@ -1028,3 +1028,12 @@
     link: 'https://pub.dartlang.org/packages/googleapis_auth'
     author:
         - 'Dart Team'
+-
+    package_name: pop_pop_win
+    package_version: v1.0.0
+    title: 'v1.0.0 of pop_pop_win'
+    published: '2014-11-24T02:35:10+00:00'
+    id: 'urn:uuid:185e5599-0933-5e29-81f6-75dc33e33fa3'
+    link: 'https://pub.dartlang.org/packages/pop_pop_win'
+    author:
+        - 'Dart Team'
