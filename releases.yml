@@ -1138,3 +1138,12 @@
     author:
         - 'Corentin Pillet'
         - 'Samuel BERTHE'
+-
+    package_name: dtmark
+    package_version: v0.11.0
+    title: 'v0.11.0 of dtmark'
+    published: '2014-11-24T19:15:14+00:00'
+    id: 'urn:uuid:290bd716-07a7-5b40-af1f-7b1f432443bb'
+    link: 'https://pub.dartlang.org/packages/dtmark'
+    author:
+        - unknownloner
