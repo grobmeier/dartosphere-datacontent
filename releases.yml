@@ -1185,3 +1185,14 @@
         - 'Bootstrap core team'
         - 'Victor Berchet'
         - 'Seth Ladd'
+-
+    package_name: bootstrap_for_pub
+    package_version: v3.3.0+4
+    title: 'v3.3.0+4 of bootstrap_for_pub'
+    published: '2014-11-24T23:15:13+00:00'
+    id: 'urn:uuid:48f7c42c-d635-5539-8e71-2aef929c62f7'
+    link: 'https://pub.dartlang.org/packages/bootstrap_for_pub'
+    author:
+        - 'Bootstrap core team'
+        - 'Victor Berchet'
+        - 'Seth Ladd'
