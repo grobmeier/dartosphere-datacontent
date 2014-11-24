@@ -1055,3 +1055,12 @@
     link: 'https://pub.dartlang.org/packages/import_resolver'
     author:
         - 'Zdenko Vrabel'
+-
+    package_name: parsejs
+    package_version: v1.0.0
+    title: 'v1.0.0 of parsejs'
+    published: '2014-11-24T12:25:12+00:00'
+    id: 'urn:uuid:f24f3ed1-ff14-53fc-bbd7-5155a9c4505b'
+    link: 'https://pub.dartlang.org/packages/parsejs'
+    author:
+        - 'Asger Feldthaus'
