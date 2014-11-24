@@ -1165,3 +1165,12 @@
     link: 'https://pub.dartlang.org/packages/do2'
     author:
         - Schnack
+-
+    package_name: shelf
+    package_version: v0.5.6
+    title: 'v0.5.6 of shelf'
+    published: '2014-11-24T21:30:19+00:00'
+    id: 'urn:uuid:9c4aad73-ed54-5cc0-9046-5cae024e9ebc'
+    link: 'https://pub.dartlang.org/packages/shelf'
+    author:
+        - 'Dart Team'
