@@ -1091,3 +1091,12 @@
     link: 'https://pub.dartlang.org/packages/parsejs'
     author:
         - 'Asger Feldthaus'
+-
+    package_name: clean_sync
+    package_version: v0.8.4
+    title: 'v0.8.4 of clean_sync'
+    published: '2014-11-24T15:15:18+00:00'
+    id: 'urn:uuid:293ad2cd-08d4-5b70-8870-956c5faea427'
+    link: 'https://pub.dartlang.org/packages/clean_sync'
+    author:
+        - 'Clean Team'
