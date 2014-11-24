@@ -1073,3 +1073,12 @@
     link: 'https://pub.dartlang.org/packages/dom_scheduler'
     author:
         - 'Boris Kaul'
+-
+    package_name: clean_sync
+    package_version: v0.8.3
+    title: 'v0.8.3 of clean_sync'
+    published: '2014-11-24T15:00:20+00:00'
+    id: 'urn:uuid:20595695-8961-585c-af47-98d376c1cbcf'
+    link: 'https://pub.dartlang.org/packages/clean_sync'
+    author:
+        - 'Clean Team'
