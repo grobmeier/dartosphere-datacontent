@@ -1064,3 +1064,12 @@
     link: 'https://pub.dartlang.org/packages/parsejs'
     author:
         - 'Asger Feldthaus'
+-
+    package_name: dom_scheduler
+    package_version: v0.0.1
+    title: 'v0.0.1 of dom_scheduler'
+    published: '2014-11-24T13:35:14+00:00'
+    id: 'urn:uuid:7c0b0118-5f91-5542-84ff-18b08f993a29'
+    link: 'https://pub.dartlang.org/packages/dom_scheduler'
+    author:
+        - 'Boris Kaul'
