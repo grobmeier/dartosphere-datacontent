@@ -1037,3 +1037,12 @@
     link: 'https://pub.dartlang.org/packages/pop_pop_win'
     author:
         - 'Dart Team'
+-
+    package_name: dart_begin
+    package_version: v0.0.1
+    title: 'v0.0.1 of dart_begin'
+    published: '2014-11-24T03:10:11+00:00'
+    id: 'urn:uuid:c00c9c91-3bd7-5de9-93d8-d963d14bcfb7'
+    link: 'https://pub.dartlang.org/packages/dart_begin'
+    author:
+        - 'Shan Liang'
