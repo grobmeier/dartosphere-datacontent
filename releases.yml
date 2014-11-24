@@ -1100,3 +1100,12 @@
     link: 'https://pub.dartlang.org/packages/clean_sync'
     author:
         - 'Clean Team'
+-
+    package_name: parsejs
+    package_version: v1.0.2
+    title: 'v1.0.2 of parsejs'
+    published: '2014-11-24T16:45:17+00:00'
+    id: 'urn:uuid:db403c70-83b7-5f6a-9daa-9cadd9ffe331'
+    link: 'https://pub.dartlang.org/packages/parsejs'
+    author:
+        - 'Asger Feldthaus'
