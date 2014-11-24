@@ -1218,3 +1218,14 @@
         - 'Bootstrap core team'
         - 'Victor Berchet'
         - 'Seth Ladd'
+-
+    package_name: bootstrap
+    package_version: v3.3.0+4
+    title: 'v3.3.0+4 of bootstrap'
+    published: '2014-11-24T23:30:13+00:00'
+    id: 'urn:uuid:b53add69-ef7f-56e0-bff4-eb8ceafef54d'
+    link: 'https://pub.dartlang.org/packages/bootstrap'
+    author:
+        - 'Bootstrap core team'
+        - 'Victor Berchet'
+        - 'Seth Ladd'
