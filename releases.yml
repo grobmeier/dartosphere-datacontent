@@ -1128,3 +1128,13 @@
     author:
         - 'Samuel BERTHE'
         - 'Corentin PILLET'
+-
+    package_name: simple_dart_api
+    package_version: v0.1.0
+    title: 'v0.1.0 of simple_dart_api'
+    published: '2014-11-24T18:25:13+00:00'
+    id: 'urn:uuid:10b38224-a87b-59f2-a457-58b51e810ce6'
+    link: 'https://pub.dartlang.org/packages/simple_dart_api'
+    author:
+        - 'Corentin Pillet'
+        - 'Samuel BERTHE'
