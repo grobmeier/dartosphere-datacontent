@@ -1174,3 +1174,14 @@
     link: 'https://pub.dartlang.org/packages/shelf'
     author:
         - 'Dart Team'
+-
+    package_name: bootstrap
+    package_version: v3.3.0+2
+    title: 'v3.3.0+2 of bootstrap'
+    published: '2014-11-24T23:10:14+00:00'
+    id: 'urn:uuid:48124ef4-843b-52a9-a87c-6fd34d1924e7'
+    link: 'https://pub.dartlang.org/packages/bootstrap'
+    author:
+        - 'Bootstrap core team'
+        - 'Victor Berchet'
+        - 'Seth Ladd'
