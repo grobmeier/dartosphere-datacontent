@@ -1196,3 +1196,25 @@
         - 'Bootstrap core team'
         - 'Victor Berchet'
         - 'Seth Ladd'
+-
+    package_name: bootstrap
+    package_version: v3.3.0+3
+    title: 'v3.3.0+3 of bootstrap'
+    published: '2014-11-24T23:20:12+00:00'
+    id: 'urn:uuid:8f353853-d99c-5b9b-948b-e0a641a2d286'
+    link: 'https://pub.dartlang.org/packages/bootstrap'
+    author:
+        - 'Bootstrap core team'
+        - 'Victor Berchet'
+        - 'Seth Ladd'
+-
+    package_name: bootstrap_for_pub
+    package_version: v3.3.0+5
+    title: 'v3.3.0+5 of bootstrap_for_pub'
+    published: '2014-11-24T23:20:12+00:00'
+    id: 'urn:uuid:576d76bf-39ba-5d94-a364-20854d52d115'
+    link: 'https://pub.dartlang.org/packages/bootstrap_for_pub'
+    author:
+        - 'Bootstrap core team'
+        - 'Victor Berchet'
+        - 'Seth Ladd'
