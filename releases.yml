@@ -1019,3 +1019,12 @@
     link: 'https://pub.dartlang.org/packages/do2'
     author:
         - Schnack
+-
+    package_name: googleapis_auth
+    package_version: v0.2.2
+    title: 'v0.2.2 of googleapis_auth'
+    published: '2014-11-24T01:05:10+00:00'
+    id: 'urn:uuid:05fab698-6d33-5b12-8774-37b1558f708a'
+    link: 'https://pub.dartlang.org/packages/googleapis_auth'
+    author:
+        - 'Dart Team'
