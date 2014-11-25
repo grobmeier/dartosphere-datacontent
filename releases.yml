@@ -1238,3 +1238,12 @@
     link: 'https://pub.dartlang.org/packages/modular'
     author:
         - 'Will Squire'
+-
+    package_name: validator
+    package_version: v0.0.2
+    title: 'v0.0.2 of validator'
+    published: '2014-11-25T05:05:11+00:00'
+    id: 'urn:uuid:98cbcc86-5964-5c28-983d-a6726d4dd9bb'
+    link: 'https://pub.dartlang.org/packages/validator'
+    author:
+        - 'Karan Goel'
