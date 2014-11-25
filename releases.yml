@@ -1265,3 +1265,12 @@
     link: 'https://pub.dartlang.org/packages/stevenroose'
     author:
         - 'Steven Roose'
+-
+    package_name: stevenroose
+    package_version: v0.1.0+1
+    title: 'v0.1.0+1 of stevenroose'
+    published: '2014-11-25T20:55:12+00:00'
+    id: 'urn:uuid:4579b76b-5381-5264-a1b6-7f3d794ac3c3'
+    link: 'https://pub.dartlang.org/packages/stevenroose'
+    author:
+        - 'Steven Roose'
