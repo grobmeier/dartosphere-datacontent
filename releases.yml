@@ -1292,3 +1292,12 @@
     link: 'https://pub.dartlang.org/packages/force'
     author:
         - 'Joris Hermans'
+-
+    package_name: numerical_collection
+    package_version: v0.1.0
+    title: 'v0.1.0 of numerical_collection'
+    published: '2014-11-25T22:40:15+00:00'
+    id: 'urn:uuid:01533682-c6df-5c64-a538-40eb79afc947'
+    link: 'https://pub.dartlang.org/packages/numerical_collection'
+    author:
+        - 'Graciliano Monteiro Passos'
