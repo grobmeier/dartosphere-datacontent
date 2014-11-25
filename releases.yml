@@ -1229,3 +1229,12 @@
         - 'Bootstrap core team'
         - 'Victor Berchet'
         - 'Seth Ladd'
+-
+    package_name: modular
+    package_version: v0.0.1
+    title: 'v0.0.1 of modular'
+    published: '2014-11-25T00:00:16+00:00'
+    id: 'urn:uuid:fcdddbfd-dba8-51ff-8f62-7d352dc2703f'
+    link: 'https://pub.dartlang.org/packages/modular'
+    author:
+        - 'Will Squire'
