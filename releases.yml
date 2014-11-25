@@ -1274,3 +1274,12 @@
     link: 'https://pub.dartlang.org/packages/stevenroose'
     author:
         - 'Steven Roose'
+-
+    package_name: forcemvc
+    package_version: v0.5.9
+    title: 'v0.5.9 of forcemvc'
+    published: '2014-11-25T21:05:14+00:00'
+    id: 'urn:uuid:4cb7831a-270c-534c-84ba-f5b9cfb9dc5e'
+    link: 'https://pub.dartlang.org/packages/forcemvc'
+    author:
+        - 'Joris Hermans'
