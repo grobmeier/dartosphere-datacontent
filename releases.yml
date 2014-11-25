@@ -1256,3 +1256,12 @@
     link: 'https://pub.dartlang.org/packages/dialog'
     author:
         - 'Pavel Dvořák'
+-
+    package_name: stevenroose
+    package_version: v0.1.0
+    title: 'v0.1.0 of stevenroose'
+    published: '2014-11-25T18:10:21+00:00'
+    id: 'urn:uuid:f780a377-e2c6-5b58-a475-b262a4715a69'
+    link: 'https://pub.dartlang.org/packages/stevenroose'
+    author:
+        - 'Steven Roose'
