@@ -1310,3 +1310,12 @@
     link: 'https://pub.dartlang.org/packages/numerical_collection'
     author:
         - 'Graciliano Monteiro Passos'
+-
+    package_name: numerical_collection
+    package_version: v0.1.2
+    title: 'v0.1.2 of numerical_collection'
+    published: '2014-11-26T01:05:13+00:00'
+    id: 'urn:uuid:9cf71df6-d4d1-5618-a458-8c822e3bba31'
+    link: 'https://pub.dartlang.org/packages/numerical_collection'
+    author:
+        - 'Graciliano Monteiro Passos'
