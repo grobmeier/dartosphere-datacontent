@@ -1337,3 +1337,12 @@
     link: 'https://pub.dartlang.org/packages/json_mapper'
     author:
         - 'Ajithan Ravindiran'
+-
+    package_name: trotter
+    package_version: v0.5.2
+    title: 'v0.5.2 of trotter'
+    published: '2014-11-26T03:30:14+00:00'
+    id: 'urn:uuid:9db30dc9-c654-5a21-b623-1a67f8686acd'
+    link: 'https://pub.dartlang.org/packages/trotter'
+    author:
+        - 'Richard Ambler'
