@@ -1328,3 +1328,12 @@
     link: 'https://pub.dartlang.org/packages/xcharts'
     author:
         - 'Graciliano Monteiro Passos'
+-
+    package_name: json_mapper
+    package_version: v0.2.0
+    title: 'v0.2.0 of json_mapper'
+    published: '2014-11-26T01:20:13+00:00'
+    id: 'urn:uuid:0ba711ef-0b46-5492-a101-93328368000c'
+    link: 'https://pub.dartlang.org/packages/json_mapper'
+    author:
+        - 'Ajithan Ravindiran'
