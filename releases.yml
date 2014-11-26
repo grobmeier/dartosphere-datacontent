@@ -1436,3 +1436,12 @@
     link: 'https://pub.dartlang.org/packages/ms'
     author:
         - 'Karan Goel'
+-
+    package_name: tapo_calendar
+    package_version: v0.0.4+4
+    title: 'v0.0.4+4 of tapo_calendar'
+    published: '2014-11-26T21:05:14+00:00'
+    id: 'urn:uuid:6fcc45b9-5426-540b-83a2-9e9e43e498d2'
+    link: 'https://pub.dartlang.org/packages/tapo_calendar'
+    author:
+        - 'Herbert Poul'
