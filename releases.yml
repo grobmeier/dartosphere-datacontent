@@ -1319,3 +1319,12 @@
     link: 'https://pub.dartlang.org/packages/numerical_collection'
     author:
         - 'Graciliano Monteiro Passos'
+-
+    package_name: xcharts
+    package_version: v0.1.6
+    title: 'v0.1.6 of xcharts'
+    published: '2014-11-26T01:15:15+00:00'
+    id: 'urn:uuid:f3d0597f-0fec-5d1d-a988-cec8e5d09940'
+    link: 'https://pub.dartlang.org/packages/xcharts'
+    author:
+        - 'Graciliano Monteiro Passos'
