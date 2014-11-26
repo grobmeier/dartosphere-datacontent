@@ -1463,3 +1463,12 @@
     link: 'https://pub.dartlang.org/packages/prompt'
     author:
         - 'Sean Eagan'
+-
+    package_name: modular
+    package_version: v0.0.2
+    title: 'v0.0.2 of modular'
+    published: '2014-11-26T22:55:11+00:00'
+    id: 'urn:uuid:43a55047-1731-521e-9844-75ff90e6f653'
+    link: 'https://pub.dartlang.org/packages/modular'
+    author:
+        - 'Will Squire'
