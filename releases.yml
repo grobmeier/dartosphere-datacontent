@@ -1472,3 +1472,12 @@
     link: 'https://pub.dartlang.org/packages/modular'
     author:
         - 'Will Squire'
+-
+    package_name: clean_sync
+    package_version: v0.8.5
+    title: 'v0.8.5 of clean_sync'
+    published: '2014-11-27T10:40:19+00:00'
+    id: 'urn:uuid:dc5d76c1-c305-5af5-8acd-a394c3e45a29'
+    link: 'https://pub.dartlang.org/packages/clean_sync'
+    author:
+        - 'Clean Team'
