@@ -1481,3 +1481,12 @@
     link: 'https://pub.dartlang.org/packages/clean_sync'
     author:
         - 'Clean Team'
+-
+    package_name: leap_motion
+    package_version: v2.2.0
+    title: 'v2.2.0 of leap_motion'
+    published: '2014-11-27T13:55:15+00:00'
+    id: 'urn:uuid:36bbb9d1-d233-51f6-9f2e-67805a8b0ab0'
+    link: 'https://pub.dartlang.org/packages/leap_motion'
+    author:
+        - 'Victor Norgren'
