@@ -1499,3 +1499,12 @@
     link: 'https://pub.dartlang.org/packages/vkapi'
     author:
         - 'Alexey Salnikov'
+-
+    package_name: xcharts
+    package_version: v0.1.7
+    title: 'v0.1.7 of xcharts'
+    published: '2014-11-27T16:20:29+00:00'
+    id: 'urn:uuid:967cb498-8dfc-5cf3-b296-5246edf202ac'
+    link: 'https://pub.dartlang.org/packages/xcharts'
+    author:
+        - 'Graciliano Monteiro Passos'
