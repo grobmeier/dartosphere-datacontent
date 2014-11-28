@@ -1625,3 +1625,12 @@
     link: 'https://pub.dartlang.org/packages/viltage'
     author:
         - ViliX64
+-
+    package_name: vdom
+    package_version: v0.6.0
+    title: 'v0.6.0 of vdom'
+    published: '2014-11-28T16:35:13+00:00'
+    id: 'urn:uuid:59fa1b8b-bf84-56a4-935c-2fbcaa761878'
+    link: 'https://pub.dartlang.org/packages/vdom'
+    author:
+        - 'Boris Kaul'
