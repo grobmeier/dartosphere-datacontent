@@ -1508,3 +1508,12 @@
     link: 'https://pub.dartlang.org/packages/xcharts'
     author:
         - 'Graciliano Monteiro Passos'
+-
+    package_name: codemirror
+    package_version: v0.0.9+4.8.0
+    title: 'v0.0.9+4.8.0 of codemirror'
+    published: '2014-11-28T07:15:13+00:00'
+    id: 'urn:uuid:3cb19a43-7051-50a9-9482-79512fec9a77'
+    link: 'https://pub.dartlang.org/packages/codemirror'
+    author:
+        - 'Devon Carew'
