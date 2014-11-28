@@ -1535,3 +1535,12 @@
     link: 'https://pub.dartlang.org/packages/gcloud'
     author:
         - 'Dart Team'
+-
+    package_name: pixi_dart
+    package_version: v0.2.0+3
+    title: 'v0.2.0+3 of pixi_dart'
+    published: '2014-11-28T13:55:13+00:00'
+    id: 'urn:uuid:aa125f66-38d4-53dc-8450-3aa59694205f'
+    link: 'https://pub.dartlang.org/packages/pixi_dart'
+    author:
+        - 'Federico Omoto'
