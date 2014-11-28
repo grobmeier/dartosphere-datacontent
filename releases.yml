@@ -1517,3 +1517,12 @@
     link: 'https://pub.dartlang.org/packages/codemirror'
     author:
         - 'Devon Carew'
+-
+    package_name: vkapi
+    package_version: v0.0.2
+    title: 'v0.0.2 of vkapi'
+    published: '2014-11-28T12:20:23+00:00'
+    id: 'urn:uuid:a048212a-f297-50f0-b658-8c0f3cc0fb9b'
+    link: 'https://pub.dartlang.org/packages/vkapi'
+    author:
+        - 'Alexey Salnikov'
