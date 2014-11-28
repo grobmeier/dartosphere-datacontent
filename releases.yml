@@ -1571,3 +1571,12 @@
     link: 'https://pub.dartlang.org/packages/appengine'
     author:
         - 'Dart Team'
+-
+    package_name: viltage
+    package_version: v0.3.2+2
+    title: 'v0.3.2+2 of viltage'
+    published: '2014-11-28T14:35:13+00:00'
+    id: 'urn:uuid:82401c44-652f-51f6-82b4-d0c1086fec7c'
+    link: 'https://pub.dartlang.org/packages/viltage'
+    author:
+        - ViliX64
