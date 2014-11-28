@@ -1526,3 +1526,12 @@
     link: 'https://pub.dartlang.org/packages/vkapi'
     author:
         - 'Alexey Salnikov'
+-
+    package_name: gcloud
+    package_version: v0.1.2
+    title: 'v0.1.2 of gcloud'
+    published: '2014-11-28T13:50:14+00:00'
+    id: 'urn:uuid:ac4c2e9b-ca95-59af-8358-b5a9e5b6da85'
+    link: 'https://pub.dartlang.org/packages/gcloud'
+    author:
+        - 'Dart Team'
