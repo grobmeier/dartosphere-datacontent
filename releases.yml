@@ -1661,3 +1661,12 @@
     link: 'https://pub.dartlang.org/packages/metrics'
     author:
         - 'Alexandre Ardhuin'
+-
+    package_name: modular
+    package_version: v0.0.3
+    title: 'v0.0.3 of modular'
+    published: '2014-11-28T22:15:14+00:00'
+    id: 'urn:uuid:16f71fcb-b5b6-59ab-822c-1010f88aaed4'
+    link: 'https://pub.dartlang.org/packages/modular'
+    author:
+        - 'Will Squire'
