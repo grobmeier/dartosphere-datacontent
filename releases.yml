@@ -1562,3 +1562,12 @@
     link: 'https://pub.dartlang.org/packages/pixi_examples'
     author:
         - 'Federico Omoto'
+-
+    package_name: appengine
+    package_version: v0.2.4
+    title: 'v0.2.4 of appengine'
+    published: '2014-11-28T14:25:18+00:00'
+    id: 'urn:uuid:7c8028fc-c9a0-540a-9c7b-1bc1b0cad40e'
+    link: 'https://pub.dartlang.org/packages/appengine'
+    author:
+        - 'Dart Team'
