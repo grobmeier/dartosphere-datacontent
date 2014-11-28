@@ -1679,3 +1679,12 @@
     link: 'https://pub.dartlang.org/packages/console'
     author:
         - 'Kenneth Endfinger'
+-
+    package_name: laser
+    package_version: v0.0.5
+    title: 'v0.0.5 of laser'
+    published: '2014-11-28T22:40:18+00:00'
+    id: 'urn:uuid:9dde1249-725a-5733-8135-ef37cb08caf6'
+    link: 'https://pub.dartlang.org/packages/laser'
+    author:
+        - 'Lex Berezhny'
