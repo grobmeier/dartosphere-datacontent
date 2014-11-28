@@ -1652,3 +1652,12 @@
     link: 'https://pub.dartlang.org/packages/viltage'
     author:
         - ViliX64
+-
+    package_name: metrics
+    package_version: v0.0.1
+    title: 'v0.0.1 of metrics'
+    published: '2014-11-28T21:05:09+00:00'
+    id: 'urn:uuid:4f941ebc-46ac-5f70-bf0d-e385f712022b'
+    link: 'https://pub.dartlang.org/packages/metrics'
+    author:
+        - 'Alexandre Ardhuin'
