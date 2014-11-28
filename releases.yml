@@ -1688,3 +1688,12 @@
     link: 'https://pub.dartlang.org/packages/laser'
     author:
         - 'Lex Berezhny'
+-
+    package_name: modular
+    package_version: v0.0.31
+    title: 'v0.0.31 of modular'
+    published: '2014-11-28T23:15:15+00:00'
+    id: 'urn:uuid:ea8e6b33-bc4d-5917-aada-01e814ae08c1'
+    link: 'https://pub.dartlang.org/packages/modular'
+    author:
+        - 'Will Squire'
