@@ -1742,3 +1742,12 @@
     link: 'https://pub.dartlang.org/packages/match3'
     author:
         - 'bruce davidson'
+-
+    package_name: validator
+    package_version: v0.0.5
+    title: 'v0.0.5 of validator'
+    published: '2014-11-29T05:05:15+00:00'
+    id: 'urn:uuid:612971cb-7760-59b8-9149-8ec5c96af083'
+    link: 'https://pub.dartlang.org/packages/validator'
+    author:
+        - 'Karan Goel'
