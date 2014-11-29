@@ -1715,3 +1715,12 @@
     link: 'https://pub.dartlang.org/packages/validator'
     author:
         - 'Karan Goel'
+-
+    package_name: vdom
+    package_version: v0.6.1
+    title: 'v0.6.1 of vdom'
+    published: '2014-11-29T03:45:11+00:00'
+    id: 'urn:uuid:5b86fe0a-34f2-5286-91c1-3076492aa441'
+    link: 'https://pub.dartlang.org/packages/vdom'
+    author:
+        - 'Boris Kaul'
