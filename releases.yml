@@ -1814,3 +1814,12 @@
     link: 'https://pub.dartlang.org/packages/more'
     author:
         - 'Lukas Renggli'
+-
+    package_name: forcemvc
+    package_version: v0.5.9+1
+    title: 'v0.5.9+1 of forcemvc'
+    published: '2014-11-29T13:55:11+00:00'
+    id: 'urn:uuid:5789a67b-bba4-51af-8ea3-4516c09c91e2'
+    link: 'https://pub.dartlang.org/packages/forcemvc'
+    author:
+        - 'Joris Hermans'
