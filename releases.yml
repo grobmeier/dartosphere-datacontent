@@ -1769,3 +1769,21 @@
     link: 'https://pub.dartlang.org/packages/stagexl'
     author:
         - 'Bernhard Pichler'
+-
+    package_name: stagexl_particle
+    package_version: v0.3.4
+    title: 'v0.3.4 of stagexl_particle'
+    published: '2014-11-29T07:40:17+00:00'
+    id: 'urn:uuid:b0b916a1-4eed-56b9-8372-88a975498ca2'
+    link: 'https://pub.dartlang.org/packages/stagexl_particle'
+    author:
+        - 'Bernhard Pichler'
+-
+    package_name: stagexl_spine
+    package_version: v0.3.0
+    title: 'v0.3.0 of stagexl_spine'
+    published: '2014-11-29T07:40:17+00:00'
+    id: 'urn:uuid:5bb21830-6617-5062-8f95-5bf3ae318f7f'
+    link: 'https://pub.dartlang.org/packages/stagexl_spine'
+    author:
+        - 'Bernhard Pichler'
