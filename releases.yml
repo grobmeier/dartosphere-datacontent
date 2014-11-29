@@ -1860,3 +1860,12 @@
     link: 'https://pub.dartlang.org/packages/redis'
     author:
         - 'Luka Rahne'
+-
+    package_name: redis
+    package_version: v0.3.3
+    title: 'v0.3.3 of redis'
+    published: '2014-11-29T21:00:12+00:00'
+    id: 'urn:uuid:7e985314-b280-51c7-a854-45ed02cab3c5'
+    link: 'https://pub.dartlang.org/packages/redis'
+    author:
+        - 'Luka Rahne'
