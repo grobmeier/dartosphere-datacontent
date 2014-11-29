@@ -1832,3 +1832,12 @@
     link: 'https://pub.dartlang.org/packages/vkapi'
     author:
         - 'Alexey Salnikov'
+-
+    package_name: viltage
+    package_version: v0.3.2+11
+    title: 'v0.3.2+11 of viltage'
+    published: '2014-11-29T17:15:10+00:00'
+    id: 'urn:uuid:1bb92f5f-ba8b-5ca5-88a5-a475bd70aa58'
+    link: 'https://pub.dartlang.org/packages/viltage'
+    author:
+        - ViliX64
