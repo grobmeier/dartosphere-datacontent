@@ -1760,3 +1760,12 @@
     link: 'https://pub.dartlang.org/packages/vdom'
     author:
         - 'Boris Kaul'
+-
+    package_name: stagexl
+    package_version: v0.10.2
+    title: 'v0.10.2 of stagexl'
+    published: '2014-11-29T07:35:11+00:00'
+    id: 'urn:uuid:5cb16936-0c79-58cc-8cd6-2d68124c79e9'
+    link: 'https://pub.dartlang.org/packages/stagexl'
+    author:
+        - 'Bernhard Pichler'
