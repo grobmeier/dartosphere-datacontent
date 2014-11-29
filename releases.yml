@@ -1869,3 +1869,13 @@
     link: 'https://pub.dartlang.org/packages/redis'
     author:
         - 'Luka Rahne'
+-
+    package_name: simple_dart_api
+    package_version: v0.1.2
+    title: 'v0.1.2 of simple_dart_api'
+    published: '2014-11-29T21:45:10+00:00'
+    id: 'urn:uuid:049a31a0-6a38-55dc-9699-5198c7029f87'
+    link: 'https://pub.dartlang.org/packages/simple_dart_api'
+    author:
+        - 'Corentin Pillet'
+        - 'Samuel BERTHE'
