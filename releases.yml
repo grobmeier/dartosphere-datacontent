@@ -1805,3 +1805,12 @@
     link: 'https://pub.dartlang.org/packages/xml'
     author:
         - 'Lukas Renggli'
+-
+    package_name: more
+    package_version: v1.3.3
+    title: 'v1.3.3 of more'
+    published: '2014-11-29T09:30:14+00:00'
+    id: 'urn:uuid:8d423246-becb-516b-b738-5a5306ae6339'
+    link: 'https://pub.dartlang.org/packages/more'
+    author:
+        - 'Lukas Renggli'
