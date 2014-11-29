@@ -1787,3 +1787,12 @@
     link: 'https://pub.dartlang.org/packages/stagexl_spine'
     author:
         - 'Bernhard Pichler'
+-
+    package_name: petitparser
+    package_version: v1.3.1
+    title: 'v1.3.1 of petitparser'
+    published: '2014-11-29T08:15:11+00:00'
+    id: 'urn:uuid:a8cdffd6-dd6d-578d-87e1-80825fc21871'
+    link: 'https://pub.dartlang.org/packages/petitparser'
+    author:
+        - 'Lukas Renggli'
