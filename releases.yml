@@ -1823,3 +1823,12 @@
     link: 'https://pub.dartlang.org/packages/forcemvc'
     author:
         - 'Joris Hermans'
+-
+    package_name: vkapi
+    package_version: v0.0.3
+    title: 'v0.0.3 of vkapi'
+    published: '2014-11-29T16:40:16+00:00'
+    id: 'urn:uuid:a1439ec3-5a52-5fb8-b63c-8dbab129b326'
+    link: 'https://pub.dartlang.org/packages/vkapi'
+    author:
+        - 'Alexey Salnikov'
