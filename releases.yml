@@ -1706,3 +1706,12 @@
     link: 'https://pub.dartlang.org/packages/validator'
     author:
         - 'Karan Goel'
+-
+    package_name: validator
+    package_version: v0.0.4
+    title: 'v0.0.4 of validator'
+    published: '2014-11-29T03:35:09+00:00'
+    id: 'urn:uuid:dfe08cb4-8157-5898-98ce-23c809fc50b7'
+    link: 'https://pub.dartlang.org/packages/validator'
+    author:
+        - 'Karan Goel'
