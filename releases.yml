@@ -1796,3 +1796,12 @@
     link: 'https://pub.dartlang.org/packages/petitparser'
     author:
         - 'Lukas Renggli'
+-
+    package_name: xml
+    package_version: v2.2.0
+    title: 'v2.2.0 of xml'
+    published: '2014-11-29T08:30:11+00:00'
+    id: 'urn:uuid:74da9eae-095c-549e-b3ac-cb5a7e3b7c42'
+    link: 'https://pub.dartlang.org/packages/xml'
+    author:
+        - 'Lukas Renggli'
