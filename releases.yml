@@ -1851,3 +1851,12 @@
     author:
         - 'Corentin Pillet'
         - 'Samuel BERTHE'
+-
+    package_name: redis
+    package_version: v0.3.2
+    title: 'v0.3.2 of redis'
+    published: '2014-11-29T20:40:10+00:00'
+    id: 'urn:uuid:ff4bdaa1-1ffc-569f-9799-4494f6be6aa2'
+    link: 'https://pub.dartlang.org/packages/redis'
+    author:
+        - 'Luka Rahne'
