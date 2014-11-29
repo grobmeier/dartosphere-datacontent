@@ -1724,3 +1724,12 @@
     link: 'https://pub.dartlang.org/packages/vdom'
     author:
         - 'Boris Kaul'
+-
+    package_name: dilithium
+    package_version: v0.2.3
+    title: 'v0.2.3 of dilithium'
+    published: '2014-11-29T04:50:11+00:00'
+    id: 'urn:uuid:453df74d-3bb5-5f97-a847-19ba93f5e8e6'
+    link: 'https://pub.dartlang.org/packages/dilithium'
+    author:
+        - brucedavidson
