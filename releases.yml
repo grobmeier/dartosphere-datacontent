@@ -1733,3 +1733,12 @@
     link: 'https://pub.dartlang.org/packages/dilithium'
     author:
         - brucedavidson
+-
+    package_name: match3
+    package_version: v0.0.7
+    title: 'v0.0.7 of match3'
+    published: '2014-11-29T04:55:09+00:00'
+    id: 'urn:uuid:9ce8bfc0-af1a-5cd1-a8a9-8daabbfc75de'
+    link: 'https://pub.dartlang.org/packages/match3'
+    author:
+        - 'bruce davidson'
