@@ -1841,3 +1841,13 @@
     link: 'https://pub.dartlang.org/packages/viltage'
     author:
         - ViliX64
+-
+    package_name: simple_dart_api
+    package_version: v0.1.1
+    title: 'v0.1.1 of simple_dart_api'
+    published: '2014-11-29T18:10:12+00:00'
+    id: 'urn:uuid:f9853c25-20c0-58b8-aa66-a62ead71b504'
+    link: 'https://pub.dartlang.org/packages/simple_dart_api'
+    author:
+        - 'Corentin Pillet'
+        - 'Samuel BERTHE'
