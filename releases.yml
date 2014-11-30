@@ -1942,3 +1942,12 @@
     link: 'https://pub.dartlang.org/packages/viltage'
     author:
         - ViliX64
+-
+    package_name: inqlik_cli
+    package_version: v1.2.1
+    title: 'v1.2.1 of inqlik_cli'
+    published: '2014-11-30T16:10:10+00:00'
+    id: 'urn:uuid:697a8183-39e4-542f-9d6e-756e495fb178'
+    link: 'https://pub.dartlang.org/packages/inqlik_cli'
+    author:
+        - 'Vadim Tsushko'
