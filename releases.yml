@@ -2005,3 +2005,12 @@
     link: 'https://pub.dartlang.org/packages/viltage'
     author:
         - ViliX64
+-
+    package_name: viltage
+    package_version: v0.3.2+25
+    title: 'v0.3.2+25 of viltage'
+    published: '2014-11-30T20:20:12+00:00'
+    id: 'urn:uuid:90eaf03a-d772-5d2f-aa6c-420bd1320388'
+    link: 'https://pub.dartlang.org/packages/viltage'
+    author:
+        - ViliX64
