@@ -1978,3 +1978,12 @@
     link: 'https://pub.dartlang.org/packages/viltage'
     author:
         - ViliX64
+-
+    package_name: viltage
+    package_version: v0.3.2+20
+    title: 'v0.3.2+20 of viltage'
+    published: '2014-11-30T19:10:12+00:00'
+    id: 'urn:uuid:1a051506-eff3-5548-b0d1-f44a12f20f38'
+    link: 'https://pub.dartlang.org/packages/viltage'
+    author:
+        - ViliX64
