@@ -1951,3 +1951,12 @@
     link: 'https://pub.dartlang.org/packages/inqlik_cli'
     author:
         - 'Vadim Tsushko'
+-
+    package_name: chessboard
+    package_version: v0.1.1
+    title: 'v0.1.1 of chessboard'
+    published: '2014-11-30T16:30:12+00:00'
+    id: 'urn:uuid:d796b9a1-ce1a-5006-aa37-8e4e867fbd15'
+    link: 'https://pub.dartlang.org/packages/chessboard'
+    author:
+        - 'Anders Forsell'
