@@ -1897,3 +1897,12 @@
     link: 'https://pub.dartlang.org/packages/language'
     author:
         - 'Karan Goel'
+-
+    package_name: forcemvc
+    package_version: v0.5.10
+    title: 'v0.5.10 of forcemvc'
+    published: '2014-11-30T08:55:09+00:00'
+    id: 'urn:uuid:e825dcf3-e443-54e1-8543-c3c04a84816d'
+    link: 'https://pub.dartlang.org/packages/forcemvc'
+    author:
+        - 'Joris Hermans'
