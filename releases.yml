@@ -1924,3 +1924,12 @@
     link: 'https://pub.dartlang.org/packages/dialog'
     author:
         - 'Pavel Dvořák'
+-
+    package_name: viltage
+    package_version: v0.3.2+12
+    title: 'v0.3.2+12 of viltage'
+    published: '2014-11-30T13:40:18+00:00'
+    id: 'urn:uuid:980930e9-ae18-5f13-9855-4bd7423f4099'
+    link: 'https://pub.dartlang.org/packages/viltage'
+    author:
+        - ViliX64
