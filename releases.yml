@@ -2041,3 +2041,12 @@
     link: 'https://pub.dartlang.org/packages/viltage'
     author:
         - ViliX64
+-
+    package_name: viltage
+    package_version: v0.3.2+53
+    title: 'v0.3.2+53 of viltage'
+    published: '2014-11-30T22:20:11+00:00'
+    id: 'urn:uuid:6e1161ac-76ec-51f7-b189-4f3007556322'
+    link: 'https://pub.dartlang.org/packages/viltage'
+    author:
+        - ViliX64
