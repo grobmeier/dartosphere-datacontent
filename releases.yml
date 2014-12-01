@@ -2221,3 +2221,12 @@
     link: 'https://pub.dartlang.org/packages/validator'
     author:
         - 'Karan Goel'
+-
+    package_name: clean_sync
+    package_version: v0.8.6
+    title: 'v0.8.6 of clean_sync'
+    published: '2014-12-01T18:20:18+00:00'
+    id: 'urn:uuid:960d8ed9-3005-520e-a147-319f08222120'
+    link: 'https://pub.dartlang.org/packages/clean_sync'
+    author:
+        - 'Clean Team'
