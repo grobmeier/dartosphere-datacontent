@@ -2275,3 +2275,12 @@
     link: 'https://pub.dartlang.org/packages/minimal_serialization'
     author:
         - 'Dart Team'
+-
+    package_name: minimal_serialization_example
+    package_version: v0.1.1
+    title: 'v0.1.1 of minimal_serialization_example'
+    published: '2014-12-01T20:55:23+00:00'
+    id: 'urn:uuid:a49213b1-090d-5141-ae38-cbe8c67273d9'
+    link: 'https://pub.dartlang.org/packages/minimal_serialization_example'
+    author:
+        - 'Dart Team'
