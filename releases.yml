@@ -2203,3 +2203,12 @@
     link: 'https://pub.dartlang.org/packages/slickdart'
     author:
         - CJKAO
+-
+    package_name: clean_backend
+    package_version: v0.5.6
+    title: 'v0.5.6 of clean_backend'
+    published: '2014-12-01T17:40:15+00:00'
+    id: 'urn:uuid:e37c14b9-7a2f-50e5-b107-be9249d301f5'
+    link: 'https://pub.dartlang.org/packages/clean_backend'
+    author:
+        - 'Clean Team'
