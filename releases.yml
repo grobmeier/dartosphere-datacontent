@@ -2212,3 +2212,12 @@
     link: 'https://pub.dartlang.org/packages/clean_backend'
     author:
         - 'Clean Team'
+-
+    package_name: validator
+    package_version: v0.0.6
+    title: 'v0.0.6 of validator'
+    published: '2014-12-01T18:15:16+00:00'
+    id: 'urn:uuid:89b8f16a-4413-5ae0-8b8b-55e481a6e821'
+    link: 'https://pub.dartlang.org/packages/validator'
+    author:
+        - 'Karan Goel'
