@@ -2158,3 +2158,12 @@
     link: 'https://pub.dartlang.org/packages/modern_charts'
     author:
         - 'Man Hoang'
+-
+    package_name: dtmark
+    package_version: v0.11.1
+    title: 'v0.11.1 of dtmark'
+    published: '2014-12-01T13:55:12+00:00'
+    id: 'urn:uuid:5ca9b763-05bf-5aac-b8e8-292be1e418eb'
+    link: 'https://pub.dartlang.org/packages/dtmark'
+    author:
+        - unknownloner
