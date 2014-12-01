@@ -2266,3 +2266,12 @@
     link: 'https://pub.dartlang.org/packages/enums'
     author:
         - 'Steven Roose'
+-
+    package_name: minimal_serialization
+    package_version: v0.2.0
+    title: 'v0.2.0 of minimal_serialization'
+    published: '2014-12-01T20:50:22+00:00'
+    id: 'urn:uuid:05917c16-f7da-5e35-812c-5656c40f7579'
+    link: 'https://pub.dartlang.org/packages/minimal_serialization'
+    author:
+        - 'Dart Team'
