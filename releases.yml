@@ -2068,3 +2068,21 @@
     link: 'https://pub.dartlang.org/packages/dilithium'
     author:
         - brucedavidson
+-
+    package_name: transmission_rcp
+    package_version: v0.0.1
+    title: 'v0.0.1 of transmission_rcp'
+    published: '2014-12-01T02:05:09+00:00'
+    id: 'urn:uuid:dbe977df-1a68-5389-9ccf-5b068602cfa4'
+    link: 'https://pub.dartlang.org/packages/transmission_rcp'
+    author:
+        - 'Alvaro Arcas Garcia'
+-
+    package_name: Transmission_RPC
+    package_version: v0.0.1
+    title: 'v0.0.1 of Transmission_RPC'
+    published: '2014-12-01T02:05:09+00:00'
+    id: 'urn:uuid:4ee4e957-c972-5941-91ad-152f75557c5b'
+    link: 'https://pub.dartlang.org/packages/Transmission_RPC'
+    author:
+        - 'Alvaro Arcas Garcia'
