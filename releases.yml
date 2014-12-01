@@ -2059,3 +2059,12 @@
     link: 'https://pub.dartlang.org/packages/google_oauth_authenticator'
     author:
         - pjv
+-
+    package_name: dilithium
+    package_version: v0.2.4
+    title: 'v0.2.4 of dilithium'
+    published: '2014-12-01T00:35:09+00:00'
+    id: 'urn:uuid:d965b4ab-0966-5e0f-9560-ed18ba1f5e47'
+    link: 'https://pub.dartlang.org/packages/dilithium'
+    author:
+        - brucedavidson
