@@ -2104,3 +2104,12 @@
     link: 'https://pub.dartlang.org/packages/do2'
     author:
         - 'Mikhail Stolyarov'
+-
+    package_name: tap_completer
+    package_version: v0.0.1
+    title: 'v0.0.1 of tap_completer'
+    published: '2014-12-01T10:15:14+00:00'
+    id: 'urn:uuid:342ff041-709f-52af-9cd2-70a497864071'
+    link: 'https://pub.dartlang.org/packages/tap_completer'
+    author:
+        - 'James Hurford'
