@@ -2284,3 +2284,12 @@
     link: 'https://pub.dartlang.org/packages/minimal_serialization_example'
     author:
         - 'Dart Team'
+-
+    package_name: redis
+    package_version: v0.4.0
+    title: 'v0.4.0 of redis'
+    published: '2014-12-01T22:00:45+00:00'
+    id: 'urn:uuid:25c24971-b6e3-52c4-b8c8-0f0e34ecb5c0'
+    link: 'https://pub.dartlang.org/packages/redis'
+    author:
+        - 'Luka Rahne'
