@@ -2140,3 +2140,12 @@
     link: 'https://pub.dartlang.org/packages/do2'
     author:
         - 'Mikhail Stolyarov'
+-
+    package_name: transmission_rcp
+    package_version: v0.0.2
+    title: 'v0.0.2 of transmission_rcp'
+    published: '2014-12-01T12:15:20+00:00'
+    id: 'urn:uuid:5a889239-170e-530c-b5fe-a92e66a74c18'
+    link: 'https://pub.dartlang.org/packages/transmission_rcp'
+    author:
+        - 'Alvaro Arcas Garcia'
