@@ -2122,3 +2122,12 @@
     link: 'https://pub.dartlang.org/packages/do2'
     author:
         - 'Mikhail Stolyarov'
+-
+    package_name: do2
+    package_version: v0.1.4
+    title: 'v0.1.4 of do2'
+    published: '2014-12-01T10:45:14+00:00'
+    id: 'urn:uuid:a4e561dc-1143-5966-bd42-09d6f79bf207'
+    link: 'https://pub.dartlang.org/packages/do2'
+    author:
+        - 'Mikhail Stolyarov'
