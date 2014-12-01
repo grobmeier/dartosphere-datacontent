@@ -2113,3 +2113,12 @@
     link: 'https://pub.dartlang.org/packages/tap_completer'
     author:
         - 'James Hurford'
+-
+    package_name: do2
+    package_version: v0.1.3
+    title: 'v0.1.3 of do2'
+    published: '2014-12-01T10:40:15+00:00'
+    id: 'urn:uuid:ecfa21ac-3393-5faa-bb62-79ef288b1d28'
+    link: 'https://pub.dartlang.org/packages/do2'
+    author:
+        - 'Mikhail Stolyarov'
