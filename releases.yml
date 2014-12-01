@@ -2185,3 +2185,12 @@
     link: 'https://pub.dartlang.org/packages/googleapis'
     author:
         - 'Dart Team'
+-
+    package_name: viltage
+    package_version: v0.3.2+54
+    title: 'v0.3.2+54 of viltage'
+    published: '2014-12-01T15:25:17+00:00'
+    id: 'urn:uuid:e58b4366-76b3-53e9-a300-aa5c650634f7'
+    link: 'https://pub.dartlang.org/packages/viltage'
+    author:
+        - ViliX64
