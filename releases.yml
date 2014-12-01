@@ -2149,3 +2149,12 @@
     link: 'https://pub.dartlang.org/packages/transmission_rcp'
     author:
         - 'Alvaro Arcas Garcia'
+-
+    package_name: modern_charts
+    package_version: v0.1.0
+    title: 'v0.1.0 of modern_charts'
+    published: '2014-12-01T12:20:19+00:00'
+    id: 'urn:uuid:ebef5b83-4f12-539e-92be-b7cb21f963b6'
+    link: 'https://pub.dartlang.org/packages/modern_charts'
+    author:
+        - 'Man Hoang'
