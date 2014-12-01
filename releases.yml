@@ -2293,3 +2293,12 @@
     link: 'https://pub.dartlang.org/packages/redis'
     author:
         - 'Luka Rahne'
+-
+    package_name: firmata
+    package_version: v0.1.3
+    title: 'v0.1.3 of firmata'
+    published: '2014-12-01T22:55:38+00:00'
+    id: 'urn:uuid:030acb6d-4e80-55cf-b439-627123865610'
+    link: 'https://pub.dartlang.org/packages/firmata'
+    author:
+        - 'Nicolas Francois '
