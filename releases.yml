@@ -2257,3 +2257,12 @@
     link: 'https://pub.dartlang.org/packages/pixel_sprite_generator'
     author:
         - 'Tobias Lilja'
+-
+    package_name: enums
+    package_version: v0.2.5
+    title: 'v0.2.5 of enums'
+    published: '2014-12-01T20:30:16+00:00'
+    id: 'urn:uuid:5ad6e152-1d75-5fe5-ab7e-3de0c603e361'
+    link: 'https://pub.dartlang.org/packages/enums'
+    author:
+        - 'Steven Roose'
