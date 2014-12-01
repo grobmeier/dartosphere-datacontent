@@ -2230,3 +2230,21 @@
     link: 'https://pub.dartlang.org/packages/clean_sync'
     author:
         - 'Clean Team'
+-
+    package_name: pixel_sprite_generator
+    package_version: v1.0.0
+    title: 'v1.0.0 of pixel_sprite_generator'
+    published: '2014-12-01T19:20:13+00:00'
+    id: 'urn:uuid:624eb6f6-a0b9-5030-95bc-212984e9e44c'
+    link: 'https://pub.dartlang.org/packages/pixel_sprite_generator'
+    author:
+        - 'Tobias Lilja'
+-
+    package_name: validator
+    package_version: v0.0.7
+    title: 'v0.0.7 of validator'
+    published: '2014-12-01T19:20:13+00:00'
+    id: 'urn:uuid:1740ecb3-62cf-5a42-bb64-19be0a41f3d5'
+    link: 'https://pub.dartlang.org/packages/validator'
+    author:
+        - 'Karan Goel'
