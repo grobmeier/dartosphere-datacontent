@@ -2050,3 +2050,12 @@
     link: 'https://pub.dartlang.org/packages/viltage'
     author:
         - ViliX64
+-
+    package_name: google_oauth_authenticator
+    package_version: v1.0.0
+    title: 'v1.0.0 of google_oauth_authenticator'
+    published: '2014-12-01T00:30:14+00:00'
+    id: 'urn:uuid:4c87f693-b4c0-504f-adfb-01de9c0ca219'
+    link: 'https://pub.dartlang.org/packages/google_oauth_authenticator'
+    author:
+        - pjv
