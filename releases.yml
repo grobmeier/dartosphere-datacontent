@@ -2095,3 +2095,12 @@
     link: 'https://pub.dartlang.org/packages/statistics'
     author:
         - 'Karan Goel'
+-
+    package_name: do2
+    package_version: v0.1.2
+    title: 'v0.1.2 of do2'
+    published: '2014-12-01T09:10:15+00:00'
+    id: 'urn:uuid:aaa278a4-b09e-5a7e-af4f-3587bd86ec33'
+    link: 'https://pub.dartlang.org/packages/do2'
+    author:
+        - 'Mikhail Stolyarov'
