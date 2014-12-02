@@ -2311,3 +2311,12 @@
     link: 'https://pub.dartlang.org/packages/tui'
     author:
         - 'Lex Berezhny'
+-
+    package_name: firmata
+    package_version: v0.1.3+1
+    title: 'v0.1.3+1 of firmata'
+    published: '2014-12-02T07:05:11+00:00'
+    id: 'urn:uuid:e64e8ad0-e8ec-5601-a55e-631c5926dd33'
+    link: 'https://pub.dartlang.org/packages/firmata'
+    author:
+        - 'Nicolas Francois '
