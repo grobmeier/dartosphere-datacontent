@@ -2392,3 +2392,12 @@
     link: 'https://pub.dartlang.org/packages/prompt'
     author:
         - 'Sean Eagan'
+-
+    package_name: intl
+    package_version: v0.11.11
+    title: 'v0.11.11 of intl'
+    published: '2014-12-02T22:00:21+00:00'
+    id: 'urn:uuid:9b2cca72-fc1d-52d3-80f0-69b2d0c1b9ee'
+    link: 'https://pub.dartlang.org/packages/intl'
+    author:
+        - 'Dart Team'
