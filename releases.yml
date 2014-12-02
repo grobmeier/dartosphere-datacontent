@@ -2374,3 +2374,12 @@
     link: 'https://pub.dartlang.org/packages/viltage'
     author:
         - ViliX64
+-
+    package_name: iris
+    package_version: v0.9.0
+    title: 'v0.9.0 of iris'
+    published: '2014-12-02T17:25:16+00:00'
+    id: 'urn:uuid:b0acccbb-6ec3-5e5f-9149-6d9336f5aee7'
+    link: 'https://pub.dartlang.org/packages/iris'
+    author:
+        - 'Matias Meno'
