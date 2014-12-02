@@ -2329,3 +2329,12 @@
     link: 'https://pub.dartlang.org/packages/do2'
     author:
         - 'Mikhail Stolyarov'
+-
+    package_name: bs
+    package_version: v0.0.1
+    title: 'v0.0.1 of bs'
+    published: '2014-12-02T12:15:23+00:00'
+    id: 'urn:uuid:9350ef2b-83c8-5137-b79d-5070a89bd7d8'
+    link: 'https://pub.dartlang.org/packages/bs'
+    author:
+        - 'Dieter Hubau'
