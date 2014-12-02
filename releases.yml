@@ -2320,3 +2320,12 @@
     link: 'https://pub.dartlang.org/packages/firmata'
     author:
         - 'Nicolas Francois '
+-
+    package_name: do2
+    package_version: v0.1.6
+    title: 'v0.1.6 of do2'
+    published: '2014-12-02T10:55:15+00:00'
+    id: 'urn:uuid:67c93456-41d0-5828-be47-0593a1cf5da0'
+    link: 'https://pub.dartlang.org/packages/do2'
+    author:
+        - 'Mikhail Stolyarov'
