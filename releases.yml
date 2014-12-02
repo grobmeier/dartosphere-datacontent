@@ -2338,3 +2338,12 @@
     link: 'https://pub.dartlang.org/packages/bs'
     author:
         - 'Dieter Hubau'
+-
+    package_name: bs
+    package_version: v0.0.2
+    title: 'v0.0.2 of bs'
+    published: '2014-12-02T13:20:17+00:00'
+    id: 'urn:uuid:4f5120cd-cc69-5282-b2ec-8b996e98ac97'
+    link: 'https://pub.dartlang.org/packages/bs'
+    author:
+        - 'Dieter Hubau'
