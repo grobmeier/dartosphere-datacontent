@@ -2383,3 +2383,12 @@
     link: 'https://pub.dartlang.org/packages/iris'
     author:
         - 'Matias Meno'
+-
+    package_name: prompt
+    package_version: v0.1.1
+    title: 'v0.1.1 of prompt'
+    published: '2014-12-02T17:35:16+00:00'
+    id: 'urn:uuid:8bcfa467-0dd4-5d66-ae46-2733c5af2c22'
+    link: 'https://pub.dartlang.org/packages/prompt'
+    author:
+        - 'Sean Eagan'
