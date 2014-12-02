@@ -2347,3 +2347,12 @@
     link: 'https://pub.dartlang.org/packages/bs'
     author:
         - 'Dieter Hubau'
+-
+    package_name: viltage
+    package_version: v0.3.2+55
+    title: 'v0.3.2+55 of viltage'
+    published: '2014-12-02T14:35:21+00:00'
+    id: 'urn:uuid:8e69250c-eb69-5457-84de-e9f07966c06f'
+    link: 'https://pub.dartlang.org/packages/viltage'
+    author:
+        - ViliX64
