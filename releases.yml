@@ -2401,3 +2401,12 @@
     link: 'https://pub.dartlang.org/packages/intl'
     author:
         - 'Dart Team'
+-
+    package_name: scheduled_test
+    package_version: v0.11.2+3
+    title: 'v0.11.2+3 of scheduled_test'
+    published: '2014-12-03T01:30:12+00:00'
+    id: 'urn:uuid:3d86ab34-5e2f-5d91-9217-0a45ae42a7c1'
+    link: 'https://pub.dartlang.org/packages/scheduled_test'
+    author:
+        - 'Dart Team'
