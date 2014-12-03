@@ -2482,3 +2482,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_datepicker'
     author:
         - Drafintech
+-
+    package_name: gcloud
+    package_version: v0.1.3
+    title: 'v0.1.3 of gcloud'
+    published: '2014-12-03T15:55:20+00:00'
+    id: 'urn:uuid:47024354-7ce7-5f98-a323-4a49cffb6d18'
+    link: 'https://pub.dartlang.org/packages/gcloud'
+    author:
+        - 'Dart Team'
