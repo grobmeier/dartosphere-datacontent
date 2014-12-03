@@ -2419,3 +2419,12 @@
     link: 'https://pub.dartlang.org/packages/smartcanvas'
     author:
         - 'Kun Zhao'
+-
+    package_name: viltage
+    package_version: v0.3.3+3
+    title: 'v0.3.3+3 of viltage'
+    published: '2014-12-03T05:50:11+00:00'
+    id: 'urn:uuid:d7b185df-a07d-52aa-8346-f8a3a4e036b6'
+    link: 'https://pub.dartlang.org/packages/viltage'
+    author:
+        - ViliX64
