@@ -2464,3 +2464,12 @@
     link: 'https://pub.dartlang.org/packages/dtmark'
     author:
         - unknownloner
+-
+    package_name: polymer_datepicker
+    package_version: v0.1.0
+    title: 'v0.1.0 of polymer_datepicker'
+    published: '2014-12-03T15:20:22+00:00'
+    id: 'urn:uuid:8b9e87c3-d8d8-5397-932c-cded1b966205'
+    link: 'https://pub.dartlang.org/packages/polymer_datepicker'
+    author:
+        - Drafintech
