@@ -2473,3 +2473,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_datepicker'
     author:
         - Drafintech
+-
+    package_name: polymer_datepicker
+    package_version: v0.1.1
+    title: 'v0.1.1 of polymer_datepicker'
+    published: '2014-12-03T15:25:23+00:00'
+    id: 'urn:uuid:75216182-9d3d-5be2-b943-e1d740c355d3'
+    link: 'https://pub.dartlang.org/packages/polymer_datepicker'
+    author:
+        - Drafintech
