@@ -2626,3 +2626,21 @@
     link: 'https://pub.dartlang.org/packages/viltage'
     author:
         - ViliX64
+-
+    package_name: gcloud
+    package_version: v0.1.3+1
+    title: 'v0.1.3+1 of gcloud'
+    published: '2014-12-04T16:50:17+00:00'
+    id: 'urn:uuid:7fb8994e-a85c-5118-908f-e21104a3d16a'
+    link: 'https://pub.dartlang.org/packages/gcloud'
+    author:
+        - 'Dart Team'
+-
+    package_name: appengine
+    package_version: v0.2.4+1
+    title: 'v0.2.4+1 of appengine'
+    published: '2014-12-04T16:50:17+00:00'
+    id: 'urn:uuid:80f617b5-fe75-5830-8198-9d95e4a2fa46'
+    link: 'https://pub.dartlang.org/packages/appengine'
+    author:
+        - 'Dart Team'
