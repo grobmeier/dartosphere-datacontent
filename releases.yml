@@ -2599,3 +2599,12 @@
     link: 'https://pub.dartlang.org/packages/viltage'
     author:
         - ViliX64
+-
+    package_name: u_til
+    package_version: v0.1.6
+    title: 'v0.1.6 of u_til'
+    published: '2014-12-04T15:25:15+00:00'
+    id: 'urn:uuid:dbeed6d8-5e3a-5e96-8f1c-66dc41363f7e'
+    link: 'https://pub.dartlang.org/packages/u_til'
+    author:
+        - 'Axel Christ'
