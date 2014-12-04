@@ -2644,3 +2644,12 @@
     link: 'https://pub.dartlang.org/packages/appengine'
     author:
         - 'Dart Team'
+-
+    package_name: prompt
+    package_version: v0.1.2
+    title: 'v0.1.2 of prompt'
+    published: '2014-12-04T17:25:13+00:00'
+    id: 'urn:uuid:975ba304-77b1-5df9-8059-8c59ee102973'
+    link: 'https://pub.dartlang.org/packages/prompt'
+    author:
+        - 'Sean Eagan'
