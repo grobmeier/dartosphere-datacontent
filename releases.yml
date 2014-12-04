@@ -2671,3 +2671,12 @@
     link: 'https://pub.dartlang.org/packages/console'
     author:
         - 'Kenneth Endfinger'
+-
+    package_name: neo4dart
+    package_version: v0.0.1
+    title: 'v0.0.1 of neo4dart'
+    published: '2014-12-04T22:35:12+00:00'
+    id: 'urn:uuid:8f593f6b-f856-5b65-98b6-3aa4e7d38ab8'
+    link: 'https://pub.dartlang.org/packages/neo4dart'
+    author:
+        - 'Matthieu Maquevice'
