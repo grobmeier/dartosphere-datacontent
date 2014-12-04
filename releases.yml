@@ -2545,3 +2545,12 @@
     link: 'https://pub.dartlang.org/packages/source_maps'
     author:
         - 'Dart Team'
+-
+    package_name: stream
+    package_version: v1.3.1
+    title: 'v1.3.1 of stream'
+    published: '2014-12-04T05:00:15+00:00'
+    id: 'urn:uuid:2b16e9f9-8a45-5cb4-a670-a25d7887d3a8'
+    link: 'https://pub.dartlang.org/packages/stream'
+    author:
+        - 'Tom Yeh'
