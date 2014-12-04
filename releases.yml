@@ -2581,3 +2581,12 @@
     link: 'https://pub.dartlang.org/packages/vdom'
     author:
         - 'Boris Kaul'
+-
+    package_name: liquid
+    package_version: v0.2.0
+    title: 'v0.2.0 of liquid'
+    published: '2014-12-04T13:35:19+00:00'
+    id: 'urn:uuid:589256d4-c346-5085-b360-1cfe76f41575'
+    link: 'https://pub.dartlang.org/packages/liquid'
+    author:
+        - 'Boris Kaul'
