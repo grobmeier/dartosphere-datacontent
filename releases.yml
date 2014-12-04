@@ -2680,3 +2680,12 @@
     link: 'https://pub.dartlang.org/packages/neo4dart'
     author:
         - 'Matthieu Maquevice'
+-
+    package_name: custom_element_apigen
+    package_version: v0.1.2
+    title: 'v0.1.2 of custom_element_apigen'
+    published: '2014-12-04T23:00:19+00:00'
+    id: 'urn:uuid:78fd7980-7d49-56b5-811f-68ed5b9b4c9c'
+    link: 'https://pub.dartlang.org/packages/custom_element_apigen'
+    author:
+        - 'Polymer.dart Authors'
