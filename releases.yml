@@ -2590,3 +2590,12 @@
     link: 'https://pub.dartlang.org/packages/liquid'
     author:
         - 'Boris Kaul'
+-
+    package_name: viltage
+    package_version: v0.3.3+7
+    title: 'v0.3.3+7 of viltage'
+    published: '2014-12-04T15:20:18+00:00'
+    id: 'urn:uuid:351ede4b-53d0-5cae-b418-d573a27efef9'
+    link: 'https://pub.dartlang.org/packages/viltage'
+    author:
+        - ViliX64
