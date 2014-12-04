@@ -2509,3 +2509,21 @@
     link: 'https://pub.dartlang.org/packages/atlassian_connect_config'
     author:
         - 'Anders Holmgren'
+-
+    package_name: atlassian_connect_shelf
+    package_version: v0.8.0
+    title: 'v0.8.0 of atlassian_connect_shelf'
+    published: '2014-12-04T00:30:14+00:00'
+    id: 'urn:uuid:f03ce48e-9a4c-5b29-b6d9-c1d9bea07af7'
+    link: 'https://pub.dartlang.org/packages/atlassian_connect_shelf'
+    author:
+        - 'Anders Holmgren'
+-
+    package_name: mojito
+    package_version: v0.0.4+2
+    title: 'v0.0.4+2 of mojito'
+    published: '2014-12-04T00:30:14+00:00'
+    id: 'urn:uuid:fd758424-6c50-56cb-a6c3-deb6f723f56a'
+    link: 'https://pub.dartlang.org/packages/mojito'
+    author:
+        - 'Anders Holmgren'
