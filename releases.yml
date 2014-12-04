@@ -2536,3 +2536,12 @@
     link: 'https://pub.dartlang.org/packages/mojito'
     author:
         - 'Anders Holmgren'
+-
+    package_name: source_maps
+    package_version: v0.10.0+1
+    title: 'v0.10.0+1 of source_maps'
+    published: '2014-12-04T01:20:11+00:00'
+    id: 'urn:uuid:e3b5f560-70cf-5eca-aea8-f19ed48db518'
+    link: 'https://pub.dartlang.org/packages/source_maps'
+    author:
+        - 'Dart Team'
