@@ -2554,3 +2554,12 @@
     link: 'https://pub.dartlang.org/packages/stream'
     author:
         - 'Tom Yeh'
+-
+    package_name: postgresql
+    package_version: v0.3.0
+    title: 'v0.3.0 of postgresql'
+    published: '2014-12-04T09:00:21+00:00'
+    id: 'urn:uuid:63d4aae7-4f77-5cce-8fce-c49e8d8207c4'
+    link: 'https://pub.dartlang.org/packages/postgresql'
+    author:
+        - 'Greg Lowe'
