@@ -2752,3 +2752,12 @@
     link: 'https://pub.dartlang.org/packages/do2'
     author:
         - 'Mikhail Stolyarov'
+-
+    package_name: viltage
+    package_version: v0.3.3+12
+    title: 'v0.3.3+12 of viltage'
+    published: '2014-12-05T09:30:15+00:00'
+    id: 'urn:uuid:ba2f697d-f7b8-5ff6-ab2b-7c0c0d22203e'
+    link: 'https://pub.dartlang.org/packages/viltage'
+    author:
+        - ViliX64
