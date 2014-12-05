@@ -2806,3 +2806,12 @@
     link: 'https://pub.dartlang.org/packages/part_generator'
     author:
         - takyam
+-
+    package_name: wrike_api
+    package_version: v0.0.3+4
+    title: 'v0.0.3+4 of wrike_api'
+    published: '2014-12-05T14:20:23+00:00'
+    id: 'urn:uuid:1aa24731-a992-5820-979b-52d29b16698c'
+    link: 'https://pub.dartlang.org/packages/wrike_api'
+    author:
+        - 'Wrike Inc'
