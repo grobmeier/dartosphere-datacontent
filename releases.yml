@@ -2914,3 +2914,21 @@
     link: 'https://pub.dartlang.org/packages/polymer_expressions'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: paper_elements
+    package_version: v0.6.0
+    title: 'v0.6.0 of paper_elements'
+    published: '2014-12-05T19:30:15+00:00'
+    id: 'urn:uuid:988da312-79ae-5122-8020-e3598410085e'
+    link: 'https://pub.dartlang.org/packages/paper_elements'
+    author:
+        - 'Polymer.dart Authors'
+-
+    package_name: core_elements
+    package_version: v0.5.0
+    title: 'v0.5.0 of core_elements'
+    published: '2014-12-05T19:30:15+00:00'
+    id: 'urn:uuid:641d0ae0-3265-52e5-a771-f1f706415861'
+    link: 'https://pub.dartlang.org/packages/core_elements'
+    author:
+        - 'Polymer.dart Authors'
