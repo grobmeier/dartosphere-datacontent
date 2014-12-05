@@ -2869,3 +2869,39 @@
     link: 'https://pub.dartlang.org/packages/custom_element_apigen'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: polymer
+    package_version: v0.15.2
+    title: 'v0.15.2 of polymer'
+    published: '2014-12-05T18:55:14+00:00'
+    id: 'urn:uuid:6c5e6728-2f75-5038-877e-5e6ed70311cd'
+    link: 'https://pub.dartlang.org/packages/polymer'
+    author:
+        - 'Polymer.dart Authors'
+-
+    package_name: web_components
+    package_version: v0.10.0
+    title: 'v0.10.0 of web_components'
+    published: '2014-12-05T18:55:14+00:00'
+    id: 'urn:uuid:5d33da9a-cc03-53a4-a42f-e692ecf1b9ba'
+    link: 'https://pub.dartlang.org/packages/web_components'
+    author:
+        - 'Polymer.dart Authors'
+-
+    package_name: template_binding
+    package_version: v0.14.0
+    title: 'v0.14.0 of template_binding'
+    published: '2014-12-05T18:55:14+00:00'
+    id: 'urn:uuid:20f1aa71-cdc8-5624-aeb0-caf4f471c4b1'
+    link: 'https://pub.dartlang.org/packages/template_binding'
+    author:
+        - 'Polymer.dart Team'
+-
+    package_name: observe
+    package_version: v0.12.2
+    title: 'v0.12.2 of observe'
+    published: '2014-12-05T18:55:14+00:00'
+    id: 'urn:uuid:dcffe730-b62e-59c8-8cf2-46f98c7ab812'
+    link: 'https://pub.dartlang.org/packages/observe'
+    author:
+        - 'Polymer.dart Authors'
