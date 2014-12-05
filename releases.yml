@@ -2905,3 +2905,12 @@
     link: 'https://pub.dartlang.org/packages/observe'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: polymer_expressions
+    package_version: v0.13.0+1
+    title: 'v0.13.0+1 of polymer_expressions'
+    published: '2014-12-05T19:25:11+00:00'
+    id: 'urn:uuid:525001c9-034b-5481-b9ac-713f4e7f9868'
+    link: 'https://pub.dartlang.org/packages/polymer_expressions'
+    author:
+        - 'Polymer.dart Authors'
