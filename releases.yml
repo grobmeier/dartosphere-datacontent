@@ -2689,3 +2689,12 @@
     link: 'https://pub.dartlang.org/packages/custom_element_apigen'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: amd
+    package_version: v0.3.1
+    title: 'v0.3.1 of amd'
+    published: '2014-12-05T00:40:13+00:00'
+    id: 'urn:uuid:5ac02ccd-f3ee-56e7-bda5-738ca7641a5e'
+    link: 'https://pub.dartlang.org/packages/amd'
+    author:
+        - 'Richard Lincoln'
