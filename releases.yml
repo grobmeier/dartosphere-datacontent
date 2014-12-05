@@ -2698,3 +2698,12 @@
     link: 'https://pub.dartlang.org/packages/amd'
     author:
         - 'Richard Lincoln'
+-
+    package_name: irctweet
+    package_version: v0.2.2
+    title: 'v0.2.2 of irctweet'
+    published: '2014-12-05T03:45:12+00:00'
+    id: 'urn:uuid:924731dd-319b-59f6-b76e-cf70b3ce1214'
+    link: 'https://pub.dartlang.org/packages/irctweet'
+    author:
+        - sh4869
