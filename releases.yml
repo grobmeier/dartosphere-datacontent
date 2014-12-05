@@ -2770,3 +2770,12 @@
     link: 'https://pub.dartlang.org/packages/viltage'
     author:
         - ViliX64
+-
+    package_name: do2
+    package_version: v0.1.9
+    title: 'v0.1.9 of do2'
+    published: '2014-12-05T10:00:17+00:00'
+    id: 'urn:uuid:b9b4c12a-3210-5458-a534-392ec95f3283'
+    link: 'https://pub.dartlang.org/packages/do2'
+    author:
+        - 'Mikhail Stolyarov'
