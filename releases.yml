@@ -2941,3 +2941,12 @@
     link: 'https://pub.dartlang.org/packages/colamd'
     author:
         - 'Richard Lincoln'
+-
+    package_name: postgresql
+    package_version: v0.3.0+2
+    title: 'v0.3.0+2 of postgresql'
+    published: '2014-12-05T23:50:12+00:00'
+    id: 'urn:uuid:3ca17d14-2cfe-5893-99ce-60bf48284904'
+    link: 'https://pub.dartlang.org/packages/postgresql'
+    author:
+        - 'Greg Lowe'
