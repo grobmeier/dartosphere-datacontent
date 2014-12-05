@@ -2788,3 +2788,12 @@
     link: 'https://pub.dartlang.org/packages/do2'
     author:
         - 'Mikhail Stolyarov'
+-
+    package_name: wrike_api
+    package_version: v0.0.3+3
+    title: 'v0.0.3+3 of wrike_api'
+    published: '2014-12-05T12:25:12+00:00'
+    id: 'urn:uuid:470e4cde-3898-5e95-86aa-a6ca9f25ba7f'
+    link: 'https://pub.dartlang.org/packages/wrike_api'
+    author:
+        - 'Wrike Inc'
