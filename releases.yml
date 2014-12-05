@@ -2932,3 +2932,12 @@
     link: 'https://pub.dartlang.org/packages/core_elements'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: colamd
+    package_version: v0.2.0
+    title: 'v0.2.0 of colamd'
+    published: '2014-12-05T22:15:16+00:00'
+    id: 'urn:uuid:cddf6adb-725e-5c81-982b-6dd001e60244'
+    link: 'https://pub.dartlang.org/packages/colamd'
+    author:
+        - 'Richard Lincoln'
