@@ -2716,3 +2716,21 @@
     link: 'https://pub.dartlang.org/packages/btf'
     author:
         - 'Richard Lincoln'
+-
+    package_name: mojito
+    package_version: v0.1.0
+    title: 'v0.1.0 of mojito'
+    published: '2014-12-05T08:20:14+00:00'
+    id: 'urn:uuid:2018f2e7-447c-542e-94e5-637ac418b6a2'
+    link: 'https://pub.dartlang.org/packages/mojito'
+    author:
+        - 'Anders Holmgren'
+-
+    package_name: shelf_oauth
+    package_version: v0.1.0
+    title: 'v0.1.0 of shelf_oauth'
+    published: '2014-12-05T08:20:14+00:00'
+    id: 'urn:uuid:e1082c24-cd78-5124-999f-f9d620bab51c'
+    link: 'https://pub.dartlang.org/packages/shelf_oauth'
+    author:
+        - 'Anders Holmgren'
