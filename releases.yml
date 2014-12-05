@@ -2860,3 +2860,12 @@
     link: 'https://pub.dartlang.org/packages/part_generator'
     author:
         - takyam
+-
+    package_name: custom_element_apigen
+    package_version: v0.1.2+1
+    title: 'v0.1.2+1 of custom_element_apigen'
+    published: '2014-12-05T18:30:17+00:00'
+    id: 'urn:uuid:5e08f018-1f23-5a62-aa39-4c136d24258b'
+    link: 'https://pub.dartlang.org/packages/custom_element_apigen'
+    author:
+        - 'Polymer.dart Authors'
