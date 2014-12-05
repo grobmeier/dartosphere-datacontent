@@ -2797,3 +2797,12 @@
     link: 'https://pub.dartlang.org/packages/wrike_api'
     author:
         - 'Wrike Inc'
+-
+    package_name: part_generator
+    package_version: v0.0.1
+    title: 'v0.0.1 of part_generator'
+    published: '2014-12-05T13:30:16+00:00'
+    id: 'urn:uuid:dc8c32d5-da85-51c8-8f42-18111f064e2e'
+    link: 'https://pub.dartlang.org/packages/part_generator'
+    author:
+        - takyam
