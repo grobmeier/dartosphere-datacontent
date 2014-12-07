@@ -2977,3 +2977,93 @@
     link: 'https://pub.dartlang.org/packages/viltage'
     author:
         - ViliX64
+-
+    package_name: chronosgl
+    package_version: v1.3.0
+    title: 'v1.3.0 of chronosgl'
+    published: '2014-12-07T19:15:10+00:00'
+    id: 'urn:uuid:d229b051-a36f-50fd-8e89-e5685e424794'
+    link: 'https://pub.dartlang.org/packages/chronosgl'
+    author:
+        - rhulha
+-
+    package_name: viltage
+    package_version: v0.3.3+36
+    title: 'v0.3.3+36 of viltage'
+    published: '2014-12-07T19:15:10+00:00'
+    id: 'urn:uuid:f791c30c-f050-54eb-b996-c5fd6bade382'
+    link: 'https://pub.dartlang.org/packages/viltage'
+    author:
+        - ViliX64
+-
+    package_name: forcemvc
+    package_version: v0.6.0
+    title: 'v0.6.0 of forcemvc'
+    published: '2014-12-07T19:15:10+00:00'
+    id: 'urn:uuid:141b02d0-63df-552f-bf2f-3821d1bd5599'
+    link: 'https://pub.dartlang.org/packages/forcemvc'
+    author:
+        - 'Joris Hermans'
+-
+    package_name: md_proc
+    package_version: v0.2.0
+    title: 'v0.2.0 of md_proc'
+    published: '2014-12-07T19:15:10+00:00'
+    id: 'urn:uuid:36c73abf-d45a-5dc4-9dd1-818b4cca2099'
+    link: 'https://pub.dartlang.org/packages/md_proc'
+    author:
+        - 'Maxim Dikun'
+-
+    package_name: jsonify
+    package_version: v0.0.1
+    title: 'v0.0.1 of jsonify'
+    published: '2014-12-07T19:15:10+00:00'
+    id: 'urn:uuid:2ec13de9-fa3c-50f5-b858-db728a65c59b'
+    link: 'https://pub.dartlang.org/packages/jsonify'
+    author:
+        - 'Joris Hermans'
+-
+    package_name: web_midi_extended
+    package_version: v0.0.1
+    title: 'v0.0.1 of web_midi_extended'
+    published: '2014-12-07T19:15:10+00:00'
+    id: 'urn:uuid:3ffd2cdc-9adc-5c32-abf0-abb6f333ad4a'
+    link: 'https://pub.dartlang.org/packages/web_midi_extended'
+    author:
+        - 'Si Robertson'
+-
+    package_name: gorgon
+    package_version: v0.14.2
+    title: 'v0.14.2 of gorgon'
+    published: '2014-12-07T19:15:10+00:00'
+    id: 'urn:uuid:9b31588d-bb8f-5439-85e6-e8544b7628fb'
+    link: 'https://pub.dartlang.org/packages/gorgon'
+    author:
+        - 'Cantidio Oliveira Fontes'
+-
+    package_name: rails_ujs
+    package_version: v1.0.0
+    title: 'v1.0.0 of rails_ujs'
+    published: '2014-12-07T19:15:10+00:00'
+    id: 'urn:uuid:085b5c78-a6a1-5bd1-8f51-3d51088fd354'
+    link: 'https://pub.dartlang.org/packages/rails_ujs'
+    author:
+        - 'Marcel Sackermann'
+-
+    package_name: bwu_polymer_routing
+    package_version: v0.1.1
+    title: 'v0.1.1 of bwu_polymer_routing'
+    published: '2014-12-07T19:15:10+00:00'
+    id: 'urn:uuid:b11f4dfa-a70b-557c-8a27-9dc68d41caa9'
+    link: 'https://pub.dartlang.org/packages/bwu_polymer_routing'
+    author:
+        - 'Günter Zöchbauer'
+-
+    package_name: dilithium
+    package_version: v0.2.6
+    title: 'v0.2.6 of dilithium'
+    published: '2014-12-07T19:15:10+00:00'
+    id: 'urn:uuid:57a806ec-5cf1-5d2a-853f-557bb0c0e9f3'
+    link: 'https://pub.dartlang.org/packages/dilithium'
+    author:
+        - brucedavidson
