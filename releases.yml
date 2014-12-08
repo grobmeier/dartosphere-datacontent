@@ -3094,3 +3094,12 @@
     link: 'https://pub.dartlang.org/packages/csparse'
     author:
         - 'Richard Lincoln'
+-
+    package_name: midi
+    package_version: v0.0.0
+    title: 'v0.0.0 of midi'
+    published: '2014-12-08T04:40:10+00:00'
+    id: 'urn:uuid:23ddd04b-cef4-550d-8efd-39474dd3b383'
+    link: 'https://pub.dartlang.org/packages/midi'
+    author:
+        - 'Si Robertson'
