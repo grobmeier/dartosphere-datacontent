@@ -3112,3 +3112,12 @@
     link: 'https://pub.dartlang.org/packages/clean_sync'
     author:
         - 'Clean Team'
+-
+    package_name: transit
+    package_version: v0.8.3
+    title: 'v0.8.3 of transit'
+    published: '2014-12-08T13:00:18+00:00'
+    id: 'urn:uuid:d1f70110-17eb-56db-ad06-0e2026293c45'
+    link: 'https://pub.dartlang.org/packages/transit'
+    author:
+        - 'Clean Team'
