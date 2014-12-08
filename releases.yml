@@ -3076,3 +3076,12 @@
     link: 'https://pub.dartlang.org/packages/chronosgl'
     author:
         - rhulha
+-
+    package_name: csparse
+    package_version: v0.4.0
+    title: 'v0.4.0 of csparse'
+    published: '2014-12-08T03:35:09+00:00'
+    id: 'urn:uuid:f0ab8941-efad-5f10-a506-2309795b017a'
+    link: 'https://pub.dartlang.org/packages/csparse'
+    author:
+        - 'Richard Lincoln'
