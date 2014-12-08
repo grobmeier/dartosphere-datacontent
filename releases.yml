@@ -3148,3 +3148,12 @@
     link: 'https://pub.dartlang.org/packages/paper_elements'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: jsonrpc2
+    package_version: v0.9.4
+    title: 'v0.9.4 of jsonrpc2'
+    published: '2014-12-08T21:40:14+00:00'
+    id: 'urn:uuid:019f4e96-8088-57be-a2c6-05f9a9c6b1a3'
+    link: 'https://pub.dartlang.org/packages/jsonrpc2'
+    author:
+        - 'Jim Washington'
