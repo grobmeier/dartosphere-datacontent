@@ -3103,3 +3103,12 @@
     link: 'https://pub.dartlang.org/packages/midi'
     author:
         - 'Si Robertson'
+-
+    package_name: clean_sync
+    package_version: v0.8.7
+    title: 'v0.8.7 of clean_sync'
+    published: '2014-12-08T11:20:14+00:00'
+    id: 'urn:uuid:81e1e5f3-0c46-5692-9e40-6b7c71f4299a'
+    link: 'https://pub.dartlang.org/packages/clean_sync'
+    author:
+        - 'Clean Team'
