@@ -3085,3 +3085,12 @@
     link: 'https://pub.dartlang.org/packages/csparse'
     author:
         - 'Richard Lincoln'
+-
+    package_name: csparse
+    package_version: v0.4.1
+    title: 'v0.4.1 of csparse'
+    published: '2014-12-08T03:40:10+00:00'
+    id: 'urn:uuid:0feccc78-f49b-5362-aff4-c89183a42c78'
+    link: 'https://pub.dartlang.org/packages/csparse'
+    author:
+        - 'Richard Lincoln'
