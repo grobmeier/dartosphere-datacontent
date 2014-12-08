@@ -3130,3 +3130,12 @@
     link: 'https://pub.dartlang.org/packages/react'
     author:
         - 'Clean Team'
+-
+    package_name: chessboard
+    package_version: v0.1.3
+    title: 'v0.1.3 of chessboard'
+    published: '2014-12-08T19:50:13+00:00'
+    id: 'urn:uuid:49a9e803-c2e4-5b30-8264-2cf66f60d293'
+    link: 'https://pub.dartlang.org/packages/chessboard'
+    author:
+        - 'Anders Forsell'
