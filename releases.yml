@@ -3139,3 +3139,12 @@
     link: 'https://pub.dartlang.org/packages/chessboard'
     author:
         - 'Anders Forsell'
+-
+    package_name: paper_elements
+    package_version: v0.6.0+1
+    title: 'v0.6.0+1 of paper_elements'
+    published: '2014-12-08T20:35:12+00:00'
+    id: 'urn:uuid:7d338b12-5556-5865-ac87-017d55572beb'
+    link: 'https://pub.dartlang.org/packages/paper_elements'
+    author:
+        - 'Polymer.dart Authors'
