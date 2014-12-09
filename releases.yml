@@ -3235,3 +3235,14 @@
     link: 'https://pub.dartlang.org/packages/custom_element_apigen'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: firebase
+    package_version: v0.2.1
+    title: 'v0.2.1 of firebase'
+    published: '2014-12-09T18:10:19+00:00'
+    id: 'urn:uuid:69d5de4d-f447-504f-aa69-3a12b7afb6e4'
+    link: 'https://pub.dartlang.org/packages/firebase'
+    author:
+        - 'Anant Narayanan'
+        - 'Seth Ladd'
+        - 'Kevin Moore'
