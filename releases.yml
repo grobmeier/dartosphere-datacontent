@@ -3177,3 +3177,12 @@
     author:
         - 'Corentin Pillet'
         - 'Samuel BERTHE'
+-
+    package_name: clean_ajax
+    package_version: v0.4.24
+    title: 'v0.4.24 of clean_ajax'
+    published: '2014-12-09T15:45:25+00:00'
+    id: 'urn:uuid:7483e341-a8a7-5ee3-aa28-d10847fd44d6'
+    link: 'https://pub.dartlang.org/packages/clean_ajax'
+    author:
+        - 'Clean Team'
