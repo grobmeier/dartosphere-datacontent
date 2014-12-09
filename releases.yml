@@ -3226,3 +3226,12 @@
     link: 'https://pub.dartlang.org/packages/fixnum'
     author:
         - 'Dart Team'
+-
+    package_name: custom_element_apigen
+    package_version: v0.1.3
+    title: 'v0.1.3 of custom_element_apigen'
+    published: '2014-12-09T18:05:24+00:00'
+    id: 'urn:uuid:6ca55e02-56be-5a6e-9ed6-5f0b7c582b50'
+    link: 'https://pub.dartlang.org/packages/custom_element_apigen'
+    author:
+        - 'Polymer.dart Authors'
