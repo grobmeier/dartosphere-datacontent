@@ -3186,3 +3186,14 @@
     link: 'https://pub.dartlang.org/packages/clean_ajax'
     author:
         - 'Clean Team'
+-
+    package_name: irc
+    package_version: v2.0.0
+    title: 'v2.0.0 of irc'
+    published: '2014-12-09T15:55:15+00:00'
+    id: 'urn:uuid:b1055937-4c1d-52d7-843c-255ea3c652e1'
+    link: 'https://pub.dartlang.org/packages/irc'
+    author:
+        - 'Kenneth Endfinger'
+        - samrg472
+        - TheMike
