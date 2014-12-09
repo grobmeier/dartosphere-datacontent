@@ -3273,3 +3273,30 @@
     link: 'https://pub.dartlang.org/packages/core_elements'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: scheduled_test
+    package_version: v0.11.3
+    title: 'v0.11.3 of scheduled_test'
+    published: '2014-12-09T22:00:29+00:00'
+    id: 'urn:uuid:9f6b2b87-a38c-5dea-8fe7-9fda002975dc'
+    link: 'https://pub.dartlang.org/packages/scheduled_test'
+    author:
+        - 'Dart Team'
+-
+    package_name: unittest
+    package_version: v0.11.3
+    title: 'v0.11.3 of unittest'
+    published: '2014-12-09T22:00:29+00:00'
+    id: 'urn:uuid:cba8af31-260e-515f-a512-900e4ff92920'
+    link: 'https://pub.dartlang.org/packages/unittest'
+    author:
+        - 'Dart Team'
+-
+    package_name: polymer
+    package_version: v0.15.3
+    title: 'v0.15.3 of polymer'
+    published: '2014-12-09T22:00:29+00:00'
+    id: 'urn:uuid:832f9c49-aa61-5763-a876-2d85f285f0e6'
+    link: 'https://pub.dartlang.org/packages/polymer'
+    author:
+        - 'Polymer.dart Authors'
