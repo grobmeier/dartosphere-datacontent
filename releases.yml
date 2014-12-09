@@ -3255,3 +3255,21 @@
     link: 'https://pub.dartlang.org/packages/chessboard'
     author:
         - 'Anders Forsell'
+-
+    package_name: paper_elements
+    package_version: v0.6.0+2
+    title: 'v0.6.0+2 of paper_elements'
+    published: '2014-12-09T21:45:17+00:00'
+    id: 'urn:uuid:0603848a-3c76-579d-9b1a-3f1406c17f66'
+    link: 'https://pub.dartlang.org/packages/paper_elements'
+    author:
+        - 'Polymer.dart Authors'
+-
+    package_name: core_elements
+    package_version: v0.5.0+1
+    title: 'v0.5.0+1 of core_elements'
+    published: '2014-12-09T21:45:17+00:00'
+    id: 'urn:uuid:6113ef5d-c306-5b28-ad12-190c68f29301'
+    link: 'https://pub.dartlang.org/packages/core_elements'
+    author:
+        - 'Polymer.dart Authors'
