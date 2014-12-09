@@ -3197,3 +3197,14 @@
         - 'Kenneth Endfinger'
         - samrg472
         - TheMike
+-
+    package_name: irc
+    package_version: v2.0.1
+    title: 'v2.0.1 of irc'
+    published: '2014-12-09T16:10:16+00:00'
+    id: 'urn:uuid:ea6b9375-c837-5440-b798-4c4f8627abef'
+    link: 'https://pub.dartlang.org/packages/irc'
+    author:
+        - 'Kenneth Endfinger'
+        - samrg472
+        - TheMike
