@@ -3246,3 +3246,12 @@
         - 'Anant Narayanan'
         - 'Seth Ladd'
         - 'Kevin Moore'
+-
+    package_name: chessboard
+    package_version: v0.1.4
+    title: 'v0.1.4 of chessboard'
+    published: '2014-12-09T19:10:13+00:00'
+    id: 'urn:uuid:e2925471-cbc5-5a38-8d3b-5f96351ac497'
+    link: 'https://pub.dartlang.org/packages/chessboard'
+    author:
+        - 'Anders Forsell'
