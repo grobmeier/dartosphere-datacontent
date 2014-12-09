@@ -3217,3 +3217,12 @@
     link: 'https://pub.dartlang.org/packages/slickdart'
     author:
         - CJKAO
+-
+    package_name: fixnum
+    package_version: v0.9.1
+    title: 'v0.9.1 of fixnum'
+    published: '2014-12-09T17:55:15+00:00'
+    id: 'urn:uuid:f4e49cc0-9932-5546-a854-fdd493f102d8'
+    link: 'https://pub.dartlang.org/packages/fixnum'
+    author:
+        - 'Dart Team'
