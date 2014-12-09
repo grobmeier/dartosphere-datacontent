@@ -3157,3 +3157,13 @@
     link: 'https://pub.dartlang.org/packages/jsonrpc2'
     author:
         - 'Jim Washington'
+-
+    package_name: simple_dart_api
+    package_version: v0.1.3
+    title: 'v0.1.3 of simple_dart_api'
+    published: '2014-12-09T11:15:14+00:00'
+    id: 'urn:uuid:79c9b256-b419-5aeb-9fb9-d8eb4517601c'
+    link: 'https://pub.dartlang.org/packages/simple_dart_api'
+    author:
+        - 'Corentin Pillet'
+        - 'Samuel BERTHE'
