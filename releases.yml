@@ -3300,3 +3300,12 @@
     link: 'https://pub.dartlang.org/packages/polymer'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: core_elements
+    package_version: v0.5.0+2
+    title: 'v0.5.0+2 of core_elements'
+    published: '2014-12-09T22:25:13+00:00'
+    id: 'urn:uuid:28ad8bd4-80b3-5260-b169-83e58fa3abcc'
+    link: 'https://pub.dartlang.org/packages/core_elements'
+    author:
+        - 'Polymer.dart Authors'
