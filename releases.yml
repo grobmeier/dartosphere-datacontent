@@ -3372,3 +3372,21 @@
     link: 'https://pub.dartlang.org/packages/polymer_datepicker'
     author:
         - Drafintech
+-
+    package_name: dorm
+    package_version: v1.0.13
+    title: 'v1.0.13 of dorm'
+    published: '2014-12-10T16:20:25+00:00'
+    id: 'urn:uuid:2ece6a7a-05c9-5c8d-970f-8ac85e65407b'
+    link: 'https://pub.dartlang.org/packages/dorm'
+    author:
+        - 'Frank Pepermans'
+-
+    package_name: dart_flex
+    package_version: v0.8.33
+    title: 'v0.8.33 of dart_flex'
+    published: '2014-12-10T16:20:25+00:00'
+    id: 'urn:uuid:f8865567-8f16-5217-aa4f-4150c0d5453d'
+    link: 'https://pub.dartlang.org/packages/dart_flex'
+    author:
+        - 'Frank Pepermans'
