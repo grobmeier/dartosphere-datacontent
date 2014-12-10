@@ -3336,3 +3336,12 @@
     link: 'https://pub.dartlang.org/packages/forcemvc'
     author:
         - 'Joris Hermans'
+-
+    package_name: objectory
+    package_version: v0.3.22
+    title: 'v0.3.22 of objectory'
+    published: '2014-12-10T08:55:12+00:00'
+    id: 'urn:uuid:9adb647c-f810-5fe2-b315-d4f6653effee'
+    link: 'https://pub.dartlang.org/packages/objectory'
+    author:
+        - 'Vadim Tsushko'
