@@ -3309,3 +3309,12 @@
     link: 'https://pub.dartlang.org/packages/core_elements'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: scheduled_test
+    package_version: v0.11.4
+    title: 'v0.11.4 of scheduled_test'
+    published: '2014-12-10T00:45:14+00:00'
+    id: 'urn:uuid:a6842dd6-dfd1-5d9d-9d39-9d867ea963d9'
+    link: 'https://pub.dartlang.org/packages/scheduled_test'
+    author:
+        - 'Dart Team'
