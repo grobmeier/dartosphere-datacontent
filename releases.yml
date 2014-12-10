@@ -3440,3 +3440,12 @@
     link: 'https://pub.dartlang.org/packages/den'
     author:
         - 'Sean Eagan'
+-
+    package_name: mt19937
+    package_version: v0.0.1
+    title: 'v0.0.1 of mt19937'
+    published: '2014-12-10T21:25:12+00:00'
+    id: 'urn:uuid:1895720f-d941-5445-af5f-e4c5ed28da38'
+    link: 'https://pub.dartlang.org/packages/mt19937'
+    author:
+        - brucedavidson
