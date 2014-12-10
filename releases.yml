@@ -3318,3 +3318,12 @@
     link: 'https://pub.dartlang.org/packages/scheduled_test'
     author:
         - 'Dart Team'
+-
+    package_name: do2
+    package_version: v0.1.12
+    title: 'v0.1.12 of do2'
+    published: '2014-12-10T07:35:11+00:00'
+    id: 'urn:uuid:9e1b01c8-58c3-5151-9756-d803c6c9b010'
+    link: 'https://pub.dartlang.org/packages/do2'
+    author:
+        - 'Mikhail Stolyarov'
