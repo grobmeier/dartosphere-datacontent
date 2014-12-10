@@ -3467,3 +3467,21 @@
     link: 'https://pub.dartlang.org/packages/unscripted'
     author:
         - 'Sean Eagan'
+-
+    package_name: dart_coveralls
+    package_version: v0.0.7
+    title: 'v0.0.7 of dart_coveralls'
+    published: '2014-12-10T22:55:10+00:00'
+    id: 'urn:uuid:62069050-0abf-5c0b-99b6-cf7c6d964601'
+    link: 'https://pub.dartlang.org/packages/dart_coveralls'
+    author:
+        - 'Axel Christ'
+-
+    package_name: matcher
+    package_version: v0.11.3
+    title: 'v0.11.3 of matcher'
+    published: '2014-12-10T22:55:10+00:00'
+    id: 'urn:uuid:325ad2a9-352a-594e-894e-ed1c3d626322'
+    link: 'https://pub.dartlang.org/packages/matcher'
+    author:
+        - 'Dart Team'
