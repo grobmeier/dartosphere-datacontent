@@ -3422,3 +3422,12 @@
         - 'Alexandre Ardhuin'
         - 'David Morgan'
         - 'John McDole'
+-
+    package_name: reflective
+    package_version: v0.0.1
+    title: 'v0.0.1 of reflective'
+    published: '2014-12-10T20:30:13+00:00'
+    id: 'urn:uuid:fdbc2826-17bc-5075-8587-e506761c40e8'
+    link: 'https://pub.dartlang.org/packages/reflective'
+    author:
+        - 'Stijn Van Bael'
