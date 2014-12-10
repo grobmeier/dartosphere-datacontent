@@ -3449,3 +3449,12 @@
     link: 'https://pub.dartlang.org/packages/mt19937'
     author:
         - brucedavidson
+-
+    package_name: dart_coveralls
+    package_version: v0.0.6
+    title: 'v0.0.6 of dart_coveralls'
+    published: '2014-12-10T22:00:24+00:00'
+    id: 'urn:uuid:7dca450a-5bed-5c3c-9f81-cd1ab1880a59'
+    link: 'https://pub.dartlang.org/packages/dart_coveralls'
+    author:
+        - 'Axel Christ'
