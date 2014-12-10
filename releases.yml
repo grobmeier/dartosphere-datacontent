@@ -3363,3 +3363,12 @@
     link: 'https://pub.dartlang.org/packages/zengen'
     author:
         - 'Alexandre Ardhuin'
+-
+    package_name: polymer_datepicker
+    package_version: v0.1.2
+    title: 'v0.1.2 of polymer_datepicker'
+    published: '2014-12-10T15:15:16+00:00'
+    id: 'urn:uuid:505551e8-4074-5366-a8a1-d6483b0d62bc'
+    link: 'https://pub.dartlang.org/packages/polymer_datepicker'
+    author:
+        - Drafintech
