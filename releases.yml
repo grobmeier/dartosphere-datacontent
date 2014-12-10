@@ -3354,3 +3354,12 @@
     link: 'https://pub.dartlang.org/packages/graphlib'
     author:
         - 'Richard Lincoln'
+-
+    package_name: zengen
+    package_version: v0.2.8
+    title: 'v0.2.8 of zengen'
+    published: '2014-12-10T14:05:13+00:00'
+    id: 'urn:uuid:c1561802-f6e5-537f-95f1-868a4a77ff38'
+    link: 'https://pub.dartlang.org/packages/zengen'
+    author:
+        - 'Alexandre Ardhuin'
