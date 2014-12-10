@@ -3431,3 +3431,12 @@
     link: 'https://pub.dartlang.org/packages/reflective'
     author:
         - 'Stijn Van Bael'
+-
+    package_name: den
+    package_version: v0.1.2
+    title: 'v0.1.2 of den'
+    published: '2014-12-10T20:35:13+00:00'
+    id: 'urn:uuid:f6946c11-1cdb-5563-ae7d-7cb9aa08b5ba'
+    link: 'https://pub.dartlang.org/packages/den'
+    author:
+        - 'Sean Eagan'
