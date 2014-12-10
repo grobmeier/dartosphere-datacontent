@@ -3408,3 +3408,17 @@
     link: 'https://pub.dartlang.org/packages/unscripted'
     author:
         - 'Sean Eagan'
+-
+    package_name: quiver
+    package_version: v0.20.0
+    title: 'v0.20.0 of quiver'
+    published: '2014-12-10T20:20:12+00:00'
+    id: 'urn:uuid:df604c23-50cd-506b-bc88-fabda2e71bd4'
+    link: 'https://pub.dartlang.org/packages/quiver'
+    author:
+        - 'Justin Fagnani'
+        - 'Yegor Jbanov'
+        - 'Chris Bracken'
+        - 'Alexandre Ardhuin'
+        - 'David Morgan'
+        - 'John McDole'
