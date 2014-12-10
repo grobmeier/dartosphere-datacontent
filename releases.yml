@@ -3345,3 +3345,12 @@
     link: 'https://pub.dartlang.org/packages/objectory'
     author:
         - 'Vadim Tsushko'
+-
+    package_name: graphlib
+    package_version: v0.0.2
+    title: 'v0.0.2 of graphlib'
+    published: '2014-12-10T11:10:15+00:00'
+    id: 'urn:uuid:c33f467c-f278-5ff2-962e-c2b20901b1f2'
+    link: 'https://pub.dartlang.org/packages/graphlib'
+    author:
+        - 'Richard Lincoln'
