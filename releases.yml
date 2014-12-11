@@ -3657,3 +3657,12 @@
     link: 'https://pub.dartlang.org/packages/reflective'
     author:
         - 'Stijn Van Bael'
+-
+    package_name: code_transformers
+    package_version: v0.2.3+2
+    title: 'v0.2.3+2 of code_transformers'
+    published: '2014-12-11T20:55:12+00:00'
+    id: 'urn:uuid:200629a2-af8c-54dc-ae8f-baa5c12945aa'
+    link: 'https://pub.dartlang.org/packages/code_transformers'
+    author:
+        - 'Dart Team'
