@@ -3494,3 +3494,12 @@
     link: 'https://pub.dartlang.org/packages/unittest'
     author:
         - 'Dart Team'
+-
+    package_name: scheduled_test
+    package_version: v0.11.5
+    title: 'v0.11.5 of scheduled_test'
+    published: '2014-12-11T00:10:13+00:00'
+    id: 'urn:uuid:441bac23-cc19-50ab-933a-41de0a0c3a7d'
+    link: 'https://pub.dartlang.org/packages/scheduled_test'
+    author:
+        - 'Dart Team'
