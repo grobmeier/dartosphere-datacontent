@@ -3485,3 +3485,12 @@
     link: 'https://pub.dartlang.org/packages/matcher'
     author:
         - 'Dart Team'
+-
+    package_name: unittest
+    package_version: v0.11.4
+    title: 'v0.11.4 of unittest'
+    published: '2014-12-11T00:05:16+00:00'
+    id: 'urn:uuid:3877a98a-6a67-5482-8e05-9ea62383403a'
+    link: 'https://pub.dartlang.org/packages/unittest'
+    author:
+        - 'Dart Team'
