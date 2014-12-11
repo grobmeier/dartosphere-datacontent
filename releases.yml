@@ -3620,3 +3620,22 @@
     link: 'https://pub.dartlang.org/packages/viltage'
     author:
         - ViliX64
+-
+    package_name: dart_orm
+    package_version: v0.0.2
+    title: 'v0.0.2 of dart_orm'
+    published: '2014-12-11T19:50:13+00:00'
+    id: 'urn:uuid:a8721285-73bc-5541-bd9c-f9e62f5186e7'
+    link: 'https://pub.dartlang.org/packages/dart_orm'
+    author:
+        - 'Ustimenko Sergey'
+-
+    package_name: stagehand
+    package_version: v0.1.4
+    title: 'v0.1.4 of stagehand'
+    published: '2014-12-11T19:50:13+00:00'
+    id: 'urn:uuid:b36f5cfd-04e3-566c-8371-b16838c8340b'
+    link: 'https://pub.dartlang.org/packages/stagehand'
+    author:
+        - 'Seth Ladd'
+        - 'Devon Carew'
