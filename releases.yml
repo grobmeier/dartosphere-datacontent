@@ -3684,3 +3684,12 @@
     link: 'https://pub.dartlang.org/packages/scheduled_test'
     author:
         - 'Dart Team'
+-
+    package_name: redis
+    package_version: v0.4.1
+    title: 'v0.4.1 of redis'
+    published: '2014-12-11T21:50:18+00:00'
+    id: 'urn:uuid:7e55fcc0-e33c-5d2c-9466-397f305c4a47'
+    link: 'https://pub.dartlang.org/packages/redis'
+    author:
+        - 'Luka Rahne'
