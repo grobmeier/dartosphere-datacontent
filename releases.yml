@@ -3512,3 +3512,12 @@
     link: 'https://pub.dartlang.org/packages/mt19937'
     author:
         - brucedavidson
+-
+    package_name: chronosgl
+    package_version: v1.4.0
+    title: 'v1.4.0 of chronosgl'
+    published: '2014-12-11T07:25:09+00:00'
+    id: 'urn:uuid:f8fdeb58-2a97-506b-9217-e73aaef8b924'
+    link: 'https://pub.dartlang.org/packages/chronosgl'
+    author:
+        - rhulha
