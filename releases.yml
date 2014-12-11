@@ -3693,3 +3693,12 @@
     link: 'https://pub.dartlang.org/packages/redis'
     author:
         - 'Luka Rahne'
+-
+    package_name: neo4dart
+    package_version: v0.0.3
+    title: 'v0.0.3 of neo4dart'
+    published: '2014-12-11T22:05:13+00:00'
+    id: 'urn:uuid:2dcc030b-dc5e-5803-b107-a4d6d175a7e2'
+    link: 'https://pub.dartlang.org/packages/neo4dart'
+    author:
+        - 'Matthieu Maquevice'
