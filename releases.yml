@@ -3648,3 +3648,12 @@
     link: 'https://pub.dartlang.org/packages/reflective'
     author:
         - 'Stijn Van Bael'
+-
+    package_name: reflective
+    package_version: v0.0.3
+    title: 'v0.0.3 of reflective'
+    published: '2014-12-11T20:45:16+00:00'
+    id: 'urn:uuid:29093b03-3aab-56ae-be82-7fe84fd06a7d'
+    link: 'https://pub.dartlang.org/packages/reflective'
+    author:
+        - 'Stijn Van Bael'
