@@ -3557,3 +3557,12 @@
     link: 'https://pub.dartlang.org/packages/dart_orm'
     author:
         - 'Ustimenko Sergey'
+-
+    package_name: md_proc
+    package_version: v0.2.1
+    title: 'v0.2.1 of md_proc'
+    published: '2014-12-11T12:55:12+00:00'
+    id: 'urn:uuid:3ba97d68-8a7f-54b2-a136-cc0a7d956c91'
+    link: 'https://pub.dartlang.org/packages/md_proc'
+    author:
+        - 'Maxim Dikun'
