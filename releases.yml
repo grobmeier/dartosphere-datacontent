@@ -3639,3 +3639,12 @@
     author:
         - 'Seth Ladd'
         - 'Devon Carew'
+-
+    package_name: reflective
+    package_version: v0.0.2
+    title: 'v0.0.2 of reflective'
+    published: '2014-12-11T20:05:12+00:00'
+    id: 'urn:uuid:fdfbd983-8024-561f-bad4-e3485a44b6d5'
+    link: 'https://pub.dartlang.org/packages/reflective'
+    author:
+        - 'Stijn Van Bael'
