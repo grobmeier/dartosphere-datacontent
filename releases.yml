@@ -3575,3 +3575,12 @@
     link: 'https://pub.dartlang.org/packages/csp_fixer'
     author:
         - 'Sungguk Lim'
+-
+    package_name: script_inliner
+    package_version: v1.0.0
+    title: 'v1.0.0 of script_inliner'
+    published: '2014-12-11T17:06:15+00:00'
+    id: 'urn:uuid:5b03ecf9-5e8d-5d64-8f3e-086a6f0f4621'
+    link: 'https://pub.dartlang.org/packages/script_inliner'
+    author:
+        - 'Seth Ladd'
