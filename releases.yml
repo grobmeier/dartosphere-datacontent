@@ -3584,3 +3584,12 @@
     link: 'https://pub.dartlang.org/packages/script_inliner'
     author:
         - 'Seth Ladd'
+-
+    package_name: codemirror
+    package_version: v0.0.10+4.8.0
+    title: 'v0.0.10+4.8.0 of codemirror'
+    published: '2014-12-11T17:20:23+00:00'
+    id: 'urn:uuid:4001abad-ebf7-5d67-bf4b-6e508aacf534'
+    link: 'https://pub.dartlang.org/packages/codemirror'
+    author:
+        - 'Devon Carew'
