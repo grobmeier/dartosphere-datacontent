@@ -3548,3 +3548,12 @@
     link: 'https://pub.dartlang.org/packages/frappe'
     author:
         - 'Dan Schultz'
+-
+    package_name: dart_orm
+    package_version: v0.0.1
+    title: 'v0.0.1 of dart_orm'
+    published: '2014-12-11T10:20:19+00:00'
+    id: 'urn:uuid:bd58d57a-9067-5969-9272-181406acd946'
+    link: 'https://pub.dartlang.org/packages/dart_orm'
+    author:
+        - 'Ustimenko Sergey'
