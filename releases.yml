@@ -3539,3 +3539,12 @@
     link: 'https://pub.dartlang.org/packages/frappe'
     author:
         - 'Dan Schultz'
+-
+    package_name: frappe
+    package_version: v0.3.0+4
+    title: 'v0.3.0+4 of frappe'
+    published: '2014-12-11T08:00:15+00:00'
+    id: 'urn:uuid:4218c12a-eb0f-5550-b53c-d5b006357424'
+    link: 'https://pub.dartlang.org/packages/frappe'
+    author:
+        - 'Dan Schultz'
