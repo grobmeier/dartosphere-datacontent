@@ -3521,3 +3521,12 @@
     link: 'https://pub.dartlang.org/packages/chronosgl'
     author:
         - rhulha
+-
+    package_name: frappe
+    package_version: v0.3.0+2
+    title: 'v0.3.0+2 of frappe'
+    published: '2014-12-11T07:40:11+00:00'
+    id: 'urn:uuid:0f416eab-b4d7-5c07-ac7b-c629ca095ade'
+    link: 'https://pub.dartlang.org/packages/frappe'
+    author:
+        - 'Dan Schultz'
