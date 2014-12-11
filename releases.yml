@@ -3675,3 +3675,12 @@
     link: 'https://pub.dartlang.org/packages/reflective'
     author:
         - 'Stijn Van Bael'
+-
+    package_name: scheduled_test
+    package_version: v0.11.6
+    title: 'v0.11.6 of scheduled_test'
+    published: '2014-12-11T21:30:16+00:00'
+    id: 'urn:uuid:63512097-c12c-5002-bc3d-30918993785d'
+    link: 'https://pub.dartlang.org/packages/scheduled_test'
+    author:
+        - 'Dart Team'
