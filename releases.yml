@@ -3503,3 +3503,12 @@
     link: 'https://pub.dartlang.org/packages/scheduled_test'
     author:
         - 'Dart Team'
+-
+    package_name: mt19937
+    package_version: v0.0.2
+    title: 'v0.0.2 of mt19937'
+    published: '2014-12-11T01:50:11+00:00'
+    id: 'urn:uuid:51d33020-e9d4-5f2b-9166-3987249f1bd3'
+    link: 'https://pub.dartlang.org/packages/mt19937'
+    author:
+        - brucedavidson
