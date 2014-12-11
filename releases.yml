@@ -3702,3 +3702,12 @@
     link: 'https://pub.dartlang.org/packages/neo4dart'
     author:
         - 'Matthieu Maquevice'
+-
+    package_name: neo4dart
+    package_version: v0.0.4
+    title: 'v0.0.4 of neo4dart'
+    published: '2014-12-11T22:10:15+00:00'
+    id: 'urn:uuid:08a5297a-742f-5b5e-99b1-1302d83935ce'
+    link: 'https://pub.dartlang.org/packages/neo4dart'
+    author:
+        - 'Matthieu Maquevice'
