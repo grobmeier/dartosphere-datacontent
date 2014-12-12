@@ -3729,3 +3729,12 @@
     link: 'https://pub.dartlang.org/packages/yaml'
     author:
         - 'Dart Team'
+-
+    package_name: yaml
+    package_version: v2.1.2
+    title: 'v2.1.2 of yaml'
+    published: '2014-12-12T02:15:23+00:00'
+    id: 'urn:uuid:a52cd100-02a1-5ecb-a403-bea65a018cff'
+    link: 'https://pub.dartlang.org/packages/yaml'
+    author:
+        - 'Dart Team'
