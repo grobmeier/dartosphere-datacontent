@@ -3774,3 +3774,12 @@
     link: 'https://pub.dartlang.org/packages/atlassian_connect_config'
     author:
         - 'Anders Holmgren'
+-
+    package_name: play_phaser
+    package_version: v0.12.2
+    title: 'v0.12.2 of play_phaser'
+    published: '2014-12-12T06:40:37+00:00'
+    id: 'urn:uuid:a7effae0-08ef-5422-8b2e-c44399c560f8'
+    link: 'https://pub.dartlang.org/packages/play_phaser'
+    author:
+        - playif
