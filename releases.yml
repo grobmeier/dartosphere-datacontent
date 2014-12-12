@@ -3756,3 +3756,21 @@
     link: 'https://pub.dartlang.org/packages/atlassian_connect_jwt'
     author:
         - 'Anders Holmgren'
+-
+    package_name: atlassian_connect_shelf
+    package_version: v0.9.0
+    title: 'v0.9.0 of atlassian_connect_shelf'
+    published: '2014-12-12T06:00:19+00:00'
+    id: 'urn:uuid:c6e998a5-443b-5e45-9f83-ec1e38d27c97'
+    link: 'https://pub.dartlang.org/packages/atlassian_connect_shelf'
+    author:
+        - 'Anders Holmgren'
+-
+    package_name: atlassian_connect_config
+    package_version: v0.3.6
+    title: 'v0.3.6 of atlassian_connect_config'
+    published: '2014-12-12T06:00:19+00:00'
+    id: 'urn:uuid:e199fbc6-abda-528d-ad8d-9b0b0f68e947'
+    link: 'https://pub.dartlang.org/packages/atlassian_connect_config'
+    author:
+        - 'Anders Holmgren'
