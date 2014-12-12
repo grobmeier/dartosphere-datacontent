@@ -3896,3 +3896,12 @@
     link: 'https://pub.dartlang.org/packages/metrics'
     author:
         - 'Alexandre Ardhuin'
+-
+    package_name: polymer
+    package_version: v0.15.3+2
+    title: 'v0.15.3+2 of polymer'
+    published: '2014-12-12T23:45:11+00:00'
+    id: 'urn:uuid:d881705b-441c-5807-b1ce-5cb3613a20e4'
+    link: 'https://pub.dartlang.org/packages/polymer'
+    author:
+        - 'Polymer.dart Authors'
