@@ -3805,3 +3805,12 @@
     link: 'https://pub.dartlang.org/packages/bwu_polymer_routing'
     author:
         - 'Günter Zöchbauer'
+-
+    package_name: transmittable
+    package_version: v0.8.0
+    title: 'v0.8.0 of transmittable'
+    published: '2014-12-12T10:00:15+00:00'
+    id: 'urn:uuid:684d4b09-35e6-53cd-85fa-e067dccdc3b2'
+    link: 'https://pub.dartlang.org/packages/transmittable'
+    author:
+        - 'Daniel Robinson'
