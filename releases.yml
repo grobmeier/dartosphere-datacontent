@@ -3711,3 +3711,12 @@
     link: 'https://pub.dartlang.org/packages/neo4dart'
     author:
         - 'Matthieu Maquevice'
+-
+    package_name: string_scanner
+    package_version: v0.1.3
+    title: 'v0.1.3 of string_scanner'
+    published: '2014-12-12T01:45:18+00:00'
+    id: 'urn:uuid:0eb36531-d3b0-5393-909f-be37f23792cf'
+    link: 'https://pub.dartlang.org/packages/string_scanner'
+    author:
+        - 'Dart Team'
