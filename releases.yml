@@ -3869,3 +3869,12 @@
     author:
         - 'Samuel BERTHE'
         - 'Corentin Pillet'
+-
+    package_name: metrics
+    package_version: v0.0.2
+    title: 'v0.0.2 of metrics'
+    published: '2014-12-12T21:20:12+00:00'
+    id: 'urn:uuid:fc3a5e39-5f42-5921-83ff-a658ac9e3578'
+    link: 'https://pub.dartlang.org/packages/metrics'
+    author:
+        - 'Alexandre Ardhuin'
