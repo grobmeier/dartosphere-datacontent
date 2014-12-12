@@ -3738,3 +3738,21 @@
     link: 'https://pub.dartlang.org/packages/yaml'
     author:
         - 'Dart Team'
+-
+    package_name: atlassian_connect_host
+    package_version: v0.4.0
+    title: 'v0.4.0 of atlassian_connect_host'
+    published: '2014-12-12T05:55:13+00:00'
+    id: 'urn:uuid:6f25a66d-2d3c-5bd9-a99c-8a34f64f6bfe'
+    link: 'https://pub.dartlang.org/packages/atlassian_connect_host'
+    author:
+        - 'Anders Holmgren'
+-
+    package_name: atlassian_connect_jwt
+    package_version: v0.2.3
+    title: 'v0.2.3 of atlassian_connect_jwt'
+    published: '2014-12-12T05:55:13+00:00'
+    id: 'urn:uuid:f05a7cdc-2983-51b1-a73d-1b4bcad841b2'
+    link: 'https://pub.dartlang.org/packages/atlassian_connect_jwt'
+    author:
+        - 'Anders Holmgren'
