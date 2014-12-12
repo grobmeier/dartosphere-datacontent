@@ -3841,3 +3841,12 @@
     link: 'https://pub.dartlang.org/packages/neo4dart'
     author:
         - 'Matthieu Maquevice'
+-
+    package_name: compiler_unsupported
+    package_version: v0.7.3
+    title: 'v0.7.3 of compiler_unsupported'
+    published: '2014-12-12T18:25:22+00:00'
+    id: 'urn:uuid:b2d076d5-e491-582b-9f3b-cc1e0461eaab'
+    link: 'https://pub.dartlang.org/packages/compiler_unsupported'
+    author:
+        - 'Dart2js Team'
