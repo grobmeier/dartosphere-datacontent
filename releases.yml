@@ -3887,3 +3887,12 @@
     link: 'https://pub.dartlang.org/packages/less_node'
     author:
         - 'Adalberto Lacruz'
+-
+    package_name: metrics
+    package_version: v0.0.2+1
+    title: 'v0.0.2+1 of metrics'
+    published: '2014-12-12T22:15:13+00:00'
+    id: 'urn:uuid:a06842e9-ae9b-5fee-8321-33cc0ed71e4b'
+    link: 'https://pub.dartlang.org/packages/metrics'
+    author:
+        - 'Alexandre Ardhuin'
