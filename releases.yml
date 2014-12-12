@@ -3850,3 +3850,12 @@
     link: 'https://pub.dartlang.org/packages/compiler_unsupported'
     author:
         - 'Dart2js Team'
+-
+    package_name: django_template_transformer
+    package_version: v0.0.1
+    title: 'v0.0.1 of django_template_transformer'
+    published: '2014-12-12T19:00:17+00:00'
+    id: 'urn:uuid:f16d03c8-6759-55b1-b8ff-263f92a79e46'
+    link: 'https://pub.dartlang.org/packages/django_template_transformer'
+    author:
+        - 'Lex Berezhny'
