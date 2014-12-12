@@ -3783,3 +3783,16 @@
     link: 'https://pub.dartlang.org/packages/play_phaser'
     author:
         - playif
+-
+    package_name: angular_ui
+    package_version: v0.6.2
+    title: 'v0.6.2 of angular_ui'
+    published: '2014-12-12T07:45:15+00:00'
+    id: 'urn:uuid:42fb13e1-8cf1-5cac-a9d7-b5d762971deb'
+    link: 'https://pub.dartlang.org/packages/angular_ui'
+    author:
+        - 'Sergey Akopkokhyants'
+        - 'Tonis Pool'
+        - 'Gunter Zochbauer'
+        - 'Francesco Cina'
+        - 'Neeraj Mittal'
