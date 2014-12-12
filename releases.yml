@@ -3814,3 +3814,21 @@
     link: 'https://pub.dartlang.org/packages/transmittable'
     author:
         - 'Daniel Robinson'
+-
+    package_name: core_elements
+    package_version: v0.6.0
+    title: 'v0.6.0 of core_elements'
+    published: '2014-12-12T15:15:19+00:00'
+    id: 'urn:uuid:257e5bdb-3e39-5e9c-a382-f2668eb20ed4'
+    link: 'https://pub.dartlang.org/packages/core_elements'
+    author:
+        - 'Polymer.dart Authors'
+-
+    package_name: paper_elements
+    package_version: v0.6.0+3
+    title: 'v0.6.0+3 of paper_elements'
+    published: '2014-12-12T15:15:19+00:00'
+    id: 'urn:uuid:4cd6898e-efe8-500d-a16e-89b0d37ddd45'
+    link: 'https://pub.dartlang.org/packages/paper_elements'
+    author:
+        - 'Polymer.dart Authors'
