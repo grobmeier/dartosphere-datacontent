@@ -3859,3 +3859,13 @@
     link: 'https://pub.dartlang.org/packages/django_template_transformer'
     author:
         - 'Lex Berezhny'
+-
+    package_name: FileTeCouch
+    package_version: v0.4.5
+    title: 'v0.4.5 of FileTeCouch'
+    published: '2014-12-12T21:05:12+00:00'
+    id: 'urn:uuid:3fa71421-3806-5839-9d4f-bc6317e4e5a5'
+    link: 'https://pub.dartlang.org/packages/FileTeCouch'
+    author:
+        - 'Samuel BERTHE'
+        - 'Corentin Pillet'
