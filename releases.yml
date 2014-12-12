@@ -3878,3 +3878,12 @@
     link: 'https://pub.dartlang.org/packages/metrics'
     author:
         - 'Alexandre Ardhuin'
+-
+    package_name: less_node
+    package_version: v0.2.1
+    title: 'v0.2.1 of less_node'
+    published: '2014-12-12T21:55:14+00:00'
+    id: 'urn:uuid:4599957e-b949-5e54-acdb-936042dc4f70'
+    link: 'https://pub.dartlang.org/packages/less_node'
+    author:
+        - 'Adalberto Lacruz'
