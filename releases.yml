@@ -3796,3 +3796,12 @@
         - 'Gunter Zochbauer'
         - 'Francesco Cina'
         - 'Neeraj Mittal'
+-
+    package_name: bwu_polymer_routing
+    package_version: v0.1.1+1
+    title: 'v0.1.1+1 of bwu_polymer_routing'
+    published: '2014-12-12T09:00:16+00:00'
+    id: 'urn:uuid:e16a5adb-e0c3-5124-b3ac-f4c2bf21e9fc'
+    link: 'https://pub.dartlang.org/packages/bwu_polymer_routing'
+    author:
+        - 'Günter Zöchbauer'
