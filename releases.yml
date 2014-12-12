@@ -3832,3 +3832,12 @@
     link: 'https://pub.dartlang.org/packages/paper_elements'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: neo4dart
+    package_version: v0.0.5
+    title: 'v0.0.5 of neo4dart'
+    published: '2014-12-12T16:45:17+00:00'
+    id: 'urn:uuid:09d3b90f-be68-50e2-966b-1e1be24c2a4d'
+    link: 'https://pub.dartlang.org/packages/neo4dart'
+    author:
+        - 'Matthieu Maquevice'
