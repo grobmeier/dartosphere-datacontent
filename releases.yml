@@ -3914,3 +3914,12 @@
     link: 'https://pub.dartlang.org/packages/dart_flex'
     author:
         - 'Frank Pepermans'
+-
+    package_name: dart_flex
+    package_version: v0.8.35
+    title: 'v0.8.35 of dart_flex'
+    published: '2014-12-13T07:40:10+00:00'
+    id: 'urn:uuid:f51adcd6-7a51-5277-9179-74aa9628ef3f'
+    link: 'https://pub.dartlang.org/packages/dart_flex'
+    author:
+        - 'Frank Pepermans'
