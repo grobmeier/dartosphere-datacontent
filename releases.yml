@@ -3905,3 +3905,12 @@
     link: 'https://pub.dartlang.org/packages/polymer'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: dart_flex
+    package_version: v0.8.34
+    title: 'v0.8.34 of dart_flex'
+    published: '2014-12-13T07:30:11+00:00'
+    id: 'urn:uuid:f9df2169-3c85-5a81-b211-abf0d4f9a27d'
+    link: 'https://pub.dartlang.org/packages/dart_flex'
+    author:
+        - 'Frank Pepermans'
