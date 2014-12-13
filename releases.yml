@@ -3932,3 +3932,12 @@
     link: 'https://pub.dartlang.org/packages/vcss'
     author:
         - 'Boris Kaul'
+-
+    package_name: system_info
+    package_version: v0.0.2
+    title: 'v0.0.2 of system_info'
+    published: '2014-12-13T15:45:11+00:00'
+    id: 'urn:uuid:c21cf703-bf82-5865-be24-4a1ded1636d3'
+    link: 'https://pub.dartlang.org/packages/system_info'
+    author:
+        - 'Andrew Mezoni'
