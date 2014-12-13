@@ -3923,3 +3923,12 @@
     link: 'https://pub.dartlang.org/packages/dart_flex'
     author:
         - 'Frank Pepermans'
+-
+    package_name: vcss
+    package_version: v0.0.1
+    title: 'v0.0.1 of vcss'
+    published: '2014-12-13T07:50:09+00:00'
+    id: 'urn:uuid:40c58016-29a3-5751-9494-e3c4a1547b91'
+    link: 'https://pub.dartlang.org/packages/vcss'
+    author:
+        - 'Boris Kaul'
