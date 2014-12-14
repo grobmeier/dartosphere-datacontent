@@ -4023,3 +4023,12 @@
     link: 'https://pub.dartlang.org/packages/applescript'
     author:
         - 'Christopher Su'
+-
+    package_name: system_info
+    package_version: v0.0.5
+    title: 'v0.0.5 of system_info'
+    published: '2014-12-14T16:00:13+00:00'
+    id: 'urn:uuid:e7f2a78d-ed20-534d-a3b6-f6abe9699d67'
+    link: 'https://pub.dartlang.org/packages/system_info'
+    author:
+        - 'Andrew Mezoni'
