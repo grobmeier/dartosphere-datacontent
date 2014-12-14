@@ -4014,3 +4014,12 @@
     link: 'https://pub.dartlang.org/packages/applescript'
     author:
         - 'Christopher Su'
+-
+    package_name: applescript
+    package_version: v0.0.5
+    title: 'v0.0.5 of applescript'
+    published: '2014-12-14T15:45:10+00:00'
+    id: 'urn:uuid:32a61bfb-058d-57ed-b321-2ed6d339e859'
+    link: 'https://pub.dartlang.org/packages/applescript'
+    author:
+        - 'Christopher Su'
