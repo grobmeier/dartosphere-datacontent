@@ -3987,3 +3987,12 @@
     link: 'https://pub.dartlang.org/packages/petitparser'
     author:
         - 'Lukas Renggli'
+-
+    package_name: bounce_around
+    package_version: v0.1.1
+    title: 'v0.1.1 of bounce_around'
+    published: '2014-12-14T12:25:09+00:00'
+    id: 'urn:uuid:65d335c4-714a-5ee0-b590-c2abc78e3760'
+    link: 'https://pub.dartlang.org/packages/bounce_around'
+    author:
+        - Recursion
