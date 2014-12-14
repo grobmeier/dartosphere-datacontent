@@ -3950,3 +3950,12 @@
     link: 'https://pub.dartlang.org/packages/bounce_around'
     author:
         - Recursion
+-
+    package_name: bounce_around
+    package_version: v0.1.0
+    title: 'v0.1.0 of bounce_around'
+    published: '2014-12-14T03:10:09+00:00'
+    id: 'urn:uuid:4098ad7b-c04a-52bb-99f3-0622ecc25028'
+    link: 'https://pub.dartlang.org/packages/bounce_around'
+    author:
+        - Recursion
