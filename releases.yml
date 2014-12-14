@@ -3941,3 +3941,12 @@
     link: 'https://pub.dartlang.org/packages/system_info'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: bounce_around
+    package_version: v0.0.1
+    title: 'v0.0.1 of bounce_around'
+    published: '2014-12-14T02:10:09+00:00'
+    id: 'urn:uuid:e2eee5cb-8a61-5e1c-bec6-5024a7ce411e'
+    link: 'https://pub.dartlang.org/packages/bounce_around'
+    author:
+        - Recursion
