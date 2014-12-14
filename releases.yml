@@ -4032,3 +4032,12 @@
     link: 'https://pub.dartlang.org/packages/system_info'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: dartcade
+    package_version: v0.0.2
+    title: 'v0.0.2 of dartcade'
+    published: '2014-12-14T17:40:10+00:00'
+    id: 'urn:uuid:da20e0d7-b643-530f-af27-19513b22854f'
+    link: 'https://pub.dartlang.org/packages/dartcade'
+    author:
+        - 'Manuel Ceron'
