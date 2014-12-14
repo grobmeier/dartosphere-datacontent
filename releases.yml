@@ -4041,3 +4041,12 @@
     link: 'https://pub.dartlang.org/packages/dartcade'
     author:
         - 'Manuel Ceron'
+-
+    package_name: angular_aria
+    package_version: v0.1.0
+    title: 'v0.1.0 of angular_aria'
+    published: '2014-12-14T18:15:11+00:00'
+    id: 'urn:uuid:fb3476dd-4250-5063-9e14-b7dd9e3b9bbf'
+    link: 'https://pub.dartlang.org/packages/angular_aria'
+    author:
+        - 'Neeraj Mittal'
