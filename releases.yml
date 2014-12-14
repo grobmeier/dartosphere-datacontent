@@ -3978,3 +3978,12 @@
     link: 'https://pub.dartlang.org/packages/xml'
     author:
         - 'Lukas Renggli'
+-
+    package_name: petitparser
+    package_version: v1.3.2
+    title: 'v1.3.2 of petitparser'
+    published: '2014-12-14T11:05:26+00:00'
+    id: 'urn:uuid:73217c3d-a5a4-53ae-9b8d-87ec9313f6cd'
+    link: 'https://pub.dartlang.org/packages/petitparser'
+    author:
+        - 'Lukas Renggli'
