@@ -3996,3 +3996,12 @@
     link: 'https://pub.dartlang.org/packages/bounce_around'
     author:
         - Recursion
+-
+    package_name: applescript
+    package_version: v0.0.2
+    title: 'v0.0.2 of applescript'
+    published: '2014-12-14T15:35:27+00:00'
+    id: 'urn:uuid:2f9ae8ef-207b-5c16-8b7c-21eadfa34525'
+    link: 'https://pub.dartlang.org/packages/applescript'
+    author:
+        - 'Christopher Su'
