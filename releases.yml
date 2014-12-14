@@ -4050,3 +4050,12 @@
     link: 'https://pub.dartlang.org/packages/angular_aria'
     author:
         - 'Neeraj Mittal'
+-
+    package_name: dart_coveralls
+    package_version: v0.0.9
+    title: 'v0.0.9 of dart_coveralls'
+    published: '2014-12-14T21:25:09+00:00'
+    id: 'urn:uuid:d006ac30-d9a1-5492-9753-16138db182b8'
+    link: 'https://pub.dartlang.org/packages/dart_coveralls'
+    author:
+        - 'Axel Christ'
