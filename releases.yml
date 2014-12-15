@@ -4221,3 +4221,12 @@
     link: 'https://pub.dartlang.org/packages/forcemvc'
     author:
         - 'Joris Hermans'
+-
+    package_name: cargo
+    package_version: v0.5.0+2
+    title: 'v0.5.0+2 of cargo'
+    published: '2014-12-15T16:00:23+00:00'
+    id: 'urn:uuid:55bf2e77-96db-55e9-9895-abffc39ead72'
+    link: 'https://pub.dartlang.org/packages/cargo'
+    author:
+        - 'Joris Hermans'
