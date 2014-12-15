@@ -4167,3 +4167,12 @@
     link: 'https://pub.dartlang.org/packages/cargo'
     author:
         - 'Joris Hermans'
+-
+    package_name: timezone
+    package_version: v0.2.3
+    title: 'v0.2.3 of timezone'
+    published: '2014-12-15T13:20:15+00:00'
+    id: 'urn:uuid:dc702ba3-d4c1-5ae6-8e82-fd8d47343867'
+    link: 'https://pub.dartlang.org/packages/timezone'
+    author:
+        - 'Boris Kaul'
