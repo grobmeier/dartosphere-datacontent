@@ -4212,3 +4212,12 @@
     link: 'https://pub.dartlang.org/packages/appengine'
     author:
         - 'Dart Team'
+-
+    package_name: forcemvc
+    package_version: v0.6.1
+    title: 'v0.6.1 of forcemvc'
+    published: '2014-12-15T15:05:18+00:00'
+    id: 'urn:uuid:5158d12d-2037-57c1-8ef9-8c1b4c8c6a0f'
+    link: 'https://pub.dartlang.org/packages/forcemvc'
+    author:
+        - 'Joris Hermans'
