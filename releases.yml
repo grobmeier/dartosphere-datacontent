@@ -4104,3 +4104,12 @@
     link: 'https://pub.dartlang.org/packages/applescript'
     author:
         - 'Christopher Su'
+-
+    package_name: dpa
+    package_version: v0.0.1
+    title: 'v0.0.1 of dpa'
+    published: '2014-12-15T10:40:13+00:00'
+    id: 'urn:uuid:a1a51a13-be1e-59f3-9525-c407256a1c83'
+    link: 'https://pub.dartlang.org/packages/dpa'
+    author:
+        - christophe.blettry
