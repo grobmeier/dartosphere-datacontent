@@ -4266,3 +4266,12 @@
     link: 'https://pub.dartlang.org/packages/firmata'
     author:
         - 'Nicolas Francois '
+-
+    package_name: dart_coveralls
+    package_version: v0.0.13
+    title: 'v0.0.13 of dart_coveralls'
+    published: '2014-12-15T22:50:13+00:00'
+    id: 'urn:uuid:a6f49405-7da2-5914-9ff2-ad0e69e87236'
+    link: 'https://pub.dartlang.org/packages/dart_coveralls'
+    author:
+        - 'Axel Christ'
