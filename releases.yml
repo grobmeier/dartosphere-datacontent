@@ -4077,3 +4077,12 @@
     link: 'https://pub.dartlang.org/packages/applescript'
     author:
         - 'Christopher Su'
+-
+    package_name: applescript
+    package_version: v0.0.7
+    title: 'v0.0.7 of applescript'
+    published: '2014-12-15T05:15:10+00:00'
+    id: 'urn:uuid:476cc4ab-a8cc-5a13-9f7c-0635a34fb7e0'
+    link: 'https://pub.dartlang.org/packages/applescript'
+    author:
+        - 'Christopher Su'
