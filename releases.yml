@@ -4185,3 +4185,21 @@
     link: 'https://pub.dartlang.org/packages/bigcargo'
     author:
         - 'Joris Hermans'
+-
+    package_name: googleapis_beta
+    package_version: v0.6.0
+    title: 'v0.6.0 of googleapis_beta'
+    published: '2014-12-15T14:30:20+00:00'
+    id: 'urn:uuid:ca2c17fe-e5c0-50ab-8bf0-c3fffaf43ce7'
+    link: 'https://pub.dartlang.org/packages/googleapis_beta'
+    author:
+        - 'Dart Team'
+-
+    package_name: googleapis
+    package_version: v0.5.1
+    title: 'v0.5.1 of googleapis'
+    published: '2014-12-15T14:30:20+00:00'
+    id: 'urn:uuid:4562c81e-7153-5fc5-89bc-c4d70f6ca3b4'
+    link: 'https://pub.dartlang.org/packages/googleapis'
+    author:
+        - 'Dart Team'
