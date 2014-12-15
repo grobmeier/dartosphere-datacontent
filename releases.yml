@@ -4306,3 +4306,13 @@
         - 'Anting Shen'
         - 'Misko Hevery'
         - 'Victor Berchet'
+-
+    package_name: FileTeCouch
+    package_version: v0.5.1
+    title: 'v0.5.1 of FileTeCouch'
+    published: '2014-12-15T23:25:09+00:00'
+    id: 'urn:uuid:81c23d2d-6ceb-5ffc-a2f3-b21abd2f53a5'
+    link: 'https://pub.dartlang.org/packages/FileTeCouch'
+    author:
+        - 'Samuel BERTHE'
+        - 'Corentin Pillet'
