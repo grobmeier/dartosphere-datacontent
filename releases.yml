@@ -4095,3 +4095,12 @@
     link: 'https://pub.dartlang.org/packages/mac_spotify'
     author:
         - 'Christopher Su'
+-
+    package_name: applescript
+    package_version: v0.0.8
+    title: 'v0.0.8 of applescript'
+    published: '2014-12-15T05:40:11+00:00'
+    id: 'urn:uuid:05240405-d53c-54b5-84ec-bf01672b863e'
+    link: 'https://pub.dartlang.org/packages/applescript'
+    author:
+        - 'Christopher Su'
