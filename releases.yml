@@ -4086,3 +4086,12 @@
     link: 'https://pub.dartlang.org/packages/applescript'
     author:
         - 'Christopher Su'
+-
+    package_name: mac_spotify
+    package_version: v0.0.1
+    title: 'v0.0.1 of mac_spotify'
+    published: '2014-12-15T05:20:11+00:00'
+    id: 'urn:uuid:852e7ac8-6e50-55ce-a734-d911e11c2edf'
+    link: 'https://pub.dartlang.org/packages/mac_spotify'
+    author:
+        - 'Christopher Su'
