@@ -4203,3 +4203,12 @@
     link: 'https://pub.dartlang.org/packages/googleapis'
     author:
         - 'Dart Team'
+-
+    package_name: appengine
+    package_version: v0.2.5
+    title: 'v0.2.5 of appengine'
+    published: '2014-12-15T14:35:15+00:00'
+    id: 'urn:uuid:88f962de-8917-59eb-a6d2-72bb20d62fba'
+    link: 'https://pub.dartlang.org/packages/appengine'
+    author:
+        - 'Dart Team'
