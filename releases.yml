@@ -4248,3 +4248,12 @@
     link: 'https://pub.dartlang.org/packages/bigcargo'
     author:
         - 'Joris Hermans'
+-
+    package_name: paper_elements
+    package_version: v0.6.0+4
+    title: 'v0.6.0+4 of paper_elements'
+    published: '2014-12-15T17:25:23+00:00'
+    id: 'urn:uuid:abd785ec-1e84-5685-a75e-2fce514f57ef'
+    link: 'https://pub.dartlang.org/packages/paper_elements'
+    author:
+        - 'Polymer.dart Authors'
