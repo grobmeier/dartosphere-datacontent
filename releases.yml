@@ -4257,3 +4257,12 @@
     link: 'https://pub.dartlang.org/packages/paper_elements'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: firmata
+    package_version: v0.1.3+2
+    title: 'v0.1.3+2 of firmata'
+    published: '2014-12-15T21:00:18+00:00'
+    id: 'urn:uuid:c6db4c50-a8f6-59df-b83c-fc53fc4893ab'
+    link: 'https://pub.dartlang.org/packages/firmata'
+    author:
+        - 'Nicolas Francois '
