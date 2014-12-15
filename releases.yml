@@ -4284,3 +4284,25 @@
     link: 'https://pub.dartlang.org/packages/dart_coveralls'
     author:
         - 'Axel Christ'
+-
+    package_name: serial_port
+    package_version: v0.1.0+1
+    title: 'v0.1.0+1 of serial_port'
+    published: '2014-12-15T23:15:11+00:00'
+    id: 'urn:uuid:3a1b00d4-6531-528e-a630-ba4076818700'
+    link: 'https://pub.dartlang.org/packages/serial_port'
+    author:
+        - 'Nicolas Francois '
+-
+    package_name: di
+    package_version: v3.3.3
+    title: 'v3.3.3 of di'
+    published: '2014-12-15T23:15:11+00:00'
+    id: 'urn:uuid:5fdf1fd4-38d1-58f3-a512-258554321e3c'
+    link: 'https://pub.dartlang.org/packages/di'
+    author:
+        - 'Vojta Jina'
+        - 'Pavel Jbanov'
+        - 'Anting Shen'
+        - 'Misko Hevery'
+        - 'Victor Berchet'
