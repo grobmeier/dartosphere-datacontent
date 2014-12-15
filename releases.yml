@@ -4068,3 +4068,12 @@
     link: 'https://pub.dartlang.org/packages/dart_coveralls'
     author:
         - 'Axel Christ'
+-
+    package_name: applescript
+    package_version: v0.0.6
+    title: 'v0.0.6 of applescript'
+    published: '2014-12-15T03:40:09+00:00'
+    id: 'urn:uuid:b7f4495f-4928-5167-bf8d-a9434c0cc448'
+    link: 'https://pub.dartlang.org/packages/applescript'
+    author:
+        - 'Christopher Su'
