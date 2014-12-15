@@ -4140,3 +4140,12 @@
     link: 'https://pub.dartlang.org/packages/timezone'
     author:
         - 'Boris Kaul'
+-
+    package_name: timezone
+    package_version: v0.2.2+2
+    title: 'v0.2.2+2 of timezone'
+    published: '2014-12-15T11:20:13+00:00'
+    id: 'urn:uuid:e81d19ea-c615-5594-a658-d3c718279f52'
+    link: 'https://pub.dartlang.org/packages/timezone'
+    author:
+        - 'Boris Kaul'
