@@ -4131,3 +4131,12 @@
     link: 'https://pub.dartlang.org/packages/dpa'
     author:
         - christophe.blettry
+-
+    package_name: timezone
+    package_version: v0.2.2+1
+    title: 'v0.2.2+1 of timezone'
+    published: '2014-12-15T11:00:19+00:00'
+    id: 'urn:uuid:91c0e01d-4748-5b4a-895c-1df1edba447f'
+    link: 'https://pub.dartlang.org/packages/timezone'
+    author:
+        - 'Boris Kaul'
