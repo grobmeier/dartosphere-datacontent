@@ -4113,3 +4113,12 @@
     link: 'https://pub.dartlang.org/packages/dpa'
     author:
         - christophe.blettry
+-
+    package_name: dpa
+    package_version: v0.0.2
+    title: 'v0.0.2 of dpa'
+    published: '2014-12-15T10:45:13+00:00'
+    id: 'urn:uuid:9f8ee891-464a-57fd-8caf-fdfd2b484c8f'
+    link: 'https://pub.dartlang.org/packages/dpa'
+    author:
+        - christophe.blettry
