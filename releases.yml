@@ -4158,3 +4158,12 @@
     link: 'https://pub.dartlang.org/packages/cargo'
     author:
         - 'Joris Hermans'
+-
+    package_name: cargo
+    package_version: v0.5.0+1
+    title: 'v0.5.0+1 of cargo'
+    published: '2014-12-15T12:40:15+00:00'
+    id: 'urn:uuid:a6298b59-fcef-5b38-ba55-884abebcd014'
+    link: 'https://pub.dartlang.org/packages/cargo'
+    author:
+        - 'Joris Hermans'
