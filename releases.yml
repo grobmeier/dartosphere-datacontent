@@ -4370,3 +4370,12 @@
     link: 'https://pub.dartlang.org/packages/codemirror'
     author:
         - 'Devon Carew'
+-
+    package_name: firmata
+    package_version: v0.2.0
+    title: 'v0.2.0 of firmata'
+    published: '2014-12-16T22:45:17+00:00'
+    id: 'urn:uuid:9c084850-1ea4-5125-a2ce-61be3f3551c4'
+    link: 'https://pub.dartlang.org/packages/firmata'
+    author:
+        - 'Nicolas Francois '
