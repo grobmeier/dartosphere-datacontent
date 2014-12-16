@@ -4352,3 +4352,12 @@
     link: 'https://pub.dartlang.org/packages/serial_port'
     author:
         - 'Nicolas Francois '
+-
+    package_name: metrics
+    package_version: v0.1.0
+    title: 'v0.1.0 of metrics'
+    published: '2014-12-16T22:20:20+00:00'
+    id: 'urn:uuid:3daaec3f-db3b-5835-8de3-de3ffb43ae43'
+    link: 'https://pub.dartlang.org/packages/metrics'
+    author:
+        - 'Alexandre Ardhuin'
