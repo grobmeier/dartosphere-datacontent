@@ -4361,3 +4361,12 @@
     link: 'https://pub.dartlang.org/packages/metrics'
     author:
         - 'Alexandre Ardhuin'
+-
+    package_name: codemirror
+    package_version: v0.0.11+4.8.0
+    title: 'v0.0.11+4.8.0 of codemirror'
+    published: '2014-12-16T22:25:22+00:00'
+    id: 'urn:uuid:6f288526-6c63-52ae-b36d-d3eede3c6e12'
+    link: 'https://pub.dartlang.org/packages/codemirror'
+    author:
+        - 'Devon Carew'
