@@ -4316,3 +4316,12 @@
     author:
         - 'Samuel BERTHE'
         - 'Corentin Pillet'
+-
+    package_name: ccompile
+    package_version: v0.2.4
+    title: 'v0.2.4 of ccompile'
+    published: '2014-12-16T05:30:12+00:00'
+    id: 'urn:uuid:38aeb617-4d5d-57d1-8310-000fcd478fa2'
+    link: 'https://pub.dartlang.org/packages/ccompile'
+    author:
+        - 'Andrew Mezoni'
