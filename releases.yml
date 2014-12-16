@@ -4379,3 +4379,21 @@
     link: 'https://pub.dartlang.org/packages/firmata'
     author:
         - 'Nicolas Francois '
+-
+    package_name: intl
+    package_version: v0.11.12
+    title: 'v0.11.12 of intl'
+    published: '2014-12-16T23:20:18+00:00'
+    id: 'urn:uuid:bae2531a-d5c0-5b3d-ba4a-bfb81a54809e'
+    link: 'https://pub.dartlang.org/packages/intl'
+    author:
+        - 'Dart Team'
+-
+    package_name: usage
+    package_version: v0.0.1
+    title: 'v0.0.1 of usage'
+    published: '2014-12-16T23:20:18+00:00'
+    id: 'urn:uuid:07f9fe13-218f-53b9-86ce-9416c3f5704a'
+    link: 'https://pub.dartlang.org/packages/usage'
+    author:
+        - 'Dart Team'
