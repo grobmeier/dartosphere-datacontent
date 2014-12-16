@@ -4325,3 +4325,12 @@
     link: 'https://pub.dartlang.org/packages/ccompile'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: system_info
+    package_version: v0.0.6
+    title: 'v0.0.6 of system_info'
+    published: '2014-12-16T06:06:53+00:00'
+    id: 'urn:uuid:d01371bf-4645-56eb-ac46-abf7c0f94d3f'
+    link: 'https://pub.dartlang.org/packages/system_info'
+    author:
+        - 'Andrew Mezoni'
