@@ -4334,3 +4334,12 @@
     link: 'https://pub.dartlang.org/packages/system_info'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: dart_orm
+    package_version: v0.0.3
+    title: 'v0.0.3 of dart_orm'
+    published: '2014-12-16T14:20:19+00:00'
+    id: 'urn:uuid:84c21356-eb1a-5258-bdd8-44a112d7a858'
+    link: 'https://pub.dartlang.org/packages/dart_orm'
+    author:
+        - 'Ustimenko Sergey'
