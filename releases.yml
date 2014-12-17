@@ -4471,3 +4471,12 @@
     link: 'https://pub.dartlang.org/packages/signal_dart'
     author:
         - 'Darren Reid'
+-
+    package_name: idb_shim
+    package_version: v0.7.0
+    title: 'v0.7.0 of idb_shim'
+    published: '2014-12-17T11:30:25+00:00'
+    id: 'urn:uuid:ecce736f-1067-5c7e-86da-258f0af42258'
+    link: 'https://pub.dartlang.org/packages/idb_shim'
+    author:
+        - 'Alexandre Roux Tekartik'
