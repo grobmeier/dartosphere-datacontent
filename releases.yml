@@ -4406,3 +4406,13 @@
     link: 'https://pub.dartlang.org/packages/args'
     author:
         - 'Dart Team'
+-
+    package_name: stagehand
+    package_version: v0.1.5
+    title: 'v0.1.5 of stagehand'
+    published: '2014-12-17T00:40:17+00:00'
+    id: 'urn:uuid:47a4c19d-af43-5175-a023-111d5942995f'
+    link: 'https://pub.dartlang.org/packages/stagehand'
+    author:
+        - 'Seth Ladd'
+        - 'Devon Carew'
