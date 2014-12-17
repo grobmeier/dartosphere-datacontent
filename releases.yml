@@ -4453,3 +4453,21 @@
     link: 'https://pub.dartlang.org/packages/idb_shim'
     author:
         - 'Alexandre Roux Tekartik'
+-
+    package_name: sembast
+    package_version: v0.1.0
+    title: 'v0.1.0 of sembast'
+    published: '2014-12-17T10:25:11+00:00'
+    id: 'urn:uuid:fba44dcd-786d-54de-b8e9-ff58e02b5798'
+    link: 'https://pub.dartlang.org/packages/sembast'
+    author:
+        - 'Alexandre Roux Tekartik'
+-
+    package_name: signal_dart
+    package_version: v0.0.3
+    title: 'v0.0.3 of signal_dart'
+    published: '2014-12-17T10:25:12+00:00'
+    id: 'urn:uuid:91e5053b-abe8-52cb-97b4-28bcc25afd5b'
+    link: 'https://pub.dartlang.org/packages/signal_dart'
+    author:
+        - 'Darren Reid'
