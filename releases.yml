@@ -4444,3 +4444,12 @@
     link: 'https://pub.dartlang.org/packages/parsejs'
     author:
         - 'Asger Feldthaus'
+-
+    package_name: idb_shim
+    package_version: v0.6.2
+    title: 'v0.6.2 of idb_shim'
+    published: '2014-12-17T10:20:13+00:00'
+    id: 'urn:uuid:a3233399-7c9f-58ac-a321-6322b36eccda'
+    link: 'https://pub.dartlang.org/packages/idb_shim'
+    author:
+        - 'Alexandre Roux Tekartik'
