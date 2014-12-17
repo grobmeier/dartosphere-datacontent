@@ -4435,3 +4435,12 @@
     link: 'https://pub.dartlang.org/packages/args'
     author:
         - 'Dart Team'
+-
+    package_name: parsejs
+    package_version: v1.0.3
+    title: 'v1.0.3 of parsejs'
+    published: '2014-12-17T08:20:12+00:00'
+    id: 'urn:uuid:2ee00a5e-7a0c-504f-9473-f192e29338f6'
+    link: 'https://pub.dartlang.org/packages/parsejs'
+    author:
+        - 'Asger Feldthaus'
