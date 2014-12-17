@@ -4498,3 +4498,12 @@
     link: 'https://pub.dartlang.org/packages/system_info'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: usage
+    package_version: v0.0.2
+    title: 'v0.0.2 of usage'
+    published: '2014-12-17T19:35:18+00:00'
+    id: 'urn:uuid:56a4c2c5-4eb3-5937-a159-a26fae9b0a2a'
+    link: 'https://pub.dartlang.org/packages/usage'
+    author:
+        - 'Dart Team'
