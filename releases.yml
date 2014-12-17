@@ -4507,3 +4507,12 @@
     link: 'https://pub.dartlang.org/packages/usage'
     author:
         - 'Dart Team'
+-
+    package_name: dart_coveralls
+    package_version: v0.0.16
+    title: 'v0.0.16 of dart_coveralls'
+    published: '2014-12-17T20:20:22+00:00'
+    id: 'urn:uuid:2ce9804f-88a6-56b7-8100-fe4ea041c717'
+    link: 'https://pub.dartlang.org/packages/dart_coveralls'
+    author:
+        - 'Axel Christ'
