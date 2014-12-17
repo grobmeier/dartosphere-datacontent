@@ -4416,3 +4416,13 @@
     author:
         - 'Seth Ladd'
         - 'Devon Carew'
+-
+    package_name: stagehand
+    package_version: v0.1.5+1
+    title: 'v0.1.5+1 of stagehand'
+    published: '2014-12-17T00:45:17+00:00'
+    id: 'urn:uuid:bce25fd1-0c67-59da-a482-b74a8217d398'
+    link: 'https://pub.dartlang.org/packages/stagehand'
+    author:
+        - 'Seth Ladd'
+        - 'Devon Carew'
