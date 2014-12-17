@@ -4516,3 +4516,12 @@
     link: 'https://pub.dartlang.org/packages/dart_coveralls'
     author:
         - 'Axel Christ'
+-
+    package_name: dart_coveralls
+    package_version: v0.0.17
+    title: 'v0.0.17 of dart_coveralls'
+    published: '2014-12-17T20:30:26+00:00'
+    id: 'urn:uuid:228fac89-7b2c-5693-87d1-fb7776dafc9d'
+    link: 'https://pub.dartlang.org/packages/dart_coveralls'
+    author:
+        - 'Axel Christ'
