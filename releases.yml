@@ -4489,3 +4489,12 @@
     link: 'https://pub.dartlang.org/packages/dart_coveralls'
     author:
         - 'Axel Christ'
+-
+    package_name: system_info
+    package_version: v0.0.8
+    title: 'v0.0.8 of system_info'
+    published: '2014-12-17T18:00:29+00:00'
+    id: 'urn:uuid:bfd69afa-d9bf-5fd2-a316-b5f12f928c72'
+    link: 'https://pub.dartlang.org/packages/system_info'
+    author:
+        - 'Andrew Mezoni'
