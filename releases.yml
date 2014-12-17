@@ -4480,3 +4480,12 @@
     link: 'https://pub.dartlang.org/packages/idb_shim'
     author:
         - 'Alexandre Roux Tekartik'
+-
+    package_name: dart_coveralls
+    package_version: v0.0.15
+    title: 'v0.0.15 of dart_coveralls'
+    published: '2014-12-17T13:15:25+00:00'
+    id: 'urn:uuid:47d9e94f-00ea-5302-8042-9ffa034851fa'
+    link: 'https://pub.dartlang.org/packages/dart_coveralls'
+    author:
+        - 'Axel Christ'
