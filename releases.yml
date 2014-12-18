@@ -4689,3 +4689,12 @@
     link: 'https://pub.dartlang.org/packages/light_route'
     author:
         - 'Mateusz Zawartka'
+-
+    package_name: light_route
+    package_version: v1.0.1
+    title: 'v1.0.1 of light_route'
+    published: '2014-12-18T18:30:23+00:00'
+    id: 'urn:uuid:674239b0-2fa7-594b-afe8-c71f6fd56c87'
+    link: 'https://pub.dartlang.org/packages/light_route'
+    author:
+        - Matt
