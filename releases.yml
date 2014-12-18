@@ -4734,3 +4734,12 @@
     link: 'https://pub.dartlang.org/packages/test_runner'
     author:
         - 'Nicolas Garnier'
+-
+    package_name: dart_coveralls
+    package_version: v0.1.3
+    title: 'v0.1.3 of dart_coveralls'
+    published: '2014-12-18T19:40:24+00:00'
+    id: 'urn:uuid:22c4d89b-fc67-5f55-bd26-d5a8aeef0ce3'
+    link: 'https://pub.dartlang.org/packages/dart_coveralls'
+    author:
+        - 'Axel Christ'
