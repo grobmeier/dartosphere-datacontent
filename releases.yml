@@ -4743,3 +4743,12 @@
     link: 'https://pub.dartlang.org/packages/dart_coveralls'
     author:
         - 'Axel Christ'
+-
+    package_name: dart_coveralls
+    package_version: v0.1.4
+    title: 'v0.1.4 of dart_coveralls'
+    published: '2014-12-18T19:45:22+00:00'
+    id: 'urn:uuid:1554565e-0eb9-58b4-aaab-9b6641b3436d'
+    link: 'https://pub.dartlang.org/packages/dart_coveralls'
+    author:
+        - 'Axel Christ'
