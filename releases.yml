@@ -4752,3 +4752,21 @@
     link: 'https://pub.dartlang.org/packages/dart_coveralls'
     author:
         - 'Axel Christ'
+-
+    package_name: dart_coveralls
+    package_version: v0.1.5
+    title: 'v0.1.5 of dart_coveralls'
+    published: '2014-12-18T19:50:28+00:00'
+    id: 'urn:uuid:5678a776-4127-532a-b72c-a8d2246f4206'
+    link: 'https://pub.dartlang.org/packages/dart_coveralls'
+    author:
+        - 'Axel Christ'
+-
+    package_name: test_runner
+    package_version: v0.2.0+5
+    title: 'v0.2.0+5 of test_runner'
+    published: '2014-12-18T19:50:28+00:00'
+    id: 'urn:uuid:2a3ae610-ec49-57a6-8017-293904ddf3be'
+    link: 'https://pub.dartlang.org/packages/test_runner'
+    author:
+        - 'Nicolas Garnier'
