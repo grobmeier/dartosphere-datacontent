@@ -4590,3 +4590,12 @@
         - 'Tom Yeh'
         - 'Henri Chen'
         - 'Simon Pai'
+-
+    package_name: system_info
+    package_version: v0.0.9
+    title: 'v0.0.9 of system_info'
+    published: '2014-12-18T09:15:21+00:00'
+    id: 'urn:uuid:69b266f4-a342-5ac9-a61b-af6784d35aaa'
+    link: 'https://pub.dartlang.org/packages/system_info'
+    author:
+        - 'Andrew Mezoni'
