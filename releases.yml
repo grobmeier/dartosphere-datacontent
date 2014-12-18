@@ -4570,3 +4570,12 @@
     link: 'https://pub.dartlang.org/packages/sketch'
     author:
         - 'Marcos Cooper'
+-
+    package_name: do2
+    package_version: v0.2.0
+    title: 'v0.2.0 of do2'
+    published: '2014-12-18T08:00:23+00:00'
+    id: 'urn:uuid:a801a548-bcf7-55a7-bd55-ffba1dc06b4e'
+    link: 'https://pub.dartlang.org/packages/do2'
+    author:
+        - 'Mikhail Stolyarov'
