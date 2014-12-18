@@ -4617,3 +4617,12 @@
     link: 'https://pub.dartlang.org/packages/ccompilers'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: do2
+    package_version: v0.2.1
+    title: 'v0.2.1 of do2'
+    published: '2014-12-18T11:40:19+00:00'
+    id: 'urn:uuid:992e6da2-2e41-593b-8f20-3d82177c0571'
+    link: 'https://pub.dartlang.org/packages/do2'
+    author:
+        - 'Mikhail Stolyarov'
