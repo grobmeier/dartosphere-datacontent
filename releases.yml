@@ -4543,3 +4543,12 @@
     link: 'https://pub.dartlang.org/packages/google_signin_dart'
     author:
         - pjv
+-
+    package_name: google_signin_dart
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of google_signin_dart'
+    published: '2014-12-18T00:30:11+00:00'
+    id: 'urn:uuid:97bca428-ae56-5738-9b6c-64f22457aa9a'
+    link: 'https://pub.dartlang.org/packages/google_signin_dart'
+    author:
+        - pjv
