@@ -4860,3 +4860,12 @@
     link: 'https://pub.dartlang.org/packages/test_runner'
     author:
         - 'Nicolas Garnier'
+-
+    package_name: dart_coveralls
+    package_version: v0.1.6
+    title: 'v0.1.6 of dart_coveralls'
+    published: '2014-12-18T21:05:12+00:00'
+    id: 'urn:uuid:f152bbf8-6894-5b21-a53c-7e7a81fdf444'
+    link: 'https://pub.dartlang.org/packages/dart_coveralls'
+    author:
+        - 'Axel Christ'
