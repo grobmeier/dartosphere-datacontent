@@ -4788,3 +4788,12 @@
     link: 'https://pub.dartlang.org/packages/usage'
     author:
         - 'Dart Team'
+-
+    package_name: test_runner
+    package_version: v0.2.0+6-dev
+    title: 'v0.2.0+6-dev of test_runner'
+    published: '2014-12-18T20:10:14+00:00'
+    id: 'urn:uuid:3a85d14e-2707-5b4c-b2ba-409523341d1e'
+    link: 'https://pub.dartlang.org/packages/test_runner'
+    author:
+        - 'Nicolas Garnier'
