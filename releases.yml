@@ -4635,3 +4635,12 @@
     link: 'https://pub.dartlang.org/packages/dart_orm'
     author:
         - 'Ustimenko Sergey'
+-
+    package_name: dartbeans
+    package_version: v0.4.0
+    title: 'v0.4.0 of dartbeans'
+    published: '2014-12-18T16:10:14+00:00'
+    id: 'urn:uuid:dfa51eb7-524a-5720-a40c-a9039249c448'
+    link: 'https://pub.dartlang.org/packages/dartbeans'
+    author:
+        - 'Roberto Tassi'
