@@ -4599,3 +4599,12 @@
     link: 'https://pub.dartlang.org/packages/system_info'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: ccompile
+    package_version: v0.2.5
+    title: 'v0.2.5 of ccompile'
+    published: '2014-12-18T09:45:21+00:00'
+    id: 'urn:uuid:0052dfe6-23af-5cd1-9b7a-c928d9ed93b4'
+    link: 'https://pub.dartlang.org/packages/ccompile'
+    author:
+        - 'Andrew Mezoni'
