@@ -4698,3 +4698,12 @@
     link: 'https://pub.dartlang.org/packages/light_route'
     author:
         - Matt
+-
+    package_name: dart_coveralls
+    package_version: v0.1.0
+    title: 'v0.1.0 of dart_coveralls'
+    published: '2014-12-18T18:55:17+00:00'
+    id: 'urn:uuid:5a6c8c90-828f-5db0-a04a-eff4b7094929'
+    link: 'https://pub.dartlang.org/packages/dart_coveralls'
+    author:
+        - 'Axel Christ'
