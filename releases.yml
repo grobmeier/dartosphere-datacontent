@@ -4644,3 +4644,12 @@
     link: 'https://pub.dartlang.org/packages/dartbeans'
     author:
         - 'Roberto Tassi'
+-
+    package_name: system_info
+    package_version: v0.0.10
+    title: 'v0.0.10 of system_info'
+    published: '2014-12-18T16:25:24+00:00'
+    id: 'urn:uuid:59820ac8-1027-56da-808f-917891cf242b'
+    link: 'https://pub.dartlang.org/packages/system_info'
+    author:
+        - 'Andrew Mezoni'
