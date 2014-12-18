@@ -4896,3 +4896,12 @@
     link: 'https://pub.dartlang.org/packages/usage'
     author:
         - 'Dart Team'
+-
+    package_name: highcharts_options
+    package_version: v0.1.0
+    title: 'v0.1.0 of highcharts_options'
+    published: '2014-12-18T23:00:14+00:00'
+    id: 'urn:uuid:8a495a27-413a-5d56-b742-9beb4e5ca06c'
+    link: 'https://pub.dartlang.org/packages/highcharts_options'
+    author:
+        - 'Gonzalo Pezzi'
