@@ -4680,3 +4680,12 @@
     link: 'https://pub.dartlang.org/packages/codemirror'
     author:
         - 'Devon Carew'
+-
+    package_name: light_route
+    package_version: v1.0.0
+    title: 'v1.0.0 of light_route'
+    published: '2014-12-18T18:20:20+00:00'
+    id: 'urn:uuid:f0223209-18c9-5340-8bec-e7e0bd332ef2'
+    link: 'https://pub.dartlang.org/packages/light_route'
+    author:
+        - 'Mateusz Zawartka'
