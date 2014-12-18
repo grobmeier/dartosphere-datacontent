@@ -4824,3 +4824,12 @@
     link: 'https://pub.dartlang.org/packages/test_runner'
     author:
         - 'Nicolas Garnier'
+-
+    package_name: test_runner
+    package_version: v0.2.0+8-dev5
+    title: 'v0.2.0+8-dev5 of test_runner'
+    published: '2014-12-18T20:35:10+00:00'
+    id: 'urn:uuid:3005b67b-7bd1-5846-b656-52226a0c3e47'
+    link: 'https://pub.dartlang.org/packages/test_runner'
+    author:
+        - 'Nicolas Garnier'
