@@ -4534,3 +4534,12 @@
     link: 'https://pub.dartlang.org/packages/dart_coveralls'
     author:
         - 'Axel Christ'
+-
+    package_name: google_signin_dart
+    package_version: v0.2.0
+    title: 'v0.2.0 of google_signin_dart'
+    published: '2014-12-18T00:20:13+00:00'
+    id: 'urn:uuid:30667d08-0bae-5bb1-b02b-956024777d68'
+    link: 'https://pub.dartlang.org/packages/google_signin_dart'
+    author:
+        - pjv
