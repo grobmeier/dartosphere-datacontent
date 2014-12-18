@@ -4608,3 +4608,12 @@
     link: 'https://pub.dartlang.org/packages/ccompile'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: ccompilers
+    package_version: v0.2.2
+    title: 'v0.2.2 of ccompilers'
+    published: '2014-12-18T09:55:18+00:00'
+    id: 'urn:uuid:e0d4c3ef-3f0d-5f46-9f0f-7c03257b7007'
+    link: 'https://pub.dartlang.org/packages/ccompilers'
+    author:
+        - 'Andrew Mezoni'
