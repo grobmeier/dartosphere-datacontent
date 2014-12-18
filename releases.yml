@@ -4626,3 +4626,12 @@
     link: 'https://pub.dartlang.org/packages/do2'
     author:
         - 'Mikhail Stolyarov'
+-
+    package_name: dart_orm
+    package_version: v0.0.4
+    title: 'v0.0.4 of dart_orm'
+    published: '2014-12-18T16:05:22+00:00'
+    id: 'urn:uuid:5b50b487-038f-5b50-9ed2-a22df1fc7a89'
+    link: 'https://pub.dartlang.org/packages/dart_orm'
+    author:
+        - 'Ustimenko Sergey'
