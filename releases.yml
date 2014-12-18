@@ -4561,3 +4561,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_web_socket'
     author:
         - 'Dart Team'
+-
+    package_name: sketch
+    package_version: v0.1.0
+    title: 'v0.1.0 of sketch'
+    published: '2014-12-18T02:05:09+00:00'
+    id: 'urn:uuid:e156dbc3-b361-5903-9cd8-578366c246cd'
+    link: 'https://pub.dartlang.org/packages/sketch'
+    author:
+        - 'Marcos Cooper'
