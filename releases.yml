@@ -5049,3 +5049,21 @@
     link: 'https://pub.dartlang.org/packages/objective_regex'
     author:
         - laco0416
+-
+    package_name: polymer_highcharts
+    package_version: v0.1.0+2
+    title: 'v0.1.0+2 of polymer_highcharts'
+    published: '2014-12-19T19:35:26+00:00'
+    id: 'urn:uuid:ba9aec0d-21ea-5571-8256-a2619c274dda'
+    link: 'https://pub.dartlang.org/packages/polymer_highcharts'
+    author:
+        - 'Gonzalo Pezzi'
+-
+    package_name: highcharts_options
+    package_version: v0.1.0+1
+    title: 'v0.1.0+1 of highcharts_options'
+    published: '2014-12-19T19:35:26+00:00'
+    id: 'urn:uuid:8d0018b1-38dd-5256-aa57-37cbceee9acd'
+    link: 'https://pub.dartlang.org/packages/highcharts_options'
+    author:
+        - 'Gonzalo Pezzi'
