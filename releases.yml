@@ -4932,3 +4932,12 @@
     link: 'https://pub.dartlang.org/packages/tuneup'
     author:
         - 'Devon Carew'
+-
+    package_name: textent
+    package_version: v0.0.4
+    title: 'v0.0.4 of textent'
+    published: '2014-12-19T02:05:13+00:00'
+    id: 'urn:uuid:c535ab49-e3eb-5476-a9f8-83a10a9f897c'
+    link: 'https://pub.dartlang.org/packages/textent'
+    author:
+        - 'Cristian Almstrand'
