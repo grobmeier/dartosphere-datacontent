@@ -5013,3 +5013,12 @@
     link: 'https://pub.dartlang.org/packages/dialog'
     author:
         - 'Pavel Dvořák'
+-
+    package_name: viltage
+    package_version: v0.3.3+39
+    title: 'v0.3.3+39 of viltage'
+    published: '2014-12-19T14:35:21+00:00'
+    id: 'urn:uuid:f1939b71-5c6a-5e44-aed7-812726f45b3f'
+    link: 'https://pub.dartlang.org/packages/viltage'
+    author:
+        - ViliX64
