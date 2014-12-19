@@ -4950,3 +4950,12 @@
     link: 'https://pub.dartlang.org/packages/textent'
     author:
         - 'Cristian Almstrand'
+-
+    package_name: play_pixi
+    package_version: v0.10.6
+    title: 'v0.10.6 of play_pixi'
+    published: '2014-12-19T08:05:10+00:00'
+    id: 'urn:uuid:5b109e2a-3ff2-5a15-b2d2-406de596a9fb'
+    link: 'https://pub.dartlang.org/packages/play_pixi'
+    author:
+        - playif
