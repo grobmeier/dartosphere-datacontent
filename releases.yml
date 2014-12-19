@@ -5076,3 +5076,12 @@
     link: 'https://pub.dartlang.org/packages/path'
     author:
         - 'Dart Team'
+-
+    package_name: test_runner
+    package_version: v0.2.2
+    title: 'v0.2.2 of test_runner'
+    published: '2014-12-19T22:40:15+00:00'
+    id: 'urn:uuid:33c4489d-00bd-5652-8f74-89c0fadae9ce'
+    link: 'https://pub.dartlang.org/packages/test_runner'
+    author:
+        - 'Nicolas Garnier'
