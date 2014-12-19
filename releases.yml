@@ -4977,3 +4977,12 @@
     link: 'https://pub.dartlang.org/packages/validate'
     author:
         - 'Mike Mitterer '
+-
+    package_name: validate
+    package_version: v1.4.2
+    title: 'v1.4.2 of validate'
+    published: '2014-12-19T10:50:13+00:00'
+    id: 'urn:uuid:dc403c33-00e8-5fdd-b507-ed51653db7c4'
+    link: 'https://pub.dartlang.org/packages/validate'
+    author:
+        - 'Mike Mitterer '
