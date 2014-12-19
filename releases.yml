@@ -4986,3 +4986,12 @@
     link: 'https://pub.dartlang.org/packages/validate'
     author:
         - 'Mike Mitterer '
+-
+    package_name: _test_
+    package_version: v0.1.2
+    title: 'v0.1.2 of _test_'
+    published: '2014-12-19T13:00:16+00:00'
+    id: 'urn:uuid:d8e5d9ea-83b2-5c55-8189-c5cdca1616c1'
+    link: 'https://pub.dartlang.org/packages/_test_'
+    author:
+        - 'Dart Team'
