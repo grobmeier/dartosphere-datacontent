@@ -4959,3 +4959,12 @@
     link: 'https://pub.dartlang.org/packages/play_pixi'
     author:
         - playif
+-
+    package_name: validate
+    package_version: v1.4.0
+    title: 'v1.4.0 of validate'
+    published: '2014-12-19T10:30:16+00:00'
+    id: 'urn:uuid:88de5981-683e-52bc-a62c-171334687413'
+    link: 'https://pub.dartlang.org/packages/validate'
+    author:
+        - 'Mike Mitterer '
