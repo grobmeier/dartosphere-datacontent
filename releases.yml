@@ -5022,3 +5022,12 @@
     link: 'https://pub.dartlang.org/packages/viltage'
     author:
         - ViliX64
+-
+    package_name: objective_regex
+    package_version: v0.1.0+1
+    title: 'v0.1.0+1 of objective_regex'
+    published: '2014-12-19T15:35:11+00:00'
+    id: 'urn:uuid:779f8e49-0eef-588b-97d2-23bed83fd6a1'
+    link: 'https://pub.dartlang.org/packages/objective_regex'
+    author:
+        - laco0416
