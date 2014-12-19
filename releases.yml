@@ -5067,3 +5067,12 @@
     link: 'https://pub.dartlang.org/packages/highcharts_options'
     author:
         - 'Gonzalo Pezzi'
+-
+    package_name: path
+    package_version: v1.3.1
+    title: 'v1.3.1 of path'
+    published: '2014-12-19T21:00:22+00:00'
+    id: 'urn:uuid:40280e05-0a45-5b3b-b5c2-bea664cdf027'
+    link: 'https://pub.dartlang.org/packages/path'
+    author:
+        - 'Dart Team'
