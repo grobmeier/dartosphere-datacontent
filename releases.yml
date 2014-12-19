@@ -5031,3 +5031,12 @@
     link: 'https://pub.dartlang.org/packages/objective_regex'
     author:
         - laco0416
+-
+    package_name: objective_regex
+    package_version: v0.1.0+2
+    title: 'v0.1.0+2 of objective_regex'
+    published: '2014-12-19T16:00:20+00:00'
+    id: 'urn:uuid:2e3bd5e7-81c9-5ce6-bc26-39c42a7cb94e'
+    link: 'https://pub.dartlang.org/packages/objective_regex'
+    author:
+        - laco0416
