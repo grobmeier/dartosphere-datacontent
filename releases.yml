@@ -5094,3 +5094,12 @@
     link: 'https://pub.dartlang.org/packages/test_runner'
     author:
         - 'Nicolas Garnier'
+-
+    package_name: test_runner
+    package_version: v0.2.3+1
+    title: 'v0.2.3+1 of test_runner'
+    published: '2014-12-20T00:05:14+00:00'
+    id: 'urn:uuid:83d7c8d8-5813-52f4-9092-930a21888261'
+    link: 'https://pub.dartlang.org/packages/test_runner'
+    author:
+        - 'Nicolas Garnier'
