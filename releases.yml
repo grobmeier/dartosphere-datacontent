@@ -5112,3 +5112,12 @@
     link: 'https://pub.dartlang.org/packages/test_runner'
     author:
         - 'Nicolas Garnier'
+-
+    package_name: system_info
+    package_version: v0.0.11
+    title: 'v0.0.11 of system_info'
+    published: '2014-12-20T06:40:10+00:00'
+    id: 'urn:uuid:310a876e-b36f-510a-900a-43ad89f89d1b'
+    link: 'https://pub.dartlang.org/packages/system_info'
+    author:
+        - 'Andrew Mezoni'
