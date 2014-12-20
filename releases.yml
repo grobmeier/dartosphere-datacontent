@@ -5130,3 +5130,12 @@
     link: 'https://pub.dartlang.org/packages/dart_cassandra_cql'
     author:
         - 'Achilleas Anagnostopoulos'
+-
+    package_name: sembast
+    package_version: v0.2.0
+    title: 'v0.2.0 of sembast'
+    published: '2014-12-20T10:35:12+00:00'
+    id: 'urn:uuid:492c155b-ab9d-58dc-bcd4-762c13a71503'
+    link: 'https://pub.dartlang.org/packages/sembast'
+    author:
+        - 'Alexandre Roux Tekartik'
