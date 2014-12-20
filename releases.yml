@@ -5292,3 +5292,12 @@
     link: 'https://pub.dartlang.org/packages/viltage'
     author:
         - ViliX64
+-
+    package_name: sembast
+    package_version: v0.2.1
+    title: 'v0.2.1 of sembast'
+    published: '2014-12-20T16:15:15+00:00'
+    id: 'urn:uuid:4de6e532-5946-57db-8030-8007f379b8f4'
+    link: 'https://pub.dartlang.org/packages/sembast'
+    author:
+        - 'Alexandre Roux Tekartik'
