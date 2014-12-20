@@ -5166,3 +5166,12 @@
     link: 'https://pub.dartlang.org/packages/ace'
     author:
         - 'Ross Smith'
+-
+    package_name: viltage
+    package_version: v0.3.3+41
+    title: 'v0.3.3+41 of viltage'
+    published: '2014-12-20T14:05:08+00:00'
+    id: 'urn:uuid:267bc67d-088b-52a4-bb77-6e5cdfd03628'
+    link: 'https://pub.dartlang.org/packages/viltage'
+    author:
+        - ViliX64
