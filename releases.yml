@@ -5121,3 +5121,12 @@
     link: 'https://pub.dartlang.org/packages/system_info'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: dart_cassandra_cql
+    package_version: v0.1.3
+    title: 'v0.1.3 of dart_cassandra_cql'
+    published: '2014-12-20T08:40:09+00:00'
+    id: 'urn:uuid:46a055d1-e393-5cad-9d5e-5378ff0b2ff1'
+    link: 'https://pub.dartlang.org/packages/dart_cassandra_cql'
+    author:
+        - 'Achilleas Anagnostopoulos'
