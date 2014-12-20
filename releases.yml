@@ -5337,3 +5337,12 @@
     link: 'https://pub.dartlang.org/packages/priority_queue'
     author:
         - 'Paul Brauner'
+-
+    package_name: persistent
+    package_version: v0.8.3
+    title: 'v0.8.3 of persistent'
+    published: '2014-12-20T21:40:14+00:00'
+    id: 'urn:uuid:7f5d91cb-bf55-5dfe-8028-c35a64447cc2'
+    link: 'https://pub.dartlang.org/packages/persistent'
+    author:
+        - 'Paul Brauner'
