@@ -5139,3 +5139,12 @@
     link: 'https://pub.dartlang.org/packages/sembast'
     author:
         - 'Alexandre Roux Tekartik'
+-
+    package_name: progress_bar
+    package_version: v0.1.0
+    title: 'v0.1.0 of progress_bar'
+    published: '2014-12-20T13:40:09+00:00'
+    id: 'urn:uuid:f72ab539-b22a-5ea8-88c8-63f794e89fc3'
+    link: 'https://pub.dartlang.org/packages/progress_bar'
+    author:
+        - 'Jaron Tai'
