@@ -5319,3 +5319,12 @@
     link: 'https://pub.dartlang.org/packages/github'
     author:
         - 'Kenneth Endfinger'
+-
+    package_name: enumerators
+    package_version: v0.5.5
+    title: 'v0.5.5 of enumerators'
+    published: '2014-12-20T21:25:12+00:00'
+    id: 'urn:uuid:79130090-a58f-5f3c-b84f-fc5ae62b96b7'
+    link: 'https://pub.dartlang.org/packages/enumerators'
+    author:
+        - 'Paul Brauner'
