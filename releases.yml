@@ -5301,3 +5301,12 @@
     link: 'https://pub.dartlang.org/packages/sembast'
     author:
         - 'Alexandre Roux Tekartik'
+-
+    package_name: viltage
+    package_version: v0.3.3+67
+    title: 'v0.3.3+67 of viltage'
+    published: '2014-12-20T18:45:15+00:00'
+    id: 'urn:uuid:a1e36928-c404-5671-89a9-9e9516bf0fa0'
+    link: 'https://pub.dartlang.org/packages/viltage'
+    author:
+        - ViliX64
