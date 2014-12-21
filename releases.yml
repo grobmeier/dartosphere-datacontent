@@ -5463,3 +5463,12 @@
     link: 'https://pub.dartlang.org/packages/viltage'
     author:
         - ViliX64
+-
+    package_name: usage
+    package_version: v0.0.5
+    title: 'v0.0.5 of usage'
+    published: '2014-12-21T19:55:09+00:00'
+    id: 'urn:uuid:bed81e30-2533-5427-aa0c-b5eecb06c2b9'
+    link: 'https://pub.dartlang.org/packages/usage'
+    author:
+        - 'Dart Team'
