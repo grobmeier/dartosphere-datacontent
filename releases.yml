@@ -5346,3 +5346,12 @@
     link: 'https://pub.dartlang.org/packages/persistent'
     author:
         - 'Paul Brauner'
+-
+    package_name: frappe
+    package_version: v0.3.1
+    title: 'v0.3.1 of frappe'
+    published: '2014-12-21T06:35:08+00:00'
+    id: 'urn:uuid:95751905-0365-52f0-98b9-4cf76c23ec51'
+    link: 'https://pub.dartlang.org/packages/frappe'
+    author:
+        - 'Dan Schultz'
