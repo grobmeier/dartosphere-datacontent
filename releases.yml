@@ -5400,3 +5400,12 @@
     link: 'https://pub.dartlang.org/packages/ace'
     author:
         - 'Ross Smith'
+-
+    package_name: cargo
+    package_version: v0.5.1
+    title: 'v0.5.1 of cargo'
+    published: '2014-12-21T11:45:09+00:00'
+    id: 'urn:uuid:d5ee23a6-09bc-526c-98fe-47e2dc145c58'
+    link: 'https://pub.dartlang.org/packages/cargo'
+    author:
+        - 'Joris Hermans'
