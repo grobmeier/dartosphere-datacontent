@@ -5355,3 +5355,12 @@
     link: 'https://pub.dartlang.org/packages/frappe'
     author:
         - 'Dan Schultz'
+-
+    package_name: viltage
+    package_version: v0.3.3+68
+    title: 'v0.3.3+68 of viltage'
+    published: '2014-12-21T08:00:11+00:00'
+    id: 'urn:uuid:e4ea5658-bf17-5ff7-b869-2af7ec23bffb'
+    link: 'https://pub.dartlang.org/packages/viltage'
+    author:
+        - ViliX64
