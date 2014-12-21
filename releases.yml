@@ -5427,3 +5427,12 @@
     link: 'https://pub.dartlang.org/packages/objective_regex'
     author:
         - laco0416
+-
+    package_name: viltage
+    package_version: v0.3.4+1
+    title: 'v0.3.4+1 of viltage'
+    published: '2014-12-21T18:00:11+00:00'
+    id: 'urn:uuid:5b33fb80-0dbb-54c7-827e-b7b9255bf8aa'
+    link: 'https://pub.dartlang.org/packages/viltage'
+    author:
+        - ViliX64
