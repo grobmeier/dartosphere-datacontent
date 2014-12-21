@@ -5472,3 +5472,12 @@
     link: 'https://pub.dartlang.org/packages/usage'
     author:
         - 'Dart Team'
+-
+    package_name: polymer_highcharts
+    package_version: v0.1.0+3
+    title: 'v0.1.0+3 of polymer_highcharts'
+    published: '2014-12-21T22:50:09+00:00'
+    id: 'urn:uuid:4fb61a84-0656-5d8c-9642-dd4edac4d67e'
+    link: 'https://pub.dartlang.org/packages/polymer_highcharts'
+    author:
+        - 'Gonzalo Pezzi'
