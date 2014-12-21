@@ -5409,3 +5409,12 @@
     link: 'https://pub.dartlang.org/packages/cargo'
     author:
         - 'Joris Hermans'
+-
+    package_name: bigcargo
+    package_version: v0.2.2
+    title: 'v0.2.2 of bigcargo'
+    published: '2014-12-21T12:00:11+00:00'
+    id: 'urn:uuid:4d8799bf-13db-5eda-8992-901e1422ed6d'
+    link: 'https://pub.dartlang.org/packages/bigcargo'
+    author:
+        - 'Joris Hermans'
