@@ -5391,3 +5391,12 @@
     link: 'https://pub.dartlang.org/packages/viltage'
     author:
         - ViliX64
+-
+    package_name: ace
+    package_version: v0.5.10+20.12.14
+    title: 'v0.5.10+20.12.14 of ace'
+    published: '2014-12-21T11:10:09+00:00'
+    id: 'urn:uuid:6c37a7ce-954a-5d44-8483-b84a2a2fca71'
+    link: 'https://pub.dartlang.org/packages/ace'
+    author:
+        - 'Ross Smith'
