@@ -5625,3 +5625,12 @@
     link: 'https://pub.dartlang.org/packages/queries'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: dart_coveralls
+    package_version: v0.1.8
+    title: 'v0.1.8 of dart_coveralls'
+    published: '2014-12-22T16:45:12+00:00'
+    id: 'urn:uuid:19fee60a-15d4-51d8-8062-0ed656353382'
+    link: 'https://pub.dartlang.org/packages/dart_coveralls'
+    author:
+        - 'Axel Christ'
