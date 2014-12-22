@@ -5499,3 +5499,12 @@
     link: 'https://pub.dartlang.org/packages/progress_bar'
     author:
         - 'Jaron Tai'
+-
+    package_name: rikulo_security
+    package_version: v0.8.2
+    title: 'v0.8.2 of rikulo_security'
+    published: '2014-12-22T09:35:17+00:00'
+    id: 'urn:uuid:53de8aa9-5687-5983-bc6a-81a43ac16394'
+    link: 'https://pub.dartlang.org/packages/rikulo_security'
+    author:
+        - 'Tom Yeh'
