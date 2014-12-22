@@ -5580,3 +5580,12 @@
     link: 'https://pub.dartlang.org/packages/dart_coveralls'
     author:
         - 'Axel Christ'
+-
+    package_name: dart_orm_adapter_postgresql
+    package_version: v0.0.1
+    title: 'v0.0.1 of dart_orm_adapter_postgresql'
+    published: '2014-12-22T15:40:12+00:00'
+    id: 'urn:uuid:f8a6be53-e208-5bb4-b5f6-c4a74226455f'
+    link: 'https://pub.dartlang.org/packages/dart_orm_adapter_postgresql'
+    author:
+        - 'Ustimenko Sergey'
