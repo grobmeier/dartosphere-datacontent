@@ -5679,3 +5679,12 @@
     link: 'https://pub.dartlang.org/packages/temparus_gallery'
     author:
         - 'Sandro Lutz'
+-
+    package_name: temparus_gallery
+    package_version: v0.1.0
+    title: 'v0.1.0 of temparus_gallery'
+    published: '2014-12-22T22:25:14+00:00'
+    id: 'urn:uuid:5bc7836d-95b3-527d-bd74-ab885096ac7e'
+    link: 'https://pub.dartlang.org/packages/temparus_gallery'
+    author:
+        - 'Sandro Lutz'
