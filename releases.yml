@@ -5526,3 +5526,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_highcharts'
     author:
         - 'Gonzalo Pezzi'
+-
+    package_name: sembast
+    package_version: v0.3.0
+    title: 'v0.3.0 of sembast'
+    published: '2014-12-22T11:50:11+00:00'
+    id: 'urn:uuid:1f8c2132-93fb-575f-96ba-c824ac547aa1'
+    link: 'https://pub.dartlang.org/packages/sembast'
+    author:
+        - 'Alexandre Roux Tekartik'
