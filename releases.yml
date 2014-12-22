@@ -5535,3 +5535,12 @@
     link: 'https://pub.dartlang.org/packages/sembast'
     author:
         - 'Alexandre Roux Tekartik'
+-
+    package_name: dart_orm_adapter_mongodb
+    package_version: v0.0.1
+    title: 'v0.0.1 of dart_orm_adapter_mongodb'
+    published: '2014-12-22T12:25:12+00:00'
+    id: 'urn:uuid:b4fb94cd-e10d-5237-83a6-9bd68b5721a6'
+    link: 'https://pub.dartlang.org/packages/dart_orm_adapter_mongodb'
+    author:
+        - 'Ustimenko Sergey'
