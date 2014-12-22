@@ -5517,3 +5517,12 @@
     link: 'https://pub.dartlang.org/packages/dart_orm'
     author:
         - 'Ustimenko Sergey'
+-
+    package_name: polymer_highcharts
+    package_version: v0.1.0+4
+    title: 'v0.1.0+4 of polymer_highcharts'
+    published: '2014-12-22T11:35:11+00:00'
+    id: 'urn:uuid:bd828c90-c415-5521-8d97-67df110cfc34'
+    link: 'https://pub.dartlang.org/packages/polymer_highcharts'
+    author:
+        - 'Gonzalo Pezzi'
