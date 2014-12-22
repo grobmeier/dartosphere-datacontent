@@ -5571,3 +5571,12 @@
     link: 'https://pub.dartlang.org/packages/dart_orm'
     author:
         - 'Ustimenko Sergey'
+-
+    package_name: dart_coveralls
+    package_version: v0.1.7
+    title: 'v0.1.7 of dart_coveralls'
+    published: '2014-12-22T13:55:10+00:00'
+    id: 'urn:uuid:be0427a9-d02a-53c1-89cb-60c16f26a51e'
+    link: 'https://pub.dartlang.org/packages/dart_coveralls'
+    author:
+        - 'Axel Christ'
