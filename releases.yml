@@ -5553,3 +5553,12 @@
     link: 'https://pub.dartlang.org/packages/dart_orm_adapter_mongodb'
     author:
         - 'Ustimenko Sergey'
+-
+    package_name: dart_orm_adapter_mongodb
+    package_version: v0.0.4
+    title: 'v0.0.4 of dart_orm_adapter_mongodb'
+    published: '2014-12-22T12:45:11+00:00'
+    id: 'urn:uuid:cec62fb1-843d-594d-ab22-427ef63eda61'
+    link: 'https://pub.dartlang.org/packages/dart_orm_adapter_mongodb'
+    author:
+        - 'Ustimenko Sergey'
