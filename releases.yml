@@ -5490,3 +5490,12 @@
     link: 'https://pub.dartlang.org/packages/transmittable'
     author:
         - 'Daniel Robinson'
+-
+    package_name: progress_bar
+    package_version: v0.1.1
+    title: 'v0.1.1 of progress_bar'
+    published: '2014-12-22T07:50:17+00:00'
+    id: 'urn:uuid:9f6f3f56-ffe0-55bc-9d4c-d05b948c5d13'
+    link: 'https://pub.dartlang.org/packages/progress_bar'
+    author:
+        - 'Jaron Tai'
