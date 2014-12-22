@@ -5643,3 +5643,12 @@
     link: 'https://pub.dartlang.org/packages/tuneup'
     author:
         - 'Devon Carew'
+-
+    package_name: unscripted
+    package_version: v0.5.2
+    title: 'v0.5.2 of unscripted'
+    published: '2014-12-22T20:15:18+00:00'
+    id: 'urn:uuid:d3db7c86-79d1-5bcf-b822-346bd17fd08e'
+    link: 'https://pub.dartlang.org/packages/unscripted'
+    author:
+        - 'Sean Eagan'
