@@ -5508,3 +5508,12 @@
     link: 'https://pub.dartlang.org/packages/rikulo_security'
     author:
         - 'Tom Yeh'
+-
+    package_name: dart_orm
+    package_version: v0.0.5
+    title: 'v0.0.5 of dart_orm'
+    published: '2014-12-22T10:30:23+00:00'
+    id: 'urn:uuid:c851d623-320e-5846-8067-2ba6d1864504'
+    link: 'https://pub.dartlang.org/packages/dart_orm'
+    author:
+        - 'Ustimenko Sergey'
