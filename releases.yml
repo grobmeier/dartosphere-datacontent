@@ -5634,3 +5634,12 @@
     link: 'https://pub.dartlang.org/packages/dart_coveralls'
     author:
         - 'Axel Christ'
+-
+    package_name: tuneup
+    package_version: v0.0.2
+    title: 'v0.0.2 of tuneup'
+    published: '2014-12-22T17:45:18+00:00'
+    id: 'urn:uuid:8d56cf51-5baf-52c3-9112-1e480a6279e2'
+    link: 'https://pub.dartlang.org/packages/tuneup'
+    author:
+        - 'Devon Carew'
