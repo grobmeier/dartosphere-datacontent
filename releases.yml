@@ -5688,3 +5688,12 @@
     link: 'https://pub.dartlang.org/packages/temparus_gallery'
     author:
         - 'Sandro Lutz'
+-
+    package_name: codemirror
+    package_version: v0.0.13+4.8.0
+    title: 'v0.0.13+4.8.0 of codemirror'
+    published: '2014-12-22T23:40:14+00:00'
+    id: 'urn:uuid:17a0b406-a23e-558a-a11b-9701d7f328c8'
+    link: 'https://pub.dartlang.org/packages/codemirror'
+    author:
+        - 'Devon Carew'
