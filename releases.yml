@@ -5598,3 +5598,12 @@
     link: 'https://pub.dartlang.org/packages/dart_orm_adapter_mongodb'
     author:
         - 'Ustimenko Sergey'
+-
+    package_name: dart_orm_adapter_postgresql
+    package_version: v0.0.2
+    title: 'v0.0.2 of dart_orm_adapter_postgresql'
+    published: '2014-12-22T15:55:22+00:00'
+    id: 'urn:uuid:2424170d-1282-5018-85c8-878b6c9449a0'
+    link: 'https://pub.dartlang.org/packages/dart_orm_adapter_postgresql'
+    author:
+        - 'Ustimenko Sergey'
