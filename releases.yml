@@ -5481,3 +5481,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_highcharts'
     author:
         - 'Gonzalo Pezzi'
+-
+    package_name: transmittable
+    package_version: v0.9.1
+    title: 'v0.9.1 of transmittable'
+    published: '2014-12-22T00:05:17+00:00'
+    id: 'urn:uuid:7e955d1c-6944-5564-87c0-fa892f841081'
+    link: 'https://pub.dartlang.org/packages/transmittable'
+    author:
+        - 'Daniel Robinson'
