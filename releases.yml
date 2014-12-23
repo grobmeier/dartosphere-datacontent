@@ -5806,3 +5806,12 @@
     link: 'https://pub.dartlang.org/packages/post_crawler_example'
     author:
         - 'Mateusz Zawartka'
+-
+    package_name: dart_amf
+    package_version: v1.0.3
+    title: 'v1.0.3 of dart_amf'
+    published: '2014-12-23T23:20:14+00:00'
+    id: 'urn:uuid:55fe8b53-97dc-51e2-b889-764c0f579750'
+    link: 'https://pub.dartlang.org/packages/dart_amf'
+    author:
+        - 'Glen Blanchard'
