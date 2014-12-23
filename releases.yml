@@ -5779,3 +5779,12 @@
     link: 'https://pub.dartlang.org/packages/grinder'
     author:
         - 'Devon Carew'
+-
+    package_name: bigcargo
+    package_version: v0.2.3
+    title: 'v0.2.3 of bigcargo'
+    published: '2014-12-23T20:15:19+00:00'
+    id: 'urn:uuid:47f928e1-82dd-56f2-b43e-a8d124a830bf'
+    link: 'https://pub.dartlang.org/packages/bigcargo'
+    author:
+        - 'Joris Hermans'
