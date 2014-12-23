@@ -5733,3 +5733,12 @@
     link: 'https://pub.dartlang.org/packages/fields'
     author:
         - 'Ross Smith'
+-
+    package_name: caller_info
+    package_version: v0.0.9
+    title: 'v0.0.9 of caller_info'
+    published: '2014-12-23T15:50:12+00:00'
+    id: 'urn:uuid:db9f5c3d-c9d0-5a84-a425-dfa48f41fa1e'
+    link: 'https://pub.dartlang.org/packages/caller_info'
+    author:
+        - 'Andrew Mezoni'
