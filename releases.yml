@@ -5760,3 +5760,13 @@
     link: 'https://pub.dartlang.org/packages/temparus_gallery'
     author:
         - 'Sandro Lutz'
+-
+    package_name: stagehand
+    package_version: v0.1.5+2
+    title: 'v0.1.5+2 of stagehand'
+    published: '2014-12-23T18:25:10+00:00'
+    id: 'urn:uuid:83a48fab-9eeb-5fb8-9f6a-987923508ac8'
+    link: 'https://pub.dartlang.org/packages/stagehand'
+    author:
+        - 'Seth Ladd'
+        - 'Devon Carew'
