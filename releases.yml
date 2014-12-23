@@ -5715,3 +5715,12 @@
     link: 'https://pub.dartlang.org/packages/dart_amf'
     author:
         - 'Glen Blanchard'
+-
+    package_name: dart_amf
+    package_version: v1.0.2
+    title: 'v1.0.2 of dart_amf'
+    published: '2014-12-23T04:40:10+00:00'
+    id: 'urn:uuid:b7a3b077-a0ef-56d0-877b-d2f6cc431fb0'
+    link: 'https://pub.dartlang.org/packages/dart_amf'
+    author:
+        - 'Glen Blanchard'
