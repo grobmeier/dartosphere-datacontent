@@ -5742,3 +5742,12 @@
     link: 'https://pub.dartlang.org/packages/caller_info'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: cargo
+    package_version: v0.6.0
+    title: 'v0.6.0 of cargo'
+    published: '2014-12-23T16:40:12+00:00'
+    id: 'urn:uuid:c8c9d878-4269-5d50-a211-0df509e446bf'
+    link: 'https://pub.dartlang.org/packages/cargo'
+    author:
+        - 'Joris Hermans'
