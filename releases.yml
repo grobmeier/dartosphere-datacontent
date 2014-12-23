@@ -5706,3 +5706,12 @@
     link: 'https://pub.dartlang.org/packages/test_runner'
     author:
         - 'Nicolas Garnier'
+-
+    package_name: dart_amf
+    package_version: v1.0.1
+    title: 'v1.0.1 of dart_amf'
+    published: '2014-12-23T04:25:09+00:00'
+    id: 'urn:uuid:bd254ed7-fc03-5674-882c-e4b5d63be8a8'
+    link: 'https://pub.dartlang.org/packages/dart_amf'
+    author:
+        - 'Glen Blanchard'
