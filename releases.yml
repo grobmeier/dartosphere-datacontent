@@ -5797,3 +5797,12 @@
     link: 'https://pub.dartlang.org/packages/bigcargo'
     author:
         - 'Joris Hermans'
+-
+    package_name: post_crawler_example
+    package_version: v0.0.1
+    title: 'v0.0.1 of post_crawler_example'
+    published: '2014-12-23T21:40:17+00:00'
+    id: 'urn:uuid:0eefd53d-f6a9-5293-9901-c662760a6201'
+    link: 'https://pub.dartlang.org/packages/post_crawler_example'
+    author:
+        - 'Mateusz Zawartka'
