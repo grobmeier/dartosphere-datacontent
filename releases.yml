@@ -5905,3 +5905,12 @@
     link: 'https://pub.dartlang.org/packages/ccompilers'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: slickdart
+    package_version: v0.1.0+6
+    title: 'v0.1.0+6 of slickdart'
+    published: '2014-12-24T16:00:20+00:00'
+    id: 'urn:uuid:9352274c-affc-55b6-8dd7-e173bc366e18'
+    link: 'https://pub.dartlang.org/packages/slickdart'
+    author:
+        - CJKAO
