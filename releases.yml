@@ -5887,3 +5887,12 @@
     link: 'https://pub.dartlang.org/packages/do2'
     author:
         - 'Mikhail Stolyarov'
+-
+    package_name: do2
+    package_version: v0.2.3
+    title: 'v0.2.3 of do2'
+    published: '2014-12-24T11:40:17+00:00'
+    id: 'urn:uuid:09285d52-1106-5111-84ef-650fbfd001b3'
+    link: 'https://pub.dartlang.org/packages/do2'
+    author:
+        - 'Mikhail Stolyarov'
