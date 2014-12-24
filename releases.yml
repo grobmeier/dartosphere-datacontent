@@ -5896,3 +5896,12 @@
     link: 'https://pub.dartlang.org/packages/do2'
     author:
         - 'Mikhail Stolyarov'
+-
+    package_name: ccompilers
+    package_version: v0.2.3
+    title: 'v0.2.3 of ccompilers'
+    published: '2014-12-24T14:50:15+00:00'
+    id: 'urn:uuid:6bcf8d10-fde0-5fca-8098-f4492eed477c'
+    link: 'https://pub.dartlang.org/packages/ccompilers'
+    author:
+        - 'Andrew Mezoni'
