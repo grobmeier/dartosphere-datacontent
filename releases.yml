@@ -5950,3 +5950,12 @@
     link: 'https://pub.dartlang.org/packages/Autolinker'
     author:
         - hackcave
+-
+    package_name: Autolinker
+    package_version: v0.1.1
+    title: 'v0.1.1 of Autolinker'
+    published: '2014-12-24T22:35:09+00:00'
+    id: 'urn:uuid:7bc838ae-339a-5ede-b9a4-b8876ce4da38'
+    link: 'https://pub.dartlang.org/packages/Autolinker'
+    author:
+        - hackcave
