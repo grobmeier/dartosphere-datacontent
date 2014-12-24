@@ -5824,3 +5824,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_highcharts'
     author:
         - 'Gonzalo Pezzi'
+-
+    package_name: dart_amf
+    package_version: v2.0.0
+    title: 'v2.0.0 of dart_amf'
+    published: '2014-12-24T01:15:11+00:00'
+    id: 'urn:uuid:a80bb66c-441b-509f-945f-70d9b63a30c8'
+    link: 'https://pub.dartlang.org/packages/dart_amf'
+    author:
+        - 'Glen Blanchard'
