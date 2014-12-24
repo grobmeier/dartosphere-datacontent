@@ -5914,3 +5914,12 @@
     link: 'https://pub.dartlang.org/packages/slickdart'
     author:
         - CJKAO
+-
+    package_name: build_tools
+    package_version: v0.0.8
+    title: 'v0.0.8 of build_tools'
+    published: '2014-12-24T17:05:29+00:00'
+    id: 'urn:uuid:2e3fef4f-4d89-51e7-9bec-cdf734852d54'
+    link: 'https://pub.dartlang.org/packages/build_tools'
+    author:
+        - 'Andrew Mezoni'
