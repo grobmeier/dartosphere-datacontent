@@ -5878,3 +5878,12 @@
     link: 'https://pub.dartlang.org/packages/unicode'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: do2
+    package_version: v0.2.2
+    title: 'v0.2.2 of do2'
+    published: '2014-12-24T11:35:14+00:00'
+    id: 'urn:uuid:c855b43b-cc3d-5187-9dc1-57cdc53be0b5'
+    link: 'https://pub.dartlang.org/packages/do2'
+    author:
+        - 'Mikhail Stolyarov'
