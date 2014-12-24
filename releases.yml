@@ -5941,3 +5941,12 @@
     link: 'https://pub.dartlang.org/packages/redstone_mapper'
     author:
         - 'Luiz Mineo'
+-
+    package_name: Autolinker
+    package_version: v0.1.0
+    title: 'v0.1.0 of Autolinker'
+    published: '2014-12-24T21:20:10+00:00'
+    id: 'urn:uuid:8a8a59ae-b2ce-52bc-ba06-683063634d7e'
+    link: 'https://pub.dartlang.org/packages/Autolinker'
+    author:
+        - hackcave
