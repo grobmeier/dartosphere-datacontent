@@ -5869,3 +5869,12 @@
     link: 'https://pub.dartlang.org/packages/dart_amf'
     author:
         - 'Glen Blanchard'
+-
+    package_name: unicode
+    package_version: v0.0.9
+    title: 'v0.0.9 of unicode'
+    published: '2014-12-24T06:20:16+00:00'
+    id: 'urn:uuid:441af37d-c157-5953-b3c8-a432364542ba'
+    link: 'https://pub.dartlang.org/packages/unicode'
+    author:
+        - 'Andrew Mezoni'
