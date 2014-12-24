@@ -5932,3 +5932,12 @@
     link: 'https://pub.dartlang.org/packages/ccompilers'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: redstone_mapper
+    package_version: v0.1.10
+    title: 'v0.1.10 of redstone_mapper'
+    published: '2014-12-24T21:15:10+00:00'
+    id: 'urn:uuid:6f0e6556-beb4-58c6-8ed1-2d1d62838eec'
+    link: 'https://pub.dartlang.org/packages/redstone_mapper'
+    author:
+        - 'Luiz Mineo'
