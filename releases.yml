@@ -5923,3 +5923,12 @@
     link: 'https://pub.dartlang.org/packages/build_tools'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: ccompilers
+    package_version: v0.2.4
+    title: 'v0.2.4 of ccompilers'
+    published: '2014-12-24T19:20:10+00:00'
+    id: 'urn:uuid:73fe7e08-5646-514b-a271-35b2746ded96'
+    link: 'https://pub.dartlang.org/packages/ccompilers'
+    author:
+        - 'Andrew Mezoni'
