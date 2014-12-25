@@ -6004,3 +6004,12 @@
     link: 'https://pub.dartlang.org/packages/ccompilers'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: transmittable
+    package_version: v0.10.0
+    title: 'v0.10.0 of transmittable'
+    published: '2014-12-25T23:40:09+00:00'
+    id: 'urn:uuid:2770e6de-be24-522d-b03a-a34ac0a28101'
+    link: 'https://pub.dartlang.org/packages/transmittable'
+    author:
+        - 'Daniel Robinson'
