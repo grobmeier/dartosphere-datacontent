@@ -5995,3 +5995,12 @@
     link: 'https://pub.dartlang.org/packages/timezone'
     author:
         - 'Boris Kaul'
+-
+    package_name: ccompilers
+    package_version: v0.2.5
+    title: 'v0.2.5 of ccompilers'
+    published: '2014-12-25T18:45:15+00:00'
+    id: 'urn:uuid:fde676ce-5775-5dd6-b6d7-e6ae6615a7bb'
+    link: 'https://pub.dartlang.org/packages/ccompilers'
+    author:
+        - 'Andrew Mezoni'
