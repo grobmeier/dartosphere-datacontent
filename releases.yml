@@ -5977,3 +5977,12 @@
     link: 'https://pub.dartlang.org/packages/dilithium'
     author:
         - brucedavidson
+-
+    package_name: dilithium
+    package_version: v0.3.2
+    title: 'v0.3.2 of dilithium'
+    published: '2014-12-25T17:05:13+00:00'
+    id: 'urn:uuid:11e6e465-9df0-5481-a568-c396940f42de'
+    link: 'https://pub.dartlang.org/packages/dilithium'
+    author:
+        - brucedavidson
