@@ -5986,3 +5986,12 @@
     link: 'https://pub.dartlang.org/packages/dilithium'
     author:
         - brucedavidson
+-
+    package_name: timezone
+    package_version: v0.2.4
+    title: 'v0.2.4 of timezone'
+    published: '2014-12-25T17:50:13+00:00'
+    id: 'urn:uuid:9174d235-030f-5c11-9059-02d576baff43'
+    link: 'https://pub.dartlang.org/packages/timezone'
+    author:
+        - 'Boris Kaul'
