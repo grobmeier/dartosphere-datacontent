@@ -5959,3 +5959,12 @@
     link: 'https://pub.dartlang.org/packages/Autolinker'
     author:
         - hackcave
+-
+    package_name: dilithium
+    package_version: v0.3.0
+    title: 'v0.3.0 of dilithium'
+    published: '2014-12-25T04:45:08+00:00'
+    id: 'urn:uuid:27fd0c07-32ad-5a1b-89f8-1ec05693b7ba'
+    link: 'https://pub.dartlang.org/packages/dilithium'
+    author:
+        - brucedavidson
