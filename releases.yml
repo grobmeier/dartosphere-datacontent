@@ -6058,3 +6058,12 @@
     link: 'https://pub.dartlang.org/packages/rikulo_security'
     author:
         - 'Tom Yeh'
+-
+    package_name: arasu
+    package_version: v0.1.2
+    title: 'v0.1.2 of arasu'
+    published: '2014-12-26T16:20:14+00:00'
+    id: 'urn:uuid:eb9f27fa-d141-52bc-82cf-2274cd5adcbe'
+    link: 'https://pub.dartlang.org/packages/arasu'
+    author:
+        - 'Thaniyarasu Kannusamy'
