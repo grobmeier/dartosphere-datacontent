@@ -6031,3 +6031,12 @@
     link: 'https://pub.dartlang.org/packages/ccompilers'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: access
+    package_version: v0.5.3
+    title: 'v0.5.3 of access'
+    published: '2014-12-26T07:45:12+00:00'
+    id: 'urn:uuid:bdba2f25-377f-5192-bbf3-744923b9859d'
+    link: 'https://pub.dartlang.org/packages/access'
+    author:
+        - 'Tom Yeh'
