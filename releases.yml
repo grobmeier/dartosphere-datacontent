@@ -6067,3 +6067,12 @@
     link: 'https://pub.dartlang.org/packages/arasu'
     author:
         - 'Thaniyarasu Kannusamy'
+-
+    package_name: forcemvc
+    package_version: v0.6.1+1
+    title: 'v0.6.1+1 of forcemvc'
+    published: '2014-12-26T16:50:15+00:00'
+    id: 'urn:uuid:a43dc6bd-7923-553d-9095-57e00f1cf2bf'
+    link: 'https://pub.dartlang.org/packages/forcemvc'
+    author:
+        - 'Joris Hermans'
