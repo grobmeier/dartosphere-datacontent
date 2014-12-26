@@ -6040,3 +6040,12 @@
     link: 'https://pub.dartlang.org/packages/access'
     author:
         - 'Tom Yeh'
+-
+    package_name: viltage
+    package_version: v0.3.4+9
+    title: 'v0.3.4+9 of viltage'
+    published: '2014-12-26T13:15:15+00:00'
+    id: 'urn:uuid:847afef9-c418-58d4-bbb8-2c144d8f8859'
+    link: 'https://pub.dartlang.org/packages/viltage'
+    author:
+        - ViliX64
