@@ -6049,3 +6049,12 @@
     link: 'https://pub.dartlang.org/packages/viltage'
     author:
         - ViliX64
+-
+    package_name: rikulo_security
+    package_version: v0.8.3
+    title: 'v0.8.3 of rikulo_security'
+    published: '2014-12-26T14:55:13+00:00'
+    id: 'urn:uuid:3367c01b-cd7c-5b53-8b25-44ed2b84d31d'
+    link: 'https://pub.dartlang.org/packages/rikulo_security'
+    author:
+        - 'Tom Yeh'
