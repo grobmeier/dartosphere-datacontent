@@ -6076,3 +6076,12 @@
     link: 'https://pub.dartlang.org/packages/forcemvc'
     author:
         - 'Joris Hermans'
+-
+    package_name: codemirror
+    package_version: v0.1.0+4.9.0
+    title: 'v0.1.0+4.9.0 of codemirror'
+    published: '2014-12-26T20:50:15+00:00'
+    id: 'urn:uuid:d43e192b-74c2-5cc3-ab51-622b5b8e837c'
+    link: 'https://pub.dartlang.org/packages/codemirror'
+    author:
+        - 'Devon Carew'
