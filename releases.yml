@@ -6013,3 +6013,12 @@
     link: 'https://pub.dartlang.org/packages/transmittable'
     author:
         - 'Daniel Robinson'
+-
+    package_name: transmittable
+    package_version: v0.11.0
+    title: 'v0.11.0 of transmittable'
+    published: '2014-12-26T00:05:10+00:00'
+    id: 'urn:uuid:f667e552-fdd7-5909-acae-d3b21be57736'
+    link: 'https://pub.dartlang.org/packages/transmittable'
+    author:
+        - 'Daniel Robinson'
