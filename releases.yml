@@ -6022,3 +6022,12 @@
     link: 'https://pub.dartlang.org/packages/transmittable'
     author:
         - 'Daniel Robinson'
+-
+    package_name: ccompilers
+    package_version: v0.2.6
+    title: 'v0.2.6 of ccompilers'
+    published: '2014-12-26T07:10:09+00:00'
+    id: 'urn:uuid:4de2c8b4-473a-5779-bdcd-2475c4da771e'
+    link: 'https://pub.dartlang.org/packages/ccompilers'
+    author:
+        - 'Andrew Mezoni'
