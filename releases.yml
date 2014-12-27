@@ -6139,3 +6139,12 @@
     link: 'https://pub.dartlang.org/packages/ssdp'
     author:
         - 'Kenneth Endfinger'
+-
+    package_name: do2
+    package_version: v0.2.4
+    title: 'v0.2.4 of do2'
+    published: '2014-12-27T17:05:15+00:00'
+    id: 'urn:uuid:2eae7d07-33ad-5384-bdf4-9a669e0f3e92'
+    link: 'https://pub.dartlang.org/packages/do2'
+    author:
+        - 'Mikhail Stolyarov'
