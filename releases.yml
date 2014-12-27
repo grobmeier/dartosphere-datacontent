@@ -6130,3 +6130,12 @@
     link: 'https://pub.dartlang.org/packages/sleepsort'
     author:
         - 'Michał Šrajer'
+-
+    package_name: ssdp
+    package_version: v1.0.0
+    title: 'v1.0.0 of ssdp'
+    published: '2014-12-27T16:55:13+00:00'
+    id: 'urn:uuid:70cc23ee-854f-560f-b9ce-5916015c8f09'
+    link: 'https://pub.dartlang.org/packages/ssdp'
+    author:
+        - 'Kenneth Endfinger'
