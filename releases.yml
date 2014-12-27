@@ -6121,3 +6121,12 @@
     link: 'https://pub.dartlang.org/packages/sleepsort'
     author:
         - 'Michał Šrajer'
+-
+    package_name: sleepsort
+    package_version: v0.0.2
+    title: 'v0.0.2 of sleepsort'
+    published: '2014-12-27T16:40:16+00:00'
+    id: 'urn:uuid:b986edab-79f5-558a-a037-2625aebeb74d'
+    link: 'https://pub.dartlang.org/packages/sleepsort'
+    author:
+        - 'Michał Šrajer'
