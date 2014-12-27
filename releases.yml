@@ -6103,3 +6103,12 @@
     link: 'https://pub.dartlang.org/packages/highcharts_options'
     author:
         - 'Gonzalo Pezzi'
+-
+    package_name: deploy_eng
+    package_version: v0.0.1
+    title: 'v0.0.1 of deploy_eng'
+    published: '2014-12-27T15:35:16+00:00'
+    id: 'urn:uuid:120a89be-a4b8-5ce3-89d9-ed219f3b5ced'
+    link: 'https://pub.dartlang.org/packages/deploy_eng'
+    author:
+        - 'Martin Dion'
