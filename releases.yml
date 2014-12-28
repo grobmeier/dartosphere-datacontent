@@ -6247,3 +6247,12 @@
     link: 'https://pub.dartlang.org/packages/dart_orm_adapter_mongodb'
     author:
         - 'Ustimenko Sergey'
+-
+    package_name: dart_orm_adapter_mysql
+    package_version: v0.0.1
+    title: 'v0.0.1 of dart_orm_adapter_mysql'
+    published: '2014-12-28T21:45:13+00:00'
+    id: 'urn:uuid:102add87-1b50-5021-9278-1dd0c6ef58f9'
+    link: 'https://pub.dartlang.org/packages/dart_orm_adapter_mysql'
+    author:
+        - 'Ustimenko Sergey'
