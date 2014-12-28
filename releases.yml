@@ -6269,3 +6269,12 @@
         - 'Matias Meno'
         - 'Baruch Berger'
         - 'Max Horstmann'
+-
+    package_name: test_runner
+    package_version: v0.2.5
+    title: 'v0.2.5 of test_runner'
+    published: '2014-12-28T23:20:13+00:00'
+    id: 'urn:uuid:baee65d4-9f18-5457-bd61-9fd47a3992db'
+    link: 'https://pub.dartlang.org/packages/test_runner'
+    author:
+        - 'Nicolas Garnier'
