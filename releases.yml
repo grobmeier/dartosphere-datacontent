@@ -6193,3 +6193,12 @@
     link: 'https://pub.dartlang.org/packages/native_extension_with_build_tools'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: native_extension_with_build_tools
+    package_version: v0.0.14
+    title: 'v0.0.14 of native_extension_with_build_tools'
+    published: '2014-12-28T19:35:11+00:00'
+    id: 'urn:uuid:75ff4d3c-7aa7-504a-bd78-99887358138f'
+    link: 'https://pub.dartlang.org/packages/native_extension_with_build_tools'
+    author:
+        - 'Andrew Mezoni'
