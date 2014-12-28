@@ -6229,3 +6229,12 @@
     link: 'https://pub.dartlang.org/packages/dart_orm'
     author:
         - 'Ustimenko Sergey'
+-
+    package_name: test_runner
+    package_version: v0.2.4
+    title: 'v0.2.4 of test_runner'
+    published: '2014-12-28T21:10:12+00:00'
+    id: 'urn:uuid:aa4bedee-21d6-5252-9367-d47a27d8fcd9'
+    link: 'https://pub.dartlang.org/packages/test_runner'
+    author:
+        - 'Nicolas Garnier'
