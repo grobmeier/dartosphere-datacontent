@@ -6256,3 +6256,16 @@
     link: 'https://pub.dartlang.org/packages/dart_orm_adapter_mysql'
     author:
         - 'Ustimenko Sergey'
+-
+    package_name: redis_client
+    package_version: v0.1.14
+    title: 'v0.1.14 of redis_client'
+    published: '2014-12-28T22:25:12+00:00'
+    id: 'urn:uuid:58bcfb74-0464-5ae7-b396-2b2e202fa78e'
+    link: 'https://pub.dartlang.org/packages/redis_client'
+    author:
+        - 'Demis Bellot'
+        - 'Adam Singer'
+        - 'Matias Meno'
+        - 'Baruch Berger'
+        - 'Max Horstmann'
