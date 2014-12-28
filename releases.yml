@@ -6166,3 +6166,12 @@
     link: 'https://pub.dartlang.org/packages/petitparser'
     author:
         - 'Lukas Renggli'
+-
+    package_name: viltage
+    package_version: v0.3.4+10
+    title: 'v0.3.4+10 of viltage'
+    published: '2014-12-28T16:55:13+00:00'
+    id: 'urn:uuid:559ce84b-623a-5eec-81dc-5121d633cbf3'
+    link: 'https://pub.dartlang.org/packages/viltage'
+    author:
+        - ViliX64
