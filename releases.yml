@@ -6184,3 +6184,12 @@
     link: 'https://pub.dartlang.org/packages/neural_network'
     author:
         - '<Alvaro Arcas Garcia>'
+-
+    package_name: native_extension_with_build_tools
+    package_version: v0.0.12
+    title: 'v0.0.12 of native_extension_with_build_tools'
+    published: '2014-12-28T19:25:12+00:00'
+    id: 'urn:uuid:e4f45235-dc59-5a53-9c4a-4c73d875cb1f'
+    link: 'https://pub.dartlang.org/packages/native_extension_with_build_tools'
+    author:
+        - 'Andrew Mezoni'
