@@ -6202,3 +6202,12 @@
     link: 'https://pub.dartlang.org/packages/native_extension_with_build_tools'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: transmittable
+    package_version: v0.11.1
+    title: 'v0.11.1 of transmittable'
+    published: '2014-12-28T20:35:10+00:00'
+    id: 'urn:uuid:0e5a5fdc-1cdd-51eb-8be3-a81360cd7392'
+    link: 'https://pub.dartlang.org/packages/transmittable'
+    author:
+        - 'Daniel Robinson'
