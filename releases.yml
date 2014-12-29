@@ -6323,3 +6323,21 @@
     link: 'https://pub.dartlang.org/packages/bot_io'
     author:
         - 'Kevin Moore'
+-
+    package_name: bot
+    package_version: v0.28.0
+    title: 'v0.28.0 of bot'
+    published: '2014-12-29T22:40:14+00:00'
+    id: 'urn:uuid:d5bb153e-2e49-5117-9a04-931580f8005e'
+    link: 'https://pub.dartlang.org/packages/bot'
+    author:
+        - 'Kevin Moore'
+-
+    package_name: completion
+    package_version: v0.1.2+6
+    title: 'v0.1.2+6 of completion'
+    published: '2014-12-29T22:40:14+00:00'
+    id: 'urn:uuid:268b2443-20b6-5bcc-a702-6e310dd8f43f'
+    link: 'https://pub.dartlang.org/packages/completion'
+    author:
+        - 'Kevin Moore'
