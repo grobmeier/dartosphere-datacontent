@@ -6278,3 +6278,12 @@
     link: 'https://pub.dartlang.org/packages/test_runner'
     author:
         - 'Nicolas Garnier'
+-
+    package_name: do2
+    package_version: v0.3.5
+    title: 'v0.3.5 of do2'
+    published: '2014-12-29T07:55:14+00:00'
+    id: 'urn:uuid:e74671e6-c28a-5b5c-b8c7-f6fcc9f9e209'
+    link: 'https://pub.dartlang.org/packages/do2'
+    author:
+        - 'Mikhail Stolyarov'
