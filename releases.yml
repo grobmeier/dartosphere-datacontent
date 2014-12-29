@@ -6314,3 +6314,12 @@
     link: 'https://pub.dartlang.org/packages/hop'
     author:
         - 'Hop Project Authors'
+-
+    package_name: bot_io
+    package_version: v0.26.3+2
+    title: 'v0.26.3+2 of bot_io'
+    published: '2014-12-29T22:35:13+00:00'
+    id: 'urn:uuid:67169331-9503-536d-9d7a-dd44e128a2fd'
+    link: 'https://pub.dartlang.org/packages/bot_io'
+    author:
+        - 'Kevin Moore'
