@@ -6287,3 +6287,12 @@
     link: 'https://pub.dartlang.org/packages/do2'
     author:
         - 'Mikhail Stolyarov'
+-
+    package_name: marker_clusterer_plus
+    package_version: v1.0.0
+    title: 'v1.0.0 of marker_clusterer_plus'
+    published: '2014-12-29T19:00:22+00:00'
+    id: 'urn:uuid:1ec6342e-9acc-59c0-ad7a-077eadf55911'
+    link: 'https://pub.dartlang.org/packages/marker_clusterer_plus'
+    author:
+        - 'Tercio Gaudencio Filho'
