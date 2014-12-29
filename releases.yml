@@ -6296,3 +6296,12 @@
     link: 'https://pub.dartlang.org/packages/marker_clusterer_plus'
     author:
         - 'Tercio Gaudencio Filho'
+-
+    package_name: bot_test
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of bot_test'
+    published: '2014-12-29T22:20:16+00:00'
+    id: 'urn:uuid:5a707863-e4e0-51a9-8f24-a01c87142b45'
+    link: 'https://pub.dartlang.org/packages/bot_test'
+    author:
+        - 'Kevin Moore'
