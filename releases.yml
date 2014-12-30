@@ -6449,3 +6449,12 @@
     link: 'https://pub.dartlang.org/packages/junitconfiguration'
     author:
         - 'Lukas Renggli'
+-
+    package_name: do2
+    package_version: v0.3.6
+    title: 'v0.3.6 of do2'
+    published: '2014-12-30T13:25:14+00:00'
+    id: 'urn:uuid:4291246a-3eca-5056-8b72-106393e90538'
+    link: 'https://pub.dartlang.org/packages/do2'
+    author:
+        - 'Mikhail Stolyarov'
