@@ -6341,3 +6341,12 @@
     link: 'https://pub.dartlang.org/packages/completion'
     author:
         - 'Kevin Moore'
+-
+    package_name: viltage
+    package_version: v0.3.4+11
+    title: 'v0.3.4+11 of viltage'
+    published: '2014-12-30T06:15:14+00:00'
+    id: 'urn:uuid:afe6b3b9-818d-5ba0-a52c-1210690b1cd7'
+    link: 'https://pub.dartlang.org/packages/viltage'
+    author:
+        - ViliX64
