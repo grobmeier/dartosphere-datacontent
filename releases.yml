@@ -6494,3 +6494,12 @@
     link: 'https://pub.dartlang.org/packages/do2'
     author:
         - 'Mikhail Stolyarov'
+-
+    package_name: slickdart
+    package_version: v0.1.0+7
+    title: 'v0.1.0+7 of slickdart'
+    published: '2014-12-30T15:40:16+00:00'
+    id: 'urn:uuid:57dc6850-3ab0-5dba-8354-fc189cd8c819'
+    link: 'https://pub.dartlang.org/packages/slickdart'
+    author:
+        - CJKAO
