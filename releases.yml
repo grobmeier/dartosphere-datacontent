@@ -6530,3 +6530,12 @@
     link: 'https://pub.dartlang.org/packages/tuneup'
     author:
         - 'Devon Carew'
+-
+    package_name: redis
+    package_version: v0.4.2
+    title: 'v0.4.2 of redis'
+    published: '2014-12-30T23:10:14+00:00'
+    id: 'urn:uuid:a1d86d5d-46c7-5e4f-bd9c-9a69ecf0206d'
+    link: 'https://pub.dartlang.org/packages/redis'
+    author:
+        - 'Luka Rahne'
