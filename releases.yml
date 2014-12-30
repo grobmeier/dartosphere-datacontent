@@ -6503,3 +6503,12 @@
     link: 'https://pub.dartlang.org/packages/slickdart'
     author:
         - CJKAO
+-
+    package_name: force
+    package_version: v0.6.0
+    title: 'v0.6.0 of force'
+    published: '2014-12-30T16:35:16+00:00'
+    id: 'urn:uuid:6a71e5ee-308a-568d-800d-3d19f250d07b'
+    link: 'https://pub.dartlang.org/packages/force'
+    author:
+        - 'Joris Hermans'
