@@ -6521,3 +6521,12 @@
     link: 'https://pub.dartlang.org/packages/arasu'
     author:
         - 'Thaniyarasu Kannusamy'
+-
+    package_name: tuneup
+    package_version: v0.0.3
+    title: 'v0.0.3 of tuneup'
+    published: '2014-12-30T20:40:14+00:00'
+    id: 'urn:uuid:a67cf77e-996b-52c8-9936-0deada97c837'
+    link: 'https://pub.dartlang.org/packages/tuneup'
+    author:
+        - 'Devon Carew'
