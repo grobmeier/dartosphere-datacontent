@@ -6404,3 +6404,21 @@
     link: 'https://pub.dartlang.org/packages/viltage'
     author:
         - ViliX64
+-
+    package_name: fields
+    package_version: v0.10.2
+    title: 'v0.10.2 of fields'
+    published: '2014-12-30T10:55:17+00:00'
+    id: 'urn:uuid:0d708544-50e4-5d52-8283-fd79d2175fe0'
+    link: 'https://pub.dartlang.org/packages/fields'
+    author:
+        - 'Ross Smith'
+-
+    package_name: statemachine
+    package_version: v1.0.5
+    title: 'v1.0.5 of statemachine'
+    published: '2014-12-30T10:55:17+00:00'
+    id: 'urn:uuid:b0a3ebbd-ddc6-5d74-b867-83bc1274e207'
+    link: 'https://pub.dartlang.org/packages/statemachine'
+    author:
+        - 'Lukas Renggli'
