@@ -6539,3 +6539,12 @@
     link: 'https://pub.dartlang.org/packages/redis'
     author:
         - 'Luka Rahne'
+-
+    package_name: uuid
+    package_version: v0.5.0
+    title: 'v0.5.0 of uuid'
+    published: '2014-12-31T00:17:46+00:00'
+    id: 'urn:uuid:1b38d895-3563-5ec6-847e-98e122c3f47c'
+    link: 'https://pub.dartlang.org/packages/uuid'
+    author:
+        - 'Yulian Kuncheff'
