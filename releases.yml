@@ -6566,3 +6566,12 @@
     link: 'https://pub.dartlang.org/packages/angular_aria'
     author:
         - 'Neeraj Mittal'
+-
+    package_name: transmittable
+    package_version: v0.12.0
+    title: 'v0.12.0 of transmittable'
+    published: '2014-12-31T14:35:13+00:00'
+    id: 'urn:uuid:52aaf4ea-6de0-5d5f-bccc-b0d13108a93c'
+    link: 'https://pub.dartlang.org/packages/transmittable'
+    author:
+        - 'Daniel Robinson'
