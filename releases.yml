@@ -6557,3 +6557,12 @@
     link: 'https://pub.dartlang.org/packages/xml2json'
     author:
         - 'S. Hamblett'
+-
+    package_name: angular_aria
+    package_version: v0.1.1
+    title: 'v0.1.1 of angular_aria'
+    published: '2014-12-31T13:45:14+00:00'
+    id: 'urn:uuid:4f228ace-1766-591e-bbdc-9ae29f1852cc'
+    link: 'https://pub.dartlang.org/packages/angular_aria'
+    author:
+        - 'Neeraj Mittal'
