@@ -6548,3 +6548,12 @@
     link: 'https://pub.dartlang.org/packages/uuid'
     author:
         - 'Yulian Kuncheff'
+-
+    package_name: xml2json
+    package_version: v2.0.6
+    title: 'v2.0.6 of xml2json'
+    published: '2014-12-31T12:40:13+00:00'
+    id: 'urn:uuid:c8a9b7ac-9f6a-5816-87c2-c1b92265eb36'
+    link: 'https://pub.dartlang.org/packages/xml2json'
+    author:
+        - 'S. Hamblett'
