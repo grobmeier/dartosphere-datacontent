@@ -6575,3 +6575,12 @@
     link: 'https://pub.dartlang.org/packages/transmittable'
     author:
         - 'Daniel Robinson'
+-
+    package_name: system_info
+    package_version: v0.0.12
+    title: 'v0.0.12 of system_info'
+    published: '2015-01-01T16:30:15+00:00'
+    id: 'urn:uuid:0a8f897d-3d5f-55fc-a97a-3c0779657a4d'
+    link: 'https://pub.dartlang.org/packages/system_info'
+    author:
+        - 'Andrew Mezoni'
