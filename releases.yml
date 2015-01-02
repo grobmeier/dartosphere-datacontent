@@ -6620,3 +6620,12 @@
     link: 'https://pub.dartlang.org/packages/wegbl_inspector_patch_transformer'
     author:
         - 'Pascal Castéran'
+-
+    package_name: wegbl_inspector_patch_transformer
+    package_version: v0.1.1
+    title: 'v0.1.1 of wegbl_inspector_patch_transformer'
+    published: '2015-01-02T19:25:11+00:00'
+    id: 'urn:uuid:2fcf392f-4408-5b77-9f65-8e0be4ac91bb'
+    link: 'https://pub.dartlang.org/packages/wegbl_inspector_patch_transformer'
+    author:
+        - 'Pascal Castéran'
