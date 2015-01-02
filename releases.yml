@@ -6593,3 +6593,12 @@
     link: 'https://pub.dartlang.org/packages/fields'
     author:
         - 'Ross Smith'
+-
+    package_name: google_signin_dart
+    package_version: v0.2.0+2
+    title: 'v0.2.0+2 of google_signin_dart'
+    published: '2015-01-02T11:55:13+00:00'
+    id: 'urn:uuid:3ee42bd7-6e87-5b83-a158-b8c96ec83b7c'
+    link: 'https://pub.dartlang.org/packages/google_signin_dart'
+    author:
+        - pjv
