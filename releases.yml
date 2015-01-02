@@ -6611,3 +6611,12 @@
     link: 'https://pub.dartlang.org/packages/less_dart'
     author:
         - 'Adalberto Lacruz'
+-
+    package_name: wegbl_inspector_patch_transformer
+    package_version: v0.1.0
+    title: 'v0.1.0 of wegbl_inspector_patch_transformer'
+    published: '2015-01-02T19:10:13+00:00'
+    id: 'urn:uuid:0d61360d-1428-5708-82c6-88cb30510531'
+    link: 'https://pub.dartlang.org/packages/wegbl_inspector_patch_transformer'
+    author:
+        - 'Pascal Castéran'
