@@ -6602,3 +6602,12 @@
     link: 'https://pub.dartlang.org/packages/google_signin_dart'
     author:
         - pjv
+-
+    package_name: less_dart
+    package_version: v0.1.1
+    title: 'v0.1.1 of less_dart'
+    published: '2015-01-02T12:00:17+00:00'
+    id: 'urn:uuid:42de08f8-6e5a-5852-89fb-bb78c9cc55c3'
+    link: 'https://pub.dartlang.org/packages/less_dart'
+    author:
+        - 'Adalberto Lacruz'
