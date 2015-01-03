@@ -6701,3 +6701,12 @@
     link: 'https://pub.dartlang.org/packages/neural_network'
     author:
         - '<Alvaro Arcas Garcia>'
+-
+    package_name: websocket_rails
+    package_version: v0.0.1
+    title: 'v0.0.1 of websocket_rails'
+    published: '2015-01-03T22:35:10+00:00'
+    id: 'urn:uuid:1bfb9e37-c027-5d6a-8a39-282656825ca5'
+    link: 'https://pub.dartlang.org/packages/websocket_rails'
+    author:
+        - 'Marcel Sackermann'
