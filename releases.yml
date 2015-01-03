@@ -6647,3 +6647,12 @@
     link: 'https://pub.dartlang.org/packages/fisher'
     author:
         - 'Richard Ambler'
+-
+    package_name: countdown
+    package_version: v0.0.2
+    title: 'v0.0.2 of countdown'
+    published: '2015-01-03T11:25:12+00:00'
+    id: 'urn:uuid:4dad12bc-6d65-597d-9cb1-72a0235cf9a1'
+    link: 'https://pub.dartlang.org/packages/countdown'
+    author:
+        - 'Benjamin NGUYEN'
