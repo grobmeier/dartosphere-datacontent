@@ -6638,3 +6638,12 @@
     link: 'https://pub.dartlang.org/packages/intl'
     author:
         - 'Dart Team'
+-
+    package_name: fisher
+    package_version: v0.0.1
+    title: 'v0.0.1 of fisher'
+    published: '2015-01-03T08:35:11+00:00'
+    id: 'urn:uuid:f724f4ab-9ef5-5adb-95ea-ba59ec81f63b'
+    link: 'https://pub.dartlang.org/packages/fisher'
+    author:
+        - 'Richard Ambler'
