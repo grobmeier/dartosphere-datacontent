@@ -6665,3 +6665,12 @@
     link: 'https://pub.dartlang.org/packages/countdown'
     author:
         - 'Benjamin NGUYEN'
+-
+    package_name: do2
+    package_version: v0.4.1
+    title: 'v0.4.1 of do2'
+    published: '2015-01-03T19:30:15+00:00'
+    id: 'urn:uuid:43c449e2-448b-5266-bca8-1fa96aa2e00f'
+    link: 'https://pub.dartlang.org/packages/do2'
+    author:
+        - 'Mikhail Stolyarov'
