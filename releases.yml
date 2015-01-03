@@ -6719,3 +6719,12 @@
     link: 'https://pub.dartlang.org/packages/markdown'
     author:
         - 'Dart Team'
+-
+    package_name: markdown
+    package_version: v0.7.1+2
+    title: 'v0.7.1+2 of markdown'
+    published: '2015-01-03T22:50:12+00:00'
+    id: 'urn:uuid:19c2c4b4-45b3-5b50-ac4c-129854dcda6c'
+    link: 'https://pub.dartlang.org/packages/markdown'
+    author:
+        - 'Dart Team'
