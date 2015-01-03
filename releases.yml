@@ -6692,3 +6692,12 @@
     link: 'https://pub.dartlang.org/packages/do2'
     author:
         - 'Mikhail Stolyarov'
+-
+    package_name: neural_network
+    package_version: v0.0.2
+    title: 'v0.0.2 of neural_network'
+    published: '2015-01-03T20:40:14+00:00'
+    id: 'urn:uuid:531b9311-1273-5067-b522-33f97dc44997'
+    link: 'https://pub.dartlang.org/packages/neural_network'
+    author:
+        - '<Alvaro Arcas Garcia>'
