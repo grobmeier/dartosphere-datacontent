@@ -6656,3 +6656,12 @@
     link: 'https://pub.dartlang.org/packages/countdown'
     author:
         - 'Benjamin NGUYEN'
+-
+    package_name: countdown
+    package_version: v0.0.3
+    title: 'v0.0.3 of countdown'
+    published: '2015-01-03T11:45:14+00:00'
+    id: 'urn:uuid:b62df6e5-0e48-59df-a142-822cc7f55b36'
+    link: 'https://pub.dartlang.org/packages/countdown'
+    author:
+        - 'Benjamin NGUYEN'
