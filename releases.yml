@@ -6710,3 +6710,12 @@
     link: 'https://pub.dartlang.org/packages/websocket_rails'
     author:
         - 'Marcel Sackermann'
+-
+    package_name: markdown
+    package_version: v0.7.1+1
+    title: 'v0.7.1+1 of markdown'
+    published: '2015-01-03T22:45:12+00:00'
+    id: 'urn:uuid:a663e7d9-c8d8-5929-b541-18e6e87f15d7'
+    link: 'https://pub.dartlang.org/packages/markdown'
+    author:
+        - 'Dart Team'
