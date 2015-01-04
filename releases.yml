@@ -6782,3 +6782,12 @@
     link: 'https://pub.dartlang.org/packages/Pong'
     author:
         - Sci10n
+-
+    package_name: appcache
+    package_version: v0.0.1
+    title: 'v0.0.1 of appcache'
+    published: '2015-01-04T18:05:13+00:00'
+    id: 'urn:uuid:a43765d7-4f15-53ca-b741-784a6815b1a4'
+    link: 'https://pub.dartlang.org/packages/appcache'
+    author:
+        - 'João Furtado'
