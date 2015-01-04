@@ -6728,3 +6728,39 @@
     link: 'https://pub.dartlang.org/packages/markdown'
     author:
         - 'Dart Team'
+-
+    package_name: binary_interop
+    package_version: v0.0.1
+    title: 'v0.0.1 of binary_interop'
+    published: '2015-01-04T06:55:11+00:00'
+    id: 'urn:uuid:2535923d-cd7e-586f-8123-20edff751178'
+    link: 'https://pub.dartlang.org/packages/binary_interop'
+    author:
+        - 'Andrew Mezoni'
+-
+    package_name: binary_types
+    package_version: v0.0.1
+    title: 'v0.0.1 of binary_types'
+    published: '2015-01-04T06:55:11+00:00'
+    id: 'urn:uuid:ebe2b988-ddd5-55a1-bd01-97c9b3dbaa0b'
+    link: 'https://pub.dartlang.org/packages/binary_types'
+    author:
+        - 'Andrew Mezoni'
+-
+    package_name: unsafe_extension
+    package_version: v0.0.1
+    title: 'v0.0.1 of unsafe_extension'
+    published: '2015-01-04T06:55:11+00:00'
+    id: 'urn:uuid:e44a9c1e-50e5-57fc-99be-19c80be583c8'
+    link: 'https://pub.dartlang.org/packages/unsafe_extension'
+    author:
+        - 'Andrew Mezoni'
+-
+    package_name: libffi_binaries
+    package_version: v0.0.1
+    title: 'v0.0.1 of libffi_binaries'
+    published: '2015-01-04T06:55:11+00:00'
+    id: 'urn:uuid:75b6bef9-34f8-5019-82b0-e27fe9b8bb16'
+    link: 'https://pub.dartlang.org/packages/libffi_binaries'
+    author:
+        - 'Andrew Mezoni'
