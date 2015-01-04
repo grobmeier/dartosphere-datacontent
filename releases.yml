@@ -6764,3 +6764,12 @@
     link: 'https://pub.dartlang.org/packages/libffi_binaries'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: reflective
+    package_version: v0.0.5
+    title: 'v0.0.5 of reflective'
+    published: '2015-01-04T10:15:13+00:00'
+    id: 'urn:uuid:566fdbb4-a070-5489-a6ac-d1f5486c6411'
+    link: 'https://pub.dartlang.org/packages/reflective'
+    author:
+        - 'Stijn Van Bael'
