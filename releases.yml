@@ -6809,3 +6809,12 @@
     link: 'https://pub.dartlang.org/packages/ng_infinite_scroll'
     author:
         - 'Juha Komulainen'
+-
+    package_name: ng_infinite_scroll
+    package_version: v0.2.0
+    title: 'v0.2.0 of ng_infinite_scroll'
+    published: '2015-01-04T21:00:18+00:00'
+    id: 'urn:uuid:be25db12-d55b-5050-af24-adbf5862d46f'
+    link: 'https://pub.dartlang.org/packages/ng_infinite_scroll'
+    author:
+        - 'Juha Komulainen'
