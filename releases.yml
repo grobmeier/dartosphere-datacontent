@@ -6791,3 +6791,12 @@
     link: 'https://pub.dartlang.org/packages/appcache'
     author:
         - 'João Furtado'
+-
+    package_name: github
+    package_version: v2.1.4+1
+    title: 'v2.1.4+1 of github'
+    published: '2015-01-04T18:45:15+00:00'
+    id: 'urn:uuid:dda238d7-7234-5307-b29b-6a2e32043f52'
+    link: 'https://pub.dartlang.org/packages/github'
+    author:
+        - 'Kenneth Endfinger'
