@@ -6773,3 +6773,12 @@
     link: 'https://pub.dartlang.org/packages/reflective'
     author:
         - 'Stijn Van Bael'
+-
+    package_name: Pong
+    package_version: v0.0.1
+    title: 'v0.0.1 of Pong'
+    published: '2015-01-04T13:30:14+00:00'
+    id: 'urn:uuid:b8658238-e912-5360-956b-9acb7285e84d'
+    link: 'https://pub.dartlang.org/packages/Pong'
+    author:
+        - Sci10n
