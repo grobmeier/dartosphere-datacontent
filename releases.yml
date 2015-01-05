@@ -6926,3 +6926,12 @@
     link: 'https://pub.dartlang.org/packages/binary_interop'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: webgl_inspector_patch_transformer
+    package_version: v0.1.0
+    title: 'v0.1.0 of webgl_inspector_patch_transformer'
+    published: '2015-01-05T18:35:16+00:00'
+    id: 'urn:uuid:a9f011e6-1a7f-503a-ad5f-fea1e9832a96'
+    link: 'https://pub.dartlang.org/packages/webgl_inspector_patch_transformer'
+    author:
+        - 'Pascal Castéran'
