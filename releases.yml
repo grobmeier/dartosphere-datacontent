@@ -6827,3 +6827,12 @@
     link: 'https://pub.dartlang.org/packages/unsafe_extension'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: libffi_binaries
+    package_version: v0.6.1
+    title: 'v0.6.1 of libffi_binaries'
+    published: '2015-01-05T14:20:18+00:00'
+    id: 'urn:uuid:1a411fa8-8c4c-5e65-86d7-534973dc1e50'
+    link: 'https://pub.dartlang.org/packages/libffi_binaries'
+    author:
+        - 'Andrew Mezoni'
