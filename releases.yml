@@ -6854,3 +6854,12 @@
     link: 'https://pub.dartlang.org/packages/ccompilers'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: targets
+    package_version: v0.4.0
+    title: 'v0.4.0 of targets'
+    published: '2015-01-05T16:05:16+00:00'
+    id: 'urn:uuid:66a8c17d-ea6c-55b9-86a7-8b2c56afad48'
+    link: 'https://pub.dartlang.org/packages/targets'
+    author:
+        - 'Jack Thakar'
