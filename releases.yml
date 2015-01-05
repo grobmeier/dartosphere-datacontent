@@ -6881,3 +6881,21 @@
     link: 'https://pub.dartlang.org/packages/appcache'
     author:
         - 'João Furtado'
+-
+    package_name: binary_types
+    package_version: v0.0.2
+    title: 'v0.0.2 of binary_types'
+    published: '2015-01-05T16:40:19+00:00'
+    id: 'urn:uuid:5f43ef4f-71e7-51c9-aaa0-d2007cb46eff'
+    link: 'https://pub.dartlang.org/packages/binary_types'
+    author:
+        - 'Andrew Mezoni'
+-
+    package_name: appcache
+    package_version: v0.1.0
+    title: 'v0.1.0 of appcache'
+    published: '2015-01-05T16:40:19+00:00'
+    id: 'urn:uuid:34be1043-3f5a-57cc-a345-d31db81f36a5'
+    link: 'https://pub.dartlang.org/packages/appcache'
+    author:
+        - 'João Furtado'
