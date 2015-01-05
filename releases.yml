@@ -6863,3 +6863,21 @@
     link: 'https://pub.dartlang.org/packages/targets'
     author:
         - 'Jack Thakar'
+-
+    package_name: unsafe_extension
+    package_version: v0.0.3
+    title: 'v0.0.3 of unsafe_extension'
+    published: '2015-01-05T16:35:16+00:00'
+    id: 'urn:uuid:49b3f197-7d6e-563e-b975-b6002fdfc5df'
+    link: 'https://pub.dartlang.org/packages/unsafe_extension'
+    author:
+        - 'Andrew Mezoni'
+-
+    package_name: appcache
+    package_version: v0.0.2
+    title: 'v0.0.2 of appcache'
+    published: '2015-01-05T16:35:16+00:00'
+    id: 'urn:uuid:f9121df0-7d84-516a-b54a-cd8a2ee910e6'
+    link: 'https://pub.dartlang.org/packages/appcache'
+    author:
+        - 'João Furtado'
