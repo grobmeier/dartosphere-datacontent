@@ -6908,3 +6908,12 @@
     link: 'https://pub.dartlang.org/packages/binary_interop'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: appcache
+    package_version: v0.1.1
+    title: 'v0.1.1 of appcache'
+    published: '2015-01-05T16:55:20+00:00'
+    id: 'urn:uuid:448fe203-8bd0-582d-8c11-0f417f56fbf1'
+    link: 'https://pub.dartlang.org/packages/appcache'
+    author:
+        - 'João Furtado'
