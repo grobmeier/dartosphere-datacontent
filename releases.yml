@@ -6845,3 +6845,12 @@
     link: 'https://pub.dartlang.org/packages/dartx'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: ccompilers
+    package_version: v0.2.7
+    title: 'v0.2.7 of ccompilers'
+    published: '2015-01-05T15:40:19+00:00'
+    id: 'urn:uuid:11a30043-5407-5c86-8a26-f8409de3389e'
+    link: 'https://pub.dartlang.org/packages/ccompilers'
+    author:
+        - 'Andrew Mezoni'
