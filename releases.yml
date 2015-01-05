@@ -6836,3 +6836,12 @@
     link: 'https://pub.dartlang.org/packages/libffi_binaries'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: dartx
+    package_version: v0.0.6
+    title: 'v0.0.6 of dartx'
+    published: '2015-01-05T15:06:16+00:00'
+    id: 'urn:uuid:2054cb9f-b57e-5b50-bcfd-702138debaef'
+    link: 'https://pub.dartlang.org/packages/dartx'
+    author:
+        - 'Andrew Mezoni'
