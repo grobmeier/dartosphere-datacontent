@@ -6935,3 +6935,12 @@
     link: 'https://pub.dartlang.org/packages/webgl_inspector_patch_transformer'
     author:
         - 'Pascal Castéran'
+-
+    package_name: targets
+    package_version: v0.4.1
+    title: 'v0.4.1 of targets'
+    published: '2015-01-05T20:00:22+00:00'
+    id: 'urn:uuid:15541e34-e763-55fe-9ecc-591b95d28eca'
+    link: 'https://pub.dartlang.org/packages/targets'
+    author:
+        - 'Jack Thakar'
