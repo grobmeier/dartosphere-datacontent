@@ -6917,3 +6917,12 @@
     link: 'https://pub.dartlang.org/packages/appcache'
     author:
         - 'João Furtado'
+-
+    package_name: binary_interop
+    package_version: v0.0.3
+    title: 'v0.0.3 of binary_interop'
+    published: '2015-01-05T17:20:29+00:00'
+    id: 'urn:uuid:c2d447cb-fd0f-5684-8a57-0163cc5c051b'
+    link: 'https://pub.dartlang.org/packages/binary_interop'
+    author:
+        - 'Andrew Mezoni'
