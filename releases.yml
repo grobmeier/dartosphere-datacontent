@@ -6998,3 +6998,12 @@
     link: 'https://pub.dartlang.org/packages/googleapis'
     author:
         - 'Dart Team'
+-
+    package_name: binary_types
+    package_version: v0.0.3
+    title: 'v0.0.3 of binary_types'
+    published: '2015-01-06T15:45:20+00:00'
+    id: 'urn:uuid:9580768b-4f5c-53de-a8b9-d8b1e5f1cac1'
+    link: 'https://pub.dartlang.org/packages/binary_types'
+    author:
+        - 'Andrew Mezoni'
