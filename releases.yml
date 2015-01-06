@@ -7047,3 +7047,12 @@
     link: 'https://pub.dartlang.org/packages/less_dart'
     author:
         - 'Adalberto Lacruz'
+-
+    package_name: test_runner
+    package_version: v0.2.6
+    title: 'v0.2.6 of test_runner'
+    published: '2015-01-06T22:30:20+00:00'
+    id: 'urn:uuid:e3663d13-9444-57f2-bedd-fe2272eeae03'
+    link: 'https://pub.dartlang.org/packages/test_runner'
+    author:
+        - 'Nicolas Garnier'
