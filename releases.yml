@@ -7029,3 +7029,21 @@
         - 'Matias Meno'
         - 'Baruch Berger'
         - 'Max Horstmann'
+-
+    package_name: redstone_mapper
+    package_version: v0.1.11
+    title: 'v0.1.11 of redstone_mapper'
+    published: '2015-01-06T22:25:16+00:00'
+    id: 'urn:uuid:d51e56bd-d492-5874-9af8-b58b9811fc79'
+    link: 'https://pub.dartlang.org/packages/redstone_mapper'
+    author:
+        - 'Luiz Mineo'
+-
+    package_name: less_dart
+    package_version: v0.1.2
+    title: 'v0.1.2 of less_dart'
+    published: '2015-01-06T22:25:16+00:00'
+    id: 'urn:uuid:9b8d99fa-8006-56bb-95ac-cd56521d6cdb'
+    link: 'https://pub.dartlang.org/packages/less_dart'
+    author:
+        - 'Adalberto Lacruz'
