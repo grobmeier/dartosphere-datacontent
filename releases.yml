@@ -6971,3 +6971,12 @@
     link: 'https://pub.dartlang.org/packages/access'
     author:
         - 'Tom Yeh'
+-
+    package_name: timezone
+    package_version: v0.2.5
+    title: 'v0.2.5 of timezone'
+    published: '2015-01-06T09:10:15+00:00'
+    id: 'urn:uuid:e4223f32-9282-582b-96b8-bf97d1d7417d'
+    link: 'https://pub.dartlang.org/packages/timezone'
+    author:
+        - 'Boris Kaul'
