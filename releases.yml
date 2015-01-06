@@ -6980,3 +6980,21 @@
     link: 'https://pub.dartlang.org/packages/timezone'
     author:
         - 'Boris Kaul'
+-
+    package_name: googleapis_beta
+    package_version: v0.6.1
+    title: 'v0.6.1 of googleapis_beta'
+    published: '2015-01-06T15:40:19+00:00'
+    id: 'urn:uuid:eb667971-0dac-5193-8cc9-6df153f68222'
+    link: 'https://pub.dartlang.org/packages/googleapis_beta'
+    author:
+        - 'Dart Team'
+-
+    package_name: googleapis
+    package_version: v0.5.2
+    title: 'v0.5.2 of googleapis'
+    published: '2015-01-06T15:40:19+00:00'
+    id: 'urn:uuid:a7aad4b0-6460-5e66-bff0-43f0b827a1b3'
+    link: 'https://pub.dartlang.org/packages/googleapis'
+    author:
+        - 'Dart Team'
