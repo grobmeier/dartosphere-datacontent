@@ -6944,3 +6944,12 @@
     link: 'https://pub.dartlang.org/packages/targets'
     author:
         - 'Jack Thakar'
+-
+    package_name: portscanner
+    package_version: v0.0.1
+    title: 'v0.0.1 of portscanner'
+    published: '2015-01-06T07:00:17+00:00'
+    id: 'urn:uuid:3572c0ca-9b1c-5f39-ab62-936f72807982'
+    link: 'https://pub.dartlang.org/packages/portscanner'
+    author:
+        - 'Ben Vinegar'
