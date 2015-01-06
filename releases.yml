@@ -7007,3 +7007,12 @@
     link: 'https://pub.dartlang.org/packages/binary_types'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: core_elements
+    package_version: v0.6.0+2
+    title: 'v0.6.0+2 of core_elements'
+    published: '2015-01-06T17:50:16+00:00'
+    id: 'urn:uuid:83be367e-ae3b-5ac8-a824-628e754aad26'
+    link: 'https://pub.dartlang.org/packages/core_elements'
+    author:
+        - 'Polymer.dart Authors'
