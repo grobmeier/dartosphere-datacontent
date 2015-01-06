@@ -7016,3 +7016,16 @@
     link: 'https://pub.dartlang.org/packages/core_elements'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: redis_client
+    package_version: v0.1.15
+    title: 'v0.1.15 of redis_client'
+    published: '2015-01-06T19:25:18+00:00'
+    id: 'urn:uuid:e9ff88dd-7da8-52ca-9a4d-ccacb0e756f1'
+    link: 'https://pub.dartlang.org/packages/redis_client'
+    author:
+        - 'Demis Bellot'
+        - 'Adam Singer'
+        - 'Matias Meno'
+        - 'Baruch Berger'
+        - 'Max Horstmann'
