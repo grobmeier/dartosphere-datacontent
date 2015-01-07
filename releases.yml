@@ -7174,3 +7174,12 @@
     link: 'https://pub.dartlang.org/packages/test_runner'
     author:
         - 'Nicolas Garnier'
+-
+    package_name: polymer_ajax_form
+    package_version: v0.1.0
+    title: 'v0.1.0 of polymer_ajax_form'
+    published: '2015-01-07T14:50:19+00:00'
+    id: 'urn:uuid:6c882837-1e79-5d8e-90f5-b0dab32bf92a'
+    link: 'https://pub.dartlang.org/packages/polymer_ajax_form'
+    author:
+        - 'Thomas Stephenson'
