@@ -7246,3 +7246,12 @@
     link: 'https://pub.dartlang.org/packages/tags'
     author:
         - 'Ross Smith'
+-
+    package_name: binary_declarations
+    package_version: v0.0.6
+    title: 'v0.0.6 of binary_declarations'
+    published: '2015-01-07T20:00:23+00:00'
+    id: 'urn:uuid:434ade78-9c8c-542d-8677-2107af1a5500'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni'
