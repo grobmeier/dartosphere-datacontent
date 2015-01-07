@@ -7056,3 +7056,12 @@
     link: 'https://pub.dartlang.org/packages/test_runner'
     author:
         - 'Nicolas Garnier'
+-
+    package_name: intl
+    package_version: v0.12.0+1
+    title: 'v0.12.0+1 of intl'
+    published: '2015-01-07T01:00:20+00:00'
+    id: 'urn:uuid:485567ab-d828-53f4-9403-8ae157d49c13'
+    link: 'https://pub.dartlang.org/packages/intl'
+    author:
+        - 'Dart Team'
