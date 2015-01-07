@@ -7156,3 +7156,12 @@
     link: 'https://pub.dartlang.org/packages/googleapis_beta'
     author:
         - 'Dart Team'
+-
+    package_name: logging
+    package_version: v0.9.3
+    title: 'v0.9.3 of logging'
+    published: '2015-01-07T13:00:26+00:00'
+    id: 'urn:uuid:eb6d78d8-b504-586e-b0ce-5e3370c9f295'
+    link: 'https://pub.dartlang.org/packages/logging'
+    author:
+        - 'Dart Team'
