@@ -7237,3 +7237,12 @@
     link: 'https://pub.dartlang.org/packages/binary_declarations'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: tags
+    package_version: v0.8.3
+    title: 'v0.8.3 of tags'
+    published: '2015-01-07T18:50:20+00:00'
+    id: 'urn:uuid:8b400f6f-06c2-5907-a0cb-581075091714'
+    link: 'https://pub.dartlang.org/packages/tags'
+    author:
+        - 'Ross Smith'
