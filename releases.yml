@@ -7120,3 +7120,12 @@
     link: 'https://pub.dartlang.org/packages/binary_declarations'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_interop
+    package_version: v0.0.4
+    title: 'v0.0.4 of binary_interop'
+    published: '2015-01-07T09:15:17+00:00'
+    id: 'urn:uuid:de1c8176-5cca-5e53-a0cf-7a9696fc63b2'
+    link: 'https://pub.dartlang.org/packages/binary_interop'
+    author:
+        - 'Andrew Mezoni'
