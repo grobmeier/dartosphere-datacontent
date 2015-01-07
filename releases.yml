@@ -7300,3 +7300,12 @@
     link: 'https://pub.dartlang.org/packages/graystone'
     author:
         - 'Nicolas Francois '
+-
+    package_name: google_signin_dart
+    package_version: v0.2.0+3
+    title: 'v0.2.0+3 of google_signin_dart'
+    published: '2015-01-07T23:55:58+00:00'
+    id: 'urn:uuid:47adf5ef-7e03-5008-87c9-8d521c181632'
+    link: 'https://pub.dartlang.org/packages/google_signin_dart'
+    author:
+        - pjv
