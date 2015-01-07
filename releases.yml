@@ -7228,3 +7228,12 @@
     link: 'https://pub.dartlang.org/packages/test_runner'
     author:
         - 'Nicolas Garnier'
+-
+    package_name: binary_declarations
+    package_version: v0.0.5
+    title: 'v0.0.5 of binary_declarations'
+    published: '2015-01-07T18:30:22+00:00'
+    id: 'urn:uuid:625fc203-ca3b-5831-a9e5-48c31efe3ac8'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni'
