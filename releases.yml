@@ -7138,3 +7138,12 @@
     link: 'https://pub.dartlang.org/packages/japanese_util'
     author:
         - 'Koto Furumiya'
+-
+    package_name: googleapis
+    package_version: v0.5.3
+    title: 'v0.5.3 of googleapis'
+    published: '2015-01-07T10:40:18+00:00'
+    id: 'urn:uuid:67a22c20-4389-50a7-90b6-0baaa5bf6911'
+    link: 'https://pub.dartlang.org/packages/googleapis'
+    author:
+        - 'Dart Team'
