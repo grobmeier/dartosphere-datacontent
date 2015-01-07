@@ -7083,3 +7083,12 @@
     link: 'https://pub.dartlang.org/packages/dson'
     author:
         - 'Luis Vargas'
+-
+    package_name: binary_declarations
+    package_version: v0.0.1
+    title: 'v0.0.1 of binary_declarations'
+    published: '2015-01-07T07:35:14+00:00'
+    id: 'urn:uuid:dca89012-afb0-5353-8ba3-3658b938f723'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni'
