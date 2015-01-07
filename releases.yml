@@ -7210,3 +7210,12 @@
     link: 'https://pub.dartlang.org/packages/binary_declarations'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_declarations
+    package_version: v0.0.4
+    title: 'v0.0.4 of binary_declarations'
+    published: '2015-01-07T16:50:19+00:00'
+    id: 'urn:uuid:cba35c3d-799b-53a1-85eb-9a0d7fa55e92'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni'
