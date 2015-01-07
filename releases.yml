@@ -7111,3 +7111,12 @@
     author:
         - 'Symcon GmbH'
         - 'Tim Rasim'
+-
+    package_name: binary_declarations
+    package_version: v0.0.2
+    title: 'v0.0.2 of binary_declarations'
+    published: '2015-01-07T08:40:16+00:00'
+    id: 'urn:uuid:c10c4e9b-651e-526c-9a37-9f7f4437ebde'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni'
