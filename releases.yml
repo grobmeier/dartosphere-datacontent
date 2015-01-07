@@ -7074,3 +7074,12 @@
     link: 'https://pub.dartlang.org/packages/frappe'
     author:
         - 'Dan Schultz'
+-
+    package_name: dson
+    package_version: v0.1.2
+    title: 'v0.1.2 of dson'
+    published: '2015-01-07T04:40:14+00:00'
+    id: 'urn:uuid:d1912408-416d-550a-835b-2704ab476d94'
+    link: 'https://pub.dartlang.org/packages/dson'
+    author:
+        - 'Luis Vargas'
