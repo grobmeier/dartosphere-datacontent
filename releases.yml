@@ -7101,3 +7101,13 @@
     link: 'https://pub.dartlang.org/packages/binary_types'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: chart
+    package_version: v1.0.6
+    title: 'v1.0.6 of chart'
+    published: '2015-01-07T07:55:14+00:00'
+    id: 'urn:uuid:783784ce-72ea-596e-9f9f-ba349b345371'
+    link: 'https://pub.dartlang.org/packages/chart'
+    author:
+        - 'Symcon GmbH'
+        - 'Tim Rasim'
