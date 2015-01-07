@@ -7129,3 +7129,12 @@
     link: 'https://pub.dartlang.org/packages/binary_interop'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: japanese_util
+    package_version: v1.0.0
+    title: 'v1.0.0 of japanese_util'
+    published: '2015-01-07T09:35:16+00:00'
+    id: 'urn:uuid:31f4efb8-1c4a-5596-a1cd-704b4dae8766'
+    link: 'https://pub.dartlang.org/packages/japanese_util'
+    author:
+        - 'Koto Furumiya'
