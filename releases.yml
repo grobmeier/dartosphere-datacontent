@@ -7264,3 +7264,12 @@
     link: 'https://pub.dartlang.org/packages/binary_declarations'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: serial_port
+    package_version: v0.2.1
+    title: 'v0.2.1 of serial_port'
+    published: '2015-01-07T20:50:17+00:00'
+    id: 'urn:uuid:74cf3ee6-fd40-5672-a58b-239259a266f5'
+    link: 'https://pub.dartlang.org/packages/serial_port'
+    author:
+        - 'Nicolas Francois '
