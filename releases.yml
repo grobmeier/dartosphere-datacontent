@@ -7327,3 +7327,12 @@
     link: 'https://pub.dartlang.org/packages/binary_declarations'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: firmata
+    package_version: v0.2.1+1
+    title: 'v0.2.1+1 of firmata'
+    published: '2015-01-08T13:50:24+00:00'
+    id: 'urn:uuid:28d49ab4-3b43-59e0-91d9-9c661563f95f'
+    link: 'https://pub.dartlang.org/packages/firmata'
+    author:
+        - 'Nicolas Francois '
