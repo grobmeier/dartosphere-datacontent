@@ -7372,3 +7372,12 @@
     link: 'https://pub.dartlang.org/packages/binary_declarations'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: viltage
+    package_version: v0.3.5+4
+    title: 'v0.3.5+4 of viltage'
+    published: '2015-01-08T19:45:19+00:00'
+    id: 'urn:uuid:01a13df5-dfe6-5039-b76f-5f21796e5df0'
+    link: 'https://pub.dartlang.org/packages/viltage'
+    author:
+        - ViliX64
