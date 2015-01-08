@@ -7354,3 +7354,12 @@
     link: 'https://pub.dartlang.org/packages/ensuring_page'
     author:
         - 'Vostrikov Vitaliy'
+-
+    package_name: when
+    package_version: v0.1.0
+    title: 'v0.1.0 of when'
+    published: '2015-01-08T18:30:29+00:00'
+    id: 'urn:uuid:66196904-ed12-52ec-adc9-8d33a5afa83f'
+    link: 'https://pub.dartlang.org/packages/when'
+    author:
+        - 'Sean Eagan'
