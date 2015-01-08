@@ -7363,3 +7363,12 @@
     link: 'https://pub.dartlang.org/packages/when'
     author:
         - 'Sean Eagan'
+-
+    package_name: binary_declarations
+    package_version: v0.0.10
+    title: 'v0.0.10 of binary_declarations'
+    published: '2015-01-08T18:50:22+00:00'
+    id: 'urn:uuid:84a41cfe-d6b9-5c75-bcbc-3295afa4c2cb'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni'
