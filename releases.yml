@@ -7345,3 +7345,12 @@
     link: 'https://pub.dartlang.org/packages/dart_style'
     author:
         - 'Dart Team'
+-
+    package_name: ensuring_page
+    package_version: v0.1.0
+    title: 'v0.1.0 of ensuring_page'
+    published: '2015-01-08T17:45:25+00:00'
+    id: 'urn:uuid:98710b89-fe2f-5921-a7b4-a1ce225620f7'
+    link: 'https://pub.dartlang.org/packages/ensuring_page'
+    author:
+        - 'Vostrikov Vitaliy'
