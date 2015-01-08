@@ -7381,3 +7381,12 @@
     link: 'https://pub.dartlang.org/packages/viltage'
     author:
         - ViliX64
+-
+    package_name: mirrorme
+    package_version: v0.2.2
+    title: 'v0.2.2 of mirrorme'
+    published: '2015-01-08T20:15:17+00:00'
+    id: 'urn:uuid:56e09de1-9fa4-5902-b01b-27534846b182'
+    link: 'https://pub.dartlang.org/packages/mirrorme'
+    author:
+        - 'Joris Hermans'
