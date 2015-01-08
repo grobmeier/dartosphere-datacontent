@@ -7336,3 +7336,12 @@
     link: 'https://pub.dartlang.org/packages/firmata'
     author:
         - 'Nicolas Francois '
+-
+    package_name: dart_style
+    package_version: v0.1.0
+    title: 'v0.1.0 of dart_style'
+    published: '2015-01-08T17:30:49+00:00'
+    id: 'urn:uuid:8ad9bcc9-8533-54ea-9b2a-52d1ba5587a8'
+    link: 'https://pub.dartlang.org/packages/dart_style'
+    author:
+        - 'Dart Team'
