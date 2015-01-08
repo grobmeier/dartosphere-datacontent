@@ -7390,3 +7390,12 @@
     link: 'https://pub.dartlang.org/packages/mirrorme'
     author:
         - 'Joris Hermans'
+-
+    package_name: dart_coveralls
+    package_version: v0.1.9
+    title: 'v0.1.9 of dart_coveralls'
+    published: '2015-01-08T20:45:17+00:00'
+    id: 'urn:uuid:1dad835b-18a8-5b07-92bc-27572ff7979f'
+    link: 'https://pub.dartlang.org/packages/dart_coveralls'
+    author:
+        - 'Axel Christ'
