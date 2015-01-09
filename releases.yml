@@ -7536,3 +7536,12 @@
     link: 'https://pub.dartlang.org/packages/binary_interop'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_generator
+    package_version: v0.0.1
+    title: 'v0.0.1 of binary_generator'
+    published: '2015-01-09T16:40:23+00:00'
+    id: 'urn:uuid:59422c1d-f459-558d-b025-d0546d5a7451'
+    link: 'https://pub.dartlang.org/packages/binary_generator'
+    author:
+        - 'Andrew Mezoni'
