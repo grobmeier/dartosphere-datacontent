@@ -7482,3 +7482,12 @@
     link: 'https://pub.dartlang.org/packages/liquid'
     author:
         - 'Boris Kaul'
+-
+    package_name: inkwave
+    package_version: v0.0.1
+    title: 'v0.0.1 of inkwave'
+    published: '2015-01-09T12:20:18+00:00'
+    id: 'urn:uuid:00da188a-2dca-591a-ad76-44229785be3a'
+    link: 'https://pub.dartlang.org/packages/inkwave'
+    author:
+        - 'Boris Kaul'
