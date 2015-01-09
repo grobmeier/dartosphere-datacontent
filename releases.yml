@@ -7455,3 +7455,12 @@
     link: 'https://pub.dartlang.org/packages/dom_scheduler'
     author:
         - 'Boris Kaul'
+-
+    package_name: vdom
+    package_version: v0.8.0
+    title: 'v0.8.0 of vdom'
+    published: '2015-01-09T12:05:15+00:00'
+    id: 'urn:uuid:a06e7025-c089-56fb-ae39-db0cb817ea8e'
+    link: 'https://pub.dartlang.org/packages/vdom'
+    author:
+        - 'Boris Kaul'
