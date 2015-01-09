@@ -7419,3 +7419,12 @@
         - 'Anant Narayanan'
         - 'Seth Ladd'
         - 'Kevin Moore'
+-
+    package_name: binary_types
+    package_version: v0.0.5
+    title: 'v0.0.5 of binary_types'
+    published: '2015-01-09T09:40:21+00:00'
+    id: 'urn:uuid:bea71638-2766-57b6-a310-c73e2b2b3a94'
+    link: 'https://pub.dartlang.org/packages/binary_types'
+    author:
+        - 'Andrew Mezoni'
