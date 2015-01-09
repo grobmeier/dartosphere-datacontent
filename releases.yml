@@ -7563,3 +7563,12 @@
     link: 'https://pub.dartlang.org/packages/test_runner'
     author:
         - 'Nicolas Garnier'
+-
+    package_name: polymer
+    package_version: v0.15.4
+    title: 'v0.15.4 of polymer'
+    published: '2015-01-09T20:40:16+00:00'
+    id: 'urn:uuid:4c7bc02d-9b5a-516b-ac7c-0b16a1e2dd7c'
+    link: 'https://pub.dartlang.org/packages/polymer'
+    author:
+        - 'Polymer.dart Authors'
