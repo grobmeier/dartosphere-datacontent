@@ -7446,3 +7446,12 @@
     link: 'https://pub.dartlang.org/packages/fisher'
     author:
         - 'Richard Ambler'
+-
+    package_name: dom_scheduler
+    package_version: v0.0.2
+    title: 'v0.0.2 of dom_scheduler'
+    published: '2015-01-09T12:00:24+00:00'
+    id: 'urn:uuid:40ff069a-dd68-5ee0-9a94-1a8b1a711118'
+    link: 'https://pub.dartlang.org/packages/dom_scheduler'
+    author:
+        - 'Boris Kaul'
