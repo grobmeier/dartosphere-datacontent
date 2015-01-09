@@ -7572,3 +7572,12 @@
     link: 'https://pub.dartlang.org/packages/polymer'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: test_runner
+    package_version: v0.2.10
+    title: 'v0.2.10 of test_runner'
+    published: '2015-01-09T21:35:15+00:00'
+    id: 'urn:uuid:0701ff73-5ffc-5bbd-98a3-d5617f88a72e'
+    link: 'https://pub.dartlang.org/packages/test_runner'
+    author:
+        - 'Nicolas Garnier'
