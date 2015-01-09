@@ -7518,3 +7518,12 @@
     link: 'https://pub.dartlang.org/packages/binary_interop'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: iris
+    package_version: v0.9.1
+    title: 'v0.9.1 of iris'
+    published: '2015-01-09T15:45:20+00:00'
+    id: 'urn:uuid:887dc2a0-9ab0-564b-8961-89d44bcd40fe'
+    link: 'https://pub.dartlang.org/packages/iris'
+    author:
+        - 'Matias Meno'
