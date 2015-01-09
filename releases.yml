@@ -7437,3 +7437,12 @@
     link: 'https://pub.dartlang.org/packages/binary_interop'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: fisher
+    package_version: v0.0.2
+    title: 'v0.0.2 of fisher'
+    published: '2015-01-09T10:00:24+00:00'
+    id: 'urn:uuid:3fb317f5-b855-5edc-915a-53f22e55f40d'
+    link: 'https://pub.dartlang.org/packages/fisher'
+    author:
+        - 'Richard Ambler'
