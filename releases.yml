@@ -7408,3 +7408,14 @@
     link: 'https://pub.dartlang.org/packages/wired'
     author:
         - 'Joris Hermans'
+-
+    package_name: firebase
+    package_version: v0.3.0
+    title: 'v0.3.0 of firebase'
+    published: '2015-01-09T01:35:15+00:00'
+    id: 'urn:uuid:54560b83-293b-5f8a-94e2-45c6e7dd27ea'
+    link: 'https://pub.dartlang.org/packages/firebase'
+    author:
+        - 'Anant Narayanan'
+        - 'Seth Ladd'
+        - 'Kevin Moore'
