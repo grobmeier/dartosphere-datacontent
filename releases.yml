@@ -7545,3 +7545,12 @@
     link: 'https://pub.dartlang.org/packages/binary_generator'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: dart_style
+    package_version: v0.1.1
+    title: 'v0.1.1 of dart_style'
+    published: '2015-01-09T19:25:16+00:00'
+    id: 'urn:uuid:59e8e609-9f55-5161-9449-942be02ceb43'
+    link: 'https://pub.dartlang.org/packages/dart_style'
+    author:
+        - 'Dart Team'
