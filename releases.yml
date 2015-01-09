@@ -7527,3 +7527,12 @@
     link: 'https://pub.dartlang.org/packages/iris'
     author:
         - 'Matias Meno'
+-
+    package_name: binary_interop
+    package_version: v0.0.8
+    title: 'v0.0.8 of binary_interop'
+    published: '2015-01-09T16:20:20+00:00'
+    id: 'urn:uuid:3ab01dc6-a9fc-52ba-a7ed-729d6ee73d0e'
+    link: 'https://pub.dartlang.org/packages/binary_interop'
+    author:
+        - 'Andrew Mezoni'
