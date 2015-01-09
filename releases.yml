@@ -7491,3 +7491,21 @@
     link: 'https://pub.dartlang.org/packages/inkwave'
     author:
         - 'Boris Kaul'
+-
+    package_name: binary_interop
+    package_version: v0.0.6
+    title: 'v0.0.6 of binary_interop'
+    published: '2015-01-09T14:05:15+00:00'
+    id: 'urn:uuid:53727aa1-dc9f-5188-bcbb-94825799e17d'
+    link: 'https://pub.dartlang.org/packages/binary_interop'
+    author:
+        - 'Andrew Mezoni'
+-
+    package_name: unsafe_extension
+    package_version: v0.0.4
+    title: 'v0.0.4 of unsafe_extension'
+    published: '2015-01-09T14:05:16+00:00'
+    id: 'urn:uuid:3e7ea4bd-91f6-5965-aed4-1d79118ca6e9'
+    link: 'https://pub.dartlang.org/packages/unsafe_extension'
+    author:
+        - 'Andrew Mezoni'
