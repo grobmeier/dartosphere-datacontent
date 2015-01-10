@@ -7698,3 +7698,13 @@
     link: 'https://pub.dartlang.org/packages/tags'
     author:
         - 'Ross Smith'
+-
+    package_name: simple_dart_api
+    package_version: v0.1.5
+    title: 'v0.1.5 of simple_dart_api'
+    published: '2015-01-10T22:15:14+00:00'
+    id: 'urn:uuid:5bf240f1-895d-5b4b-9940-1e5557a510e9'
+    link: 'https://pub.dartlang.org/packages/simple_dart_api'
+    author:
+        - 'Corentin Pillet'
+        - 'Samuel BERTHE'
