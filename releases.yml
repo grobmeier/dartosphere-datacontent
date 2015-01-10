@@ -7644,3 +7644,12 @@
     link: 'https://pub.dartlang.org/packages/flex_less'
     author:
         - 'Neeraj Mittal'
+-
+    package_name: flex_less
+    package_version: v0.1.1
+    title: 'v0.1.1 of flex_less'
+    published: '2015-01-10T17:45:14+00:00'
+    id: 'urn:uuid:67162b6f-6b48-5c79-9330-5e29b532e17c'
+    link: 'https://pub.dartlang.org/packages/flex_less'
+    author:
+        - 'Neeraj Mittal'
