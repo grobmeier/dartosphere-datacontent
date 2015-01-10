@@ -7689,3 +7689,12 @@
     link: 'https://pub.dartlang.org/packages/binary_types'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: tags
+    package_version: v0.8.5
+    title: 'v0.8.5 of tags'
+    published: '2015-01-10T21:05:12+00:00'
+    id: 'urn:uuid:60e662da-539c-54bc-858e-d8dcf11f6e7e'
+    link: 'https://pub.dartlang.org/packages/tags'
+    author:
+        - 'Ross Smith'
