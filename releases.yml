@@ -7635,3 +7635,12 @@
     link: 'https://pub.dartlang.org/packages/hud'
     author:
         - 'Erik Unger'
+-
+    package_name: flex_less
+    package_version: v0.1.0
+    title: 'v0.1.0 of flex_less'
+    published: '2015-01-10T16:30:18+00:00'
+    id: 'urn:uuid:f3974760-a262-5f04-b46a-471369e877da'
+    link: 'https://pub.dartlang.org/packages/flex_less'
+    author:
+        - 'Neeraj Mittal'
