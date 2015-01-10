@@ -7590,3 +7590,21 @@
     link: 'https://pub.dartlang.org/packages/less_dart'
     author:
         - 'Adalberto Lacruz'
+-
+    package_name: binary_types
+    package_version: v0.0.6
+    title: 'v0.0.6 of binary_types'
+    published: '2015-01-10T06:30:15+00:00'
+    id: 'urn:uuid:a893f216-d602-5258-a1a0-5bd5d404eb72'
+    link: 'https://pub.dartlang.org/packages/binary_types'
+    author:
+        - 'Andrew Mezoni'
+-
+    package_name: binary_declarations
+    package_version: v0.0.12
+    title: 'v0.0.12 of binary_declarations'
+    published: '2015-01-10T06:30:15+00:00'
+    id: 'urn:uuid:994815f2-4745-5eb0-b285-ee52c29cfa07'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni'
