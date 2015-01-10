@@ -7653,3 +7653,21 @@
     link: 'https://pub.dartlang.org/packages/flex_less'
     author:
         - 'Neeraj Mittal'
+-
+    package_name: liquid
+    package_version: v0.3.1
+    title: 'v0.3.1 of liquid'
+    published: '2015-01-10T19:59:56+00:00'
+    id: 'urn:uuid:c408f26b-46bb-5e6c-b732-e8b51cf16b49'
+    link: 'https://pub.dartlang.org/packages/liquid'
+    author:
+        - 'Boris Kaul'
+-
+    package_name: vdom
+    package_version: v0.8.1
+    title: 'v0.8.1 of vdom'
+    published: '2015-01-10T19:59:56+00:00'
+    id: 'urn:uuid:bfcdd7fa-6698-5fa2-995a-c3b0ce1a9284'
+    link: 'https://pub.dartlang.org/packages/vdom'
+    author:
+        - 'Boris Kaul'
