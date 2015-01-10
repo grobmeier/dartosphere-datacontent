@@ -7626,3 +7626,12 @@
     link: 'https://pub.dartlang.org/packages/stagexl_spine'
     author:
         - 'Bernhard Pichler'
+-
+    package_name: hud
+    package_version: v0.0.1
+    title: 'v0.0.1 of hud'
+    published: '2015-01-10T15:00:17+00:00'
+    id: 'urn:uuid:a2c4d5c3-2b18-59ab-a991-fda88cc2f975'
+    link: 'https://pub.dartlang.org/packages/hud'
+    author:
+        - 'Erik Unger'
