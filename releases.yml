@@ -7680,3 +7680,12 @@
     link: 'https://pub.dartlang.org/packages/binary_types'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_types
+    package_version: v0.0.8
+    title: 'v0.0.8 of binary_types'
+    published: '2015-01-10T20:25:12+00:00'
+    id: 'urn:uuid:39526b11-7f6b-55ae-831c-d8a94a82d402'
+    link: 'https://pub.dartlang.org/packages/binary_types'
+    author:
+        - 'Andrew Mezoni'
