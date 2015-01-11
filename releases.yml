@@ -7736,3 +7736,12 @@
     author:
         - 'David Peek'
         - 'Tom Yeh'
+-
+    package_name: binary_types
+    package_version: v0.0.9
+    title: 'v0.0.9 of binary_types'
+    published: '2015-01-11T15:25:13+00:00'
+    id: 'urn:uuid:db3b1d2a-2dc4-58c9-93f0-94f22f3cd145'
+    link: 'https://pub.dartlang.org/packages/binary_types'
+    author:
+        - 'Andrew Mezoni'
