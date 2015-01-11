@@ -7717,3 +7717,12 @@
     link: 'https://pub.dartlang.org/packages/stream_transformers'
     author:
         - 'Dan Schultz'
+-
+    package_name: json_hydrator
+    package_version: v0.0.1
+    title: 'v0.0.1 of json_hydrator'
+    published: '2015-01-11T04:05:10+00:00'
+    id: 'urn:uuid:948396e8-40ec-5072-80fb-129ea4b0a550'
+    link: 'https://pub.dartlang.org/packages/json_hydrator'
+    author:
+        - 'Sean McCleary'
