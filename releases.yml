@@ -7754,3 +7754,12 @@
     link: 'https://pub.dartlang.org/packages/libffi_binaries'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: libffi_binaries
+    package_version: v0.6.3
+    title: 'v0.6.3 of libffi_binaries'
+    published: '2015-01-11T21:30:16+00:00'
+    id: 'urn:uuid:a9141838-b176-57b0-a18b-f1f481358492'
+    link: 'https://pub.dartlang.org/packages/libffi_binaries'
+    author:
+        - 'Andrew Mezoni'
