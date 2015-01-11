@@ -7708,3 +7708,12 @@
     author:
         - 'Corentin Pillet'
         - 'Samuel BERTHE'
+-
+    package_name: stream_transformers
+    package_version: v0.1.0
+    title: 'v0.1.0 of stream_transformers'
+    published: '2015-01-11T02:50:12+00:00'
+    id: 'urn:uuid:0e886eb3-c788-5b56-a9ae-2092be3eaf51'
+    link: 'https://pub.dartlang.org/packages/stream_transformers'
+    author:
+        - 'Dan Schultz'
