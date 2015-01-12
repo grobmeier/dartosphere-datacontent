@@ -7799,3 +7799,12 @@
     link: 'https://pub.dartlang.org/packages/vdom'
     author:
         - 'Boris Kaul'
+-
+    package_name: ghpages_generator
+    package_version: v0.2.3
+    title: 'v0.2.3 of ghpages_generator'
+    published: '2015-01-12T08:50:17+00:00'
+    id: 'urn:uuid:cfd908ea-f84a-5f5f-a568-61e403a86da5'
+    link: 'https://pub.dartlang.org/packages/ghpages_generator'
+    author:
+        - 'Alexandre Ardhuin'
