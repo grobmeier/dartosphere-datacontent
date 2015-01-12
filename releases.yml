@@ -7808,3 +7808,12 @@
     link: 'https://pub.dartlang.org/packages/ghpages_generator'
     author:
         - 'Alexandre Ardhuin'
+-
+    package_name: bwu_fontawesome_iconset_svg
+    package_version: v0.1.0
+    title: 'v0.1.0 of bwu_fontawesome_iconset_svg'
+    published: '2015-01-12T10:55:17+00:00'
+    id: 'urn:uuid:c58eae64-a7a5-5993-bdf7-06979e897b82'
+    link: 'https://pub.dartlang.org/packages/bwu_fontawesome_iconset_svg'
+    author:
+        - 'Günter Zöchbauer'
