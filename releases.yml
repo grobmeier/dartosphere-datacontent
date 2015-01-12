@@ -7898,3 +7898,12 @@
     link: 'https://pub.dartlang.org/packages/less_dart'
     author:
         - 'Adalberto Lacruz'
+-
+    package_name: dart_style
+    package_version: v0.1.2
+    title: 'v0.1.2 of dart_style'
+    published: '2015-01-12T22:50:18+00:00'
+    id: 'urn:uuid:09af5960-8fc9-5f18-bcb4-903beb9e8d53'
+    link: 'https://pub.dartlang.org/packages/dart_style'
+    author:
+        - 'Dart Team'
