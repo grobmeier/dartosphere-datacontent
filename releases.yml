@@ -7772,3 +7772,12 @@
     link: 'https://pub.dartlang.org/packages/codemirror'
     author:
         - 'Devon Carew'
+-
+    package_name: codemirror
+    package_version: v0.1.2+4.11.0
+    title: 'v0.1.2+4.11.0 of codemirror'
+    published: '2015-01-12T01:20:11+00:00'
+    id: 'urn:uuid:d45a7391-54d8-5936-83e5-436ba4d3ce72'
+    link: 'https://pub.dartlang.org/packages/codemirror'
+    author:
+        - 'Devon Carew'
