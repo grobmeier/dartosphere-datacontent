@@ -7853,3 +7853,12 @@
     link: 'https://pub.dartlang.org/packages/test_runner'
     author:
         - 'Nicolas Garnier'
+-
+    package_name: ghpages_generator
+    package_version: v0.2.4
+    title: 'v0.2.4 of ghpages_generator'
+    published: '2015-01-12T15:15:22+00:00'
+    id: 'urn:uuid:eb413e3e-3253-5428-bcfc-b3fde1f2c269'
+    link: 'https://pub.dartlang.org/packages/ghpages_generator'
+    author:
+        - 'Alexandre Ardhuin'
