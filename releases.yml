@@ -7781,3 +7781,12 @@
     link: 'https://pub.dartlang.org/packages/codemirror'
     author:
         - 'Devon Carew'
+-
+    package_name: vdom
+    package_version: v0.8.2
+    title: 'v0.8.2 of vdom'
+    published: '2015-01-12T07:30:18+00:00'
+    id: 'urn:uuid:dc1778bc-87dc-552a-ade3-711c020a928d'
+    link: 'https://pub.dartlang.org/packages/vdom'
+    author:
+        - 'Boris Kaul'
