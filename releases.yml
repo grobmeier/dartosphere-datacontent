@@ -7880,3 +7880,12 @@
     link: 'https://pub.dartlang.org/packages/transmittable'
     author:
         - 'Daniel Robinson'
+-
+    package_name: polymer
+    package_version: v0.15.5
+    title: 'v0.15.5 of polymer'
+    published: '2015-01-12T21:01:49+00:00'
+    id: 'urn:uuid:418f5f2e-859f-5b5e-9570-5a02a9de45ed'
+    link: 'https://pub.dartlang.org/packages/polymer'
+    author:
+        - 'Polymer.dart Authors'
