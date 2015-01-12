@@ -7817,3 +7817,21 @@
     link: 'https://pub.dartlang.org/packages/bwu_fontawesome_iconset_svg'
     author:
         - 'Günter Zöchbauer'
+-
+    package_name: binary_interop
+    package_version: v0.0.9
+    title: 'v0.0.9 of binary_interop'
+    published: '2015-01-12T11:00:24+00:00'
+    id: 'urn:uuid:4283aa6c-ed4e-5da9-a97f-e1902d36162e'
+    link: 'https://pub.dartlang.org/packages/binary_interop'
+    author:
+        - 'Andrew Mezoni'
+-
+    package_name: binary_types
+    package_version: v0.0.10
+    title: 'v0.0.10 of binary_types'
+    published: '2015-01-12T11:00:24+00:00'
+    id: 'urn:uuid:3845fbfc-82ba-5710-b34c-d88d7158d6b7'
+    link: 'https://pub.dartlang.org/packages/binary_types'
+    author:
+        - 'Andrew Mezoni'
