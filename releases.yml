@@ -7889,3 +7889,12 @@
     link: 'https://pub.dartlang.org/packages/polymer'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: less_dart
+    package_version: v0.1.4
+    title: 'v0.1.4 of less_dart'
+    published: '2015-01-12T22:40:20+00:00'
+    id: 'urn:uuid:b3a18f66-1ff7-53e8-b7a1-3d5cb4127cfc'
+    link: 'https://pub.dartlang.org/packages/less_dart'
+    author:
+        - 'Adalberto Lacruz'
