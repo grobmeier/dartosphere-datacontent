@@ -7790,3 +7790,12 @@
     link: 'https://pub.dartlang.org/packages/vdom'
     author:
         - 'Boris Kaul'
+-
+    package_name: vdom
+    package_version: v0.8.2+1
+    title: 'v0.8.2+1 of vdom'
+    published: '2015-01-12T08:15:17+00:00'
+    id: 'urn:uuid:cc5db922-1fc8-587f-b99f-8b6ad741b4fe'
+    link: 'https://pub.dartlang.org/packages/vdom'
+    author:
+        - 'Boris Kaul'
