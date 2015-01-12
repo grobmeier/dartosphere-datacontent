@@ -7862,3 +7862,12 @@
     link: 'https://pub.dartlang.org/packages/ghpages_generator'
     author:
         - 'Alexandre Ardhuin'
+-
+    package_name: binary_types
+    package_version: v0.0.11
+    title: 'v0.0.11 of binary_types'
+    published: '2015-01-12T17:55:49+00:00'
+    id: 'urn:uuid:641e3f6d-ef4f-5a0e-aeb0-db3850c79176'
+    link: 'https://pub.dartlang.org/packages/binary_types'
+    author:
+        - 'Andrew Mezoni'
