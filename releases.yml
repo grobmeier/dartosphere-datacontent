@@ -7835,3 +7835,12 @@
     link: 'https://pub.dartlang.org/packages/binary_types'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: flex_less
+    package_version: v0.1.2
+    title: 'v0.1.2 of flex_less'
+    published: '2015-01-12T11:10:17+00:00'
+    id: 'urn:uuid:e68f2bb9-71e1-535a-b4ce-a70c8ffc4552'
+    link: 'https://pub.dartlang.org/packages/flex_less'
+    author:
+        - 'Neeraj Mittal'
