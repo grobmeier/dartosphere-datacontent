@@ -7945,3 +7945,12 @@
     link: 'https://pub.dartlang.org/packages/lost_dart'
     author:
         - 'Sergey Akopkokhyants'
+-
+    package_name: lost_dart
+    package_version: v1.0.7
+    title: 'v1.0.7 of lost_dart'
+    published: '2015-01-13T05:10:17+00:00'
+    id: 'urn:uuid:eb142cec-dae9-5d24-8b9d-34ba78c31401'
+    link: 'https://pub.dartlang.org/packages/lost_dart'
+    author:
+        - 'Sergey Akopkokhyants'
