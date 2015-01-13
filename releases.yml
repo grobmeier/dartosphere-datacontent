@@ -7999,3 +7999,12 @@
     link: 'https://pub.dartlang.org/packages/hangouts_api'
     author:
         - 'Gerwin Sturm'
+-
+    package_name: hangouts_api
+    package_version: v0.2.3
+    title: 'v0.2.3 of hangouts_api'
+    published: '2015-01-13T09:15:22+00:00'
+    id: 'urn:uuid:f220a896-e0d9-5c0a-a7b8-fdf3331b028b'
+    link: 'https://pub.dartlang.org/packages/hangouts_api'
+    author:
+        - 'Gerwin Sturm'
