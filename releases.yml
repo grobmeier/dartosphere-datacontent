@@ -8107,3 +8107,12 @@
     link: 'https://pub.dartlang.org/packages/which'
     author:
         - 'Sean Eagan'
+-
+    package_name: md_proc
+    package_version: v0.2.2
+    title: 'v0.2.2 of md_proc'
+    published: '2015-01-13T21:00:24+00:00'
+    id: 'urn:uuid:b0344674-cfec-5533-a864-a70ae7118f2d'
+    link: 'https://pub.dartlang.org/packages/md_proc'
+    author:
+        - 'Maxim Dikun'
