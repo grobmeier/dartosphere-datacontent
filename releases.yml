@@ -7963,3 +7963,12 @@
     link: 'https://pub.dartlang.org/packages/codemirror'
     author:
         - 'Devon Carew'
+-
+    package_name: dart_web_toolkit
+    package_version: v0.4.5
+    title: 'v0.4.5 of dart_web_toolkit'
+    published: '2015-01-13T05:50:18+00:00'
+    id: 'urn:uuid:7fc06ede-61b0-59a0-9696-ebd93b23f014'
+    link: 'https://pub.dartlang.org/packages/dart_web_toolkit'
+    author:
+        - 'Sergey Akopkokhyants'
