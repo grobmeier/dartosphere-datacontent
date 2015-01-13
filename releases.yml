@@ -7907,3 +7907,12 @@
     link: 'https://pub.dartlang.org/packages/dart_style'
     author:
         - 'Dart Team'
+-
+    package_name: matcher
+    package_version: v0.11.4
+    title: 'v0.11.4 of matcher'
+    published: '2015-01-13T00:05:16+00:00'
+    id: 'urn:uuid:ad1f79d9-01d1-5746-a8d1-1d4ae43341ee'
+    link: 'https://pub.dartlang.org/packages/matcher'
+    author:
+        - 'Dart Team'
