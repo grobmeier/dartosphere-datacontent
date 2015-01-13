@@ -8026,3 +8026,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_ajax_form'
     author:
         - 'Thomas Stephenson'
+-
+    package_name: peg
+    package_version: v0.0.35
+    title: 'v0.0.35 of peg'
+    published: '2015-01-13T12:30:25+00:00'
+    id: 'urn:uuid:54f06681-6d78-58a1-8d86-30ff48335454'
+    link: 'https://pub.dartlang.org/packages/peg'
+    author:
+        - 'Andrew Mezoni'
