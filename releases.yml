@@ -7990,3 +7990,12 @@
     link: 'https://pub.dartlang.org/packages/binary_types'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: hangouts_api
+    package_version: v0.2.2
+    title: 'v0.2.2 of hangouts_api'
+    published: '2015-01-13T09:00:32+00:00'
+    id: 'urn:uuid:78b1bb9b-a09a-5c73-ac4c-10cb6aa809f1'
+    link: 'https://pub.dartlang.org/packages/hangouts_api'
+    author:
+        - 'Gerwin Sturm'
