@@ -8044,3 +8044,12 @@
     link: 'https://pub.dartlang.org/packages/binary_interop'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: clean_sync
+    package_version: v0.8.8
+    title: 'v0.8.8 of clean_sync'
+    published: '2015-01-13T16:20:27+00:00'
+    id: 'urn:uuid:1c1b50d0-2a51-59f8-b647-7642fe94d80b'
+    link: 'https://pub.dartlang.org/packages/clean_sync'
+    author:
+        - 'Clean Team'
