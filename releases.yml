@@ -8071,3 +8071,12 @@
     link: 'https://pub.dartlang.org/packages/when'
     author:
         - 'Sean Eagan'
+-
+    package_name: peg
+    package_version: v0.0.36
+    title: 'v0.0.36 of peg'
+    published: '2015-01-13T18:00:34+00:00'
+    id: 'urn:uuid:58d35c52-7990-5a4d-abf4-f84ff2f23f53'
+    link: 'https://pub.dartlang.org/packages/peg'
+    author:
+        - 'Andrew Mezoni'
