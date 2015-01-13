@@ -8080,3 +8080,12 @@
     link: 'https://pub.dartlang.org/packages/peg'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_declarations
+    package_version: v0.0.15
+    title: 'v0.0.15 of binary_declarations'
+    published: '2015-01-13T18:10:19+00:00'
+    id: 'urn:uuid:f24a96d5-c374-57a6-9322-84bb95fc76f6'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni'
