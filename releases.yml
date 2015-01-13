@@ -8035,3 +8035,12 @@
     link: 'https://pub.dartlang.org/packages/peg'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_interop
+    package_version: v0.0.10
+    title: 'v0.0.10 of binary_interop'
+    published: '2015-01-13T15:30:26+00:00'
+    id: 'urn:uuid:9447ae34-fc23-5b6c-a602-898a158ae95c'
+    link: 'https://pub.dartlang.org/packages/binary_interop'
+    author:
+        - 'Andrew Mezoni'
