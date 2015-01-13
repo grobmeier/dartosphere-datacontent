@@ -7936,3 +7936,12 @@
     link: 'https://pub.dartlang.org/packages/unittest'
     author:
         - 'Dart Team'
+-
+    package_name: lost_dart
+    package_version: v1.0.5
+    title: 'v1.0.5 of lost_dart'
+    published: '2015-01-13T05:05:16+00:00'
+    id: 'urn:uuid:5108af35-f7a0-593c-89df-03c80ee31cfb'
+    link: 'https://pub.dartlang.org/packages/lost_dart'
+    author:
+        - 'Sergey Akopkokhyants'
