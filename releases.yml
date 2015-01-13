@@ -8089,3 +8089,12 @@
     link: 'https://pub.dartlang.org/packages/binary_declarations'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_types
+    package_version: v0.0.14
+    title: 'v0.0.14 of binary_types'
+    published: '2015-01-13T18:50:21+00:00'
+    id: 'urn:uuid:36dc52ee-9de2-5081-9fea-dbf0c03bafaa'
+    link: 'https://pub.dartlang.org/packages/binary_types'
+    author:
+        - 'Andrew Mezoni'
