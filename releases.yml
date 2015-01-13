@@ -7927,3 +7927,12 @@
         - 'Prasad Sunkari'
         - 'Michael Cheng'
         - 'Yan Qiao'
+-
+    package_name: unittest
+    package_version: v0.11.5
+    title: 'v0.11.5 of unittest'
+    published: '2015-01-13T02:20:16+00:00'
+    id: 'urn:uuid:71a1becc-8b64-544c-aae4-55b3ba811528'
+    link: 'https://pub.dartlang.org/packages/unittest'
+    author:
+        - 'Dart Team'
