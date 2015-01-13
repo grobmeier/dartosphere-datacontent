@@ -7954,3 +7954,12 @@
     link: 'https://pub.dartlang.org/packages/lost_dart'
     author:
         - 'Sergey Akopkokhyants'
+-
+    package_name: codemirror
+    package_version: v0.1.3+4.11.0
+    title: 'v0.1.3+4.11.0 of codemirror'
+    published: '2015-01-13T05:35:14+00:00'
+    id: 'urn:uuid:68d4c299-ae49-5f1c-8e21-e1bd90b53991'
+    link: 'https://pub.dartlang.org/packages/codemirror'
+    author:
+        - 'Devon Carew'
