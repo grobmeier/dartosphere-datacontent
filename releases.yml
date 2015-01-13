@@ -7981,3 +7981,12 @@
     link: 'https://pub.dartlang.org/packages/mongo_client'
     author:
         - 'Eric Obodo'
+-
+    package_name: binary_types
+    package_version: v0.0.12
+    title: 'v0.0.12 of binary_types'
+    published: '2015-01-13T08:25:17+00:00'
+    id: 'urn:uuid:ccbb361d-8bcf-5446-8811-b38b2392fa84'
+    link: 'https://pub.dartlang.org/packages/binary_types'
+    author:
+        - 'Andrew Mezoni'
