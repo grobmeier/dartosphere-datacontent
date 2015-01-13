@@ -7972,3 +7972,12 @@
     link: 'https://pub.dartlang.org/packages/dart_web_toolkit'
     author:
         - 'Sergey Akopkokhyants'
+-
+    package_name: mongo_client
+    package_version: v0.0.1
+    title: 'v0.0.1 of mongo_client'
+    published: '2015-01-13T05:55:14+00:00'
+    id: 'urn:uuid:ccc216c0-0b2a-53a6-8327-0b0db644d9d1'
+    link: 'https://pub.dartlang.org/packages/mongo_client'
+    author:
+        - 'Eric Obodo'
