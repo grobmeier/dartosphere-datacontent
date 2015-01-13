@@ -8053,3 +8053,12 @@
     link: 'https://pub.dartlang.org/packages/clean_sync'
     author:
         - 'Clean Team'
+-
+    package_name: binary_declarations
+    package_version: v0.0.14
+    title: 'v0.0.14 of binary_declarations'
+    published: '2015-01-13T17:05:19+00:00'
+    id: 'urn:uuid:f248a980-5d96-5d85-a89f-bf2c30000247'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni'
