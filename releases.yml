@@ -7916,3 +7916,14 @@
     link: 'https://pub.dartlang.org/packages/matcher'
     author:
         - 'Dart Team'
+-
+    package_name: charted
+    package_version: v0.0.8
+    title: 'v0.0.8 of charted'
+    published: '2015-01-13T01:20:15+00:00'
+    id: 'urn:uuid:c10788cf-1552-586d-97dc-1cde07aaa055'
+    link: 'https://pub.dartlang.org/packages/charted'
+    author:
+        - 'Prasad Sunkari'
+        - 'Michael Cheng'
+        - 'Yan Qiao'
