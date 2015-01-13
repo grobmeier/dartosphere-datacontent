@@ -8143,3 +8143,12 @@
     link: 'https://pub.dartlang.org/packages/test_runner'
     author:
         - 'Nicolas Garnier'
+-
+    package_name: highcharts_options
+    package_version: v0.2.0
+    title: 'v0.2.0 of highcharts_options'
+    published: '2015-01-13T22:35:14+00:00'
+    id: 'urn:uuid:6a6d4b27-6202-5312-a8f4-afb48b066668'
+    link: 'https://pub.dartlang.org/packages/highcharts_options'
+    author:
+        - 'Gonzalo Pezzi'
