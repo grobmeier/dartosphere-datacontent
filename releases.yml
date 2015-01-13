@@ -8062,3 +8062,12 @@
     link: 'https://pub.dartlang.org/packages/binary_declarations'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: when
+    package_version: v0.2.0
+    title: 'v0.2.0 of when'
+    published: '2015-01-13T17:40:24+00:00'
+    id: 'urn:uuid:a83db6c6-8d50-566e-9794-2f34cccd9edd'
+    link: 'https://pub.dartlang.org/packages/when'
+    author:
+        - 'Sean Eagan'
