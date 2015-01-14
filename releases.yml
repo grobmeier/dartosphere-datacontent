@@ -8278,3 +8278,12 @@
     link: 'https://pub.dartlang.org/packages/test_runner'
     author:
         - 'Nicolas Garnier'
+-
+    package_name: git
+    package_version: v0.4.1+2
+    title: 'v0.4.1+2 of git'
+    published: '2015-01-14T22:45:19+00:00'
+    id: 'urn:uuid:ba201913-dafb-5e39-a19d-1ea918e3481a'
+    link: 'https://pub.dartlang.org/packages/git'
+    author:
+        - 'Kevin Moore'
