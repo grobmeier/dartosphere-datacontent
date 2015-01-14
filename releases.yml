@@ -8179,3 +8179,12 @@
     link: 'https://pub.dartlang.org/packages/grinder'
     author:
         - 'Devon Carew'
+-
+    package_name: pappes_web_utility
+    package_version: v0.0.1
+    title: 'v0.0.1 of pappes_web_utility'
+    published: '2015-01-14T09:45:20+00:00'
+    id: 'urn:uuid:e08aa261-8a2c-5fb8-ae89-e9e6ef8ae4d0'
+    link: 'https://pub.dartlang.org/packages/pappes_web_utility'
+    author:
+        - Pappes
