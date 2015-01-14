@@ -8224,3 +8224,12 @@
     link: 'https://pub.dartlang.org/packages/mongo_fixtures'
     author:
         - 'Vladimir Shushkov'
+-
+    package_name: which
+    package_version: v0.1.1
+    title: 'v0.1.1 of which'
+    published: '2015-01-14T14:20:22+00:00'
+    id: 'urn:uuid:dd42e1c8-36dc-515d-8b6f-6e2e5a24ab57'
+    link: 'https://pub.dartlang.org/packages/which'
+    author:
+        - 'Sean Eagan'
