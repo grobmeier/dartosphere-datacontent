@@ -8251,3 +8251,12 @@
     link: 'https://pub.dartlang.org/packages/neural_network'
     author:
         - '<Alvaro Arcas Garcia>'
+-
+    package_name: core_elements
+    package_version: v0.6.0+3
+    title: 'v0.6.0+3 of core_elements'
+    published: '2015-01-14T18:25:20+00:00'
+    id: 'urn:uuid:37f34474-ea4c-5e93-b832-e33017ca99d6'
+    link: 'https://pub.dartlang.org/packages/core_elements'
+    author:
+        - 'Polymer.dart Authors'
