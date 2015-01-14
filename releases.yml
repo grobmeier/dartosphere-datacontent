@@ -8242,3 +8242,12 @@
     link: 'https://pub.dartlang.org/packages/hangouts_api'
     author:
         - 'Gerwin Sturm'
+-
+    package_name: neural_network
+    package_version: v0.0.3
+    title: 'v0.0.3 of neural_network'
+    published: '2015-01-14T17:40:23+00:00'
+    id: 'urn:uuid:957875e7-31e6-513c-a6d3-84781fd83b49'
+    link: 'https://pub.dartlang.org/packages/neural_network'
+    author:
+        - '<Alvaro Arcas Garcia>'
