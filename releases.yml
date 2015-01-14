@@ -8260,3 +8260,12 @@
     link: 'https://pub.dartlang.org/packages/core_elements'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: uri
+    package_version: v0.9.5
+    title: 'v0.9.5 of uri'
+    published: '2015-01-14T20:30:23+00:00'
+    id: 'urn:uuid:cc868806-f2dc-5e9c-b3ba-84ae20d318e5'
+    link: 'https://pub.dartlang.org/packages/uri'
+    author:
+        - 'Dart Authors'
