@@ -8161,3 +8161,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_highcharts'
     author:
         - 'Gonzalo Pezzi'
+-
+    package_name: args
+    package_version: v0.12.2+2
+    title: 'v0.12.2+2 of args'
+    published: '2015-01-14T01:45:15+00:00'
+    id: 'urn:uuid:b8bbe705-685c-5398-859b-4dd5b8e3f605'
+    link: 'https://pub.dartlang.org/packages/args'
+    author:
+        - 'Dart Team'
