@@ -8188,3 +8188,12 @@
     link: 'https://pub.dartlang.org/packages/pappes_web_utility'
     author:
         - Pappes
+-
+    package_name: do2
+    package_version: v0.5.1
+    title: 'v0.5.1 of do2'
+    published: '2015-01-14T10:15:20+00:00'
+    id: 'urn:uuid:41be5e02-d9ff-5f99-be7b-d1064f5735f1'
+    link: 'https://pub.dartlang.org/packages/do2'
+    author:
+        - 'Mikhail Stolyarov'
