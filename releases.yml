@@ -8206,3 +8206,12 @@
     link: 'https://pub.dartlang.org/packages/mongo_fixtures'
     author:
         - 'Vladimir Shushkov'
+-
+    package_name: stream_transformers
+    package_version: v0.1.0+1
+    title: 'v0.1.0+1 of stream_transformers'
+    published: '2015-01-14T11:25:17+00:00'
+    id: 'urn:uuid:6383671d-bdc7-5fc7-97a3-3674bc6bf8fa'
+    link: 'https://pub.dartlang.org/packages/stream_transformers'
+    author:
+        - 'Dan Schultz'
