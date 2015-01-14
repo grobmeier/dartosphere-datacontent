@@ -8197,3 +8197,12 @@
     link: 'https://pub.dartlang.org/packages/do2'
     author:
         - 'Mikhail Stolyarov'
+-
+    package_name: mongo_fixtures
+    package_version: v0.0.1
+    title: 'v0.0.1 of mongo_fixtures'
+    published: '2015-01-14T10:40:20+00:00'
+    id: 'urn:uuid:6c83a02e-4d5c-5137-8f4b-491552fe757b'
+    link: 'https://pub.dartlang.org/packages/mongo_fixtures'
+    author:
+        - 'Vladimir Shushkov'
