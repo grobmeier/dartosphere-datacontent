@@ -8215,3 +8215,12 @@
     link: 'https://pub.dartlang.org/packages/stream_transformers'
     author:
         - 'Dan Schultz'
+-
+    package_name: mongo_fixtures
+    package_version: v0.0.2
+    title: 'v0.0.2 of mongo_fixtures'
+    published: '2015-01-14T13:10:19+00:00'
+    id: 'urn:uuid:1242ba75-d4f2-5080-970f-777935f50119'
+    link: 'https://pub.dartlang.org/packages/mongo_fixtures'
+    author:
+        - 'Vladimir Shushkov'
