@@ -8314,3 +8314,12 @@
     link: 'https://pub.dartlang.org/packages/test_runner'
     author:
         - 'Nicolas Garnier'
+-
+    package_name: test_runner
+    package_version: v0.2.11+9
+    title: 'v0.2.11+9 of test_runner'
+    published: '2015-01-15T08:25:16+00:00'
+    id: 'urn:uuid:cede12ea-59a4-5a8d-9234-3fb6bf1b00db'
+    link: 'https://pub.dartlang.org/packages/test_runner'
+    author:
+        - 'Nicolas Garnier'
