@@ -8323,3 +8323,12 @@
     link: 'https://pub.dartlang.org/packages/test_runner'
     author:
         - 'Nicolas Garnier'
+-
+    package_name: peg
+    package_version: v0.0.37
+    title: 'v0.0.37 of peg'
+    published: '2015-01-15T10:35:20+00:00'
+    id: 'urn:uuid:5f1b7f41-291c-5730-9e28-e75d9cd695bc'
+    link: 'https://pub.dartlang.org/packages/peg'
+    author:
+        - 'Andrew Mezoni'
