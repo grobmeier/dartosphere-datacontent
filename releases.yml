@@ -8397,3 +8397,12 @@
     link: 'https://pub.dartlang.org/packages/which'
     author:
         - 'Sean Eagan'
+-
+    package_name: http_throttle
+    package_version: v1.0.0
+    title: 'v1.0.0 of http_throttle'
+    published: '2015-01-15T23:55:17+00:00'
+    id: 'urn:uuid:b7e59517-f2fc-528d-b38d-6d40cd3ce2a2'
+    link: 'https://pub.dartlang.org/packages/http_throttle'
+    author:
+        - 'Dart Team'
