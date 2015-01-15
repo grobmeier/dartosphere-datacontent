@@ -8370,3 +8370,12 @@
     link: 'https://pub.dartlang.org/packages/den'
     author:
         - 'Sean Eagan'
+-
+    package_name: smoke
+    package_version: v0.3.0
+    title: 'v0.3.0 of smoke'
+    published: '2015-01-15T18:25:17+00:00'
+    id: 'urn:uuid:3849022f-ebbf-53bb-9446-731f4fe6adb8'
+    link: 'https://pub.dartlang.org/packages/smoke'
+    author:
+        - 'Polymer.dart Authors'
