@@ -8332,3 +8332,13 @@
     link: 'https://pub.dartlang.org/packages/peg'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: simple_dart_api
+    package_version: v0.1.6
+    title: 'v0.1.6 of simple_dart_api'
+    published: '2015-01-15T12:10:22+00:00'
+    id: 'urn:uuid:4c5b3656-2e89-514a-8620-d7df020f21d0'
+    link: 'https://pub.dartlang.org/packages/simple_dart_api'
+    author:
+        - 'Corentin Pillet'
+        - 'Samuel BERTHE'
