@@ -8388,3 +8388,12 @@
     link: 'https://pub.dartlang.org/packages/prompt'
     author:
         - 'Sean Eagan'
+-
+    package_name: which
+    package_version: v0.1.2
+    title: 'v0.1.2 of which'
+    published: '2015-01-15T21:55:18+00:00'
+    id: 'urn:uuid:2b4ea4c9-b5e6-5618-8b99-422c2b7694f3'
+    link: 'https://pub.dartlang.org/packages/which'
+    author:
+        - 'Sean Eagan'
