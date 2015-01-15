@@ -8352,3 +8352,12 @@
     author:
         - 'Corentin Pillet'
         - 'Samuel BERTHE'
+-
+    package_name: core_elements
+    package_version: v0.6.0+4
+    title: 'v0.6.0+4 of core_elements'
+    published: '2015-01-15T15:05:20+00:00'
+    id: 'urn:uuid:252d0c60-fb3b-5461-b82d-24c4bc311e56'
+    link: 'https://pub.dartlang.org/packages/core_elements'
+    author:
+        - 'Polymer.dart Authors'
