@@ -8424,3 +8424,19 @@
     link: 'https://pub.dartlang.org/packages/socks'
     author:
         - 'Cristian Almstrand'
+-
+    package_name: angular
+    package_version: v1.1.0
+    title: 'v1.1.0 of angular'
+    published: '2015-01-16T01:30:18+00:00'
+    id: 'urn:uuid:f96bae56-4b97-5485-bc4b-70ade6ca1dbe'
+    link: 'https://pub.dartlang.org/packages/angular'
+    author:
+        - 'Misko Hevery'
+        - 'Pavel Jbanov'
+        - 'James deBoer'
+        - 'Chirayu Krishnappa'
+        - 'Matias Niemela'
+        - 'Paul Rohde'
+        - 'Victor Berchet'
+        - 'Rado Kirov'
