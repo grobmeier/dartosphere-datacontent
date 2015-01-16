@@ -8507,3 +8507,12 @@
     link: 'https://pub.dartlang.org/packages/mongo_fixtures'
     author:
         - 'Vladimir Shushkov'
+-
+    package_name: peg
+    package_version: v0.0.39
+    title: 'v0.0.39 of peg'
+    published: '2015-01-16T17:50:20+00:00'
+    id: 'urn:uuid:ac56ee28-8082-5d89-82db-8f0dbabca7a8'
+    link: 'https://pub.dartlang.org/packages/peg'
+    author:
+        - 'Andrew Mezoni'
