@@ -8498,3 +8498,12 @@
     link: 'https://pub.dartlang.org/packages/do2'
     author:
         - 'Mikhail Stolyarov'
+-
+    package_name: mongo_fixtures
+    package_version: v0.0.3
+    title: 'v0.0.3 of mongo_fixtures'
+    published: '2015-01-16T17:35:17+00:00'
+    id: 'urn:uuid:757ebecf-3c8c-5ecb-b9a5-2c7629a4f6a6'
+    link: 'https://pub.dartlang.org/packages/mongo_fixtures'
+    author:
+        - 'Vladimir Shushkov'
