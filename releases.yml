@@ -8440,3 +8440,12 @@
         - 'Paul Rohde'
         - 'Victor Berchet'
         - 'Rado Kirov'
+-
+    package_name: socks
+    package_version: v0.1.2
+    title: 'v0.1.2 of socks'
+    published: '2015-01-16T02:20:16+00:00'
+    id: 'urn:uuid:f54a1a42-a6a5-5c26-8dfc-badbfcdcabf4'
+    link: 'https://pub.dartlang.org/packages/socks'
+    author:
+        - 'Cristian Almstrand'
