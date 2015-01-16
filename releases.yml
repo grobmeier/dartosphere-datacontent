@@ -8415,3 +8415,12 @@
     link: 'https://pub.dartlang.org/packages/socks'
     author:
         - 'Cristian Almstrand'
+-
+    package_name: socks
+    package_version: v0.1.1
+    title: 'v0.1.1 of socks'
+    published: '2015-01-16T00:40:17+00:00'
+    id: 'urn:uuid:8fc4fd45-1dae-5867-bf7c-d0034d675236'
+    link: 'https://pub.dartlang.org/packages/socks'
+    author:
+        - 'Cristian Almstrand'
