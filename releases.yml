@@ -8458,3 +8458,12 @@
     link: 'https://pub.dartlang.org/packages/codemirror'
     author:
         - 'Devon Carew'
+-
+    package_name: peg
+    package_version: v0.0.38
+    title: 'v0.0.38 of peg'
+    published: '2015-01-16T08:10:15+00:00'
+    id: 'urn:uuid:b814aef6-7f7b-5a23-8a61-ce72ec57f431'
+    link: 'https://pub.dartlang.org/packages/peg'
+    author:
+        - 'Andrew Mezoni'
