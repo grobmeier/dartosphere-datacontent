@@ -8406,3 +8406,12 @@
     link: 'https://pub.dartlang.org/packages/http_throttle'
     author:
         - 'Dart Team'
+-
+    package_name: socks
+    package_version: v0.1.0
+    title: 'v0.1.0 of socks'
+    published: '2015-01-16T00:20:18+00:00'
+    id: 'urn:uuid:2fc9a4b5-28b8-5e9e-9002-2bff7003ed60'
+    link: 'https://pub.dartlang.org/packages/socks'
+    author:
+        - 'Cristian Almstrand'
