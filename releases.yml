@@ -8516,3 +8516,12 @@
     link: 'https://pub.dartlang.org/packages/peg'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: socks
+    package_version: v0.1.3
+    title: 'v0.1.3 of socks'
+    published: '2015-01-16T19:10:19+00:00'
+    id: 'urn:uuid:218f2ecc-c4e5-540d-8262-6125a994748b'
+    link: 'https://pub.dartlang.org/packages/socks'
+    author:
+        - 'Cristian Almstrand'
