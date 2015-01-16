@@ -8449,3 +8449,12 @@
     link: 'https://pub.dartlang.org/packages/socks'
     author:
         - 'Cristian Almstrand'
+-
+    package_name: codemirror
+    package_version: v0.1.4+4.11.0
+    title: 'v0.1.4+4.11.0 of codemirror'
+    published: '2015-01-16T05:10:19+00:00'
+    id: 'urn:uuid:89ccfb25-ebbb-5919-be87-29a2b48a3b58'
+    link: 'https://pub.dartlang.org/packages/codemirror'
+    author:
+        - 'Devon Carew'
