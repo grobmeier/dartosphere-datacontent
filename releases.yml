@@ -8467,3 +8467,16 @@
     link: 'https://pub.dartlang.org/packages/peg'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: angular_ui
+    package_version: v0.6.3
+    title: 'v0.6.3 of angular_ui'
+    published: '2015-01-16T10:05:16+00:00'
+    id: 'urn:uuid:3c3d4f5e-f5f2-5416-9a99-969c8d11fe88'
+    link: 'https://pub.dartlang.org/packages/angular_ui'
+    author:
+        - 'Sergey Akopkokhyants'
+        - 'Tonis Pool'
+        - 'Gunter Zochbauer'
+        - 'Francesco Cina'
+        - 'Neeraj Mittal'
