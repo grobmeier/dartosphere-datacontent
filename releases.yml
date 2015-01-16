@@ -8534,3 +8534,12 @@
     link: 'https://pub.dartlang.org/packages/peg'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: wired
+    package_version: v0.4.2
+    title: 'v0.4.2 of wired'
+    published: '2015-01-16T21:25:18+00:00'
+    id: 'urn:uuid:2dada527-9380-5c38-abd1-4e60fb17c96d'
+    link: 'https://pub.dartlang.org/packages/wired'
+    author:
+        - 'Joris Hermans'
