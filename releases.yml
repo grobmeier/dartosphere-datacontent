@@ -8480,3 +8480,12 @@
         - 'Gunter Zochbauer'
         - 'Francesco Cina'
         - 'Neeraj Mittal'
+-
+    package_name: wired
+    package_version: v0.4.1
+    title: 'v0.4.1 of wired'
+    published: '2015-01-16T17:05:22+00:00'
+    id: 'urn:uuid:84432bdd-974e-5bc9-afc9-8e7817eeef11'
+    link: 'https://pub.dartlang.org/packages/wired'
+    author:
+        - 'Joris Hermans'
