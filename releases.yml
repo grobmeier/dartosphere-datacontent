@@ -8525,3 +8525,12 @@
     link: 'https://pub.dartlang.org/packages/socks'
     author:
         - 'Cristian Almstrand'
+-
+    package_name: peg
+    package_version: v0.0.40
+    title: 'v0.0.40 of peg'
+    published: '2015-01-16T19:45:20+00:00'
+    id: 'urn:uuid:400f9ba5-fe11-50f2-85fe-bd59f61afd74'
+    link: 'https://pub.dartlang.org/packages/peg'
+    author:
+        - 'Andrew Mezoni'
