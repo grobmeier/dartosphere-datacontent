@@ -8561,3 +8561,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_bind'
     author:
         - 'Anders Holmgren'
+-
+    package_name: modern_charts
+    package_version: v0.1.1
+    title: 'v0.1.1 of modern_charts'
+    published: '2015-01-17T04:35:14+00:00'
+    id: 'urn:uuid:aaa9b800-2155-505e-b903-bcd69e145ff1'
+    link: 'https://pub.dartlang.org/packages/modern_charts'
+    author:
+        - 'Man Hoang'
