@@ -8570,3 +8570,12 @@
     link: 'https://pub.dartlang.org/packages/modern_charts'
     author:
         - 'Man Hoang'
+-
+    package_name: peg
+    package_version: v0.0.41
+    title: 'v0.0.41 of peg'
+    published: '2015-01-17T04:45:14+00:00'
+    id: 'urn:uuid:45b3defd-bd1e-5b40-9ea9-5651bf475bfc'
+    link: 'https://pub.dartlang.org/packages/peg'
+    author:
+        - 'Andrew Mezoni'
