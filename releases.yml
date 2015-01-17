@@ -8678,3 +8678,12 @@
     link: 'https://pub.dartlang.org/packages/ensuring_page'
     author:
         - 'Vostrikov Vitaliy'
+-
+    package_name: ensuring_page
+    package_version: v0.1.2
+    title: 'v0.1.2 of ensuring_page'
+    published: '2015-01-17T20:05:14+00:00'
+    id: 'urn:uuid:445c4a35-ae55-549f-ba8a-2b47d29eeda2'
+    link: 'https://pub.dartlang.org/packages/ensuring_page'
+    author:
+        - 'Vostrikov Vitaliy'
