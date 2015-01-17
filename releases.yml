@@ -8660,3 +8660,12 @@
     link: 'https://pub.dartlang.org/packages/do2'
     author:
         - 'Mikhail Stolyarov'
+-
+    package_name: events
+    package_version: v0.1.1
+    title: 'v0.1.1 of events'
+    published: '2015-01-17T15:30:17+00:00'
+    id: 'urn:uuid:af90ca06-3d88-56b5-9f68-826ca4861638'
+    link: 'https://pub.dartlang.org/packages/events'
+    author:
+        - 'Steven Roose'
