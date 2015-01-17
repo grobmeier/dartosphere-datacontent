@@ -8579,3 +8579,12 @@
     link: 'https://pub.dartlang.org/packages/peg'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: peg
+    package_version: v0.0.42
+    title: 'v0.0.42 of peg'
+    published: '2015-01-17T05:55:35+00:00'
+    id: 'urn:uuid:e09eb4dd-4d23-51eb-8034-859e6f819655'
+    link: 'https://pub.dartlang.org/packages/peg'
+    author:
+        - 'Andrew Mezoni'
