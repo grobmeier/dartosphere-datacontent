@@ -8552,3 +8552,12 @@
     link: 'https://pub.dartlang.org/packages/constrain'
     author:
         - 'Anders Holmgren'
+-
+    package_name: shelf_bind
+    package_version: v0.7.0+3
+    title: 'v0.7.0+3 of shelf_bind'
+    published: '2015-01-17T03:20:15+00:00'
+    id: 'urn:uuid:9be2c646-fcac-5bee-b54a-0c60a347348d'
+    link: 'https://pub.dartlang.org/packages/shelf_bind'
+    author:
+        - 'Anders Holmgren'
