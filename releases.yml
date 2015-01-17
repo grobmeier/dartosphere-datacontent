@@ -8606,3 +8606,21 @@
     link: 'https://pub.dartlang.org/packages/dson'
     author:
         - 'Luis Vargas'
+-
+    package_name: drails
+    package_version: v0.1.1+1
+    title: 'v0.1.1+1 of drails'
+    published: '2015-01-17T07:30:14+00:00'
+    id: 'urn:uuid:c221bd2b-7b24-59f8-89be-ab800445cce3'
+    link: 'https://pub.dartlang.org/packages/drails'
+    author:
+        - 'Luis Vargas'
+-
+    package_name: drails_di
+    package_version: v0.0.1+1
+    title: 'v0.0.1+1 of drails_di'
+    published: '2015-01-17T07:30:14+00:00'
+    id: 'urn:uuid:54df70de-baa8-5370-ade8-d6d3d3794714'
+    link: 'https://pub.dartlang.org/packages/drails_di'
+    author:
+        - 'Luis Vargas'
