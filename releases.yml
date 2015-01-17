@@ -8543,3 +8543,12 @@
     link: 'https://pub.dartlang.org/packages/wired'
     author:
         - 'Joris Hermans'
+-
+    package_name: constrain
+    package_version: v0.2.0+2
+    title: 'v0.2.0+2 of constrain'
+    published: '2015-01-17T03:15:15+00:00'
+    id: 'urn:uuid:33778d95-8532-552f-8544-5371db49cf23'
+    link: 'https://pub.dartlang.org/packages/constrain'
+    author:
+        - 'Anders Holmgren'
