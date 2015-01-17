@@ -8669,3 +8669,12 @@
     link: 'https://pub.dartlang.org/packages/events'
     author:
         - 'Steven Roose'
+-
+    package_name: ensuring_page
+    package_version: v0.1.1
+    title: 'v0.1.1 of ensuring_page'
+    published: '2015-01-17T20:00:20+00:00'
+    id: 'urn:uuid:6b1f26b3-6b4f-5e81-8d62-df9ea1090f07'
+    link: 'https://pub.dartlang.org/packages/ensuring_page'
+    author:
+        - 'Vostrikov Vitaliy'
