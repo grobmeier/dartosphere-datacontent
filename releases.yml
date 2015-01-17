@@ -8624,3 +8624,12 @@
     link: 'https://pub.dartlang.org/packages/drails_di'
     author:
         - 'Luis Vargas'
+-
+    package_name: drails
+    package_version: v0.1.1+2
+    title: 'v0.1.1+2 of drails'
+    published: '2015-01-17T07:35:12+00:00'
+    id: 'urn:uuid:a30f398a-d5c9-523e-a107-3e1a99e82758'
+    link: 'https://pub.dartlang.org/packages/drails'
+    author:
+        - 'Luis Vargas'
