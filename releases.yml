@@ -8642,3 +8642,12 @@
     link: 'https://pub.dartlang.org/packages/drails'
     author:
         - 'Luis Vargas'
+-
+    package_name: wired
+    package_version: v0.4.3
+    title: 'v0.4.3 of wired'
+    published: '2015-01-17T08:20:13+00:00'
+    id: 'urn:uuid:237c7b2f-c3e2-5e0e-a5f0-9c84a07b85cb'
+    link: 'https://pub.dartlang.org/packages/wired'
+    author:
+        - 'Joris Hermans'
