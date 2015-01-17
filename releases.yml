@@ -8651,3 +8651,12 @@
     link: 'https://pub.dartlang.org/packages/wired'
     author:
         - 'Joris Hermans'
+-
+    package_name: do2
+    package_version: v0.5.3
+    title: 'v0.5.3 of do2'
+    published: '2015-01-17T10:50:12+00:00'
+    id: 'urn:uuid:344fc3b5-d950-5c11-84a8-094a01104a77'
+    link: 'https://pub.dartlang.org/packages/do2'
+    author:
+        - 'Mikhail Stolyarov'
