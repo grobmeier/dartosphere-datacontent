@@ -8588,3 +8588,21 @@
     link: 'https://pub.dartlang.org/packages/peg'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: drails_commons
+    package_version: v0.0.2+1
+    title: 'v0.0.2+1 of drails_commons'
+    published: '2015-01-17T07:25:12+00:00'
+    id: 'urn:uuid:e4216c05-054f-5ecf-bb73-2f8133ff6c3f'
+    link: 'https://pub.dartlang.org/packages/drails_commons'
+    author:
+        - 'Luis Vargas'
+-
+    package_name: dson
+    package_version: v0.1.3+1
+    title: 'v0.1.3+1 of dson'
+    published: '2015-01-17T07:25:12+00:00'
+    id: 'urn:uuid:e85abc5a-ef58-5569-8f16-331fd60a3f09'
+    link: 'https://pub.dartlang.org/packages/dson'
+    author:
+        - 'Luis Vargas'
