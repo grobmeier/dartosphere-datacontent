@@ -8786,3 +8786,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_ajax_form'
     author:
         - 'Thomas Stephenson'
+-
+    package_name: codemirror
+    package_version: v0.1.5+4.11.0
+    title: 'v0.1.5+4.11.0 of codemirror'
+    published: '2015-01-18T22:20:14+00:00'
+    id: 'urn:uuid:824a2fb0-1419-5330-b878-812ed19e4e86'
+    link: 'https://pub.dartlang.org/packages/codemirror'
+    author:
+        - 'Devon Carew'
