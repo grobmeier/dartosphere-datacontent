@@ -8732,3 +8732,12 @@
     link: 'https://pub.dartlang.org/packages/reflective'
     author:
         - 'Stijn Van Bael'
+-
+    package_name: reflective
+    package_version: v0.0.7
+    title: 'v0.0.7 of reflective'
+    published: '2015-01-18T13:55:12+00:00'
+    id: 'urn:uuid:340145c7-6560-5b26-b1c4-e2b3fd6afd14'
+    link: 'https://pub.dartlang.org/packages/reflective'
+    author:
+        - 'Stijn Van Bael'
