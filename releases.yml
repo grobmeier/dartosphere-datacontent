@@ -8759,3 +8759,12 @@
     link: 'https://pub.dartlang.org/packages/reflective'
     author:
         - 'Stijn Van Bael'
+-
+    package_name: box
+    package_version: v0.0.1
+    title: 'v0.0.1 of box'
+    published: '2015-01-18T14:45:14+00:00'
+    id: 'urn:uuid:d26346b1-581e-535f-be50-4bb5e04b1288'
+    link: 'https://pub.dartlang.org/packages/box'
+    author:
+        - 'Stijn Van Bael'
