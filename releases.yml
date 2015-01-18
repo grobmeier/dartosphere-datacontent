@@ -8768,3 +8768,12 @@
     link: 'https://pub.dartlang.org/packages/box'
     author:
         - 'Stijn Van Bael'
+-
+    package_name: polymer_ajax_form
+    package_version: v0.2.0
+    title: 'v0.2.0 of polymer_ajax_form'
+    published: '2015-01-18T14:50:15+00:00'
+    id: 'urn:uuid:5314597c-6db8-56f6-875d-2c584e64d271'
+    link: 'https://pub.dartlang.org/packages/polymer_ajax_form'
+    author:
+        - 'Thomas Stephenson'
