@@ -8714,3 +8714,12 @@
     link: 'https://pub.dartlang.org/packages/dilithium'
     author:
         - brucedavidson
+-
+    package_name: socks
+    package_version: v0.2.0
+    title: 'v0.2.0 of socks'
+    published: '2015-01-18T08:05:13+00:00'
+    id: 'urn:uuid:4ab324ce-49aa-51dc-a573-c2a49753d11a'
+    link: 'https://pub.dartlang.org/packages/socks'
+    author:
+        - 'Cristian Almstrand'
