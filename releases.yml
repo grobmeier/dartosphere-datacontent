@@ -8777,3 +8777,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_ajax_form'
     author:
         - 'Thomas Stephenson'
+-
+    package_name: polymer_ajax_form
+    package_version: v0.2.1
+    title: 'v0.2.1 of polymer_ajax_form'
+    published: '2015-01-18T18:20:16+00:00'
+    id: 'urn:uuid:20772e9e-9d08-5722-86a3-b859e1c87faf'
+    link: 'https://pub.dartlang.org/packages/polymer_ajax_form'
+    author:
+        - 'Thomas Stephenson'
