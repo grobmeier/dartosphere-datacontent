@@ -8813,3 +8813,12 @@
     link: 'https://pub.dartlang.org/packages/dilithium'
     author:
         - brucedavidson
+-
+    package_name: access
+    package_version: v0.5.5
+    title: 'v0.5.5 of access'
+    published: '2015-01-19T07:55:15+00:00'
+    id: 'urn:uuid:4e705a41-67c5-5efb-8d54-50dadf57e7cc'
+    link: 'https://pub.dartlang.org/packages/access'
+    author:
+        - 'Tom Yeh'
