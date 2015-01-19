@@ -8795,3 +8795,12 @@
     link: 'https://pub.dartlang.org/packages/codemirror'
     author:
         - 'Devon Carew'
+-
+    package_name: dlog
+    package_version: v0.0.1
+    title: 'v0.0.1 of dlog'
+    published: '2015-01-19T01:00:19+00:00'
+    id: 'urn:uuid:8c17aa15-2e32-5134-9f8d-f97756da25e0'
+    link: 'https://pub.dartlang.org/packages/dlog'
+    author:
+        - 'Viktor Dakalov'
