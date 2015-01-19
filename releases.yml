@@ -8876,3 +8876,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_highcharts'
     author:
         - 'Gonzalo Pezzi'
+-
+    package_name: dlog
+    package_version: v0.0.2
+    title: 'v0.0.2 of dlog'
+    published: '2015-01-19T22:25:17+00:00'
+    id: 'urn:uuid:0af0071f-cafe-578c-9e6c-8bd8f78f0d61'
+    link: 'https://pub.dartlang.org/packages/dlog'
+    author:
+        - 'Viktor Dakalov'
