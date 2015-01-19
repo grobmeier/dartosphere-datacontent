@@ -8840,3 +8840,12 @@
     link: 'https://pub.dartlang.org/packages/googleapis'
     author:
         - 'Dart Team'
+-
+    package_name: peg
+    package_version: v0.0.43
+    title: 'v0.0.43 of peg'
+    published: '2015-01-19T10:15:22+00:00'
+    id: 'urn:uuid:7183da6b-a8bd-5b66-b841-926316badde4'
+    link: 'https://pub.dartlang.org/packages/peg'
+    author:
+        - 'Andrew Mezoni'
