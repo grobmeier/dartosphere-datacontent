@@ -8867,3 +8867,12 @@
     link: 'https://pub.dartlang.org/packages/highcharts_options'
     author:
         - 'Gonzalo Pezzi'
+-
+    package_name: polymer_highcharts
+    package_version: v0.2.1+1
+    title: 'v0.2.1+1 of polymer_highcharts'
+    published: '2015-01-19T12:15:22+00:00'
+    id: 'urn:uuid:0ae5de57-3254-57dc-bc6d-2bd8f5349d25'
+    link: 'https://pub.dartlang.org/packages/polymer_highcharts'
+    author:
+        - 'Gonzalo Pezzi'
