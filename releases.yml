@@ -8885,3 +8885,12 @@
     link: 'https://pub.dartlang.org/packages/dlog'
     author:
         - 'Viktor Dakalov'
+-
+    package_name: dilithium
+    package_version: v0.3.6
+    title: 'v0.3.6 of dilithium'
+    published: '2015-01-19T23:50:16+00:00'
+    id: 'urn:uuid:e061a72f-8abd-511f-9ec7-f737ef1953e8'
+    link: 'https://pub.dartlang.org/packages/dilithium'
+    author:
+        - brucedavidson
