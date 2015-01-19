@@ -8849,3 +8849,21 @@
     link: 'https://pub.dartlang.org/packages/peg'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: polymer_highcharts
+    package_version: v0.2.1
+    title: 'v0.2.1 of polymer_highcharts'
+    published: '2015-01-19T12:05:20+00:00'
+    id: 'urn:uuid:0fc9cd47-1a1f-5d55-94fd-5f8d500da7c3'
+    link: 'https://pub.dartlang.org/packages/polymer_highcharts'
+    author:
+        - 'Gonzalo Pezzi'
+-
+    package_name: highcharts_options
+    package_version: v0.2.1
+    title: 'v0.2.1 of highcharts_options'
+    published: '2015-01-19T12:05:20+00:00'
+    id: 'urn:uuid:ec6a3632-cad7-5ed6-9bb1-5a37ff5d4e09'
+    link: 'https://pub.dartlang.org/packages/highcharts_options'
+    author:
+        - 'Gonzalo Pezzi'
