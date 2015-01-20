@@ -9120,3 +9120,12 @@
     link: 'https://pub.dartlang.org/packages/macro_processor'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: chrome_storage_cache
+    package_version: v0.0.2
+    title: 'v0.0.2 of chrome_storage_cache'
+    published: '2015-01-20T21:05:18+00:00'
+    id: 'urn:uuid:55eb8412-40d8-5d69-a1d1-dce8b5545428'
+    link: 'https://pub.dartlang.org/packages/chrome_storage_cache'
+    author:
+        - 'Jordan Reuter'
