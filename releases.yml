@@ -9030,3 +9030,12 @@
     link: 'https://pub.dartlang.org/packages/dlog'
     author:
         - 'Viktor Dakalov'
+-
+    package_name: oracledart
+    package_version: v0.0.11
+    title: 'v0.0.11 of oracledart'
+    published: '2015-01-20T07:40:20+00:00'
+    id: 'urn:uuid:7f6ccef6-732f-5777-adf2-c7d92f9b9b89'
+    link: 'https://pub.dartlang.org/packages/oracledart'
+    author:
+        - 'Alexander Aprelev'
