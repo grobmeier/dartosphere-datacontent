@@ -9021,3 +9021,12 @@
     link: 'https://pub.dartlang.org/packages/oracledart'
     author:
         - 'Alexander Aprelev'
+-
+    package_name: dlog
+    package_version: v0.0.4
+    title: 'v0.0.4 of dlog'
+    published: '2015-01-20T07:20:16+00:00'
+    id: 'urn:uuid:a8d5b1c7-6060-5cb2-9a7b-17e87956b961'
+    link: 'https://pub.dartlang.org/packages/dlog'
+    author:
+        - 'Viktor Dakalov'
