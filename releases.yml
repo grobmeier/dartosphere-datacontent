@@ -9075,3 +9075,12 @@
     link: 'https://pub.dartlang.org/packages/reflective'
     author:
         - 'Stijn Van Bael'
+-
+    package_name: stevenroose
+    package_version: v0.1.0+2
+    title: 'v0.1.0+2 of stevenroose'
+    published: '2015-01-20T16:30:27+00:00'
+    id: 'urn:uuid:e0a769dc-ab87-510c-a7e1-dc28fe3c7ee6'
+    link: 'https://pub.dartlang.org/packages/stevenroose'
+    author:
+        - 'Steven Roose'
