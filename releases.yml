@@ -9093,3 +9093,12 @@
     link: 'https://pub.dartlang.org/packages/reflective'
     author:
         - 'Stijn Van Bael'
+-
+    package_name: smoke
+    package_version: v0.3.1
+    title: 'v0.3.1 of smoke'
+    published: '2015-01-20T17:50:21+00:00'
+    id: 'urn:uuid:a18e801f-8a35-5ff6-a6ae-204ddf53a192'
+    link: 'https://pub.dartlang.org/packages/smoke'
+    author:
+        - 'Polymer.dart Authors'
