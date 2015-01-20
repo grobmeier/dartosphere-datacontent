@@ -9102,3 +9102,12 @@
     link: 'https://pub.dartlang.org/packages/smoke'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: oracledart
+    package_version: v0.0.12
+    title: 'v0.0.12 of oracledart'
+    published: '2015-01-20T18:05:18+00:00'
+    id: 'urn:uuid:7cca1906-d900-5f16-b0e1-512af2127aea'
+    link: 'https://pub.dartlang.org/packages/oracledart'
+    author:
+        - 'Alexander Aprelev'
