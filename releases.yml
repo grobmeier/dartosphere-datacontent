@@ -8993,3 +8993,22 @@
     link: 'https://pub.dartlang.org/packages/dlog'
     author:
         - 'Viktor Dakalov'
+-
+    package_name: vane
+    package_version: v0.6.5+3
+    title: 'v0.6.5+3 of vane'
+    published: '2015-01-20T06:20:20+00:00'
+    id: 'urn:uuid:cbb0a940-0df3-5748-b32b-b2920ad2b05f'
+    link: 'https://pub.dartlang.org/packages/vane'
+    author:
+        - 'Robert Åkerblom-Andersson'
+        - 'Andreas Ölund'
+-
+    package_name: peg
+    package_version: v0.0.44
+    title: 'v0.0.44 of peg'
+    published: '2015-01-20T06:20:20+00:00'
+    id: 'urn:uuid:5f168af4-2ce1-57d1-afbe-d611a700a3da'
+    link: 'https://pub.dartlang.org/packages/peg'
+    author:
+        - 'Andrew Mezoni'
