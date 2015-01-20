@@ -9066,3 +9066,12 @@
     link: 'https://pub.dartlang.org/packages/reflective'
     author:
         - 'Stijn Van Bael'
+-
+    package_name: reflective
+    package_version: v0.0.11
+    title: 'v0.0.11 of reflective'
+    published: '2015-01-20T16:05:28+00:00'
+    id: 'urn:uuid:7b0bccdb-9676-57e0-9dd4-cf637ae5f543'
+    link: 'https://pub.dartlang.org/packages/reflective'
+    author:
+        - 'Stijn Van Bael'
