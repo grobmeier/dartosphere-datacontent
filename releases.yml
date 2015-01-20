@@ -9084,3 +9084,12 @@
     link: 'https://pub.dartlang.org/packages/stevenroose'
     author:
         - 'Steven Roose'
+-
+    package_name: reflective
+    package_version: v0.0.12
+    title: 'v0.0.12 of reflective'
+    published: '2015-01-20T16:35:21+00:00'
+    id: 'urn:uuid:54492352-7054-520a-a93c-5fd4d7ea484f'
+    link: 'https://pub.dartlang.org/packages/reflective'
+    author:
+        - 'Stijn Van Bael'
