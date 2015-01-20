@@ -9012,3 +9012,12 @@
     link: 'https://pub.dartlang.org/packages/peg'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: oracledart
+    package_version: v0.0.10
+    title: 'v0.0.10 of oracledart'
+    published: '2015-01-20T06:40:16+00:00'
+    id: 'urn:uuid:df69d9b7-ca79-58b9-8076-06d31de42aee'
+    link: 'https://pub.dartlang.org/packages/oracledart'
+    author:
+        - 'Alexander Aprelev'
