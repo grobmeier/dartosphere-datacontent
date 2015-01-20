@@ -9039,3 +9039,12 @@
     link: 'https://pub.dartlang.org/packages/oracledart'
     author:
         - 'Alexander Aprelev'
+-
+    package_name: base2e15
+    package_version: v0.1.0
+    title: 'v0.1.0 of base2e15'
+    published: '2015-01-20T09:55:19+00:00'
+    id: 'urn:uuid:3c6b8912-2552-5477-993e-a6a040be09b3'
+    link: 'https://pub.dartlang.org/packages/base2e15'
+    author:
+        - 'Rick Zhou'
