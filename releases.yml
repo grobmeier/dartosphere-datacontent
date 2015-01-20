@@ -9048,3 +9048,12 @@
     link: 'https://pub.dartlang.org/packages/base2e15'
     author:
         - 'Rick Zhou'
+-
+    package_name: base2e15
+    package_version: v0.1.1
+    title: 'v0.1.1 of base2e15'
+    published: '2015-01-20T10:00:27+00:00'
+    id: 'urn:uuid:e006a2f9-9ee8-55f5-95b7-fd6ce9c38b97'
+    link: 'https://pub.dartlang.org/packages/base2e15'
+    author:
+        - 'Rick Zhou'
