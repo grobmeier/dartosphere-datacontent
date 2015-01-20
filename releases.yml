@@ -9111,3 +9111,12 @@
     link: 'https://pub.dartlang.org/packages/oracledart'
     author:
         - 'Alexander Aprelev'
+-
+    package_name: macro_processor
+    package_version: v0.0.1
+    title: 'v0.0.1 of macro_processor'
+    published: '2015-01-20T20:10:16+00:00'
+    id: 'urn:uuid:d1f7fc56-92bd-5c08-8df5-da8fe4e3f5b1'
+    link: 'https://pub.dartlang.org/packages/macro_processor'
+    author:
+        - 'Andrew Mezoni'
