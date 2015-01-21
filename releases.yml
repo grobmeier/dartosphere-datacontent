@@ -9239,3 +9239,12 @@
     link: 'https://pub.dartlang.org/packages/binary_types'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_interop
+    package_version: v0.0.11
+    title: 'v0.0.11 of binary_interop'
+    published: '2015-01-21T16:00:39+00:00'
+    id: 'urn:uuid:5c7b113f-f48c-544f-98ee-126d88e4b827'
+    link: 'https://pub.dartlang.org/packages/binary_interop'
+    author:
+        - 'Andrew Mezoni'
