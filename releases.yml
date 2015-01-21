@@ -9203,3 +9203,12 @@
     link: 'https://pub.dartlang.org/packages/entity'
     author:
         - 'Tom Yeh'
+-
+    package_name: parser_error
+    package_version: v0.0.1
+    title: 'v0.0.1 of parser_error'
+    published: '2015-01-21T11:35:22+00:00'
+    id: 'urn:uuid:68cc6b21-5c43-5308-85ef-b63ab64b728f'
+    link: 'https://pub.dartlang.org/packages/parser_error'
+    author:
+        - 'Andrew Mezoni'
