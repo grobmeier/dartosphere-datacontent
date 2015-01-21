@@ -9311,3 +9311,12 @@
     link: 'https://pub.dartlang.org/packages/binary_interop'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: initialize
+    package_version: v0.1.0+1
+    title: 'v0.1.0+1 of initialize'
+    published: '2015-01-21T21:30:24+00:00'
+    id: 'urn:uuid:06314ddc-ebde-5a1b-a77d-4fc9acb01620'
+    link: 'https://pub.dartlang.org/packages/initialize'
+    author:
+        - 'Polymer.dart Authors'
