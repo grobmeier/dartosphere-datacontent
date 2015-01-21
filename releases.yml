@@ -9257,3 +9257,12 @@
     link: 'https://pub.dartlang.org/packages/stream_trigger'
     author:
         - 'Will Squire'
+-
+    package_name: binary_declarations
+    package_version: v0.0.17
+    title: 'v0.0.17 of binary_declarations'
+    published: '2015-01-21T17:45:24+00:00'
+    id: 'urn:uuid:38a5796e-ac9e-554d-8660-c210899746ec'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni'
