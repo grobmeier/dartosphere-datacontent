@@ -9212,3 +9212,12 @@
     link: 'https://pub.dartlang.org/packages/parser_error'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_declarations
+    package_version: v0.0.16
+    title: 'v0.0.16 of binary_declarations'
+    published: '2015-01-21T11:40:22+00:00'
+    id: 'urn:uuid:4769eda5-9ec6-520c-83b2-80b2101ffafa'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni'
