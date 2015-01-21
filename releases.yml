@@ -9156,3 +9156,12 @@
     link: 'https://pub.dartlang.org/packages/json_rpc_2'
     author:
         - 'Dart Team'
+-
+    package_name: color
+    package_version: v1.2.0
+    title: 'v1.2.0 of color'
+    published: '2015-01-21T03:20:16+00:00'
+    id: 'urn:uuid:c7957e80-e1a8-5539-b626-73a7267fd28e'
+    link: 'https://pub.dartlang.org/packages/color'
+    author:
+        - 'Michael Fenwick'
