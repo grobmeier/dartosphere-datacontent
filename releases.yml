@@ -9248,3 +9248,12 @@
     link: 'https://pub.dartlang.org/packages/binary_interop'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: stream_trigger
+    package_version: v1.0.0
+    title: 'v1.0.0 of stream_trigger'
+    published: '2015-01-21T16:20:37+00:00'
+    id: 'urn:uuid:d582297e-335d-5f03-8e42-d60e2ba1064e'
+    link: 'https://pub.dartlang.org/packages/stream_trigger'
+    author:
+        - 'Will Squire'
