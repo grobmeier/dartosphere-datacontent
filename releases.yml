@@ -9138,3 +9138,12 @@
     link: 'https://pub.dartlang.org/packages/scheduled_test'
     author:
         - 'Dart Team'
+-
+    package_name: shelf
+    package_version: v0.5.7
+    title: 'v0.5.7 of shelf'
+    published: '2015-01-21T02:20:16+00:00'
+    id: 'urn:uuid:f149d1ef-dc14-5a29-b97c-6f7ba97f7e93'
+    link: 'https://pub.dartlang.org/packages/shelf'
+    author:
+        - 'Dart Team'
