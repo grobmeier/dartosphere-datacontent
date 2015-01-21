@@ -9165,3 +9165,14 @@
     link: 'https://pub.dartlang.org/packages/color'
     author:
         - 'Michael Fenwick'
+-
+    package_name: irc
+    package_version: v2.0.2
+    title: 'v2.0.2 of irc'
+    published: '2015-01-21T05:00:22+00:00'
+    id: 'urn:uuid:06e3d06c-5fc6-586e-b2cd-0ecde2cfe3b0'
+    link: 'https://pub.dartlang.org/packages/irc'
+    author:
+        - 'Kenneth Endfinger'
+        - samrg472
+        - TheMike
