@@ -9266,3 +9266,12 @@
     link: 'https://pub.dartlang.org/packages/binary_declarations'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: peg
+    package_version: v0.0.45
+    title: 'v0.0.45 of peg'
+    published: '2015-01-21T18:20:22+00:00'
+    id: 'urn:uuid:c453c98b-21dd-50ca-9c72-8e5bcf5d2c8e'
+    link: 'https://pub.dartlang.org/packages/peg'
+    author:
+        - 'Andrew Mezoni'
