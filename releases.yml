@@ -9129,3 +9129,12 @@
     link: 'https://pub.dartlang.org/packages/chrome_storage_cache'
     author:
         - 'Jordan Reuter'
+-
+    package_name: scheduled_test
+    package_version: v0.11.7
+    title: 'v0.11.7 of scheduled_test'
+    published: '2015-01-21T00:20:17+00:00'
+    id: 'urn:uuid:47bce6bc-abd7-5b6c-a145-6a52261010bc'
+    link: 'https://pub.dartlang.org/packages/scheduled_test'
+    author:
+        - 'Dart Team'
