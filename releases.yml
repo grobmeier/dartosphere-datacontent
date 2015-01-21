@@ -9230,3 +9230,12 @@
     link: 'https://pub.dartlang.org/packages/initialize'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: binary_types
+    package_version: v0.0.15
+    title: 'v0.0.15 of binary_types'
+    published: '2015-01-21T15:50:41+00:00'
+    id: 'urn:uuid:cc6ea315-3b27-5ae3-82bf-8a8ba6d1750a'
+    link: 'https://pub.dartlang.org/packages/binary_types'
+    author:
+        - 'Andrew Mezoni'
