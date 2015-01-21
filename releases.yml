@@ -9176,3 +9176,12 @@
         - 'Kenneth Endfinger'
         - samrg472
         - TheMike
+-
+    package_name: base2e15
+    package_version: v0.2.1
+    title: 'v0.2.1 of base2e15'
+    published: '2015-01-21T06:30:21+00:00'
+    id: 'urn:uuid:df944089-31c7-529a-8f74-8b0781c453cf'
+    link: 'https://pub.dartlang.org/packages/base2e15'
+    author:
+        - 'Rick Zhou'
