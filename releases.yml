@@ -9221,3 +9221,12 @@
     link: 'https://pub.dartlang.org/packages/binary_declarations'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: initialize
+    package_version: v0.1.0
+    title: 'v0.1.0 of initialize'
+    published: '2015-01-21T15:10:27+00:00'
+    id: 'urn:uuid:e9b22ebf-dcec-5b47-8b12-c8b8356591f6'
+    link: 'https://pub.dartlang.org/packages/initialize'
+    author:
+        - 'Polymer.dart Authors'
