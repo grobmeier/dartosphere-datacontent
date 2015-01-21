@@ -9302,3 +9302,12 @@
     link: 'https://pub.dartlang.org/packages/binary_declarations'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_interop
+    package_version: v0.0.12
+    title: 'v0.0.12 of binary_interop'
+    published: '2015-01-21T19:40:21+00:00'
+    id: 'urn:uuid:12e9e4a8-b3ed-54b5-9661-4581c8188143'
+    link: 'https://pub.dartlang.org/packages/binary_interop'
+    author:
+        - 'Andrew Mezoni'
