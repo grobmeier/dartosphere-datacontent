@@ -9275,3 +9275,12 @@
     link: 'https://pub.dartlang.org/packages/peg'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: macro_processor
+    package_version: v0.0.2
+    title: 'v0.0.2 of macro_processor'
+    published: '2015-01-21T18:30:29+00:00'
+    id: 'urn:uuid:7bd63dc9-60a7-548b-b1f9-82567086889c'
+    link: 'https://pub.dartlang.org/packages/macro_processor'
+    author:
+        - 'Andrew Mezoni'
