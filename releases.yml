@@ -9147,3 +9147,12 @@
     link: 'https://pub.dartlang.org/packages/shelf'
     author:
         - 'Dart Team'
+-
+    package_name: json_rpc_2
+    package_version: v1.1.0
+    title: 'v1.1.0 of json_rpc_2'
+    published: '2015-01-21T02:45:15+00:00'
+    id: 'urn:uuid:3dc507b7-c8a8-5581-bb92-a7d5c1b8dff2'
+    link: 'https://pub.dartlang.org/packages/json_rpc_2'
+    author:
+        - 'Dart Team'
