@@ -9392,3 +9392,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_highcharts'
     author:
         - 'Gonzalo Pezzi'
+-
+    package_name: watcher
+    package_version: v0.9.4
+    title: 'v0.9.4 of watcher'
+    published: '2015-01-22T18:00:33+00:00'
+    id: 'urn:uuid:d0287276-7384-56ab-b9d9-f11f2d431c49'
+    link: 'https://pub.dartlang.org/packages/watcher'
+    author:
+        - 'Dart Team'
