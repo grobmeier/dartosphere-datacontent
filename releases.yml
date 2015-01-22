@@ -9374,3 +9374,12 @@
     link: 'https://pub.dartlang.org/packages/dlog'
     author:
         - 'Viktor Dakalov'
+-
+    package_name: peg
+    package_version: v0.0.47
+    title: 'v0.0.47 of peg'
+    published: '2015-01-22T10:20:22+00:00'
+    id: 'urn:uuid:8ff91813-bfdf-584f-893e-4d082a6854dd'
+    link: 'https://pub.dartlang.org/packages/peg'
+    author:
+        - 'Andrew Mezoni'
