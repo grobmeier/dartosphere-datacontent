@@ -9356,3 +9356,12 @@
     link: 'https://pub.dartlang.org/packages/drails_di'
     author:
         - 'Luis Vargas'
+-
+    package_name: peg
+    package_version: v0.0.46
+    title: 'v0.0.46 of peg'
+    published: '2015-01-22T08:15:18+00:00'
+    id: 'urn:uuid:93db7122-b35e-5d02-99ca-da1ad7a18499'
+    link: 'https://pub.dartlang.org/packages/peg'
+    author:
+        - 'Andrew Mezoni'
