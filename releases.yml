@@ -9347,3 +9347,12 @@
     link: 'https://pub.dartlang.org/packages/dson'
     author:
         - 'Luis Vargas'
+-
+    package_name: drails_di
+    package_version: v0.0.3
+    title: 'v0.0.3 of drails_di'
+    published: '2015-01-22T01:55:15+00:00'
+    id: 'urn:uuid:2ccabeeb-b785-50f9-8dcc-d2a541142b2a'
+    link: 'https://pub.dartlang.org/packages/drails_di'
+    author:
+        - 'Luis Vargas'
