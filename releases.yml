@@ -9329,3 +9329,12 @@
     link: 'https://pub.dartlang.org/packages/glob'
     author:
         - 'Dart Team'
+-
+    package_name: drails_commons
+    package_version: v0.0.3
+    title: 'v0.0.3 of drails_commons'
+    published: '2015-01-22T01:10:19+00:00'
+    id: 'urn:uuid:4b1aae60-14ca-5941-8ce9-69cf7849f14a'
+    link: 'https://pub.dartlang.org/packages/drails_commons'
+    author:
+        - 'Luis Vargas'
