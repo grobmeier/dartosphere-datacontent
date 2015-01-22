@@ -9437,3 +9437,12 @@
     link: 'https://pub.dartlang.org/packages/hello_dart'
     author:
         - 'Marco Jakob'
+-
+    package_name: wired
+    package_version: v0.4.3+1
+    title: 'v0.4.3+1 of wired'
+    published: '2015-01-22T21:55:18+00:00'
+    id: 'urn:uuid:e9440d72-9425-5c6f-9959-9c2d6f0f9aff'
+    link: 'https://pub.dartlang.org/packages/wired'
+    author:
+        - 'Joris Hermans'
