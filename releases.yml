@@ -9383,3 +9383,12 @@
     link: 'https://pub.dartlang.org/packages/peg'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: polymer_highcharts
+    package_version: v0.2.1+2
+    title: 'v0.2.1+2 of polymer_highcharts'
+    published: '2015-01-22T15:35:24+00:00'
+    id: 'urn:uuid:c50c04ad-3ac4-51fe-b8cf-31d313741edc'
+    link: 'https://pub.dartlang.org/packages/polymer_highcharts'
+    author:
+        - 'Gonzalo Pezzi'
