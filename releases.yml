@@ -9365,3 +9365,12 @@
     link: 'https://pub.dartlang.org/packages/peg'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: dlog
+    package_version: v0.0.5
+    title: 'v0.0.5 of dlog'
+    published: '2015-01-22T09:30:27+00:00'
+    id: 'urn:uuid:f4bca7e6-c213-594e-aad2-0dadc620d5de'
+    link: 'https://pub.dartlang.org/packages/dlog'
+    author:
+        - 'Viktor Dakalov'
