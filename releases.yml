@@ -9401,3 +9401,12 @@
     link: 'https://pub.dartlang.org/packages/watcher'
     author:
         - 'Dart Team'
+-
+    package_name: highcharts_options
+    package_version: v0.2.1+2
+    title: 'v0.2.1+2 of highcharts_options'
+    published: '2015-01-22T18:25:17+00:00'
+    id: 'urn:uuid:f2815188-57ce-5b81-98fc-8d5625cad4a8'
+    link: 'https://pub.dartlang.org/packages/highcharts_options'
+    author:
+        - 'Gonzalo Pezzi'
