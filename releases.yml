@@ -9338,3 +9338,12 @@
     link: 'https://pub.dartlang.org/packages/drails_commons'
     author:
         - 'Luis Vargas'
+-
+    package_name: dson
+    package_version: v0.1.4
+    title: 'v0.1.4 of dson'
+    published: '2015-01-22T01:20:16+00:00'
+    id: 'urn:uuid:aed15e6d-3632-5cdb-a39e-947ebf65abfd'
+    link: 'https://pub.dartlang.org/packages/dson'
+    author:
+        - 'Luis Vargas'
