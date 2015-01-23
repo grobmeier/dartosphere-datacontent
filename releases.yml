@@ -9572,3 +9572,12 @@
     link: 'https://pub.dartlang.org/packages/events'
     author:
         - 'Steven Roose'
+-
+    package_name: librato
+    package_version: v0.0.2
+    title: 'v0.0.2 of librato'
+    published: '2015-01-23T19:15:27+00:00'
+    id: 'urn:uuid:fe957489-e903-530f-8476-7f1e49bd32a7'
+    link: 'https://pub.dartlang.org/packages/librato'
+    author:
+        - 'Devon Carew'
