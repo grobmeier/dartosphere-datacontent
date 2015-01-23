@@ -9509,3 +9509,12 @@
     link: 'https://pub.dartlang.org/packages/peg'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_declarations
+    package_version: v0.0.20
+    title: 'v0.0.20 of binary_declarations'
+    published: '2015-01-23T12:35:20+00:00'
+    id: 'urn:uuid:4ae945a8-35dc-564d-84bd-768441082534'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni'
