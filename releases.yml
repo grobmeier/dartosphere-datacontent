@@ -9636,3 +9636,12 @@
     author:
         - '<Alvaro Arcas Garcia>'
         - '<arcas0803@gmail.com>'
+-
+    package_name: initialize
+    package_version: v0.2.0
+    title: 'v0.2.0 of initialize'
+    published: '2015-01-23T22:10:18+00:00'
+    id: 'urn:uuid:b948a5a8-da4c-5764-8fc2-4032ec39ab1f'
+    link: 'https://pub.dartlang.org/packages/initialize'
+    author:
+        - 'Polymer.dart Authors'
