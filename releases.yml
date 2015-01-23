@@ -9536,3 +9536,12 @@
     link: 'https://pub.dartlang.org/packages/datepicker'
     author:
         - 'João Furtado<jrofurtado@gmail.com>'
+-
+    package_name: prorabbits
+    package_version: v0.0.1
+    title: 'v0.0.1 of prorabbits'
+    published: '2015-01-23T14:40:23+00:00'
+    id: 'urn:uuid:38685948-30ee-5571-b319-0215da3a4c22'
+    link: 'https://pub.dartlang.org/packages/prorabbits'
+    author:
+        - 'Beibut Yerzhanov<bernov@gmail.com>'
