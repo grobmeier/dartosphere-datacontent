@@ -9527,3 +9527,12 @@
     link: 'https://pub.dartlang.org/packages/macro_processor'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: datepicker
+    package_version: v0.2.0
+    title: 'v0.2.0 of datepicker'
+    published: '2015-01-23T13:50:22+00:00'
+    id: 'urn:uuid:e1cbf544-cdb2-5c0a-a257-52a192406caf'
+    link: 'https://pub.dartlang.org/packages/datepicker'
+    author:
+        - 'João Furtado<jrofurtado@gmail.com>'
