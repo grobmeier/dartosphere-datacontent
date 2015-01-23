@@ -9581,3 +9581,12 @@
     link: 'https://pub.dartlang.org/packages/librato'
     author:
         - 'Devon Carew'
+-
+    package_name: yaml2toml
+    package_version: v0.1.0
+    title: 'v0.1.0 of yaml2toml'
+    published: '2015-01-23T20:00:25+00:00'
+    id: 'urn:uuid:13454d19-31c6-58f0-8d57-8d9362411f41'
+    link: 'https://pub.dartlang.org/packages/yaml2toml'
+    author:
+        - 'Justin Andresen'
