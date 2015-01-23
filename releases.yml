@@ -9500,3 +9500,12 @@
     link: 'https://pub.dartlang.org/packages/highcharts_options'
     author:
         - 'Gonzalo Pezzi'
+-
+    package_name: peg
+    package_version: v0.0.48
+    title: 'v0.0.48 of peg'
+    published: '2015-01-23T12:30:23+00:00'
+    id: 'urn:uuid:3d0486b1-e0e3-5d53-83a5-3d1ce45d043e'
+    link: 'https://pub.dartlang.org/packages/peg'
+    author:
+        - 'Andrew Mezoni'
