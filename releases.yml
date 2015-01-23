@@ -9545,3 +9545,12 @@
     link: 'https://pub.dartlang.org/packages/prorabbits'
     author:
         - 'Beibut Yerzhanov<bernov@gmail.com>'
+-
+    package_name: toml
+    package_version: v0.1.0
+    title: 'v0.1.0 of toml'
+    published: '2015-01-23T14:50:25+00:00'
+    id: 'urn:uuid:a3aab789-95df-579a-afa8-efaaeb2ee0fa'
+    link: 'https://pub.dartlang.org/packages/toml'
+    author:
+        - 'Justin Andresen'
