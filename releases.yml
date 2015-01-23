@@ -9473,3 +9473,12 @@
     link: 'https://pub.dartlang.org/packages/mailer2'
     author:
         - 'Kai Sellgren'
+-
+    package_name: harvest
+    package_version: v1.5.4
+    title: 'v1.5.4 of harvest'
+    published: '2015-01-23T11:20:21+00:00'
+    id: 'urn:uuid:91b0e452-311b-5432-ac78-bbc73c3f7ccd'
+    link: 'https://pub.dartlang.org/packages/harvest'
+    author:
+        - 'Lars Tackmann'
