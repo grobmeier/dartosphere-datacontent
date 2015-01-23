@@ -9563,3 +9563,12 @@
     link: 'https://pub.dartlang.org/packages/prorab'
     author:
         - 'Beibut Yerzhanov<bernov@gmail.com>'
+-
+    package_name: events
+    package_version: v0.1.1+1
+    title: 'v0.1.1+1 of events'
+    published: '2015-01-23T16:00:33+00:00'
+    id: 'urn:uuid:6af8f8b7-3585-5492-aef7-c517123cdf81'
+    link: 'https://pub.dartlang.org/packages/events'
+    author:
+        - 'Steven Roose'
