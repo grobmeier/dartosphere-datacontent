@@ -9446,3 +9446,12 @@
     link: 'https://pub.dartlang.org/packages/wired'
     author:
         - 'Joris Hermans'
+-
+    package_name: librato
+    package_version: v0.0.1
+    title: 'v0.0.1 of librato'
+    published: '2015-01-23T00:10:17+00:00'
+    id: 'urn:uuid:ce631393-c563-55ac-9f7f-85cd4209ef8c'
+    link: 'https://pub.dartlang.org/packages/librato'
+    author:
+        - 'Devon Carew'
