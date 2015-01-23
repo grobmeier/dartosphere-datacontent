@@ -9464,3 +9464,12 @@
     link: 'https://pub.dartlang.org/packages/librato'
     author:
         - 'Devon Carew'
+-
+    package_name: mailer2
+    package_version: v0.8.12+1
+    title: 'v0.8.12+1 of mailer2'
+    published: '2015-01-23T07:40:17+00:00'
+    id: 'urn:uuid:181cc3fa-bb89-5f90-8121-e5a9054de296'
+    link: 'https://pub.dartlang.org/packages/mailer2'
+    author:
+        - 'Kai Sellgren'
