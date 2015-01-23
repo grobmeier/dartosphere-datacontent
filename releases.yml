@@ -9455,3 +9455,12 @@
     link: 'https://pub.dartlang.org/packages/librato'
     author:
         - 'Devon Carew'
+-
+    package_name: librato
+    package_version: v0.0.1+1
+    title: 'v0.0.1+1 of librato'
+    published: '2015-01-23T04:05:15+00:00'
+    id: 'urn:uuid:9d5633ce-93f3-57cd-a22d-505b289ca7ec'
+    link: 'https://pub.dartlang.org/packages/librato'
+    author:
+        - 'Devon Carew'
