@@ -9608,3 +9608,12 @@
     link: 'https://pub.dartlang.org/packages/petitparser'
     author:
         - 'Lukas Renggli'
+-
+    package_name: more
+    package_version: v1.3.5
+    title: 'v1.3.5 of more'
+    published: '2015-01-23T21:35:16+00:00'
+    id: 'urn:uuid:81a04104-39ba-5352-be1f-ccd618b1308c'
+    link: 'https://pub.dartlang.org/packages/more'
+    author:
+        - 'Lukas Renggli'
