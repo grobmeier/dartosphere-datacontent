@@ -9617,3 +9617,12 @@
     link: 'https://pub.dartlang.org/packages/more'
     author:
         - 'Lukas Renggli'
+-
+    package_name: args
+    package_version: v0.12.2+3
+    title: 'v0.12.2+3 of args'
+    published: '2015-01-23T21:40:21+00:00'
+    id: 'urn:uuid:553dec28-02f3-5e53-94f6-80f34f21e839'
+    link: 'https://pub.dartlang.org/packages/args'
+    author:
+        - 'Dart Team'
