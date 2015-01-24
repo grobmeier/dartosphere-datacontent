@@ -9663,3 +9663,12 @@
     link: 'https://pub.dartlang.org/packages/web_components'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: pappes_web_utility
+    package_version: v0.0.2
+    title: 'v0.0.2 of pappes_web_utility'
+    published: '2015-01-24T05:25:12+00:00'
+    id: 'urn:uuid:5ade98c9-cd7b-5c06-a590-7260d41f890f'
+    link: 'https://pub.dartlang.org/packages/pappes_web_utility'
+    author:
+        - Pappes
