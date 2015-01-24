@@ -9708,3 +9708,12 @@
     link: 'https://pub.dartlang.org/packages/forcemvc'
     author:
         - 'Joris Hermans'
+-
+    package_name: plugins
+    package_version: v1.0.3
+    title: 'v1.0.3 of plugins'
+    published: '2015-01-24T20:15:16+00:00'
+    id: 'urn:uuid:6045f363-bd2c-566a-8782-831a801d0329'
+    link: 'https://pub.dartlang.org/packages/plugins'
+    author:
+        - samrg472
