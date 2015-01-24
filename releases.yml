@@ -9690,3 +9690,12 @@
     link: 'https://pub.dartlang.org/packages/dart_apps'
     author:
         - 'Beibut Yerzhanov<bernov@gmail.com>'
+-
+    package_name: dart_apps
+    package_version: v0.0.3
+    title: 'v0.0.3 of dart_apps'
+    published: '2015-01-24T16:35:14+00:00'
+    id: 'urn:uuid:87574517-38de-59be-a7f4-12f57fe1f54f'
+    link: 'https://pub.dartlang.org/packages/dart_apps'
+    author:
+        - 'Beibut Yerzhanov<bernov@gmail.com>'
