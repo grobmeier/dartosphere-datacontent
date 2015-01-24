@@ -9699,3 +9699,12 @@
     link: 'https://pub.dartlang.org/packages/dart_apps'
     author:
         - 'Beibut Yerzhanov<bernov@gmail.com>'
+-
+    package_name: forcemvc
+    package_version: v0.7.0
+    title: 'v0.7.0 of forcemvc'
+    published: '2015-01-24T17:40:15+00:00'
+    id: 'urn:uuid:a44cd9d2-25bb-5cd0-852d-57dc52c0fe46'
+    link: 'https://pub.dartlang.org/packages/forcemvc'
+    author:
+        - 'Joris Hermans'
