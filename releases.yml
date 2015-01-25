@@ -9845,3 +9845,12 @@
     link: 'https://pub.dartlang.org/packages/inject_module'
     author:
         - 'Will Squire'
+-
+    package_name: inject_module
+    package_version: v1.0.1
+    title: 'v1.0.1 of inject_module'
+    published: '2015-01-25T18:30:18+00:00'
+    id: 'urn:uuid:6c8ae5f8-eda1-5fab-bff2-04949542bfd6'
+    link: 'https://pub.dartlang.org/packages/inject_module'
+    author:
+        - 'Will Squire'
