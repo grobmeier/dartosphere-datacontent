@@ -9863,3 +9863,12 @@
     link: 'https://pub.dartlang.org/packages/scroll'
     author:
         - 'Jan Pukovsky'
+-
+    package_name: github
+    package_version: v2.1.6
+    title: 'v2.1.6 of github'
+    published: '2015-01-25T21:35:14+00:00'
+    id: 'urn:uuid:0dc99082-9a71-517e-a7f7-acc32d04a03a'
+    link: 'https://pub.dartlang.org/packages/github'
+    author:
+        - 'Kenneth Endfinger'
