@@ -9736,3 +9736,12 @@
     author:
         - 'Samuel BERTHE'
         - 'Corentin Pillet'
+-
+    package_name: pappes_web_utility
+    package_version: v0.0.2+1
+    title: 'v0.0.2+1 of pappes_web_utility'
+    published: '2015-01-25T11:10:15+00:00'
+    id: 'urn:uuid:afe37354-6532-55f4-b6db-acfd2fb46c00'
+    link: 'https://pub.dartlang.org/packages/pappes_web_utility'
+    author:
+        - Pappes
