@@ -9790,3 +9790,12 @@
     link: 'https://pub.dartlang.org/packages/pappes_web_utility'
     author:
         - Pappes
+-
+    package_name: github
+    package_version: v2.1.5
+    title: 'v2.1.5 of github'
+    published: '2015-01-25T15:05:13+00:00'
+    id: 'urn:uuid:a8d244bf-5320-59ea-9383-289fecb75126'
+    link: 'https://pub.dartlang.org/packages/github'
+    author:
+        - 'Kenneth Endfinger'
