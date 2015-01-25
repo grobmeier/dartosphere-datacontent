@@ -9854,3 +9854,12 @@
     link: 'https://pub.dartlang.org/packages/inject_module'
     author:
         - 'Will Squire'
+-
+    package_name: scroll
+    package_version: v0.0.1
+    title: 'v0.0.1 of scroll'
+    published: '2015-01-25T19:50:16+00:00'
+    id: 'urn:uuid:e7d2bdac-671b-580b-994e-b210ed9769b0'
+    link: 'https://pub.dartlang.org/packages/scroll'
+    author:
+        - 'Jan Pukovsky'
