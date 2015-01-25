@@ -9772,3 +9772,12 @@
     link: 'https://pub.dartlang.org/packages/pappes_web_utility'
     author:
         - Pappes
+-
+    package_name: pappes_web_utility
+    package_version: v0.0.3+3
+    title: 'v0.0.3+3 of pappes_web_utility'
+    published: '2015-01-25T13:20:16+00:00'
+    id: 'urn:uuid:0a195027-852d-5085-a3d1-81bb308c74fb'
+    link: 'https://pub.dartlang.org/packages/pappes_web_utility'
+    author:
+        - Pappes
