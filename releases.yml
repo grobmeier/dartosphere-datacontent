@@ -9799,3 +9799,13 @@
     link: 'https://pub.dartlang.org/packages/github'
     author:
         - 'Kenneth Endfinger'
+-
+    package_name: FileTeCouch
+    package_version: v0.6.1
+    title: 'v0.6.1 of FileTeCouch'
+    published: '2015-01-25T15:15:15+00:00'
+    id: 'urn:uuid:7f933fa0-b504-5afa-808f-3c46bdf1e14b'
+    link: 'https://pub.dartlang.org/packages/FileTeCouch'
+    author:
+        - 'Samuel BERTHE'
+        - 'Corentin Pillet'
