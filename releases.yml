@@ -9827,3 +9827,12 @@
     link: 'https://pub.dartlang.org/packages/viltage'
     author:
         - ViliX64
+-
+    package_name: viltage
+    package_version: v0.3.5+8
+    title: 'v0.3.5+8 of viltage'
+    published: '2015-01-25T17:35:13+00:00'
+    id: 'urn:uuid:6a8f1f37-55c4-5436-91e2-f1e74b87c4a0'
+    link: 'https://pub.dartlang.org/packages/viltage'
+    author:
+        - ViliX64
