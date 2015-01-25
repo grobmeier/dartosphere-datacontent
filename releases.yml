@@ -9726,3 +9726,13 @@
     link: 'https://pub.dartlang.org/packages/dart_forward_pipe'
     author:
         - sliversniper<sliv.linux@gmail.com>
+-
+    package_name: FileTeCouch
+    package_version: v0.6.0
+    title: 'v0.6.0 of FileTeCouch'
+    published: '2015-01-25T09:25:12+00:00'
+    id: 'urn:uuid:a15441a6-6af7-5528-8672-be2c783f0000'
+    link: 'https://pub.dartlang.org/packages/FileTeCouch'
+    author:
+        - 'Samuel BERTHE'
+        - 'Corentin Pillet'
