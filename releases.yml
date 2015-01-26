@@ -9971,3 +9971,12 @@
     link: 'https://pub.dartlang.org/packages/serialization'
     author:
         - 'Alan Knight'
+-
+    package_name: librato
+    package_version: v0.0.2+1
+    title: 'v0.0.2+1 of librato'
+    published: '2015-01-26T23:00:28+00:00'
+    id: 'urn:uuid:d28d6b49-bec6-50b0-addf-2bd68f51372f'
+    link: 'https://pub.dartlang.org/packages/librato'
+    author:
+        - 'Devon Carew'
