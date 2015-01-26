@@ -9899,3 +9899,12 @@
     link: 'https://pub.dartlang.org/packages/dialog'
     author:
         - 'Pavel Dvořák'
+-
+    package_name: stream_transformers
+    package_version: v0.1.0+2
+    title: 'v0.1.0+2 of stream_transformers'
+    published: '2015-01-26T04:30:16+00:00'
+    id: 'urn:uuid:778e42a2-8730-5d20-a58b-85c6503fa611'
+    link: 'https://pub.dartlang.org/packages/stream_transformers'
+    author:
+        - 'Dan Schultz'
