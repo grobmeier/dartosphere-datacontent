@@ -9962,3 +9962,12 @@
     link: 'https://pub.dartlang.org/packages/redis'
     author:
         - 'Luka Rahne'
+-
+    package_name: serialization
+    package_version: v0.10.4
+    title: 'v0.10.4 of serialization'
+    published: '2015-01-26T20:55:29+00:00'
+    id: 'urn:uuid:9f85888c-009c-56ca-a39f-f56801c34ff0'
+    link: 'https://pub.dartlang.org/packages/serialization'
+    author:
+        - 'Alan Knight'
