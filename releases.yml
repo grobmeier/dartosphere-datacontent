@@ -9953,3 +9953,12 @@
     link: 'https://pub.dartlang.org/packages/datepicker'
     author:
         - 'João Furtado<jrofurtado@gmail.com>'
+-
+    package_name: redis
+    package_version: v0.4.3
+    title: 'v0.4.3 of redis'
+    published: '2015-01-26T19:10:21+00:00'
+    id: 'urn:uuid:3617210f-e099-591b-bcc1-54689274a7f3'
+    link: 'https://pub.dartlang.org/packages/redis'
+    author:
+        - 'Luka Rahne'
