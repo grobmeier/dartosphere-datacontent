@@ -9926,3 +9926,12 @@
     link: 'https://pub.dartlang.org/packages/scroll'
     author:
         - 'Jan Pukovsky'
+-
+    package_name: toml
+    package_version: v0.1.1
+    title: 'v0.1.1 of toml'
+    published: '2015-01-26T13:50:23+00:00'
+    id: 'urn:uuid:977b63b0-030b-5d15-aa18-2b6a67e4365e'
+    link: 'https://pub.dartlang.org/packages/toml'
+    author:
+        - 'Justin Andresen'
