@@ -9908,3 +9908,12 @@
     link: 'https://pub.dartlang.org/packages/stream_transformers'
     author:
         - 'Dan Schultz'
+-
+    package_name: stream_transformers
+    package_version: v0.1.0+3
+    title: 'v0.1.0+3 of stream_transformers'
+    published: '2015-01-26T08:05:15+00:00'
+    id: 'urn:uuid:a643d4f2-e0d9-54bc-9c6b-ec7f976db49c'
+    link: 'https://pub.dartlang.org/packages/stream_transformers'
+    author:
+        - 'Dan Schultz'
