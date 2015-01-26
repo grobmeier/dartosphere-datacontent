@@ -9917,3 +9917,12 @@
     link: 'https://pub.dartlang.org/packages/stream_transformers'
     author:
         - 'Dan Schultz'
+-
+    package_name: scroll
+    package_version: v0.0.2
+    title: 'v0.0.2 of scroll'
+    published: '2015-01-26T09:50:20+00:00'
+    id: 'urn:uuid:66957d3d-143a-5e52-b3d6-c0580f001144'
+    link: 'https://pub.dartlang.org/packages/scroll'
+    author:
+        - 'Jan Pukovsky'
