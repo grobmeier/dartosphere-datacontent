@@ -10080,3 +10080,12 @@
     link: 'https://pub.dartlang.org/packages/paper_elements'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: tree_component
+    package_version: v0.1.1
+    title: 'v0.1.1 of tree_component'
+    published: '2015-01-27T21:40:22+00:00'
+    id: 'urn:uuid:4a8509d7-2811-5323-9c7f-bc50a64ee1db'
+    link: 'https://pub.dartlang.org/packages/tree_component'
+    author:
+        - 'Marcos Benatti Lauer'
