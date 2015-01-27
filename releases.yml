@@ -10071,3 +10071,12 @@
     author:
         - 'Seth Ladd'
         - 'Devon Carew'
+-
+    package_name: paper_elements
+    package_version: v0.6.1
+    title: 'v0.6.1 of paper_elements'
+    published: '2015-01-27T20:35:18+00:00'
+    id: 'urn:uuid:15a5d207-84aa-5e90-8ea9-04b2e473cc22'
+    link: 'https://pub.dartlang.org/packages/paper_elements'
+    author:
+        - 'Polymer.dart Authors'
