@@ -9980,3 +9980,12 @@
     link: 'https://pub.dartlang.org/packages/librato'
     author:
         - 'Devon Carew'
+-
+    package_name: metatest
+    package_version: v0.1.1
+    title: 'v0.1.1 of metatest'
+    published: '2015-01-27T01:15:23+00:00'
+    id: 'urn:uuid:bfeb4dc5-3000-50f1-8fa4-b7f3f10ef86c'
+    link: 'https://pub.dartlang.org/packages/metatest'
+    author:
+        - 'Dart Team'
