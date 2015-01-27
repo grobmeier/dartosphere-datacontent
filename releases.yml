@@ -10061,3 +10061,13 @@
     link: 'https://pub.dartlang.org/packages/prompt'
     author:
         - 'Sean Eagan'
+-
+    package_name: stagehand
+    package_version: v0.1.5+3
+    title: 'v0.1.5+3 of stagehand'
+    published: '2015-01-27T20:30:28+00:00'
+    id: 'urn:uuid:e937b95d-3d4b-5212-9843-989f7de54b57'
+    link: 'https://pub.dartlang.org/packages/stagehand'
+    author:
+        - 'Seth Ladd'
+        - 'Devon Carew'
