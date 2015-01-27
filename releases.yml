@@ -10052,3 +10052,12 @@
     link: 'https://pub.dartlang.org/packages/light_gdf'
     author:
         - ViliX64
+-
+    package_name: prompt
+    package_version: v0.1.4
+    title: 'v0.1.4 of prompt'
+    published: '2015-01-27T20:20:23+00:00'
+    id: 'urn:uuid:e19a679f-4001-572f-9bd2-72bbcf0ce5b2'
+    link: 'https://pub.dartlang.org/packages/prompt'
+    author:
+        - 'Sean Eagan'
