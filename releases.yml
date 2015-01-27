@@ -10098,3 +10098,12 @@
     link: 'https://pub.dartlang.org/packages/source_span'
     author:
         - 'Dart Team'
+-
+    package_name: intl
+    package_version: v0.12.0+2
+    title: 'v0.12.0+2 of intl'
+    published: '2015-01-27T23:45:19+00:00'
+    id: 'urn:uuid:512a3527-7606-590b-b22c-98e73363741c'
+    link: 'https://pub.dartlang.org/packages/intl'
+    author:
+        - 'Dart Team'
