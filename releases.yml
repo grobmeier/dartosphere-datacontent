@@ -9998,3 +9998,12 @@
     link: 'https://pub.dartlang.org/packages/datepicker'
     author:
         - 'João Furtado<jrofurtado@gmail.com>'
+-
+    package_name: light_gdf
+    package_version: v0.0.1+1
+    title: 'v0.0.1+1 of light_gdf'
+    published: '2015-01-27T16:55:23+00:00'
+    id: 'urn:uuid:0596c6e3-c6d7-541a-b070-0e1630aca40e'
+    link: 'https://pub.dartlang.org/packages/light_gdf'
+    author:
+        - ViliX64
