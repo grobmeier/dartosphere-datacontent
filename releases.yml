@@ -9989,3 +9989,12 @@
     link: 'https://pub.dartlang.org/packages/metatest'
     author:
         - 'Dart Team'
+-
+    package_name: datepicker
+    package_version: v0.3.2
+    title: 'v0.3.2 of datepicker'
+    published: '2015-01-27T10:50:23+00:00'
+    id: 'urn:uuid:f233b6f9-50b7-5bed-b4fb-bef6c07a0f02'
+    link: 'https://pub.dartlang.org/packages/datepicker'
+    author:
+        - 'João Furtado<jrofurtado@gmail.com>'
