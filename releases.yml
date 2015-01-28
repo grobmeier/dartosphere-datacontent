@@ -10170,3 +10170,12 @@
     link: 'https://pub.dartlang.org/packages/realtime_data_model'
     author:
         - 'Christopher Best'
+-
+    package_name: tree_component
+    package_version: v0.2.1
+    title: 'v0.2.1 of tree_component'
+    published: '2015-01-28T19:40:25+00:00'
+    id: 'urn:uuid:ae2712b5-54cd-5e37-803e-d67fd964902b'
+    link: 'https://pub.dartlang.org/packages/tree_component'
+    author:
+        - 'Marcos Benatti Lauer'
