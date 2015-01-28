@@ -10143,3 +10143,12 @@
     link: 'https://pub.dartlang.org/packages/initialize'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: realtime_data_model
+    package_version: v0.0.6
+    title: 'v0.0.6 of realtime_data_model'
+    published: '2015-01-28T18:45:23+00:00'
+    id: 'urn:uuid:f2c3bfa6-6816-540c-9d76-37efab0032d6'
+    link: 'https://pub.dartlang.org/packages/realtime_data_model'
+    author:
+        - 'Christopher Best'
