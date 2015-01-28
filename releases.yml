@@ -10152,3 +10152,12 @@
     link: 'https://pub.dartlang.org/packages/realtime_data_model'
     author:
         - 'Christopher Best'
+-
+    package_name: phantomjs
+    package_version: v0.0.1
+    title: 'v0.0.1 of phantomjs'
+    published: '2015-01-28T18:50:25+00:00'
+    id: 'urn:uuid:2db46cdd-cda7-5a85-a091-07810a326bc4'
+    link: 'https://pub.dartlang.org/packages/phantomjs'
+    author:
+        - 'Ustimenko Sergey'
