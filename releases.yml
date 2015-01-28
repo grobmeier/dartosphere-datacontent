@@ -10179,3 +10179,12 @@
     link: 'https://pub.dartlang.org/packages/tree_component'
     author:
         - 'Marcos Benatti Lauer'
+-
+    package_name: realtime_data_model
+    package_version: v0.0.8
+    title: 'v0.0.8 of realtime_data_model'
+    published: '2015-01-28T20:40:22+00:00'
+    id: 'urn:uuid:3eaad6a1-1b10-5ac7-8904-910285d20dd7'
+    link: 'https://pub.dartlang.org/packages/realtime_data_model'
+    author:
+        - 'Christopher Best'
