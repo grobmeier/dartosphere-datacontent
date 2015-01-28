@@ -10107,3 +10107,12 @@
     link: 'https://pub.dartlang.org/packages/intl'
     author:
         - 'Dart Team'
+-
+    package_name: dson
+    package_version: v0.1.4+1
+    title: 'v0.1.4+1 of dson'
+    published: '2015-01-28T00:30:18+00:00'
+    id: 'urn:uuid:e5fe5370-e0f4-50f4-a176-9628a2590252'
+    link: 'https://pub.dartlang.org/packages/dson'
+    author:
+        - 'Luis Vargas'
