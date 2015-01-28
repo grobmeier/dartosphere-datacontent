@@ -10188,3 +10188,12 @@
     link: 'https://pub.dartlang.org/packages/realtime_data_model'
     author:
         - 'Christopher Best'
+-
+    package_name: akismet
+    package_version: v0.5.1
+    title: 'v0.5.1 of akismet'
+    published: '2015-01-28T21:10:43+00:00'
+    id: 'urn:uuid:e539f540-57ec-5262-a987-6661000864f1'
+    link: 'https://pub.dartlang.org/packages/akismet'
+    author:
+        - 'Cédric Belin'
