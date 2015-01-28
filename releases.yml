@@ -10197,3 +10197,12 @@
     link: 'https://pub.dartlang.org/packages/akismet'
     author:
         - 'Cédric Belin'
+-
+    package_name: xml_rpc
+    package_version: v0.1.0
+    title: 'v0.1.0 of xml_rpc'
+    published: '2015-01-28T21:25:18+00:00'
+    id: 'urn:uuid:daf7e46e-9be9-59f9-8f32-7cb6268a7f2e'
+    link: 'https://pub.dartlang.org/packages/xml_rpc'
+    author:
+        - 'Alexandre Ardhuin'
