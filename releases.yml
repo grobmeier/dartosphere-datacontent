@@ -10116,3 +10116,12 @@
     link: 'https://pub.dartlang.org/packages/dson'
     author:
         - 'Luis Vargas'
+-
+    package_name: polymer_ajax_form
+    package_version: v0.2.1+1
+    title: 'v0.2.1+1 of polymer_ajax_form'
+    published: '2015-01-28T15:10:30+00:00'
+    id: 'urn:uuid:509caca7-b53b-59b5-8914-35d45701ba6c'
+    link: 'https://pub.dartlang.org/packages/polymer_ajax_form'
+    author:
+        - 'Thomas Stephenson'
