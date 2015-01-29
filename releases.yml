@@ -10297,3 +10297,12 @@
     link: 'https://pub.dartlang.org/packages/dart_orm_adapter_postgresql'
     author:
         - 'Ustimenko Sergey'
+-
+    package_name: image
+    package_version: v1.1.24
+    title: 'v1.1.24 of image'
+    published: '2015-01-29T19:10:25+00:00'
+    id: 'urn:uuid:3bd64873-5e14-5edf-ab2d-ef9e184e1dcd'
+    link: 'https://pub.dartlang.org/packages/image'
+    author:
+        - 'Brendan Duncan'
