@@ -10242,3 +10242,12 @@
     link: 'https://pub.dartlang.org/packages/phantomjs'
     author:
         - 'Ustimenko Sergey'
+-
+    package_name: mockito
+    package_version: v0.8.2
+    title: 'v0.8.2 of mockito'
+    published: '2015-01-29T10:25:24+00:00'
+    id: 'urn:uuid:f8c95f33-71c6-5544-b323-036468ba780a'
+    link: 'https://pub.dartlang.org/packages/mockito'
+    author:
+        - 'Dmitriy Fibulwinter'
