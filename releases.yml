@@ -10351,3 +10351,12 @@
     link: 'https://pub.dartlang.org/packages/tree_component'
     author:
         - 'Marcos Benatti Lauer'
+-
+    package_name: grinder
+    package_version: v0.6.6
+    title: 'v0.6.6 of grinder'
+    published: '2015-01-29T20:10:30+00:00'
+    id: 'urn:uuid:f7493b16-b7de-553f-baaa-0939562fa01f'
+    link: 'https://pub.dartlang.org/packages/grinder'
+    author:
+        - 'Devon Carew'
