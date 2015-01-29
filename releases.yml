@@ -10215,3 +10215,12 @@
     link: 'https://pub.dartlang.org/packages/protobuf'
     author:
         - 'Dart Team'
+-
+    package_name: phantomjs
+    package_version: v0.0.3
+    title: 'v0.0.3 of phantomjs'
+    published: '2015-01-29T07:55:38+00:00'
+    id: 'urn:uuid:6314b708-cf3c-5667-895f-5fd8458389ad'
+    link: 'https://pub.dartlang.org/packages/phantomjs'
+    author:
+        - 'Ustimenko Sergey'
