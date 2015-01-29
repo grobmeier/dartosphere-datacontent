@@ -10279,3 +10279,12 @@
     author:
         - 'Seth Ladd'
         - 'Devon Carew'
+-
+    package_name: reflective
+    package_version: v0.0.13
+    title: 'v0.0.13 of reflective'
+    published: '2015-01-29T16:50:24+00:00'
+    id: 'urn:uuid:09a99ac9-c781-5b55-99a2-3ee6313b7a92'
+    link: 'https://pub.dartlang.org/packages/reflective'
+    author:
+        - 'Stijn Van Bael'
