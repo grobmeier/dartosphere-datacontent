@@ -10224,3 +10224,12 @@
     link: 'https://pub.dartlang.org/packages/phantomjs'
     author:
         - 'Ustimenko Sergey'
+-
+    package_name: phantomjs
+    package_version: v0.0.4
+    title: 'v0.0.4 of phantomjs'
+    published: '2015-01-29T09:30:30+00:00'
+    id: 'urn:uuid:72cf4af7-629a-58f0-9cc5-35e6a2add6f2'
+    link: 'https://pub.dartlang.org/packages/phantomjs'
+    author:
+        - 'Ustimenko Sergey'
