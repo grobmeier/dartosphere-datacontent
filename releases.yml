@@ -10378,3 +10378,12 @@
     link: 'https://pub.dartlang.org/packages/websocket_rails'
     author:
         - 'Marcel Sackermann'
+-
+    package_name: rails_ujs
+    package_version: v1.0.1
+    title: 'v1.0.1 of rails_ujs'
+    published: '2015-01-29T21:20:20+00:00'
+    id: 'urn:uuid:513bd028-6d10-5412-a1fa-23c5537c7252'
+    link: 'https://pub.dartlang.org/packages/rails_ujs'
+    author:
+        - 'Marcel Sackermann'
