@@ -10396,3 +10396,12 @@
     link: 'https://pub.dartlang.org/packages/webdriver'
     author:
         - 'Dart Team'
+-
+    package_name: dart_orm_adapter_mongodb
+    package_version: v0.0.7
+    title: 'v0.0.7 of dart_orm_adapter_mongodb'
+    published: '2015-01-29T23:25:16+00:00'
+    id: 'urn:uuid:0e8cf1b3-bd01-53e4-b372-badc5f8c78d3'
+    link: 'https://pub.dartlang.org/packages/dart_orm_adapter_mongodb'
+    author:
+        - 'Ustimenko Sergey'
