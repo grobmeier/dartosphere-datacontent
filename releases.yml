@@ -10306,3 +10306,30 @@
     link: 'https://pub.dartlang.org/packages/image'
     author:
         - 'Brendan Duncan'
+-
+    package_name: dart_orm_adapter_postgresql
+    package_version: v0.0.4
+    title: 'v0.0.4 of dart_orm_adapter_postgresql'
+    published: '2015-01-29T19:20:22+00:00'
+    id: 'urn:uuid:b72eb503-065b-58f0-9e09-78d86db260a1'
+    link: 'https://pub.dartlang.org/packages/dart_orm_adapter_postgresql'
+    author:
+        - 'Ustimenko Sergey'
+-
+    package_name: dart_orm_adapter_mysql
+    package_version: v0.0.2
+    title: 'v0.0.2 of dart_orm_adapter_mysql'
+    published: '2015-01-29T19:20:22+00:00'
+    id: 'urn:uuid:1fad8eb1-f170-5932-8c54-67fd8be28aff'
+    link: 'https://pub.dartlang.org/packages/dart_orm_adapter_mysql'
+    author:
+        - 'Ustimenko Sergey'
+-
+    package_name: dart_orm
+    package_version: v0.0.10
+    title: 'v0.0.10 of dart_orm'
+    published: '2015-01-29T19:20:22+00:00'
+    id: 'urn:uuid:e31f9eae-33db-5080-bd82-ce408d00c8be'
+    link: 'https://pub.dartlang.org/packages/dart_orm'
+    author:
+        - 'Ustimenko Sergey'
