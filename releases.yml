@@ -10387,3 +10387,12 @@
     link: 'https://pub.dartlang.org/packages/rails_ujs'
     author:
         - 'Marcel Sackermann'
+-
+    package_name: webdriver
+    package_version: v0.8.8
+    title: 'v0.8.8 of webdriver'
+    published: '2015-01-29T22:50:18+00:00'
+    id: 'urn:uuid:3987492b-e0ae-5252-a291-b98a60b1e2f5'
+    link: 'https://pub.dartlang.org/packages/webdriver'
+    author:
+        - 'Dart Team'
