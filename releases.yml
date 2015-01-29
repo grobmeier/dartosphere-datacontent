@@ -10360,3 +10360,12 @@
     link: 'https://pub.dartlang.org/packages/grinder'
     author:
         - 'Devon Carew'
+-
+    package_name: path
+    package_version: v1.3.2
+    title: 'v1.3.2 of path'
+    published: '2015-01-29T20:50:24+00:00'
+    id: 'urn:uuid:e22a3e52-c8ae-51ea-bf00-5ae9d5b9db2a'
+    link: 'https://pub.dartlang.org/packages/path'
+    author:
+        - 'Dart Team'
