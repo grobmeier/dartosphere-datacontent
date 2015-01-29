@@ -10260,3 +10260,12 @@
     link: 'https://pub.dartlang.org/packages/phantomjs'
     author:
         - 'Ustimenko Sergey'
+-
+    package_name: dartson
+    package_version: v0.2.0
+    title: 'v0.2.0 of dartson'
+    published: '2015-01-29T13:55:20+00:00'
+    id: 'urn:uuid:7436a22e-8c9e-5993-9c96-635accdec4e9'
+    link: 'https://pub.dartlang.org/packages/dartson'
+    author:
+        - 'Eric Schneller'
