@@ -10288,3 +10288,12 @@
     link: 'https://pub.dartlang.org/packages/reflective'
     author:
         - 'Stijn Van Bael'
+-
+    package_name: dart_orm_adapter_postgresql
+    package_version: v0.0.3
+    title: 'v0.0.3 of dart_orm_adapter_postgresql'
+    published: '2015-01-29T18:40:21+00:00'
+    id: 'urn:uuid:ff6e0aad-4c15-5211-b660-57a44faaaf0c'
+    link: 'https://pub.dartlang.org/packages/dart_orm_adapter_postgresql'
+    author:
+        - 'Ustimenko Sergey'
