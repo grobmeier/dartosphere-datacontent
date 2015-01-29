@@ -10251,3 +10251,12 @@
     link: 'https://pub.dartlang.org/packages/mockito'
     author:
         - 'Dmitriy Fibulwinter'
+-
+    package_name: phantomjs
+    package_version: v0.0.6
+    title: 'v0.0.6 of phantomjs'
+    published: '2015-01-29T12:15:25+00:00'
+    id: 'urn:uuid:490d53f1-36ad-578b-8794-165f4d3b9dc2'
+    link: 'https://pub.dartlang.org/packages/phantomjs'
+    author:
+        - 'Ustimenko Sergey'
