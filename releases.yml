@@ -10342,3 +10342,12 @@
     link: 'https://pub.dartlang.org/packages/chrome_storage_cache'
     author:
         - 'Jordan Reuter'
+-
+    package_name: tree_component
+    package_version: v0.2.2
+    title: 'v0.2.2 of tree_component'
+    published: '2015-01-29T19:55:21+00:00'
+    id: 'urn:uuid:0652f668-5057-54f0-9331-e7355e88d63d'
+    link: 'https://pub.dartlang.org/packages/tree_component'
+    author:
+        - 'Marcos Benatti Lauer'
