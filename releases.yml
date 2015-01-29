@@ -10333,3 +10333,12 @@
     link: 'https://pub.dartlang.org/packages/dart_orm'
     author:
         - 'Ustimenko Sergey'
+-
+    package_name: chrome_storage_cache
+    package_version: v0.0.4
+    title: 'v0.0.4 of chrome_storage_cache'
+    published: '2015-01-29T19:45:21+00:00'
+    id: 'urn:uuid:3e1e6976-c41f-5533-b5d2-2ef2fef7384c'
+    link: 'https://pub.dartlang.org/packages/chrome_storage_cache'
+    author:
+        - 'Jordan Reuter'
