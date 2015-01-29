@@ -10206,3 +10206,12 @@
     link: 'https://pub.dartlang.org/packages/xml_rpc'
     author:
         - 'Alexandre Ardhuin'
+-
+    package_name: protobuf
+    package_version: v0.3.5
+    title: 'v0.3.5 of protobuf'
+    published: '2015-01-29T00:10:18+00:00'
+    id: 'urn:uuid:00b9d08d-dc37-5c57-b23a-373ff6eb966a'
+    link: 'https://pub.dartlang.org/packages/protobuf'
+    author:
+        - 'Dart Team'
