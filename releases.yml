@@ -10269,3 +10269,13 @@
     link: 'https://pub.dartlang.org/packages/dartson'
     author:
         - 'Eric Schneller'
+-
+    package_name: stagehand
+    package_version: v0.1.5+4
+    title: 'v0.1.5+4 of stagehand'
+    published: '2015-01-29T15:00:36+00:00'
+    id: 'urn:uuid:5bc7834e-36ad-5c13-b391-b6d7d38a797b'
+    link: 'https://pub.dartlang.org/packages/stagehand'
+    author:
+        - 'Seth Ladd'
+        - 'Devon Carew'
