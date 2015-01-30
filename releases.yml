@@ -10452,3 +10452,12 @@
     link: 'https://pub.dartlang.org/packages/isolate'
     author:
         - 'Dart Team'
+-
+    package_name: tree_component
+    package_version: v0.2.3
+    title: 'v0.2.3 of tree_component'
+    published: '2015-01-30T17:55:18+00:00'
+    id: 'urn:uuid:6acd315b-a7b3-5b72-9c96-3d8995c88e8e'
+    link: 'https://pub.dartlang.org/packages/tree_component'
+    author:
+        - 'Marcos Benatti Lauer'
