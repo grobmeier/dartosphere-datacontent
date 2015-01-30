@@ -10434,3 +10434,12 @@
     link: 'https://pub.dartlang.org/packages/drails'
     author:
         - 'Luis Vargas'
+-
+    package_name: protobuf
+    package_version: v0.3.5+1
+    title: 'v0.3.5+1 of protobuf'
+    published: '2015-01-30T10:40:21+00:00'
+    id: 'urn:uuid:e1866466-f347-5e8e-8412-701044cbd58a'
+    link: 'https://pub.dartlang.org/packages/protobuf'
+    author:
+        - 'Dart Team'
