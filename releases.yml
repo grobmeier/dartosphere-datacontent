@@ -10461,3 +10461,12 @@
     link: 'https://pub.dartlang.org/packages/tree_component'
     author:
         - 'Marcos Benatti Lauer'
+-
+    package_name: dart_source_gen
+    package_version: v0.0.0+1
+    title: 'v0.0.0+1 of dart_source_gen'
+    published: '2015-01-30T19:40:20+00:00'
+    id: 'urn:uuid:f1fe08d2-4b02-53d0-88de-7ce6ed22ed50'
+    link: 'https://pub.dartlang.org/packages/dart_source_gen'
+    author:
+        - 'Kevin Moore'
