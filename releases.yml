@@ -10425,3 +10425,12 @@
     link: 'https://pub.dartlang.org/packages/redstone'
     author:
         - 'Luiz Mineo'
+-
+    package_name: drails
+    package_version: v0.1.2
+    title: 'v0.1.2 of drails'
+    published: '2015-01-30T03:20:16+00:00'
+    id: 'urn:uuid:e155c0ea-5a89-51e6-9f40-4d547b04ca63'
+    link: 'https://pub.dartlang.org/packages/drails'
+    author:
+        - 'Luis Vargas'
