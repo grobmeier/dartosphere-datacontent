@@ -10488,3 +10488,12 @@
     link: 'https://pub.dartlang.org/packages/xml_rpc'
     author:
         - 'Alexandre Ardhuin'
+-
+    package_name: source_gen
+    package_version: v0.0.0+1
+    title: 'v0.0.0+1 of source_gen'
+    published: '2015-01-30T21:15:21+00:00'
+    id: 'urn:uuid:3a13c142-676b-5420-b1df-5066ac124ac3'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Kevin Moore'
