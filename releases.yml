@@ -10479,3 +10479,12 @@
     link: 'https://pub.dartlang.org/packages/tree_component'
     author:
         - 'Marcos Benatti Lauer'
+-
+    package_name: xml_rpc
+    package_version: v0.1.1
+    title: 'v0.1.1 of xml_rpc'
+    published: '2015-01-30T20:45:22+00:00'
+    id: 'urn:uuid:30b75e8a-adea-5d04-9cea-e3c2ace0acb4'
+    link: 'https://pub.dartlang.org/packages/xml_rpc'
+    author:
+        - 'Alexandre Ardhuin'
