@@ -10443,3 +10443,12 @@
     link: 'https://pub.dartlang.org/packages/protobuf'
     author:
         - 'Dart Team'
+-
+    package_name: isolate
+    package_version: v0.1.0
+    title: 'v0.1.0 of isolate'
+    published: '2015-01-30T12:50:20+00:00'
+    id: 'urn:uuid:124a67f6-ad9d-5257-a0f7-37ce9b42759e'
+    link: 'https://pub.dartlang.org/packages/isolate'
+    author:
+        - 'Dart Team'
