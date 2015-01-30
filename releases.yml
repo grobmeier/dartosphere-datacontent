@@ -10470,3 +10470,12 @@
     link: 'https://pub.dartlang.org/packages/dart_source_gen'
     author:
         - 'Kevin Moore'
+-
+    package_name: tree_component
+    package_version: v0.2.4
+    title: 'v0.2.4 of tree_component'
+    published: '2015-01-30T20:10:21+00:00'
+    id: 'urn:uuid:1d5f7cc3-cbb8-5bd6-b130-d719af5e5776'
+    link: 'https://pub.dartlang.org/packages/tree_component'
+    author:
+        - 'Marcos Benatti Lauer'
