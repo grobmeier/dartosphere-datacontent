@@ -10416,3 +10416,12 @@
         - 'Kenneth Endfinger'
         - samrg472
         - TheMike
+-
+    package_name: redstone
+    package_version: v0.5.20
+    title: 'v0.5.20 of redstone'
+    published: '2015-01-30T00:30:22+00:00'
+    id: 'urn:uuid:7c5d5d4b-d985-53ee-b6b5-b774603489ff'
+    link: 'https://pub.dartlang.org/packages/redstone'
+    author:
+        - 'Luiz Mineo'
