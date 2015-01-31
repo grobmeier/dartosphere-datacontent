@@ -10641,3 +10641,12 @@
     link: 'https://pub.dartlang.org/packages/xml_rpc'
     author:
         - 'Alexandre Ardhuin'
+-
+    package_name: dart_orm
+    package_version: v0.0.12
+    title: 'v0.0.12 of dart_orm'
+    published: '2015-01-31T23:05:14+00:00'
+    id: 'urn:uuid:7f14ee3d-23eb-532d-9c4a-907a7dad1880'
+    link: 'https://pub.dartlang.org/packages/dart_orm'
+    author:
+        - 'Ustimenko Sergey'
