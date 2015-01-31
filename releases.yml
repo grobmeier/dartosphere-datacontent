@@ -10614,3 +10614,12 @@
     link: 'https://pub.dartlang.org/packages/vacuum_persistent'
     author:
         - 'see AUTHORS'
+-
+    package_name: dart_commons
+    package_version: v1.0.0
+    title: 'v1.0.0 of dart_commons'
+    published: '2015-01-31T20:10:18+00:00'
+    id: 'urn:uuid:abb6b530-5879-5bc9-9e72-799229fd943c'
+    link: 'https://pub.dartlang.org/packages/dart_commons'
+    author:
+        - 'Jim Simon'
