@@ -10542,3 +10542,12 @@
     link: 'https://pub.dartlang.org/packages/slickdart'
     author:
         - CJKAO
+-
+    package_name: viltage
+    package_version: v0.4.0+0
+    title: 'v0.4.0+0 of viltage'
+    published: '2015-01-31T10:25:12+00:00'
+    id: 'urn:uuid:628d0e1e-b75c-52ac-96a0-bb5e20194f24'
+    link: 'https://pub.dartlang.org/packages/viltage'
+    author:
+        - ViliX64
