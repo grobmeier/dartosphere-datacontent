@@ -10524,3 +10524,12 @@
     link: 'https://pub.dartlang.org/packages/grinder'
     author:
         - 'Devon Carew'
+-
+    package_name: grinder
+    package_version: v0.6.6+2
+    title: 'v0.6.6+2 of grinder'
+    published: '2015-01-31T02:25:15+00:00'
+    id: 'urn:uuid:74ca74ae-6c9e-568b-a714-13708fae8e55'
+    link: 'https://pub.dartlang.org/packages/grinder'
+    author:
+        - 'Devon Carew'
