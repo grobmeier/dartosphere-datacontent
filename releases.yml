@@ -10623,3 +10623,12 @@
     link: 'https://pub.dartlang.org/packages/dart_commons'
     author:
         - 'Jim Simon'
+-
+    package_name: managed_mongo
+    package_version: v1.0.0
+    title: 'v1.0.0 of managed_mongo'
+    published: '2015-01-31T20:20:17+00:00'
+    id: 'urn:uuid:1397fac8-40ab-5fc3-b045-70d79492ac9b'
+    link: 'https://pub.dartlang.org/packages/managed_mongo'
+    author:
+        - 'Jim Simon'
