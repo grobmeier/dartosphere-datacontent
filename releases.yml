@@ -10560,3 +10560,12 @@
     link: 'https://pub.dartlang.org/packages/viltage'
     author:
         - ViliX64
+-
+    package_name: redstone_mapper
+    package_version: v0.1.12
+    title: 'v0.1.12 of redstone_mapper'
+    published: '2015-01-31T12:55:13+00:00'
+    id: 'urn:uuid:109c8b4f-1c75-5e75-bc5a-f395aa4d6b72'
+    link: 'https://pub.dartlang.org/packages/redstone_mapper'
+    author:
+        - 'Luiz Mineo'
