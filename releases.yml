@@ -10605,3 +10605,12 @@
     link: 'https://pub.dartlang.org/packages/dart_orm_adapter_mysql'
     author:
         - 'Ustimenko Sergey'
+-
+    package_name: vacuum_persistent
+    package_version: v2.0.0
+    title: 'v2.0.0 of vacuum_persistent'
+    published: '2015-01-31T17:30:19+00:00'
+    id: 'urn:uuid:1a40ca9b-4012-5b0e-b4ae-a945ef4c46f4'
+    link: 'https://pub.dartlang.org/packages/vacuum_persistent'
+    author:
+        - 'see AUTHORS'
