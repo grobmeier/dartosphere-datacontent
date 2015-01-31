@@ -10650,3 +10650,12 @@
     link: 'https://pub.dartlang.org/packages/dart_orm'
     author:
         - 'Ustimenko Sergey'
+-
+    package_name: base32
+    package_version: v0.1.2
+    title: 'v0.1.2 of base32'
+    published: '2015-01-31T23:45:21+00:00'
+    id: 'urn:uuid:23e370be-2d13-5837-a272-9052b7a3671c'
+    link: 'https://pub.dartlang.org/packages/base32'
+    author:
+        - 'Yulian Kuncheff'
