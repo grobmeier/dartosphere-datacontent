@@ -10596,3 +10596,12 @@
     link: 'https://pub.dartlang.org/packages/dart_orm_adapter_postgresql'
     author:
         - 'Ustimenko Sergey'
+-
+    package_name: dart_orm_adapter_mysql
+    package_version: v0.0.4
+    title: 'v0.0.4 of dart_orm_adapter_mysql'
+    published: '2015-01-31T13:55:13+00:00'
+    id: 'urn:uuid:7c99d8be-4ec8-5bf2-84ae-e5c8907667fd'
+    link: 'https://pub.dartlang.org/packages/dart_orm_adapter_mysql'
+    author:
+        - 'Ustimenko Sergey'
