@@ -10533,3 +10533,12 @@
     link: 'https://pub.dartlang.org/packages/grinder'
     author:
         - 'Devon Carew'
+-
+    package_name: slickdart
+    package_version: v0.1.0+8
+    title: 'v0.1.0+8 of slickdart'
+    published: '2015-01-31T04:35:14+00:00'
+    id: 'urn:uuid:c26e7992-4679-58ee-b175-5b01c73d4f57'
+    link: 'https://pub.dartlang.org/packages/slickdart'
+    author:
+        - CJKAO
