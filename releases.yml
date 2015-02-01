@@ -10758,3 +10758,12 @@
     link: 'https://pub.dartlang.org/packages/slickdart'
     author:
         - CJKAO
+-
+    package_name: binary_types
+    package_version: v0.0.16
+    title: 'v0.0.16 of binary_types'
+    published: '2015-02-01T16:35:16+00:00'
+    id: 'urn:uuid:4d3712b2-1950-5edc-9a56-e90e0046b0b6'
+    link: 'https://pub.dartlang.org/packages/binary_types'
+    author:
+        - 'Andrew Mezoni'
