@@ -10722,3 +10722,12 @@
     link: 'https://pub.dartlang.org/packages/stream_transformers'
     author:
         - 'Dan Schultz'
+-
+    package_name: mustache4dart
+    package_version: v1.0.8
+    title: 'v1.0.8 of mustache4dart'
+    published: '2015-02-01T12:35:14+00:00'
+    id: 'urn:uuid:1309452c-829a-5a41-bfb0-bcb8f0138162'
+    link: 'https://pub.dartlang.org/packages/mustache4dart'
+    author:
+        - 'Georgios Valotasios'
