@@ -10749,3 +10749,12 @@
     link: 'https://pub.dartlang.org/packages/angulardart_translate_filter'
     author:
         - AlexCDumitru(AlexCD)
+-
+    package_name: slickdart
+    package_version: v0.1.0+9
+    title: 'v0.1.0+9 of slickdart'
+    published: '2015-02-01T16:25:16+00:00'
+    id: 'urn:uuid:63c926d6-9905-553a-9ae4-d91e916e6f50'
+    link: 'https://pub.dartlang.org/packages/slickdart'
+    author:
+        - CJKAO
