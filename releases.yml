@@ -10787,3 +10787,12 @@
         - 'Kenneth Endfinger'
         - samrg472
         - TheMike
+-
+    package_name: retrace
+    package_version: v1.0.0
+    title: 'v1.0.0 of retrace'
+    published: '2015-02-01T20:15:22+00:00'
+    id: 'urn:uuid:c63946e0-be16-535e-80a4-a013f65d43ae'
+    link: 'https://pub.dartlang.org/packages/retrace'
+    author:
+        - 'Björn Melinder'
