@@ -10767,3 +10767,12 @@
     link: 'https://pub.dartlang.org/packages/binary_types'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: dart_orm_adapter_mysql
+    package_version: v0.0.5
+    title: 'v0.0.5 of dart_orm_adapter_mysql'
+    published: '2015-02-01T17:15:18+00:00'
+    id: 'urn:uuid:57048b9d-d8eb-5b90-b0b9-1c60a9fb9187'
+    link: 'https://pub.dartlang.org/packages/dart_orm_adapter_mysql'
+    author:
+        - 'Ustimenko Sergey'
