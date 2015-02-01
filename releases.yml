@@ -10776,3 +10776,14 @@
     link: 'https://pub.dartlang.org/packages/dart_orm_adapter_mysql'
     author:
         - 'Ustimenko Sergey'
+-
+    package_name: irc
+    package_version: v2.0.4
+    title: 'v2.0.4 of irc'
+    published: '2015-02-01T20:10:20+00:00'
+    id: 'urn:uuid:b1599a24-a26a-5fa5-b4a0-55bbc0e938ac'
+    link: 'https://pub.dartlang.org/packages/irc'
+    author:
+        - 'Kenneth Endfinger'
+        - samrg472
+        - TheMike
