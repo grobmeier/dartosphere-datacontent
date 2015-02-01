@@ -10677,3 +10677,12 @@
     link: 'https://pub.dartlang.org/packages/managed_mongo'
     author:
         - 'Jim Simon'
+-
+    package_name: inflection
+    package_version: v0.1.0
+    title: 'v0.1.0 of inflection'
+    published: '2015-02-01T09:00:18+00:00'
+    id: 'urn:uuid:cdb39765-ffd9-5202-af33-e55dffd57c44'
+    link: 'https://pub.dartlang.org/packages/inflection'
+    author:
+        - 'George Moschovitis'
