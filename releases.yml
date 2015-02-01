@@ -10740,3 +10740,12 @@
     link: 'https://pub.dartlang.org/packages/angulardart_translate_filter'
     author:
         - AlexCDumitru(AlexCD)
+-
+    package_name: angulardart_translate_filter
+    package_version: v0.1.1
+    title: 'v0.1.1 of angulardart_translate_filter'
+    published: '2015-02-01T13:55:14+00:00'
+    id: 'urn:uuid:4491e0e8-b51e-5451-adb9-0183897dd3c2'
+    link: 'https://pub.dartlang.org/packages/angulardart_translate_filter'
+    author:
+        - AlexCDumitru(AlexCD)
