@@ -10731,3 +10731,12 @@
     link: 'https://pub.dartlang.org/packages/mustache4dart'
     author:
         - 'Georgios Valotasios'
+-
+    package_name: angulardart_translate_filter
+    package_version: v0.1.0
+    title: 'v0.1.0 of angulardart_translate_filter'
+    published: '2015-02-01T13:50:15+00:00'
+    id: 'urn:uuid:1e5a6c7d-3202-54de-991d-53d3cf31bffe'
+    link: 'https://pub.dartlang.org/packages/angulardart_translate_filter'
+    author:
+        - AlexCDumitru(AlexCD)
