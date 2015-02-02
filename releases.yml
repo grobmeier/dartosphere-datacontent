@@ -10833,3 +10833,12 @@
     author:
         - 'Justin Fagnani'
         - 'Pavel Jbanov'
+-
+    package_name: peg
+    package_version: v0.0.49
+    title: 'v0.0.49 of peg'
+    published: '2015-02-02T05:30:20+00:00'
+    id: 'urn:uuid:f707f964-720d-5941-b0ff-0bef2a47a6c7'
+    link: 'https://pub.dartlang.org/packages/peg'
+    author:
+        - 'Andrew Mezoni'
