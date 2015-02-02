@@ -10933,3 +10933,12 @@
     link: 'https://pub.dartlang.org/packages/aursir4dart'
     author:
         - 'Joern Weissenborn'
+-
+    package_name: binary_declarations
+    package_version: v0.0.23
+    title: 'v0.0.23 of binary_declarations'
+    published: '2015-02-02T13:30:27+00:00'
+    id: 'urn:uuid:1ba983b6-bb6b-560d-8b1f-af73b2704046'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni'
