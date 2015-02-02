@@ -11104,3 +11104,17 @@
     link: 'https://pub.dartlang.org/packages/codemirror_element'
     author:
         - DartLab.org
+-
+    package_name: quiver
+    package_version: v0.21.0
+    title: 'v0.21.0 of quiver'
+    published: '2015-02-02T22:25:22+00:00'
+    id: 'urn:uuid:cce8032b-cdae-588d-ba5c-6935816b70d3'
+    link: 'https://pub.dartlang.org/packages/quiver'
+    author:
+        - 'Justin Fagnani'
+        - 'Yegor Jbanov'
+        - 'Chris Bracken'
+        - 'Alexandre Ardhuin'
+        - 'David Morgan'
+        - 'John McDole'
