@@ -10969,3 +10969,12 @@
     link: 'https://pub.dartlang.org/packages/aursir_polymer'
     author:
         - 'Joern Weissenborn'
+-
+    package_name: aursir_polymer
+    package_version: v0.2.1
+    title: 'v0.2.1 of aursir_polymer'
+    published: '2015-02-02T15:00:29+00:00'
+    id: 'urn:uuid:6a94c275-f2b5-51c6-897c-e94c129a5410'
+    link: 'https://pub.dartlang.org/packages/aursir_polymer'
+    author:
+        - 'Joern Weissenborn'
