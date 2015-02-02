@@ -11032,3 +11032,12 @@
     link: 'https://pub.dartlang.org/packages/dart_style'
     author:
         - 'Dart Team'
+-
+    package_name: binary_declarations
+    package_version: v0.0.25
+    title: 'v0.0.25 of binary_declarations'
+    published: '2015-02-02T17:25:19+00:00'
+    id: 'urn:uuid:6c5d6514-0656-54d5-a5c7-c9fc43d84008'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni'
