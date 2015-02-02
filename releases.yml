@@ -10996,3 +10996,12 @@
     link: 'https://pub.dartlang.org/packages/aursir_polymer'
     author:
         - 'Joern Weissenborn'
+-
+    package_name: binary_declarations
+    package_version: v0.0.24
+    title: 'v0.0.24 of binary_declarations'
+    published: '2015-02-02T15:55:26+00:00'
+    id: 'urn:uuid:93adfa79-dfa9-5c07-97d2-def4a189f4c1'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni'
