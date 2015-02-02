@@ -10842,3 +10842,12 @@
     link: 'https://pub.dartlang.org/packages/peg'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: retrace
+    package_version: v1.0.2
+    title: 'v1.0.2 of retrace'
+    published: '2015-02-02T06:40:19+00:00'
+    id: 'urn:uuid:4ea5258d-db6a-5243-8844-eb8bdcb7dec5'
+    link: 'https://pub.dartlang.org/packages/retrace'
+    author:
+        - 'Björn Melinder'
