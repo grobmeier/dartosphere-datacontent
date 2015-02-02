@@ -10924,3 +10924,12 @@
     link: 'https://pub.dartlang.org/packages/binary_declarations'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: aursir4dart
+    package_version: v0.2.0
+    title: 'v0.2.0 of aursir4dart'
+    published: '2015-02-02T13:15:19+00:00'
+    id: 'urn:uuid:1e9c2f41-fc09-564e-b73e-359e7e4c674e'
+    link: 'https://pub.dartlang.org/packages/aursir4dart'
+    author:
+        - 'Joern Weissenborn'
