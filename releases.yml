@@ -11005,3 +11005,21 @@
     link: 'https://pub.dartlang.org/packages/binary_declarations'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: aursir4dart
+    package_version: v0.2.3
+    title: 'v0.2.3 of aursir4dart'
+    published: '2015-02-02T16:05:25+00:00'
+    id: 'urn:uuid:efabd090-799a-5ca0-b7ef-8d639803e0f3'
+    link: 'https://pub.dartlang.org/packages/aursir4dart'
+    author:
+        - 'Joern Weissenborn'
+-
+    package_name: wsk_material
+    package_version: v0.1.1
+    title: 'v0.1.1 of wsk_material'
+    published: '2015-02-02T16:05:25+00:00'
+    id: 'urn:uuid:9bd3ce8c-acdc-5fae-8226-abbef072d790'
+    link: 'https://pub.dartlang.org/packages/wsk_material'
+    author:
+        - 'Mike Mitterer'
