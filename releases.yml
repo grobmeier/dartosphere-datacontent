@@ -11023,3 +11023,12 @@
     link: 'https://pub.dartlang.org/packages/wsk_material'
     author:
         - 'Mike Mitterer'
+-
+    package_name: dart_style
+    package_version: v0.1.3
+    title: 'v0.1.3 of dart_style'
+    published: '2015-02-02T17:20:21+00:00'
+    id: 'urn:uuid:64d227bd-7f46-5e0a-a307-62d3d8404a1f'
+    link: 'https://pub.dartlang.org/packages/dart_style'
+    author:
+        - 'Dart Team'
