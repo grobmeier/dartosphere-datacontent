@@ -10851,3 +10851,12 @@
     link: 'https://pub.dartlang.org/packages/retrace'
     author:
         - 'Björn Melinder'
+-
+    package_name: dart_orm_adapter_mysql
+    package_version: v0.0.6
+    title: 'v0.0.6 of dart_orm_adapter_mysql'
+    published: '2015-02-02T07:20:19+00:00'
+    id: 'urn:uuid:abea1119-d5d6-5c00-b9e9-a19a2c4c6d64'
+    link: 'https://pub.dartlang.org/packages/dart_orm_adapter_mysql'
+    author:
+        - 'Ustimenko Sergey'
