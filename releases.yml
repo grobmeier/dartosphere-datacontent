@@ -11068,3 +11068,12 @@
     link: 'https://pub.dartlang.org/packages/fff'
     author:
         - 'Viktor Dakalov'
+-
+    package_name: dart_coveralls
+    package_version: v0.1.10
+    title: 'v0.1.10 of dart_coveralls'
+    published: '2015-02-02T21:10:22+00:00'
+    id: 'urn:uuid:ccf1cc32-048e-556b-84f9-f6411a604a58'
+    link: 'https://pub.dartlang.org/packages/dart_coveralls'
+    author:
+        - 'Axel Christ'
