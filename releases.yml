@@ -11059,3 +11059,12 @@
     link: 'https://pub.dartlang.org/packages/aursir_polymer'
     author:
         - 'Joern Weissenborn'
+-
+    package_name: fff
+    package_version: v0.0.2
+    title: 'v0.0.2 of fff'
+    published: '2015-02-02T19:00:30+00:00'
+    id: 'urn:uuid:e45359ce-c952-57ef-9b46-019062321ac8'
+    link: 'https://pub.dartlang.org/packages/fff'
+    author:
+        - 'Viktor Dakalov'
