@@ -10951,3 +10951,12 @@
     link: 'https://pub.dartlang.org/packages/aursir4dart'
     author:
         - 'Joern Weissenborn'
+-
+    package_name: aursir4dart
+    package_version: v0.2.2
+    title: 'v0.2.2 of aursir4dart'
+    published: '2015-02-02T13:55:21+00:00'
+    id: 'urn:uuid:3e376a64-0344-5eb9-9599-64a55c7db569'
+    link: 'https://pub.dartlang.org/packages/aursir4dart'
+    author:
+        - 'Joern Weissenborn'
