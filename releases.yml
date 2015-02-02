@@ -10896,3 +10896,13 @@
     link: 'https://pub.dartlang.org/packages/binary_declarations'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: bwu_sparkline
+    package_version: v0.0.7+1
+    title: 'v0.0.7+1 of bwu_sparkline'
+    published: '2015-02-02T10:25:22+00:00'
+    id: 'urn:uuid:c973065a-a6b0-562f-9460-46c4a650ebf9'
+    link: 'https://pub.dartlang.org/packages/bwu_sparkline'
+    author:
+        - 'Günter Zöchbauer'
+        - 'James Hurford'
