@@ -10823,3 +10823,13 @@
     link: 'https://pub.dartlang.org/packages/console'
     author:
         - 'Kenneth Endfinger'
+-
+    package_name: route_hierarchical
+    package_version: v0.6.1+1
+    title: 'v0.6.1+1 of route_hierarchical'
+    published: '2015-02-02T02:40:17+00:00'
+    id: 'urn:uuid:ce4fd55e-9dc7-534b-bb74-71aeab34a6d1'
+    link: 'https://pub.dartlang.org/packages/route_hierarchical'
+    author:
+        - 'Justin Fagnani'
+        - 'Pavel Jbanov'
