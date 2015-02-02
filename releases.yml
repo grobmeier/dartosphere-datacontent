@@ -10906,3 +10906,12 @@
     author:
         - 'Günter Zöchbauer'
         - 'James Hurford'
+-
+    package_name: react
+    package_version: v0.5.2
+    title: 'v0.5.2 of react'
+    published: '2015-02-02T11:05:18+00:00'
+    id: 'urn:uuid:8c2bc530-af37-509d-baea-ebaaf2c2d4e3'
+    link: 'https://pub.dartlang.org/packages/react'
+    author:
+        - 'Clean Team'
