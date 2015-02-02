@@ -11077,3 +11077,12 @@
     link: 'https://pub.dartlang.org/packages/dart_coveralls'
     author:
         - 'Axel Christ'
+-
+    package_name: csslib
+    package_version: v0.11.0+4
+    title: 'v0.11.0+4 of csslib'
+    published: '2015-02-02T21:50:26+00:00'
+    id: 'urn:uuid:c97c17c8-73c8-5d21-9c94-cf98ddc03532'
+    link: 'https://pub.dartlang.org/packages/csslib'
+    author:
+        - 'Polymer.dart Team'
