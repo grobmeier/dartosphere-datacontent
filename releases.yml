@@ -10915,3 +10915,12 @@
     link: 'https://pub.dartlang.org/packages/react'
     author:
         - 'Clean Team'
+-
+    package_name: binary_declarations
+    package_version: v0.0.22
+    title: 'v0.0.22 of binary_declarations'
+    published: '2015-02-02T12:55:17+00:00'
+    id: 'urn:uuid:b13d22d4-0bd6-507b-9c21-314466a7f933'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni'
