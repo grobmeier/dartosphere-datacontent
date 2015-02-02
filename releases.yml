@@ -10814,3 +10814,12 @@
     link: 'https://pub.dartlang.org/packages/managed_mongo'
     author:
         - 'Jim Simon'
+-
+    package_name: console
+    package_version: v2.2.0
+    title: 'v2.2.0 of console'
+    published: '2015-02-02T00:40:15+00:00'
+    id: 'urn:uuid:63e3cb4f-3d00-5048-bccd-3684e78be76f'
+    link: 'https://pub.dartlang.org/packages/console'
+    author:
+        - 'Kenneth Endfinger'
