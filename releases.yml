@@ -11291,3 +11291,12 @@
     link: 'https://pub.dartlang.org/packages/binary_interop'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: inflection
+    package_version: v0.2.0
+    title: 'v0.2.0 of inflection'
+    published: '2015-02-03T18:30:25+00:00'
+    id: 'urn:uuid:3634eaf4-9694-5829-8030-113d859eb1ad'
+    link: 'https://pub.dartlang.org/packages/inflection'
+    author:
+        - 'George Moschovitis'
