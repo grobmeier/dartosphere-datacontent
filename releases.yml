@@ -11255,3 +11255,12 @@
         - 'Gunter Zochbauer'
         - 'Francesco Cina'
         - 'Neeraj Mittal'
+-
+    package_name: test_runner
+    package_version: v0.2.14+1
+    title: 'v0.2.14+1 of test_runner'
+    published: '2015-02-03T17:00:32+00:00'
+    id: 'urn:uuid:aeeaf555-c3cf-5ea0-8781-c32e7a3f8a98'
+    link: 'https://pub.dartlang.org/packages/test_runner'
+    author:
+        - 'Nicolas Garnier'
