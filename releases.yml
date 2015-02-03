@@ -11264,3 +11264,12 @@
     link: 'https://pub.dartlang.org/packages/test_runner'
     author:
         - 'Nicolas Garnier'
+-
+    package_name: binary_types
+    package_version: v0.0.17
+    title: 'v0.0.17 of binary_types'
+    published: '2015-02-03T17:05:23+00:00'
+    id: 'urn:uuid:b62d7229-55e8-514a-b050-adb6882a0b16'
+    link: 'https://pub.dartlang.org/packages/binary_types'
+    author:
+        - 'Andrew Mezoni'
