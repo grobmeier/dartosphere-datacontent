@@ -11197,3 +11197,12 @@
     link: 'https://pub.dartlang.org/packages/wsk_material'
     author:
         - 'Mike Mitterer'
+-
+    package_name: code_transformers
+    package_version: v0.2.4
+    title: 'v0.2.4 of code_transformers'
+    published: '2015-02-03T15:05:24+00:00'
+    id: 'urn:uuid:74b3ed74-6cb3-5b8b-b42f-759ae7ea356e'
+    link: 'https://pub.dartlang.org/packages/code_transformers'
+    author:
+        - 'Dart Team'
