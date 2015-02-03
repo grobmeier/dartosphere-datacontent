@@ -11161,3 +11161,12 @@
         - 'Kenneth Endfinger'
         - samrg472
         - TheMike
+-
+    package_name: binary_declarations
+    package_version: v0.0.26
+    title: 'v0.0.26 of binary_declarations'
+    published: '2015-02-03T09:00:56+00:00'
+    id: 'urn:uuid:6ad4b88c-339f-5726-b6b8-c4b740688a88'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni'
