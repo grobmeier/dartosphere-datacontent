@@ -11300,3 +11300,12 @@
     link: 'https://pub.dartlang.org/packages/inflection'
     author:
         - 'George Moschovitis'
+-
+    package_name: test_runner
+    package_version: v0.2.15
+    title: 'v0.2.15 of test_runner'
+    published: '2015-02-03T20:25:22+00:00'
+    id: 'urn:uuid:f950c4e3-b9d9-542a-87a0-d98aba82ec13'
+    link: 'https://pub.dartlang.org/packages/test_runner'
+    author:
+        - 'Nicolas Garnier'
