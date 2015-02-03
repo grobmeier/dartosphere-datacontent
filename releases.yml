@@ -11150,3 +11150,14 @@
         - 'Alexandre Ardhuin'
         - 'David Morgan'
         - 'John McDole'
+-
+    package_name: irc
+    package_version: v2.0.5
+    title: 'v2.0.5 of irc'
+    published: '2015-02-03T03:50:17+00:00'
+    id: 'urn:uuid:b794fb38-24fa-52b2-a0d9-6f4c886964d3'
+    link: 'https://pub.dartlang.org/packages/irc'
+    author:
+        - 'Kenneth Endfinger'
+        - samrg472
+        - TheMike
