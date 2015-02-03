@@ -11179,3 +11179,12 @@
     link: 'https://pub.dartlang.org/packages/fff'
     author:
         - 'Viktor Dakalov'
+-
+    package_name: wsk_material
+    package_version: v0.2.1
+    title: 'v0.2.1 of wsk_material'
+    published: '2015-02-03T11:25:19+00:00'
+    id: 'urn:uuid:d651dd71-36b1-5cbe-878d-06744b8b81a8'
+    link: 'https://pub.dartlang.org/packages/wsk_material'
+    author:
+        - 'Mike Mitterer'
