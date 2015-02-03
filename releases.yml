@@ -11318,3 +11318,12 @@
     link: 'https://pub.dartlang.org/packages/chrome_storage_cache'
     author:
         - 'Jordan Reuter'
+-
+    package_name: chrome_storage_cache
+    package_version: v0.1.2
+    title: 'v0.1.2 of chrome_storage_cache'
+    published: '2015-02-03T21:25:20+00:00'
+    id: 'urn:uuid:131551da-f234-5e59-89dd-b37d239e447e'
+    link: 'https://pub.dartlang.org/packages/chrome_storage_cache'
+    author:
+        - 'Jordan Reuter'
