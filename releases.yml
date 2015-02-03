@@ -11273,3 +11273,21 @@
     link: 'https://pub.dartlang.org/packages/binary_types'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: analyzer
+    package_version: v0.23.0
+    title: 'v0.23.0 of analyzer'
+    published: '2015-02-03T17:40:21+00:00'
+    id: 'urn:uuid:ed29f41f-f803-540a-9b50-55e664555635'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team'
+-
+    package_name: binary_interop
+    package_version: v0.0.14
+    title: 'v0.0.14 of binary_interop'
+    published: '2015-02-03T17:40:21+00:00'
+    id: 'urn:uuid:c74fb6b6-8e2b-50da-87c1-6310fd71751c'
+    link: 'https://pub.dartlang.org/packages/binary_interop'
+    author:
+        - 'Andrew Mezoni'
