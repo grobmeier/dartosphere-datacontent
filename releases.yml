@@ -11233,3 +11233,25 @@
     link: 'https://pub.dartlang.org/packages/binary_declarations'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: test_runner
+    package_version: v0.2.14
+    title: 'v0.2.14 of test_runner'
+    published: '2015-02-03T16:46:11+00:00'
+    id: 'urn:uuid:d77a2a71-357e-5ccb-81f1-ce6a6b73a33f'
+    link: 'https://pub.dartlang.org/packages/test_runner'
+    author:
+        - 'Nicolas Garnier'
+-
+    package_name: angular_ui
+    package_version: v0.6.4
+    title: 'v0.6.4 of angular_ui'
+    published: '2015-02-03T16:46:11+00:00'
+    id: 'urn:uuid:b73a735d-879a-59ca-b2cd-174f29179112'
+    link: 'https://pub.dartlang.org/packages/angular_ui'
+    author:
+        - 'Sergey Akopkokhyants'
+        - 'Tonis Pool'
+        - 'Gunter Zochbauer'
+        - 'Francesco Cina'
+        - 'Neeraj Mittal'
