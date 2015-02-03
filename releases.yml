@@ -11354,3 +11354,12 @@
     link: 'https://pub.dartlang.org/packages/codemirror_element'
     author:
         - DartLab.org
+-
+    package_name: inject_module
+    package_version: v1.0.2
+    title: 'v1.0.2 of inject_module'
+    published: '2015-02-03T23:30:22+00:00'
+    id: 'urn:uuid:73611876-b934-5ad3-adf6-f265b927845d'
+    link: 'https://pub.dartlang.org/packages/inject_module'
+    author:
+        - 'Will Squire'
