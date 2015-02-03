@@ -11136,3 +11136,17 @@
     link: 'https://pub.dartlang.org/packages/xml'
     author:
         - 'Lukas Renggli'
+-
+    package_name: quiver
+    package_version: v0.21.0+1
+    title: 'v0.21.0+1 of quiver'
+    published: '2015-02-03T01:10:19+00:00'
+    id: 'urn:uuid:37a1fc19-7c2b-56c8-b9a8-44404f68d3ce'
+    link: 'https://pub.dartlang.org/packages/quiver'
+    author:
+        - 'Justin Fagnani'
+        - 'Yegor Jbanov'
+        - 'Chris Bracken'
+        - 'Alexandre Ardhuin'
+        - 'David Morgan'
+        - 'John McDole'
