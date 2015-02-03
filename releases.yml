@@ -11309,3 +11309,12 @@
     link: 'https://pub.dartlang.org/packages/test_runner'
     author:
         - 'Nicolas Garnier'
+-
+    package_name: chrome_storage_cache
+    package_version: v0.1.1
+    title: 'v0.1.1 of chrome_storage_cache'
+    published: '2015-02-03T21:10:23+00:00'
+    id: 'urn:uuid:a31dcff9-4560-5b90-b5ce-580fb792416b'
+    link: 'https://pub.dartlang.org/packages/chrome_storage_cache'
+    author:
+        - 'Jordan Reuter'
