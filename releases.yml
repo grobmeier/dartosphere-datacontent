@@ -11445,3 +11445,12 @@
     link: 'https://pub.dartlang.org/packages/initialize'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: inflection
+    package_version: v0.3.0
+    title: 'v0.3.0 of inflection'
+    published: '2015-02-04T18:25:20+00:00'
+    id: 'urn:uuid:a281042b-ce1f-50c2-9def-aae5f5fa680e'
+    link: 'https://pub.dartlang.org/packages/inflection'
+    author:
+        - 'George Moschovitis'
