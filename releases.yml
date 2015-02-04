@@ -11395,3 +11395,17 @@
     link: 'https://pub.dartlang.org/packages/binary_types'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: quiver
+    package_version: v0.21.0+3
+    title: 'v0.21.0+3 of quiver'
+    published: '2015-02-04T06:30:50+00:00'
+    id: 'urn:uuid:e462e487-02fb-596b-b17c-4d0b152df362'
+    link: 'https://pub.dartlang.org/packages/quiver'
+    author:
+        - 'Justin Fagnani'
+        - 'Yegor Jbanov'
+        - 'Chris Bracken'
+        - 'Alexandre Ardhuin'
+        - 'David Morgan'
+        - 'John McDole'
