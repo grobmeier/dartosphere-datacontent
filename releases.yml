@@ -11463,3 +11463,12 @@
     link: 'https://pub.dartlang.org/packages/tuneup'
     author:
         - 'Devon Carew'
+-
+    package_name: intl
+    package_version: v0.12.0+3
+    title: 'v0.12.0+3 of intl'
+    published: '2015-02-04T19:10:22+00:00'
+    id: 'urn:uuid:22c83c29-aa85-5963-ae24-6413388e7cc0'
+    link: 'https://pub.dartlang.org/packages/intl'
+    author:
+        - 'Dart Team'
