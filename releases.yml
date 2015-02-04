@@ -11427,3 +11427,12 @@
     link: 'https://pub.dartlang.org/packages/binary_declarations'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: angulardart_translate_filter
+    package_version: v0.1.2
+    title: 'v0.1.2 of angulardart_translate_filter'
+    published: '2015-02-04T08:30:27+00:00'
+    id: 'urn:uuid:79bf5b35-e7d5-50bc-ad2f-b8c0877b2634'
+    link: 'https://pub.dartlang.org/packages/angulardart_translate_filter'
+    author:
+        - AlexCDumitru(AlexCD)
