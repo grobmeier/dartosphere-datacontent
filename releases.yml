@@ -11454,3 +11454,12 @@
     link: 'https://pub.dartlang.org/packages/inflection'
     author:
         - 'George Moschovitis'
+-
+    package_name: tuneup
+    package_version: v0.0.4
+    title: 'v0.0.4 of tuneup'
+    published: '2015-02-04T18:45:24+00:00'
+    id: 'urn:uuid:fb514036-b87d-5868-9f05-b5e15958a740'
+    link: 'https://pub.dartlang.org/packages/tuneup'
+    author:
+        - 'Devon Carew'
