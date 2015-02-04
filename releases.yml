@@ -11409,3 +11409,12 @@
         - 'Alexandre Ardhuin'
         - 'David Morgan'
         - 'John McDole'
+-
+    package_name: dart_range
+    package_version: v0.0.1
+    title: 'v0.0.1 of dart_range'
+    published: '2015-02-04T07:20:21+00:00'
+    id: 'urn:uuid:b1354291-474e-5f5e-93fb-06628bf3ac79'
+    link: 'https://pub.dartlang.org/packages/dart_range'
+    author:
+        - 'Koto Furumiya'
