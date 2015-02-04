@@ -11363,3 +11363,17 @@
     link: 'https://pub.dartlang.org/packages/inject_module'
     author:
         - 'Will Squire'
+-
+    package_name: quiver
+    package_version: v0.21.0+2
+    title: 'v0.21.0+2 of quiver'
+    published: '2015-02-04T00:35:17+00:00'
+    id: 'urn:uuid:9aadcdf3-15d5-5eca-b271-a35b5378120a'
+    link: 'https://pub.dartlang.org/packages/quiver'
+    author:
+        - 'Justin Fagnani'
+        - 'Yegor Jbanov'
+        - 'Chris Bracken'
+        - 'Alexandre Ardhuin'
+        - 'David Morgan'
+        - 'John McDole'
