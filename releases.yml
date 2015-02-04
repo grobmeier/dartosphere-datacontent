@@ -11418,3 +11418,12 @@
     link: 'https://pub.dartlang.org/packages/dart_range'
     author:
         - 'Koto Furumiya'
+-
+    package_name: binary_declarations
+    package_version: v0.0.29
+    title: 'v0.0.29 of binary_declarations'
+    published: '2015-02-04T08:25:18+00:00'
+    id: 'urn:uuid:9d355fd1-d644-5e4d-8718-ff0cb28e749a'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni'
