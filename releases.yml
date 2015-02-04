@@ -11436,3 +11436,12 @@
     link: 'https://pub.dartlang.org/packages/angulardart_translate_filter'
     author:
         - AlexCDumitru(AlexCD)
+-
+    package_name: initialize
+    package_version: v0.3.1+1
+    title: 'v0.3.1+1 of initialize'
+    published: '2015-02-04T17:10:25+00:00'
+    id: 'urn:uuid:3cd64570-376e-50e8-9e72-213a840a9289'
+    link: 'https://pub.dartlang.org/packages/initialize'
+    author:
+        - 'Polymer.dart Authors'
