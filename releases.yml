@@ -11472,3 +11472,17 @@
     link: 'https://pub.dartlang.org/packages/intl'
     author:
         - 'Dart Team'
+-
+    package_name: quiver
+    package_version: v0.21.1
+    title: 'v0.21.1 of quiver'
+    published: '2015-02-05T07:45:21+00:00'
+    id: 'urn:uuid:e9e80ccc-41d2-5887-945f-7a9d810d2a91'
+    link: 'https://pub.dartlang.org/packages/quiver'
+    author:
+        - 'Justin Fagnani'
+        - 'Yegor Jbanov'
+        - 'Chris Bracken'
+        - 'Alexandre Ardhuin'
+        - 'David Morgan'
+        - 'John McDole'
