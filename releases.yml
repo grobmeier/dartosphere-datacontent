@@ -11595,3 +11595,12 @@
     link: 'https://pub.dartlang.org/packages/inflection'
     author:
         - 'George Moschovitis'
+-
+    package_name: scroll
+    package_version: v0.0.3
+    title: 'v0.0.3 of scroll'
+    published: '2015-02-05T19:30:32+00:00'
+    id: 'urn:uuid:7cebc755-4955-5a36-8391-04f4b71e7aed'
+    link: 'https://pub.dartlang.org/packages/scroll'
+    author:
+        - 'Jan Pukovsky'
