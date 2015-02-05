@@ -11568,3 +11568,12 @@
     link: 'https://pub.dartlang.org/packages/ccompilers'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: ccompilers
+    package_version: v0.2.9
+    title: 'v0.2.9 of ccompilers'
+    published: '2015-02-05T17:45:22+00:00'
+    id: 'urn:uuid:9aaeb10f-47b0-5592-9ac2-41e5900e990c'
+    link: 'https://pub.dartlang.org/packages/ccompilers'
+    author:
+        - 'Andrew Mezoni'
