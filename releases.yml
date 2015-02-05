@@ -11495,3 +11495,21 @@
     link: 'https://pub.dartlang.org/packages/xml_rpc'
     author:
         - 'Alexandre Ardhuin'
+-
+    package_name: googleapis_beta
+    package_version: v0.8.0
+    title: 'v0.8.0 of googleapis_beta'
+    published: '2015-02-05T12:10:22+00:00'
+    id: 'urn:uuid:758e4999-d24c-5c26-a10a-a470af8665a4'
+    link: 'https://pub.dartlang.org/packages/googleapis_beta'
+    author:
+        - 'Dart Team'
+-
+    package_name: googleapis
+    package_version: v0.5.5
+    title: 'v0.5.5 of googleapis'
+    published: '2015-02-05T12:10:22+00:00'
+    id: 'urn:uuid:e34c2d6a-ad0c-5aad-85b9-5d3b280e7411'
+    link: 'https://pub.dartlang.org/packages/googleapis'
+    author:
+        - 'Dart Team'
