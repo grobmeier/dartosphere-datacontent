@@ -11559,3 +11559,12 @@
     link: 'https://pub.dartlang.org/packages/obj'
     author:
         - 'Everton Marques'
+-
+    package_name: ccompilers
+    package_version: v0.2.8
+    title: 'v0.2.8 of ccompilers'
+    published: '2015-02-05T17:15:24+00:00'
+    id: 'urn:uuid:49fa2a20-6cc3-5597-82de-5e4922315e1e'
+    link: 'https://pub.dartlang.org/packages/ccompilers'
+    author:
+        - 'Andrew Mezoni'
