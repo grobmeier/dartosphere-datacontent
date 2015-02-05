@@ -11613,3 +11613,21 @@
     link: 'https://pub.dartlang.org/packages/inflection'
     author:
         - 'George Moschovitis'
+-
+    package_name: box
+    package_version: v0.0.2
+    title: 'v0.0.2 of box'
+    published: '2015-02-05T20:10:21+00:00'
+    id: 'urn:uuid:9570017c-6741-52e1-af32-2bf6738570fb'
+    link: 'https://pub.dartlang.org/packages/box'
+    author:
+        - 'Stijn Van Bael'
+-
+    package_name: ccompilers
+    package_version: v0.2.10
+    title: 'v0.2.10 of ccompilers'
+    published: '2015-02-05T20:10:21+00:00'
+    id: 'urn:uuid:9d2a79a6-5207-5bba-8a92-b5fb0cb01430'
+    link: 'https://pub.dartlang.org/packages/ccompilers'
+    author:
+        - 'Andrew Mezoni'
