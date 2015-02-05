@@ -11667,3 +11667,12 @@
     link: 'https://pub.dartlang.org/packages/cargo'
     author:
         - 'Joris Hermans'
+-
+    package_name: test_runner
+    package_version: v0.2.15+2
+    title: 'v0.2.15+2 of test_runner'
+    published: '2015-02-05T22:20:19+00:00'
+    id: 'urn:uuid:2da4cbbd-61c4-5719-87d4-00627d460392'
+    link: 'https://pub.dartlang.org/packages/test_runner'
+    author:
+        - 'Nicolas Garnier'
