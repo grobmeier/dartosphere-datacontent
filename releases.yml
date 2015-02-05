@@ -11513,3 +11513,12 @@
     link: 'https://pub.dartlang.org/packages/googleapis'
     author:
         - 'Dart Team'
+-
+    package_name: googleapis_auth
+    package_version: v0.2.3
+    title: 'v0.2.3 of googleapis_auth'
+    published: '2015-02-05T12:50:22+00:00'
+    id: 'urn:uuid:3985d2cb-61be-5bad-8808-66784b92f6d6'
+    link: 'https://pub.dartlang.org/packages/googleapis_auth'
+    author:
+        - 'Dart Team'
