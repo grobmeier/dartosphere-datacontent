@@ -11694,3 +11694,12 @@
     link: 'https://pub.dartlang.org/packages/pushstate_anchor_dart'
     author:
         - pjv
+-
+    package_name: pushstate_anchor
+    package_version: v0.1.0
+    title: 'v0.1.0 of pushstate_anchor'
+    published: '2015-02-05T23:45:19+00:00'
+    id: 'urn:uuid:e1f702ab-54d2-562b-a779-c2f5f3a562b6'
+    link: 'https://pub.dartlang.org/packages/pushstate_anchor'
+    author:
+        - pjv
