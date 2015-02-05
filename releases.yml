@@ -11586,3 +11586,12 @@
     link: 'https://pub.dartlang.org/packages/ccompile'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: inflection
+    package_version: v0.3.1
+    title: 'v0.3.1 of inflection'
+    published: '2015-02-05T18:56:17+00:00'
+    id: 'urn:uuid:99441d5e-2e8c-5011-8c75-359848d7524e'
+    link: 'https://pub.dartlang.org/packages/inflection'
+    author:
+        - 'George Moschovitis'
