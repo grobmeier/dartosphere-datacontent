@@ -11631,3 +11631,12 @@
     link: 'https://pub.dartlang.org/packages/ccompilers'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: ccompile
+    package_version: v0.2.7
+    title: 'v0.2.7 of ccompile'
+    published: '2015-02-05T20:25:21+00:00'
+    id: 'urn:uuid:ef44771c-86f9-57fe-b21b-5426f32b6d80'
+    link: 'https://pub.dartlang.org/packages/ccompile'
+    author:
+        - 'Andrew Mezoni'
