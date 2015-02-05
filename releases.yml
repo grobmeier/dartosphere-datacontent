@@ -11541,3 +11541,12 @@
     author:
         - 'David Peek'
         - 'Tom Yeh'
+-
+    package_name: prompt
+    package_version: v0.1.5
+    title: 'v0.1.5 of prompt'
+    published: '2015-02-05T14:25:23+00:00'
+    id: 'urn:uuid:7b4eca1b-a1cf-5da0-94d6-f4e3813f5581'
+    link: 'https://pub.dartlang.org/packages/prompt'
+    author:
+        - 'Sean Eagan'
