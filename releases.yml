@@ -11640,3 +11640,21 @@
     link: 'https://pub.dartlang.org/packages/ccompile'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: ccompile
+    package_version: v0.2.8
+    title: 'v0.2.8 of ccompile'
+    published: '2015-02-05T20:50:19+00:00'
+    id: 'urn:uuid:116bc666-7b04-545f-97a0-13fe93803d24'
+    link: 'https://pub.dartlang.org/packages/ccompile'
+    author:
+        - 'Andrew Mezoni'
+-
+    package_name: angular_material
+    package_version: v0.1.0
+    title: 'v0.1.0 of angular_material'
+    published: '2015-02-05T20:50:19+00:00'
+    id: 'urn:uuid:944a9e52-6ed6-547d-966a-e5272294c992'
+    link: 'https://pub.dartlang.org/packages/angular_material'
+    author:
+        - 'Sergey Akopkokhyants'
