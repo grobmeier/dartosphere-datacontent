@@ -11604,3 +11604,12 @@
     link: 'https://pub.dartlang.org/packages/scroll'
     author:
         - 'Jan Pukovsky'
+-
+    package_name: inflection
+    package_version: v0.3.2
+    title: 'v0.3.2 of inflection'
+    published: '2015-02-05T20:00:32+00:00'
+    id: 'urn:uuid:04c8149b-610c-56c2-9207-cf765c18549b'
+    link: 'https://pub.dartlang.org/packages/inflection'
+    author:
+        - 'George Moschovitis'
