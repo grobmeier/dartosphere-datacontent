@@ -11739,3 +11739,21 @@
     link: 'https://pub.dartlang.org/packages/app_router'
     author:
         - pjv
+-
+    package_name: app_router_test
+    package_version: v0.1.0
+    title: 'v0.1.0 of app_router_test'
+    published: '2015-02-06T00:25:15+00:00'
+    id: 'urn:uuid:7343b23b-e2e5-5b22-8d18-73fd3cf05b42'
+    link: 'https://pub.dartlang.org/packages/app_router_test'
+    author:
+        - pjv
+-
+    package_name: gcj_parser
+    package_version: v0.1.0
+    title: 'v0.1.0 of gcj_parser'
+    published: '2015-02-06T00:25:15+00:00'
+    id: 'urn:uuid:efee501b-ca08-5e0f-9f8e-4439cb0f676f'
+    link: 'https://pub.dartlang.org/packages/gcj_parser'
+    author:
+        - 'Fatih Pense'
