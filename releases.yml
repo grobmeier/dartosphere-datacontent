@@ -11784,3 +11784,28 @@
     link: 'https://pub.dartlang.org/packages/unittest'
     author:
         - 'Dart Team'
+-
+    package_name: angular2
+    package_version: v2.0.0-alpha.1
+    title: 'v2.0.0-alpha.1 of angular2'
+    published: '2015-02-06T06:40:17+00:00'
+    id: 'urn:uuid:57a00b83-f7ca-50ee-87bb-14b93f794f7f'
+    link: 'https://pub.dartlang.org/packages/angular2'
+    author:
+        - 'Victor Savkin'
+        - 'Tobias Bosch'
+        - 'Victor Berchet'
+        - 'Misko Hevery'
+        - 'Rado Kirov'
+        - 'Vojta Jina'
+        - 'Yegor Jbanov'
+        - 'Chirayu Krishnappa'
+        - 'Patrick Stapleton'
+        - 'Marc Laval'
+        - 'Pete Bacon Darwin'
+        - 'Kevin Moore'
+        - 'Jeff Cross'
+        - 'Ciro Nunes'
+        - 'Alex Eagle'
+        - 'Pawel Kozlowski'
+        - 'Tommy Odom'
