@@ -11818,3 +11818,12 @@
     link: 'https://pub.dartlang.org/packages/binary_declarations'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_declarations
+    package_version: v0.0.31
+    title: 'v0.0.31 of binary_declarations'
+    published: '2015-02-06T13:25:19+00:00'
+    id: 'urn:uuid:0e1179dc-c4e7-5224-90a1-46b61684f1fc'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni'
