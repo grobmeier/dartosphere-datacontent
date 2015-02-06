@@ -11775,3 +11775,12 @@
     link: 'https://pub.dartlang.org/packages/app_router_test'
     author:
         - pjv
+-
+    package_name: unittest
+    package_version: v0.11.5+2
+    title: 'v0.11.5+2 of unittest'
+    published: '2015-02-06T01:10:17+00:00'
+    id: 'urn:uuid:5aaa74ac-7aaf-54c4-984a-634b32740101'
+    link: 'https://pub.dartlang.org/packages/unittest'
+    author:
+        - 'Dart Team'
