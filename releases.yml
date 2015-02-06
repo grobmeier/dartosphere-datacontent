@@ -11757,3 +11757,12 @@
     link: 'https://pub.dartlang.org/packages/gcj_parser'
     author:
         - 'Fatih Pense'
+-
+    package_name: json_rpc_2
+    package_version: v1.1.1
+    title: 'v1.1.1 of json_rpc_2'
+    published: '2015-02-06T00:30:20+00:00'
+    id: 'urn:uuid:6f280bbc-f64a-51f4-8d55-47c86f66c799'
+    link: 'https://pub.dartlang.org/packages/json_rpc_2'
+    author:
+        - 'Dart Team'
