@@ -11766,3 +11766,12 @@
     link: 'https://pub.dartlang.org/packages/json_rpc_2'
     author:
         - 'Dart Team'
+-
+    package_name: app_router_test
+    package_version: v0.1.0+2
+    title: 'v0.1.0+2 of app_router_test'
+    published: '2015-02-06T00:45:18+00:00'
+    id: 'urn:uuid:eee0f331-aa50-5ecd-97c7-a77ade2ce887'
+    link: 'https://pub.dartlang.org/packages/app_router_test'
+    author:
+        - pjv
