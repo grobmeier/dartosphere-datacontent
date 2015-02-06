@@ -11837,3 +11837,12 @@
     author:
         - 'David Peek'
         - 'Tom Yeh'
+-
+    package_name: code_transformers
+    package_version: v0.2.5
+    title: 'v0.2.5 of code_transformers'
+    published: '2015-02-06T18:35:21+00:00'
+    id: 'urn:uuid:65847522-6dc8-5bfa-a44f-217e659adc5f'
+    link: 'https://pub.dartlang.org/packages/code_transformers'
+    author:
+        - 'Dart Team'
