@@ -11918,3 +11918,12 @@
     link: 'https://pub.dartlang.org/packages/angular_material'
     author:
         - 'Sergey Akopkokhyants'
+-
+    package_name: binary_types
+    package_version: v0.0.19
+    title: 'v0.0.19 of binary_types'
+    published: '2015-02-07T15:15:16+00:00'
+    id: 'urn:uuid:211f2990-81f1-5b8e-a11d-5cb043671fe9'
+    link: 'https://pub.dartlang.org/packages/binary_types'
+    author:
+        - 'Andrew Mezoni'
