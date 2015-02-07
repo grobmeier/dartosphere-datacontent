@@ -11900,3 +11900,12 @@
     link: 'https://pub.dartlang.org/packages/angular_material'
     author:
         - 'Sergey Akopkokhyants'
+-
+    package_name: angular_material
+    package_version: v0.4.0
+    title: 'v0.4.0 of angular_material'
+    published: '2015-02-07T10:00:20+00:00'
+    id: 'urn:uuid:b90276bd-af10-5f0b-ad89-e03fe86c6a95'
+    link: 'https://pub.dartlang.org/packages/angular_material'
+    author:
+        - 'Sergey Akopkokhyants'
