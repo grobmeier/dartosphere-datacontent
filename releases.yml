@@ -11855,3 +11855,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_auth'
     author:
         - 'Anders Holmgren'
+-
+    package_name: dart_to_js_script_rewriter
+    package_version: v0.1.0+1
+    title: 'v0.1.0+1 of dart_to_js_script_rewriter'
+    published: '2015-02-07T05:00:22+00:00'
+    id: 'urn:uuid:f5cde7b0-5024-522e-b645-5457b3906c10'
+    link: 'https://pub.dartlang.org/packages/dart_to_js_script_rewriter'
+    author:
+        - 'Seth Ladd'
