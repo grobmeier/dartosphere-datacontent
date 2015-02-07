@@ -11864,3 +11864,12 @@
     link: 'https://pub.dartlang.org/packages/dart_to_js_script_rewriter'
     author:
         - 'Seth Ladd'
+-
+    package_name: shelf_auth
+    package_version: v0.2.3
+    title: 'v0.2.3 of shelf_auth'
+    published: '2015-02-07T06:05:21+00:00'
+    id: 'urn:uuid:f1ab4375-a2cc-54e6-a944-f1b36048b0be'
+    link: 'https://pub.dartlang.org/packages/shelf_auth'
+    author:
+        - 'Anders Holmgren'
