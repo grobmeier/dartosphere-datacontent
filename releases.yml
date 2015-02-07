@@ -11981,3 +11981,12 @@
     link: 'https://pub.dartlang.org/packages/mojito'
     author:
         - 'Anders Holmgren'
+-
+    package_name: app_router_test
+    package_version: v0.1.2
+    title: 'v0.1.2 of app_router_test'
+    published: '2015-02-07T21:10:16+00:00'
+    id: 'urn:uuid:601270f3-40d1-5334-8ed2-7c6d4d8db428'
+    link: 'https://pub.dartlang.org/packages/app_router_test'
+    author:
+        - pjv
