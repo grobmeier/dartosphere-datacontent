@@ -11846,3 +11846,12 @@
     link: 'https://pub.dartlang.org/packages/code_transformers'
     author:
         - 'Dart Team'
+-
+    package_name: shelf_auth
+    package_version: v0.2.2+1
+    title: 'v0.2.2+1 of shelf_auth'
+    published: '2015-02-07T00:25:14+00:00'
+    id: 'urn:uuid:6f1181bd-2ccb-584e-b273-6c00bf334657'
+    link: 'https://pub.dartlang.org/packages/shelf_auth'
+    author:
+        - 'Anders Holmgren'
