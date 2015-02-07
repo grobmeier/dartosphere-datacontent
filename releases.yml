@@ -11873,3 +11873,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_auth'
     author:
         - 'Anders Holmgren'
+-
+    package_name: shelf_auth
+    package_version: v0.2.3+1
+    title: 'v0.2.3+1 of shelf_auth'
+    published: '2015-02-07T06:50:15+00:00'
+    id: 'urn:uuid:cbb0a7f5-71a8-5c25-b97e-ada37f0f6bbf'
+    link: 'https://pub.dartlang.org/packages/shelf_auth'
+    author:
+        - 'Anders Holmgren'
