@@ -11891,3 +11891,12 @@
     link: 'https://pub.dartlang.org/packages/targets'
     author:
         - 'Jack Thakar'
+-
+    package_name: angular_material
+    package_version: v0.2.0
+    title: 'v0.2.0 of angular_material'
+    published: '2015-02-07T08:55:13+00:00'
+    id: 'urn:uuid:30b60e88-adee-529b-8ff4-64935ec844c0'
+    link: 'https://pub.dartlang.org/packages/angular_material'
+    author:
+        - 'Sergey Akopkokhyants'
