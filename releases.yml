@@ -11954,3 +11954,21 @@
     link: 'https://pub.dartlang.org/packages/binary_interop'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: app_router_test
+    package_version: v0.1.1
+    title: 'v0.1.1 of app_router_test'
+    published: '2015-02-07T20:05:15+00:00'
+    id: 'urn:uuid:ec7f5660-11f3-5517-9056-3a57467e7e74'
+    link: 'https://pub.dartlang.org/packages/app_router_test'
+    author:
+        - pjv
+-
+    package_name: app_router
+    package_version: v0.1.1
+    title: 'v0.1.1 of app_router'
+    published: '2015-02-07T20:05:15+00:00'
+    id: 'urn:uuid:945a278d-97b9-5a01-bbf4-fb2a8364d73d'
+    link: 'https://pub.dartlang.org/packages/app_router'
+    author:
+        - pjv
