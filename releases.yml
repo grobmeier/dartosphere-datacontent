@@ -11945,3 +11945,12 @@
     link: 'https://pub.dartlang.org/packages/binary_types'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_interop
+    package_version: v0.0.16
+    title: 'v0.0.16 of binary_interop'
+    published: '2015-02-07T17:45:19+00:00'
+    id: 'urn:uuid:a1611dcd-05ba-5aa6-a6c8-bcf0c5450f65'
+    link: 'https://pub.dartlang.org/packages/binary_interop'
+    author:
+        - 'Andrew Mezoni'
