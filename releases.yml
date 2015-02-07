@@ -11972,3 +11972,12 @@
     link: 'https://pub.dartlang.org/packages/app_router'
     author:
         - pjv
+-
+    package_name: mojito
+    package_version: v0.1.0+1
+    title: 'v0.1.0+1 of mojito'
+    published: '2015-02-07T20:40:17+00:00'
+    id: 'urn:uuid:4340aff1-32d0-5a1b-8ba2-32325542a2fc'
+    link: 'https://pub.dartlang.org/packages/mojito'
+    author:
+        - 'Anders Holmgren'
