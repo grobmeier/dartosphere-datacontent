@@ -12053,3 +12053,12 @@
     link: 'https://pub.dartlang.org/packages/do2server'
     author:
         - 'Mikhail Stolyarov'
+-
+    package_name: jsonrpc2
+    package_version: v0.9.5
+    title: 'v0.9.5 of jsonrpc2'
+    published: '2015-02-08T18:50:16+00:00'
+    id: 'urn:uuid:f44e5b3f-96db-5425-962e-5255efb95ae5'
+    link: 'https://pub.dartlang.org/packages/jsonrpc2'
+    author:
+        - 'Jim Washington'
