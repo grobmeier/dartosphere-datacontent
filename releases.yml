@@ -12017,3 +12017,12 @@
     link: 'https://pub.dartlang.org/packages/wsk_material'
     author:
         - 'Mike Mitterer'
+-
+    package_name: bigcargo
+    package_version: v0.2.4
+    title: 'v0.2.4 of bigcargo'
+    published: '2015-02-08T16:30:20+00:00'
+    id: 'urn:uuid:a7cb7dc6-41d7-51f4-b365-0b1d8d8ce37b'
+    link: 'https://pub.dartlang.org/packages/bigcargo'
+    author:
+        - 'Joris Hermans'
