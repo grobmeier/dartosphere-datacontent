@@ -12044,3 +12044,12 @@
     link: 'https://pub.dartlang.org/packages/wsk_angular'
     author:
         - 'Mike Mitterer'
+-
+    package_name: do2server
+    package_version: v0.0.1
+    title: 'v0.0.1 of do2server'
+    published: '2015-02-08T17:05:14+00:00'
+    id: 'urn:uuid:687632a2-97b9-5748-bec7-cd6e45c4c300'
+    link: 'https://pub.dartlang.org/packages/do2server'
+    author:
+        - 'Mikhail Stolyarov'
