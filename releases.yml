@@ -12081,3 +12081,12 @@
     link: 'https://pub.dartlang.org/packages/wsk_angular'
     author:
         - 'Mike Mitterer'
+-
+    package_name: binary_types
+    package_version: v0.0.21
+    title: 'v0.0.21 of binary_types'
+    published: '2015-02-09T07:15:17+00:00'
+    id: 'urn:uuid:504446a8-f9f0-530c-a5ff-eca7ac2d9791'
+    link: 'https://pub.dartlang.org/packages/binary_types'
+    author:
+        - 'Andrew Mezoni'
