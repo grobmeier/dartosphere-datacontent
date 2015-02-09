@@ -12225,3 +12225,12 @@
     link: 'https://pub.dartlang.org/packages/peg'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: modular
+    package_version: v0.0.32
+    title: 'v0.0.32 of modular'
+    published: '2015-02-09T23:35:17+00:00'
+    id: 'urn:uuid:bbf589ce-c494-542e-967d-cec0f54d1123'
+    link: 'https://pub.dartlang.org/packages/modular'
+    author:
+        - 'Will Squire'
