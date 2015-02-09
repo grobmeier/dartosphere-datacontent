@@ -12144,3 +12144,12 @@
     link: 'https://pub.dartlang.org/packages/binary_interop'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_declarations
+    package_version: v0.0.33
+    title: 'v0.0.33 of binary_declarations'
+    published: '2015-02-09T10:40:21+00:00'
+    id: 'urn:uuid:c821da89-a283-5975-b391-d3e35e08e1fc'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni'
