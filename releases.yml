@@ -12216,3 +12216,12 @@
     link: 'https://pub.dartlang.org/packages/prompt'
     author:
         - 'Sean Eagan'
+-
+    package_name: peg
+    package_version: v0.0.50
+    title: 'v0.0.50 of peg'
+    published: '2015-02-09T19:25:20+00:00'
+    id: 'urn:uuid:8987d94d-7114-56c6-8420-78ffb8c58fbc'
+    link: 'https://pub.dartlang.org/packages/peg'
+    author:
+        - 'Andrew Mezoni'
