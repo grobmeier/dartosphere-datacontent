@@ -12207,3 +12207,12 @@
     link: 'https://pub.dartlang.org/packages/prompt'
     author:
         - 'Sean Eagan'
+-
+    package_name: prompt
+    package_version: v0.1.7
+    title: 'v0.1.7 of prompt'
+    published: '2015-02-09T18:15:25+00:00'
+    id: 'urn:uuid:f16a5caf-bfd5-5e3b-bff1-3afa9b1a9f6c'
+    link: 'https://pub.dartlang.org/packages/prompt'
+    author:
+        - 'Sean Eagan'
