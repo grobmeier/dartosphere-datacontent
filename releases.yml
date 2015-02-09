@@ -12153,3 +12153,12 @@
     link: 'https://pub.dartlang.org/packages/binary_declarations'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_generator
+    package_version: v0.0.6
+    title: 'v0.0.6 of binary_generator'
+    published: '2015-02-09T11:40:22+00:00'
+    id: 'urn:uuid:64e06143-33e3-5c89-a505-ce94ce3da5fe'
+    link: 'https://pub.dartlang.org/packages/binary_generator'
+    author:
+        - 'Andrew Mezoni'
