@@ -12090,3 +12090,21 @@
     link: 'https://pub.dartlang.org/packages/binary_types'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: angular_material
+    package_version: v0.6.0
+    title: 'v0.6.0 of angular_material'
+    published: '2015-02-09T07:45:18+00:00'
+    id: 'urn:uuid:789f8fe7-932c-5ef6-91e2-b60c6eccfdcf'
+    link: 'https://pub.dartlang.org/packages/angular_material'
+    author:
+        - 'Sergey Akopkokhyants'
+-
+    package_name: binary_generator
+    package_version: v0.0.4
+    title: 'v0.0.4 of binary_generator'
+    published: '2015-02-09T07:45:18+00:00'
+    id: 'urn:uuid:52b8ff9b-bebf-5303-8e8e-4dce4db790fa'
+    link: 'https://pub.dartlang.org/packages/binary_generator'
+    author:
+        - 'Andrew Mezoni'
