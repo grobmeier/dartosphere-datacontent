@@ -12135,3 +12135,12 @@
     link: 'https://pub.dartlang.org/packages/binary_types'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_interop
+    package_version: v0.0.17
+    title: 'v0.0.17 of binary_interop'
+    published: '2015-02-09T10:15:23+00:00'
+    id: 'urn:uuid:5845f07d-4ad8-5ecd-9146-ad7f7576f715'
+    link: 'https://pub.dartlang.org/packages/binary_interop'
+    author:
+        - 'Andrew Mezoni'
