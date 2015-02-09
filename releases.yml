@@ -12180,3 +12180,12 @@
     link: 'https://pub.dartlang.org/packages/mscv_locator'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: msvc_locator
+    package_version: v0.0.2
+    title: 'v0.0.2 of msvc_locator'
+    published: '2015-02-09T16:45:29+00:00'
+    id: 'urn:uuid:ca9ae89f-b8ad-54e3-8515-569a504e3ba8'
+    link: 'https://pub.dartlang.org/packages/msvc_locator'
+    author:
+        - 'Andrew Mezoni'
