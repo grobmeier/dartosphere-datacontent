@@ -12198,3 +12198,12 @@
     link: 'https://pub.dartlang.org/packages/msvc_locator'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: prompt
+    package_version: v0.1.6
+    title: 'v0.1.6 of prompt'
+    published: '2015-02-09T17:45:23+00:00'
+    id: 'urn:uuid:81e1d61f-d9f5-5b93-b82c-bbbbe093998c'
+    link: 'https://pub.dartlang.org/packages/prompt'
+    author:
+        - 'Sean Eagan'
