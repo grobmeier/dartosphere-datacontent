@@ -12162,3 +12162,12 @@
     link: 'https://pub.dartlang.org/packages/binary_generator'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: wsk_angular
+    package_version: v0.1.6
+    title: 'v0.1.6 of wsk_angular'
+    published: '2015-02-09T13:50:23+00:00'
+    id: 'urn:uuid:b3bf9aa1-b387-532e-97b6-f00a45973a45'
+    link: 'https://pub.dartlang.org/packages/wsk_angular'
+    author:
+        - 'Mike Mitterer'
