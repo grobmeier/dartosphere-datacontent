@@ -12108,3 +12108,12 @@
     link: 'https://pub.dartlang.org/packages/binary_generator'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_generator
+    package_version: v0.0.5
+    title: 'v0.0.5 of binary_generator'
+    published: '2015-02-09T08:05:15+00:00'
+    id: 'urn:uuid:2b5f2a94-5d37-5eda-87d8-52738348f7e3'
+    link: 'https://pub.dartlang.org/packages/binary_generator'
+    author:
+        - 'Andrew Mezoni'
