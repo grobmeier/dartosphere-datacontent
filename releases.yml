@@ -12117,3 +12117,12 @@
     link: 'https://pub.dartlang.org/packages/binary_generator'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_declarations
+    package_version: v0.0.32
+    title: 'v0.0.32 of binary_declarations'
+    published: '2015-02-09T09:45:23+00:00'
+    id: 'urn:uuid:61432614-1185-5f5c-b471-109b849828b8'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni'
