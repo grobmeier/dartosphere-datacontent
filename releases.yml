@@ -12324,3 +12324,12 @@
     link: 'https://pub.dartlang.org/packages/initialize'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: cli_util
+    package_version: v0.0.1+1
+    title: 'v0.0.1+1 of cli_util'
+    published: '2015-02-10T19:00:32+00:00'
+    id: 'urn:uuid:64f83d96-29b8-5b1a-bda8-7923dda65324'
+    link: 'https://pub.dartlang.org/packages/cli_util'
+    author:
+        - 'Dart Team'
