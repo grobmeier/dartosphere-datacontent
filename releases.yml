@@ -12279,3 +12279,12 @@
     link: 'https://pub.dartlang.org/packages/do2i18n'
     author:
         - 'Mikhail Stolyarov'
+-
+    package_name: wsk_angular
+    package_version: v0.1.14
+    title: 'v0.1.14 of wsk_angular'
+    published: '2015-02-10T14:00:34+00:00'
+    id: 'urn:uuid:ec480158-5f5b-5bba-b23d-66f8b1e6f32a'
+    link: 'https://pub.dartlang.org/packages/wsk_angular'
+    author:
+        - 'Mike Mitterer'
