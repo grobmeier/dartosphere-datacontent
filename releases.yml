@@ -12333,3 +12333,12 @@
     link: 'https://pub.dartlang.org/packages/cli_util'
     author:
         - 'Dart Team'
+-
+    package_name: binary_declarations
+    package_version: v0.0.36
+    title: 'v0.0.36 of binary_declarations'
+    published: '2015-02-10T19:10:26+00:00'
+    id: 'urn:uuid:737eb24e-8fe8-5dd8-a80b-ba5e8e95944c'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni'
