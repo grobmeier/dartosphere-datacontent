@@ -12234,3 +12234,12 @@
     link: 'https://pub.dartlang.org/packages/modular'
     author:
         - 'Will Squire'
+-
+    package_name: fixnum
+    package_version: v0.9.1+2
+    title: 'v0.9.1+2 of fixnum'
+    published: '2015-02-10T01:45:18+00:00'
+    id: 'urn:uuid:7ec0dd41-1212-54dc-82cb-97e9dd2bcdbc'
+    link: 'https://pub.dartlang.org/packages/fixnum'
+    author:
+        - 'Dart Team'
