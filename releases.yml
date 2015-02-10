@@ -12297,3 +12297,12 @@
     link: 'https://pub.dartlang.org/packages/wsk_angular'
     author:
         - 'Mike Mitterer'
+-
+    package_name: wsk_angular
+    package_version: v0.1.18
+    title: 'v0.1.18 of wsk_angular'
+    published: '2015-02-10T14:10:22+00:00'
+    id: 'urn:uuid:e1a911e8-392f-50cf-a293-d13c6e19ce5e'
+    link: 'https://pub.dartlang.org/packages/wsk_angular'
+    author:
+        - 'Mike Mitterer'
