@@ -12360,3 +12360,12 @@
     link: 'https://pub.dartlang.org/packages/barback'
     author:
         - 'Dart Team'
+-
+    package_name: phantomjs
+    package_version: v0.0.7
+    title: 'v0.0.7 of phantomjs'
+    published: '2015-02-10T22:10:26+00:00'
+    id: 'urn:uuid:1abee466-85ba-5bd2-9f80-bd0875d3fdee'
+    link: 'https://pub.dartlang.org/packages/phantomjs'
+    author:
+        - 'Ustimenko Sergey'
