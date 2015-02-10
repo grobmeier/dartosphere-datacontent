@@ -12342,3 +12342,12 @@
     link: 'https://pub.dartlang.org/packages/binary_declarations'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: usage
+    package_version: v1.0.0
+    title: 'v1.0.0 of usage'
+    published: '2015-02-10T19:40:27+00:00'
+    id: 'urn:uuid:83d22de0-e80a-50b5-b599-ede0c647dd22'
+    link: 'https://pub.dartlang.org/packages/usage'
+    author:
+        - 'Dart Team'
