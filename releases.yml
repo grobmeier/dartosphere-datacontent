@@ -12315,3 +12315,12 @@
     link: 'https://pub.dartlang.org/packages/do2log'
     author:
         - 'Mikhail Stolyarov'
+-
+    package_name: initialize
+    package_version: v0.4.0
+    title: 'v0.4.0 of initialize'
+    published: '2015-02-10T15:00:32+00:00'
+    id: 'urn:uuid:4b7d6bfa-449f-58a5-8b6b-a27b35a776c8'
+    link: 'https://pub.dartlang.org/packages/initialize'
+    author:
+        - 'Polymer.dart Authors'
