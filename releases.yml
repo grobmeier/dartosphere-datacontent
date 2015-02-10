@@ -12306,3 +12306,12 @@
     link: 'https://pub.dartlang.org/packages/wsk_angular'
     author:
         - 'Mike Mitterer'
+-
+    package_name: do2log
+    package_version: v0.0.1
+    title: 'v0.0.1 of do2log'
+    published: '2015-02-10T14:30:29+00:00'
+    id: 'urn:uuid:c910af6b-9827-539b-a6fc-493f80850135'
+    link: 'https://pub.dartlang.org/packages/do2log'
+    author:
+        - 'Mikhail Stolyarov'
