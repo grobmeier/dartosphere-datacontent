@@ -12252,3 +12252,12 @@
     link: 'https://pub.dartlang.org/packages/dart_worker'
     author:
         - 'Grant Hutchinson<h.g.utchinson@gmail.com>'
+-
+    package_name: binary_declarations
+    package_version: v0.0.34
+    title: 'v0.0.34 of binary_declarations'
+    published: '2015-02-10T07:35:20+00:00'
+    id: 'urn:uuid:49561075-3768-53af-8d50-1b30f0507fe1'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni'
