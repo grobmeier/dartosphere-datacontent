@@ -12243,3 +12243,12 @@
     link: 'https://pub.dartlang.org/packages/fixnum'
     author:
         - 'Dart Team'
+-
+    package_name: dart_worker
+    package_version: v0.0.1
+    title: 'v0.0.1 of dart_worker'
+    published: '2015-02-10T02:25:16+00:00'
+    id: 'urn:uuid:25ab01db-a28b-5ff6-9d62-a245799e6fc4'
+    link: 'https://pub.dartlang.org/packages/dart_worker'
+    author:
+        - 'Grant Hutchinson<h.g.utchinson@gmail.com>'
