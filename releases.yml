@@ -12351,3 +12351,12 @@
     link: 'https://pub.dartlang.org/packages/usage'
     author:
         - 'Dart Team'
+-
+    package_name: barback
+    package_version: v0.15.2+3
+    title: 'v0.15.2+3 of barback'
+    published: '2015-02-10T20:35:25+00:00'
+    id: 'urn:uuid:dfb5ebb9-622a-54fa-8dd6-acb793a8d7b5'
+    link: 'https://pub.dartlang.org/packages/barback'
+    author:
+        - 'Dart Team'
