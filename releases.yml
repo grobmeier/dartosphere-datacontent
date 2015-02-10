@@ -12270,3 +12270,12 @@
     link: 'https://pub.dartlang.org/packages/binary_declarations'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: do2i18n
+    package_version: v0.0.1
+    title: 'v0.0.1 of do2i18n'
+    published: '2015-02-10T13:55:21+00:00'
+    id: 'urn:uuid:6f35229e-60d3-5edf-89ee-802ac65c98ae'
+    link: 'https://pub.dartlang.org/packages/do2i18n'
+    author:
+        - 'Mikhail Stolyarov'
