@@ -12369,3 +12369,12 @@
     link: 'https://pub.dartlang.org/packages/phantomjs'
     author:
         - 'Ustimenko Sergey'
+-
+    package_name: matcher
+    package_version: v0.11.4+1
+    title: 'v0.11.4+1 of matcher'
+    published: '2015-02-10T22:35:21+00:00'
+    id: 'urn:uuid:ca45a71e-4a20-5bf7-9968-8df77eb68793'
+    link: 'https://pub.dartlang.org/packages/matcher'
+    author:
+        - 'Dart Team'
