@@ -12515,3 +12515,12 @@
     link: 'https://pub.dartlang.org/packages/wsk_material'
     author:
         - 'Mike Mitterer'
+-
+    package_name: wsk_angular
+    package_version: v0.1.23
+    title: 'v0.1.23 of wsk_angular'
+    published: '2015-02-11T22:55:18+00:00'
+    id: 'urn:uuid:d04a17b0-90a2-5dd5-9167-1203f5fed05a'
+    link: 'https://pub.dartlang.org/packages/wsk_angular'
+    author:
+        - 'Mike Mitterer'
