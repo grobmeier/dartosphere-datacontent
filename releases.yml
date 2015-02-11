@@ -12470,3 +12470,12 @@
     link: 'https://pub.dartlang.org/packages/args'
     author:
         - 'Dart Team'
+-
+    package_name: crossbow
+    package_version: v0.0.1
+    title: 'v0.0.1 of crossbow'
+    published: '2015-02-11T19:25:25+00:00'
+    id: 'urn:uuid:34b33a9c-3309-5b69-b025-0866e143a865'
+    link: 'https://pub.dartlang.org/packages/crossbow'
+    author:
+        - 'Stijn Van Bael'
