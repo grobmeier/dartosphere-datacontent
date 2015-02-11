@@ -12425,3 +12425,12 @@
     link: 'https://pub.dartlang.org/packages/otter_fuzzer'
     author:
         - 'Lex Berezhny'
+-
+    package_name: petitparser
+    package_version: v1.3.6
+    title: 'v1.3.6 of petitparser'
+    published: '2015-02-11T08:50:24+00:00'
+    id: 'urn:uuid:1f5e3461-c973-5130-8ad2-b9e80ab9aa8b'
+    link: 'https://pub.dartlang.org/packages/petitparser'
+    author:
+        - 'Lukas Renggli'
