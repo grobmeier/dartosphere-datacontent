@@ -12461,3 +12461,12 @@
     link: 'https://pub.dartlang.org/packages/yaml2toml'
     author:
         - 'Justin Andresen'
+-
+    package_name: args
+    package_version: v0.12.2+4
+    title: 'v0.12.2+4 of args'
+    published: '2015-02-11T18:50:27+00:00'
+    id: 'urn:uuid:3d7a5a4a-d431-55ab-8c19-25ff67ed1050'
+    link: 'https://pub.dartlang.org/packages/args'
+    author:
+        - 'Dart Team'
