@@ -12479,3 +12479,12 @@
     link: 'https://pub.dartlang.org/packages/crossbow'
     author:
         - 'Stijn Van Bael'
+-
+    package_name: flare
+    package_version: v0.5.0
+    title: 'v0.5.0 of flare'
+    published: '2015-02-11T20:10:24+00:00'
+    id: 'urn:uuid:0892fd58-fe63-5cad-bfd0-d8917a9d2c46'
+    link: 'https://pub.dartlang.org/packages/flare'
+    author:
+        - 'George Moschovitis'
