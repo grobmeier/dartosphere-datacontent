@@ -12506,3 +12506,12 @@
     link: 'https://pub.dartlang.org/packages/den'
     author:
         - 'Sean Eagan'
+-
+    package_name: wsk_material
+    package_version: v0.2.12
+    title: 'v0.2.12 of wsk_material'
+    published: '2015-02-11T22:50:23+00:00'
+    id: 'urn:uuid:eb89d82f-000d-5988-aa61-c41e1483544b'
+    link: 'https://pub.dartlang.org/packages/wsk_material'
+    author:
+        - 'Mike Mitterer'
