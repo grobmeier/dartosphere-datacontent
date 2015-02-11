@@ -12524,3 +12524,12 @@
     link: 'https://pub.dartlang.org/packages/wsk_angular'
     author:
         - 'Mike Mitterer'
+-
+    package_name: polymer
+    package_version: v0.15.5+1
+    title: 'v0.15.5+1 of polymer'
+    published: '2015-02-11T23:15:21+00:00'
+    id: 'urn:uuid:7a03e57e-149d-5b56-b88e-2da71c6858b7'
+    link: 'https://pub.dartlang.org/packages/polymer'
+    author:
+        - 'Polymer.dart Authors'
