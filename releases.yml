@@ -12497,3 +12497,12 @@
     link: 'https://pub.dartlang.org/packages/box'
     author:
         - 'Stijn Van Bael'
+-
+    package_name: den
+    package_version: v0.1.4
+    title: 'v0.1.4 of den'
+    published: '2015-02-11T21:45:22+00:00'
+    id: 'urn:uuid:8540f5da-6b48-5d3c-b37c-5d2bd94468ae'
+    link: 'https://pub.dartlang.org/packages/den'
+    author:
+        - 'Sean Eagan'
