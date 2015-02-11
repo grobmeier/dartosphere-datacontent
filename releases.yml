@@ -12452,3 +12452,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_ajax_form'
     author:
         - 'Thomas Stephenson'
+-
+    package_name: yaml2toml
+    package_version: v0.1.1
+    title: 'v0.1.1 of yaml2toml'
+    published: '2015-02-11T15:30:57+00:00'
+    id: 'urn:uuid:2610b639-c092-5acc-8b11-5291c4d2ccbb'
+    link: 'https://pub.dartlang.org/packages/yaml2toml'
+    author:
+        - 'Justin Andresen'
