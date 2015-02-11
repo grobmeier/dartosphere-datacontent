@@ -12396,3 +12396,14 @@
     link: 'https://pub.dartlang.org/packages/stack_trace'
     author:
         - 'Dart Team'
+-
+    package_name: irc
+    package_version: v2.0.6
+    title: 'v2.0.6 of irc'
+    published: '2015-02-11T02:00:24+00:00'
+    id: 'urn:uuid:47cbf85f-7a10-5c72-be3a-d24714264dc9'
+    link: 'https://pub.dartlang.org/packages/irc'
+    author:
+        - 'Kenneth Endfinger'
+        - samrg472
+        - TheMike
