@@ -12378,3 +12378,12 @@
     link: 'https://pub.dartlang.org/packages/matcher'
     author:
         - 'Dart Team'
+-
+    package_name: barback
+    package_version: v0.15.2+4
+    title: 'v0.15.2+4 of barback'
+    published: '2015-02-11T00:20:22+00:00'
+    id: 'urn:uuid:3f778660-95f6-58c0-8eaf-fe5a9293e99d'
+    link: 'https://pub.dartlang.org/packages/barback'
+    author:
+        - 'Dart Team'
