@@ -12434,3 +12434,12 @@
     link: 'https://pub.dartlang.org/packages/petitparser'
     author:
         - 'Lukas Renggli'
+-
+    package_name: video_creator
+    package_version: v0.0.1
+    title: 'v0.0.1 of video_creator'
+    published: '2015-02-11T09:10:27+00:00'
+    id: 'urn:uuid:07f72249-61f7-5c5e-b64e-efa629587f1b'
+    link: 'https://pub.dartlang.org/packages/video_creator'
+    author:
+        - 'James Hurford'
