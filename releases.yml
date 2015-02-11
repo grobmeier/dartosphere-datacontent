@@ -12416,3 +12416,12 @@
     link: 'https://pub.dartlang.org/packages/mersenne'
     author:
         - 'Lex Berezhny'
+-
+    package_name: otter_fuzzer
+    package_version: v1.0.0
+    title: 'v1.0.0 of otter_fuzzer'
+    published: '2015-02-11T06:55:17+00:00'
+    id: 'urn:uuid:6a5e7a3c-c62d-52c5-abd0-9e024493b6e4'
+    link: 'https://pub.dartlang.org/packages/otter_fuzzer'
+    author:
+        - 'Lex Berezhny'
