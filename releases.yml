@@ -12407,3 +12407,12 @@
         - 'Kenneth Endfinger'
         - samrg472
         - TheMike
+-
+    package_name: mersenne
+    package_version: v1.0.0
+    title: 'v1.0.0 of mersenne'
+    published: '2015-02-11T06:35:16+00:00'
+    id: 'urn:uuid:72499ec3-b313-519d-93d8-b29a001fdd3d'
+    link: 'https://pub.dartlang.org/packages/mersenne'
+    author:
+        - 'Lex Berezhny'
