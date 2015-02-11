@@ -12387,3 +12387,12 @@
     link: 'https://pub.dartlang.org/packages/barback'
     author:
         - 'Dart Team'
+-
+    package_name: stack_trace
+    package_version: v1.1.2
+    title: 'v1.1.2 of stack_trace'
+    published: '2015-02-11T00:25:17+00:00'
+    id: 'urn:uuid:9596b346-2401-5ecc-af4f-11539faf0393'
+    link: 'https://pub.dartlang.org/packages/stack_trace'
+    author:
+        - 'Dart Team'
