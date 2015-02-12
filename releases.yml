@@ -12623,3 +12623,12 @@
     link: 'https://pub.dartlang.org/packages/wsk_angular'
     author:
         - 'Mike Mitterer'
+-
+    package_name: den
+    package_version: v0.1.5
+    title: 'v0.1.5 of den'
+    published: '2015-02-12T17:54:43+00:00'
+    id: 'urn:uuid:df0cc31b-f0aa-555e-ad1c-af1ceff87b15'
+    link: 'https://pub.dartlang.org/packages/den'
+    author:
+        - 'Sean Eagan'
