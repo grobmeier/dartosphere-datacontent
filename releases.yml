@@ -12551,3 +12551,12 @@
     link: 'https://pub.dartlang.org/packages/mustache'
     author:
         - 'Greg Lowe'
+-
+    package_name: wsk_angular
+    package_version: v0.1.28
+    title: 'v0.1.28 of wsk_angular'
+    published: '2015-02-12T12:40:25+00:00'
+    id: 'urn:uuid:0ec249fa-281e-57aa-b77c-465c8d507bc7'
+    link: 'https://pub.dartlang.org/packages/wsk_angular'
+    author:
+        - 'Mike Mitterer'
