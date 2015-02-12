@@ -12668,3 +12668,12 @@
     link: 'https://pub.dartlang.org/packages/stack_trace'
     author:
         - 'Dart Team'
+-
+    package_name: unittest
+    package_version: v0.11.5+3
+    title: 'v0.11.5+3 of unittest'
+    published: '2015-02-12T21:00:32+00:00'
+    id: 'urn:uuid:53130e68-67c7-5c38-9d32-4d9550e8ac20'
+    link: 'https://pub.dartlang.org/packages/unittest'
+    author:
+        - 'Dart Team'
