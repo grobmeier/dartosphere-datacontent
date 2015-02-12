@@ -12641,3 +12641,12 @@
     link: 'https://pub.dartlang.org/packages/source_gen'
     author:
         - 'Kevin Moore'
+-
+    package_name: inflection
+    package_version: v0.4.0
+    title: 'v0.4.0 of inflection'
+    published: '2015-02-12T19:04:45+00:00'
+    id: 'urn:uuid:8d3341d5-fde7-59e8-8b0d-a18503aa4ecd'
+    link: 'https://pub.dartlang.org/packages/inflection'
+    author:
+        - 'George Moschovitis'
