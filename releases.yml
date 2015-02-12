@@ -12587,3 +12587,12 @@
     link: 'https://pub.dartlang.org/packages/auto_mapper'
     author:
         - 'Liquid Thinking Ltd'
+-
+    package_name: wsk_angular
+    package_version: v0.1.32
+    title: 'v0.1.32 of wsk_angular'
+    published: '2015-02-12T15:10:32+00:00'
+    id: 'urn:uuid:545b4e9a-bf50-5c5f-95da-fd265d7ca879'
+    link: 'https://pub.dartlang.org/packages/wsk_angular'
+    author:
+        - 'Mike Mitterer'
