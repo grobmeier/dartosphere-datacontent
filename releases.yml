@@ -12542,3 +12542,12 @@
     link: 'https://pub.dartlang.org/packages/targets'
     author:
         - 'Jack Thakar'
+-
+    package_name: mustache
+    package_version: v0.2.0
+    title: 'v0.2.0 of mustache'
+    published: '2015-02-12T09:15:28+00:00'
+    id: 'urn:uuid:d7f2e98c-6b64-5336-8841-c5a0f4e855af'
+    link: 'https://pub.dartlang.org/packages/mustache'
+    author:
+        - 'Greg Lowe'
