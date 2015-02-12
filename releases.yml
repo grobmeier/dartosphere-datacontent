@@ -12533,3 +12533,12 @@
     link: 'https://pub.dartlang.org/packages/polymer'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: targets
+    package_version: v0.5.2
+    title: 'v0.5.2 of targets'
+    published: '2015-02-12T07:10:26+00:00'
+    id: 'urn:uuid:366500a8-39a2-5e62-8838-a1e1f24eceb0'
+    link: 'https://pub.dartlang.org/packages/targets'
+    author:
+        - 'Jack Thakar'
