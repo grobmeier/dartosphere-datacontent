@@ -12677,3 +12677,12 @@
     link: 'https://pub.dartlang.org/packages/unittest'
     author:
         - 'Dart Team'
+-
+    package_name: toml
+    package_version: v0.2.0
+    title: 'v0.2.0 of toml'
+    published: '2015-02-12T21:55:26+00:00'
+    id: 'urn:uuid:98ac9050-7529-5a16-9cd1-3bf13637000f'
+    link: 'https://pub.dartlang.org/packages/toml'
+    author:
+        - 'Justin Andresen'
