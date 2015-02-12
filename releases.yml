@@ -12632,3 +12632,12 @@
     link: 'https://pub.dartlang.org/packages/den'
     author:
         - 'Sean Eagan'
+-
+    package_name: source_gen
+    package_version: v0.0.1
+    title: 'v0.0.1 of source_gen'
+    published: '2015-02-12T18:39:41+00:00'
+    id: 'urn:uuid:f48bf12b-cba5-517f-8e92-e1f90900081f'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Kevin Moore'
