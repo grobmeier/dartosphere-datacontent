@@ -12713,3 +12713,12 @@
     link: 'https://pub.dartlang.org/packages/magus'
     author:
         - 'Daniel Davidson'
+-
+    package_name: ebisu_cpp
+    package_version: v0.0.1
+    title: 'v0.0.1 of ebisu_cpp'
+    published: '2015-02-12T23:35:17+00:00'
+    id: 'urn:uuid:01153fdf-5a4c-5187-a64e-f7c3a4df5f50'
+    link: 'https://pub.dartlang.org/packages/ebisu_cpp'
+    author:
+        - 'Daniel Davidson'
