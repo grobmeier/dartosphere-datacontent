@@ -12560,3 +12560,12 @@
     link: 'https://pub.dartlang.org/packages/wsk_angular'
     author:
         - 'Mike Mitterer'
+-
+    package_name: mime
+    package_version: v0.9.2
+    title: 'v0.9.2 of mime'
+    published: '2015-02-12T13:55:20+00:00'
+    id: 'urn:uuid:c1edfb14-151d-511e-ad0f-84d04950b0d6'
+    link: 'https://pub.dartlang.org/packages/mime'
+    author:
+        - 'Dart Team'
