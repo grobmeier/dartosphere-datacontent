@@ -12695,3 +12695,12 @@
     link: 'https://pub.dartlang.org/packages/id'
     author:
         - 'Daniel Davidson'
+-
+    package_name: ebisu
+    package_version: v0.0.12
+    title: 'v0.0.12 of ebisu'
+    published: '2015-02-12T23:10:21+00:00'
+    id: 'urn:uuid:580645bd-639e-50d0-8109-8ad266257076'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson'
