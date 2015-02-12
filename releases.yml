@@ -12650,3 +12650,12 @@
     link: 'https://pub.dartlang.org/packages/inflection'
     author:
         - 'George Moschovitis'
+-
+    package_name: mustache
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of mustache'
+    published: '2015-02-12T19:54:49+00:00'
+    id: 'urn:uuid:f3511db4-b566-5c45-9fc2-5573d9bb0650'
+    link: 'https://pub.dartlang.org/packages/mustache'
+    author:
+        - 'Greg Lowe'
