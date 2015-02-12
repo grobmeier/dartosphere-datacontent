@@ -12614,3 +12614,12 @@
     link: 'https://pub.dartlang.org/packages/angular_material'
     author:
         - 'Sergey Akopkokhyants'
+-
+    package_name: wsk_angular
+    package_version: v0.1.33
+    title: 'v0.1.33 of wsk_angular'
+    published: '2015-02-12T17:34:43+00:00'
+    id: 'urn:uuid:b8695aee-73cc-5187-9c4a-d41837eeea88'
+    link: 'https://pub.dartlang.org/packages/wsk_angular'
+    author:
+        - 'Mike Mitterer'
