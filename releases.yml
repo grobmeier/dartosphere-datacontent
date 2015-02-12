@@ -12659,3 +12659,12 @@
     link: 'https://pub.dartlang.org/packages/mustache'
     author:
         - 'Greg Lowe'
+-
+    package_name: stack_trace
+    package_version: v1.1.3
+    title: 'v1.1.3 of stack_trace'
+    published: '2015-02-12T20:04:42+00:00'
+    id: 'urn:uuid:ab32d35e-b82d-5ec1-89e1-957276171c93'
+    link: 'https://pub.dartlang.org/packages/stack_trace'
+    author:
+        - 'Dart Team'
