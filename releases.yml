@@ -12605,3 +12605,12 @@
     link: 'https://pub.dartlang.org/packages/angular_material'
     author:
         - 'Sergey Akopkokhyants'
+-
+    package_name: angular_material
+    package_version: v0.6.2
+    title: 'v0.6.2 of angular_material'
+    published: '2015-02-12T16:35:34+00:00'
+    id: 'urn:uuid:8d5e48ec-e1c3-505d-b2a4-018f26cee8bc'
+    link: 'https://pub.dartlang.org/packages/angular_material'
+    author:
+        - 'Sergey Akopkokhyants'
