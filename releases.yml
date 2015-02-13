@@ -12848,3 +12848,12 @@
     link: 'https://pub.dartlang.org/packages/tree_component'
     author:
         - 'Marcos Benatti Lauer'
+-
+    package_name: magus
+    package_version: v0.0.2
+    title: 'v0.0.2 of magus'
+    published: '2015-02-13T22:50:19+00:00'
+    id: 'urn:uuid:f8e2044e-93ed-5579-86be-4f3c87c741e1'
+    link: 'https://pub.dartlang.org/packages/magus'
+    author:
+        - 'Daniel Davidson'
