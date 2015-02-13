@@ -12812,3 +12812,12 @@
     link: 'https://pub.dartlang.org/packages/nest'
     author:
         - Blossom
+-
+    package_name: mustache4dart
+    package_version: v1.0.9
+    title: 'v1.0.9 of mustache4dart'
+    published: '2015-02-13T19:56:17+00:00'
+    id: 'urn:uuid:4f8b1a57-c662-5d29-bd42-62405fddada5'
+    link: 'https://pub.dartlang.org/packages/mustache4dart'
+    author:
+        - 'Georgios Valotasios'
