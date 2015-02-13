@@ -12803,3 +12803,12 @@
     link: 'https://pub.dartlang.org/packages/json_diff'
     author:
         - 'Sam Rawlins'
+-
+    package_name: nest
+    package_version: v0.0.1
+    title: 'v0.0.1 of nest'
+    published: '2015-02-13T19:35:19+00:00'
+    id: 'urn:uuid:77fbc5c4-0bb2-53f9-8c79-2f379e72db6f'
+    link: 'https://pub.dartlang.org/packages/nest'
+    author:
+        - Blossom
