@@ -12821,3 +12821,12 @@
     link: 'https://pub.dartlang.org/packages/mustache4dart'
     author:
         - 'Georgios Valotasios'
+-
+    package_name: drag_handler
+    package_version: v0.2.2
+    title: 'v0.2.2 of drag_handler'
+    published: '2015-02-13T21:25:19+00:00'
+    id: 'urn:uuid:378feb23-9b73-5831-bdae-f6d6c324b642'
+    link: 'https://pub.dartlang.org/packages/drag_handler'
+    author:
+        - 'Christopher Best'
