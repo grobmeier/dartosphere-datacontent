@@ -12868,3 +12868,12 @@
         - 'Prasad Sunkari'
         - 'Michael Cheng'
         - 'Yan Qiao'
+-
+    package_name: wsk_angular
+    package_version: v0.1.39
+    title: 'v0.1.39 of wsk_angular'
+    published: '2015-02-13T23:30:22+00:00'
+    id: 'urn:uuid:77396f29-e783-5b5c-a556-252e86ab393c'
+    link: 'https://pub.dartlang.org/packages/wsk_angular'
+    author:
+        - 'Mike Mitterer'
