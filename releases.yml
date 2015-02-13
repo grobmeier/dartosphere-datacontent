@@ -12839,3 +12839,12 @@
     link: 'https://pub.dartlang.org/packages/json_diff'
     author:
         - 'Sam Rawlins'
+-
+    package_name: tree_component
+    package_version: v0.2.5
+    title: 'v0.2.5 of tree_component'
+    published: '2015-02-13T22:15:26+00:00'
+    id: 'urn:uuid:cf4e2cbb-49ae-5fea-b87a-c36429c5c064'
+    link: 'https://pub.dartlang.org/packages/tree_component'
+    author:
+        - 'Marcos Benatti Lauer'
