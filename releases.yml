@@ -12749,3 +12749,12 @@
     link: 'https://pub.dartlang.org/packages/codemirror_element'
     author:
         - DartLab.org
+-
+    package_name: angular_material
+    package_version: v0.6.3
+    title: 'v0.6.3 of angular_material'
+    published: '2015-02-13T10:55:20+00:00'
+    id: 'urn:uuid:ffd325ab-f3b7-5e6e-a83d-a89bb8fdda8f'
+    link: 'https://pub.dartlang.org/packages/angular_material'
+    author:
+        - 'Sergey Akopkokhyants'
