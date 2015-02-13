@@ -12776,3 +12776,12 @@
     link: 'https://pub.dartlang.org/packages/wsk_angular'
     author:
         - 'Mike Mitterer'
+-
+    package_name: dartson
+    package_version: v0.2.1
+    title: 'v0.2.1 of dartson'
+    published: '2015-02-13T15:40:38+00:00'
+    id: 'urn:uuid:61dd1ecc-2b1d-50d6-8686-288c21d47bdf'
+    link: 'https://pub.dartlang.org/packages/dartson'
+    author:
+        - 'Eric Schneller'
