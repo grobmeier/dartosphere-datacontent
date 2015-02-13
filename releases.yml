@@ -12857,3 +12857,14 @@
     link: 'https://pub.dartlang.org/packages/magus'
     author:
         - 'Daniel Davidson'
+-
+    package_name: charted
+    package_version: v0.0.9
+    title: 'v0.0.9 of charted'
+    published: '2015-02-13T23:11:00+00:00'
+    id: 'urn:uuid:3a9e44b5-9aae-52f8-848b-2549a5aed7da'
+    link: 'https://pub.dartlang.org/packages/charted'
+    author:
+        - 'Prasad Sunkari'
+        - 'Michael Cheng'
+        - 'Yan Qiao'
