@@ -12794,3 +12794,12 @@
     link: 'https://pub.dartlang.org/packages/wsk_angular'
     author:
         - 'Mike Mitterer'
+-
+    package_name: json_diff
+    package_version: v0.1.0
+    title: 'v0.1.0 of json_diff'
+    published: '2015-02-13T19:20:22+00:00'
+    id: 'urn:uuid:f401c9bd-76de-53d2-b873-4db6ac15d734'
+    link: 'https://pub.dartlang.org/packages/json_diff'
+    author:
+        - 'Sam Rawlins'
