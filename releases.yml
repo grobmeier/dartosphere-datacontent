@@ -12740,3 +12740,12 @@
     link: 'https://pub.dartlang.org/packages/md_to_html'
     author:
         - 'Jack Thakar'
+-
+    package_name: codemirror_element
+    package_version: v0.0.3+4.12.0
+    title: 'v0.0.3+4.12.0 of codemirror_element'
+    published: '2015-02-13T10:00:36+00:00'
+    id: 'urn:uuid:aa0a0ad6-9221-540e-883e-3698938d1b40'
+    link: 'https://pub.dartlang.org/packages/codemirror_element'
+    author:
+        - DartLab.org
