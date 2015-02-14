@@ -12958,3 +12958,12 @@
     link: 'https://pub.dartlang.org/packages/binary_declarations'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_declarations
+    package_version: v0.0.43
+    title: 'v0.0.43 of binary_declarations'
+    published: '2015-02-14T19:05:16+00:00'
+    id: 'urn:uuid:c9d519fc-8eac-5dc5-a963-0fc75d89f4a0'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni'
