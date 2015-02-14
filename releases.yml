@@ -12886,3 +12886,12 @@
     link: 'https://pub.dartlang.org/packages/wsk_angular'
     author:
         - 'Mike Mitterer'
+-
+    package_name: ebisu_cpp
+    package_version: v0.0.2
+    title: 'v0.0.2 of ebisu_cpp'
+    published: '2015-02-14T00:15:18+00:00'
+    id: 'urn:uuid:a11cc601-d99a-5540-ab0d-5ba5bce8fdf7'
+    link: 'https://pub.dartlang.org/packages/ebisu_cpp'
+    author:
+        - 'Daniel Davidson'
