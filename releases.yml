@@ -12967,3 +12967,12 @@
     link: 'https://pub.dartlang.org/packages/binary_declarations'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: dtmark
+    package_version: v0.12.1
+    title: 'v0.12.1 of dtmark'
+    published: '2015-02-14T20:15:18+00:00'
+    id: 'urn:uuid:28a6fb36-e352-579d-9627-6e977790db1e'
+    link: 'https://pub.dartlang.org/packages/dtmark'
+    author:
+        - unknownloner
