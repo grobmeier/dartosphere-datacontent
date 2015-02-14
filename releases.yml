@@ -12922,3 +12922,12 @@
     link: 'https://pub.dartlang.org/packages/entity'
     author:
         - 'Tom Yeh'
+-
+    package_name: bwu_datastore_launcher
+    package_version: v0.1.0
+    title: 'v0.1.0 of bwu_datastore_launcher'
+    published: '2015-02-14T14:15:15+00:00'
+    id: 'urn:uuid:aa5b193b-b055-5220-b010-c82a7ce10443'
+    link: 'https://pub.dartlang.org/packages/bwu_datastore_launcher'
+    author:
+        - 'Günter Zöchbauer'
