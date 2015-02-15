@@ -13048,3 +13048,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu_cpp'
     author:
         - 'Daniel Davidson'
+-
+    package_name: binary_declarations
+    package_version: v0.0.47
+    title: 'v0.0.47 of binary_declarations'
+    published: '2015-02-15T16:45:19+00:00'
+    id: 'urn:uuid:4f59342a-9366-59a0-acd4-89fb62053e71'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni'
