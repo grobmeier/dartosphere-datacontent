@@ -12985,3 +12985,12 @@
     link: 'https://pub.dartlang.org/packages/codemirror_element'
     author:
         - DartLab.org
+-
+    package_name: binary_declarations
+    package_version: v0.0.44
+    title: 'v0.0.44 of binary_declarations'
+    published: '2015-02-15T09:30:20+00:00'
+    id: 'urn:uuid:2ac40903-2abe-5b43-8462-f652a93a86c0'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni'
