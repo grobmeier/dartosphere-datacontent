@@ -13057,3 +13057,12 @@
     link: 'https://pub.dartlang.org/packages/binary_declarations'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: macro_processor
+    package_version: v0.0.4
+    title: 'v0.0.4 of macro_processor'
+    published: '2015-02-15T17:40:17+00:00'
+    id: 'urn:uuid:35d85bbd-1930-59e5-b962-de3f35180521'
+    link: 'https://pub.dartlang.org/packages/macro_processor'
+    author:
+        - 'Andrew Mezoni'
