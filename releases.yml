@@ -13102,3 +13102,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu_cpp'
     author:
         - 'Daniel Davidson'
+-
+    package_name: flare
+    package_version: v0.6.0
+    title: 'v0.6.0 of flare'
+    published: '2015-02-15T22:25:32+00:00'
+    id: 'urn:uuid:61ae6934-3b0e-577c-82db-4fa7e5af7707'
+    link: 'https://pub.dartlang.org/packages/flare'
+    author:
+        - 'George Moschovitis'
