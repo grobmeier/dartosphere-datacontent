@@ -13066,3 +13066,21 @@
     link: 'https://pub.dartlang.org/packages/macro_processor'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_types
+    package_version: v0.0.27
+    title: 'v0.0.27 of binary_types'
+    published: '2015-02-15T19:25:16+00:00'
+    id: 'urn:uuid:78f1899d-5ca2-5e2b-aba4-e7bbe880b752'
+    link: 'https://pub.dartlang.org/packages/binary_types'
+    author:
+        - 'Andrew Mezoni'
+-
+    package_name: binary_declarations
+    package_version: v0.0.49
+    title: 'v0.0.49 of binary_declarations'
+    published: '2015-02-15T19:25:16+00:00'
+    id: 'urn:uuid:bfd291b0-1d5a-511f-8635-38a18afafc2c'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni'
