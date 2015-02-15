@@ -13120,3 +13120,12 @@
     link: 'https://pub.dartlang.org/packages/managed_mongo'
     author:
         - 'Jim Simon'
+-
+    package_name: managed_mongo
+    package_version: v1.1.2
+    title: 'v1.1.2 of managed_mongo'
+    published: '2015-02-15T22:40:18+00:00'
+    id: 'urn:uuid:ac033432-07f3-5bf2-bdff-457b8de6087b'
+    link: 'https://pub.dartlang.org/packages/managed_mongo'
+    author:
+        - 'Jim Simon'
