@@ -13111,3 +13111,12 @@
     link: 'https://pub.dartlang.org/packages/flare'
     author:
         - 'George Moschovitis'
+-
+    package_name: managed_mongo
+    package_version: v1.1.1
+    title: 'v1.1.1 of managed_mongo'
+    published: '2015-02-15T22:35:17+00:00'
+    id: 'urn:uuid:1f27be65-c981-55f6-8b5f-d061ea71ef4f'
+    link: 'https://pub.dartlang.org/packages/managed_mongo'
+    author:
+        - 'Jim Simon'
