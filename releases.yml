@@ -13084,3 +13084,12 @@
     link: 'https://pub.dartlang.org/packages/binary_declarations'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: ebisu
+    package_version: v0.0.13
+    title: 'v0.0.13 of ebisu'
+    published: '2015-02-15T20:30:19+00:00'
+    id: 'urn:uuid:9fe3f0d0-48c0-5240-ba52-3b6c02c68bbb'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson'
