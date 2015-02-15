@@ -13129,3 +13129,12 @@
     link: 'https://pub.dartlang.org/packages/managed_mongo'
     author:
         - 'Jim Simon'
+-
+    package_name: stream_transformers
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of stream_transformers'
+    published: '2015-02-15T22:45:16+00:00'
+    id: 'urn:uuid:449eb60f-0483-518c-984d-7a46c00c6d00'
+    link: 'https://pub.dartlang.org/packages/stream_transformers'
+    author:
+        - 'Dan Schultz'
