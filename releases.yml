@@ -12994,3 +12994,12 @@
     link: 'https://pub.dartlang.org/packages/binary_declarations'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: dart_worker
+    package_version: v0.0.2
+    title: 'v0.0.2 of dart_worker'
+    published: '2015-02-15T10:55:17+00:00'
+    id: 'urn:uuid:df84ac55-906f-5e90-9064-f554c777be54'
+    link: 'https://pub.dartlang.org/packages/dart_worker'
+    author:
+        - 'Grant Hutchinson<h.g.utchinson@gmail.com>'
