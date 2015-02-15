@@ -13039,3 +13039,12 @@
     link: 'https://pub.dartlang.org/packages/binary_declarations'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: ebisu_cpp
+    package_version: v0.0.3
+    title: 'v0.0.3 of ebisu_cpp'
+    published: '2015-02-15T14:50:18+00:00'
+    id: 'urn:uuid:81b61d37-37f4-5f6d-8a88-d626983fe474'
+    link: 'https://pub.dartlang.org/packages/ebisu_cpp'
+    author:
+        - 'Daniel Davidson'
