@@ -13138,3 +13138,12 @@
     link: 'https://pub.dartlang.org/packages/stream_transformers'
     author:
         - 'Dan Schultz'
+-
+    package_name: source_gen
+    package_version: v0.1.1
+    title: 'v0.1.1 of source_gen'
+    published: '2015-02-16T01:25:15+00:00'
+    id: 'urn:uuid:cac6fb0c-b65b-56db-a8b8-16d3d5536927'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Kevin Moore'
