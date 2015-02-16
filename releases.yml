@@ -13212,3 +13212,12 @@
     link: 'https://pub.dartlang.org/packages/do2template'
     author:
         - 'Mikhail Stolyarov'
+-
+    package_name: dart_worker
+    package_version: v0.0.3
+    title: 'v0.0.3 of dart_worker'
+    published: '2015-02-16T09:25:20+00:00'
+    id: 'urn:uuid:6775ea30-d812-5e40-82c6-0bfaec2d8829'
+    link: 'https://pub.dartlang.org/packages/dart_worker'
+    author:
+        - 'Grant Hutchinson<h.g.utchinson@gmail.com>'
