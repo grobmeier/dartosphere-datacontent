@@ -13194,3 +13194,12 @@
         - 'Kenneth Endfinger'
         - samrg472
         - TheMike
+-
+    package_name: angular_material
+    package_version: v0.6.4
+    title: 'v0.6.4 of angular_material'
+    published: '2015-02-16T08:00:28+00:00'
+    id: 'urn:uuid:9cdaa301-239c-5a60-a246-b602ff720c6c'
+    link: 'https://pub.dartlang.org/packages/angular_material'
+    author:
+        - 'Sergey Akopkokhyants'
