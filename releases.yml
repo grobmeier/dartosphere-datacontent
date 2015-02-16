@@ -13284,3 +13284,12 @@
     link: 'https://pub.dartlang.org/packages/test_runner'
     author:
         - 'Nicolas Garnier'
+-
+    package_name: shelf_cors
+    package_version: v0.1.0
+    title: 'v0.1.0 of shelf_cors'
+    published: '2015-02-16T20:15:22+00:00'
+    id: 'urn:uuid:c23b9a17-1594-5d17-a6d4-f3eea0078487'
+    link: 'https://pub.dartlang.org/packages/shelf_cors'
+    author:
+        - 'George Moschovitis'
