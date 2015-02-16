@@ -13156,3 +13156,12 @@
     link: 'https://pub.dartlang.org/packages/drails'
     author:
         - 'Luis Vargas'
+-
+    package_name: magus
+    package_version: v0.0.4
+    title: 'v0.0.4 of magus'
+    published: '2015-02-16T04:40:16+00:00'
+    id: 'urn:uuid:2dafef06-91ae-5a0b-befa-37d4cffdff53'
+    link: 'https://pub.dartlang.org/packages/magus'
+    author:
+        - 'Daniel Davidson'
