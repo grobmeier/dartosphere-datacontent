@@ -13248,3 +13248,12 @@
     link: 'https://pub.dartlang.org/packages/wsk_material'
     author:
         - 'Mike Mitterer'
+-
+    package_name: wsk_material
+    package_version: v0.6.0
+    title: 'v0.6.0 of wsk_material'
+    published: '2015-02-16T14:00:31+00:00'
+    id: 'urn:uuid:73cf7a6c-018c-5f63-9cc9-914beb3b8e08'
+    link: 'https://pub.dartlang.org/packages/wsk_material'
+    author:
+        - 'Mike Mitterer'
