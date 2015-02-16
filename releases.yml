@@ -13320,3 +13320,12 @@
     link: 'https://pub.dartlang.org/packages/source_gen'
     author:
         - 'Kevin Moore'
+-
+    package_name: test_runner
+    package_version: v0.2.15+4
+    title: 'v0.2.15+4 of test_runner'
+    published: '2015-02-16T23:25:15+00:00'
+    id: 'urn:uuid:ac0aa21c-fa7e-52d9-a0f8-056b71275c9d'
+    link: 'https://pub.dartlang.org/packages/test_runner'
+    author:
+        - 'Nicolas Garnier'
