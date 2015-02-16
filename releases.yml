@@ -13165,3 +13165,12 @@
     link: 'https://pub.dartlang.org/packages/magus'
     author:
         - 'Daniel Davidson'
+-
+    package_name: ebisu_cpp
+    package_version: v0.0.5
+    title: 'v0.0.5 of ebisu_cpp'
+    published: '2015-02-16T04:45:18+00:00'
+    id: 'urn:uuid:b3ce41ef-5b4e-5734-80cf-aa7ef0df5200'
+    link: 'https://pub.dartlang.org/packages/ebisu_cpp'
+    author:
+        - 'Daniel Davidson'
