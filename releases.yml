@@ -13302,3 +13302,12 @@
     link: 'https://pub.dartlang.org/packages/dart_ctags'
     author:
         - 'Andrew Lazarus'
+-
+    package_name: source_gen
+    package_version: v0.2.0
+    title: 'v0.2.0 of source_gen'
+    published: '2015-02-16T23:10:19+00:00'
+    id: 'urn:uuid:c582de90-557b-526a-964d-bb977e3635cc'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Kevin Moore'
