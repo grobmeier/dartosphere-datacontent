@@ -13230,3 +13230,12 @@
     link: 'https://pub.dartlang.org/packages/dart_worker'
     author:
         - 'Grant Hutchinson<h.g.utchinson@gmail.com>'
+-
+    package_name: bwu_datastore_launcher
+    package_version: v0.2.0
+    title: 'v0.2.0 of bwu_datastore_launcher'
+    published: '2015-02-16T13:25:25+00:00'
+    id: 'urn:uuid:e34c8971-3db2-572e-8ae9-d2f7468d5728'
+    link: 'https://pub.dartlang.org/packages/bwu_datastore_launcher'
+    author:
+        - 'Günter Zöchbauer'
