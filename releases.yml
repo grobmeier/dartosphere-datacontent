@@ -13293,3 +13293,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_cors'
     author:
         - 'George Moschovitis'
+-
+    package_name: dart_ctags
+    package_version: v0.0.1
+    title: 'v0.0.1 of dart_ctags'
+    published: '2015-02-16T22:35:17+00:00'
+    id: 'urn:uuid:f03290bd-f5da-5cd4-9b83-6b6fb70a2c10'
+    link: 'https://pub.dartlang.org/packages/dart_ctags'
+    author:
+        - 'Andrew Lazarus'
