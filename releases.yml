@@ -13221,3 +13221,12 @@
     link: 'https://pub.dartlang.org/packages/dart_worker'
     author:
         - 'Grant Hutchinson<h.g.utchinson@gmail.com>'
+-
+    package_name: dart_worker
+    package_version: v0.0.4
+    title: 'v0.0.4 of dart_worker'
+    published: '2015-02-16T11:30:25+00:00'
+    id: 'urn:uuid:1420b850-4d83-574a-ae51-9108851eb22a'
+    link: 'https://pub.dartlang.org/packages/dart_worker'
+    author:
+        - 'Grant Hutchinson<h.g.utchinson@gmail.com>'
