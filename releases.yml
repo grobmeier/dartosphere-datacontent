@@ -13203,3 +13203,12 @@
     link: 'https://pub.dartlang.org/packages/angular_material'
     author:
         - 'Sergey Akopkokhyants'
+-
+    package_name: do2template
+    package_version: v0.0.1
+    title: 'v0.0.1 of do2template'
+    published: '2015-02-16T09:00:30+00:00'
+    id: 'urn:uuid:33345508-c766-5287-b2bb-946a8c2a96d1'
+    link: 'https://pub.dartlang.org/packages/do2template'
+    author:
+        - 'Mikhail Stolyarov'
