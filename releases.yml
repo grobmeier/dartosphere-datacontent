@@ -13311,3 +13311,12 @@
     link: 'https://pub.dartlang.org/packages/source_gen'
     author:
         - 'Kevin Moore'
+-
+    package_name: source_gen
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of source_gen'
+    published: '2015-02-16T23:15:18+00:00'
+    id: 'urn:uuid:7c0741d1-1ba2-52e3-ba11-24a63fcb0964'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Kevin Moore'
