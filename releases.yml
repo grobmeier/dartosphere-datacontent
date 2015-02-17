@@ -13435,3 +13435,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu_cpp_db'
     author:
         - 'Daniel Davidson'
+-
+    package_name: cargo
+    package_version: v0.7.1
+    title: 'v0.7.1 of cargo'
+    published: '2015-02-17T20:20:33+00:00'
+    id: 'urn:uuid:66ad1d59-cf82-5f56-a3ba-9bf6208403ad'
+    link: 'https://pub.dartlang.org/packages/cargo'
+    author:
+        - 'Joris Hermans'
