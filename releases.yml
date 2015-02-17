@@ -13356,3 +13356,12 @@
     link: 'https://pub.dartlang.org/packages/googleapis'
     author:
         - 'Dart Team'
+-
+    package_name: googleapis_beta
+    package_version: v0.9.0
+    title: 'v0.9.0 of googleapis_beta'
+    published: '2015-02-17T07:20:19+00:00'
+    id: 'urn:uuid:a8cfc171-8c87-54f9-9e45-c7731a033b12'
+    link: 'https://pub.dartlang.org/packages/googleapis_beta'
+    author:
+        - 'Dart Team'
