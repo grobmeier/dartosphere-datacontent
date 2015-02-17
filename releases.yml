@@ -13399,3 +13399,21 @@
     link: 'https://pub.dartlang.org/packages/args'
     author:
         - 'Dart Team'
+-
+    package_name: ebisu_cpp
+    package_version: v0.0.6
+    title: 'v0.0.6 of ebisu_cpp'
+    published: '2015-02-17T18:22:22+00:00'
+    id: 'urn:uuid:a8c10be7-b4d2-5a53-8ca5-b073248f1955'
+    link: 'https://pub.dartlang.org/packages/ebisu_cpp'
+    author:
+        - 'Daniel Davidson'
+-
+    package_name: coverage
+    package_version: v0.6.0
+    title: 'v0.6.0 of coverage'
+    published: '2015-02-17T18:22:22+00:00'
+    id: 'urn:uuid:ab8dd58b-a031-5ea5-8969-076475591938'
+    link: 'https://pub.dartlang.org/packages/coverage'
+    author:
+        - 'Dart Team'
