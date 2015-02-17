@@ -13347,3 +13347,12 @@
     link: 'https://pub.dartlang.org/packages/source_gen'
     author:
         - 'Kevin Moore'
+-
+    package_name: googleapis
+    package_version: v0.6.0
+    title: 'v0.6.0 of googleapis'
+    published: '2015-02-17T07:15:19+00:00'
+    id: 'urn:uuid:7e8fb70a-066d-5d0b-9412-0f66691d8d56'
+    link: 'https://pub.dartlang.org/packages/googleapis'
+    author:
+        - 'Dart Team'
