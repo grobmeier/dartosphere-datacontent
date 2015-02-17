@@ -13417,3 +13417,12 @@
     link: 'https://pub.dartlang.org/packages/coverage'
     author:
         - 'Dart Team'
+-
+    package_name: usage
+    package_version: v1.0.0+1
+    title: 'v1.0.0+1 of usage'
+    published: '2015-02-17T19:07:24+00:00'
+    id: 'urn:uuid:73a7d2ff-7188-5c02-8197-3ea8f08ddc46'
+    link: 'https://pub.dartlang.org/packages/usage'
+    author:
+        - 'Dart Team'
