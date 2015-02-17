@@ -13365,3 +13365,28 @@
     link: 'https://pub.dartlang.org/packages/googleapis_beta'
     author:
         - 'Dart Team'
+-
+    package_name: md_proc
+    package_version: v0.2.3
+    title: 'v0.2.3 of md_proc'
+    published: '2015-02-17T17:32:34+00:00'
+    id: 'urn:uuid:4947c00e-2ad5-52d8-a5d6-50c606193d46'
+    link: 'https://pub.dartlang.org/packages/md_proc'
+    author:
+        - 'Maxim Dikun'
+-
+    package_name: angular2
+    package_version: v2.0.0-alpha.6
+    title: 'v2.0.0-alpha.6 of angular2'
+    published: '2015-02-17T17:32:34+00:00'
+    id: 'urn:uuid:e7dec03c-9277-52c9-b6d6-467d5b27faa9'
+    link: 'https://pub.dartlang.org/packages/angular2'
+    author:
+        - 'Alex Eagle'
+        - 'Chirayu Krishnappa'
+        - 'Jeff Cross'
+        - 'Misko Hevery'
+        - 'Rado Kirov'
+        - 'Tobias Bosch'
+        - 'Victor Savkin'
+        - 'Yegor Jbanov'
