@@ -13462,3 +13462,12 @@
     link: 'https://pub.dartlang.org/packages/stack_trace'
     author:
         - 'Dart Team'
+-
+    package_name: web_components
+    package_version: v0.10.2
+    title: 'v0.10.2 of web_components'
+    published: '2015-02-17T22:25:21+00:00'
+    id: 'urn:uuid:e525561d-c133-5d39-805c-3573674b2ec7'
+    link: 'https://pub.dartlang.org/packages/web_components'
+    author:
+        - 'Polymer.dart Authors'
