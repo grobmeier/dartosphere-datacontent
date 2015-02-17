@@ -13453,3 +13453,12 @@
     link: 'https://pub.dartlang.org/packages/initialize'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: stack_trace
+    package_version: v1.2.0
+    title: 'v1.2.0 of stack_trace'
+    published: '2015-02-17T21:45:24+00:00'
+    id: 'urn:uuid:f9110582-117c-5e38-8060-e7f20805979d'
+    link: 'https://pub.dartlang.org/packages/stack_trace'
+    author:
+        - 'Dart Team'
