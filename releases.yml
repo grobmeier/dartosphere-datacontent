@@ -13338,3 +13338,12 @@
     link: 'https://pub.dartlang.org/packages/test_runner'
     author:
         - 'Nicolas Garnier'
+-
+    package_name: source_gen
+    package_version: v0.2.0+2
+    title: 'v0.2.0+2 of source_gen'
+    published: '2015-02-17T02:50:21+00:00'
+    id: 'urn:uuid:b81f39d3-81e8-5b69-aab2-dc27a9b991d8'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Kevin Moore'
