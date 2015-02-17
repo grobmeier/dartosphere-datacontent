@@ -13444,3 +13444,12 @@
     link: 'https://pub.dartlang.org/packages/cargo'
     author:
         - 'Joris Hermans'
+-
+    package_name: initialize
+    package_version: v0.5.0
+    title: 'v0.5.0 of initialize'
+    published: '2015-02-17T21:30:28+00:00'
+    id: 'urn:uuid:572b895d-ce1b-5b19-b87e-198b9f6330fb'
+    link: 'https://pub.dartlang.org/packages/initialize'
+    author:
+        - 'Polymer.dart Authors'
