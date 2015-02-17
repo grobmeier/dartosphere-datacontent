@@ -13426,3 +13426,12 @@
     link: 'https://pub.dartlang.org/packages/usage'
     author:
         - 'Dart Team'
+-
+    package_name: ebisu_cpp_db
+    package_version: v0.0.2
+    title: 'v0.0.2 of ebisu_cpp_db'
+    published: '2015-02-17T20:06:20+00:00'
+    id: 'urn:uuid:7f41728d-e1f2-57d2-b001-a383f270fddd'
+    link: 'https://pub.dartlang.org/packages/ebisu_cpp_db'
+    author:
+        - 'Daniel Davidson'
