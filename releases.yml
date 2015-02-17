@@ -13390,3 +13390,12 @@
         - 'Tobias Bosch'
         - 'Victor Savkin'
         - 'Yegor Jbanov'
+-
+    package_name: args
+    package_version: v0.12.2+5
+    title: 'v0.12.2+5 of args'
+    published: '2015-02-17T18:05:26+00:00'
+    id: 'urn:uuid:226c820e-56e1-56c3-9207-5fbaa198ae1c'
+    link: 'https://pub.dartlang.org/packages/args'
+    author:
+        - 'Dart Team'
