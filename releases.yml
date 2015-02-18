@@ -13501,3 +13501,12 @@
         - 'Santiago Arias'
         - 'James Hurford'
         - 'Srdjan Pejic'
+-
+    package_name: react
+    package_version: v0.5.3
+    title: 'v0.5.3 of react'
+    published: '2015-02-18T10:15:25+00:00'
+    id: 'urn:uuid:5b6d5874-0ffc-5278-8fb8-1489f607fe88'
+    link: 'https://pub.dartlang.org/packages/react'
+    author:
+        - 'Clean Team'
