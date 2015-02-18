@@ -13582,3 +13582,12 @@
     link: 'https://pub.dartlang.org/packages/path'
     author:
         - 'Dart Team'
+-
+    package_name: args
+    package_version: v0.12.2+6
+    title: 'v0.12.2+6 of args'
+    published: '2015-02-18T20:45:24+00:00'
+    id: 'urn:uuid:9eb00bab-94cb-56bd-9232-a794bb32bd73'
+    link: 'https://pub.dartlang.org/packages/args'
+    author:
+        - 'Dart Team'
