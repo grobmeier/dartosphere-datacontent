@@ -13480,3 +13480,12 @@
     link: 'https://pub.dartlang.org/packages/stack_trace'
     author:
         - 'Dart Team'
+-
+    package_name: dart_worker
+    package_version: v0.0.5
+    title: 'v0.0.5 of dart_worker'
+    published: '2015-02-18T01:50:17+00:00'
+    id: 'urn:uuid:ac3bf696-05ec-5f57-8130-425faf7d3a15'
+    link: 'https://pub.dartlang.org/packages/dart_worker'
+    author:
+        - 'Grant Hutchinson<h.g.utchinson@gmail.com>'
