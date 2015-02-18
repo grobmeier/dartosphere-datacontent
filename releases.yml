@@ -13591,3 +13591,12 @@
     link: 'https://pub.dartlang.org/packages/args'
     author:
         - 'Dart Team'
+-
+    package_name: app_router
+    package_version: v0.1.2
+    title: 'v0.1.2 of app_router'
+    published: '2015-02-18T21:25:21+00:00'
+    id: 'urn:uuid:d5b0a62b-650c-56cd-9e3b-4ac283f35da5'
+    link: 'https://pub.dartlang.org/packages/app_router'
+    author:
+        - pjv
