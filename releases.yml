@@ -13489,3 +13489,15 @@
     link: 'https://pub.dartlang.org/packages/dart_worker'
     author:
         - 'Grant Hutchinson<h.g.utchinson@gmail.com>'
+-
+    package_name: ice_code_editor_experimental
+    package_version: v0.0.1
+    title: 'v0.0.1 of ice_code_editor_experimental'
+    published: '2015-02-18T04:30:19+00:00'
+    id: 'urn:uuid:121d1f6c-91b1-5d05-b478-ac5554d3d01f'
+    link: 'https://pub.dartlang.org/packages/ice_code_editor_experimental'
+    author:
+        - 'Chris Strom'
+        - 'Santiago Arias'
+        - 'James Hurford'
+        - 'Srdjan Pejic'
