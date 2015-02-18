@@ -13510,3 +13510,12 @@
     link: 'https://pub.dartlang.org/packages/react'
     author:
         - 'Clean Team'
+-
+    package_name: ebisu_cpp_db
+    package_version: v0.0.3
+    title: 'v0.0.3 of ebisu_cpp_db'
+    published: '2015-02-18T14:30:30+00:00'
+    id: 'urn:uuid:816cbcb4-f8bc-5051-8d16-424459fe1282'
+    link: 'https://pub.dartlang.org/packages/ebisu_cpp_db'
+    author:
+        - 'Daniel Davidson'
