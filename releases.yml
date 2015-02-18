@@ -13528,3 +13528,12 @@
     link: 'https://pub.dartlang.org/packages/mime'
     author:
         - 'Dart Team'
+-
+    package_name: auto_mapper
+    package_version: v0.0.2
+    title: 'v0.0.2 of auto_mapper'
+    published: '2015-02-18T14:55:27+00:00'
+    id: 'urn:uuid:3451131e-149f-5ce0-a3ad-64e1c78ee2aa'
+    link: 'https://pub.dartlang.org/packages/auto_mapper'
+    author:
+        - 'Liquid Thinking Ltd'
