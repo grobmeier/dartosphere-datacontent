@@ -13519,3 +13519,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu_cpp_db'
     author:
         - 'Daniel Davidson'
+-
+    package_name: mime
+    package_version: v0.9.3
+    title: 'v0.9.3 of mime'
+    published: '2015-02-18T14:50:26+00:00'
+    id: 'urn:uuid:ba307fe9-de6d-5227-97cc-b24d3f66fa56'
+    link: 'https://pub.dartlang.org/packages/mime'
+    author:
+        - 'Dart Team'
