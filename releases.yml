@@ -13564,3 +13564,12 @@
     link: 'https://pub.dartlang.org/packages/polymer'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: slickdart
+    package_version: v0.1.1
+    title: 'v0.1.1 of slickdart'
+    published: '2015-02-18T17:30:35+00:00'
+    id: 'urn:uuid:37920850-f020-5622-b50f-5faed4360d6e'
+    link: 'https://pub.dartlang.org/packages/slickdart'
+    author:
+        - CJKAO
