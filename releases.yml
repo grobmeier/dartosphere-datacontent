@@ -13708,3 +13708,12 @@
     link: 'https://pub.dartlang.org/packages/haystack'
     author:
         - 'Dmitriy Vasilyev'
+-
+    package_name: test_runner
+    package_version: v0.2.16+1
+    title: 'v0.2.16+1 of test_runner'
+    published: '2015-02-19T17:05:32+00:00'
+    id: 'urn:uuid:f5823119-115b-5f38-ae1a-cdd33c2433ea'
+    link: 'https://pub.dartlang.org/packages/test_runner'
+    author:
+        - 'Nicolas Garnier'
