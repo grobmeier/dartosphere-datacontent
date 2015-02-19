@@ -13789,3 +13789,12 @@
     link: 'https://pub.dartlang.org/packages/polymer'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: polymer_expressions
+    package_version: v0.13.1
+    title: 'v0.13.1 of polymer_expressions'
+    published: '2015-02-19T21:55:23+00:00'
+    id: 'urn:uuid:340aab35-af2a-5493-902a-b40081ca8d73'
+    link: 'https://pub.dartlang.org/packages/polymer_expressions'
+    author:
+        - 'Polymer.dart Authors'
