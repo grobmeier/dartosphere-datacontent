@@ -13618,3 +13618,12 @@
     link: 'https://pub.dartlang.org/packages/do2init'
     author:
         - 'Mikhail Stolyarov'
+-
+    package_name: bwu_utils_server
+    package_version: v0.0.3
+    title: 'v0.0.3 of bwu_utils_server'
+    published: '2015-02-19T11:35:22+00:00'
+    id: 'urn:uuid:b8e30fe8-15bd-5bf6-ba5d-0408ec5d6ead'
+    link: 'https://pub.dartlang.org/packages/bwu_utils_server'
+    author:
+        - 'Günter Zöchbauer'
