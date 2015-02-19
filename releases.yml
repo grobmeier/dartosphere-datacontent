@@ -13735,3 +13735,12 @@
     link: 'https://pub.dartlang.org/packages/angulardart_custom_swipe'
     author:
         - AlexCDumitru(AlexCD)
+-
+    package_name: ini
+    package_version: v1.0.1
+    title: 'v1.0.1 of ini'
+    published: '2015-02-19T19:10:22+00:00'
+    id: 'urn:uuid:34abb005-4318-505d-be9a-ea72d720ac5a'
+    link: 'https://pub.dartlang.org/packages/ini'
+    author:
+        - 'Matthew Franglen'
