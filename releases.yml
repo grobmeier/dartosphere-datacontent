@@ -13762,3 +13762,12 @@
     link: 'https://pub.dartlang.org/packages/webdriver'
     author:
         - 'Dart Team'
+-
+    package_name: observe
+    package_version: v0.13.0
+    title: 'v0.13.0 of observe'
+    published: '2015-02-19T21:45:25+00:00'
+    id: 'urn:uuid:9ef7453f-9369-5d6d-a7d4-51ecf8805587'
+    link: 'https://pub.dartlang.org/packages/observe'
+    author:
+        - 'Polymer.dart Authors'
