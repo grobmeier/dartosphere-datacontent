@@ -13663,3 +13663,12 @@
     link: 'https://pub.dartlang.org/packages/bwu_datastore_launcher'
     author:
         - 'Günter Zöchbauer'
+-
+    package_name: haystack
+    package_version: v0.4.0
+    title: 'v0.4.0 of haystack'
+    published: '2015-02-19T14:50:29+00:00'
+    id: 'urn:uuid:13849bca-6d15-577c-934b-a7c5b46cd55b'
+    link: 'https://pub.dartlang.org/packages/haystack'
+    author:
+        - 'Dmitriy Vasilyev'
