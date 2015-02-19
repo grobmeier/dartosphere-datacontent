@@ -13717,3 +13717,12 @@
     link: 'https://pub.dartlang.org/packages/test_runner'
     author:
         - 'Nicolas Garnier'
+-
+    package_name: wsk_material
+    package_version: v0.6.1
+    title: 'v0.6.1 of wsk_material'
+    published: '2015-02-19T18:20:20+00:00'
+    id: 'urn:uuid:93ee120d-ebdc-577c-a6e0-137da86a99e9'
+    link: 'https://pub.dartlang.org/packages/wsk_material'
+    author:
+        - 'Mike Mitterer'
