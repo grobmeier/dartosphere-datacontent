@@ -13636,3 +13636,12 @@
     link: 'https://pub.dartlang.org/packages/gcloud'
     author:
         - 'Dart Team'
+-
+    package_name: bwu_utils_server
+    package_version: v0.0.4
+    title: 'v0.0.4 of bwu_utils_server'
+    published: '2015-02-19T13:35:24+00:00'
+    id: 'urn:uuid:3ca64802-2094-54eb-b14e-87094d5cf798'
+    link: 'https://pub.dartlang.org/packages/bwu_utils_server'
+    author:
+        - 'Günter Zöchbauer'
