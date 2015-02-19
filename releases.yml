@@ -13681,3 +13681,12 @@
     link: 'https://pub.dartlang.org/packages/gcloud'
     author:
         - 'Dart Team'
+-
+    package_name: peg
+    package_version: v0.0.52
+    title: 'v0.0.52 of peg'
+    published: '2015-02-19T15:30:38+00:00'
+    id: 'urn:uuid:ed38f056-fec3-5e0a-b397-6050aba67c95'
+    link: 'https://pub.dartlang.org/packages/peg'
+    author:
+        - 'Andrew Mezoni'
