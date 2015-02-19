@@ -13690,3 +13690,12 @@
     link: 'https://pub.dartlang.org/packages/peg'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: haystack
+    package_version: v0.4.01
+    title: 'v0.4.01 of haystack'
+    published: '2015-02-19T15:55:30+00:00'
+    id: 'urn:uuid:223b117a-0a19-55e2-91e2-e3b00c3204f6'
+    link: 'https://pub.dartlang.org/packages/haystack'
+    author:
+        - 'Dmitriy Vasilyev'
