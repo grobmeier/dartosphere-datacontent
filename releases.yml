@@ -13645,3 +13645,21 @@
     link: 'https://pub.dartlang.org/packages/bwu_utils_server'
     author:
         - 'Günter Zöchbauer'
+-
+    package_name: do2configuration
+    package_version: v0.0.1
+    title: 'v0.0.1 of do2configuration'
+    published: '2015-02-19T14:35:22+00:00'
+    id: 'urn:uuid:3bfc14cc-1a35-5244-b89e-78c0a4f2d0c4'
+    link: 'https://pub.dartlang.org/packages/do2configuration'
+    author:
+        - 'Mikhail Stolyarov'
+-
+    package_name: bwu_datastore_launcher
+    package_version: v0.2.2
+    title: 'v0.2.2 of bwu_datastore_launcher'
+    published: '2015-02-19T14:35:22+00:00'
+    id: 'urn:uuid:535ad668-0c4c-54c2-adbd-a61aabb45de0'
+    link: 'https://pub.dartlang.org/packages/bwu_datastore_launcher'
+    author:
+        - 'Günter Zöchbauer'
