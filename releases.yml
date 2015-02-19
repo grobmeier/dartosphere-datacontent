@@ -13609,3 +13609,12 @@
     link: 'https://pub.dartlang.org/packages/peg'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: do2init
+    package_version: v0.0.1
+    title: 'v0.0.1 of do2init'
+    published: '2015-02-19T09:25:23+00:00'
+    id: 'urn:uuid:bbdfb6d4-0602-56c0-b9bc-84cb96d691ad'
+    link: 'https://pub.dartlang.org/packages/do2init'
+    author:
+        - 'Mikhail Stolyarov'
