@@ -13699,3 +13699,12 @@
     link: 'https://pub.dartlang.org/packages/haystack'
     author:
         - 'Dmitriy Vasilyev'
+-
+    package_name: haystack
+    package_version: v0.4.02
+    title: 'v0.4.02 of haystack'
+    published: '2015-02-19T16:10:36+00:00'
+    id: 'urn:uuid:6a3a527d-d208-5388-b98b-cfe70c2975ba'
+    link: 'https://pub.dartlang.org/packages/haystack'
+    author:
+        - 'Dmitriy Vasilyev'
