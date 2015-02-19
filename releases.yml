@@ -13600,3 +13600,12 @@
     link: 'https://pub.dartlang.org/packages/app_router'
     author:
         - pjv
+-
+    package_name: peg
+    package_version: v0.0.51
+    title: 'v0.0.51 of peg'
+    published: '2015-02-19T08:40:25+00:00'
+    id: 'urn:uuid:bc5f136f-1a71-5d87-ad76-fe85fe2bab75'
+    link: 'https://pub.dartlang.org/packages/peg'
+    author:
+        - 'Andrew Mezoni'
