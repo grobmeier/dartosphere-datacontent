@@ -13861,3 +13861,12 @@
     link: 'https://pub.dartlang.org/packages/bwu_datastore_launcher'
     author:
         - 'Günter Zöchbauer'
+-
+    package_name: auto_mapper
+    package_version: v0.0.2+2
+    title: 'v0.0.2+2 of auto_mapper'
+    published: '2015-02-20T11:20:26+00:00'
+    id: 'urn:uuid:00cd1b50-ac1d-512a-acb5-04ab0e477975'
+    link: 'https://pub.dartlang.org/packages/auto_mapper'
+    author:
+        - 'Liquid Thinking Ltd'
