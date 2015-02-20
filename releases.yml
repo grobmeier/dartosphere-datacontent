@@ -13807,3 +13807,12 @@
     link: 'https://pub.dartlang.org/packages/lesscompile'
     author:
         - 'Mikhail Turilin'
+-
+    package_name: webdriver
+    package_version: v0.9.1
+    title: 'v0.9.1 of webdriver'
+    published: '2015-02-20T00:04:41+00:00'
+    id: 'urn:uuid:5bd43ef3-9166-5831-9efe-b6bf2055b481'
+    link: 'https://pub.dartlang.org/packages/webdriver'
+    author:
+        - 'Google Inc.'
