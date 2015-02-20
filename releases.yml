@@ -13933,3 +13933,12 @@
     link: 'https://pub.dartlang.org/packages/wsk_material'
     author:
         - 'Mike Mitterer'
+-
+    package_name: haystack
+    package_version: v0.4.03
+    title: 'v0.4.03 of haystack'
+    published: '2015-02-20T15:32:43+00:00'
+    id: 'urn:uuid:19ea1147-e18c-52e7-ab7b-602258310935'
+    link: 'https://pub.dartlang.org/packages/haystack'
+    author:
+        - 'Dmitriy Vasilyev'
