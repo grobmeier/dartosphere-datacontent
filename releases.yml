@@ -13978,3 +13978,12 @@
     link: 'https://pub.dartlang.org/packages/app_router'
     author:
         - pjv
+-
+    package_name: dart_style
+    package_version: v0.1.4
+    title: 'v0.1.4 of dart_style'
+    published: '2015-02-20T19:30:30+00:00'
+    id: 'urn:uuid:3ed2fe29-b104-5520-9f76-9e0139fe3488'
+    link: 'https://pub.dartlang.org/packages/dart_style'
+    author:
+        - 'Dart Team'
