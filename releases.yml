@@ -13888,3 +13888,12 @@
     link: 'https://pub.dartlang.org/packages/appengine'
     author:
         - 'Dart Team'
+-
+    package_name: githelp
+    package_version: v1.1.5
+    title: 'v1.1.5 of githelp'
+    published: '2015-02-20T13:00:37+00:00'
+    id: 'urn:uuid:da9f09d6-ff21-5a55-b89a-cbe4d018564a'
+    link: 'https://pub.dartlang.org/packages/githelp'
+    author:
+        - office@mikemitterer.at
