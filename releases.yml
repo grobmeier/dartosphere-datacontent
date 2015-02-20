@@ -13942,3 +13942,12 @@
     link: 'https://pub.dartlang.org/packages/haystack'
     author:
         - 'Dmitriy Vasilyev'
+-
+    package_name: shelf_rpc
+    package_version: v0.0.1
+    title: 'v0.0.1 of shelf_rpc'
+    published: '2015-02-20T17:06:05+00:00'
+    id: 'urn:uuid:57a0b673-dc41-56ab-b514-01911e465607'
+    link: 'https://pub.dartlang.org/packages/shelf_rpc'
+    author:
+        - 'Dart Team'
