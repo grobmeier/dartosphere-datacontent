@@ -13996,3 +13996,12 @@
     link: 'https://pub.dartlang.org/packages/sync_socket'
     author:
         - 'Google Inc.'
+-
+    package_name: sync_webdriver
+    package_version: v1.1.4
+    title: 'v1.1.4 of sync_webdriver'
+    published: '2015-02-20T21:09:41+00:00'
+    id: 'urn:uuid:cf359360-3108-5a5f-92e4-52f0e8204cae'
+    link: 'https://pub.dartlang.org/packages/sync_webdriver'
+    author:
+        - 'Google Inc.'
