@@ -14061,3 +14061,12 @@
     link: 'https://pub.dartlang.org/packages/mojito'
     author:
         - 'Anders Holmgren'
+-
+    package_name: sync_socket
+    package_version: v1.0.1+1
+    title: 'v1.0.1+1 of sync_socket'
+    published: '2015-02-20T23:50:19+00:00'
+    id: 'urn:uuid:497da4cc-5209-56c5-856f-141db621a835'
+    link: 'https://pub.dartlang.org/packages/sync_socket'
+    author:
+        - 'Google Inc.'
