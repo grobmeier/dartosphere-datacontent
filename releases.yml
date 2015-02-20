@@ -13897,3 +13897,12 @@
     link: 'https://pub.dartlang.org/packages/githelp'
     author:
         - office@mikemitterer.at
+-
+    package_name: githelp
+    package_version: v1.1.6
+    title: 'v1.1.6 of githelp'
+    published: '2015-02-20T13:25:36+00:00'
+    id: 'urn:uuid:665be7a3-1c18-5d18-9b47-eceb35c410e1'
+    link: 'https://pub.dartlang.org/packages/githelp'
+    author:
+        - office@mikemitterer.at
