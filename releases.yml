@@ -14005,3 +14005,12 @@
     link: 'https://pub.dartlang.org/packages/sync_webdriver'
     author:
         - 'Google Inc.'
+-
+    package_name: shelf_auth
+    package_version: v0.2.4
+    title: 'v0.2.4 of shelf_auth'
+    published: '2015-02-20T21:14:39+00:00'
+    id: 'urn:uuid:0c33bf46-eeea-503f-b99c-a8a0e4bbbc9d'
+    link: 'https://pub.dartlang.org/packages/shelf_auth'
+    author:
+        - 'Anders Holmgren'
