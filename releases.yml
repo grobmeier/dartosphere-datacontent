@@ -13987,3 +13987,12 @@
     link: 'https://pub.dartlang.org/packages/dart_style'
     author:
         - 'Dart Team'
+-
+    package_name: sync_socket
+    package_version: v1.0.1
+    title: 'v1.0.1 of sync_socket'
+    published: '2015-02-20T20:15:27+00:00'
+    id: 'urn:uuid:b927e031-6485-5dcc-8676-d31183fb0979'
+    link: 'https://pub.dartlang.org/packages/sync_socket'
+    author:
+        - 'Google Inc.'
