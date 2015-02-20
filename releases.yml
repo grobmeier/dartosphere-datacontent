@@ -14014,3 +14014,14 @@
     link: 'https://pub.dartlang.org/packages/shelf_auth'
     author:
         - 'Anders Holmgren'
+-
+    package_name: irc
+    package_version: v2.0.9
+    title: 'v2.0.9 of irc'
+    published: '2015-02-20T21:34:40+00:00'
+    id: 'urn:uuid:02f13335-1915-5a7d-8fbb-3783eb87aa32'
+    link: 'https://pub.dartlang.org/packages/irc'
+    author:
+        - 'Kenneth Endfinger'
+        - samrg472
+        - TheMike
