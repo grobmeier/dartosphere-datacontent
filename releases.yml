@@ -13951,3 +13951,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_rpc'
     author:
         - 'Dart Team'
+-
+    package_name: bwu_datastore_launcher
+    package_version: v0.3.0+1
+    title: 'v0.3.0+1 of bwu_datastore_launcher'
+    published: '2015-02-20T17:09:36+00:00'
+    id: 'urn:uuid:6da77f0f-7841-5dd8-aeac-e4b1bd9bb95f'
+    link: 'https://pub.dartlang.org/packages/bwu_datastore_launcher'
+    author:
+        - 'Günter Zöchbauer'
