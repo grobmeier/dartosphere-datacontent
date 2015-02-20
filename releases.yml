@@ -13915,3 +13915,12 @@
     link: 'https://pub.dartlang.org/packages/wsk_material'
     author:
         - 'Mike Mitterer'
+-
+    package_name: githelp
+    package_version: v1.1.8
+    title: 'v1.1.8 of githelp'
+    published: '2015-02-20T13:45:52+00:00'
+    id: 'urn:uuid:a0d7a968-7727-56df-8afd-9caa20ed59ad'
+    link: 'https://pub.dartlang.org/packages/githelp'
+    author:
+        - office@mikemitterer.at
