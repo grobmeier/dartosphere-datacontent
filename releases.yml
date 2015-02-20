@@ -13843,3 +13843,12 @@
     link: 'https://pub.dartlang.org/packages/drails'
     author:
         - 'Luis Vargas'
+-
+    package_name: angulardart_custom_swipe
+    package_version: v0.1.1
+    title: 'v0.1.1 of angulardart_custom_swipe'
+    published: '2015-02-20T09:15:24+00:00'
+    id: 'urn:uuid:38783bba-44a0-5d4c-90a7-8a4408d3876c'
+    link: 'https://pub.dartlang.org/packages/angulardart_custom_swipe'
+    author:
+        - AlexCDumitru(AlexCD)
