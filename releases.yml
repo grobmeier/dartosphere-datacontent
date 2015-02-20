@@ -13825,3 +13825,12 @@
     link: 'https://pub.dartlang.org/packages/drails'
     author:
         - 'Luis Vargas'
+-
+    package_name: drails
+    package_version: v0.1.3+2
+    title: 'v0.1.3+2 of drails'
+    published: '2015-02-20T01:54:38+00:00'
+    id: 'urn:uuid:001df206-6093-5726-b3ea-4ae2a0689558'
+    link: 'https://pub.dartlang.org/packages/drails'
+    author:
+        - 'Luis Vargas'
