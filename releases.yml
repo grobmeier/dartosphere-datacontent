@@ -14025,3 +14025,12 @@
         - 'Kenneth Endfinger'
         - samrg472
         - TheMike
+-
+    package_name: dart_style
+    package_version: v0.1.5
+    title: 'v0.1.5 of dart_style'
+    published: '2015-02-20T21:49:58+00:00'
+    id: 'urn:uuid:5115cd2b-244d-5e32-86ec-2abc24257e66'
+    link: 'https://pub.dartlang.org/packages/dart_style'
+    author:
+        - 'Dart Team'
