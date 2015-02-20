@@ -14043,3 +14043,12 @@
     link: 'https://pub.dartlang.org/packages/pageloader'
     author:
         - 'Google Inc.'
+-
+    package_name: mojito
+    package_version: v0.1.1
+    title: 'v0.1.1 of mojito'
+    published: '2015-02-20T22:09:43+00:00'
+    id: 'urn:uuid:20da9d9d-f18c-5465-8e12-c97612683efa'
+    link: 'https://pub.dartlang.org/packages/mojito'
+    author:
+        - 'Anders Holmgren'
