@@ -14079,3 +14079,12 @@
     link: 'https://pub.dartlang.org/packages/source_gen'
     author:
         - 'Kevin Moore'
+-
+    package_name: shelf_auth
+    package_version: v0.2.5
+    title: 'v0.2.5 of shelf_auth'
+    published: '2015-02-21T00:55:15+00:00'
+    id: 'urn:uuid:aa528766-6d94-5301-913b-78e22afec0a9'
+    link: 'https://pub.dartlang.org/packages/shelf_auth'
+    author:
+        - 'Anders Holmgren'
