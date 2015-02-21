@@ -14126,3 +14126,12 @@
         - 'Kenneth Endfinger'
         - samrg472
         - TheMike
+-
+    package_name: do2configuration
+    package_version: v0.0.2
+    title: 'v0.0.2 of do2configuration'
+    published: '2015-02-21T06:55:14+00:00'
+    id: 'urn:uuid:1114055f-555c-5e47-98ba-fa1af6cbb19c'
+    link: 'https://pub.dartlang.org/packages/do2configuration'
+    author:
+        - 'Mikhail Stolyarov'
