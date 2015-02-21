@@ -14070,3 +14070,12 @@
     link: 'https://pub.dartlang.org/packages/sync_socket'
     author:
         - 'Google Inc.'
+-
+    package_name: source_gen
+    package_version: v0.2.1
+    title: 'v0.2.1 of source_gen'
+    published: '2015-02-21T00:40:18+00:00'
+    id: 'urn:uuid:c33b8d90-ac60-5074-ada2-8374841cb7fa'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Kevin Moore'
