@@ -14106,3 +14106,12 @@
     link: 'https://pub.dartlang.org/packages/http'
     author:
         - 'Dart Team'
+-
+    package_name: shelf_rest
+    package_version: v0.1.4
+    title: 'v0.1.4 of shelf_rest'
+    published: '2015-02-21T01:45:17+00:00'
+    id: 'urn:uuid:b5f613cf-a3ff-5f8d-9746-8b6d750ca89e'
+    link: 'https://pub.dartlang.org/packages/shelf_rest'
+    author:
+        - 'Anders Holmgren'
