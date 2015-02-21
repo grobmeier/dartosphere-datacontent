@@ -14088,3 +14088,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_auth'
     author:
         - 'Anders Holmgren'
+-
+    package_name: mojito
+    package_version: v0.1.3
+    title: 'v0.1.3 of mojito'
+    published: '2015-02-21T01:00:24+00:00'
+    id: 'urn:uuid:17160bdf-ba69-52b9-97aa-a2d90ecabcca'
+    link: 'https://pub.dartlang.org/packages/mojito'
+    author:
+        - 'Anders Holmgren'
