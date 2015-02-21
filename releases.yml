@@ -14115,3 +14115,14 @@
     link: 'https://pub.dartlang.org/packages/shelf_rest'
     author:
         - 'Anders Holmgren'
+-
+    package_name: irc
+    package_version: v2.1.0
+    title: 'v2.1.0 of irc'
+    published: '2015-02-21T02:50:17+00:00'
+    id: 'urn:uuid:d397ed1b-5e46-5755-8b3d-bf916944493a'
+    link: 'https://pub.dartlang.org/packages/irc'
+    author:
+        - 'Kenneth Endfinger'
+        - samrg472
+        - TheMike
