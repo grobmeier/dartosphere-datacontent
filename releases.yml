@@ -14144,3 +14144,12 @@
     link: 'https://pub.dartlang.org/packages/klang'
     author:
         - 'Gaëtan Rizio'
+-
+    package_name: shelf_cors
+    package_version: v0.2.0
+    title: 'v0.2.0 of shelf_cors'
+    published: '2015-02-21T20:00:24+00:00'
+    id: 'urn:uuid:2dcc218f-821a-5171-befd-acc9c44a15a2'
+    link: 'https://pub.dartlang.org/packages/shelf_cors'
+    author:
+        - 'George Moschovitis'
