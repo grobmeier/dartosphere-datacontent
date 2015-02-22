@@ -14225,3 +14225,12 @@
     link: 'https://pub.dartlang.org/packages/date_picker_component'
     author:
         - 'Marcos Benatti Lauer'
+-
+    package_name: dtmark
+    package_version: v0.13.2
+    title: 'v0.13.2 of dtmark'
+    published: '2015-02-22T19:25:16+00:00'
+    id: 'urn:uuid:31007cdc-3d5e-5a53-a6a3-24b5187df555'
+    link: 'https://pub.dartlang.org/packages/dtmark'
+    author:
+        - unknownloner
