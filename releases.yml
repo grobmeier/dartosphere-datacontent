@@ -14198,3 +14198,12 @@
     link: 'https://pub.dartlang.org/packages/wsk_angular'
     author:
         - 'Mike Mitterer'
+-
+    package_name: bwu_datastore_launcher
+    package_version: v0.3.1
+    title: 'v0.3.1 of bwu_datastore_launcher'
+    published: '2015-02-22T16:10:17+00:00'
+    id: 'urn:uuid:55725d24-2923-52d0-a361-560a254410dc'
+    link: 'https://pub.dartlang.org/packages/bwu_datastore_launcher'
+    author:
+        - 'Günter Zöchbauer'
