@@ -14153,3 +14153,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_cors'
     author:
         - 'George Moschovitis'
+-
+    package_name: date_picker_component
+    package_version: v1.0.0
+    title: 'v1.0.0 of date_picker_component'
+    published: '2015-02-22T00:05:17+00:00'
+    id: 'urn:uuid:5168e917-1612-5655-a66d-2afe478784ad'
+    link: 'https://pub.dartlang.org/packages/date_picker_component'
+    author:
+        - 'Marcos Benatti Lauer<benatti77@gmail.com>'
