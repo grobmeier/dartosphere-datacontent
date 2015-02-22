@@ -14216,3 +14216,12 @@
     link: 'https://pub.dartlang.org/packages/date_picker_component'
     author:
         - 'Marcos Benatti Lauer'
+-
+    package_name: date_picker_component
+    package_version: v1.1.1
+    title: 'v1.1.1 of date_picker_component'
+    published: '2015-02-22T18:35:16+00:00'
+    id: 'urn:uuid:3337aeae-2c1e-5d06-bb8a-2faea1d5203a'
+    link: 'https://pub.dartlang.org/packages/date_picker_component'
+    author:
+        - 'Marcos Benatti Lauer'
