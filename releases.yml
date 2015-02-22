@@ -14234,3 +14234,12 @@
     link: 'https://pub.dartlang.org/packages/dtmark'
     author:
         - unknownloner
+-
+    package_name: flare
+    package_version: v0.6.1
+    title: 'v0.6.1 of flare'
+    published: '2015-02-22T21:25:17+00:00'
+    id: 'urn:uuid:f75c6d68-c839-514c-99e7-7be4077c200d'
+    link: 'https://pub.dartlang.org/packages/flare'
+    author:
+        - 'George Moschovitis'
