@@ -14180,3 +14180,12 @@
     link: 'https://pub.dartlang.org/packages/dtmark'
     author:
         - unknownloner
+-
+    package_name: bigcargo
+    package_version: v0.2.5
+    title: 'v0.2.5 of bigcargo'
+    published: '2015-02-22T11:05:14+00:00'
+    id: 'urn:uuid:565f5ecf-7519-506e-8d4d-97ddba9e26a9'
+    link: 'https://pub.dartlang.org/packages/bigcargo'
+    author:
+        - 'Joris Hermans'
