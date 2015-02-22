@@ -14207,3 +14207,12 @@
     link: 'https://pub.dartlang.org/packages/bwu_datastore_launcher'
     author:
         - 'Günter Zöchbauer'
+-
+    package_name: date_picker_component
+    package_version: v1.1.0
+    title: 'v1.1.0 of date_picker_component'
+    published: '2015-02-22T18:15:18+00:00'
+    id: 'urn:uuid:89c3347c-15cd-516e-acb1-eaac25d30a39'
+    link: 'https://pub.dartlang.org/packages/date_picker_component'
+    author:
+        - 'Marcos Benatti Lauer'
