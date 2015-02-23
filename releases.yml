@@ -14333,3 +14333,12 @@
     link: 'https://pub.dartlang.org/packages/async'
     author:
         - 'Dart Team'
+-
+    package_name: ascii_type
+    package_version: v0.0.2
+    title: 'v0.0.2 of ascii_type'
+    published: '2015-02-23T10:45:27+00:00'
+    id: 'urn:uuid:14e09beb-dfba-5aa1-a349-6462d7764348'
+    link: 'https://pub.dartlang.org/packages/ascii_type'
+    author:
+        - 'Andrew Mezoni'
