@@ -14396,3 +14396,12 @@
     link: 'https://pub.dartlang.org/packages/tuneup'
     author:
         - 'Devon Carew'
+-
+    package_name: tuneup
+    package_version: v0.0.5+1
+    title: 'v0.0.5+1 of tuneup'
+    published: '2015-02-23T19:50:35+00:00'
+    id: 'urn:uuid:b1fbdd45-2d77-5cd2-8f6f-fd40fc74e455'
+    link: 'https://pub.dartlang.org/packages/tuneup'
+    author:
+        - 'Devon Carew'
