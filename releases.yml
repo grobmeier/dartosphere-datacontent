@@ -14324,3 +14324,12 @@
     link: 'https://pub.dartlang.org/packages/ascii'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: async
+    package_version: v1.1.0
+    title: 'v1.1.0 of async'
+    published: '2015-02-23T10:40:26+00:00'
+    id: 'urn:uuid:e0940cb6-c016-5a5c-9282-775bfc660717'
+    link: 'https://pub.dartlang.org/packages/async'
+    author:
+        - 'Dart Team'
