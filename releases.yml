@@ -14279,3 +14279,12 @@
     link: 'https://pub.dartlang.org/packages/lost_dart'
     author:
         - 'Sergey Akopkokhyants'
+-
+    package_name: lost_dart
+    package_version: v1.0.9
+    title: 'v1.0.9 of lost_dart'
+    published: '2015-02-23T06:25:16+00:00'
+    id: 'urn:uuid:8ccd774d-b7b6-56f2-84fa-b983219d4657'
+    link: 'https://pub.dartlang.org/packages/lost_dart'
+    author:
+        - 'Sergey Akopkokhyants'
