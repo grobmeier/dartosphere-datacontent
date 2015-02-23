@@ -14351,3 +14351,12 @@
     link: 'https://pub.dartlang.org/packages/ascii'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: do2server
+    package_version: v0.0.2
+    title: 'v0.0.2 of do2server'
+    published: '2015-02-23T13:40:25+00:00'
+    id: 'urn:uuid:de88a355-4be6-5828-b13f-bfc6d72be5be'
+    link: 'https://pub.dartlang.org/packages/do2server'
+    author:
+        - 'Mikhail Stolyarov'
