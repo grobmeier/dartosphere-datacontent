@@ -14297,3 +14297,12 @@
     link: 'https://pub.dartlang.org/packages/lists'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: ascii_type
+    package_version: v0.0.1
+    title: 'v0.0.1 of ascii_type'
+    published: '2015-02-23T09:20:24+00:00'
+    id: 'urn:uuid:20d78d20-24d2-52c6-aa10-20c89dcfb76e'
+    link: 'https://pub.dartlang.org/packages/ascii_type'
+    author:
+        - 'Andrew Mezoni'
