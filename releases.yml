@@ -14378,3 +14378,12 @@
     link: 'https://pub.dartlang.org/packages/date_picker_component'
     author:
         - 'Marcos Benatti Lauer'
+-
+    package_name: web_components
+    package_version: v0.10.3
+    title: 'v0.10.3 of web_components'
+    published: '2015-02-23T18:40:25+00:00'
+    id: 'urn:uuid:8dbebee9-fd40-5710-84a3-da0f6f906718'
+    link: 'https://pub.dartlang.org/packages/web_components'
+    author:
+        - 'Polymer.dart Authors'
