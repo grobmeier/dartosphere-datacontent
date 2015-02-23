@@ -14405,3 +14405,12 @@
     link: 'https://pub.dartlang.org/packages/tuneup'
     author:
         - 'Devon Carew'
+-
+    package_name: date_picker_component
+    package_version: v1.2.2
+    title: 'v1.2.2 of date_picker_component'
+    published: '2015-02-23T21:15:26+00:00'
+    id: 'urn:uuid:68ae46b8-3df9-5321-9d67-55e0f8e98f4e'
+    link: 'https://pub.dartlang.org/packages/date_picker_component'
+    author:
+        - 'Marcos Benatti Lauer'
