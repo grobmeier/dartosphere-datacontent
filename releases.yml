@@ -14306,3 +14306,12 @@
     link: 'https://pub.dartlang.org/packages/ascii_type'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: ascii
+    package_version: v0.0.2
+    title: 'v0.0.2 of ascii'
+    published: '2015-02-23T10:25:33+00:00'
+    id: 'urn:uuid:ed47b53e-42c3-53c2-9e4a-9544c3ec0ee9'
+    link: 'https://pub.dartlang.org/packages/ascii'
+    author:
+        - 'Andrew Mezoni'
