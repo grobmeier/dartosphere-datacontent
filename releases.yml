@@ -14243,3 +14243,12 @@
     link: 'https://pub.dartlang.org/packages/flare'
     author:
         - 'George Moschovitis'
+-
+    package_name: matrix
+    package_version: v0.0.1
+    title: 'v0.0.1 of matrix'
+    published: '2015-02-23T00:20:17+00:00'
+    id: 'urn:uuid:d3eb70ab-799e-5ed6-b739-e0f789df5849'
+    link: 'https://pub.dartlang.org/packages/matrix'
+    author:
+        - 'Draško Kokić'
