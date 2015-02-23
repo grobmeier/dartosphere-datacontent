@@ -14360,3 +14360,12 @@
     link: 'https://pub.dartlang.org/packages/do2server'
     author:
         - 'Mikhail Stolyarov'
+-
+    package_name: wsk_angular
+    package_version: v0.6.4
+    title: 'v0.6.4 of wsk_angular'
+    published: '2015-02-23T14:10:25+00:00'
+    id: 'urn:uuid:2feab794-4c23-56e3-a72a-339b31843268'
+    link: 'https://pub.dartlang.org/packages/wsk_angular'
+    author:
+        - 'Mike Mitterer'
