@@ -14423,3 +14423,12 @@
     link: 'https://pub.dartlang.org/packages/date_picker_component'
     author:
         - 'Marcos Benatti Lauer'
+-
+    package_name: dart_worker
+    package_version: v0.0.6
+    title: 'v0.0.6 of dart_worker'
+    published: '2015-02-23T23:50:23+00:00'
+    id: 'urn:uuid:3d979619-b7c5-5d44-84a8-95e1d8101b17'
+    link: 'https://pub.dartlang.org/packages/dart_worker'
+    author:
+        - 'Grant Hutchinson<h.g.utchinson@gmail.com>'
