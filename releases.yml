@@ -14288,3 +14288,12 @@
     link: 'https://pub.dartlang.org/packages/lost_dart'
     author:
         - 'Sergey Akopkokhyants'
+-
+    package_name: lists
+    package_version: v0.0.21
+    title: 'v0.0.21 of lists'
+    published: '2015-02-23T06:40:18+00:00'
+    id: 'urn:uuid:ebfd8e39-e27e-584c-bd6d-00f02dfdd9dd'
+    link: 'https://pub.dartlang.org/packages/lists'
+    author:
+        - 'Andrew Mezoni'
