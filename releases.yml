@@ -14488,3 +14488,12 @@
         - 'Tom Yeh'
         - 'Henri Chen'
         - 'Simon Pai'
+-
+    package_name: wsk_material
+    package_version: v0.6.4
+    title: 'v0.6.4 of wsk_material'
+    published: '2015-02-24T18:24:20+00:00'
+    id: 'urn:uuid:12497c65-407e-5eec-98f6-96d07a9c4c17'
+    link: 'https://pub.dartlang.org/packages/wsk_material'
+    author:
+        - 'Mike Mitterer'
