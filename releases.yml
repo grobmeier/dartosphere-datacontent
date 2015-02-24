@@ -14497,3 +14497,35 @@
     link: 'https://pub.dartlang.org/packages/wsk_material'
     author:
         - 'Mike Mitterer'
+-
+    package_name: benchpress
+    package_version: v2.0.0-alpha.9
+    title: 'v2.0.0-alpha.9 of benchpress'
+    published: '2015-02-24T20:06:40+00:00'
+    id: 'urn:uuid:b6e1cc7f-79ff-5609-8913-e614736121d7'
+    link: 'https://pub.dartlang.org/packages/benchpress'
+    author:
+        - 'Alex Eagle'
+        - 'Chirayu Krishnappa'
+        - 'Jeff Cross'
+        - 'Misko Hevery'
+        - 'Rado Kirov'
+        - 'Tobias Bosch'
+        - 'Victor Savkin'
+        - 'Yegor Jbanov'
+-
+    package_name: angular2
+    package_version: v2.0.0-alpha.9
+    title: 'v2.0.0-alpha.9 of angular2'
+    published: '2015-02-24T20:06:40+00:00'
+    id: 'urn:uuid:fb2e8862-507d-5e9f-9995-4d6bf0c85afd'
+    link: 'https://pub.dartlang.org/packages/angular2'
+    author:
+        - 'Alex Eagle'
+        - 'Chirayu Krishnappa'
+        - 'Jeff Cross'
+        - 'Misko Hevery'
+        - 'Rado Kirov'
+        - 'Tobias Bosch'
+        - 'Victor Savkin'
+        - 'Yegor Jbanov'
