@@ -14450,3 +14450,12 @@
     link: 'https://pub.dartlang.org/packages/archive'
     author:
         - 'Brendan Duncan'
+-
+    package_name: dart_worker
+    package_version: v0.0.8
+    title: 'v0.0.8 of dart_worker'
+    published: '2015-02-24T05:20:28+00:00'
+    id: 'urn:uuid:dbebd003-50b9-5549-af4e-ff388e15e9c7'
+    link: 'https://pub.dartlang.org/packages/dart_worker'
+    author:
+        - 'Grant Hutchinson<h.g.utchinson@gmail.com>'
