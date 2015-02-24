@@ -14459,3 +14459,12 @@
     link: 'https://pub.dartlang.org/packages/dart_worker'
     author:
         - 'Grant Hutchinson<h.g.utchinson@gmail.com>'
+-
+    package_name: ascii
+    package_version: v0.0.5
+    title: 'v0.0.5 of ascii'
+    published: '2015-02-24T06:20:26+00:00'
+    id: 'urn:uuid:b634dea6-4588-58aa-bb07-d3ec97c23ba8'
+    link: 'https://pub.dartlang.org/packages/ascii'
+    author:
+        - 'Andrew Mezoni'
