@@ -14468,3 +14468,12 @@
     link: 'https://pub.dartlang.org/packages/ascii'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: polymer_intl
+    package_version: v0.0.1
+    title: 'v0.0.1 of polymer_intl'
+    published: '2015-02-24T13:29:39+00:00'
+    id: 'urn:uuid:c1ce567d-2401-5012-9a79-041b62eec813'
+    link: 'https://pub.dartlang.org/packages/polymer_intl'
+    author:
+        - 'Wrike Inc'
