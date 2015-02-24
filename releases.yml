@@ -14477,3 +14477,14 @@
     link: 'https://pub.dartlang.org/packages/polymer_intl'
     author:
         - 'Wrike Inc'
+-
+    package_name: rikulo_commons
+    package_version: v1.1.5
+    title: 'v1.1.5 of rikulo_commons'
+    published: '2015-02-24T15:09:26+00:00'
+    id: 'urn:uuid:d0195ac2-51ef-5243-a2f7-03cf2e1fa61f'
+    link: 'https://pub.dartlang.org/packages/rikulo_commons'
+    author:
+        - 'Tom Yeh'
+        - 'Henri Chen'
+        - 'Simon Pai'
