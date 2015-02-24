@@ -14441,3 +14441,12 @@
     link: 'https://pub.dartlang.org/packages/dart_worker'
     author:
         - 'Grant Hutchinson<h.g.utchinson@gmail.com>'
+-
+    package_name: archive
+    package_version: v1.0.19
+    title: 'v1.0.19 of archive'
+    published: '2015-02-24T05:05:26+00:00'
+    id: 'urn:uuid:be608ffe-f699-56de-9f18-9085536f1c85'
+    link: 'https://pub.dartlang.org/packages/archive'
+    author:
+        - 'Brendan Duncan'
