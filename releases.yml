@@ -14630,3 +14630,12 @@
     link: 'https://pub.dartlang.org/packages/rsa'
     author:
         - 'Axel Christ'
+-
+    package_name: secret_sharing
+    package_version: v0.0.2
+    title: 'v0.0.2 of secret_sharing'
+    published: '2015-02-25T10:25:25+00:00'
+    id: 'urn:uuid:b11a5cc6-4d3e-55cb-9455-879061432054'
+    link: 'https://pub.dartlang.org/packages/secret_sharing'
+    author:
+        - 'Axel Christ'
