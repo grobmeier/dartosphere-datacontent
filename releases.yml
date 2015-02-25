@@ -14594,3 +14594,12 @@
     link: 'https://pub.dartlang.org/packages/reflector'
     author:
         - 'Matan Lurey'
+-
+    package_name: ace
+    package_version: v0.6.0+24.2.15
+    title: 'v0.6.0+24.2.15 of ace'
+    published: '2015-02-25T08:15:23+00:00'
+    id: 'urn:uuid:cf72ee47-a371-5195-9f83-465b6a23b47c'
+    link: 'https://pub.dartlang.org/packages/ace'
+    author:
+        - 'Ross Smith'
