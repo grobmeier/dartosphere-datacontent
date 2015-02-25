@@ -14621,3 +14621,12 @@
     link: 'https://pub.dartlang.org/packages/bbs'
     author:
         - 'Axel Christ'
+-
+    package_name: rsa
+    package_version: v0.0.2
+    title: 'v0.0.2 of rsa'
+    published: '2015-02-25T09:55:23+00:00'
+    id: 'urn:uuid:a6995eb6-1bdd-5874-ad52-a4f1b91fe3a6'
+    link: 'https://pub.dartlang.org/packages/rsa'
+    author:
+        - 'Axel Christ'
