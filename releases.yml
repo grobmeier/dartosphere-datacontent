@@ -14639,3 +14639,12 @@
     link: 'https://pub.dartlang.org/packages/secret_sharing'
     author:
         - 'Axel Christ'
+-
+    package_name: angulardart_custom_swipe
+    package_version: v0.1.2
+    title: 'v0.1.2 of angulardart_custom_swipe'
+    published: '2015-02-25T10:35:24+00:00'
+    id: 'urn:uuid:995f8fcc-215a-5152-a78d-dbb6e8d6e7f1'
+    link: 'https://pub.dartlang.org/packages/angulardart_custom_swipe'
+    author:
+        - AlexCDumitru(AlexCD)
