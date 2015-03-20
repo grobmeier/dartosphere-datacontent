@@ -14846,3 +14846,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_path'
     author:
         - 'Anders Holmgren'
+-
+    package_name: shelf_route
+    package_version: v0.12.0
+    title: 'v0.12.0 of shelf_route'
+    published: '2015-03-20T23:30:21+00:00'
+    id: 'urn:uuid:9bee0640-255c-532d-a122-fc35b5e16bdf'
+    link: 'https://pub.dartlang.org/packages/shelf_route'
+    author:
+        - 'Anders Holmgren'
