@@ -14756,3 +14756,12 @@
     link: 'https://pub.dartlang.org/packages/wsk_material'
     author:
         - 'Mike Mitterer'
+-
+    package_name: html5lib
+    package_version: v0.12.0+2
+    title: 'v0.12.0+2 of html5lib'
+    published: '2015-03-20T15:55:21+00:00'
+    id: 'urn:uuid:a8c81438-ac69-5adf-8f57-634cddb947c7'
+    link: 'https://pub.dartlang.org/packages/html5lib'
+    author:
+        - 'Dart Team'
