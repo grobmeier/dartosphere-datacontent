@@ -14765,3 +14765,12 @@
     link: 'https://pub.dartlang.org/packages/html5lib'
     author:
         - 'Dart Team'
+-
+    package_name: custom_element_apigen
+    package_version: v0.1.4+2
+    title: 'v0.1.4+2 of custom_element_apigen'
+    published: '2015-03-20T16:05:23+00:00'
+    id: 'urn:uuid:80b8888b-74a9-52b1-bc93-665b2eba180d'
+    link: 'https://pub.dartlang.org/packages/custom_element_apigen'
+    author:
+        - 'Polymer.dart Authors'
