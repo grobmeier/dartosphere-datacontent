@@ -14783,3 +14783,12 @@
     link: 'https://pub.dartlang.org/packages/html5lib'
     author:
         - 'Dart Team'
+-
+    package_name: wsk_angular
+    package_version: v0.8.1
+    title: 'v0.8.1 of wsk_angular'
+    published: '2015-03-20T17:05:21+00:00'
+    id: 'urn:uuid:6008d417-693b-57c2-8b29-ea139421e2a9'
+    link: 'https://pub.dartlang.org/packages/wsk_angular'
+    author:
+        - 'Mike Mitterer'
