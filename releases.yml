@@ -14837,3 +14837,12 @@
     link: 'https://pub.dartlang.org/packages/sky'
     author:
         - 'Chromium Authors'
+-
+    package_name: shelf_path
+    package_version: v0.1.2
+    title: 'v0.1.2 of shelf_path'
+    published: '2015-03-20T23:20:17+00:00'
+    id: 'urn:uuid:c1836545-2b50-5e61-9c3d-7c42d9581d66'
+    link: 'https://pub.dartlang.org/packages/shelf_path'
+    author:
+        - 'Anders Holmgren'
