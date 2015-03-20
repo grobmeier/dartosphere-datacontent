@@ -14828,3 +14828,12 @@
     link: 'https://pub.dartlang.org/packages/hello_dart'
     author:
         - 'Marco Jakob'
+-
+    package_name: sky
+    package_version: v0.0.2
+    title: 'v0.0.2 of sky'
+    published: '2015-03-20T21:50:22+00:00'
+    id: 'urn:uuid:545b4a50-215b-5455-bfcb-318adc7f3e69'
+    link: 'https://pub.dartlang.org/packages/sky'
+    author:
+        - 'Chromium Authors'
