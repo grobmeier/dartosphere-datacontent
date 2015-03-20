@@ -14792,3 +14792,21 @@
     link: 'https://pub.dartlang.org/packages/wsk_angular'
     author:
         - 'Mike Mitterer'
+-
+    package_name: class_loader
+    package_version: v0.0.1
+    title: 'v0.0.1 of class_loader'
+    published: '2015-03-20T20:35:20+00:00'
+    id: 'urn:uuid:b8f9b132-bacd-5f3a-b091-ec9e01b432f6'
+    link: 'https://pub.dartlang.org/packages/class_loader'
+    author:
+        - 'Christoph Grundmann'
+-
+    package_name: overwrite
+    package_version: v0.2.7
+    title: 'v0.2.7 of overwrite'
+    published: '2015-03-20T20:35:20+00:00'
+    id: 'urn:uuid:c841cddc-740a-510f-ba0a-8098efb8b385'
+    link: 'https://pub.dartlang.org/packages/overwrite'
+    author:
+        - 'Christopher Best'
