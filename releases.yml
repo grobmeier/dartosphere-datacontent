@@ -14810,3 +14810,12 @@
     link: 'https://pub.dartlang.org/packages/overwrite'
     author:
         - 'Christopher Best'
+-
+    package_name: unscripted
+    package_version: v0.6.0
+    title: 'v0.6.0 of unscripted'
+    published: '2015-03-20T20:55:19+00:00'
+    id: 'urn:uuid:5e808946-205c-5d18-bae1-0f67f005d873'
+    link: 'https://pub.dartlang.org/packages/unscripted'
+    author:
+        - 'Sean Eagan'
