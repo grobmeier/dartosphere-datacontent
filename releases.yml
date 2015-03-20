@@ -14819,3 +14819,12 @@
     link: 'https://pub.dartlang.org/packages/unscripted'
     author:
         - 'Sean Eagan'
+-
+    package_name: hello_dart
+    package_version: v0.1.1
+    title: 'v0.1.1 of hello_dart'
+    published: '2015-03-20T21:00:24+00:00'
+    id: 'urn:uuid:1fdafda0-2db9-5842-b4f1-22d3c7722aa4'
+    link: 'https://pub.dartlang.org/packages/hello_dart'
+    author:
+        - 'Marco Jakob'
