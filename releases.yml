@@ -14738,3 +14738,12 @@
     link: 'https://pub.dartlang.org/packages/mongo_fixtures'
     author:
         - 'Vladimir Shushkov'
+-
+    package_name: material_icons
+    package_version: v1.0.2
+    title: 'v1.0.2 of material_icons'
+    published: '2015-03-20T12:55:18+00:00'
+    id: 'urn:uuid:6151e031-bcee-5172-bf95-e588c60f6b57'
+    link: 'https://pub.dartlang.org/packages/material_icons'
+    author:
+        - 'Mike Mitterer'
