@@ -14882,3 +14882,30 @@
     link: 'https://pub.dartlang.org/packages/magus'
     author:
         - 'Daniel Davidson'
+-
+    package_name: binary_interop
+    package_version: v0.0.20
+    title: 'v0.0.20 of binary_interop'
+    published: '2015-03-21T08:55:15+00:00'
+    id: 'urn:uuid:2507933d-dcca-596a-ae52-794cd4692a0e'
+    link: 'https://pub.dartlang.org/packages/binary_interop'
+    author:
+        - 'Andrew Mezoni'
+-
+    package_name: binary_types
+    package_version: v0.0.32
+    title: 'v0.0.32 of binary_types'
+    published: '2015-03-21T08:55:15+00:00'
+    id: 'urn:uuid:dd41044a-6291-53c3-9a3a-a9ea1fd3cd42'
+    link: 'https://pub.dartlang.org/packages/binary_types'
+    author:
+        - 'Andrew Mezoni'
+-
+    package_name: binary_declarations
+    package_version: v0.0.50
+    title: 'v0.0.50 of binary_declarations'
+    published: '2015-03-21T08:55:15+00:00'
+    id: 'urn:uuid:559a2f19-3040-521c-be1e-aaa7f1bb9659'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni'
