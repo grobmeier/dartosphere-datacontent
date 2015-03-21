@@ -14909,3 +14909,12 @@
     link: 'https://pub.dartlang.org/packages/binary_declarations'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_declarations
+    package_version: v0.0.51
+    title: 'v0.0.51 of binary_declarations'
+    published: '2015-03-21T09:30:21+00:00'
+    id: 'urn:uuid:48266aa3-5edc-5a83-bccf-7c7a3df3fbfb'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni'
