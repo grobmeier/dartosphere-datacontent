@@ -14855,3 +14855,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_route'
     author:
         - 'Anders Holmgren'
+-
+    package_name: ebisu
+    package_version: v0.2.1
+    title: 'v0.2.1 of ebisu'
+    published: '2015-03-21T02:35:14+00:00'
+    id: 'urn:uuid:ef809018-c3fa-560c-ada3-2253566aefd9'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson'
