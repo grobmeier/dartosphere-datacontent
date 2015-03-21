@@ -14873,3 +14873,12 @@
     link: 'https://pub.dartlang.org/packages/magus'
     author:
         - 'Daniel Davidson'
+-
+    package_name: magus
+    package_version: v0.0.7
+    title: 'v0.0.7 of magus'
+    published: '2015-03-21T02:55:13+00:00'
+    id: 'urn:uuid:051f57bd-2dbd-5d6f-82aa-f0fbc62fa29a'
+    link: 'https://pub.dartlang.org/packages/magus'
+    author:
+        - 'Daniel Davidson'
