@@ -14981,3 +14981,12 @@
     link: 'https://pub.dartlang.org/packages/aursir4dart'
     author:
         - 'Joern Weissenborn'
+-
+    package_name: boarding
+    package_version: v0.2.3
+    title: 'v0.2.3 of boarding'
+    published: '2015-03-21T17:50:17+00:00'
+    id: 'urn:uuid:c05e978d-5583-5d8d-8e05-763357361e71'
+    link: 'https://pub.dartlang.org/packages/boarding'
+    author:
+        - 'Dzenan Ridjanovic'
