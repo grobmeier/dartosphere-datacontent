@@ -14999,3 +14999,12 @@
     link: 'https://pub.dartlang.org/packages/dart_orm'
     author:
         - 'Ustimenko Sergey'
+-
+    package_name: codemirror
+    package_version: v0.2.1+5.0.0
+    title: 'v0.2.1+5.0.0 of codemirror'
+    published: '2015-03-21T21:15:40+00:00'
+    id: 'urn:uuid:50a64613-7702-537a-b2eb-1b7a95a26f91'
+    link: 'https://pub.dartlang.org/packages/codemirror'
+    author:
+        - 'Devon Carew'
