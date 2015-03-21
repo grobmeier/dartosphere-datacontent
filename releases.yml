@@ -14963,3 +14963,12 @@
     link: 'https://pub.dartlang.org/packages/aursir_polymer'
     author:
         - 'Joern Weissenborn'
+-
+    package_name: ebisu_cpp_db
+    package_version: v0.0.4
+    title: 'v0.0.4 of ebisu_cpp_db'
+    published: '2015-03-21T17:05:16+00:00'
+    id: 'urn:uuid:b56c4861-0826-5514-8bda-3c63e0cb1bca'
+    link: 'https://pub.dartlang.org/packages/ebisu_cpp_db'
+    author:
+        - 'Daniel Davidson'
