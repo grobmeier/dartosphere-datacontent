@@ -14864,3 +14864,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu'
     author:
         - 'Daniel Davidson'
+-
+    package_name: magus
+    package_version: v0.0.6
+    title: 'v0.0.6 of magus'
+    published: '2015-03-21T02:50:16+00:00'
+    id: 'urn:uuid:36da97bb-84d0-55ba-bd9c-ff8d1d4e3103'
+    link: 'https://pub.dartlang.org/packages/magus'
+    author:
+        - 'Daniel Davidson'
