@@ -14954,3 +14954,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu_cpp'
     author:
         - 'Daniel Davidson'
+-
+    package_name: aursir_polymer
+    package_version: v0.2.12
+    title: 'v0.2.12 of aursir_polymer'
+    published: '2015-03-21T16:55:17+00:00'
+    id: 'urn:uuid:1b7dcab8-52be-5f97-a060-b4d626559abf'
+    link: 'https://pub.dartlang.org/packages/aursir_polymer'
+    author:
+        - 'Joern Weissenborn'
