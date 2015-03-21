@@ -14927,3 +14927,12 @@
     link: 'https://pub.dartlang.org/packages/binary_types'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: force
+    package_version: v0.6.2
+    title: 'v0.6.2 of force'
+    published: '2015-03-21T15:10:17+00:00'
+    id: 'urn:uuid:b07c29d4-b6a8-552a-a5e6-6f6c78daae5c'
+    link: 'https://pub.dartlang.org/packages/force'
+    author:
+        - 'Joris Hermans'
