@@ -14990,3 +14990,12 @@
     link: 'https://pub.dartlang.org/packages/boarding'
     author:
         - 'Dzenan Ridjanovic'
+-
+    package_name: dart_orm
+    package_version: v0.0.13
+    title: 'v0.0.13 of dart_orm'
+    published: '2015-03-21T20:40:18+00:00'
+    id: 'urn:uuid:7f251ffa-4230-5b13-9af9-a7966e5b328f'
+    link: 'https://pub.dartlang.org/packages/dart_orm'
+    author:
+        - 'Ustimenko Sergey'
