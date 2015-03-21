@@ -15008,3 +15008,12 @@
     link: 'https://pub.dartlang.org/packages/codemirror'
     author:
         - 'Devon Carew'
+-
+    package_name: drails_commons
+    package_version: v0.0.4
+    title: 'v0.0.4 of drails_commons'
+    published: '2015-03-21T23:30:19+00:00'
+    id: 'urn:uuid:030ccc89-384e-5666-8fd3-4f349e106198'
+    link: 'https://pub.dartlang.org/packages/drails_commons'
+    author:
+        - 'Luis Vargas'
