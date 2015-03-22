@@ -15134,3 +15134,12 @@
     link: 'https://pub.dartlang.org/packages/spa_router'
     author:
         - 'Kornel Maczyński'
+-
+    package_name: spa_router
+    package_version: v0.0.1+2
+    title: 'v0.0.1+2 of spa_router'
+    published: '2015-03-22T22:04:38+00:00'
+    id: 'urn:uuid:041d0e24-9048-5ede-bb77-bfbad3765616'
+    link: 'https://pub.dartlang.org/packages/spa_router'
+    author:
+        - 'Kornel Maczyński'
