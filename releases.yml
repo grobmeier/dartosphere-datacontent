@@ -15017,3 +15017,12 @@
     link: 'https://pub.dartlang.org/packages/drails_commons'
     author:
         - 'Luis Vargas'
+-
+    package_name: macro_processor
+    package_version: v0.0.5
+    title: 'v0.0.5 of macro_processor'
+    published: '2015-03-22T04:50:15+00:00'
+    id: 'urn:uuid:cbd7d1ea-ef6e-5b84-b02d-98a2a8199ed4'
+    link: 'https://pub.dartlang.org/packages/macro_processor'
+    author:
+        - 'Andrew Mezoni'
