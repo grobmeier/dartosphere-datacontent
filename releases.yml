@@ -15053,3 +15053,12 @@
     link: 'https://pub.dartlang.org/packages/binary_types'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: kourim
+    package_version: v0.2.0
+    title: 'v0.2.0 of kourim'
+    published: '2015-03-22T10:10:15+00:00'
+    id: 'urn:uuid:965297b5-d330-5957-9287-d3ea6186846a'
+    link: 'https://pub.dartlang.org/packages/kourim'
+    author:
+        - 'Gaëtan Rizio'
