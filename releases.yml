@@ -15107,3 +15107,21 @@
     link: 'https://pub.dartlang.org/packages/codemirror_element'
     author:
         - DartLab.org
+-
+    package_name: spa_router
+    package_version: v0.0.1
+    title: 'v0.0.1 of spa_router'
+    published: '2015-03-22T20:09:39+00:00'
+    id: 'urn:uuid:8fe9eb48-589a-5e59-bf03-7177eeab6268'
+    link: 'https://pub.dartlang.org/packages/spa_router'
+    author:
+        - 'Kornel Maczyński'
+-
+    package_name: linter
+    package_version: v0.0.2
+    title: 'v0.0.2 of linter'
+    published: '2015-03-22T20:09:40+00:00'
+    id: 'urn:uuid:77e8e082-5d8e-5ea5-98d2-08ab4f64e7d9'
+    link: 'https://pub.dartlang.org/packages/linter'
+    author:
+        - 'Dart Team'
