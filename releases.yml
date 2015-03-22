@@ -15071,3 +15071,21 @@
     link: 'https://pub.dartlang.org/packages/binary_generator'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: bwu_utils_server
+    package_version: v0.0.4+1
+    title: 'v0.0.4+1 of bwu_utils_server'
+    published: '2015-03-22T12:10:17+00:00'
+    id: 'urn:uuid:9fc879e2-dd69-5f29-8532-7cf82809b392'
+    link: 'https://pub.dartlang.org/packages/bwu_utils_server'
+    author:
+        - 'Günter Zöchbauer'
+-
+    package_name: bwu_utils_browser
+    package_version: v0.0.3+1
+    title: 'v0.0.3+1 of bwu_utils_browser'
+    published: '2015-03-22T12:10:17+00:00'
+    id: 'urn:uuid:debec695-52c8-5936-be32-824f294c48d1'
+    link: 'https://pub.dartlang.org/packages/bwu_utils_browser'
+    author:
+        - 'Günter Zöchbauer'
