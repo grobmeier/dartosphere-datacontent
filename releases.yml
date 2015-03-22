@@ -15098,3 +15098,12 @@
     link: 'https://pub.dartlang.org/packages/binary_generator'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: codemirror_element
+    package_version: v0.1.0+5.0.0
+    title: 'v0.1.0+5.0.0 of codemirror_element'
+    published: '2015-03-22T13:30:19+00:00'
+    id: 'urn:uuid:3b6d88d5-64bb-50be-b800-4ab0762ff884'
+    link: 'https://pub.dartlang.org/packages/codemirror_element'
+    author:
+        - DartLab.org
