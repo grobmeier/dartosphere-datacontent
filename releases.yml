@@ -15026,3 +15026,12 @@
     link: 'https://pub.dartlang.org/packages/macro_processor'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_declarations
+    package_version: v0.0.52
+    title: 'v0.0.52 of binary_declarations'
+    published: '2015-03-22T04:55:16+00:00'
+    id: 'urn:uuid:03825ba0-e2e8-5b29-97df-697c5228b542'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni'
