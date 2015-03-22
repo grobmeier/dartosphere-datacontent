@@ -15125,3 +15125,12 @@
     link: 'https://pub.dartlang.org/packages/linter'
     author:
         - 'Dart Team'
+-
+    package_name: spa_router
+    package_version: v0.0.1+1
+    title: 'v0.0.1+1 of spa_router'
+    published: '2015-03-22T21:09:39+00:00'
+    id: 'urn:uuid:b4c26094-befb-5e77-b271-385c4dd06c99'
+    link: 'https://pub.dartlang.org/packages/spa_router'
+    author:
+        - 'Kornel Maczyński'
