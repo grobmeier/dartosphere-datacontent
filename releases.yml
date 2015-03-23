@@ -15234,3 +15234,12 @@
     link: 'https://pub.dartlang.org/packages/wsk_angular'
     author:
         - 'Mike Mitterer'
+-
+    package_name: protobuf
+    package_version: v0.3.5+3
+    title: 'v0.3.5+3 of protobuf'
+    published: '2015-03-23T12:09:45+00:00'
+    id: 'urn:uuid:6983bfcc-a5aa-5997-88d5-b0933c649c2c'
+    link: 'https://pub.dartlang.org/packages/protobuf'
+    author:
+        - 'Dart Team'
