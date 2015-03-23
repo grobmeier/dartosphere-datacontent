@@ -15243,3 +15243,12 @@
     link: 'https://pub.dartlang.org/packages/protobuf'
     author:
         - 'Dart Team'
+-
+    package_name: viltage
+    package_version: v0.4.0+7
+    title: 'v0.4.0+7 of viltage'
+    published: '2015-03-23T12:59:38+00:00'
+    id: 'urn:uuid:b13716c4-0bda-539d-bcbd-1d62aae90a5d'
+    link: 'https://pub.dartlang.org/packages/viltage'
+    author:
+        - ViliX64
