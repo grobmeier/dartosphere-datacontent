@@ -15333,3 +15333,12 @@
     link: 'https://pub.dartlang.org/packages/spa_router'
     author:
         - 'Kornel Maczyński'
+-
+    package_name: binary_generator
+    package_version: v0.0.9
+    title: 'v0.0.9 of binary_generator'
+    published: '2015-03-23T19:49:52+00:00'
+    id: 'urn:uuid:b9752490-70f3-56ce-841d-563a34f63b5f'
+    link: 'https://pub.dartlang.org/packages/binary_generator'
+    author:
+        - 'Andrew Mezoni'
