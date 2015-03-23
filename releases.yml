@@ -15252,3 +15252,12 @@
     link: 'https://pub.dartlang.org/packages/viltage'
     author:
         - ViliX64
+-
+    package_name: binary_marshalling
+    package_version: v0.0.1
+    title: 'v0.0.1 of binary_marshalling'
+    published: '2015-03-23T13:24:38+00:00'
+    id: 'urn:uuid:00165f67-9b3b-5873-81c8-39e0e89eb5d4'
+    link: 'https://pub.dartlang.org/packages/binary_marshalling'
+    author:
+        - 'Andrew Mezoni'
