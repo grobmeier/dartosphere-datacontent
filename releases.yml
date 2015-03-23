@@ -15387,3 +15387,12 @@
     link: 'https://pub.dartlang.org/packages/spa_router'
     author:
         - 'Kornel Maczyński'
+-
+    package_name: intl
+    package_version: v0.12.2
+    title: 'v0.12.2 of intl'
+    published: '2015-03-23T23:09:38+00:00'
+    id: 'urn:uuid:60e42c17-ac0e-5451-8225-5f39987f3a89'
+    link: 'https://pub.dartlang.org/packages/intl'
+    author:
+        - 'Dart Team'
