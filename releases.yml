@@ -15189,3 +15189,12 @@
     author:
         - 'David Peek'
         - 'Tom Yeh'
+-
+    package_name: uix
+    package_version: v0.2.0
+    title: 'v0.2.0 of uix'
+    published: '2015-03-23T07:49:37+00:00'
+    id: 'urn:uuid:bd2349c1-aa0a-559e-89dc-471e77734353'
+    link: 'https://pub.dartlang.org/packages/uix'
+    author:
+        - 'Boris Kaul'
