@@ -15270,3 +15270,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_intl'
     author:
         - 'Wrike Inc'
+-
+    package_name: binary_marshalling
+    package_version: v0.0.2
+    title: 'v0.0.2 of binary_marshalling'
+    published: '2015-03-23T15:14:39+00:00'
+    id: 'urn:uuid:24490284-5132-5834-b049-5124b4fe4215'
+    link: 'https://pub.dartlang.org/packages/binary_marshalling'
+    author:
+        - 'Andrew Mezoni'
