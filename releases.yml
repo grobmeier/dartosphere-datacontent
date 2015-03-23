@@ -15288,3 +15288,12 @@
     link: 'https://pub.dartlang.org/packages/less_dart'
     author:
         - 'Adalberto Lacruz'
+-
+    package_name: binary_declarations
+    package_version: v0.0.53
+    title: 'v0.0.53 of binary_declarations'
+    published: '2015-03-23T16:54:47+00:00'
+    id: 'urn:uuid:29e2e1fc-312d-59a3-9e99-34c6431dfe83'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni'
