@@ -15324,3 +15324,12 @@
     link: 'https://pub.dartlang.org/packages/coverage'
     author:
         - 'Dart Team'
+-
+    package_name: spa_router
+    package_version: v0.0.1+4
+    title: 'v0.0.1+4 of spa_router'
+    published: '2015-03-23T18:59:40+00:00'
+    id: 'urn:uuid:56ef5a73-b268-5d30-8506-45d3245997f1'
+    link: 'https://pub.dartlang.org/packages/spa_router'
+    author:
+        - 'Kornel Maczyński'
