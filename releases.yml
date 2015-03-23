@@ -15225,3 +15225,12 @@
     link: 'https://pub.dartlang.org/packages/drails_validator'
     author:
         - 'Luis Vargas'
+-
+    package_name: wsk_angular
+    package_version: v0.8.2
+    title: 'v0.8.2 of wsk_angular'
+    published: '2015-03-23T12:04:38+00:00'
+    id: 'urn:uuid:6b3a66cb-bd61-5cc5-9ac2-cfd8cd6f8bf3'
+    link: 'https://pub.dartlang.org/packages/wsk_angular'
+    author:
+        - 'Mike Mitterer'
