@@ -15143,3 +15143,12 @@
     link: 'https://pub.dartlang.org/packages/spa_router'
     author:
         - 'Kornel Maczyński'
+-
+    package_name: smartcanvas
+    package_version: v0.1.9
+    title: 'v0.1.9 of smartcanvas'
+    published: '2015-03-23T02:14:37+00:00'
+    id: 'urn:uuid:57d494f6-955e-585e-b3ce-7f92f715c49d'
+    link: 'https://pub.dartlang.org/packages/smartcanvas'
+    author:
+        - 'Kun Zhao'
