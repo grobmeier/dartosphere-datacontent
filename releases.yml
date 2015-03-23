@@ -15315,3 +15315,12 @@
     link: 'https://pub.dartlang.org/packages/spa_router'
     author:
         - 'Kornel Maczyński'
+-
+    package_name: coverage
+    package_version: v0.6.0+1
+    title: 'v0.6.0+1 of coverage'
+    published: '2015-03-23T17:19:38+00:00'
+    id: 'urn:uuid:adb05505-3feb-5f2c-828a-fdcebb35420f'
+    link: 'https://pub.dartlang.org/packages/coverage'
+    author:
+        - 'Dart Team'
