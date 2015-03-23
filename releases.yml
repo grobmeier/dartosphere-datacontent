@@ -15360,3 +15360,12 @@
     link: 'https://pub.dartlang.org/packages/spa_router'
     author:
         - 'Kornel Maczyński'
+-
+    package_name: initialize
+    package_version: v0.6.0
+    title: 'v0.6.0 of initialize'
+    published: '2015-03-23T22:34:45+00:00'
+    id: 'urn:uuid:86b5a813-e912-5652-b337-774522964571'
+    link: 'https://pub.dartlang.org/packages/initialize'
+    author:
+        - 'Polymer.dart Authors'
