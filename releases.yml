@@ -15198,3 +15198,12 @@
     link: 'https://pub.dartlang.org/packages/uix'
     author:
         - 'Boris Kaul'
+-
+    package_name: viltage
+    package_version: v0.4.0+5
+    title: 'v0.4.0+5 of viltage'
+    published: '2015-03-23T09:59:38+00:00'
+    id: 'urn:uuid:6369c103-675c-54cd-bbed-4f254068feb3'
+    link: 'https://pub.dartlang.org/packages/viltage'
+    author:
+        - ViliX64
