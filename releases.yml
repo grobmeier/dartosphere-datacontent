@@ -15471,3 +15471,12 @@
     link: 'https://pub.dartlang.org/packages/viltage'
     author:
         - ViliX64
+-
+    package_name: viltage
+    package_version: v0.4.0+11
+    title: 'v0.4.0+11 of viltage'
+    published: '2015-03-24T07:14:36+00:00'
+    id: 'urn:uuid:bb612d79-ce08-50b3-8fcf-60dbf31ebfd9'
+    link: 'https://pub.dartlang.org/packages/viltage'
+    author:
+        - ViliX64
