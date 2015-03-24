@@ -15516,3 +15516,12 @@
     link: 'https://pub.dartlang.org/packages/wsk_angular'
     author:
         - 'Mike Mitterer'
+-
+    package_name: viltage
+    package_version: v0.4.0+13
+    title: 'v0.4.0+13 of viltage'
+    published: '2015-03-24T09:29:37+00:00'
+    id: 'urn:uuid:3934b56a-f512-50ba-8e2d-4de97803341e'
+    link: 'https://pub.dartlang.org/packages/viltage'
+    author:
+        - ViliX64
