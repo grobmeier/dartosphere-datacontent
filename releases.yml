@@ -15462,3 +15462,12 @@
     link: 'https://pub.dartlang.org/packages/binary_interop'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: viltage
+    package_version: v0.4.0+10
+    title: 'v0.4.0+10 of viltage'
+    published: '2015-03-24T06:34:36+00:00'
+    id: 'urn:uuid:c41a6219-5093-50d0-ba11-e38d3c2f2424'
+    link: 'https://pub.dartlang.org/packages/viltage'
+    author:
+        - ViliX64
