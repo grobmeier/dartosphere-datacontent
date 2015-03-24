@@ -15627,3 +15627,12 @@
         - 'Tobias Bosch'
         - 'Victor Savkin'
         - 'Yegor Jbanov'
+-
+    package_name: binary_declarations
+    package_version: v0.0.54
+    title: 'v0.0.54 of binary_declarations'
+    published: '2015-03-24T19:04:41+00:00'
+    id: 'urn:uuid:d8244a91-9c8d-595a-abbc-b9e94c62062d'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni'
