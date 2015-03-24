@@ -15543,3 +15543,12 @@
     link: 'https://pub.dartlang.org/packages/binary_types'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: isolate
+    package_version: v0.2.0
+    title: 'v0.2.0 of isolate'
+    published: '2015-03-24T13:24:37+00:00'
+    id: 'urn:uuid:1caff148-2c98-5f39-8eec-449cb2ef230a'
+    link: 'https://pub.dartlang.org/packages/isolate'
+    author:
+        - 'Dart Team'
