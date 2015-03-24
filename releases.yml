@@ -15525,3 +15525,12 @@
     link: 'https://pub.dartlang.org/packages/viltage'
     author:
         - ViliX64
+-
+    package_name: binary_types
+    package_version: v0.0.37
+    title: 'v0.0.37 of binary_types'
+    published: '2015-03-24T11:09:37+00:00'
+    id: 'urn:uuid:327670e2-1e06-55e7-bbee-1ca4664ba3c7'
+    link: 'https://pub.dartlang.org/packages/binary_types'
+    author:
+        - 'Andrew Mezoni'
