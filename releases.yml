@@ -15645,3 +15645,12 @@
     link: 'https://pub.dartlang.org/packages/binary_declarations'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: spa_router
+    package_version: v0.1.1
+    title: 'v0.1.1 of spa_router'
+    published: '2015-03-24T19:46:58+00:00'
+    id: 'urn:uuid:fef3dd29-1f26-5968-a94a-28a2746215f8'
+    link: 'https://pub.dartlang.org/packages/spa_router'
+    author:
+        - 'Kornel Maczyński'
