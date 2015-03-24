@@ -15405,3 +15405,51 @@
     link: 'https://pub.dartlang.org/packages/spa_router'
     author:
         - 'Kornel Maczyński'
+-
+    package_name: angular2_benchmarks
+    package_version: v2.0.0-alpha.14
+    title: 'v2.0.0-alpha.14 of angular2_benchmarks'
+    published: '2015-03-24T00:29:37+00:00'
+    id: 'urn:uuid:9d54b93b-6bc7-53e0-87df-e4ea69b31c78'
+    link: 'https://pub.dartlang.org/packages/angular2_benchmarks'
+    author:
+        - 'Alex Eagle'
+        - 'Chirayu Krishnappa'
+        - 'Jeff Cross'
+        - 'Misko Hevery'
+        - 'Rado Kirov'
+        - 'Tobias Bosch'
+        - 'Victor Savkin'
+        - 'Yegor Jbanov'
+-
+    package_name: benchpress
+    package_version: v2.0.0-alpha.14
+    title: 'v2.0.0-alpha.14 of benchpress'
+    published: '2015-03-24T00:29:37+00:00'
+    id: 'urn:uuid:6a2ae336-c76e-5210-b53b-1733fdaf728a'
+    link: 'https://pub.dartlang.org/packages/benchpress'
+    author:
+        - 'Alex Eagle'
+        - 'Chirayu Krishnappa'
+        - 'Jeff Cross'
+        - 'Misko Hevery'
+        - 'Rado Kirov'
+        - 'Tobias Bosch'
+        - 'Victor Savkin'
+        - 'Yegor Jbanov'
+-
+    package_name: angular2
+    package_version: v2.0.0-alpha.14
+    title: 'v2.0.0-alpha.14 of angular2'
+    published: '2015-03-24T00:29:37+00:00'
+    id: 'urn:uuid:b850da2f-3a1f-593f-9ca4-530a31b80bc9'
+    link: 'https://pub.dartlang.org/packages/angular2'
+    author:
+        - 'Alex Eagle'
+        - 'Chirayu Krishnappa'
+        - 'Jeff Cross'
+        - 'Misko Hevery'
+        - 'Rado Kirov'
+        - 'Tobias Bosch'
+        - 'Victor Savkin'
+        - 'Yegor Jbanov'
