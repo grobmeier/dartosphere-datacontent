@@ -15561,3 +15561,12 @@
     link: 'https://pub.dartlang.org/packages/web_components'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: polymer
+    package_version: v0.16.0+7
+    title: 'v0.16.0+7 of polymer'
+    published: '2015-03-24T14:39:37+00:00'
+    id: 'urn:uuid:65184448-a4b2-586d-937a-907e8543ebd9'
+    link: 'https://pub.dartlang.org/packages/polymer'
+    author:
+        - 'Polymer.dart Authors'
