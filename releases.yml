@@ -15453,3 +15453,12 @@
         - 'Tobias Bosch'
         - 'Victor Savkin'
         - 'Yegor Jbanov'
+-
+    package_name: binary_interop
+    package_version: v0.0.21
+    title: 'v0.0.21 of binary_interop'
+    published: '2015-03-24T05:44:38+00:00'
+    id: 'urn:uuid:e712c07a-731b-579f-a1d6-6a962a1f6568'
+    link: 'https://pub.dartlang.org/packages/binary_interop'
+    author:
+        - 'Andrew Mezoni'
