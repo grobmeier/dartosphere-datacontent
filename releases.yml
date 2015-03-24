@@ -15672,3 +15672,12 @@
     link: 'https://pub.dartlang.org/packages/ini'
     author:
         - 'Matthew Franglen'
+-
+    package_name: spa_router
+    package_version: v0.1.2
+    title: 'v0.1.2 of spa_router'
+    published: '2015-03-24T20:56:45+00:00'
+    id: 'urn:uuid:24727e20-7b6f-5d64-94ef-33e324641b89'
+    link: 'https://pub.dartlang.org/packages/spa_router'
+    author:
+        - 'Kornel Maczyński'
