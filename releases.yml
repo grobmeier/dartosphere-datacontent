@@ -15681,3 +15681,12 @@
     link: 'https://pub.dartlang.org/packages/spa_router'
     author:
         - 'Kornel Maczyński'
+-
+    package_name: matcher
+    package_version: v0.11.4+4
+    title: 'v0.11.4+4 of matcher'
+    published: '2015-03-24T22:01:24+00:00'
+    id: 'urn:uuid:272adef7-2692-551c-8aa3-45d4c4ce66f5'
+    link: 'https://pub.dartlang.org/packages/matcher'
+    author:
+        - 'Dart Team'
