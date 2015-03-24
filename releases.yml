@@ -15498,3 +15498,12 @@
     link: 'https://pub.dartlang.org/packages/binary_repositories'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_types
+    package_version: v0.0.36
+    title: 'v0.0.36 of binary_types'
+    published: '2015-03-24T08:59:40+00:00'
+    id: 'urn:uuid:2849323f-7e7b-5214-96aa-3601125bdb72'
+    link: 'https://pub.dartlang.org/packages/binary_types'
+    author:
+        - 'Andrew Mezoni'
