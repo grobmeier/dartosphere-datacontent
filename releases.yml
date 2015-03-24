@@ -15534,3 +15534,12 @@
     link: 'https://pub.dartlang.org/packages/binary_types'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_types
+    package_version: v0.0.38
+    title: 'v0.0.38 of binary_types'
+    published: '2015-03-24T11:29:37+00:00'
+    id: 'urn:uuid:60715500-ed03-5237-b088-f4c348559c87'
+    link: 'https://pub.dartlang.org/packages/binary_types'
+    author:
+        - 'Andrew Mezoni'
