@@ -15570,3 +15570,12 @@
     link: 'https://pub.dartlang.org/packages/polymer'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: linter
+    package_version: v0.0.2+1
+    title: 'v0.0.2+1 of linter'
+    published: '2015-03-24T16:20:02+00:00'
+    id: 'urn:uuid:e40c1607-3cda-5937-8a5c-2ce6c761aba1'
+    link: 'https://pub.dartlang.org/packages/linter'
+    author:
+        - 'Dart Team'
