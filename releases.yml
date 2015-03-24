@@ -15654,3 +15654,12 @@
     link: 'https://pub.dartlang.org/packages/spa_router'
     author:
         - 'Kornel Maczyński'
+-
+    package_name: codemirror
+    package_version: v0.2.2+5.1.0
+    title: 'v0.2.2+5.1.0 of codemirror'
+    published: '2015-03-24T20:04:39+00:00'
+    id: 'urn:uuid:6ffa9579-ac9e-5140-ae5e-00ec26ef4271'
+    link: 'https://pub.dartlang.org/packages/codemirror'
+    author:
+        - 'Devon Carew'
