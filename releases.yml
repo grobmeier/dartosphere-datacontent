@@ -15507,3 +15507,12 @@
     link: 'https://pub.dartlang.org/packages/binary_types'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: wsk_angular
+    package_version: v0.8.3
+    title: 'v0.8.3 of wsk_angular'
+    published: '2015-03-24T09:24:39+00:00'
+    id: 'urn:uuid:cdee042e-e6e5-5863-9caa-bda7d6d7a7bb'
+    link: 'https://pub.dartlang.org/packages/wsk_angular'
+    author:
+        - 'Mike Mitterer'
