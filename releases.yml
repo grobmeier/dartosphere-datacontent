@@ -15663,3 +15663,12 @@
     link: 'https://pub.dartlang.org/packages/codemirror'
     author:
         - 'Devon Carew'
+-
+    package_name: ini
+    package_version: v1.1.0
+    title: 'v1.1.0 of ini'
+    published: '2015-03-24T20:29:41+00:00'
+    id: 'urn:uuid:d84d2c52-44b6-5d08-819b-e036f47bf3a9'
+    link: 'https://pub.dartlang.org/packages/ini'
+    author:
+        - 'Matthew Franglen'
