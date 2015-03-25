@@ -15845,3 +15845,12 @@
     link: 'https://pub.dartlang.org/packages/cargo'
     author:
         - 'Joris Hermans'
+-
+    package_name: stagexl_particle
+    package_version: v0.3.5
+    title: 'v0.3.5 of stagexl_particle'
+    published: '2015-03-25T18:49:40+00:00'
+    id: 'urn:uuid:393c94bd-da6c-58e4-a453-c9aa721338dc'
+    link: 'https://pub.dartlang.org/packages/stagexl_particle'
+    author:
+        - 'Bernhard Pichler'
