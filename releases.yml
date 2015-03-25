@@ -15827,3 +15827,12 @@
     link: 'https://pub.dartlang.org/packages/stagexl'
     author:
         - 'Bernhard Pichler'
+-
+    package_name: stagexl_flump
+    package_version: v0.3.3
+    title: 'v0.3.3 of stagexl_flump'
+    published: '2015-03-25T18:34:38+00:00'
+    id: 'urn:uuid:7af8dade-2c99-5b6b-a5e1-1f8bdaced281'
+    link: 'https://pub.dartlang.org/packages/stagexl_flump'
+    author:
+        - 'Bernhard Pichler'
