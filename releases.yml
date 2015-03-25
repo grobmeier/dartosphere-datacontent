@@ -15746,3 +15746,12 @@
     link: 'https://pub.dartlang.org/packages/binary_interop'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_types
+    package_version: v0.0.39
+    title: 'v0.0.39 of binary_types'
+    published: '2015-03-25T09:50:18+00:00'
+    id: 'urn:uuid:bc2a7b6c-84df-5974-b364-b99cd8f6eeb1'
+    link: 'https://pub.dartlang.org/packages/binary_types'
+    author:
+        - 'Andrew Mezoni'
