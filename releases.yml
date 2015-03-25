@@ -15728,3 +15728,12 @@
     link: 'https://pub.dartlang.org/packages/cork'
     author:
         - 'Matan Lurey'
+-
+    package_name: viltage
+    package_version: v0.4.0+14
+    title: 'v0.4.0+14 of viltage'
+    published: '2015-03-25T08:45:15+00:00'
+    id: 'urn:uuid:bbfd7b9f-d4e6-5fb6-8c38-632bc8a7b198'
+    link: 'https://pub.dartlang.org/packages/viltage'
+    author:
+        - ViliX64
