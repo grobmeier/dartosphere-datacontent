@@ -15737,3 +15737,12 @@
     link: 'https://pub.dartlang.org/packages/viltage'
     author:
         - ViliX64
+-
+    package_name: binary_interop
+    package_version: v0.0.22
+    title: 'v0.0.22 of binary_interop'
+    published: '2015-03-25T08:55:16+00:00'
+    id: 'urn:uuid:1a78bc2b-999d-5ff2-a322-db6d30875bb2'
+    link: 'https://pub.dartlang.org/packages/binary_interop'
+    author:
+        - 'Andrew Mezoni'
