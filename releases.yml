@@ -15690,3 +15690,14 @@
     link: 'https://pub.dartlang.org/packages/matcher'
     author:
         - 'Dart Team'
+-
+    package_name: charted
+    package_version: v0.0.10
+    title: 'v0.0.10 of charted'
+    published: '2015-03-25T00:34:38+00:00'
+    id: 'urn:uuid:decd1b73-a6c3-57dd-832b-a36579e6d7d1'
+    link: 'https://pub.dartlang.org/packages/charted'
+    author:
+        - 'Prasad Sunkari'
+        - 'Michael Cheng'
+        - 'Yan Qiao'
