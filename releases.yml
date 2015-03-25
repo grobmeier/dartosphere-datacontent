@@ -15710,3 +15710,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu_cpp'
     author:
         - 'Daniel Davidson'
+-
+    package_name: drails_di
+    package_version: v0.0.4
+    title: 'v0.0.4 of drails_di'
+    published: '2015-03-25T02:39:38+00:00'
+    id: 'urn:uuid:e57d94dd-6038-5752-9a61-93bf3e8daecb'
+    link: 'https://pub.dartlang.org/packages/drails_di'
+    author:
+        - 'Luis Vargas'
