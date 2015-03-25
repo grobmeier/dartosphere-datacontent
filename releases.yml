@@ -15755,3 +15755,12 @@
     link: 'https://pub.dartlang.org/packages/binary_types'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: macro_processor
+    package_version: v0.0.7
+    title: 'v0.0.7 of macro_processor'
+    published: '2015-03-25T10:09:38+00:00'
+    id: 'urn:uuid:681acbc6-8cfe-5424-8872-6fe45ef25d4b'
+    link: 'https://pub.dartlang.org/packages/macro_processor'
+    author:
+        - 'Andrew Mezoni'
