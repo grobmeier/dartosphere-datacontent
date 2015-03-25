@@ -15926,3 +15926,12 @@
     link: 'https://pub.dartlang.org/packages/shelf'
     author:
         - 'Dart Team'
+-
+    package_name: shelf
+    package_version: v0.6.1+1
+    title: 'v0.6.1+1 of shelf'
+    published: '2015-03-25T22:34:39+00:00'
+    id: 'urn:uuid:4a948a63-8453-5e43-8c49-639b8330a098'
+    link: 'https://pub.dartlang.org/packages/shelf'
+    author:
+        - 'Dart Team'
