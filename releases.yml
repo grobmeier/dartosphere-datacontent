@@ -15917,3 +15917,12 @@
     link: 'https://pub.dartlang.org/packages/smoke'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: shelf
+    package_version: v0.6.1
+    title: 'v0.6.1 of shelf'
+    published: '2015-03-25T22:14:48+00:00'
+    id: 'urn:uuid:2efb3465-0e0d-5cf9-9c73-1b86b1dec449'
+    link: 'https://pub.dartlang.org/packages/shelf'
+    author:
+        - 'Dart Team'
