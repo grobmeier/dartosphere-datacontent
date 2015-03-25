@@ -15899,3 +15899,12 @@
     link: 'https://pub.dartlang.org/packages/binary_interop'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: spa_router
+    package_version: v0.1.2+1
+    title: 'v0.1.2+1 of spa_router'
+    published: '2015-03-25T19:54:41+00:00'
+    id: 'urn:uuid:63057f53-b19e-52d8-871d-5acd4d1397e2'
+    link: 'https://pub.dartlang.org/packages/spa_router'
+    author:
+        - 'Kornel Maczyński'
