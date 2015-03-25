@@ -15719,3 +15719,12 @@
     link: 'https://pub.dartlang.org/packages/drails_di'
     author:
         - 'Luis Vargas'
+-
+    package_name: cork
+    package_version: v0.0.1-alpha+1
+    title: 'v0.0.1-alpha+1 of cork'
+    published: '2015-03-25T05:29:38+00:00'
+    id: 'urn:uuid:4e895f10-5191-5e58-99d2-3e47a936c1bd'
+    link: 'https://pub.dartlang.org/packages/cork'
+    author:
+        - 'Matan Lurey'
