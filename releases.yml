@@ -15773,3 +15773,12 @@
     link: 'https://pub.dartlang.org/packages/binary_marshalling'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: dart_ext
+    package_version: v0.0.9
+    title: 'v0.0.9 of dart_ext'
+    published: '2015-03-25T13:51:27+00:00'
+    id: 'urn:uuid:6cedf17d-3a2e-5ba8-b96f-ff1258eee6b6'
+    link: 'https://pub.dartlang.org/packages/dart_ext'
+    author:
+        - 'Kun Zhao'
