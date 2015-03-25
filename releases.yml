@@ -15818,3 +15818,12 @@
     link: 'https://pub.dartlang.org/packages/web_components'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: stagexl
+    package_version: v0.11.0
+    title: 'v0.11.0 of stagexl'
+    published: '2015-03-25T18:29:42+00:00'
+    id: 'urn:uuid:04c4c184-ce2c-5eb4-91ec-2916a1d11356'
+    link: 'https://pub.dartlang.org/packages/stagexl'
+    author:
+        - 'Bernhard Pichler'
