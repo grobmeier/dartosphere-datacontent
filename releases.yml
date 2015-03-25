@@ -15782,3 +15782,12 @@
     link: 'https://pub.dartlang.org/packages/dart_ext'
     author:
         - 'Kun Zhao'
+-
+    package_name: viltage
+    package_version: v0.4.0+15
+    title: 'v0.4.0+15 of viltage'
+    published: '2015-03-25T14:34:37+00:00'
+    id: 'urn:uuid:231adfce-8ada-515f-a3f4-82416b9f67bd'
+    link: 'https://pub.dartlang.org/packages/viltage'
+    author:
+        - ViliX64
