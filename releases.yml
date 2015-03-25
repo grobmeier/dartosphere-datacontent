@@ -15836,3 +15836,12 @@
     link: 'https://pub.dartlang.org/packages/stagexl_flump'
     author:
         - 'Bernhard Pichler'
+-
+    package_name: cargo
+    package_version: v0.7.1+3
+    title: 'v0.7.1+3 of cargo'
+    published: '2015-03-25T18:44:38+00:00'
+    id: 'urn:uuid:758bee90-270b-5c42-8c26-36c1957126b5'
+    link: 'https://pub.dartlang.org/packages/cargo'
+    author:
+        - 'Joris Hermans'
