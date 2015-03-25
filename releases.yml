@@ -15854,3 +15854,12 @@
     link: 'https://pub.dartlang.org/packages/stagexl_particle'
     author:
         - 'Bernhard Pichler'
+-
+    package_name: stagexl_particle
+    package_version: v0.3.5+1
+    title: 'v0.3.5+1 of stagexl_particle'
+    published: '2015-03-25T18:54:38+00:00'
+    id: 'urn:uuid:c3a664cc-0cfd-536c-a792-1ac97d0f28fa'
+    link: 'https://pub.dartlang.org/packages/stagexl_particle'
+    author:
+        - 'Bernhard Pichler'
