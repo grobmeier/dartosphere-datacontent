@@ -15809,3 +15809,12 @@
     link: 'https://pub.dartlang.org/packages/binary_types'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: web_components
+    package_version: v0.11.1+1
+    title: 'v0.11.1+1 of web_components'
+    published: '2015-03-25T18:04:42+00:00'
+    id: 'urn:uuid:139997e7-73cd-5ece-af85-aa6c05a3fd32'
+    link: 'https://pub.dartlang.org/packages/web_components'
+    author:
+        - 'Polymer.dart Authors'
