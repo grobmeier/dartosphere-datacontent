@@ -15764,3 +15764,12 @@
     link: 'https://pub.dartlang.org/packages/macro_processor'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_marshalling
+    package_version: v0.0.3
+    title: 'v0.0.3 of binary_marshalling'
+    published: '2015-03-25T11:06:13+00:00'
+    id: 'urn:uuid:98fa38d0-33d5-5b01-9b22-0b5515258764'
+    link: 'https://pub.dartlang.org/packages/binary_marshalling'
+    author:
+        - 'Andrew Mezoni'
