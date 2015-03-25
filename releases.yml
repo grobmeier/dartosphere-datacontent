@@ -15701,3 +15701,12 @@
         - 'Prasad Sunkari'
         - 'Michael Cheng'
         - 'Yan Qiao'
+-
+    package_name: ebisu_cpp
+    package_version: v0.0.8
+    title: 'v0.0.8 of ebisu_cpp'
+    published: '2015-03-25T00:39:36+00:00'
+    id: 'urn:uuid:47665b4d-5843-55f2-b26a-ddf5232b9561'
+    link: 'https://pub.dartlang.org/packages/ebisu_cpp'
+    author:
+        - 'Daniel Davidson'
