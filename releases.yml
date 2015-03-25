@@ -15791,3 +15791,12 @@
     link: 'https://pub.dartlang.org/packages/viltage'
     author:
         - ViliX64
+-
+    package_name: uix
+    package_version: v0.2.1
+    title: 'v0.2.1 of uix'
+    published: '2015-03-25T15:59:40+00:00'
+    id: 'urn:uuid:47946966-1bb4-5708-9df6-9202dda25038'
+    link: 'https://pub.dartlang.org/packages/uix'
+    author:
+        - 'Boris Kaul'
