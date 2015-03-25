@@ -15908,3 +15908,12 @@
     link: 'https://pub.dartlang.org/packages/spa_router'
     author:
         - 'Kornel Maczyński'
+-
+    package_name: smoke
+    package_version: v0.3.2
+    title: 'v0.3.2 of smoke'
+    published: '2015-03-25T22:04:40+00:00'
+    id: 'urn:uuid:a59e86b2-567c-5ef8-90cf-755d4ee38205'
+    link: 'https://pub.dartlang.org/packages/smoke'
+    author:
+        - 'Polymer.dart Authors'
