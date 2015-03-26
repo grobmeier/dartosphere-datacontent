@@ -15971,3 +15971,12 @@
     link: 'https://pub.dartlang.org/packages/do2template'
     author:
         - 'Mikhail Stolyarov'
+-
+    package_name: github
+    package_version: v2.1.9
+    title: 'v2.1.9 of github'
+    published: '2015-03-26T17:34:37+00:00'
+    id: 'urn:uuid:eb82255e-c043-53a5-afd0-a616b253a3eb'
+    link: 'https://pub.dartlang.org/packages/github'
+    author:
+        - 'Kenneth Endfinger'
