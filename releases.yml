@@ -16082,3 +16082,12 @@
     link: 'https://pub.dartlang.org/packages/targets'
     author:
         - 'Jack Thakar'
+-
+    package_name: source_span
+    package_version: v1.1.0
+    title: 'v1.1.0 of source_span'
+    published: '2015-03-26T22:19:47+00:00'
+    id: 'urn:uuid:af2490c9-a180-5a77-92d5-893f9636acf2'
+    link: 'https://pub.dartlang.org/packages/source_span'
+    author:
+        - 'Dart Team'
