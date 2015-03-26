@@ -16064,3 +16064,12 @@
         - 'Tobias Bosch'
         - 'Victor Savkin'
         - 'Yegor Jbanov'
+-
+    package_name: sky
+    package_version: v0.0.3
+    title: 'v0.0.3 of sky'
+    published: '2015-03-26T21:14:37+00:00'
+    id: 'urn:uuid:565124e6-1407-5732-b14e-5eb10209f7db'
+    link: 'https://pub.dartlang.org/packages/sky'
+    author:
+        - 'Chromium Authors'
