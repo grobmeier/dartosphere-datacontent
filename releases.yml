@@ -15998,3 +15998,12 @@
     link: 'https://pub.dartlang.org/packages/binary_interop'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: less_dart
+    package_version: v0.2.2
+    title: 'v0.2.2 of less_dart'
+    published: '2015-03-26T20:04:38+00:00'
+    id: 'urn:uuid:c876b2e4-3a15-5663-b24d-985aa24685bb'
+    link: 'https://pub.dartlang.org/packages/less_dart'
+    author:
+        - 'Adalberto Lacruz'
