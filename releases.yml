@@ -15935,3 +15935,12 @@
     link: 'https://pub.dartlang.org/packages/shelf'
     author:
         - 'Dart Team'
+-
+    package_name: dacsslide
+    package_version: v0.0.6
+    title: 'v0.0.6 of dacsslide'
+    published: '2015-03-26T08:14:38+00:00'
+    id: 'urn:uuid:c18d69ec-1b40-5bc7-a373-e341703604b1'
+    link: 'https://pub.dartlang.org/packages/dacsslide'
+    author:
+        - 'Valentyn Shybanov'
