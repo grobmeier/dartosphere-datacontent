@@ -15953,3 +15953,12 @@
     link: 'https://pub.dartlang.org/packages/neo4j_dart'
     author:
         - 'Rasmus Eneman'
+-
+    package_name: stagexl
+    package_version: v0.11.0+1
+    title: 'v0.11.0+1 of stagexl'
+    published: '2015-03-26T15:34:39+00:00'
+    id: 'urn:uuid:32f270a2-8d57-5531-91ba-4aee727bd870'
+    link: 'https://pub.dartlang.org/packages/stagexl'
+    author:
+        - 'Bernhard Pichler'
