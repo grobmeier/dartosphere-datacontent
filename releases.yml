@@ -15980,3 +15980,12 @@
     link: 'https://pub.dartlang.org/packages/github'
     author:
         - 'Kenneth Endfinger'
+-
+    package_name: unsafe_extension
+    package_version: v0.0.9
+    title: 'v0.0.9 of unsafe_extension'
+    published: '2015-03-26T18:54:54+00:00'
+    id: 'urn:uuid:810acf14-cc5b-5d91-9ae9-b332b86c541f'
+    link: 'https://pub.dartlang.org/packages/unsafe_extension'
+    author:
+        - 'Andrew Mezoni'
