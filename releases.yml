@@ -15962,3 +15962,12 @@
     link: 'https://pub.dartlang.org/packages/stagexl'
     author:
         - 'Bernhard Pichler'
+-
+    package_name: do2template
+    package_version: v0.1.1
+    title: 'v0.1.1 of do2template'
+    published: '2015-03-26T17:29:39+00:00'
+    id: 'urn:uuid:a8e10f36-3d97-5e0c-91fe-1f76fcdd8789'
+    link: 'https://pub.dartlang.org/packages/do2template'
+    author:
+        - 'Mikhail Stolyarov'
