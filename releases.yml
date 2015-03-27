@@ -16149,3 +16149,12 @@
     link: 'https://pub.dartlang.org/packages/binary_generator'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: tree_component
+    package_version: v0.2.6
+    title: 'v0.2.6 of tree_component'
+    published: '2015-03-27T17:55:01+00:00'
+    id: 'urn:uuid:041b73e5-680d-57cb-840d-a83f40aa5ab8'
+    link: 'https://pub.dartlang.org/packages/tree_component'
+    author:
+        - 'Marcos Benatti Lauer'
