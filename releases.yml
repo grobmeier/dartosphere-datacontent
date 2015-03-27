@@ -16244,3 +16244,19 @@
         - 'Tobias Bosch'
         - 'Victor Savkin'
         - 'Yegor Jbanov'
+-
+    package_name: angular2_benchmarks
+    package_version: v2.0.0-alpha.17
+    title: 'v2.0.0-alpha.17 of angular2_benchmarks'
+    published: '2015-03-27T23:29:38+00:00'
+    id: 'urn:uuid:86d8331a-2115-5f68-8b1b-8f1dfd8fcc3c'
+    link: 'https://pub.dartlang.org/packages/angular2_benchmarks'
+    author:
+        - 'Alex Eagle'
+        - 'Chirayu Krishnappa'
+        - 'Jeff Cross'
+        - 'Misko Hevery'
+        - 'Rado Kirov'
+        - 'Tobias Bosch'
+        - 'Victor Savkin'
+        - 'Yegor Jbanov'
