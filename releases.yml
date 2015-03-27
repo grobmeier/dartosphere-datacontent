@@ -16212,3 +16212,35 @@
     link: 'https://pub.dartlang.org/packages/path'
     author:
         - 'Dart Team'
+-
+    package_name: benchpress
+    package_version: v2.0.0-alpha.17
+    title: 'v2.0.0-alpha.17 of benchpress'
+    published: '2015-03-27T23:24:36+00:00'
+    id: 'urn:uuid:e7dac4e7-f7df-5717-8dfc-bec24da61366'
+    link: 'https://pub.dartlang.org/packages/benchpress'
+    author:
+        - 'Alex Eagle'
+        - 'Chirayu Krishnappa'
+        - 'Jeff Cross'
+        - 'Misko Hevery'
+        - 'Rado Kirov'
+        - 'Tobias Bosch'
+        - 'Victor Savkin'
+        - 'Yegor Jbanov'
+-
+    package_name: angular2
+    package_version: v2.0.0-alpha.17
+    title: 'v2.0.0-alpha.17 of angular2'
+    published: '2015-03-27T23:24:36+00:00'
+    id: 'urn:uuid:28af3a8c-7163-5703-90fd-3640e25e726d'
+    link: 'https://pub.dartlang.org/packages/angular2'
+    author:
+        - 'Alex Eagle'
+        - 'Chirayu Krishnappa'
+        - 'Jeff Cross'
+        - 'Misko Hevery'
+        - 'Rado Kirov'
+        - 'Tobias Bosch'
+        - 'Victor Savkin'
+        - 'Yegor Jbanov'
