@@ -16091,3 +16091,12 @@
     link: 'https://pub.dartlang.org/packages/source_span'
     author:
         - 'Dart Team'
+-
+    package_name: shelf_cors
+    package_version: v0.2.1
+    title: 'v0.2.1 of shelf_cors'
+    published: '2015-03-27T04:09:38+00:00'
+    id: 'urn:uuid:90b8d296-6af2-5e3e-975a-405f59c93d7b'
+    link: 'https://pub.dartlang.org/packages/shelf_cors'
+    author:
+        - 'George Moschovitis'
