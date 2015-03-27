@@ -16185,3 +16185,12 @@
     link: 'https://pub.dartlang.org/packages/dartemis_transformer'
     author:
         - 'Dennis Kaselow'
+-
+    package_name: paper_elements
+    package_version: v0.6.2+3
+    title: 'v0.6.2+3 of paper_elements'
+    published: '2015-03-27T19:14:41+00:00'
+    id: 'urn:uuid:4b1a8dca-db43-5364-9769-a04df445bd6a'
+    link: 'https://pub.dartlang.org/packages/paper_elements'
+    author:
+        - 'Polymer.dart Authors'
