@@ -16167,3 +16167,12 @@
     link: 'https://pub.dartlang.org/packages/dartemis'
     author:
         - 'Dennis Kaselow'
+-
+    package_name: dartemis_transformer
+    package_version: v0.1.0
+    title: 'v0.1.0 of dartemis_transformer'
+    published: '2015-03-27T18:44:38+00:00'
+    id: 'urn:uuid:ce94e6be-adb6-5dd4-b638-b056d86dadb6'
+    link: 'https://pub.dartlang.org/packages/dartemis_transformer'
+    author:
+        - 'Dennis Kaselow'
