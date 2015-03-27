@@ -16100,3 +16100,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_cors'
     author:
         - 'George Moschovitis'
+-
+    package_name: binary_types
+    package_version: v0.0.41
+    title: 'v0.0.41 of binary_types'
+    published: '2015-03-27T11:18:21+00:00'
+    id: 'urn:uuid:e0b6c3f2-0cb4-5a37-a9d3-7fd1e2aa9f89'
+    link: 'https://pub.dartlang.org/packages/binary_types'
+    author:
+        - 'Andrew Mezoni'
