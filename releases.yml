@@ -16194,3 +16194,12 @@
     link: 'https://pub.dartlang.org/packages/paper_elements'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: source_span
+    package_version: v1.1.1
+    title: 'v1.1.1 of source_span'
+    published: '2015-03-27T21:29:48+00:00'
+    id: 'urn:uuid:869e1159-7109-525f-affe-6d40d46295a2'
+    link: 'https://pub.dartlang.org/packages/source_span'
+    author:
+        - 'Dart Team'
