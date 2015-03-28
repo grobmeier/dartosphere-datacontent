@@ -16398,3 +16398,12 @@
     link: 'https://pub.dartlang.org/packages/binary_interop'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: libffi_binaries
+    package_version: v0.6.6
+    title: 'v0.6.6 of libffi_binaries'
+    published: '2015-03-28T20:39:41+00:00'
+    id: 'urn:uuid:06df049a-9ccc-5c6a-bd79-62b3200e9103'
+    link: 'https://pub.dartlang.org/packages/libffi_binaries'
+    author:
+        - 'Andrew Mezoni'
