@@ -16317,3 +16317,12 @@
     link: 'https://pub.dartlang.org/packages/source_maps'
     author:
         - 'Dart Team'
+-
+    package_name: cork
+    package_version: v0.0.1-alpha+2
+    title: 'v0.0.1-alpha+2 of cork'
+    published: '2015-03-28T06:29:40+00:00'
+    id: 'urn:uuid:0de51643-8c78-5a7a-816b-cc30bbbac4ec'
+    link: 'https://pub.dartlang.org/packages/cork'
+    author:
+        - 'Matan Lurey'
