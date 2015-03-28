@@ -16353,3 +16353,12 @@
     link: 'https://pub.dartlang.org/packages/binary_interop'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: serial_port
+    package_version: v0.2.3
+    title: 'v0.2.3 of serial_port'
+    published: '2015-03-28T10:14:40+00:00'
+    id: 'urn:uuid:f128a4bb-f066-5b08-bba6-fcc4d54ad225'
+    link: 'https://pub.dartlang.org/packages/serial_port'
+    author:
+        - 'Nicolas Francois '
