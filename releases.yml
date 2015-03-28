@@ -16362,3 +16362,12 @@
     link: 'https://pub.dartlang.org/packages/serial_port'
     author:
         - 'Nicolas Francois '
+-
+    package_name: webrtc_utils
+    package_version: v0.1.0
+    title: 'v0.1.0 of webrtc_utils'
+    published: '2015-03-28T13:09:42+00:00'
+    id: 'urn:uuid:b3bc6d76-bdb7-5cf9-80f7-f3998d33f127'
+    link: 'https://pub.dartlang.org/packages/webrtc_utils'
+    author:
+        - 'Robert Hartung'
