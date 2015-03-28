@@ -16389,3 +16389,12 @@
     link: 'https://pub.dartlang.org/packages/graystone'
     author:
         - 'Nicolas Francois '
+-
+    package_name: binary_interop
+    package_version: v0.0.26
+    title: 'v0.0.26 of binary_interop'
+    published: '2015-03-28T20:04:37+00:00'
+    id: 'urn:uuid:787ed5c6-3815-5705-b850-e476d33ff7ee'
+    link: 'https://pub.dartlang.org/packages/binary_interop'
+    author:
+        - 'Andrew Mezoni'
