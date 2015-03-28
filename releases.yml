@@ -16308,3 +16308,12 @@
         - 'Tobias Bosch'
         - 'Victor Savkin'
         - 'Yegor Jbanov'
+-
+    package_name: source_maps
+    package_version: v0.10.0+2
+    title: 'v0.10.0+2 of source_maps'
+    published: '2015-03-28T00:44:37+00:00'
+    id: 'urn:uuid:89486b39-f53a-56eb-98c1-75a0872e5ad2'
+    link: 'https://pub.dartlang.org/packages/source_maps'
+    author:
+        - 'Dart Team'
