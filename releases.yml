@@ -16260,3 +16260,51 @@
         - 'Tobias Bosch'
         - 'Victor Savkin'
         - 'Yegor Jbanov'
+-
+    package_name: angular2_benchmarks
+    package_version: v2.0.0-alpha.18
+    title: 'v2.0.0-alpha.18 of angular2_benchmarks'
+    published: '2015-03-28T00:24:42+00:00'
+    id: 'urn:uuid:5d871e29-40f9-523a-b685-948c84f0de26'
+    link: 'https://pub.dartlang.org/packages/angular2_benchmarks'
+    author:
+        - 'Alex Eagle'
+        - 'Chirayu Krishnappa'
+        - 'Jeff Cross'
+        - 'Misko Hevery'
+        - 'Rado Kirov'
+        - 'Tobias Bosch'
+        - 'Victor Savkin'
+        - 'Yegor Jbanov'
+-
+    package_name: benchpress
+    package_version: v2.0.0-alpha.18
+    title: 'v2.0.0-alpha.18 of benchpress'
+    published: '2015-03-28T00:24:42+00:00'
+    id: 'urn:uuid:3c597b68-0718-5f88-a9ec-1b7c36bbc8ea'
+    link: 'https://pub.dartlang.org/packages/benchpress'
+    author:
+        - 'Alex Eagle'
+        - 'Chirayu Krishnappa'
+        - 'Jeff Cross'
+        - 'Misko Hevery'
+        - 'Rado Kirov'
+        - 'Tobias Bosch'
+        - 'Victor Savkin'
+        - 'Yegor Jbanov'
+-
+    package_name: angular2
+    package_version: v2.0.0-alpha.18
+    title: 'v2.0.0-alpha.18 of angular2'
+    published: '2015-03-28T00:24:42+00:00'
+    id: 'urn:uuid:ea2b8d1b-742e-59e1-988b-521e05713a4c'
+    link: 'https://pub.dartlang.org/packages/angular2'
+    author:
+        - 'Alex Eagle'
+        - 'Chirayu Krishnappa'
+        - 'Jeff Cross'
+        - 'Misko Hevery'
+        - 'Rado Kirov'
+        - 'Tobias Bosch'
+        - 'Victor Savkin'
+        - 'Yegor Jbanov'
