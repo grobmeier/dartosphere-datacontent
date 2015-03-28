@@ -16344,3 +16344,12 @@
     link: 'https://pub.dartlang.org/packages/unsafe_extension'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_interop
+    package_version: v0.0.25
+    title: 'v0.0.25 of binary_interop'
+    published: '2015-03-28T08:04:41+00:00'
+    id: 'urn:uuid:143ddc06-6251-552d-92cb-947af1fab213'
+    link: 'https://pub.dartlang.org/packages/binary_interop'
+    author:
+        - 'Andrew Mezoni'
