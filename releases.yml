@@ -16524,3 +16524,12 @@
     link: 'https://pub.dartlang.org/packages/klang'
     author:
         - 'Gaëtan Rizio'
+-
+    package_name: csslib_transform
+    package_version: v0.0.1
+    title: 'v0.0.1 of csslib_transform'
+    published: '2015-03-29T23:34:39+00:00'
+    id: 'urn:uuid:1c6117f9-5899-5f98-94d6-283092636c85'
+    link: 'https://pub.dartlang.org/packages/csslib_transform'
+    author:
+        - 'Valentyn Shybanov'
