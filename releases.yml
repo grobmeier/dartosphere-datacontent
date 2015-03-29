@@ -16461,3 +16461,12 @@
     link: 'https://pub.dartlang.org/packages/unsafe_extension'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: guava_event_bus
+    package_version: v0.0.4
+    title: 'v0.0.4 of guava_event_bus'
+    published: '2015-03-29T10:54:38+00:00'
+    id: 'urn:uuid:1df367a1-00b9-58eb-aaad-a08a49d048ce'
+    link: 'https://pub.dartlang.org/packages/guava_event_bus'
+    author:
+        - 'Matthew Franglen'
