@@ -16434,3 +16434,12 @@
     link: 'https://pub.dartlang.org/packages/drails_di'
     author:
         - 'Luis Vargas'
+-
+    package_name: event_dispatcher
+    package_version: v1.2.0
+    title: 'v1.2.0 of event_dispatcher'
+    published: '2015-03-29T02:44:40+00:00'
+    id: 'urn:uuid:f23657ce-1fa4-5779-924a-3c35749197a2'
+    link: 'https://pub.dartlang.org/packages/event_dispatcher'
+    author:
+        - samrg472
