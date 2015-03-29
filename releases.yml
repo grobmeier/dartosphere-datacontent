@@ -16470,3 +16470,12 @@
     link: 'https://pub.dartlang.org/packages/guava_event_bus'
     author:
         - 'Matthew Franglen'
+-
+    package_name: uix
+    package_version: v0.3.0
+    title: 'v0.3.0 of uix'
+    published: '2015-03-29T11:19:38+00:00'
+    id: 'urn:uuid:85465f82-6d29-56ed-bd1c-d371256db9a9'
+    link: 'https://pub.dartlang.org/packages/uix'
+    author:
+        - 'Boris Kaul'
