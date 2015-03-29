@@ -16488,3 +16488,12 @@
     link: 'https://pub.dartlang.org/packages/binary_interop'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: event_dispatcher
+    package_version: v1.2.1
+    title: 'v1.2.1 of event_dispatcher'
+    published: '2015-03-29T17:24:43+00:00'
+    id: 'urn:uuid:133d704a-e2b5-5681-ac1c-347ab64e5b76'
+    link: 'https://pub.dartlang.org/packages/event_dispatcher'
+    author:
+        - samrg472
