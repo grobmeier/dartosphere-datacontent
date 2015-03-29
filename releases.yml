@@ -16425,3 +16425,12 @@
     link: 'https://pub.dartlang.org/packages/libffi_binaries'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: drails_di
+    package_version: v0.0.5
+    title: 'v0.0.5 of drails_di'
+    published: '2015-03-29T02:19:37+00:00'
+    id: 'urn:uuid:5b1b6dae-78ec-5584-9441-e89c38f58ae2'
+    link: 'https://pub.dartlang.org/packages/drails_di'
+    author:
+        - 'Luis Vargas'
