@@ -16479,3 +16479,12 @@
     link: 'https://pub.dartlang.org/packages/uix'
     author:
         - 'Boris Kaul'
+-
+    package_name: binary_interop
+    package_version: v0.0.28
+    title: 'v0.0.28 of binary_interop'
+    published: '2015-03-29T16:34:42+00:00'
+    id: 'urn:uuid:b1deb86b-32c7-594e-a122-e7f5c6f3339a'
+    link: 'https://pub.dartlang.org/packages/binary_interop'
+    author:
+        - 'Andrew Mezoni'
