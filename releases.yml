@@ -16497,3 +16497,12 @@
     link: 'https://pub.dartlang.org/packages/event_dispatcher'
     author:
         - samrg472
+-
+    package_name: boarding
+    package_version: v0.2.4
+    title: 'v0.2.4 of boarding'
+    published: '2015-03-29T19:24:41+00:00'
+    id: 'urn:uuid:eb5976c8-45c9-58c1-875b-e82eda3ab901'
+    link: 'https://pub.dartlang.org/packages/boarding'
+    author:
+        - 'Dzenan Ridjanovic'
