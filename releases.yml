@@ -16633,3 +16633,12 @@
     link: 'https://pub.dartlang.org/packages/http_parser'
     author:
         - 'Dart Team'
+-
+    package_name: scheduled_test
+    package_version: v0.11.8
+    title: 'v0.11.8 of scheduled_test'
+    published: '2015-03-30T23:29:40+00:00'
+    id: 'urn:uuid:c38e517b-dc2f-5963-b004-b079067c22fe'
+    link: 'https://pub.dartlang.org/packages/scheduled_test'
+    author:
+        - 'Dart Team'
