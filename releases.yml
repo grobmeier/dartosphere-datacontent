@@ -16588,3 +16588,12 @@
     link: 'https://pub.dartlang.org/packages/sitegen'
     author:
         - 'Mike Mitterer'
+-
+    package_name: initialize
+    package_version: v0.6.0+1
+    title: 'v0.6.0+1 of initialize'
+    published: '2015-03-30T16:44:40+00:00'
+    id: 'urn:uuid:73fb2cf6-61e4-548e-83de-bd3b2aa54b5c'
+    link: 'https://pub.dartlang.org/packages/initialize'
+    author:
+        - 'Polymer.dart Authors'
