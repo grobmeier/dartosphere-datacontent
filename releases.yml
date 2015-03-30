@@ -16624,3 +16624,12 @@
     link: 'https://pub.dartlang.org/packages/string_scanner'
     author:
         - 'Dart Team'
+-
+    package_name: http_parser
+    package_version: v0.0.2+6
+    title: 'v0.0.2+6 of http_parser'
+    published: '2015-03-30T22:59:39+00:00'
+    id: 'urn:uuid:0595c259-fd7f-5307-9283-f2190cbd3110'
+    link: 'https://pub.dartlang.org/packages/http_parser'
+    author:
+        - 'Dart Team'
