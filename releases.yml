@@ -16579,3 +16579,12 @@
     link: 'https://pub.dartlang.org/packages/source_gen'
     author:
         - 'Kevin Moore'
+-
+    package_name: sitegen
+    package_version: v0.0.5
+    title: 'v0.0.5 of sitegen'
+    published: '2015-03-30T16:09:40+00:00'
+    id: 'urn:uuid:77992a69-a8b9-5b82-bd78-4828f93ae1c5'
+    link: 'https://pub.dartlang.org/packages/sitegen'
+    author:
+        - 'Mike Mitterer'
