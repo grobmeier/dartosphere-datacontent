@@ -16606,3 +16606,12 @@
     link: 'https://pub.dartlang.org/packages/codemirror'
     author:
         - 'Devon Carew'
+-
+    package_name: aws_policy_expander_minimizer
+    package_version: v0.0.3
+    title: 'v0.0.3 of aws_policy_expander_minimizer'
+    published: '2015-03-30T20:40:13+00:00'
+    id: 'urn:uuid:847fa975-ff9c-5f92-a258-4cb81aaf3561'
+    link: 'https://pub.dartlang.org/packages/aws_policy_expander_minimizer'
+    author:
+        - 'Patrick Kelley'
