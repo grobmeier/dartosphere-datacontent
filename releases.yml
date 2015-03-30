@@ -16533,3 +16533,12 @@
     link: 'https://pub.dartlang.org/packages/csslib_transform'
     author:
         - 'Valentyn Shybanov'
+-
+    package_name: sitegen
+    package_version: v0.0.2
+    title: 'v0.0.2 of sitegen'
+    published: '2015-03-30T11:32:43+00:00'
+    id: 'urn:uuid:8703c966-2d80-5ede-996c-eccbcec1874c'
+    link: 'https://pub.dartlang.org/packages/sitegen'
+    author:
+        - 'Mike Mitterer'
