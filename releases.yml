@@ -16732,3 +16732,12 @@
     link: 'https://pub.dartlang.org/packages/reddit'
     author:
         - 'Steven Roose'
+-
+    package_name: lawndart
+    package_version: v0.9.0
+    title: 'v0.9.0 of lawndart'
+    published: '2015-03-31T19:29:43+00:00'
+    id: 'urn:uuid:a7eb4728-cf94-51ae-9d92-aadb979e25ec'
+    link: 'https://pub.dartlang.org/packages/lawndart'
+    author:
+        - 'Seth Ladd'
