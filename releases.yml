@@ -16687,3 +16687,12 @@
     link: 'https://pub.dartlang.org/packages/klang'
     author:
         - 'Gaëtan Rizio'
+-
+    package_name: code_transformers
+    package_version: v0.2.7+2
+    title: 'v0.2.7+2 of code_transformers'
+    published: '2015-03-31T14:20:25+00:00'
+    id: 'urn:uuid:5cad0310-3efd-574c-aff5-409c70d2eccb'
+    link: 'https://pub.dartlang.org/packages/code_transformers'
+    author:
+        - 'Dart Team'
