@@ -16660,3 +16660,12 @@
     link: 'https://pub.dartlang.org/packages/wsk_material'
     author:
         - 'Mike Mitterer'
+-
+    package_name: wsk_material
+    package_version: v0.8.2
+    title: 'v0.8.2 of wsk_material'
+    published: '2015-03-31T06:04:38+00:00'
+    id: 'urn:uuid:ab7fda29-ed99-5efe-9e17-b9fe527c87cd'
+    link: 'https://pub.dartlang.org/packages/wsk_material'
+    author:
+        - 'Mike Mitterer'
