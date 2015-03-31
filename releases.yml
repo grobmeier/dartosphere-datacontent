@@ -16759,3 +16759,12 @@
     link: 'https://pub.dartlang.org/packages/initialize'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: codemirror
+    package_version: v0.2.3+5.1.1
+    title: 'v0.2.3+5.1.1 of codemirror'
+    published: '2015-03-31T20:59:48+00:00'
+    id: 'urn:uuid:1fa0aa83-33d4-583a-994c-ed1d07248b0b'
+    link: 'https://pub.dartlang.org/packages/codemirror'
+    author:
+        - 'Devon Carew'
