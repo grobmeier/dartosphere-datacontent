@@ -16750,3 +16750,12 @@
     link: 'https://pub.dartlang.org/packages/source_span'
     author:
         - 'Dart Team'
+-
+    package_name: initialize
+    package_version: v0.6.0+2
+    title: 'v0.6.0+2 of initialize'
+    published: '2015-03-31T20:49:50+00:00'
+    id: 'urn:uuid:a800eb3d-f2da-5cb3-9f1f-22837ccfd573'
+    link: 'https://pub.dartlang.org/packages/initialize'
+    author:
+        - 'Polymer.dart Authors'
