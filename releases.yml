@@ -16723,3 +16723,12 @@
     link: 'https://pub.dartlang.org/packages/source_gen'
     author:
         - 'Dart Team'
+-
+    package_name: reddit
+    package_version: v0.1.0+1
+    title: 'v0.1.0+1 of reddit'
+    published: '2015-03-31T17:29:42+00:00'
+    id: 'urn:uuid:99983a95-cc79-5467-8d8a-acaee1d1c6a7'
+    link: 'https://pub.dartlang.org/packages/reddit'
+    author:
+        - 'Steven Roose'
