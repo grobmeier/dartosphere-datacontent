@@ -16705,3 +16705,12 @@
     link: 'https://pub.dartlang.org/packages/reddit'
     author:
         - 'Steven Roose'
+-
+    package_name: source_gen
+    package_version: v0.3.0+1
+    title: 'v0.3.0+1 of source_gen'
+    published: '2015-03-31T16:14:43+00:00'
+    id: 'urn:uuid:e0b49661-d8a9-5d5a-a96f-f7723d6caf1c'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team'
