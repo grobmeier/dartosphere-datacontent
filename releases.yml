@@ -16714,3 +16714,12 @@
     link: 'https://pub.dartlang.org/packages/source_gen'
     author:
         - 'Dart Team'
+-
+    package_name: source_gen
+    package_version: v0.3.0+2
+    title: 'v0.3.0+2 of source_gen'
+    published: '2015-03-31T16:24:43+00:00'
+    id: 'urn:uuid:cd4db8e7-dd37-52b5-827f-a92a52e9c702'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team'
