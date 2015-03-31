@@ -16741,3 +16741,12 @@
     link: 'https://pub.dartlang.org/packages/lawndart'
     author:
         - 'Seth Ladd'
+-
+    package_name: source_span
+    package_version: v1.1.2
+    title: 'v1.1.2 of source_span'
+    published: '2015-03-31T19:59:41+00:00'
+    id: 'urn:uuid:d2e9810c-1fea-5778-bc4e-c198a0defca1'
+    link: 'https://pub.dartlang.org/packages/source_span'
+    author:
+        - 'Dart Team'
