@@ -16768,3 +16768,12 @@
     link: 'https://pub.dartlang.org/packages/codemirror'
     author:
         - 'Devon Carew'
+-
+    package_name: ebisu_cpp
+    package_version: v0.0.9
+    title: 'v0.0.9 of ebisu_cpp'
+    published: '2015-03-31T23:24:39+00:00'
+    id: 'urn:uuid:7cde8733-73b1-535a-933c-332d20511024'
+    link: 'https://pub.dartlang.org/packages/ebisu_cpp'
+    author:
+        - 'Daniel Davidson'
