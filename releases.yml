@@ -16669,3 +16669,12 @@
     link: 'https://pub.dartlang.org/packages/wsk_material'
     author:
         - 'Mike Mitterer'
+-
+    package_name: uix
+    package_version: v0.3.1+1
+    title: 'v0.3.1+1 of uix'
+    published: '2015-03-31T08:19:43+00:00'
+    id: 'urn:uuid:e2097058-9a81-582e-a0b2-74ca4f76161b'
+    link: 'https://pub.dartlang.org/packages/uix'
+    author:
+        - 'Boris Kaul'
