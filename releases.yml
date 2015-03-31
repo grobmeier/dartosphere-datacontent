@@ -16678,3 +16678,12 @@
     link: 'https://pub.dartlang.org/packages/uix'
     author:
         - 'Boris Kaul'
+-
+    package_name: klang
+    package_version: v0.1.4
+    title: 'v0.1.4 of klang'
+    published: '2015-03-31T12:24:38+00:00'
+    id: 'urn:uuid:fc85c958-cb4e-5275-b4e5-828decfc6d3b'
+    link: 'https://pub.dartlang.org/packages/klang'
+    author:
+        - 'Gaëtan Rizio'
