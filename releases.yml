@@ -16811,3 +16811,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu'
     author:
         - 'Daniel Davidson'
+-
+    package_name: xgrep
+    package_version: v0.0.5
+    title: 'v0.0.5 of xgrep'
+    published: '2015-04-01T01:44:38+00:00'
+    id: 'urn:uuid:0e42476b-698c-5d00-89b8-292892a2202c'
+    link: 'https://pub.dartlang.org/packages/xgrep'
+    author:
+        - 'Daniel Davidson'
