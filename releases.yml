@@ -16967,3 +16967,12 @@
     link: 'https://pub.dartlang.org/packages/reddit'
     author:
         - 'Steven Roose'
+-
+    package_name: shelf_auth
+    package_version: v0.5.1
+    title: 'v0.5.1 of shelf_auth'
+    published: '2015-04-01T21:14:44+00:00'
+    id: 'urn:uuid:2d0dbb3d-6aa6-5791-a27c-2651b4b2c2c9'
+    link: 'https://pub.dartlang.org/packages/shelf_auth'
+    author:
+        - 'Anders Holmgren'
