@@ -16857,3 +16857,12 @@
     link: 'https://pub.dartlang.org/packages/graphlib'
     author:
         - 'Richard Lincoln'
+-
+    package_name: dagre
+    package_version: v0.0.2
+    title: 'v0.0.2 of dagre'
+    published: '2015-04-01T11:54:38+00:00'
+    id: 'urn:uuid:ef4f043f-42c1-5d69-a08a-9feb17495edd'
+    link: 'https://pub.dartlang.org/packages/dagre'
+    author:
+        - 'Richard Lincoln'
