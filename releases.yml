@@ -16913,3 +16913,12 @@
     link: 'https://pub.dartlang.org/packages/reddit'
     author:
         - 'Steven Roose'
+-
+    package_name: debug_grid
+    package_version: v0.2.3
+    title: 'v0.2.3 of debug_grid'
+    published: '2015-04-01T17:19:41+00:00'
+    id: 'urn:uuid:fdd72b57-9a9c-52b4-adb8-b7283a429299'
+    link: 'https://pub.dartlang.org/packages/debug_grid'
+    author:
+        - 'Matias Meno'
