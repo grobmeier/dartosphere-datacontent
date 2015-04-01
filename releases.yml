@@ -16875,3 +16875,12 @@
     link: 'https://pub.dartlang.org/packages/dagre_charted'
     author:
         - 'Richard Lincoln'
+-
+    package_name: graphlib_dot
+    package_version: v0.0.2
+    title: 'v0.0.2 of graphlib_dot'
+    published: '2015-04-01T12:09:39+00:00'
+    id: 'urn:uuid:16881e73-a0b9-5343-a147-c19b48ba3751'
+    link: 'https://pub.dartlang.org/packages/graphlib_dot'
+    author:
+        - 'Richard Lincoln'
