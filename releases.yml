@@ -16976,3 +16976,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_auth'
     author:
         - 'Anders Holmgren'
+-
+    package_name: reddit
+    package_version: v0.3.1
+    title: 'v0.3.1 of reddit'
+    published: '2015-04-01T22:34:44+00:00'
+    id: 'urn:uuid:d5028747-69d9-53ba-b85e-4a136444a7f1'
+    link: 'https://pub.dartlang.org/packages/reddit'
+    author:
+        - 'Steven Roose'
