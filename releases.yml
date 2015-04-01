@@ -16922,3 +16922,12 @@
     link: 'https://pub.dartlang.org/packages/debug_grid'
     author:
         - 'Matias Meno'
+-
+    package_name: shelf_bind
+    package_version: v0.8.0
+    title: 'v0.8.0 of shelf_bind'
+    published: '2015-04-01T18:39:44+00:00'
+    id: 'urn:uuid:09e426e4-1e26-5805-895a-ad420668206b'
+    link: 'https://pub.dartlang.org/packages/shelf_bind'
+    author:
+        - 'Anders Holmgren'
