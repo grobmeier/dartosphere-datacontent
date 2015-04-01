@@ -16894,3 +16894,13 @@
     author:
         - 'Günter Zöchbauer'
         - 'Thomas Profelt'
+-
+    package_name: shelf_exception_handler
+    package_version: v0.1.0
+    title: 'v0.1.0 of shelf_exception_handler'
+    published: '2015-04-01T12:39:43+00:00'
+    id: 'urn:uuid:e3f8abca-971c-5437-80f3-5f8061800b31'
+    link: 'https://pub.dartlang.org/packages/shelf_exception_handler'
+    author:
+        - 'Günter Zöchbauer'
+        - 'Thomas Profelt'
