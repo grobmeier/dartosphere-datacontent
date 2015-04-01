@@ -16793,3 +16793,21 @@
         - 'Paul Rohde'
         - 'Victor Berchet'
         - 'Rado Kirov'
+-
+    package_name: ebisu_cpp
+    package_version: v0.0.10
+    title: 'v0.0.10 of ebisu_cpp'
+    published: '2015-04-01T01:39:40+00:00'
+    id: 'urn:uuid:46d6352d-e49b-5fcf-84fd-bef2b0064fb3'
+    link: 'https://pub.dartlang.org/packages/ebisu_cpp'
+    author:
+        - 'Daniel Davidson'
+-
+    package_name: ebisu
+    package_version: v0.2.3
+    title: 'v0.2.3 of ebisu'
+    published: '2015-04-01T01:39:40+00:00'
+    id: 'urn:uuid:ac977d27-e727-5976-b6e4-1688bd1372aa'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson'
