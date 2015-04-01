@@ -16866,3 +16866,12 @@
     link: 'https://pub.dartlang.org/packages/dagre'
     author:
         - 'Richard Lincoln'
+-
+    package_name: dagre_charted
+    package_version: v0.0.2
+    title: 'v0.0.2 of dagre_charted'
+    published: '2015-04-01T11:59:43+00:00'
+    id: 'urn:uuid:2c6f6e2a-4d45-5b0e-995a-bb360034bfd7'
+    link: 'https://pub.dartlang.org/packages/dagre_charted'
+    author:
+        - 'Richard Lincoln'
