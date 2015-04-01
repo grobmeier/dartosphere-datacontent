@@ -16820,3 +16820,12 @@
     link: 'https://pub.dartlang.org/packages/xgrep'
     author:
         - 'Daniel Davidson'
+-
+    package_name: autoprefixer_transformer
+    package_version: v0.2.1
+    title: 'v0.2.1 of autoprefixer_transformer'
+    published: '2015-04-01T08:34:43+00:00'
+    id: 'urn:uuid:16048c3b-0b78-5476-a773-1217374be986'
+    link: 'https://pub.dartlang.org/packages/autoprefixer_transformer'
+    author:
+        - 'Boris Kaul'
