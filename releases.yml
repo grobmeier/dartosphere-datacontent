@@ -16904,3 +16904,12 @@
     author:
         - 'Günter Zöchbauer'
         - 'Thomas Profelt'
+-
+    package_name: reddit
+    package_version: v0.2.0
+    title: 'v0.2.0 of reddit'
+    published: '2015-04-01T15:54:43+00:00'
+    id: 'urn:uuid:82072460-70a4-5f77-b26d-e9ee8b8382de'
+    link: 'https://pub.dartlang.org/packages/reddit'
+    author:
+        - 'Steven Roose'
