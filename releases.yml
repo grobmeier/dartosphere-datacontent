@@ -16848,3 +16848,12 @@
     author:
         - 'Günter Zöchbauer'
         - 'Thomas Profelt'
+-
+    package_name: graphlib
+    package_version: v0.0.3
+    title: 'v0.0.3 of graphlib'
+    published: '2015-04-01T11:34:39+00:00'
+    id: 'urn:uuid:611cfe87-76b2-5984-b5be-5e8d94a1a37f'
+    link: 'https://pub.dartlang.org/packages/graphlib'
+    author:
+        - 'Richard Lincoln'
