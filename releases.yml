@@ -16931,3 +16931,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_bind'
     author:
         - 'Anders Holmgren'
+-
+    package_name: shelf_auth
+    package_version: v0.5.0
+    title: 'v0.5.0 of shelf_auth'
+    published: '2015-04-01T19:09:43+00:00'
+    id: 'urn:uuid:f04fe2d9-a46e-57c1-8d68-4a714ea4f1ad'
+    link: 'https://pub.dartlang.org/packages/shelf_auth'
+    author:
+        - 'Anders Holmgren'
