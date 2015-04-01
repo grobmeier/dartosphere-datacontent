@@ -16940,3 +16940,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_auth'
     author:
         - 'Anders Holmgren'
+-
+    package_name: shelf_oauth
+    package_version: v0.5.0
+    title: 'v0.5.0 of shelf_oauth'
+    published: '2015-04-01T19:29:40+00:00'
+    id: 'urn:uuid:d6758fa4-e0c1-57ad-a6a0-6fe866807985'
+    link: 'https://pub.dartlang.org/packages/shelf_oauth'
+    author:
+        - 'Anders Holmgren'
