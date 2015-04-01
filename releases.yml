@@ -16884,3 +16884,13 @@
     link: 'https://pub.dartlang.org/packages/graphlib_dot'
     author:
         - 'Richard Lincoln'
+-
+    package_name: shelf_response_formatter
+    package_version: v0.1.0
+    title: 'v0.1.0 of shelf_response_formatter'
+    published: '2015-04-01T12:14:40+00:00'
+    id: 'urn:uuid:2da5b093-8835-56c2-8671-f1d46c5239bb'
+    link: 'https://pub.dartlang.org/packages/shelf_response_formatter'
+    author:
+        - 'Günter Zöchbauer'
+        - 'Thomas Profelt'
