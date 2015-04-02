@@ -17013,3 +17013,12 @@
     link: 'https://pub.dartlang.org/packages/web_components'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: xmlstream
+    package_version: v0.10.0
+    title: 'v0.10.0 of xmlstream'
+    published: '2015-04-02T15:59:42+00:00'
+    id: 'urn:uuid:b582e298-9165-59cc-a693-09e3b9021361'
+    link: 'https://pub.dartlang.org/packages/xmlstream'
+    author:
+        - 'Joris Hermans'
