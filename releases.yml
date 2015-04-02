@@ -17004,3 +17004,12 @@
     link: 'https://pub.dartlang.org/packages/tiles'
     author:
         - 'Jakuub Uhrik'
+-
+    package_name: web_components
+    package_version: v0.11.1+2
+    title: 'v0.11.1+2 of web_components'
+    published: '2015-04-02T15:39:49+00:00'
+    id: 'urn:uuid:8b7dfec9-f179-5c88-8ca3-801715d88813'
+    link: 'https://pub.dartlang.org/packages/web_components'
+    author:
+        - 'Polymer.dart Authors'
