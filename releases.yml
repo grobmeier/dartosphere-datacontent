@@ -16995,3 +16995,12 @@
     author:
         - 'Chris Buckett'
         - 'Steven Roose'
+-
+    package_name: tiles
+    package_version: v0.1.2
+    title: 'v0.1.2 of tiles'
+    published: '2015-04-02T13:59:43+00:00'
+    id: 'urn:uuid:6ea51896-a001-570c-9b6c-09be25aa4078'
+    link: 'https://pub.dartlang.org/packages/tiles'
+    author:
+        - 'Jakuub Uhrik'
