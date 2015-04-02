@@ -17040,3 +17040,13 @@
     link: 'https://pub.dartlang.org/packages/haikunator'
     author:
         - Atrox
+-
+    package_name: dartdoc
+    package_version: v0.0.0
+    title: 'v0.0.0 of dartdoc'
+    published: '2015-04-02T22:29:45+00:00'
+    id: 'urn:uuid:63eea23f-8fe9-5e21-b21f-23ab3d2a8236'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Keerti Parthasarathy'
+        - 'Seth Ladd'
