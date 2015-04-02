@@ -16985,3 +16985,13 @@
     link: 'https://pub.dartlang.org/packages/reddit'
     author:
         - 'Steven Roose'
+-
+    package_name: json_object
+    package_version: v1.0.19
+    title: 'v1.0.19 of json_object'
+    published: '2015-04-02T01:29:42+00:00'
+    id: 'urn:uuid:6590d67a-bd87-58c0-b277-afe129e8facf'
+    link: 'https://pub.dartlang.org/packages/json_object'
+    author:
+        - 'Chris Buckett'
+        - 'Steven Roose'
