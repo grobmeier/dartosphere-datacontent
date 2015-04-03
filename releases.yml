@@ -17149,3 +17149,12 @@
     link: 'https://pub.dartlang.org/packages/custom_element_apigen'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: tags
+    package_version: v0.9.0
+    title: 'v0.9.0 of tags'
+    published: '2015-04-03T18:19:47+00:00'
+    id: 'urn:uuid:c5176d46-441a-5ef0-b81f-484c832f20f1'
+    link: 'https://pub.dartlang.org/packages/tags'
+    author:
+        - 'Ross Smith'
