@@ -17185,3 +17185,12 @@
     link: 'https://pub.dartlang.org/packages/custom_element_apigen'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: initialize
+    package_version: v0.6.0+3
+    title: 'v0.6.0+3 of initialize'
+    published: '2015-04-03T22:39:44+00:00'
+    id: 'urn:uuid:ad020e9b-325e-5653-aadd-03fd90099ac8'
+    link: 'https://pub.dartlang.org/packages/initialize'
+    author:
+        - 'Polymer.dart Authors'
