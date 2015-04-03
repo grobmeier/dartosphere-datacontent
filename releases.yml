@@ -17158,3 +17158,12 @@
     link: 'https://pub.dartlang.org/packages/tags'
     author:
         - 'Ross Smith'
+-
+    package_name: custom_element_apigen
+    package_version: v0.1.5
+    title: 'v0.1.5 of custom_element_apigen'
+    published: '2015-04-03T20:49:45+00:00'
+    id: 'urn:uuid:fa6172b5-fcaf-52b9-9d80-19ae1839b22f'
+    link: 'https://pub.dartlang.org/packages/custom_element_apigen'
+    author:
+        - 'Polymer.dart Authors'
