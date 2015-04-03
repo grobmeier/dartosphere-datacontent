@@ -17131,3 +17131,21 @@
     link: 'https://pub.dartlang.org/packages/csslib'
     author:
         - 'Polymer.dart Team'
+-
+    package_name: html
+    package_version: v0.12.1+1
+    title: 'v0.12.1+1 of html'
+    published: '2015-04-03T16:49:43+00:00'
+    id: 'urn:uuid:7f42e60e-bece-5304-b7e5-6481ca9e8ac3'
+    link: 'https://pub.dartlang.org/packages/html'
+    author:
+        - 'Dart Team'
+-
+    package_name: custom_element_apigen
+    package_version: v0.1.4+3
+    title: 'v0.1.4+3 of custom_element_apigen'
+    published: '2015-04-03T16:49:43+00:00'
+    id: 'urn:uuid:b650336e-f266-5575-bf15-bdd978aaf63f'
+    link: 'https://pub.dartlang.org/packages/custom_element_apigen'
+    author:
+        - 'Polymer.dart Authors'
