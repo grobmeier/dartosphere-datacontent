@@ -17077,3 +17077,12 @@
     link: 'https://pub.dartlang.org/packages/doc_coverage'
     author:
         - 'Sam Rawlins'
+-
+    package_name: doc_coverage
+    package_version: v0.1.1
+    title: 'v0.1.1 of doc_coverage'
+    published: '2015-04-03T01:44:46+00:00'
+    id: 'urn:uuid:12e8e4d0-f183-518e-a5a7-19f9734e35a2'
+    link: 'https://pub.dartlang.org/packages/doc_coverage'
+    author:
+        - 'Sam Rawlins'
