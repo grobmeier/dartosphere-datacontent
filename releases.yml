@@ -17059,3 +17059,12 @@
     link: 'https://pub.dartlang.org/packages/pubviz'
     author:
         - 'Kevin Moore'
+-
+    package_name: color
+    package_version: v1.3.0
+    title: 'v1.3.0 of color'
+    published: '2015-04-03T00:29:41+00:00'
+    id: 'urn:uuid:263bc316-b903-5ba9-859d-a29168082237'
+    link: 'https://pub.dartlang.org/packages/color'
+    author:
+        - 'Michael Fenwick'
