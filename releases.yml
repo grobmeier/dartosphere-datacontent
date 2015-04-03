@@ -17167,3 +17167,12 @@
     link: 'https://pub.dartlang.org/packages/custom_element_apigen'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: notification
+    package_version: v0.0.1
+    title: 'v0.0.1 of notification'
+    published: '2015-04-03T22:14:43+00:00'
+    id: 'urn:uuid:4fbbe444-fdaf-59e8-a06c-dd36a6c965c8'
+    link: 'https://pub.dartlang.org/packages/notification'
+    author:
+        - 'Dart Team'
