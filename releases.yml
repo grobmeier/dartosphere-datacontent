@@ -17068,3 +17068,12 @@
     link: 'https://pub.dartlang.org/packages/color'
     author:
         - 'Michael Fenwick'
+-
+    package_name: doc_coverage
+    package_version: v0.1.0
+    title: 'v0.1.0 of doc_coverage'
+    published: '2015-04-03T01:24:42+00:00'
+    id: 'urn:uuid:3115b7d7-fa51-5e6a-97e2-4065786e77b1'
+    link: 'https://pub.dartlang.org/packages/doc_coverage'
+    author:
+        - 'Sam Rawlins'
