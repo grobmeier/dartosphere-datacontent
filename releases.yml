@@ -17086,3 +17086,12 @@
     link: 'https://pub.dartlang.org/packages/doc_coverage'
     author:
         - 'Sam Rawlins'
+-
+    package_name: id
+    package_version: v1.0.6
+    title: 'v1.0.6 of id'
+    published: '2015-04-03T03:29:41+00:00'
+    id: 'urn:uuid:aa039b37-afc0-56ee-9f8b-8c00a2a65da1'
+    link: 'https://pub.dartlang.org/packages/id'
+    author:
+        - 'Daniel Davidson'
