@@ -17248,3 +17248,12 @@
     link: 'https://pub.dartlang.org/packages/rest_frame'
     author:
         - 'Mathias Remshardt'
+-
+    package_name: ebisu
+    package_version: v0.2.6
+    title: 'v0.2.6 of ebisu'
+    published: '2015-04-04T19:29:43+00:00'
+    id: 'urn:uuid:6f7e6c78-1b5b-58ee-9915-89517544b7bd'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson'
