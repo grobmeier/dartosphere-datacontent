@@ -17302,3 +17302,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu_cpp'
     author:
         - 'Daniel Davidson'
+-
+    package_name: annotate
+    package_version: v0.0.3
+    title: 'v0.0.3 of annotate'
+    published: '2015-04-04T21:34:40+00:00'
+    id: 'urn:uuid:0d570c2c-c5cf-5ed4-bc4b-8ca9ededd7da'
+    link: 'https://pub.dartlang.org/packages/annotate'
+    author:
+        - 'Matthew Franglen'
