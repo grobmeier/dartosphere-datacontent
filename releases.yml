@@ -17212,3 +17212,12 @@
     link: 'https://pub.dartlang.org/packages/elapsed_time_element'
     author:
         - 'Jim Heyne'
+-
+    package_name: uix
+    package_version: v0.4.0
+    title: 'v0.4.0 of uix'
+    published: '2015-04-04T05:29:39+00:00'
+    id: 'urn:uuid:6e72c3cd-3a1f-527f-ae2b-697047fed1a6'
+    link: 'https://pub.dartlang.org/packages/uix'
+    author:
+        - 'Boris Kaul'
