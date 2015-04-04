@@ -17275,3 +17275,12 @@
     link: 'https://pub.dartlang.org/packages/targets'
     author:
         - 'Jack Thakar'
+-
+    package_name: magus
+    package_version: v0.0.8
+    title: 'v0.0.8 of magus'
+    published: '2015-04-04T20:29:45+00:00'
+    id: 'urn:uuid:471e8d28-4bb3-55c8-9e99-4f4e4a4d169f'
+    link: 'https://pub.dartlang.org/packages/magus'
+    author:
+        - 'Daniel Davidson'
