@@ -17239,3 +17239,12 @@
     link: 'https://pub.dartlang.org/packages/annotate'
     author:
         - 'Matthew Franglen'
+-
+    package_name: rest_frame
+    package_version: v0.1.1
+    title: 'v0.1.1 of rest_frame'
+    published: '2015-04-04T17:09:46+00:00'
+    id: 'urn:uuid:f794eb7d-410d-55da-a58b-ed29bd0f762a'
+    link: 'https://pub.dartlang.org/packages/rest_frame'
+    author:
+        - 'Mathias Remshardt'
