@@ -17320,3 +17320,14 @@
     link: 'https://pub.dartlang.org/packages/git'
     author:
         - 'Kevin Moore'
+-
+    package_name: dartdap
+    package_version: v0.0.8
+    title: 'v0.0.8 of dartdap'
+    published: '2015-04-04T22:14:41+00:00'
+    id: 'urn:uuid:820483c0-8dc5-5902-aac4-b81b2a590b18'
+    link: 'https://pub.dartlang.org/packages/dartdap'
+    author:
+        - 'Warren Strange'
+        - 'Chris Ridd'
+        - 'Hoylen Sue'
