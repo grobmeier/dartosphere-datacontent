@@ -17266,3 +17266,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu_cpp'
     author:
         - 'Daniel Davidson'
+-
+    package_name: targets
+    package_version: v0.7.2
+    title: 'v0.7.2 of targets'
+    published: '2015-04-04T20:14:40+00:00'
+    id: 'urn:uuid:1ee53f80-6b24-5105-8461-99fbd49f18bb'
+    link: 'https://pub.dartlang.org/packages/targets'
+    author:
+        - 'Jack Thakar'
