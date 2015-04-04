@@ -17311,3 +17311,12 @@
     link: 'https://pub.dartlang.org/packages/annotate'
     author:
         - 'Matthew Franglen'
+-
+    package_name: git
+    package_version: v0.4.2
+    title: 'v0.4.2 of git'
+    published: '2015-04-04T21:54:44+00:00'
+    id: 'urn:uuid:0e889b03-128a-5608-9b59-d6f2032d0eca'
+    link: 'https://pub.dartlang.org/packages/git'
+    author:
+        - 'Kevin Moore'
