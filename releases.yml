@@ -17284,3 +17284,12 @@
     link: 'https://pub.dartlang.org/packages/magus'
     author:
         - 'Daniel Davidson'
+-
+    package_name: ebisu_cpp_db
+    package_version: v0.0.6
+    title: 'v0.0.6 of ebisu_cpp_db'
+    published: '2015-04-04T20:34:39+00:00'
+    id: 'urn:uuid:7fa77fbc-eb66-50b8-8f01-83b90e0bd787'
+    link: 'https://pub.dartlang.org/packages/ebisu_cpp_db'
+    author:
+        - 'Daniel Davidson'
