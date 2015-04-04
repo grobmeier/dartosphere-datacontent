@@ -17293,3 +17293,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu_cpp_db'
     author:
         - 'Daniel Davidson'
+-
+    package_name: ebisu_cpp
+    package_version: v0.0.14
+    title: 'v0.0.14 of ebisu_cpp'
+    published: '2015-04-04T20:44:44+00:00'
+    id: 'urn:uuid:4d445143-7d87-5d0d-b36a-975b17ae816b'
+    link: 'https://pub.dartlang.org/packages/ebisu_cpp'
+    author:
+        - 'Daniel Davidson'
