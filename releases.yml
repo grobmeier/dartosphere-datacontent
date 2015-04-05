@@ -17358,3 +17358,12 @@
     link: 'https://pub.dartlang.org/packages/webrtc_utils'
     author:
         - 'Robert Hartung'
+-
+    package_name: macro_processor
+    package_version: v0.0.9
+    title: 'v0.0.9 of macro_processor'
+    published: '2015-04-05T09:34:41+00:00'
+    id: 'urn:uuid:424d157d-dbad-5306-8f99-7236c9dc20c1'
+    link: 'https://pub.dartlang.org/packages/macro_processor'
+    author:
+        - 'Andrew Mezoni'
