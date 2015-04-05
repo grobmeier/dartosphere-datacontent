@@ -17484,3 +17484,12 @@
     link: 'https://pub.dartlang.org/packages/libc'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_declarations
+    package_version: v0.0.57
+    title: 'v0.0.57 of binary_declarations'
+    published: '2015-04-05T17:59:45+00:00'
+    id: 'urn:uuid:5603267c-5a78-5ffa-8832-f7ec0700a6cf'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni'
