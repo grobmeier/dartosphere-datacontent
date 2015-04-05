@@ -17340,3 +17340,12 @@
     link: 'https://pub.dartlang.org/packages/dartmocks'
     author:
         - 'Victor Savkin'
+-
+    package_name: webrtc_utils
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of webrtc_utils'
+    published: '2015-04-05T06:59:41+00:00'
+    id: 'urn:uuid:ef536ec3-1537-5df8-bada-85a4ed75206c'
+    link: 'https://pub.dartlang.org/packages/webrtc_utils'
+    author:
+        - 'Robert Hartung'
