@@ -17439,3 +17439,12 @@
     link: 'https://pub.dartlang.org/packages/binary_interop'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: libc
+    package_version: v0.0.4
+    title: 'v0.0.4 of libc'
+    published: '2015-04-05T15:14:41+00:00'
+    id: 'urn:uuid:7901a359-6a07-598d-a05f-d0b318d2c2af'
+    link: 'https://pub.dartlang.org/packages/libc'
+    author:
+        - 'Andrew Mezoni'
