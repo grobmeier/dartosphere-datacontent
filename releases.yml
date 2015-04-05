@@ -17430,3 +17430,12 @@
     link: 'https://pub.dartlang.org/packages/libc'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_interop
+    package_version: v0.0.30
+    title: 'v0.0.30 of binary_interop'
+    published: '2015-04-05T14:59:40+00:00'
+    id: 'urn:uuid:43625cc5-8441-5902-b29f-9b3e2ae9e8b3'
+    link: 'https://pub.dartlang.org/packages/binary_interop'
+    author:
+        - 'Andrew Mezoni'
