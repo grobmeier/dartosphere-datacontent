@@ -17493,3 +17493,12 @@
     link: 'https://pub.dartlang.org/packages/binary_declarations'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_types
+    package_version: v0.0.46
+    title: 'v0.0.46 of binary_types'
+    published: '2015-04-05T19:19:41+00:00'
+    id: 'urn:uuid:617beead-86cc-5671-bb3b-a90810ac00ab'
+    link: 'https://pub.dartlang.org/packages/binary_types'
+    author:
+        - 'Andrew Mezoni'
