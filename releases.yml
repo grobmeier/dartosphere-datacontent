@@ -17457,3 +17457,12 @@
     link: 'https://pub.dartlang.org/packages/binary_generator'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: libc
+    package_version: v0.0.5
+    title: 'v0.0.5 of libc'
+    published: '2015-04-05T15:44:40+00:00'
+    id: 'urn:uuid:a69926a2-7184-5553-afae-f88c66e5f8f9'
+    link: 'https://pub.dartlang.org/packages/libc'
+    author:
+        - 'Andrew Mezoni'
