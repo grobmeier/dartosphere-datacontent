@@ -17448,3 +17448,12 @@
     link: 'https://pub.dartlang.org/packages/libc'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_generator
+    package_version: v0.0.11
+    title: 'v0.0.11 of binary_generator'
+    published: '2015-04-05T15:39:43+00:00'
+    id: 'urn:uuid:7f15989a-1854-5c8d-a0b4-98b3e06cfa91'
+    link: 'https://pub.dartlang.org/packages/binary_generator'
+    author:
+        - 'Andrew Mezoni'
