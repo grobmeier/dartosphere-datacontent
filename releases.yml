@@ -17403,3 +17403,12 @@
     link: 'https://pub.dartlang.org/packages/libc'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_types
+    package_version: v0.0.43
+    title: 'v0.0.43 of binary_types'
+    published: '2015-04-05T10:54:42+00:00'
+    id: 'urn:uuid:8b21379c-2ad0-5d5b-90e3-788fb21aa9a3'
+    link: 'https://pub.dartlang.org/packages/binary_types'
+    author:
+        - 'Andrew Mezoni'
