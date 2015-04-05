@@ -17475,3 +17475,12 @@
     link: 'https://pub.dartlang.org/packages/binary_types'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: libc
+    package_version: v0.0.6
+    title: 'v0.0.6 of libc'
+    published: '2015-04-05T17:14:41+00:00'
+    id: 'urn:uuid:02adef76-b46a-57ed-b6ff-b7f7853f3058'
+    link: 'https://pub.dartlang.org/packages/libc'
+    author:
+        - 'Andrew Mezoni'
