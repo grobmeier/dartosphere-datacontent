@@ -17331,3 +17331,12 @@
         - 'Warren Strange'
         - 'Chris Ridd'
         - 'Hoylen Sue'
+-
+    package_name: dartmocks
+    package_version: v0.5.2+1
+    title: 'v0.5.2+1 of dartmocks'
+    published: '2015-04-05T03:59:43+00:00'
+    id: 'urn:uuid:9064066e-112d-5672-a1a4-644398a628b7'
+    link: 'https://pub.dartlang.org/packages/dartmocks'
+    author:
+        - 'Victor Savkin'
