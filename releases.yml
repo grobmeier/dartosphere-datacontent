@@ -17601,3 +17601,12 @@
     link: 'https://pub.dartlang.org/packages/plugin'
     author:
         - 'Dart Team'
+-
+    package_name: codemirror
+    package_version: v0.2.4+5.1.0
+    title: 'v0.2.4+5.1.0 of codemirror'
+    published: '2015-04-06T17:39:42+00:00'
+    id: 'urn:uuid:4376d51e-54e0-573e-a377-b51add71c493'
+    link: 'https://pub.dartlang.org/packages/codemirror'
+    author:
+        - 'Devon Carew'
