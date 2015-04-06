@@ -17583,3 +17583,12 @@
     link: 'https://pub.dartlang.org/packages/analyzer'
     author:
         - 'Dart Team'
+-
+    package_name: force
+    package_version: v0.6.3
+    title: 'v0.6.3 of force'
+    published: '2015-04-06T15:39:45+00:00'
+    id: 'urn:uuid:d92c3c56-91b4-5828-aaaf-ac48f437972b'
+    link: 'https://pub.dartlang.org/packages/force'
+    author:
+        - 'Joris Hermans'
