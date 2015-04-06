@@ -17637,3 +17637,14 @@
     link: 'https://pub.dartlang.org/packages/bzip2'
     author:
         - 'Hadi Moshayedi'
+-
+    package_name: irc
+    package_version: v2.1.4
+    title: 'v2.1.4 of irc'
+    published: '2015-04-06T22:04:40+00:00'
+    id: 'urn:uuid:6e2a4153-30b4-5003-b72a-eeb0056c57b3'
+    link: 'https://pub.dartlang.org/packages/irc'
+    author:
+        - 'Kenneth Endfinger'
+        - samrg472
+        - TheMike
