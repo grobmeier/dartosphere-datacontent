@@ -17538,3 +17538,21 @@
     link: 'https://pub.dartlang.org/packages/binary_types'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: libc
+    package_version: v0.0.8
+    title: 'v0.0.8 of libc'
+    published: '2015-04-06T08:04:41+00:00'
+    id: 'urn:uuid:011840f6-7dab-5ecd-8b0f-7389924babf7'
+    link: 'https://pub.dartlang.org/packages/libc'
+    author:
+        - 'Andrew Mezoni'
+-
+    package_name: binary_generator
+    package_version: v0.0.14
+    title: 'v0.0.14 of binary_generator'
+    published: '2015-04-06T08:04:41+00:00'
+    id: 'urn:uuid:6ce66ab6-a8d3-5fe8-8d49-0d1f1a8d7cd6'
+    link: 'https://pub.dartlang.org/packages/binary_generator'
+    author:
+        - 'Andrew Mezoni'
