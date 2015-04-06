@@ -17502,3 +17502,12 @@
     link: 'https://pub.dartlang.org/packages/binary_types'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_types
+    package_version: v0.0.47
+    title: 'v0.0.47 of binary_types'
+    published: '2015-04-06T06:14:42+00:00'
+    id: 'urn:uuid:dd389285-c706-5471-8f3e-e601f99a2461'
+    link: 'https://pub.dartlang.org/packages/binary_types'
+    author:
+        - 'Andrew Mezoni'
