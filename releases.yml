@@ -17628,3 +17628,12 @@
     link: 'https://pub.dartlang.org/packages/http'
     author:
         - 'Dart Team'
+-
+    package_name: bzip2
+    package_version: v0.0.6
+    title: 'v0.0.6 of bzip2'
+    published: '2015-04-06T20:04:41+00:00'
+    id: 'urn:uuid:56d0dce1-b037-56f6-b2c6-ac8ad220ce80'
+    link: 'https://pub.dartlang.org/packages/bzip2'
+    author:
+        - 'Hadi Moshayedi'
