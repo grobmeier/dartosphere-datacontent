@@ -17529,3 +17529,12 @@
     link: 'https://pub.dartlang.org/packages/libc'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_types
+    package_version: v0.0.48
+    title: 'v0.0.48 of binary_types'
+    published: '2015-04-06T07:54:42+00:00'
+    id: 'urn:uuid:8d625317-1fb7-5303-a1d9-6ec9b68659fe'
+    link: 'https://pub.dartlang.org/packages/binary_types'
+    author:
+        - 'Andrew Mezoni'
