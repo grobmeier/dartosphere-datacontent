@@ -17619,3 +17619,12 @@
     link: 'https://pub.dartlang.org/packages/force_elements'
     author:
         - 'Joris Hermans'
+-
+    package_name: http
+    package_version: v0.11.2
+    title: 'v0.11.2 of http'
+    published: '2015-04-06T19:39:46+00:00'
+    id: 'urn:uuid:cecdf158-270e-576b-a54a-5b20fd8b3876'
+    link: 'https://pub.dartlang.org/packages/http'
+    author:
+        - 'Dart Team'
