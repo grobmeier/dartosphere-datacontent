@@ -17610,3 +17610,12 @@
     link: 'https://pub.dartlang.org/packages/codemirror'
     author:
         - 'Devon Carew'
+-
+    package_name: force_elements
+    package_version: v0.0.1
+    title: 'v0.0.1 of force_elements'
+    published: '2015-04-06T17:49:44+00:00'
+    id: 'urn:uuid:cb3ebe83-1a0d-558d-874c-cb17b1866d7b'
+    link: 'https://pub.dartlang.org/packages/force_elements'
+    author:
+        - 'Joris Hermans'
