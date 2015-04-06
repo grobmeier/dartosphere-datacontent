@@ -17574,3 +17574,12 @@
     link: 'https://pub.dartlang.org/packages/uix'
     author:
         - 'Boris Kaul'
+-
+    package_name: analyzer
+    package_version: v0.24.1
+    title: 'v0.24.1 of analyzer'
+    published: '2015-04-06T15:24:41+00:00'
+    id: 'urn:uuid:f9949fa8-0efd-54f1-bc7c-fbf52f59a2d8'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team'
