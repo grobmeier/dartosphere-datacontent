@@ -17747,3 +17747,12 @@
     link: 'https://pub.dartlang.org/packages/behaviour_tree'
     author:
         - 'Will Squire'
+-
+    package_name: custom_element_apigen
+    package_version: v0.1.6
+    title: 'v0.1.6 of custom_element_apigen'
+    published: '2015-04-07T21:59:45+00:00'
+    id: 'urn:uuid:ab55f7ff-d656-5d74-8345-4493ffe96aae'
+    link: 'https://pub.dartlang.org/packages/custom_element_apigen'
+    author:
+        - 'Polymer.dart Authors'
