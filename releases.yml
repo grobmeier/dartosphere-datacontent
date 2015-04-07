@@ -17702,3 +17702,12 @@
     link: 'https://pub.dartlang.org/packages/react'
     author:
         - 'Clean Team'
+-
+    package_name: git
+    package_version: v0.4.3
+    title: 'v0.4.3 of git'
+    published: '2015-04-07T13:19:41+00:00'
+    id: 'urn:uuid:196ccc44-536b-581d-8009-031bb2686e25'
+    link: 'https://pub.dartlang.org/packages/git'
+    author:
+        - 'Kevin Moore'
