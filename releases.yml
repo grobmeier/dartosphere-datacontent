@@ -17666,3 +17666,12 @@
     link: 'https://pub.dartlang.org/packages/behaviour_tree'
     author:
         - 'Will Squire'
+-
+    package_name: ebisu_cpp
+    package_version: v0.0.15
+    title: 'v0.0.15 of ebisu_cpp'
+    published: '2015-04-07T02:34:38+00:00'
+    id: 'urn:uuid:d711c893-a86a-5653-812e-d06037a75dce'
+    link: 'https://pub.dartlang.org/packages/ebisu_cpp'
+    author:
+        - 'Daniel Davidson'
