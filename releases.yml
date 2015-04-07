@@ -17738,3 +17738,12 @@
     link: 'https://pub.dartlang.org/packages/csslib_transform'
     author:
         - 'Valentyn Shybanov'
+-
+    package_name: behaviour_tree
+    package_version: v0.9.3
+    title: 'v0.9.3 of behaviour_tree'
+    published: '2015-04-07T21:34:37+00:00'
+    id: 'urn:uuid:97713c31-683c-5e2e-8cdd-13cb4f7f0f9a'
+    link: 'https://pub.dartlang.org/packages/behaviour_tree'
+    author:
+        - 'Will Squire'
