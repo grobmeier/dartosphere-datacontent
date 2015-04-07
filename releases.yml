@@ -17693,3 +17693,12 @@
     link: 'https://pub.dartlang.org/packages/bootjack_datepicker'
     author:
         - 'Jimmy Shiau'
+-
+    package_name: react
+    package_version: v0.6.0
+    title: 'v0.6.0 of react'
+    published: '2015-04-07T08:34:41+00:00'
+    id: 'urn:uuid:7db30789-5670-5069-84db-e6beddc402eb'
+    link: 'https://pub.dartlang.org/packages/react'
+    author:
+        - 'Clean Team'
