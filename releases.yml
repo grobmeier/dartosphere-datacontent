@@ -17756,3 +17756,23 @@
     link: 'https://pub.dartlang.org/packages/custom_element_apigen'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: behaviour_tree
+    package_version: v0.9.4
+    title: 'v0.9.4 of behaviour_tree'
+    published: '2015-04-07T22:19:37+00:00'
+    id: 'urn:uuid:6b721dfe-1083-5eea-a8a5-cc5f5fe528a8'
+    link: 'https://pub.dartlang.org/packages/behaviour_tree'
+    author:
+        - 'Will Squire'
+-
+    package_name: irc
+    package_version: v2.1.5
+    title: 'v2.1.5 of irc'
+    published: '2015-04-07T22:19:37+00:00'
+    id: 'urn:uuid:5cddc159-8cd8-5985-8049-b7a708a87144'
+    link: 'https://pub.dartlang.org/packages/irc'
+    author:
+        - 'Kenneth Endfinger'
+        - samrg472
+        - TheMike
