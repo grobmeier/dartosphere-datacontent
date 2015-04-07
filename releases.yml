@@ -17675,3 +17675,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu_cpp'
     author:
         - 'Daniel Davidson'
+-
+    package_name: bootjack_datepicker
+    package_version: v0.5.4+3
+    title: 'v0.5.4+3 of bootjack_datepicker'
+    published: '2015-04-07T03:09:40+00:00'
+    id: 'urn:uuid:0edff104-7d6a-524e-8698-3388b5e78bd2'
+    link: 'https://pub.dartlang.org/packages/bootjack_datepicker'
+    author:
+        - 'Jimmy Shiau'
