@@ -17729,3 +17729,12 @@
     link: 'https://pub.dartlang.org/packages/binary_marshalling'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: csslib_transform
+    package_version: v0.0.2
+    title: 'v0.0.2 of csslib_transform'
+    published: '2015-04-07T20:49:49+00:00'
+    id: 'urn:uuid:3cc8bcea-aa67-56a7-bacb-4e5d4b44ac63'
+    link: 'https://pub.dartlang.org/packages/csslib_transform'
+    author:
+        - 'Valentyn Shybanov'
