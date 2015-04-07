@@ -17684,3 +17684,12 @@
     link: 'https://pub.dartlang.org/packages/bootjack_datepicker'
     author:
         - 'Jimmy Shiau'
+-
+    package_name: bootjack_datepicker
+    package_version: v0.5.4+4
+    title: 'v0.5.4+4 of bootjack_datepicker'
+    published: '2015-04-07T03:34:39+00:00'
+    id: 'urn:uuid:6e94b5b2-fe18-54bd-9f14-ebdb9244d54d'
+    link: 'https://pub.dartlang.org/packages/bootjack_datepicker'
+    author:
+        - 'Jimmy Shiau'
