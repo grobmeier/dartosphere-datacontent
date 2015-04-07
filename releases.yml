@@ -17776,3 +17776,12 @@
         - 'Kenneth Endfinger'
         - samrg472
         - TheMike
+-
+    package_name: dotenv
+    package_version: v0.1.0
+    title: 'v0.1.0 of dotenv'
+    published: '2015-04-07T23:49:43+00:00'
+    id: 'urn:uuid:6e492a82-e258-57f6-8cc7-3f972af6f8b6'
+    link: 'https://pub.dartlang.org/packages/dotenv'
+    author:
+        - mockturtl
