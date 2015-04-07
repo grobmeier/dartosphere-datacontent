@@ -17720,3 +17720,12 @@
     link: 'https://pub.dartlang.org/packages/built_collection'
     author:
         - 'David Morgan'
+-
+    package_name: binary_marshalling
+    package_version: v0.0.6
+    title: 'v0.0.6 of binary_marshalling'
+    published: '2015-04-07T18:44:39+00:00'
+    id: 'urn:uuid:52881d8a-76ad-57b8-bce6-96fea5ccefa9'
+    link: 'https://pub.dartlang.org/packages/binary_marshalling'
+    author:
+        - 'Andrew Mezoni'
