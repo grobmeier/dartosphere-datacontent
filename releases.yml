@@ -17857,3 +17857,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu_cpp'
     author:
         - 'Daniel Davidson'
+-
+    package_name: tiles
+    package_version: v0.1.3
+    title: 'v0.1.3 of tiles'
+    published: '2015-04-08T10:44:41+00:00'
+    id: 'urn:uuid:eaa1acc6-454c-5031-a11f-2a806a8d0da0'
+    link: 'https://pub.dartlang.org/packages/tiles'
+    author:
+        - 'Jakuub Uhrik'
