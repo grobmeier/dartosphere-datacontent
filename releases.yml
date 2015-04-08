@@ -17902,3 +17902,12 @@
     link: 'https://pub.dartlang.org/packages/analyzer'
     author:
         - 'Dart Team'
+-
+    package_name: slickdart
+    package_version: v0.1.1+2
+    title: 'v0.1.1+2 of slickdart'
+    published: '2015-04-08T16:44:38+00:00'
+    id: 'urn:uuid:5bc215e4-20b9-5130-b8c3-951e5ea5a08f'
+    link: 'https://pub.dartlang.org/packages/slickdart'
+    author:
+        - CJKAO
