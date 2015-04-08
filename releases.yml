@@ -17812,3 +17812,12 @@
     link: 'https://pub.dartlang.org/packages/sitegen'
     author:
         - 'Mike Mitterer'
+-
+    package_name: libc
+    package_version: v0.0.10
+    title: 'v0.0.10 of libc'
+    published: '2015-04-08T08:44:43+00:00'
+    id: 'urn:uuid:bf10d6d2-9430-5010-8ce6-dd98a8dd8a95'
+    link: 'https://pub.dartlang.org/packages/libc'
+    author:
+        - 'Andrew Mezoni'
