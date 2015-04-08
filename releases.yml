@@ -17794,3 +17794,12 @@
     link: 'https://pub.dartlang.org/packages/pico_log'
     author:
         - mockturtl
+-
+    package_name: squint
+    package_version: v0.1.0
+    title: 'v0.1.0 of squint'
+    published: '2015-04-08T00:14:43+00:00'
+    id: 'urn:uuid:827c9298-0b54-5e1b-b471-48c039b30220'
+    link: 'https://pub.dartlang.org/packages/squint'
+    author:
+        - mockturtl
