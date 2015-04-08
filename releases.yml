@@ -17938,3 +17938,12 @@
     link: 'https://pub.dartlang.org/packages/geek_code'
     author:
         - 'Meshulam Silk'
+-
+    package_name: geek_code
+    package_version: v1.0.1
+    title: 'v1.0.1 of geek_code'
+    published: '2015-04-08T17:34:43+00:00'
+    id: 'urn:uuid:f826a73f-60f1-5282-a6d5-8d50cf2bcca5'
+    link: 'https://pub.dartlang.org/packages/geek_code'
+    author:
+        - 'Meshulam Silk'
