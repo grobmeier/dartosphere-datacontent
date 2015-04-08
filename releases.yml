@@ -17875,3 +17875,12 @@
     link: 'https://pub.dartlang.org/packages/timezone'
     author:
         - 'Boris Kaul'
+-
+    package_name: toml
+    package_version: v0.3.0
+    title: 'v0.3.0 of toml'
+    published: '2015-04-08T12:59:42+00:00'
+    id: 'urn:uuid:d4073631-8c4d-5134-b991-81b0a78eb5b1'
+    link: 'https://pub.dartlang.org/packages/toml'
+    author:
+        - 'Justin Andresen'
