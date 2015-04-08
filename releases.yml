@@ -17830,3 +17830,12 @@
     link: 'https://pub.dartlang.org/packages/binary_generator'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_marshalling
+    package_version: v0.0.7
+    title: 'v0.0.7 of binary_marshalling'
+    published: '2015-04-08T10:14:39+00:00'
+    id: 'urn:uuid:5c333209-517c-59cb-8af8-04c9d77095b8'
+    link: 'https://pub.dartlang.org/packages/binary_marshalling'
+    author:
+        - 'Andrew Mezoni'
