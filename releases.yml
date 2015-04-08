@@ -17956,3 +17956,12 @@
     link: 'https://pub.dartlang.org/packages/peanut'
     author:
         - 'Kevin Moore'
+-
+    package_name: plank
+    package_version: v0.1.0
+    title: 'v0.1.0 of plank'
+    published: '2015-04-08T18:29:43+00:00'
+    id: 'urn:uuid:bf868306-0581-55b5-a53c-f51c9f53db75'
+    link: 'https://pub.dartlang.org/packages/plank'
+    author:
+        - 'Andres Araujo'
