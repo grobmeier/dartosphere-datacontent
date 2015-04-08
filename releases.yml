@@ -17839,3 +17839,12 @@
     link: 'https://pub.dartlang.org/packages/binary_marshalling'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: ebisu
+    package_version: v0.2.7
+    title: 'v0.2.7 of ebisu'
+    published: '2015-04-08T10:34:42+00:00'
+    id: 'urn:uuid:c7042199-9d1c-56c0-a5d1-95fc25b44755'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson'
