@@ -17965,3 +17965,13 @@
     link: 'https://pub.dartlang.org/packages/plank'
     author:
         - 'Andres Araujo'
+-
+    package_name: paper_fab_menu
+    package_version: v0.0.2+2
+    title: 'v0.0.2+2 of paper_fab_menu'
+    published: '2015-04-08T21:39:39+00:00'
+    id: 'urn:uuid:8c7f6743-4c03-5615-b900-6944b96ecd6d'
+    link: 'https://pub.dartlang.org/packages/paper_fab_menu'
+    author:
+        - 'Chang W. Doh'
+        - 'Dart porting: v.gordievskiy'
