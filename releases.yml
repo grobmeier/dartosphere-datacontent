@@ -17785,3 +17785,12 @@
     link: 'https://pub.dartlang.org/packages/dotenv'
     author:
         - mockturtl
+-
+    package_name: pico_log
+    package_version: v0.1.0
+    title: 'v0.1.0 of pico_log'
+    published: '2015-04-08T00:09:45+00:00'
+    id: 'urn:uuid:7c334e2a-3b75-53ca-b4bc-e1aca2c04c38'
+    link: 'https://pub.dartlang.org/packages/pico_log'
+    author:
+        - mockturtl
