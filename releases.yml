@@ -17866,3 +17866,12 @@
     link: 'https://pub.dartlang.org/packages/tiles'
     author:
         - 'Jakuub Uhrik'
+-
+    package_name: timezone
+    package_version: v0.3.0
+    title: 'v0.3.0 of timezone'
+    published: '2015-04-08T12:29:43+00:00'
+    id: 'urn:uuid:620e7685-039f-5c62-9fb7-3db19b1af255'
+    link: 'https://pub.dartlang.org/packages/timezone'
+    author:
+        - 'Boris Kaul'
