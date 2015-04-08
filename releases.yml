@@ -17803,3 +17803,12 @@
     link: 'https://pub.dartlang.org/packages/squint'
     author:
         - mockturtl
+-
+    package_name: sitegen
+    package_version: v0.0.6
+    title: 'v0.0.6 of sitegen'
+    published: '2015-04-08T06:34:40+00:00'
+    id: 'urn:uuid:1831d0fb-3b88-5884-b09b-263724415abd'
+    link: 'https://pub.dartlang.org/packages/sitegen'
+    author:
+        - 'Mike Mitterer'
