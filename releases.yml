@@ -17893,3 +17893,12 @@
     link: 'https://pub.dartlang.org/packages/appengine'
     author:
         - 'Dart Team'
+-
+    package_name: analyzer
+    package_version: v0.24.3
+    title: 'v0.24.3 of analyzer'
+    published: '2015-04-08T16:39:47+00:00'
+    id: 'urn:uuid:6f2c2f28-ec66-5834-8d34-abce99b939f2'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team'
