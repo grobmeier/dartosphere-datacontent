@@ -17884,3 +17884,12 @@
     link: 'https://pub.dartlang.org/packages/toml'
     author:
         - 'Justin Andresen'
+-
+    package_name: appengine
+    package_version: v0.2.6+2
+    title: 'v0.2.6+2 of appengine'
+    published: '2015-04-08T15:44:39+00:00'
+    id: 'urn:uuid:2a87415d-ab18-5fba-bba3-d9a5b8b24f40'
+    link: 'https://pub.dartlang.org/packages/appengine'
+    author:
+        - 'Dart Team'
