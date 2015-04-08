@@ -17929,3 +17929,12 @@
     link: 'https://pub.dartlang.org/packages/paper_elements'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: geek_code
+    package_version: v1.0.0
+    title: 'v1.0.0 of geek_code'
+    published: '2015-04-08T17:29:43+00:00'
+    id: 'urn:uuid:ce41b129-d3b4-5194-a0f2-e788bac0d99f'
+    link: 'https://pub.dartlang.org/packages/geek_code'
+    author:
+        - 'Meshulam Silk'
