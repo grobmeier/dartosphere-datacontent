@@ -17911,3 +17911,12 @@
     link: 'https://pub.dartlang.org/packages/slickdart'
     author:
         - CJKAO
+-
+    package_name: core_elements
+    package_version: v0.7.0
+    title: 'v0.7.0 of core_elements'
+    published: '2015-04-08T17:09:39+00:00'
+    id: 'urn:uuid:c8636102-15a2-5301-ac63-4613c10054dd'
+    link: 'https://pub.dartlang.org/packages/core_elements'
+    author:
+        - 'Polymer.dart Authors'
