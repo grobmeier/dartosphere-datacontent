@@ -17986,3 +17986,13 @@
         - 'Prasad Sunkari'
         - 'Michael Cheng'
         - 'Yan Qiao'
+-
+    package_name: paper_fab_menu
+    package_version: v0.0.2+3
+    title: 'v0.0.2+3 of paper_fab_menu'
+    published: '2015-04-09T09:39:39+00:00'
+    id: 'urn:uuid:e102373d-911d-5637-9b92-c26bd7a6fec2'
+    link: 'https://pub.dartlang.org/packages/paper_fab_menu'
+    author:
+        - 'Chang W. Doh'
+        - 'Dart porting: v.gordievskiy'
