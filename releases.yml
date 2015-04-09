@@ -18068,3 +18068,12 @@
     link: 'https://pub.dartlang.org/packages/mojo'
     author:
         - 'Chromium Authors'
+-
+    package_name: sky
+    package_version: v0.0.4
+    title: 'v0.0.4 of sky'
+    published: '2015-04-09T21:19:41+00:00'
+    id: 'urn:uuid:ba26dbe4-6508-5865-930d-15b43f84c7ea'
+    link: 'https://pub.dartlang.org/packages/sky'
+    author:
+        - 'Chromium Authors'
