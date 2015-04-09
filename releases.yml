@@ -18014,3 +18014,12 @@
     link: 'https://pub.dartlang.org/packages/rpc'
     author:
         - 'Dart Team'
+-
+    package_name: codemirror
+    package_version: v0.2.5+5.1.0
+    title: 'v0.2.5+5.1.0 of codemirror'
+    published: '2015-04-09T15:19:42+00:00'
+    id: 'urn:uuid:b43ce004-f389-5f79-bf6b-6dbb02f223b1'
+    link: 'https://pub.dartlang.org/packages/codemirror'
+    author:
+        - 'Devon Carew'
