@@ -17975,3 +17975,14 @@
     author:
         - 'Chang W. Doh'
         - 'Dart porting: v.gordievskiy'
+-
+    package_name: charted
+    package_version: v0.2.0
+    title: 'v0.2.0 of charted'
+    published: '2015-04-09T02:09:39+00:00'
+    id: 'urn:uuid:1c7c95f6-16c5-549c-b0f9-31d96d359012'
+    link: 'https://pub.dartlang.org/packages/charted'
+    author:
+        - 'Prasad Sunkari'
+        - 'Michael Cheng'
+        - 'Yan Qiao'
