@@ -18023,3 +18023,21 @@
     link: 'https://pub.dartlang.org/packages/codemirror'
     author:
         - 'Devon Carew'
+-
+    package_name: polymer
+    package_version: v0.16.1
+    title: 'v0.16.1 of polymer'
+    published: '2015-04-09T19:04:38+00:00'
+    id: 'urn:uuid:cfae3a0f-b93f-5560-afb8-64d6c95f47d6'
+    link: 'https://pub.dartlang.org/packages/polymer'
+    author:
+        - 'Polymer.dart Authors'
+-
+    package_name: observe
+    package_version: v0.13.0+2
+    title: 'v0.13.0+2 of observe'
+    published: '2015-04-09T19:04:38+00:00'
+    id: 'urn:uuid:718f2f50-76f8-59ea-9043-58b140ed07d4'
+    link: 'https://pub.dartlang.org/packages/observe'
+    author:
+        - 'Polymer.dart Authors'
