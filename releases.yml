@@ -18005,3 +18005,12 @@
     link: 'https://pub.dartlang.org/packages/appcache'
     author:
         - 'João Furtado'
+-
+    package_name: rpc
+    package_version: v0.3.0
+    title: 'v0.3.0 of rpc'
+    published: '2015-04-09T14:04:42+00:00'
+    id: 'urn:uuid:055c2035-c384-55ad-a154-0e60e0dcf4c9'
+    link: 'https://pub.dartlang.org/packages/rpc'
+    author:
+        - 'Dart Team'
