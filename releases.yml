@@ -18059,3 +18059,12 @@
     link: 'https://pub.dartlang.org/packages/dacsslide'
     author:
         - 'Valentyn Shybanov'
+-
+    package_name: mojo
+    package_version: v0.0.4
+    title: 'v0.0.4 of mojo'
+    published: '2015-04-09T21:14:38+00:00'
+    id: 'urn:uuid:245f5a71-fbda-5ac2-98bf-04104c69777c'
+    link: 'https://pub.dartlang.org/packages/mojo'
+    author:
+        - 'Chromium Authors'
