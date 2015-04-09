@@ -18050,3 +18050,12 @@
     link: 'https://pub.dartlang.org/packages/path'
     author:
         - 'Dart Team'
+-
+    package_name: dacsslide
+    package_version: v0.0.7
+    title: 'v0.0.7 of dacsslide'
+    published: '2015-04-09T20:29:38+00:00'
+    id: 'urn:uuid:339aba66-6469-5235-b04e-76e6cf47de2e'
+    link: 'https://pub.dartlang.org/packages/dacsslide'
+    author:
+        - 'Valentyn Shybanov'
