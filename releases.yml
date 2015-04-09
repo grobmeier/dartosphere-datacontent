@@ -18077,3 +18077,12 @@
     link: 'https://pub.dartlang.org/packages/sky'
     author:
         - 'Chromium Authors'
+-
+    package_name: less_dart
+    package_version: v0.3.0
+    title: 'v0.3.0 of less_dart'
+    published: '2015-04-09T21:54:37+00:00'
+    id: 'urn:uuid:47310642-03f8-5b77-b091-3d2c03f82e50'
+    link: 'https://pub.dartlang.org/packages/less_dart'
+    author:
+        - 'Adalberto Lacruz'
