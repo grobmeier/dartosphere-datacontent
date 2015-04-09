@@ -17996,3 +17996,12 @@
     author:
         - 'Chang W. Doh'
         - 'Dart porting: v.gordievskiy'
+-
+    package_name: appcache
+    package_version: v0.1.2
+    title: 'v0.1.2 of appcache'
+    published: '2015-04-09T11:54:38+00:00'
+    id: 'urn:uuid:5304884a-484f-55d1-a83d-2b0ebbaf4772'
+    link: 'https://pub.dartlang.org/packages/appcache'
+    author:
+        - 'João Furtado'
