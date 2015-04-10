@@ -18104,3 +18104,21 @@
     link: 'https://pub.dartlang.org/packages/webrtc_utils'
     author:
         - 'Robert Hartung'
+-
+    package_name: googleapis_beta
+    package_version: v0.11.0
+    title: 'v0.11.0 of googleapis_beta'
+    published: '2015-04-10T11:44:36+00:00'
+    id: 'urn:uuid:9b6c8dc7-3293-5abe-b88f-31a86f15cbbe'
+    link: 'https://pub.dartlang.org/packages/googleapis_beta'
+    author:
+        - 'Dart Team'
+-
+    package_name: googleapis
+    package_version: v0.7.0
+    title: 'v0.7.0 of googleapis'
+    published: '2015-04-10T11:44:36+00:00'
+    id: 'urn:uuid:8637d7eb-ae90-5db1-8402-35e091fd2462'
+    link: 'https://pub.dartlang.org/packages/googleapis'
+    author:
+        - 'Dart Team'
