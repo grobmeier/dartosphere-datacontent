@@ -18086,3 +18086,12 @@
     link: 'https://pub.dartlang.org/packages/less_dart'
     author:
         - 'Adalberto Lacruz'
+-
+    package_name: binary_types
+    package_version: v0.0.49
+    title: 'v0.0.49 of binary_types'
+    published: '2015-04-10T07:49:42+00:00'
+    id: 'urn:uuid:53c2f39b-5b3f-5cc3-8baa-67f6ee921ae5'
+    link: 'https://pub.dartlang.org/packages/binary_types'
+    author:
+        - 'Andrew Mezoni'
