@@ -18122,3 +18122,12 @@
     link: 'https://pub.dartlang.org/packages/googleapis'
     author:
         - 'Dart Team'
+-
+    package_name: logging
+    package_version: v0.10.0
+    title: 'v0.10.0 of logging'
+    published: '2015-04-10T17:09:37+00:00'
+    id: 'urn:uuid:07af5000-e3a9-591f-858a-fb332ed9ad49'
+    link: 'https://pub.dartlang.org/packages/logging'
+    author:
+        - 'Dart Team'
