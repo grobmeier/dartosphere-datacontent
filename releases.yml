@@ -18131,3 +18131,30 @@
     link: 'https://pub.dartlang.org/packages/logging'
     author:
         - 'Dart Team'
+-
+    package_name: web_components
+    package_version: v0.11.1+3
+    title: 'v0.11.1+3 of web_components'
+    published: '2015-04-10T17:44:42+00:00'
+    id: 'urn:uuid:040d997c-4307-5eef-8cfb-4b771d09059b'
+    link: 'https://pub.dartlang.org/packages/web_components'
+    author:
+        - 'Polymer.dart Authors'
+-
+    package_name: initialize
+    package_version: v0.6.0+4
+    title: 'v0.6.0+4 of initialize'
+    published: '2015-04-10T17:44:42+00:00'
+    id: 'urn:uuid:871f5fa6-e301-596d-ba31-64a81c0f06e4'
+    link: 'https://pub.dartlang.org/packages/initialize'
+    author:
+        - 'Polymer.dart Authors'
+-
+    package_name: polymer
+    package_version: v0.16.1+1
+    title: 'v0.16.1+1 of polymer'
+    published: '2015-04-10T17:44:42+00:00'
+    id: 'urn:uuid:c4f30476-34c2-5a5e-a12f-d577a8bc9fbc'
+    link: 'https://pub.dartlang.org/packages/polymer'
+    author:
+        - 'Polymer.dart Authors'
