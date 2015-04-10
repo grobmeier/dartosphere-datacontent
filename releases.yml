@@ -18167,3 +18167,12 @@
     link: 'https://pub.dartlang.org/packages/polymer'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: web_notifications
+    package_version: v0.0.2
+    title: 'v0.0.2 of web_notifications'
+    published: '2015-04-10T18:24:37+00:00'
+    id: 'urn:uuid:e5611f70-e22b-5b4f-978b-fa763abc0a09'
+    link: 'https://pub.dartlang.org/packages/web_notifications'
+    author:
+        - 'Dart Team'
