@@ -18095,3 +18095,12 @@
     link: 'https://pub.dartlang.org/packages/binary_types'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: webrtc_utils
+    package_version: v0.2.1
+    title: 'v0.2.1 of webrtc_utils'
+    published: '2015-04-10T09:44:36+00:00'
+    id: 'urn:uuid:8cb17c68-6c09-509e-adb8-a95ea1060149'
+    link: 'https://pub.dartlang.org/packages/webrtc_utils'
+    author:
+        - 'Robert Hartung'
