@@ -18194,3 +18194,12 @@
     link: 'https://pub.dartlang.org/packages/mojo'
     author:
         - 'Chromium Authors'
+-
+    package_name: binary_types
+    package_version: v0.0.50
+    title: 'v0.0.50 of binary_types'
+    published: '2015-04-10T20:34:41+00:00'
+    id: 'urn:uuid:85dc67c2-df5a-5a81-a375-9144956fbe62'
+    link: 'https://pub.dartlang.org/packages/binary_types'
+    author:
+        - 'Andrew Mezoni'
