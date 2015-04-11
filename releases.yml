@@ -18257,3 +18257,12 @@
     link: 'https://pub.dartlang.org/packages/id'
     author:
         - 'Daniel Davidson'
+-
+    package_name: elements
+    package_version: v0.0.6
+    title: 'v0.0.6 of elements'
+    published: '2015-04-11T11:49:36+00:00'
+    id: 'urn:uuid:91394785-daea-5c3b-85f9-b902788e61ef'
+    link: 'https://pub.dartlang.org/packages/elements'
+    author:
+        - 'Patrick Minogue'
