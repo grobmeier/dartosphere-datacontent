@@ -18239,3 +18239,12 @@
     link: 'https://pub.dartlang.org/packages/elements'
     author:
         - 'Patrick Minogue'
+-
+    package_name: elements
+    package_version: v0.0.5
+    title: 'v0.0.5 of elements'
+    published: '2015-04-11T09:44:37+00:00'
+    id: 'urn:uuid:86fb943f-d025-50fb-b767-ba53494741e9'
+    link: 'https://pub.dartlang.org/packages/elements'
+    author:
+        - 'Patrick Minogue'
