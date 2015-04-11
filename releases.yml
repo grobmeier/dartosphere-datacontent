@@ -18221,3 +18221,12 @@
     link: 'https://pub.dartlang.org/packages/targets'
     author:
         - 'Jack Thakar'
+-
+    package_name: elements
+    package_version: v0.0.1
+    title: 'v0.0.1 of elements'
+    published: '2015-04-11T09:09:41+00:00'
+    id: 'urn:uuid:d72fe355-fb1f-58c5-a3f6-68b2f4f02891'
+    link: 'https://pub.dartlang.org/packages/elements'
+    author:
+        - 'Patrick Minogue'
