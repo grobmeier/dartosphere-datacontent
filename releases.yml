@@ -18203,3 +18203,12 @@
     link: 'https://pub.dartlang.org/packages/binary_types'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: crypt
+    package_version: v0.0.1
+    title: 'v0.0.1 of crypt'
+    published: '2015-04-11T05:44:41+00:00'
+    id: 'urn:uuid:1784eadd-6218-5fe2-bd0e-deb12c5da65f'
+    link: 'https://pub.dartlang.org/packages/crypt'
+    author:
+        - 'Hoylen Sue'
