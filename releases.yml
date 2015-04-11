@@ -18275,3 +18275,12 @@
     link: 'https://pub.dartlang.org/packages/elements'
     author:
         - 'Patrick Minogue'
+-
+    package_name: ebisu
+    package_version: v0.2.8
+    title: 'v0.2.8 of ebisu'
+    published: '2015-04-11T12:29:40+00:00'
+    id: 'urn:uuid:defdc690-6338-5570-a54a-b6c356f3aac8'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson'
