@@ -18248,3 +18248,12 @@
     link: 'https://pub.dartlang.org/packages/elements'
     author:
         - 'Patrick Minogue'
+-
+    package_name: id
+    package_version: v1.0.7
+    title: 'v1.0.7 of id'
+    published: '2015-04-11T11:04:40+00:00'
+    id: 'urn:uuid:febb5da3-a034-5860-a38b-30941fa78757'
+    link: 'https://pub.dartlang.org/packages/id'
+    author:
+        - 'Daniel Davidson'
