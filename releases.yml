@@ -18293,3 +18293,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu_cpp'
     author:
         - 'Daniel Davidson'
+-
+    package_name: gex_webapp_kit
+    package_version: v0.1.0
+    title: 'v0.1.0 of gex_webapp_kit'
+    published: '2015-04-11T23:24:41+00:00'
+    id: 'urn:uuid:f32f259e-523c-509c-9d06-678a58b57578'
+    link: 'https://pub.dartlang.org/packages/gex_webapp_kit'
+    author:
+        - 'Gérald Reinhart'
