@@ -18365,3 +18365,12 @@
     link: 'https://pub.dartlang.org/packages/github'
     author:
         - 'Kenneth Endfinger'
+-
+    package_name: ebisu
+    package_version: v0.2.9
+    title: 'v0.2.9 of ebisu'
+    published: '2015-04-12T14:24:37+00:00'
+    id: 'urn:uuid:8b2f558d-0e31-5326-ae7b-5d9446084538'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson'
