@@ -18473,3 +18473,12 @@
     link: 'https://pub.dartlang.org/packages/behaviour_tree'
     author:
         - 'Will Squire'
+-
+    package_name: pub_cache
+    package_version: v0.0.1
+    title: 'v0.0.1 of pub_cache'
+    published: '2015-04-12T23:49:38+00:00'
+    id: 'urn:uuid:f6edb86c-4336-5820-b610-3ebff525bde5'
+    link: 'https://pub.dartlang.org/packages/pub_cache'
+    author:
+        - 'Dart Team'
