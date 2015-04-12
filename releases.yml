@@ -18374,3 +18374,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu'
     author:
         - 'Daniel Davidson'
+-
+    package_name: id
+    package_version: v1.0.8
+    title: 'v1.0.8 of id'
+    published: '2015-04-12T14:44:40+00:00'
+    id: 'urn:uuid:1b65f647-0478-5a18-932f-a1bf90e4228e'
+    link: 'https://pub.dartlang.org/packages/id'
+    author:
+        - 'Daniel Davidson'
