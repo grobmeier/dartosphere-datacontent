@@ -18392,3 +18392,12 @@
     link: 'https://pub.dartlang.org/packages/syscall'
     author:
         - 'Kenneth Endfinger'
+-
+    package_name: ebisu
+    package_version: v0.2.11
+    title: 'v0.2.11 of ebisu'
+    published: '2015-04-12T15:09:42+00:00'
+    id: 'urn:uuid:253f74de-83ed-5f65-b420-db7892676c6f'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson'
