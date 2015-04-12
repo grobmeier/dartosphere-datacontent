@@ -18347,3 +18347,12 @@
     link: 'https://pub.dartlang.org/packages/gex_webapp_kit'
     author:
         - 'Gérald Reinhart'
+-
+    package_name: github
+    package_version: v2.2.0
+    title: 'v2.2.0 of github'
+    published: '2015-04-12T13:54:48+00:00'
+    id: 'urn:uuid:d3c26639-84c3-5f3b-b0b4-744fd69a543d'
+    link: 'https://pub.dartlang.org/packages/github'
+    author:
+        - 'Kenneth Endfinger'
