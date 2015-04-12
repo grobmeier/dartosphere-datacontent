@@ -18302,3 +18302,12 @@
     link: 'https://pub.dartlang.org/packages/gex_webapp_kit'
     author:
         - 'Gérald Reinhart'
+-
+    package_name: geek_code
+    package_version: v1.1.0
+    title: 'v1.1.0 of geek_code'
+    published: '2015-04-12T02:04:41+00:00'
+    id: 'urn:uuid:553d0f8a-4da2-5c70-b825-114f37ff119a'
+    link: 'https://pub.dartlang.org/packages/geek_code'
+    author:
+        - 'Meshulam Silk'
