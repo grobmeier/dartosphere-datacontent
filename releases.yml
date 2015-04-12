@@ -18383,3 +18383,12 @@
     link: 'https://pub.dartlang.org/packages/id'
     author:
         - 'Daniel Davidson'
+-
+    package_name: syscall
+    package_version: v0.1.0
+    title: 'v0.1.0 of syscall'
+    published: '2015-04-12T14:49:37+00:00'
+    id: 'urn:uuid:4eaea0c7-b3ba-5753-89d0-ad3c6666c934'
+    link: 'https://pub.dartlang.org/packages/syscall'
+    author:
+        - 'Kenneth Endfinger'
