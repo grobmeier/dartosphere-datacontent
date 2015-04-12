@@ -18329,3 +18329,12 @@
     link: 'https://pub.dartlang.org/packages/geek_code'
     author:
         - 'Meshulam Silk'
+-
+    package_name: elements
+    package_version: v0.1.1
+    title: 'v0.1.1 of elements'
+    published: '2015-04-12T07:39:38+00:00'
+    id: 'urn:uuid:b481bde4-697d-561f-b13c-372206fba2b7'
+    link: 'https://pub.dartlang.org/packages/elements'
+    author:
+        - 'Patrick Minogue'
