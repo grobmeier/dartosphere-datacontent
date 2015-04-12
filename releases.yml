@@ -18446,3 +18446,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu_cpp_db'
     author:
         - 'Daniel Davidson'
+-
+    package_name: peanut
+    package_version: v0.0.1+1
+    title: 'v0.0.1+1 of peanut'
+    published: '2015-04-12T17:14:42+00:00'
+    id: 'urn:uuid:cf65e5ac-b1f2-5ea8-bbd5-815fc9302839'
+    link: 'https://pub.dartlang.org/packages/peanut'
+    author:
+        - 'Kevin Moore'
