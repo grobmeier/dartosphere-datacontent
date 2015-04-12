@@ -18338,3 +18338,12 @@
     link: 'https://pub.dartlang.org/packages/elements'
     author:
         - 'Patrick Minogue'
+-
+    package_name: gex_webapp_kit
+    package_version: v0.1.1
+    title: 'v0.1.1 of gex_webapp_kit'
+    published: '2015-04-12T07:49:41+00:00'
+    id: 'urn:uuid:beb37e87-1198-51d2-945d-f50aa78d83a7'
+    link: 'https://pub.dartlang.org/packages/gex_webapp_kit'
+    author:
+        - 'Gérald Reinhart'
