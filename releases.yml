@@ -18455,3 +18455,12 @@
     link: 'https://pub.dartlang.org/packages/peanut'
     author:
         - 'Kevin Moore'
+-
+    package_name: dartdoc
+    package_version: v0.0.1
+    title: 'v0.0.1 of dartdoc'
+    published: '2015-04-12T17:29:42+00:00'
+    id: 'urn:uuid:0415c293-d916-581b-b2db-2d6aec69c01f'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team'
