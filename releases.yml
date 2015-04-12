@@ -18401,3 +18401,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu'
     author:
         - 'Daniel Davidson'
+-
+    package_name: ebisu
+    package_version: v0.2.12
+    title: 'v0.2.12 of ebisu'
+    published: '2015-04-12T15:24:38+00:00'
+    id: 'urn:uuid:9904c606-631b-5874-a88f-2abbc26d9171'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson'
