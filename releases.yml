@@ -18464,3 +18464,12 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team'
+-
+    package_name: behaviour_tree
+    package_version: v0.9.5
+    title: 'v0.9.5 of behaviour_tree'
+    published: '2015-04-12T18:44:37+00:00'
+    id: 'urn:uuid:73b71f0b-b7c8-5778-aab0-5879191c45f0'
+    link: 'https://pub.dartlang.org/packages/behaviour_tree'
+    author:
+        - 'Will Squire'
