@@ -18563,3 +18563,12 @@
     link: 'https://pub.dartlang.org/packages/gcloud'
     author:
         - 'Dart Team'
+-
+    package_name: astprinter
+    package_version: v0.0.1+1
+    title: 'v0.0.1+1 of astprinter'
+    published: '2015-04-13T16:39:40+00:00'
+    id: 'urn:uuid:ef0d2b1c-d9dd-5781-bfe6-c69d22f4dc8e'
+    link: 'https://pub.dartlang.org/packages/astprinter'
+    author:
+        - 'George Kormaris'
