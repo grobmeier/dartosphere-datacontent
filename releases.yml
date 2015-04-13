@@ -18527,3 +18527,12 @@
     link: 'https://pub.dartlang.org/packages/appengine'
     author:
         - 'Dart Team'
+-
+    package_name: spreadsheet
+    package_version: v1.0.0
+    title: 'v1.0.0 of spreadsheet'
+    published: '2015-04-13T13:39:37+00:00'
+    id: 'urn:uuid:99d6169f-b8f1-5d3b-8648-d3a1f15af801'
+    link: 'https://pub.dartlang.org/packages/spreadsheet'
+    author:
+        - 'Marek Suscak'
