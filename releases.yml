@@ -18608,3 +18608,12 @@
     link: 'https://pub.dartlang.org/packages/force'
     author:
         - 'Joris Hermans'
+-
+    package_name: nomirrorsmap
+    package_version: v1.0.0-dev1
+    title: 'v1.0.0-dev1 of nomirrorsmap'
+    published: '2015-04-13T20:29:42+00:00'
+    id: 'urn:uuid:daa407cb-d471-5d16-b65e-3a5edc9e9288'
+    link: 'https://pub.dartlang.org/packages/nomirrorsmap'
+    author:
+        - jrote1<jrote1@me.com>
