@@ -18590,3 +18590,12 @@
     link: 'https://pub.dartlang.org/packages/route_provider'
     author:
         - 'Robert Beyer'
+-
+    package_name: force
+    package_version: v0.6.3+1
+    title: 'v0.6.3+1 of force'
+    published: '2015-04-13T19:20:22+00:00'
+    id: 'urn:uuid:f998872a-6bd6-597a-8b37-943d2a8fe845'
+    link: 'https://pub.dartlang.org/packages/force'
+    author:
+        - 'Joris Hermans'
