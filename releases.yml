@@ -18545,3 +18545,12 @@
     link: 'https://pub.dartlang.org/packages/astprinter'
     author:
         - 'George Kormaris'
+-
+    package_name: pub_cache
+    package_version: v0.0.1+2
+    title: 'v0.0.1+2 of pub_cache'
+    published: '2015-04-13T15:29:44+00:00'
+    id: 'urn:uuid:ac4ee21a-760a-5ed7-99c8-7c4c347c680e'
+    link: 'https://pub.dartlang.org/packages/pub_cache'
+    author:
+        - 'Dart Team'
