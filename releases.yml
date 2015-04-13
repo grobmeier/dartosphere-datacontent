@@ -18536,3 +18536,12 @@
     link: 'https://pub.dartlang.org/packages/spreadsheet'
     author:
         - 'Marek Suscak'
+-
+    package_name: astprinter
+    package_version: v0.0.1
+    title: 'v0.0.1 of astprinter'
+    published: '2015-04-13T14:59:39+00:00'
+    id: 'urn:uuid:19f2f9b6-421f-51f0-b65f-34705b5ac9fb'
+    link: 'https://pub.dartlang.org/packages/astprinter'
+    author:
+        - 'George Kormaris'
