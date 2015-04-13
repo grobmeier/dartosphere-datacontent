@@ -18617,3 +18617,12 @@
     link: 'https://pub.dartlang.org/packages/nomirrorsmap'
     author:
         - jrote1<jrote1@me.com>
+-
+    package_name: stack_trace
+    package_version: v1.3.0
+    title: 'v1.3.0 of stack_trace'
+    published: '2015-04-13T23:29:38+00:00'
+    id: 'urn:uuid:24514086-dc76-5276-bfe8-435fb72cabd8'
+    link: 'https://pub.dartlang.org/packages/stack_trace'
+    author:
+        - 'Dart Team'
