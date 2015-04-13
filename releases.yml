@@ -18518,3 +18518,12 @@
     link: 'https://pub.dartlang.org/packages/gcloud'
     author:
         - 'Dart Team'
+-
+    package_name: appengine
+    package_version: v0.2.6+3
+    title: 'v0.2.6+3 of appengine'
+    published: '2015-04-13T13:19:39+00:00'
+    id: 'urn:uuid:592e8fb9-f4b0-54e4-acb8-1ac7ae99d21d'
+    link: 'https://pub.dartlang.org/packages/appengine'
+    author:
+        - 'Dart Team'
