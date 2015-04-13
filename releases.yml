@@ -18482,3 +18482,12 @@
     link: 'https://pub.dartlang.org/packages/pub_cache'
     author:
         - 'Dart Team'
+-
+    package_name: pub_cache
+    package_version: v0.0.1+1
+    title: 'v0.0.1+1 of pub_cache'
+    published: '2015-04-13T00:24:37+00:00'
+    id: 'urn:uuid:43699e54-0cc9-5d14-bc50-ff8531a065b9'
+    link: 'https://pub.dartlang.org/packages/pub_cache'
+    author:
+        - 'Dart Team'
