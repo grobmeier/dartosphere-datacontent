@@ -18509,3 +18509,12 @@
     link: 'https://pub.dartlang.org/packages/googleapis'
     author:
         - 'Dart Team'
+-
+    package_name: gcloud
+    package_version: v0.2.0
+    title: 'v0.2.0 of gcloud'
+    published: '2015-04-13T12:59:44+00:00'
+    id: 'urn:uuid:592f214a-88eb-5b8e-a9c5-e19abe0a3d3a'
+    link: 'https://pub.dartlang.org/packages/gcloud'
+    author:
+        - 'Dart Team'
