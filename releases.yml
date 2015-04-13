@@ -18599,3 +18599,12 @@
     link: 'https://pub.dartlang.org/packages/force'
     author:
         - 'Joris Hermans'
+-
+    package_name: force
+    package_version: v0.6.3+2
+    title: 'v0.6.3+2 of force'
+    published: '2015-04-13T19:25:26+00:00'
+    id: 'urn:uuid:4e02d5be-2bea-5365-b4a7-3ae6976501bd'
+    link: 'https://pub.dartlang.org/packages/force'
+    author:
+        - 'Joris Hermans'
