@@ -18554,3 +18554,12 @@
     link: 'https://pub.dartlang.org/packages/pub_cache'
     author:
         - 'Dart Team'
+-
+    package_name: gcloud
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of gcloud'
+    published: '2015-04-13T16:04:38+00:00'
+    id: 'urn:uuid:77abc73c-72ef-5964-877b-3d7af2d5c365'
+    link: 'https://pub.dartlang.org/packages/gcloud'
+    author:
+        - 'Dart Team'
