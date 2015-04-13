@@ -18581,3 +18581,12 @@
     link: 'https://pub.dartlang.org/packages/sorting'
     author:
         - author
+-
+    package_name: route_provider
+    package_version: v0.1.0
+    title: 'v0.1.0 of route_provider'
+    published: '2015-04-13T18:29:43+00:00'
+    id: 'urn:uuid:24ecbdc5-574c-505f-bd2f-6bf2230c627f'
+    link: 'https://pub.dartlang.org/packages/route_provider'
+    author:
+        - 'Robert Beyer'
