@@ -18491,3 +18491,21 @@
     link: 'https://pub.dartlang.org/packages/pub_cache'
     author:
         - 'Dart Team'
+-
+    package_name: googleapis_beta
+    package_version: v0.12.0
+    title: 'v0.12.0 of googleapis_beta'
+    published: '2015-04-13T12:04:44+00:00'
+    id: 'urn:uuid:1bca18ab-14bc-536e-80a8-2e9a5fff0839'
+    link: 'https://pub.dartlang.org/packages/googleapis_beta'
+    author:
+        - 'Dart Team'
+-
+    package_name: googleapis
+    package_version: v0.8.0
+    title: 'v0.8.0 of googleapis'
+    published: '2015-04-13T12:04:45+00:00'
+    id: 'urn:uuid:11d40f6f-ebac-581e-ad3a-971942e829ea'
+    link: 'https://pub.dartlang.org/packages/googleapis'
+    author:
+        - 'Dart Team'
