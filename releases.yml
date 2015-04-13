@@ -18572,3 +18572,12 @@
     link: 'https://pub.dartlang.org/packages/astprinter'
     author:
         - 'George Kormaris'
+-
+    package_name: sorting
+    package_version: v42.1.5
+    title: 'v42.1.5 of sorting'
+    published: '2015-04-13T17:04:38+00:00'
+    id: 'urn:uuid:36cf64d1-e293-5b6f-98c9-a37216fdaefd'
+    link: 'https://pub.dartlang.org/packages/sorting'
+    author:
+        - author
