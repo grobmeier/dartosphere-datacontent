@@ -18845,3 +18845,12 @@
     link: 'https://pub.dartlang.org/packages/redstone'
     author:
         - 'Luiz Mineo'
+-
+    package_name: polymer_highcharts
+    package_version: v0.2.1+5
+    title: 'v0.2.1+5 of polymer_highcharts'
+    published: '2015-04-14T13:14:38+00:00'
+    id: 'urn:uuid:5b4979a0-2363-55d7-857e-0fb20b459435'
+    link: 'https://pub.dartlang.org/packages/polymer_highcharts'
+    author:
+        - 'Gonzalo Pezzi'
