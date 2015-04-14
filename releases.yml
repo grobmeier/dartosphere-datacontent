@@ -18800,3 +18800,12 @@
     link: 'https://pub.dartlang.org/packages/nomirrorsmap'
     author:
         - jrote1<jrote1@me.com>
+-
+    package_name: boarding
+    package_version: v0.2.7
+    title: 'v0.2.7 of boarding'
+    published: '2015-04-14T10:54:43+00:00'
+    id: 'urn:uuid:2a946f7b-f3ae-5061-ad55-1f7086d417d1'
+    link: 'https://pub.dartlang.org/packages/boarding'
+    author:
+        - 'Dzenan Ridjanovic'
