@@ -18809,3 +18809,12 @@
     link: 'https://pub.dartlang.org/packages/boarding'
     author:
         - 'Dzenan Ridjanovic'
+-
+    package_name: static_compress
+    package_version: v0.1.0
+    title: 'v0.1.0 of static_compress'
+    published: '2015-04-14T11:04:37+00:00'
+    id: 'urn:uuid:6263c285-6336-52f9-a0fc-e5da2bc8ec4f'
+    link: 'https://pub.dartlang.org/packages/static_compress'
+    author:
+        - 'Maxim Dikun'
