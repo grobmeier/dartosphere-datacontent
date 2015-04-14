@@ -18626,3 +18626,12 @@
     link: 'https://pub.dartlang.org/packages/stack_trace'
     author:
         - 'Dart Team'
+-
+    package_name: dartdoc
+    package_version: v0.0.1+3
+    title: 'v0.0.1+3 of dartdoc'
+    published: '2015-04-14T00:09:41+00:00'
+    id: 'urn:uuid:e04c053e-0741-57ed-a2cf-a896d09ce4ca'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team'
