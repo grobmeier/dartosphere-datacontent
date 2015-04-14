@@ -18863,3 +18863,12 @@
     link: 'https://pub.dartlang.org/packages/sitegen'
     author:
         - 'Mike Mitterer'
+-
+    package_name: code_transformers
+    package_version: v0.2.8
+    title: 'v0.2.8 of code_transformers'
+    published: '2015-04-14T17:19:42+00:00'
+    id: 'urn:uuid:f7df2300-31fd-5167-9c0a-811ec883dbdd'
+    link: 'https://pub.dartlang.org/packages/code_transformers'
+    author:
+        - 'Dart Team'
