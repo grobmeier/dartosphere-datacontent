@@ -18719,3 +18719,12 @@
     link: 'https://pub.dartlang.org/packages/route_provider'
     author:
         - 'Robert Beyer'
+-
+    package_name: sitegen
+    package_version: v0.1.0
+    title: 'v0.1.0 of sitegen'
+    published: '2015-04-14T08:39:45+00:00'
+    id: 'urn:uuid:ea911bf0-1e5d-53c3-bae2-84ef03132a40'
+    link: 'https://pub.dartlang.org/packages/sitegen'
+    author:
+        - 'Mike Mitterer'
