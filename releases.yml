@@ -18953,3 +18953,12 @@
     link: 'https://pub.dartlang.org/packages/test'
     author:
         - 'Dart Team'
+-
+    package_name: codemirror
+    package_version: v0.2.6+5.1.0
+    title: 'v0.2.6+5.1.0 of codemirror'
+    published: '2015-04-14T22:54:38+00:00'
+    id: 'urn:uuid:71d13a60-3e2c-52f5-8aa6-f8711569cb03'
+    link: 'https://pub.dartlang.org/packages/codemirror'
+    author:
+        - 'Devon Carew'
