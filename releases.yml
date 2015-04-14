@@ -18701,3 +18701,12 @@
     link: 'https://pub.dartlang.org/packages/boarding'
     author:
         - 'Dzenan Ridjanovic'
+-
+    package_name: route_provider
+    package_version: v0.1.1
+    title: 'v0.1.1 of route_provider'
+    published: '2015-04-14T05:49:37+00:00'
+    id: 'urn:uuid:bc873df4-d94a-538a-b211-2acda1612637'
+    link: 'https://pub.dartlang.org/packages/route_provider'
+    author:
+        - 'Robert Beyer'
