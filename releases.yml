@@ -18935,3 +18935,12 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team'
+-
+    package_name: doc_coverage
+    package_version: v0.1.2
+    title: 'v0.1.2 of doc_coverage'
+    published: '2015-04-14T21:19:44+00:00'
+    id: 'urn:uuid:893a31ce-bcf9-5974-ba74-310eaa966e3c'
+    link: 'https://pub.dartlang.org/packages/doc_coverage'
+    author:
+        - 'Sam Rawlins'
