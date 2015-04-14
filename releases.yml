@@ -18854,3 +18854,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_highcharts'
     author:
         - 'Gonzalo Pezzi'
+-
+    package_name: sitegen
+    package_version: v0.1.3
+    title: 'v0.1.3 of sitegen'
+    published: '2015-04-14T16:04:38+00:00'
+    id: 'urn:uuid:ee02a4cf-9992-5a6b-b271-15df52ceb4b3'
+    link: 'https://pub.dartlang.org/packages/sitegen'
+    author:
+        - 'Mike Mitterer'
