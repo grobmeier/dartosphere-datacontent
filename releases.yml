@@ -18836,3 +18836,12 @@
     link: 'https://pub.dartlang.org/packages/nomirrorsmap'
     author:
         - jrote1<jrote1@me.com>
+-
+    package_name: redstone
+    package_version: v0.5.21+1
+    title: 'v0.5.21+1 of redstone'
+    published: '2015-04-14T12:54:42+00:00'
+    id: 'urn:uuid:2cacef22-07ce-502c-9716-ce60b36317e8'
+    link: 'https://pub.dartlang.org/packages/redstone'
+    author:
+        - 'Luiz Mineo'
