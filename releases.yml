@@ -18635,3 +18635,60 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team'
+-
+    package_name: stack_trace
+    package_version: v1.3.1
+    title: 'v1.3.1 of stack_trace'
+    published: '2015-04-14T00:24:40+00:00'
+    id: 'urn:uuid:e60bd99e-b0ab-5b18-abe3-ec3f03eeeab1'
+    link: 'https://pub.dartlang.org/packages/stack_trace'
+    author:
+        - 'Dart Team'
+-
+    package_name: angular2_benchmarks
+    package_version: v2.0.0-alpha.19
+    title: 'v2.0.0-alpha.19 of angular2_benchmarks'
+    published: '2015-04-14T00:24:40+00:00'
+    id: 'urn:uuid:1e046374-2ee3-5657-ab61-7c7e4baa0dcb'
+    link: 'https://pub.dartlang.org/packages/angular2_benchmarks'
+    author:
+        - 'Alex Eagle'
+        - 'Chirayu Krishnappa'
+        - 'Jeff Cross'
+        - 'Misko Hevery'
+        - 'Rado Kirov'
+        - 'Tobias Bosch'
+        - 'Victor Savkin'
+        - 'Yegor Jbanov'
+-
+    package_name: benchpress
+    package_version: v2.0.0-alpha.19
+    title: 'v2.0.0-alpha.19 of benchpress'
+    published: '2015-04-14T00:24:40+00:00'
+    id: 'urn:uuid:d939193a-1519-5764-ab01-181677cd3776'
+    link: 'https://pub.dartlang.org/packages/benchpress'
+    author:
+        - 'Alex Eagle'
+        - 'Chirayu Krishnappa'
+        - 'Jeff Cross'
+        - 'Misko Hevery'
+        - 'Rado Kirov'
+        - 'Tobias Bosch'
+        - 'Victor Savkin'
+        - 'Yegor Jbanov'
+-
+    package_name: angular2
+    package_version: v2.0.0-alpha.19
+    title: 'v2.0.0-alpha.19 of angular2'
+    published: '2015-04-14T00:24:40+00:00'
+    id: 'urn:uuid:c1e7d498-97be-5120-87e7-0ed36f21a6aa'
+    link: 'https://pub.dartlang.org/packages/angular2'
+    author:
+        - 'Alex Eagle'
+        - 'Chirayu Krishnappa'
+        - 'Jeff Cross'
+        - 'Misko Hevery'
+        - 'Rado Kirov'
+        - 'Tobias Bosch'
+        - 'Victor Savkin'
+        - 'Yegor Jbanov'
