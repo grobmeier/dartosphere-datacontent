@@ -18773,3 +18773,12 @@
     link: 'https://pub.dartlang.org/packages/nomirrorsmap'
     author:
         - jrote1<jrote1@me.com>
+-
+    package_name: nomirrorsmap
+    package_version: v1.0.0-dev6
+    title: 'v1.0.0-dev6 of nomirrorsmap'
+    published: '2015-04-14T09:34:37+00:00'
+    id: 'urn:uuid:68919ebc-b47c-5a31-9d97-c7e29045b004'
+    link: 'https://pub.dartlang.org/packages/nomirrorsmap'
+    author:
+        - jrote1<jrote1@me.com>
