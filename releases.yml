@@ -18917,3 +18917,12 @@
     link: 'https://pub.dartlang.org/packages/myth'
     author:
         - 'Paul VanKeuren'
+-
+    package_name: stoic
+    package_version: v0.1.0
+    title: 'v0.1.0 of stoic'
+    published: '2015-04-14T20:29:48+00:00'
+    id: 'urn:uuid:38eeeb7f-d944-500d-9668-0bb62198bca1'
+    link: 'https://pub.dartlang.org/packages/stoic'
+    author:
+        - 'Paul VanKeuren'
