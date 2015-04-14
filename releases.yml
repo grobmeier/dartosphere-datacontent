@@ -18908,3 +18908,12 @@
     link: 'https://pub.dartlang.org/packages/mojo'
     author:
         - 'Chromium Authors'
+-
+    package_name: myth
+    package_version: v1.0.1
+    title: 'v1.0.1 of myth'
+    published: '2015-04-14T20:24:43+00:00'
+    id: 'urn:uuid:307697c3-9af6-5204-977a-bbcf9e74382a'
+    link: 'https://pub.dartlang.org/packages/myth'
+    author:
+        - 'Paul VanKeuren'
