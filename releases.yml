@@ -18710,3 +18710,12 @@
     link: 'https://pub.dartlang.org/packages/route_provider'
     author:
         - 'Robert Beyer'
+-
+    package_name: route_provider
+    package_version: v0.1.2
+    title: 'v0.1.2 of route_provider'
+    published: '2015-04-14T06:34:41+00:00'
+    id: 'urn:uuid:7878d2ed-6ac8-5c20-bf37-60a1750114d1'
+    link: 'https://pub.dartlang.org/packages/route_provider'
+    author:
+        - 'Robert Beyer'
