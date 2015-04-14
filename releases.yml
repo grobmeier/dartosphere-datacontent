@@ -18692,3 +18692,12 @@
         - 'Tobias Bosch'
         - 'Victor Savkin'
         - 'Yegor Jbanov'
+-
+    package_name: boarding
+    package_version: v0.2.6
+    title: 'v0.2.6 of boarding'
+    published: '2015-04-14T01:14:40+00:00'
+    id: 'urn:uuid:be80793d-59cb-57cb-88d5-a49e5baab856'
+    link: 'https://pub.dartlang.org/packages/boarding'
+    author:
+        - 'Dzenan Ridjanovic'
