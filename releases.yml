@@ -18890,3 +18890,21 @@
     link: 'https://pub.dartlang.org/packages/analyzer'
     author:
         - 'Dart Team'
+-
+    package_name: sky
+    package_version: v0.0.5+dart-summit-1
+    title: 'v0.0.5+dart-summit-1 of sky'
+    published: '2015-04-14T19:44:45+00:00'
+    id: 'urn:uuid:eb4f24bb-35eb-5ce5-9fc0-fc8c1d17c194'
+    link: 'https://pub.dartlang.org/packages/sky'
+    author:
+        - 'Chromium Authors'
+-
+    package_name: mojo
+    package_version: v0.0.5+dart-summit-1
+    title: 'v0.0.5+dart-summit-1 of mojo'
+    published: '2015-04-14T19:44:45+00:00'
+    id: 'urn:uuid:2a2e6106-453c-5acb-a853-e36155366d1f'
+    link: 'https://pub.dartlang.org/packages/mojo'
+    author:
+        - 'Chromium Authors'
