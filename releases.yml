@@ -18818,3 +18818,12 @@
     link: 'https://pub.dartlang.org/packages/static_compress'
     author:
         - 'Maxim Dikun'
+-
+    package_name: nomirrorsmap
+    package_version: v1.0.0-dev8
+    title: 'v1.0.0-dev8 of nomirrorsmap'
+    published: '2015-04-14T12:34:38+00:00'
+    id: 'urn:uuid:26a84265-4af1-542c-9e2c-5ff9f33801d8'
+    link: 'https://pub.dartlang.org/packages/nomirrorsmap'
+    author:
+        - jrote1<jrote1@me.com>
