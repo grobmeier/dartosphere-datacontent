@@ -18962,3 +18962,12 @@
     link: 'https://pub.dartlang.org/packages/codemirror'
     author:
         - 'Devon Carew'
+-
+    package_name: sky
+    package_version: v0.0.5+dart-summit-2
+    title: 'v0.0.5+dart-summit-2 of sky'
+    published: '2015-04-14T23:19:42+00:00'
+    id: 'urn:uuid:9017e668-a1c4-5a68-b61b-9d714b074165'
+    link: 'https://pub.dartlang.org/packages/sky'
+    author:
+        - 'Chromium Authors'
