@@ -18737,3 +18737,12 @@
     link: 'https://pub.dartlang.org/packages/sitegen'
     author:
         - 'Mike Mitterer'
+-
+    package_name: nomirrorsmap
+    package_version: v1.0.0-dev2
+    title: 'v1.0.0-dev2 of nomirrorsmap'
+    published: '2015-04-14T09:09:42+00:00'
+    id: 'urn:uuid:92db3bb8-e93d-5756-886d-fff99cf0073e'
+    link: 'https://pub.dartlang.org/packages/nomirrorsmap'
+    author:
+        - jrote1<jrote1@me.com>
