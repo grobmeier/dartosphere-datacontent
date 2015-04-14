@@ -18827,3 +18827,12 @@
     link: 'https://pub.dartlang.org/packages/nomirrorsmap'
     author:
         - jrote1<jrote1@me.com>
+-
+    package_name: nomirrorsmap
+    package_version: v1.0.0-dev9
+    title: 'v1.0.0-dev9 of nomirrorsmap'
+    published: '2015-04-14T12:39:44+00:00'
+    id: 'urn:uuid:f5b23727-66ee-58bf-8398-15a2b73796c6'
+    link: 'https://pub.dartlang.org/packages/nomirrorsmap'
+    author:
+        - jrote1<jrote1@me.com>
