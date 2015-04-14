@@ -18926,3 +18926,12 @@
     link: 'https://pub.dartlang.org/packages/stoic'
     author:
         - 'Paul VanKeuren'
+-
+    package_name: dartdoc
+    package_version: v0.0.1+4
+    title: 'v0.0.1+4 of dartdoc'
+    published: '2015-04-14T20:49:48+00:00'
+    id: 'urn:uuid:3e62276f-88d9-564a-8f5f-c8d5ea9332f5'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team'
