@@ -18872,3 +18872,12 @@
     link: 'https://pub.dartlang.org/packages/code_transformers'
     author:
         - 'Dart Team'
+-
+    package_name: compiler_unsupported
+    package_version: v1.9.3
+    title: 'v1.9.3 of compiler_unsupported'
+    published: '2015-04-14T18:54:43+00:00'
+    id: 'urn:uuid:9666d12f-7354-5c8f-8765-b3e2326123ef'
+    link: 'https://pub.dartlang.org/packages/compiler_unsupported'
+    author:
+        - 'Dart2js Team'
