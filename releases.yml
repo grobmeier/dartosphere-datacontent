@@ -18971,3 +18971,12 @@
     link: 'https://pub.dartlang.org/packages/sky'
     author:
         - 'Chromium Authors'
+-
+    package_name: source_gen
+    package_version: v0.4.0
+    title: 'v0.4.0 of source_gen'
+    published: '2015-04-15T02:44:38+00:00'
+    id: 'urn:uuid:1365b064-c634-5230-ad23-26add47b3303'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team'
