@@ -19043,3 +19043,12 @@
     link: 'https://pub.dartlang.org/packages/isolate'
     author:
         - 'Dart Team'
+-
+    package_name: slickdart
+    package_version: v0.1.1+3
+    title: 'v0.1.1+3 of slickdart'
+    published: '2015-04-15T15:14:41+00:00'
+    id: 'urn:uuid:b8aaaee9-8349-5693-8e36-a038ea499830'
+    link: 'https://pub.dartlang.org/packages/slickdart'
+    author:
+        - CJKAO
