@@ -18980,3 +18980,12 @@
     link: 'https://pub.dartlang.org/packages/source_gen'
     author:
         - 'Dart Team'
+-
+    package_name: ebisu
+    package_version: v0.3.1
+    title: 'v0.3.1 of ebisu'
+    published: '2015-04-15T02:49:42+00:00'
+    id: 'urn:uuid:33cf4706-52d1-52a8-be86-73b6fca5516b'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson'
