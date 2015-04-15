@@ -19061,3 +19061,12 @@
     link: 'https://pub.dartlang.org/packages/tuneup'
     author:
         - 'Devon Carew'
+-
+    package_name: persist
+    package_version: v0.0.3
+    title: 'v0.0.3 of persist'
+    published: '2015-04-15T20:04:43+00:00'
+    id: 'urn:uuid:e3403a1e-3d4a-56e5-bcd0-3885cc941eb1'
+    link: 'https://pub.dartlang.org/packages/persist'
+    author:
+        - 'James Ots'
