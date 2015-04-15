@@ -19016,3 +19016,12 @@
     link: 'https://pub.dartlang.org/packages/pub_client'
     author:
         - 'Jim Simon'
+-
+    package_name: pub_client
+    package_version: v1.0.1
+    title: 'v1.0.1 of pub_client'
+    published: '2015-04-15T04:14:38+00:00'
+    id: 'urn:uuid:802352c3-22ee-5ac5-8a6b-5643b6574dcb'
+    link: 'https://pub.dartlang.org/packages/pub_client'
+    author:
+        - 'Jim Simon'
