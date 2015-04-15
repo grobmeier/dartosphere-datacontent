@@ -19034,3 +19034,12 @@
     link: 'https://pub.dartlang.org/packages/astprinter'
     author:
         - 'George Kormaris'
+-
+    package_name: isolate
+    package_version: v0.2.2
+    title: 'v0.2.2 of isolate'
+    published: '2015-04-15T13:09:42+00:00'
+    id: 'urn:uuid:95780a90-de30-53c9-bff7-01949d0dd96e'
+    link: 'https://pub.dartlang.org/packages/isolate'
+    author:
+        - 'Dart Team'
