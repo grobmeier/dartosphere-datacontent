@@ -19079,3 +19079,12 @@
     link: 'https://pub.dartlang.org/packages/sky'
     author:
         - 'Chromium Authors'
+-
+    package_name: pub_client
+    package_version: v1.0.2
+    title: 'v1.0.2 of pub_client'
+    published: '2015-04-15T23:24:37+00:00'
+    id: 'urn:uuid:94234af9-05a7-5c25-95f8-0ececd68356e'
+    link: 'https://pub.dartlang.org/packages/pub_client'
+    author:
+        - 'Jim Simon'
