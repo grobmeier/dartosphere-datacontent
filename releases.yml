@@ -19052,3 +19052,12 @@
     link: 'https://pub.dartlang.org/packages/slickdart'
     author:
         - CJKAO
+-
+    package_name: tuneup
+    package_version: v0.0.5+3
+    title: 'v0.0.5+3 of tuneup'
+    published: '2015-04-15T19:49:43+00:00'
+    id: 'urn:uuid:e5d4367f-04d2-5f4c-b91e-8f482631baed'
+    link: 'https://pub.dartlang.org/packages/tuneup'
+    author:
+        - 'Devon Carew'
