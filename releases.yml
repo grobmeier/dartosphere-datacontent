@@ -19007,3 +19007,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu_cpp'
     author:
         - 'Daniel Davidson'
+-
+    package_name: pub_client
+    package_version: v1.0.0
+    title: 'v1.0.0 of pub_client'
+    published: '2015-04-15T03:49:38+00:00'
+    id: 'urn:uuid:5260d6b2-1675-59ca-a3f6-b6ee6245c152'
+    link: 'https://pub.dartlang.org/packages/pub_client'
+    author:
+        - 'Jim Simon'
