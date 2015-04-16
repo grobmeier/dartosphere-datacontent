@@ -19097,3 +19097,12 @@
     link: 'https://pub.dartlang.org/packages/analyzer'
     author:
         - 'Dart Team'
+-
+    package_name: managed_mongo
+    package_version: v1.1.3
+    title: 'v1.1.3 of managed_mongo'
+    published: '2015-04-16T00:29:41+00:00'
+    id: 'urn:uuid:5b8caea6-c258-59c5-9d71-a77bdd702637'
+    link: 'https://pub.dartlang.org/packages/managed_mongo'
+    author:
+        - 'Jim Simon'
