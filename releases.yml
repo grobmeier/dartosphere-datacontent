@@ -19241,3 +19241,12 @@
     link: 'https://pub.dartlang.org/packages/boarding'
     author:
         - 'Dzenan Ridjanovic'
+-
+    package_name: git
+    package_version: v0.4.4
+    title: 'v0.4.4 of git'
+    published: '2015-04-16T19:29:43+00:00'
+    id: 'urn:uuid:c85e31c7-fb66-5e75-ba5b-8f8f9ffa8fe5'
+    link: 'https://pub.dartlang.org/packages/git'
+    author:
+        - 'Kevin Moore'
