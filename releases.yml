@@ -19214,3 +19214,12 @@
     link: 'https://pub.dartlang.org/packages/oracledart'
     author:
         - 'Alexander Aprelev'
+-
+    package_name: route_provider
+    package_version: v0.1.3
+    title: 'v0.1.3 of route_provider'
+    published: '2015-04-16T17:19:37+00:00'
+    id: 'urn:uuid:31e8d8d9-cb7d-512b-85f7-ef6a2189fc24'
+    link: 'https://pub.dartlang.org/packages/route_provider'
+    author:
+        - 'Robert Beyer'
