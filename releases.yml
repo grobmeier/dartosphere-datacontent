@@ -19205,3 +19205,12 @@
     link: 'https://pub.dartlang.org/packages/polymer'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: oracledart
+    package_version: v0.0.14
+    title: 'v0.0.14 of oracledart'
+    published: '2015-04-16T16:59:41+00:00'
+    id: 'urn:uuid:45dfd1e9-b8dd-5792-88d7-8242675d2b28'
+    link: 'https://pub.dartlang.org/packages/oracledart'
+    author:
+        - 'Alexander Aprelev'
