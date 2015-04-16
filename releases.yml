@@ -19223,3 +19223,12 @@
     link: 'https://pub.dartlang.org/packages/route_provider'
     author:
         - 'Robert Beyer'
+-
+    package_name: dartdoc
+    package_version: v0.0.1+5
+    title: 'v0.0.1+5 of dartdoc'
+    published: '2015-04-16T18:14:38+00:00'
+    id: 'urn:uuid:0a4d688b-5aea-52e2-b0d5-6c6b7bd5c6eb'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team'
