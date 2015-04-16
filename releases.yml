@@ -19151,3 +19151,12 @@
     link: 'https://pub.dartlang.org/packages/dacsslide'
     author:
         - 'Valentyn Shybanov'
+-
+    package_name: poisson_disc
+    package_version: v1.0.0
+    title: 'v1.0.0 of poisson_disc'
+    published: '2015-04-16T10:29:42+00:00'
+    id: 'urn:uuid:da2876ba-68a3-55f3-9425-ca86d43b4afb'
+    link: 'https://pub.dartlang.org/packages/poisson_disc'
+    author:
+        - 'Gary Smith'
