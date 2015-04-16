@@ -19178,3 +19178,12 @@
     link: 'https://pub.dartlang.org/packages/completion'
     author:
         - 'Kevin Moore'
+-
+    package_name: oracledart
+    package_version: v0.0.13
+    title: 'v0.0.13 of oracledart'
+    published: '2015-04-16T15:44:39+00:00'
+    id: 'urn:uuid:dd1a3021-d2e0-52f6-96b9-312b42b88905'
+    link: 'https://pub.dartlang.org/packages/oracledart'
+    author:
+        - 'Alexander Aprelev'
