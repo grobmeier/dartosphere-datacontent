@@ -19160,3 +19160,12 @@
     link: 'https://pub.dartlang.org/packages/poisson_disc'
     author:
         - 'Gary Smith'
+-
+    package_name: memcache
+    package_version: v0.2.0
+    title: 'v0.2.0 of memcache'
+    published: '2015-04-16T11:49:37+00:00'
+    id: 'urn:uuid:71d6fba0-0c91-51b2-bad2-062396c03393'
+    link: 'https://pub.dartlang.org/packages/memcache'
+    author:
+        - 'Dart Team'
