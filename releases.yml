@@ -19106,3 +19106,12 @@
     link: 'https://pub.dartlang.org/packages/managed_mongo'
     author:
         - 'Jim Simon'
+-
+    package_name: github
+    package_version: v2.2.2
+    title: 'v2.2.2 of github'
+    published: '2015-04-16T01:59:41+00:00'
+    id: 'urn:uuid:d14234c9-2e07-5055-a62d-0b21bf8d80af'
+    link: 'https://pub.dartlang.org/packages/github'
+    author:
+        - 'Kenneth Endfinger'
