@@ -19187,3 +19187,12 @@
     link: 'https://pub.dartlang.org/packages/oracledart'
     author:
         - 'Alexander Aprelev'
+-
+    package_name: appengine
+    package_version: v0.3.0
+    title: 'v0.3.0 of appengine'
+    published: '2015-04-16T15:59:38+00:00'
+    id: 'urn:uuid:7dc7c381-a0f3-5d5b-ac8d-2fce84fe2902'
+    link: 'https://pub.dartlang.org/packages/appengine'
+    author:
+        - 'Dart Team'
