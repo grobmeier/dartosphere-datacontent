@@ -19232,3 +19232,12 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team'
+-
+    package_name: boarding
+    package_version: v0.2.8
+    title: 'v0.2.8 of boarding'
+    published: '2015-04-16T18:59:42+00:00'
+    id: 'urn:uuid:b50f3355-7494-53c7-9e3a-0e7fe18e3c80'
+    link: 'https://pub.dartlang.org/packages/boarding'
+    author:
+        - 'Dzenan Ridjanovic'
