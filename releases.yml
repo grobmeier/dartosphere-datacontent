@@ -19169,3 +19169,12 @@
     link: 'https://pub.dartlang.org/packages/memcache'
     author:
         - 'Dart Team'
+-
+    package_name: completion
+    package_version: v0.1.4
+    title: 'v0.1.4 of completion'
+    published: '2015-04-16T14:24:40+00:00'
+    id: 'urn:uuid:4c086a33-a4e0-56d5-90a8-22f91933b095'
+    link: 'https://pub.dartlang.org/packages/completion'
+    author:
+        - 'Kevin Moore'
