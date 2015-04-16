@@ -19142,3 +19142,12 @@
     link: 'https://pub.dartlang.org/packages/pub_client'
     author:
         - 'Jim Simon'
+-
+    package_name: dacsslide
+    package_version: v0.0.8
+    title: 'v0.0.8 of dacsslide'
+    published: '2015-04-16T08:15:18+00:00'
+    id: 'urn:uuid:e03b7bf0-0dd0-571d-b3e8-e04fcab38792'
+    link: 'https://pub.dartlang.org/packages/dacsslide'
+    author:
+        - 'Valentyn Shybanov'
