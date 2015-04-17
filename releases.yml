@@ -19286,3 +19286,12 @@
     link: 'https://pub.dartlang.org/packages/sitegen'
     author:
         - 'Mike Mitterer'
+-
+    package_name: sitegen
+    package_version: v0.2.1
+    title: 'v0.2.1 of sitegen'
+    published: '2015-04-17T09:14:39+00:00'
+    id: 'urn:uuid:aded36a7-9039-5275-a7aa-4a7486bd99cd'
+    link: 'https://pub.dartlang.org/packages/sitegen'
+    author:
+        - 'Mike Mitterer'
