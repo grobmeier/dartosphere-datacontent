@@ -19313,3 +19313,12 @@
     link: 'https://pub.dartlang.org/packages/web_components'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: polymer_interop
+    package_version: v0.1.0
+    title: 'v0.1.0 of polymer_interop'
+    published: '2015-04-17T18:09:36+00:00'
+    id: 'urn:uuid:f35ba3fc-1ecf-5611-ac18-8821bf72e484'
+    link: 'https://pub.dartlang.org/packages/polymer_interop'
+    author:
+        - 'Polymer.dart Authors'
