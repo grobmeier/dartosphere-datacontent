@@ -19349,3 +19349,12 @@
     link: 'https://pub.dartlang.org/packages/polymer'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: custom_element_apigen
+    package_version: v0.1.7
+    title: 'v0.1.7 of custom_element_apigen'
+    published: '2015-04-17T22:24:39+00:00'
+    id: 'urn:uuid:2ba71271-3593-5eea-81de-04d32741d935'
+    link: 'https://pub.dartlang.org/packages/custom_element_apigen'
+    author:
+        - 'Polymer.dart Authors'
