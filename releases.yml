@@ -19277,3 +19277,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu'
     author:
         - 'Daniel Davidson'
+-
+    package_name: sitegen
+    package_version: v0.2.0
+    title: 'v0.2.0 of sitegen'
+    published: '2015-04-17T09:04:39+00:00'
+    id: 'urn:uuid:d0db3ce5-899a-5547-b9e7-cdd8adfcb0d6'
+    link: 'https://pub.dartlang.org/packages/sitegen'
+    author:
+        - 'Mike Mitterer'
