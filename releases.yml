@@ -19304,3 +19304,12 @@
     link: 'https://pub.dartlang.org/packages/built_collection'
     author:
         - 'David Morgan'
+-
+    package_name: web_components
+    package_version: v0.11.2
+    title: 'v0.11.2 of web_components'
+    published: '2015-04-17T18:04:37+00:00'
+    id: 'urn:uuid:70bab613-9d66-598c-a10c-0c01b9e0e43c'
+    link: 'https://pub.dartlang.org/packages/web_components'
+    author:
+        - 'Polymer.dart Authors'
