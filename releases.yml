@@ -19340,3 +19340,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_interop'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: polymer
+    package_version: v0.16.1+4
+    title: 'v0.16.1+4 of polymer'
+    published: '2015-04-17T20:09:38+00:00'
+    id: 'urn:uuid:819e163e-47a9-57d3-b16c-bfc301564cb3'
+    link: 'https://pub.dartlang.org/packages/polymer'
+    author:
+        - 'Polymer.dart Authors'
