@@ -19268,3 +19268,12 @@
     link: 'https://pub.dartlang.org/packages/git'
     author:
         - 'Kevin Moore'
+-
+    package_name: ebisu
+    package_version: v0.3.2
+    title: 'v0.3.2 of ebisu'
+    published: '2015-04-17T01:59:36+00:00'
+    id: 'urn:uuid:127eea41-45e3-5201-b3d6-672ce8e240ff'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson'
