@@ -19468,3 +19468,12 @@
         - 'Bootstrap core team'
         - 'Victor Berchet'
         - 'Seth Ladd'
+-
+    package_name: custom_element_apigen
+    package_version: v0.1.7+1
+    title: 'v0.1.7+1 of custom_element_apigen'
+    published: '2015-04-18T19:09:45+00:00'
+    id: 'urn:uuid:0694a4fd-cf52-5dd0-93d0-76a7963d3913'
+    link: 'https://pub.dartlang.org/packages/custom_element_apigen'
+    author:
+        - 'Polymer.dart Authors'
