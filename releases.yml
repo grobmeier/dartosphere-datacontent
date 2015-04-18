@@ -19421,3 +19421,12 @@
     link: 'https://pub.dartlang.org/packages/gun'
     author:
         - 'Kenneth Endfinger'
+-
+    package_name: hop
+    package_version: v0.32.0
+    title: 'v0.32.0 of hop'
+    published: '2015-04-18T17:54:38+00:00'
+    id: 'urn:uuid:09581f70-97e4-5f46-9868-2e3976ce7554'
+    link: 'https://pub.dartlang.org/packages/hop'
+    author:
+        - 'Hop Project Authors'
