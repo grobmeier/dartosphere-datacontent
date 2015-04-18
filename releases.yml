@@ -19412,3 +19412,12 @@
     link: 'https://pub.dartlang.org/packages/targets'
     author:
         - 'Jack Thakar'
+-
+    package_name: gun
+    package_version: v1.1.0
+    title: 'v1.1.0 of gun'
+    published: '2015-04-18T16:09:40+00:00'
+    id: 'urn:uuid:1cdb7657-1cc2-591c-b15f-90a4b6a1235b'
+    link: 'https://pub.dartlang.org/packages/gun'
+    author:
+        - 'Kenneth Endfinger'
