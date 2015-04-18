@@ -19457,3 +19457,14 @@
     link: 'https://pub.dartlang.org/packages/hop_unittest'
     author:
         - 'Kevin Moore'
+-
+    package_name: bootstrap
+    package_version: v3.3.4
+    title: 'v3.3.4 of bootstrap'
+    published: '2015-04-18T18:44:41+00:00'
+    id: 'urn:uuid:86bd6232-1ed5-57eb-a552-a6440964c006'
+    link: 'https://pub.dartlang.org/packages/bootstrap'
+    author:
+        - 'Bootstrap core team'
+        - 'Victor Berchet'
+        - 'Seth Ladd'
