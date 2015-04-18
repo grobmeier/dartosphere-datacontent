@@ -19394,3 +19394,12 @@
     link: 'https://pub.dartlang.org/packages/gun'
     author:
         - 'Kenneth Endfinger'
+-
+    package_name: dnd
+    package_version: v0.3.0
+    title: 'v0.3.0 of dnd'
+    published: '2015-04-18T11:54:44+00:00'
+    id: 'urn:uuid:19bcf622-f646-5375-b050-cefb25efd898'
+    link: 'https://pub.dartlang.org/packages/dnd'
+    author:
+        - 'Marco Jakob'
