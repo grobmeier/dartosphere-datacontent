@@ -19358,3 +19358,12 @@
     link: 'https://pub.dartlang.org/packages/custom_element_apigen'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: test
+    package_version: v0.12.0-beta.9
+    title: 'v0.12.0-beta.9 of test'
+    published: '2015-04-18T00:39:39+00:00'
+    id: 'urn:uuid:5e60fa8a-3a60-5493-9ef9-822adc001067'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team'
