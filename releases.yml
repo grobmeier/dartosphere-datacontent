@@ -19486,3 +19486,12 @@
     link: 'https://pub.dartlang.org/packages/targets'
     author:
         - 'Jack Thakar'
+-
+    package_name: dacsslide
+    package_version: v0.0.9
+    title: 'v0.0.9 of dacsslide'
+    published: '2015-04-18T20:04:39+00:00'
+    id: 'urn:uuid:34f956be-bc47-576e-ad82-169fe53a5587'
+    link: 'https://pub.dartlang.org/packages/dacsslide'
+    author:
+        - 'Valentyn Shybanov'
