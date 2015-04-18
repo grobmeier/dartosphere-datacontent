@@ -19367,3 +19367,12 @@
     link: 'https://pub.dartlang.org/packages/test'
     author:
         - 'Dart Team'
+-
+    package_name: test
+    package_version: v0.12.0-beta.10
+    title: 'v0.12.0-beta.10 of test'
+    published: '2015-04-18T01:04:43+00:00'
+    id: 'urn:uuid:5b75c245-f658-5387-869f-d9f079291a20'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team'
