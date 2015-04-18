@@ -19376,3 +19376,12 @@
     link: 'https://pub.dartlang.org/packages/test'
     author:
         - 'Dart Team'
+-
+    package_name: gun
+    package_version: v1.0.0
+    title: 'v1.0.0 of gun'
+    published: '2015-04-18T01:39:41+00:00'
+    id: 'urn:uuid:05a997b1-6c6a-5e78-a225-9cd9eff7f4c0'
+    link: 'https://pub.dartlang.org/packages/gun'
+    author:
+        - 'Kenneth Endfinger'
