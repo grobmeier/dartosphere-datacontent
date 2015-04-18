@@ -19385,3 +19385,12 @@
     link: 'https://pub.dartlang.org/packages/gun'
     author:
         - 'Kenneth Endfinger'
+-
+    package_name: gun
+    package_version: v1.0.2
+    title: 'v1.0.2 of gun'
+    published: '2015-04-18T02:09:38+00:00'
+    id: 'urn:uuid:14815fd5-ccc0-5ebe-838b-09b241d36a9c'
+    link: 'https://pub.dartlang.org/packages/gun'
+    author:
+        - 'Kenneth Endfinger'
