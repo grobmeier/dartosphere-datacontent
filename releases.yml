@@ -19430,3 +19430,12 @@
     link: 'https://pub.dartlang.org/packages/hop'
     author:
         - 'Hop Project Authors'
+-
+    package_name: osx
+    package_version: v1.0.0
+    title: 'v1.0.0 of osx'
+    published: '2015-04-18T18:14:41+00:00'
+    id: 'urn:uuid:257508af-4285-5e22-8626-3291e3ceea75'
+    link: 'https://pub.dartlang.org/packages/osx'
+    author:
+        - 'Kenneth Endfinger'
