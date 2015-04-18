@@ -19439,3 +19439,21 @@
     link: 'https://pub.dartlang.org/packages/osx'
     author:
         - 'Kenneth Endfinger'
+-
+    package_name: osx
+    package_version: v1.1.0
+    title: 'v1.1.0 of osx'
+    published: '2015-04-18T18:39:37+00:00'
+    id: 'urn:uuid:6f41a227-1c17-5b9a-b9c9-dececd84f47b'
+    link: 'https://pub.dartlang.org/packages/osx'
+    author:
+        - 'Kenneth Endfinger'
+-
+    package_name: hop_unittest
+    package_version: v0.1.0+4
+    title: 'v0.1.0+4 of hop_unittest'
+    published: '2015-04-18T18:39:37+00:00'
+    id: 'urn:uuid:ce19db23-9113-5443-9714-7e59e98d35f6'
+    link: 'https://pub.dartlang.org/packages/hop_unittest'
+    author:
+        - 'Kevin Moore'
