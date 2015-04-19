@@ -19504,3 +19504,12 @@
     link: 'https://pub.dartlang.org/packages/doc_coverage'
     author:
         - 'Sam Rawlins'
+-
+    package_name: gun
+    package_version: v1.5.0
+    title: 'v1.5.0 of gun'
+    published: '2015-04-19T01:04:38+00:00'
+    id: 'urn:uuid:b025be16-0762-5261-8a0b-d5f8c2dee4f9'
+    link: 'https://pub.dartlang.org/packages/gun'
+    author:
+        - 'Kenneth Endfinger'
