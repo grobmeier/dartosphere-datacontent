@@ -19675,3 +19675,12 @@
     link: 'https://pub.dartlang.org/packages/dockerfile'
     author:
         - 'Anders Holmgren'
+-
+    package_name: aha_table
+    package_version: v0.0.1
+    title: 'v0.0.1 of aha_table'
+    published: '2015-04-19T22:09:37+00:00'
+    id: 'urn:uuid:7f43b30d-1bba-54e5-af8b-3f525cb34809'
+    link: 'https://pub.dartlang.org/packages/aha_table'
+    author:
+        - 'Luis Vargas'
