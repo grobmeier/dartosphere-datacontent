@@ -19612,3 +19612,12 @@
     link: 'https://pub.dartlang.org/packages/yomp_db'
     author:
         - 'Tomas Rokos'
+-
+    package_name: ttf_parser
+    package_version: v1.0.0
+    title: 'v1.0.0 of ttf_parser'
+    published: '2015-04-19T18:14:41+00:00'
+    id: 'urn:uuid:e7086702-11b7-5e23-9b9e-c173dca23448'
+    link: 'https://pub.dartlang.org/packages/ttf_parser'
+    author:
+        - 'Ali Akbar'
