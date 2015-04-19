@@ -19630,3 +19630,12 @@
     link: 'https://pub.dartlang.org/packages/console'
     author:
         - 'Kenneth Endfinger'
+-
+    package_name: pubspec
+    package_version: v0.0.1
+    title: 'v0.0.1 of pubspec'
+    published: '2015-04-19T20:59:44+00:00'
+    id: 'urn:uuid:2d535f86-21b7-509f-a7bc-bec3cdff965c'
+    link: 'https://pub.dartlang.org/packages/pubspec'
+    author:
+        - 'Anders Holmgren'
