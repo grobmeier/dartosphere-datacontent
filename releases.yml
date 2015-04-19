@@ -19513,3 +19513,12 @@
     link: 'https://pub.dartlang.org/packages/gun'
     author:
         - 'Kenneth Endfinger'
+-
+    package_name: super_sockets
+    package_version: v0.0.1
+    title: 'v0.0.1 of super_sockets'
+    published: '2015-04-19T04:34:40+00:00'
+    id: 'urn:uuid:7647b8ad-43e5-5e17-99d7-dc22edff142a'
+    link: 'https://pub.dartlang.org/packages/super_sockets'
+    author:
+        - 'Gabriel Ratener'
