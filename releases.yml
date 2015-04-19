@@ -19576,3 +19576,12 @@
     link: 'https://pub.dartlang.org/packages/property_grid'
     author:
         - 'Ali Akbar Vathi'
+-
+    package_name: dock_spawn
+    package_version: v1.0.4
+    title: 'v1.0.4 of dock_spawn'
+    published: '2015-04-19T14:59:45+00:00'
+    id: 'urn:uuid:e66039f6-feb5-5403-ac02-a20b721b1f35'
+    link: 'https://pub.dartlang.org/packages/dock_spawn'
+    author:
+        - 'Ali Akbar Vathi'
