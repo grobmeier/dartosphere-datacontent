@@ -19531,3 +19531,12 @@
     link: 'https://pub.dartlang.org/packages/json_diff'
     author:
         - 'Sam Rawlins'
+-
+    package_name: built_collection
+    package_version: v0.1.1
+    title: 'v0.1.1 of built_collection'
+    published: '2015-04-19T09:54:39+00:00'
+    id: 'urn:uuid:a4181433-dcc9-5f5a-81d2-fc4e37ad49c1'
+    link: 'https://pub.dartlang.org/packages/built_collection'
+    author:
+        - 'David Morgan'
