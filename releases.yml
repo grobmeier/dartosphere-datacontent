@@ -19603,3 +19603,12 @@
     link: 'https://pub.dartlang.org/packages/super_sockets'
     author:
         - 'Gabriel Ratener'
+-
+    package_name: yomp_db
+    package_version: v0.5.0
+    title: 'v0.5.0 of yomp_db'
+    published: '2015-04-19T17:24:41+00:00'
+    id: 'urn:uuid:5eb1b002-619e-55ea-a435-550f2e3d7a68'
+    link: 'https://pub.dartlang.org/packages/yomp_db'
+    author:
+        - 'Tomas Rokos'
