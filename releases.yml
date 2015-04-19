@@ -19522,3 +19522,12 @@
     link: 'https://pub.dartlang.org/packages/super_sockets'
     author:
         - 'Gabriel Ratener'
+-
+    package_name: json_diff
+    package_version: v0.1.2
+    title: 'v0.1.2 of json_diff'
+    published: '2015-04-19T04:49:42+00:00'
+    id: 'urn:uuid:e5e9c07a-d650-5f89-bd5b-44e2bd6cd368'
+    link: 'https://pub.dartlang.org/packages/json_diff'
+    author:
+        - 'Sam Rawlins'
