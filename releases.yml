@@ -19567,3 +19567,12 @@
     link: 'https://pub.dartlang.org/packages/gradient_picker'
     author:
         - 'Ali Akbar Vathi'
+-
+    package_name: property_grid
+    package_version: v1.2.8
+    title: 'v1.2.8 of property_grid'
+    published: '2015-04-19T14:49:41+00:00'
+    id: 'urn:uuid:c0205db3-f079-53d4-aee5-c8c52e1b963d'
+    link: 'https://pub.dartlang.org/packages/property_grid'
+    author:
+        - 'Ali Akbar Vathi'
