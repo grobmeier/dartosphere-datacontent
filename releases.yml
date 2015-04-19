@@ -19585,3 +19585,12 @@
     link: 'https://pub.dartlang.org/packages/dock_spawn'
     author:
         - 'Ali Akbar Vathi'
+-
+    package_name: super_sockets
+    package_version: v0.0.2
+    title: 'v0.0.2 of super_sockets'
+    published: '2015-04-19T16:59:38+00:00'
+    id: 'urn:uuid:2df393fe-b245-5097-847e-54fbf197d3b2'
+    link: 'https://pub.dartlang.org/packages/super_sockets'
+    author:
+        - 'Gabriel Ratener'
