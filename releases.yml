@@ -19648,3 +19648,12 @@
     link: 'https://pub.dartlang.org/packages/yamlicious'
     author:
         - 'Anders Holmgren'
+-
+    package_name: pubspec
+    package_version: v0.0.1+1
+    title: 'v0.0.1+1 of pubspec'
+    published: '2015-04-19T21:14:38+00:00'
+    id: 'urn:uuid:70ed635f-efb6-564f-ba28-40533f4f7900'
+    link: 'https://pub.dartlang.org/packages/pubspec'
+    author:
+        - 'Anders Holmgren'
