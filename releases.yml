@@ -19666,3 +19666,12 @@
     link: 'https://pub.dartlang.org/packages/pubspec'
     author:
         - 'Anders Holmgren'
+-
+    package_name: dockerfile
+    package_version: v0.0.1
+    title: 'v0.0.1 of dockerfile'
+    published: '2015-04-19T22:04:37+00:00'
+    id: 'urn:uuid:0f659c7f-ab2e-5050-a920-5f4ad0f32461'
+    link: 'https://pub.dartlang.org/packages/dockerfile'
+    author:
+        - 'Anders Holmgren'
