@@ -19558,3 +19558,12 @@
     link: 'https://pub.dartlang.org/packages/force'
     author:
         - 'Joris Hermans'
+-
+    package_name: gradient_picker
+    package_version: v1.0.4
+    title: 'v1.0.4 of gradient_picker'
+    published: '2015-04-19T14:19:37+00:00'
+    id: 'urn:uuid:484edcbb-5b29-5efa-80bd-acbc2446bb58'
+    link: 'https://pub.dartlang.org/packages/gradient_picker'
+    author:
+        - 'Ali Akbar Vathi'
