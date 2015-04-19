@@ -19495,3 +19495,12 @@
     link: 'https://pub.dartlang.org/packages/dacsslide'
     author:
         - 'Valentyn Shybanov'
+-
+    package_name: doc_coverage
+    package_version: v0.1.3
+    title: 'v0.1.3 of doc_coverage'
+    published: '2015-04-19T00:49:42+00:00'
+    id: 'urn:uuid:86212799-2b7b-5ac4-9a0d-117116145338'
+    link: 'https://pub.dartlang.org/packages/doc_coverage'
+    author:
+        - 'Sam Rawlins'
