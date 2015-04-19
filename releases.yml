@@ -19657,3 +19657,12 @@
     link: 'https://pub.dartlang.org/packages/pubspec'
     author:
         - 'Anders Holmgren'
+-
+    package_name: pubspec
+    package_version: v0.0.1+2
+    title: 'v0.0.1+2 of pubspec'
+    published: '2015-04-19T21:49:40+00:00'
+    id: 'urn:uuid:819e23b8-7dae-532a-8064-3e4189f95b89'
+    link: 'https://pub.dartlang.org/packages/pubspec'
+    author:
+        - 'Anders Holmgren'
