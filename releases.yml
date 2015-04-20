@@ -19729,3 +19729,12 @@
     link: 'https://pub.dartlang.org/packages/pretty_samples'
     author:
         - 'Valentyn Shybanov'
+-
+    package_name: id
+    package_version: v1.0.9
+    title: 'v1.0.9 of id'
+    published: '2015-04-20T01:59:41+00:00'
+    id: 'urn:uuid:2a9bfc71-1b55-55c6-99d0-48bf7da869bc'
+    link: 'https://pub.dartlang.org/packages/id'
+    author:
+        - 'Daniel Davidson'
