@@ -19909,3 +19909,12 @@
     link: 'https://pub.dartlang.org/packages/reflective'
     author:
         - 'Stijn Van Bael'
+-
+    package_name: crossdart
+    package_version: v0.0.3
+    title: 'v0.0.3 of crossdart'
+    published: '2015-04-20T18:49:41+00:00'
+    id: 'urn:uuid:a7918c26-495e-5129-8907-412dbff014bb'
+    link: 'https://pub.dartlang.org/packages/crossdart'
+    author:
+        - 'Anton Astashov'
