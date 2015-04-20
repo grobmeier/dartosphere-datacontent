@@ -19756,3 +19756,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu'
     author:
         - 'Daniel Davidson'
+-
+    package_name: pretty_samples
+    package_version: v0.0.2
+    title: 'v0.0.2 of pretty_samples'
+    published: '2015-04-20T02:34:37+00:00'
+    id: 'urn:uuid:9428add3-f6a0-5303-a96a-8fd28be7ba67'
+    link: 'https://pub.dartlang.org/packages/pretty_samples'
+    author:
+        - 'Valentyn Shybanov'
