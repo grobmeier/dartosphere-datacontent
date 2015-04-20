@@ -19864,3 +19864,12 @@
     link: 'https://pub.dartlang.org/packages/analyzer'
     author:
         - 'Dart Team'
+-
+    package_name: core_elements
+    package_version: v0.7.1
+    title: 'v0.7.1 of core_elements'
+    published: '2015-04-20T16:44:43+00:00'
+    id: 'urn:uuid:705d9e6a-eacf-5780-89ca-1599f5e86c2e'
+    link: 'https://pub.dartlang.org/packages/core_elements'
+    author:
+        - 'Polymer.dart Authors'
