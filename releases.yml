@@ -19819,3 +19819,12 @@
     link: 'https://pub.dartlang.org/packages/sitegen'
     author:
         - 'Mike Mitterer'
+-
+    package_name: apk_parser
+    package_version: v0.0.2
+    title: 'v0.0.2 of apk_parser'
+    published: '2015-04-20T15:54:41+00:00'
+    id: 'urn:uuid:2fa5451d-2f88-5ee7-bffa-b1f938056dc3'
+    link: 'https://pub.dartlang.org/packages/apk_parser'
+    author:
+        - 'Andres Araujo'
