@@ -19936,3 +19936,12 @@
     link: 'https://pub.dartlang.org/packages/dev_compiler'
     author:
         - 'Dart Dev Compiler team'
+-
+    package_name: crossdart
+    package_version: v0.0.4
+    title: 'v0.0.4 of crossdart'
+    published: '2015-04-20T23:44:38+00:00'
+    id: 'urn:uuid:3fe92135-9406-5489-9f95-d6935d499c08'
+    link: 'https://pub.dartlang.org/packages/crossdart'
+    author:
+        - 'Anton Astashov'
