@@ -19837,3 +19837,30 @@
     link: 'https://pub.dartlang.org/packages/secret_sharing'
     author:
         - 'Axel Christ'
+-
+    package_name: crossdart
+    package_version: v0.0.2
+    title: 'v0.0.2 of crossdart'
+    published: '2015-04-20T16:34:42+00:00'
+    id: 'urn:uuid:0c658a7d-4a84-5659-80fd-30935d336644'
+    link: 'https://pub.dartlang.org/packages/crossdart'
+    author:
+        - 'Anton Astashov'
+-
+    package_name: doc_coverage
+    package_version: v0.1.4
+    title: 'v0.1.4 of doc_coverage'
+    published: '2015-04-20T16:34:42+00:00'
+    id: 'urn:uuid:8a4f0d4a-8d62-5675-bb66-c0d5f1ef57d3'
+    link: 'https://pub.dartlang.org/packages/doc_coverage'
+    author:
+        - 'Sam Rawlins'
+-
+    package_name: analyzer
+    package_version: v0.24.6
+    title: 'v0.24.6 of analyzer'
+    published: '2015-04-20T16:34:42+00:00'
+    id: 'urn:uuid:2c16e21c-ea0c-5348-8861-96a43061ebd1'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team'
