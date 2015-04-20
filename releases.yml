@@ -19720,3 +19720,12 @@
     link: 'https://pub.dartlang.org/packages/dockerfile'
     author:
         - 'Anders Holmgren'
+-
+    package_name: pretty_samples
+    package_version: v0.0.1
+    title: 'v0.0.1 of pretty_samples'
+    published: '2015-04-20T00:59:39+00:00'
+    id: 'urn:uuid:063ec798-3040-5aec-b231-9f772b629055'
+    link: 'https://pub.dartlang.org/packages/pretty_samples'
+    author:
+        - 'Valentyn Shybanov'
