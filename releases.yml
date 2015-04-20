@@ -19945,3 +19945,12 @@
     link: 'https://pub.dartlang.org/packages/crossdart'
     author:
         - 'Anton Astashov'
+-
+    package_name: codemirror
+    package_version: v0.2.7+5.2.0
+    title: 'v0.2.7+5.2.0 of codemirror'
+    published: '2015-04-20T23:49:43+00:00'
+    id: 'urn:uuid:29c70712-7745-5390-a669-0ed39683e6c2'
+    link: 'https://pub.dartlang.org/packages/codemirror'
+    author:
+        - 'Devon Carew'
