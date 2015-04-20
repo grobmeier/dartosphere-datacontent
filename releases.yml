@@ -19765,3 +19765,12 @@
     link: 'https://pub.dartlang.org/packages/pretty_samples'
     author:
         - 'Valentyn Shybanov'
+-
+    package_name: ebisu_cpp
+    package_version: v0.0.22
+    title: 'v0.0.22 of ebisu_cpp'
+    published: '2015-04-20T02:44:39+00:00'
+    id: 'urn:uuid:73152f8f-3a84-5e07-a871-a3c76d66881a'
+    link: 'https://pub.dartlang.org/packages/ebisu_cpp'
+    author:
+        - 'Daniel Davidson'
