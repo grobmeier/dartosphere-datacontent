@@ -19783,3 +19783,12 @@
     link: 'https://pub.dartlang.org/packages/crossdart'
     author:
         - 'Anton Astashov'
+-
+    package_name: polymer_datepicker
+    package_version: v0.1.3
+    title: 'v0.1.3 of polymer_datepicker'
+    published: '2015-04-20T08:14:41+00:00'
+    id: 'urn:uuid:bc842ed6-b64a-59b5-9da5-011626d69e85'
+    link: 'https://pub.dartlang.org/packages/polymer_datepicker'
+    author:
+        - Drafintech
