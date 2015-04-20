@@ -19801,3 +19801,12 @@
     link: 'https://pub.dartlang.org/packages/reflective'
     author:
         - 'Stijn Van Bael'
+-
+    package_name: den
+    package_version: v0.1.6
+    title: 'v0.1.6 of den'
+    published: '2015-04-20T14:29:40+00:00'
+    id: 'urn:uuid:4f5f9a90-ce86-5ee9-89ce-441e0382b674'
+    link: 'https://pub.dartlang.org/packages/den'
+    author:
+        - 'Sean Eagan'
