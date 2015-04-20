@@ -19891,3 +19891,12 @@
     link: 'https://pub.dartlang.org/packages/core_elements'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: core_elements
+    package_version: v0.7.1+2
+    title: 'v0.7.1+2 of core_elements'
+    published: '2015-04-20T17:44:37+00:00'
+    id: 'urn:uuid:34b261f4-a0f3-5f21-8f99-95d6a7a68417'
+    link: 'https://pub.dartlang.org/packages/core_elements'
+    author:
+        - 'Polymer.dart Authors'
