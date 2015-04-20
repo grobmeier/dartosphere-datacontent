@@ -19810,3 +19810,12 @@
     link: 'https://pub.dartlang.org/packages/den'
     author:
         - 'Sean Eagan'
+-
+    package_name: sitegen
+    package_version: v0.3.0
+    title: 'v0.3.0 of sitegen'
+    published: '2015-04-20T15:09:48+00:00'
+    id: 'urn:uuid:fb8bf963-d1dd-5fdb-a6cc-91d3b43e1219'
+    link: 'https://pub.dartlang.org/packages/sitegen'
+    author:
+        - 'Mike Mitterer'
