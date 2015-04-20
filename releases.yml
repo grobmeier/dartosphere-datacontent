@@ -19900,3 +19900,12 @@
     link: 'https://pub.dartlang.org/packages/core_elements'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: reflective
+    package_version: v0.0.15
+    title: 'v0.0.15 of reflective'
+    published: '2015-04-20T18:14:41+00:00'
+    id: 'urn:uuid:3aed850b-469a-56fc-ad88-d552df753324'
+    link: 'https://pub.dartlang.org/packages/reflective'
+    author:
+        - 'Stijn Van Bael'
