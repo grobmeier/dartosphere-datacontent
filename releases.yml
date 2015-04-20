@@ -19828,3 +19828,12 @@
     link: 'https://pub.dartlang.org/packages/apk_parser'
     author:
         - 'Andres Araujo'
+-
+    package_name: secret_sharing
+    package_version: v0.1.0
+    title: 'v0.1.0 of secret_sharing'
+    published: '2015-04-20T16:19:37+00:00'
+    id: 'urn:uuid:60f7b208-07f8-573d-981a-9b02c22d3149'
+    link: 'https://pub.dartlang.org/packages/secret_sharing'
+    author:
+        - 'Axel Christ'
