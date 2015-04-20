@@ -19774,3 +19774,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu_cpp'
     author:
         - 'Daniel Davidson'
+-
+    package_name: crossdart
+    package_version: v0.0.1
+    title: 'v0.0.1 of crossdart'
+    published: '2015-04-20T04:54:41+00:00'
+    id: 'urn:uuid:3cb54662-554b-5fb3-a30f-ee7ac453240b'
+    link: 'https://pub.dartlang.org/packages/crossdart'
+    author:
+        - 'Anton Astashov'
