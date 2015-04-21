@@ -20110,3 +20110,12 @@
     link: 'https://pub.dartlang.org/packages/apk_parser'
     author:
         - 'Andres Araujo'
+-
+    package_name: mojom
+    package_version: v0.0.1
+    title: 'v0.0.1 of mojom'
+    published: '2015-04-21T20:54:44+00:00'
+    id: 'urn:uuid:41b835c7-b9eb-503e-b8a8-486da2d350b7'
+    link: 'https://pub.dartlang.org/packages/mojom'
+    author:
+        - 'Dart Team'
