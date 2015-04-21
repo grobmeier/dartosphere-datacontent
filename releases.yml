@@ -20128,3 +20128,12 @@
     link: 'https://pub.dartlang.org/packages/sitegen'
     author:
         - 'Mike Mitterer'
+-
+    package_name: protobuf
+    package_version: v0.3.6
+    title: 'v0.3.6 of protobuf'
+    published: '2015-04-21T23:14:37+00:00'
+    id: 'urn:uuid:6c7ab469-7af3-5ae1-b88d-8f618f426b3a'
+    link: 'https://pub.dartlang.org/packages/protobuf'
+    author:
+        - 'Dart Team'
