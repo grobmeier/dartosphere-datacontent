@@ -20083,3 +20083,12 @@
     link: 'https://pub.dartlang.org/packages/grinder'
     author:
         - 'Devon Carew'
+-
+    package_name: sitegen
+    package_version: v0.3.3
+    title: 'v0.3.3 of sitegen'
+    published: '2015-04-21T15:49:41+00:00'
+    id: 'urn:uuid:d974d1bd-20db-579e-90ae-8d9c0ceb84d9'
+    link: 'https://pub.dartlang.org/packages/sitegen'
+    author:
+        - 'Mike Mitterer'
