@@ -20011,3 +20011,12 @@
     link: 'https://pub.dartlang.org/packages/test_reflective_loader'
     author:
         - 'Dart Team'
+-
+    package_name: sitegen
+    package_version: v0.3.1
+    title: 'v0.3.1 of sitegen'
+    published: '2015-04-21T08:09:44+00:00'
+    id: 'urn:uuid:28d8b120-0caf-5b27-8ae3-3348c09bc560'
+    link: 'https://pub.dartlang.org/packages/sitegen'
+    author:
+        - 'Mike Mitterer'
