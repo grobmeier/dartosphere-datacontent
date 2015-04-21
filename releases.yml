@@ -20065,3 +20065,12 @@
     link: 'https://pub.dartlang.org/packages/crossbow'
     author:
         - 'Stijn Van Bael'
+-
+    package_name: crossbow
+    package_version: v0.0.4
+    title: 'v0.0.4 of crossbow'
+    published: '2015-04-21T12:54:41+00:00'
+    id: 'urn:uuid:0fba465d-e95e-5bee-ad85-2b4a2c12e123'
+    link: 'https://pub.dartlang.org/packages/crossbow'
+    author:
+        - 'Stijn Van Bael'
