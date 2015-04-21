@@ -20020,3 +20020,12 @@
     link: 'https://pub.dartlang.org/packages/sitegen'
     author:
         - 'Mike Mitterer'
+-
+    package_name: sitegen
+    package_version: v0.3.2
+    title: 'v0.3.2 of sitegen'
+    published: '2015-04-21T08:19:40+00:00'
+    id: 'urn:uuid:3f303103-075d-5ffd-9488-ecb04e38145d'
+    link: 'https://pub.dartlang.org/packages/sitegen'
+    author:
+        - 'Mike Mitterer'
