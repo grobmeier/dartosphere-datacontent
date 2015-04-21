@@ -20029,3 +20029,12 @@
     link: 'https://pub.dartlang.org/packages/sitegen'
     author:
         - 'Mike Mitterer'
+-
+    package_name: box
+    package_version: v0.0.4
+    title: 'v0.0.4 of box'
+    published: '2015-04-21T09:39:40+00:00'
+    id: 'urn:uuid:5287afa2-bbdc-589b-ab97-389d24d44dd1'
+    link: 'https://pub.dartlang.org/packages/box'
+    author:
+        - 'Stijn Van Bael'
