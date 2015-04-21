@@ -20038,3 +20038,12 @@
     link: 'https://pub.dartlang.org/packages/box'
     author:
         - 'Stijn Van Bael'
+-
+    package_name: box
+    package_version: v0.0.5
+    title: 'v0.0.5 of box'
+    published: '2015-04-21T09:44:37+00:00'
+    id: 'urn:uuid:3aa6e384-37f2-562c-aaa1-e5a45181bb7f'
+    link: 'https://pub.dartlang.org/packages/box'
+    author:
+        - 'Stijn Van Bael'
