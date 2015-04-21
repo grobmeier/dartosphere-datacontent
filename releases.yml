@@ -20137,3 +20137,12 @@
     link: 'https://pub.dartlang.org/packages/protobuf'
     author:
         - 'Dart Team'
+-
+    package_name: boarding
+    package_version: v0.2.9
+    title: 'v0.2.9 of boarding'
+    published: '2015-04-21T23:34:38+00:00'
+    id: 'urn:uuid:38c0d518-6f75-5854-908b-2bec9542d38d'
+    link: 'https://pub.dartlang.org/packages/boarding'
+    author:
+        - 'Dzenan Ridjanovic'
