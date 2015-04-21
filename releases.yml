@@ -20002,3 +20002,12 @@
         - 'Tobias Bosch'
         - 'Victor Savkin'
         - 'Yegor Jbanov'
+-
+    package_name: test_reflective_loader
+    package_version: v0.0.1
+    title: 'v0.0.1 of test_reflective_loader'
+    published: '2015-04-21T03:34:38+00:00'
+    id: 'urn:uuid:bc1946f9-9cc6-50b0-a9a6-88faa79cc45f'
+    link: 'https://pub.dartlang.org/packages/test_reflective_loader'
+    author:
+        - 'Dart Team'
