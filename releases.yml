@@ -20092,3 +20092,12 @@
     link: 'https://pub.dartlang.org/packages/sitegen'
     author:
         - 'Mike Mitterer'
+-
+    package_name: binary_declarations
+    package_version: v0.0.58
+    title: 'v0.0.58 of binary_declarations'
+    published: '2015-04-21T16:14:40+00:00'
+    id: 'urn:uuid:87fab6d6-8afa-555e-9a5d-4d97dfe21d30'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni'
