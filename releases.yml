@@ -20155,3 +20155,14 @@
     link: 'https://pub.dartlang.org/packages/mustache'
     author:
         - 'Greg Lowe'
+-
+    package_name: charted
+    package_version: v0.2.1
+    title: 'v0.2.1 of charted'
+    published: '2015-04-22T06:39:39+00:00'
+    id: 'urn:uuid:e4477c61-99be-5ba9-9859-0e15422d46ce'
+    link: 'https://pub.dartlang.org/packages/charted'
+    author:
+        - 'Prasad Sunkari'
+        - 'Michael Cheng'
+        - 'Yan Qiao'
