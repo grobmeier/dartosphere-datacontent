@@ -20166,3 +20166,12 @@
         - 'Prasad Sunkari'
         - 'Michael Cheng'
         - 'Yan Qiao'
+-
+    package_name: rpc
+    package_version: v0.4.0
+    title: 'v0.4.0 of rpc'
+    published: '2015-04-22T08:09:41+00:00'
+    id: 'urn:uuid:007ad940-848b-546e-872e-5c0c0f2a5f5c'
+    link: 'https://pub.dartlang.org/packages/rpc'
+    author:
+        - 'Dart Team'
