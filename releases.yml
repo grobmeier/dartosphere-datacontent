@@ -20238,3 +20238,12 @@
     link: 'https://pub.dartlang.org/packages/test_reflective_loader'
     author:
         - 'Dart Team'
+-
+    package_name: coverage
+    package_version: v0.6.1
+    title: 'v0.6.1 of coverage'
+    published: '2015-04-22T23:34:42+00:00'
+    id: 'urn:uuid:90954e94-d832-55d7-bc2c-6195b61c3213'
+    link: 'https://pub.dartlang.org/packages/coverage'
+    author:
+        - 'Dart Team'
