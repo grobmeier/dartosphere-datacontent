@@ -20184,3 +20184,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_rpc'
     author:
         - 'Dart Team'
+-
+    package_name: console
+    package_version: v2.2.3
+    title: 'v2.2.3 of console'
+    published: '2015-04-22T12:49:41+00:00'
+    id: 'urn:uuid:807fde5d-c4df-519b-94a9-b424137e9a18'
+    link: 'https://pub.dartlang.org/packages/console'
+    author:
+        - 'Kenneth Endfinger'
