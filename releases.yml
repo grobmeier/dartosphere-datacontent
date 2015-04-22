@@ -20175,3 +20175,12 @@
     link: 'https://pub.dartlang.org/packages/rpc'
     author:
         - 'Dart Team'
+-
+    package_name: shelf_rpc
+    package_version: v0.0.3
+    title: 'v0.0.3 of shelf_rpc'
+    published: '2015-04-22T11:49:47+00:00'
+    id: 'urn:uuid:f60e7d54-9a59-5338-aa69-91f68a7fbeb1'
+    link: 'https://pub.dartlang.org/packages/shelf_rpc'
+    author:
+        - 'Dart Team'
