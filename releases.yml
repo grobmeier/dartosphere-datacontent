@@ -20202,3 +20202,12 @@
     link: 'https://pub.dartlang.org/packages/discoveryapis_generator'
     author:
         - 'Dart Team'
+-
+    package_name: rpc
+    package_version: v0.4.1
+    title: 'v0.4.1 of rpc'
+    published: '2015-04-22T16:09:42+00:00'
+    id: 'urn:uuid:6b3379b6-d84c-52c0-b1bb-924c22dba85c'
+    link: 'https://pub.dartlang.org/packages/rpc'
+    author:
+        - 'Dart Team'
