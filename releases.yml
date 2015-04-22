@@ -20229,3 +20229,12 @@
     link: 'https://pub.dartlang.org/packages/rethinkdb_driver'
     author:
         - 'William Welch'
+-
+    package_name: test_reflective_loader
+    package_version: v0.0.3
+    title: 'v0.0.3 of test_reflective_loader'
+    published: '2015-04-22T20:04:42+00:00'
+    id: 'urn:uuid:2569db3b-8e24-5d41-9333-5450bf106270'
+    link: 'https://pub.dartlang.org/packages/test_reflective_loader'
+    author:
+        - 'Dart Team'
