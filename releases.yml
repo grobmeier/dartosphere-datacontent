@@ -20146,3 +20146,12 @@
     link: 'https://pub.dartlang.org/packages/boarding'
     author:
         - 'Dzenan Ridjanovic'
+-
+    package_name: mustache
+    package_version: v0.2.2
+    title: 'v0.2.2 of mustache'
+    published: '2015-04-22T06:14:38+00:00'
+    id: 'urn:uuid:4759f283-25cc-5ccd-bf5e-36487435c528'
+    link: 'https://pub.dartlang.org/packages/mustache'
+    author:
+        - 'Greg Lowe'
