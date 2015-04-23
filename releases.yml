@@ -20301,3 +20301,12 @@
     link: 'https://pub.dartlang.org/packages/sitegen'
     author:
         - 'Mike Mitterer'
+-
+    package_name: analyzer
+    package_version: v0.25.0
+    title: 'v0.25.0 of analyzer'
+    published: '2015-04-23T15:49:40+00:00'
+    id: 'urn:uuid:ce020a92-fa49-5add-a3e3-18881e64cd48'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team'
