@@ -20274,3 +20274,12 @@
     link: 'https://pub.dartlang.org/packages/simple_feature_flags'
     author:
         - 'Ole Martin Gjersvik'
+-
+    package_name: discoveryapis_generator
+    package_version: v0.7.1+1
+    title: 'v0.7.1+1 of discoveryapis_generator'
+    published: '2015-04-23T11:24:43+00:00'
+    id: 'urn:uuid:cbfa01e7-79dd-5244-b7e6-1196d7b42be7'
+    link: 'https://pub.dartlang.org/packages/discoveryapis_generator'
+    author:
+        - 'Dart Team'
