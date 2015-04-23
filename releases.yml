@@ -20292,3 +20292,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_serve'
     author:
         - 'Rik Bellens'
+-
+    package_name: sitegen
+    package_version: v0.4.1
+    title: 'v0.4.1 of sitegen'
+    published: '2015-04-23T14:59:46+00:00'
+    id: 'urn:uuid:e5beac06-0ab9-564d-b8f2-7080884973ff'
+    link: 'https://pub.dartlang.org/packages/sitegen'
+    author:
+        - 'Mike Mitterer'
