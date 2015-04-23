@@ -20427,3 +20427,12 @@
     link: 'https://pub.dartlang.org/packages/astprinter'
     author:
         - 'George Kormaris'
+-
+    package_name: astprinter
+    package_version: v0.0.2+2
+    title: 'v0.0.2+2 of astprinter'
+    published: '2015-04-23T23:44:43+00:00'
+    id: 'urn:uuid:007748d9-ed24-59bc-b44d-086edbccc625'
+    link: 'https://pub.dartlang.org/packages/astprinter'
+    author:
+        - 'George Kormaris'
