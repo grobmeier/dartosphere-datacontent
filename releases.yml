@@ -20409,3 +20409,12 @@
     link: 'https://pub.dartlang.org/packages/source_gen'
     author:
         - 'Dart Team'
+-
+    package_name: analyzer
+    package_version: v0.25.0+1
+    title: 'v0.25.0+1 of analyzer'
+    published: '2015-04-23T20:34:43+00:00'
+    id: 'urn:uuid:8403f398-a364-5886-8b62-57a9ac409208'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team'
