@@ -20373,3 +20373,12 @@
     link: 'https://pub.dartlang.org/packages/build_tools'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: unsafe_extension
+    package_version: v0.0.16
+    title: 'v0.0.16 of unsafe_extension'
+    published: '2015-04-23T19:59:40+00:00'
+    id: 'urn:uuid:6c485375-daa9-5d9d-92c6-b07b86f8a568'
+    link: 'https://pub.dartlang.org/packages/unsafe_extension'
+    author:
+        - 'Andrew Mezoni'
