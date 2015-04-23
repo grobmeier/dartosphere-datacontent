@@ -20283,3 +20283,12 @@
     link: 'https://pub.dartlang.org/packages/discoveryapis_generator'
     author:
         - 'Dart Team'
+-
+    package_name: shelf_serve
+    package_version: v0.0.1
+    title: 'v0.0.1 of shelf_serve'
+    published: '2015-04-23T14:19:39+00:00'
+    id: 'urn:uuid:9c0045d8-9da3-56aa-b2b7-085531bb4b78'
+    link: 'https://pub.dartlang.org/packages/shelf_serve'
+    author:
+        - 'Rik Bellens'
