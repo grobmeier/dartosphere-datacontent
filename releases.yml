@@ -20418,3 +20418,12 @@
     link: 'https://pub.dartlang.org/packages/analyzer'
     author:
         - 'Dart Team'
+-
+    package_name: astprinter
+    package_version: v0.0.2+1
+    title: 'v0.0.2+1 of astprinter'
+    published: '2015-04-23T22:59:43+00:00'
+    id: 'urn:uuid:a3f53f8c-6e7e-5d67-9323-c51ebbb3f126'
+    link: 'https://pub.dartlang.org/packages/astprinter'
+    author:
+        - 'George Kormaris'
