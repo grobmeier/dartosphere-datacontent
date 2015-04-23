@@ -20382,3 +20382,12 @@
     link: 'https://pub.dartlang.org/packages/unsafe_extension'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: libffi6_extension
+    package_version: v0.0.3
+    title: 'v0.0.3 of libffi6_extension'
+    published: '2015-04-23T20:04:44+00:00'
+    id: 'urn:uuid:0acfea61-2514-5551-8b6a-226b1508042d'
+    link: 'https://pub.dartlang.org/packages/libffi6_extension'
+    author:
+        - 'Andrew Mezoni'
