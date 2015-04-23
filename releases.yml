@@ -20337,3 +20337,12 @@
     link: 'https://pub.dartlang.org/packages/binary_types'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: route_provider
+    package_version: v0.1.5
+    title: 'v0.1.5 of route_provider'
+    published: '2015-04-23T18:44:38+00:00'
+    id: 'urn:uuid:adbfaa50-45b6-54a2-9e45-8f7c4993bcec'
+    link: 'https://pub.dartlang.org/packages/route_provider'
+    author:
+        - 'Robert Beyer'
