@@ -20319,3 +20319,12 @@
     link: 'https://pub.dartlang.org/packages/route_provider'
     author:
         - 'Robert Beyer'
+-
+    package_name: libffi6_extension
+    package_version: v0.0.1
+    title: 'v0.0.1 of libffi6_extension'
+    published: '2015-04-23T17:49:43+00:00'
+    id: 'urn:uuid:57f48d2c-ece4-526c-8485-e07d014307d7'
+    link: 'https://pub.dartlang.org/packages/libffi6_extension'
+    author:
+        - 'Andrew Mezoni'
