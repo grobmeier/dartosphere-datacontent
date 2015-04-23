@@ -20256,3 +20256,12 @@
     link: 'https://pub.dartlang.org/packages/test'
     author:
         - 'Dart Team'
+-
+    package_name: dartdoc
+    package_version: v0.0.1+6
+    title: 'v0.0.1+6 of dartdoc'
+    published: '2015-04-23T03:59:38+00:00'
+    id: 'urn:uuid:8ef83581-3b02-50c7-97fa-d3f2b7d580c3'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team'
