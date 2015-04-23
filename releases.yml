@@ -20400,3 +20400,12 @@
     link: 'https://pub.dartlang.org/packages/dart_style'
     author:
         - 'Dart Team'
+-
+    package_name: source_gen
+    package_version: v0.4.0+1
+    title: 'v0.4.0+1 of source_gen'
+    published: '2015-04-23T20:24:41+00:00'
+    id: 'urn:uuid:d7c1d82d-3a4c-568b-87d6-ffb0ea3339d0'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team'
