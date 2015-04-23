@@ -20310,3 +20310,12 @@
     link: 'https://pub.dartlang.org/packages/analyzer'
     author:
         - 'Dart Team'
+-
+    package_name: route_provider
+    package_version: v0.1.4
+    title: 'v0.1.4 of route_provider'
+    published: '2015-04-23T17:14:47+00:00'
+    id: 'urn:uuid:7f7c9a5c-a157-56a7-8090-5b759f4e1237'
+    link: 'https://pub.dartlang.org/packages/route_provider'
+    author:
+        - 'Robert Beyer'
