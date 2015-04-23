@@ -20346,3 +20346,21 @@
     link: 'https://pub.dartlang.org/packages/route_provider'
     author:
         - 'Robert Beyer'
+-
+    package_name: libffi6_extension
+    package_version: v0.0.2
+    title: 'v0.0.2 of libffi6_extension'
+    published: '2015-04-23T19:04:41+00:00'
+    id: 'urn:uuid:2abce4e5-43aa-58eb-ae76-b488a48a2eb4'
+    link: 'https://pub.dartlang.org/packages/libffi6_extension'
+    author:
+        - 'Andrew Mezoni'
+-
+    package_name: unsafe_extension
+    package_version: v0.0.15
+    title: 'v0.0.15 of unsafe_extension'
+    published: '2015-04-23T19:04:41+00:00'
+    id: 'urn:uuid:d2ba8451-4358-5106-9be3-0ded7bc14a6b'
+    link: 'https://pub.dartlang.org/packages/unsafe_extension'
+    author:
+        - 'Andrew Mezoni'
