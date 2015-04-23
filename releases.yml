@@ -20328,3 +20328,12 @@
     link: 'https://pub.dartlang.org/packages/libffi6_extension'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_types
+    package_version: v0.0.51
+    title: 'v0.0.51 of binary_types'
+    published: '2015-04-23T17:54:43+00:00'
+    id: 'urn:uuid:11588749-360a-5667-a852-763487b1c7da'
+    link: 'https://pub.dartlang.org/packages/binary_types'
+    author:
+        - 'Andrew Mezoni'
