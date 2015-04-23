@@ -20265,3 +20265,12 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team'
+-
+    package_name: simple_feature_flags
+    package_version: v0.1.0
+    title: 'v0.1.0 of simple_feature_flags'
+    published: '2015-04-23T04:49:40+00:00'
+    id: 'urn:uuid:534b4bcc-6840-59fd-8dc4-203bf09a8ac0'
+    link: 'https://pub.dartlang.org/packages/simple_feature_flags'
+    author:
+        - 'Ole Martin Gjersvik'
