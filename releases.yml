@@ -20581,3 +20581,12 @@
     link: 'https://pub.dartlang.org/packages/syscall'
     author:
         - 'Kenneth Endfinger'
+-
+    package_name: libffi6_extension
+    package_version: v0.0.5
+    title: 'v0.0.5 of libffi6_extension'
+    published: '2015-04-24T15:59:41+00:00'
+    id: 'urn:uuid:38134b99-725d-5666-af99-c36d14a83d07'
+    link: 'https://pub.dartlang.org/packages/libffi6_extension'
+    author:
+        - 'Andrew Mezoni'
