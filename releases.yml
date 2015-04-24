@@ -20617,3 +20617,12 @@
     link: 'https://pub.dartlang.org/packages/tuneup'
     author:
         - 'Devon Carew'
+-
+    package_name: force
+    package_version: v0.6.3+4
+    title: 'v0.6.3+4 of force'
+    published: '2015-04-24T20:39:39+00:00'
+    id: 'urn:uuid:71807572-32f4-57f2-aeb8-c479fe48b85e'
+    link: 'https://pub.dartlang.org/packages/force'
+    author:
+        - 'Joris Hermans'
