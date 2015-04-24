@@ -20599,3 +20599,12 @@
     link: 'https://pub.dartlang.org/packages/web_components'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: dartling
+    package_version: v2.0.0
+    title: 'v2.0.0 of dartling'
+    published: '2015-04-24T19:19:38+00:00'
+    id: 'urn:uuid:8ec3ae0c-0249-5d63-83ab-d39e1a112651'
+    link: 'https://pub.dartlang.org/packages/dartling'
+    author:
+        - 'Dzenan Ridjanovic'
