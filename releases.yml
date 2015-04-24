@@ -20472,3 +20472,12 @@
     link: 'https://pub.dartlang.org/packages/libffi6_support'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: binary_interop
+    package_version: v0.0.31
+    title: 'v0.0.31 of binary_interop'
+    published: '2015-04-24T07:44:40+00:00'
+    id: 'urn:uuid:ca485c1a-8377-52a7-9f73-32d8a787c196'
+    link: 'https://pub.dartlang.org/packages/binary_interop'
+    author:
+        - 'Andrew Mezoni'
