@@ -20608,3 +20608,12 @@
     link: 'https://pub.dartlang.org/packages/dartling'
     author:
         - 'Dzenan Ridjanovic'
+-
+    package_name: tuneup
+    package_version: v0.0.5+5
+    title: 'v0.0.5+5 of tuneup'
+    published: '2015-04-24T19:59:40+00:00'
+    id: 'urn:uuid:448a652d-f157-5c39-9bae-9623d1d9feed'
+    link: 'https://pub.dartlang.org/packages/tuneup'
+    author:
+        - 'Devon Carew'
