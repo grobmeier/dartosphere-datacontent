@@ -20563,3 +20563,12 @@
     link: 'https://pub.dartlang.org/packages/aursir4dart'
     author:
         - 'Joern Weissenborn'
+-
+    package_name: unsafe_extension
+    package_version: v0.0.19
+    title: 'v0.0.19 of unsafe_extension'
+    published: '2015-04-24T15:39:44+00:00'
+    id: 'urn:uuid:7accaac6-bebb-590e-a670-23e1d1d0bb06'
+    link: 'https://pub.dartlang.org/packages/unsafe_extension'
+    author:
+        - 'Andrew Mezoni'
