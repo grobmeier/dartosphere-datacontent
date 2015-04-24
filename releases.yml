@@ -20626,3 +20626,12 @@
     link: 'https://pub.dartlang.org/packages/force'
     author:
         - 'Joris Hermans'
+-
+    package_name: unscripted
+    package_version: v0.6.1
+    title: 'v0.6.1 of unscripted'
+    published: '2015-04-24T20:59:45+00:00'
+    id: 'urn:uuid:476e2a11-ea5f-5c97-808e-476239dc888f'
+    link: 'https://pub.dartlang.org/packages/unscripted'
+    author:
+        - 'Sean Eagan'
