@@ -20463,3 +20463,12 @@
     link: 'https://pub.dartlang.org/packages/access'
     author:
         - 'Tom Yeh'
+-
+    package_name: libffi6_support
+    package_version: v0.0.1
+    title: 'v0.0.1 of libffi6_support'
+    published: '2015-04-24T07:39:42+00:00'
+    id: 'urn:uuid:9b2acb60-d38d-5454-be05-f3496da68d92'
+    link: 'https://pub.dartlang.org/packages/libffi6_support'
+    author:
+        - 'Andrew Mezoni'
