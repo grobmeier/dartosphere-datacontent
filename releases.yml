@@ -20454,3 +20454,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu_cpp'
     author:
         - 'Daniel Davidson'
+-
+    package_name: access
+    package_version: v0.5.7
+    title: 'v0.5.7 of access'
+    published: '2015-04-24T07:19:40+00:00'
+    id: 'urn:uuid:04bff334-545e-5c07-a513-2910f7b257b8'
+    link: 'https://pub.dartlang.org/packages/access'
+    author:
+        - 'Tom Yeh'
