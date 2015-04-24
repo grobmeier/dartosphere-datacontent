@@ -20545,3 +20545,12 @@
     author:
         - 'Seth Ladd'
         - 'Devon Carew'
+-
+    package_name: unsafe_extension
+    package_version: v0.0.18
+    title: 'v0.0.18 of unsafe_extension'
+    published: '2015-04-24T14:34:40+00:00'
+    id: 'urn:uuid:c29035eb-d9dc-57e2-92ad-70a349358e7f'
+    link: 'https://pub.dartlang.org/packages/unsafe_extension'
+    author:
+        - 'Andrew Mezoni'
