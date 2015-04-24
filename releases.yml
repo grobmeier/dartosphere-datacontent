@@ -20644,3 +20644,30 @@
     link: 'https://pub.dartlang.org/packages/test'
     author:
         - 'Dart Team'
+-
+    package_name: polymer
+    package_version: v0.16.2
+    title: 'v0.16.2 of polymer'
+    published: '2015-04-24T22:59:43+00:00'
+    id: 'urn:uuid:672f03f5-e855-5651-a6b4-386647df3832'
+    link: 'https://pub.dartlang.org/packages/polymer'
+    author:
+        - 'Polymer.dart Authors'
+-
+    package_name: web_components
+    package_version: v0.11.3+1
+    title: 'v0.11.3+1 of web_components'
+    published: '2015-04-24T22:59:43+00:00'
+    id: 'urn:uuid:291079a9-fd4a-5811-a73e-d0f6a48a1df0'
+    link: 'https://pub.dartlang.org/packages/web_components'
+    author:
+        - 'Polymer.dart Authors'
+-
+    package_name: initialize
+    package_version: v0.6.0+5
+    title: 'v0.6.0+5 of initialize'
+    published: '2015-04-24T22:59:43+00:00'
+    id: 'urn:uuid:3a07bd51-f210-53ff-9628-8d9c153501e3'
+    link: 'https://pub.dartlang.org/packages/initialize'
+    author:
+        - 'Polymer.dart Authors'
