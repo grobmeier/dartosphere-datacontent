@@ -20590,3 +20590,12 @@
     link: 'https://pub.dartlang.org/packages/libffi6_extension'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: web_components
+    package_version: v0.11.3
+    title: 'v0.11.3 of web_components'
+    published: '2015-04-24T16:49:44+00:00'
+    id: 'urn:uuid:dc5b5f5b-6fb1-58d9-825a-0a426ec987e9'
+    link: 'https://pub.dartlang.org/packages/web_components'
+    author:
+        - 'Polymer.dart Authors'
