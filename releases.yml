@@ -20517,3 +20517,12 @@
     link: 'https://pub.dartlang.org/packages/tuneup'
     author:
         - 'Devon Carew'
+-
+    package_name: unsafe_extension
+    package_version: v0.0.17
+    title: 'v0.0.17 of unsafe_extension'
+    published: '2015-04-24T12:59:37+00:00'
+    id: 'urn:uuid:527ca686-f2f3-5546-be28-b505702fdf44'
+    link: 'https://pub.dartlang.org/packages/unsafe_extension'
+    author:
+        - 'Andrew Mezoni'
