@@ -20490,3 +20490,12 @@
     link: 'https://pub.dartlang.org/packages/locking'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: build_tools
+    package_version: v0.0.15
+    title: 'v0.0.15 of build_tools'
+    published: '2015-04-24T12:49:39+00:00'
+    id: 'urn:uuid:24676d81-482a-5237-98d7-4756295cbd61'
+    link: 'https://pub.dartlang.org/packages/build_tools'
+    author:
+        - 'Andrew Mezoni'
