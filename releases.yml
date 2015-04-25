@@ -20784,3 +20784,12 @@
     author:
         - 'David Peek'
         - 'Tom Yeh'
+-
+    package_name: elements
+    package_version: v0.1.3
+    title: 'v0.1.3 of elements'
+    published: '2015-04-25T18:00:47+00:00'
+    id: 'urn:uuid:320eaddd-7ee9-5bc6-8234-080ab9256a46'
+    link: 'https://pub.dartlang.org/packages/elements'
+    author:
+        - 'Patrick Minogue'
