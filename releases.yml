@@ -20802,3 +20802,12 @@
     link: 'https://pub.dartlang.org/packages/binary_types'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: more
+    package_version: v1.3.7
+    title: 'v1.3.7 of more'
+    published: '2015-04-25T22:59:46+00:00'
+    id: 'urn:uuid:fe7ae13b-4c23-5f50-8a1e-0efd0f25b6d8'
+    link: 'https://pub.dartlang.org/packages/more'
+    author:
+        - 'Lukas Renggli'
