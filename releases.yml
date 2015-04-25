@@ -20793,3 +20793,12 @@
     link: 'https://pub.dartlang.org/packages/elements'
     author:
         - 'Patrick Minogue'
+-
+    package_name: binary_types
+    package_version: v0.0.52
+    title: 'v0.0.52 of binary_types'
+    published: '2015-04-25T20:59:55+00:00'
+    id: 'urn:uuid:da3a2fff-bf75-580c-87e7-e59c9c5ffa60'
+    link: 'https://pub.dartlang.org/packages/binary_types'
+    author:
+        - 'Andrew Mezoni'
