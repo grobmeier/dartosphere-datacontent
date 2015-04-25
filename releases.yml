@@ -20727,3 +20727,12 @@
     link: 'https://pub.dartlang.org/packages/jefe'
     author:
         - 'Anders Holmgren'
+-
+    package_name: jefe
+    package_version: v0.0.5+2
+    title: 'v0.0.5+2 of jefe'
+    published: '2015-04-25T08:59:44+00:00'
+    id: 'urn:uuid:091c1a55-9dcf-5200-b434-599cb80199fc'
+    link: 'https://pub.dartlang.org/packages/jefe'
+    author:
+        - 'Anders Holmgren'
