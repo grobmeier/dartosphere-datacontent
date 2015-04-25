@@ -20691,3 +20691,21 @@
         - 'Prasad Sunkari'
         - 'Michael Cheng'
         - 'Yan Qiao'
+-
+    package_name: jefe
+    package_version: v0.0.5
+    title: 'v0.0.5 of jefe'
+    published: '2015-04-25T06:59:40+00:00'
+    id: 'urn:uuid:915a7b62-7393-5884-8923-5756978654b9'
+    link: 'https://pub.dartlang.org/packages/jefe'
+    author:
+        - 'Anders Holmgren'
+-
+    package_name: binary_generator
+    package_version: v0.0.17
+    title: 'v0.0.17 of binary_generator'
+    published: '2015-04-25T06:59:40+00:00'
+    id: 'urn:uuid:0f1f07ec-3eaa-561e-90aa-a8ebc7092169'
+    link: 'https://pub.dartlang.org/packages/binary_generator'
+    author:
+        - 'Andrew Mezoni'
