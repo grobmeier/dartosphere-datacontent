@@ -20709,3 +20709,21 @@
     link: 'https://pub.dartlang.org/packages/binary_generator'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: targets
+    package_version: v0.7.5
+    title: 'v0.7.5 of targets'
+    published: '2015-04-25T07:59:44+00:00'
+    id: 'urn:uuid:2c67e880-bafd-5d82-99ba-efde52adc4b7'
+    link: 'https://pub.dartlang.org/packages/targets'
+    author:
+        - 'Jack Thakar'
+-
+    package_name: jefe
+    package_version: v0.0.5+1
+    title: 'v0.0.5+1 of jefe'
+    published: '2015-04-25T07:59:44+00:00'
+    id: 'urn:uuid:f2eb4437-b884-531d-81ff-624eb34ca5c9'
+    link: 'https://pub.dartlang.org/packages/jefe'
+    author:
+        - 'Anders Holmgren'
