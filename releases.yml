@@ -20671,3 +20671,23 @@
     link: 'https://pub.dartlang.org/packages/initialize'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: astprinter
+    package_version: v0.0.3
+    title: 'v0.0.3 of astprinter'
+    published: '2015-04-25T03:59:45+00:00'
+    id: 'urn:uuid:aaf4fa46-2993-57d4-a5e1-4ea45bdab192'
+    link: 'https://pub.dartlang.org/packages/astprinter'
+    author:
+        - 'George Kormaris'
+-
+    package_name: charted
+    package_version: v0.2.2
+    title: 'v0.2.2 of charted'
+    published: '2015-04-25T03:59:45+00:00'
+    id: 'urn:uuid:23328dff-dbda-5bea-9e76-7b887f1d6576'
+    link: 'https://pub.dartlang.org/packages/charted'
+    author:
+        - 'Prasad Sunkari'
+        - 'Michael Cheng'
+        - 'Yan Qiao'
