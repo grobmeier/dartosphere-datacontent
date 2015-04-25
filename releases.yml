@@ -20736,3 +20736,12 @@
     link: 'https://pub.dartlang.org/packages/jefe'
     author:
         - 'Anders Holmgren'
+-
+    package_name: more
+    package_version: v1.3.6
+    title: 'v1.3.6 of more'
+    published: '2015-04-25T12:59:46+00:00'
+    id: 'urn:uuid:cd405cc3-f3b0-584f-9b88-c27415463b34'
+    link: 'https://pub.dartlang.org/packages/more'
+    author:
+        - 'Lukas Renggli'
