@@ -20745,3 +20745,23 @@
     link: 'https://pub.dartlang.org/packages/more'
     author:
         - 'Lukas Renggli'
+-
+    package_name: access
+    package_version: v0.6.0
+    title: 'v0.6.0 of access'
+    published: '2015-04-25T15:59:41+00:00'
+    id: 'urn:uuid:4b0c0ade-cb69-59dd-b781-4bd921c2e322'
+    link: 'https://pub.dartlang.org/packages/access'
+    author:
+        - 'Tom Yeh'
+-
+    package_name: rikulo_commons
+    package_version: v2.0.0
+    title: 'v2.0.0 of rikulo_commons'
+    published: '2015-04-25T15:59:41+00:00'
+    id: 'urn:uuid:d4890552-f7a2-5444-9c78-b0cb8f15627e'
+    link: 'https://pub.dartlang.org/packages/rikulo_commons'
+    author:
+        - 'Tom Yeh'
+        - 'Henri Chen'
+        - 'Simon Pai'
