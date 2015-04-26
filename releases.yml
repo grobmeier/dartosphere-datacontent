@@ -20838,3 +20838,32 @@
     link: 'https://pub.dartlang.org/packages/mongo_fixtures'
     author:
         - 'Vladimir Shushkov'
+-
+    package_name: firebase
+    package_version: v0.5.1
+    title: 'v0.5.1 of firebase'
+    published: '2015-04-26T16:59:40+00:00'
+    id: 'urn:uuid:59840b05-bc9f-5032-b5bd-058b68aa52ad'
+    link: 'https://pub.dartlang.org/packages/firebase'
+    author:
+        - 'Anant Narayanan'
+        - 'Seth Ladd'
+        - 'Kevin Moore'
+-
+    package_name: shelf_buffer_request
+    package_version: v0.0.1
+    title: 'v0.0.1 of shelf_buffer_request'
+    published: '2015-04-26T16:59:40+00:00'
+    id: 'urn:uuid:bc4f685a-57ad-5078-a7c9-6d6e64acc9da'
+    link: 'https://pub.dartlang.org/packages/shelf_buffer_request'
+    author:
+        - 'Jonas Kello'
+-
+    package_name: shelf_history_api_fallback
+    package_version: v0.0.1
+    title: 'v0.0.1 of shelf_history_api_fallback'
+    published: '2015-04-26T16:59:40+00:00'
+    id: 'urn:uuid:26fc216e-e00a-53e5-b3d5-586392aa6c5a'
+    link: 'https://pub.dartlang.org/packages/shelf_history_api_fallback'
+    author:
+        - 'Jonas kello'
