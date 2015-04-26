@@ -20867,3 +20867,14 @@
     link: 'https://pub.dartlang.org/packages/shelf_history_api_fallback'
     author:
         - 'Jonas kello'
+-
+    package_name: chrome
+    package_version: v0.6.5
+    title: 'v0.6.5 of chrome'
+    published: '2015-04-26T20:59:45+00:00'
+    id: 'urn:uuid:52af6d21-3e2f-50e5-8c50-618d4c8d9314'
+    link: 'https://pub.dartlang.org/packages/chrome'
+    author:
+        - 'Devon Carew'
+        - 'Adam Singer'
+        - 'Kevin Moore'
