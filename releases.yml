@@ -20820,3 +20820,12 @@
     link: 'https://pub.dartlang.org/packages/timeago'
     author:
         - 'Andres Araujo'
+-
+    package_name: timezone
+    package_version: v0.3.1
+    title: 'v0.3.1 of timezone'
+    published: '2015-04-26T06:59:41+00:00'
+    id: 'urn:uuid:3fd3c608-7ffc-53ad-a059-916fc60d6fd2'
+    link: 'https://pub.dartlang.org/packages/timezone'
+    author:
+        - 'Boris Kaul'
