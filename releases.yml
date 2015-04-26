@@ -20829,3 +20829,12 @@
     link: 'https://pub.dartlang.org/packages/timezone'
     author:
         - 'Boris Kaul'
+-
+    package_name: mongo_fixtures
+    package_version: v0.0.5
+    title: 'v0.0.5 of mongo_fixtures'
+    published: '2015-04-26T15:59:41+00:00'
+    id: 'urn:uuid:8692d40b-87d2-5f47-8ffc-5d463725fb16'
+    link: 'https://pub.dartlang.org/packages/mongo_fixtures'
+    author:
+        - 'Vladimir Shushkov'
