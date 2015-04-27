@@ -20968,3 +20968,23 @@
     link: 'https://pub.dartlang.org/packages/locking'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: locking
+    package_version: v0.0.9
+    title: 'v0.0.9 of locking'
+    published: '2015-04-27T19:59:47+00:00'
+    id: 'urn:uuid:39c6711f-4449-52ec-a419-29afeb5ac9e7'
+    link: 'https://pub.dartlang.org/packages/locking'
+    author:
+        - 'Andrew Mezoni'
+-
+    package_name: charted
+    package_version: v0.2.3
+    title: 'v0.2.3 of charted'
+    published: '2015-04-27T19:59:47+00:00'
+    id: 'urn:uuid:8a5db159-dde1-5911-82a3-9d3557d47559'
+    link: 'https://pub.dartlang.org/packages/charted'
+    author:
+        - 'Prasad Sunkari'
+        - 'Michael Cheng'
+        - 'Yan Qiao'
