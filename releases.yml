@@ -20914,3 +20914,21 @@
     link: 'https://pub.dartlang.org/packages/libffi6_extension'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: astprinter
+    package_version: v0.0.4
+    title: 'v0.0.4 of astprinter'
+    published: '2015-04-27T12:59:45+00:00'
+    id: 'urn:uuid:c1417f6d-bb06-52ea-9325-411951b116e7'
+    link: 'https://pub.dartlang.org/packages/astprinter'
+    author:
+        - 'George Kormaris'
+-
+    package_name: locking
+    package_version: v0.0.5
+    title: 'v0.0.5 of locking'
+    published: '2015-04-27T12:59:45+00:00'
+    id: 'urn:uuid:55a84039-2566-511d-9e20-9defba0e3ee7'
+    link: 'https://pub.dartlang.org/packages/locking'
+    author:
+        - 'Andrew Mezoni'
