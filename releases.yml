@@ -20997,3 +20997,21 @@
     link: 'https://pub.dartlang.org/packages/persist'
     author:
         - 'James Ots'
+-
+    package_name: sky
+    package_version: v0.0.5+dart-summit-4
+    title: 'v0.0.5+dart-summit-4 of sky'
+    published: '2015-04-27T23:59:44+00:00'
+    id: 'urn:uuid:5f7becd2-55ea-53fc-bf46-2316f9fd8135'
+    link: 'https://pub.dartlang.org/packages/sky'
+    author:
+        - 'Chromium Authors'
+-
+    package_name: stack_trace
+    package_version: v1.3.2
+    title: 'v1.3.2 of stack_trace'
+    published: '2015-04-27T23:59:44+00:00'
+    id: 'urn:uuid:c6c4d514-e75a-5e4c-9cf3-4b573c6a1b2c'
+    link: 'https://pub.dartlang.org/packages/stack_trace'
+    author:
+        - 'Dart Team'
