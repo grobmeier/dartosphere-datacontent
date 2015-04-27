@@ -20950,3 +20950,21 @@
     link: 'https://pub.dartlang.org/packages/locking'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: intl
+    package_version: v0.12.2+1
+    title: 'v0.12.2+1 of intl'
+    published: '2015-04-27T17:59:47+00:00'
+    id: 'urn:uuid:8d562900-fb91-5ae8-8c13-6e111c85cdba'
+    link: 'https://pub.dartlang.org/packages/intl'
+    author:
+        - 'Dart Team'
+-
+    package_name: locking
+    package_version: v0.0.7
+    title: 'v0.0.7 of locking'
+    published: '2015-04-27T17:59:47+00:00'
+    id: 'urn:uuid:901a65c1-e961-54b7-98eb-45b5635d5893'
+    link: 'https://pub.dartlang.org/packages/locking'
+    author:
+        - 'Andrew Mezoni'
