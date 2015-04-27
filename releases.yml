@@ -20878,3 +20878,12 @@
         - 'Devon Carew'
         - 'Adam Singer'
         - 'Kevin Moore'
+-
+    package_name: timeago
+    package_version: v0.0.1+1
+    title: 'v0.0.1+1 of timeago'
+    published: '2015-04-27T02:59:44+00:00'
+    id: 'urn:uuid:894ec9c1-0baf-57c2-b594-876a8b25d44f'
+    link: 'https://pub.dartlang.org/packages/timeago'
+    author:
+        - 'Andres Araujo'
