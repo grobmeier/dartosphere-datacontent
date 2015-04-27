@@ -20905,3 +20905,12 @@
     link: 'https://pub.dartlang.org/packages/locking'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: libffi6_extension
+    package_version: v0.0.6
+    title: 'v0.0.6 of libffi6_extension'
+    published: '2015-04-27T11:59:45+00:00'
+    id: 'urn:uuid:760c9355-9923-5a65-aaea-59b32e187e8a'
+    link: 'https://pub.dartlang.org/packages/libffi6_extension'
+    author:
+        - 'Andrew Mezoni'
