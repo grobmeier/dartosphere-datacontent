@@ -20896,3 +20896,12 @@
     link: 'https://pub.dartlang.org/packages/timeago'
     author:
         - 'Andres Araujo'
+-
+    package_name: locking
+    package_version: v0.0.4
+    title: 'v0.0.4 of locking'
+    published: '2015-04-27T10:59:40+00:00'
+    id: 'urn:uuid:3b12c1db-40ed-5959-b053-7a80ad832eec'
+    link: 'https://pub.dartlang.org/packages/locking'
+    author:
+        - 'Andrew Mezoni'
