@@ -20887,3 +20887,12 @@
     link: 'https://pub.dartlang.org/packages/timeago'
     author:
         - 'Andres Araujo'
+-
+    package_name: timeago
+    package_version: v0.1.0
+    title: 'v0.1.0 of timeago'
+    published: '2015-04-27T03:59:52+00:00'
+    id: 'urn:uuid:0ae0b006-cc2e-528f-be72-adee1bfc8a95'
+    link: 'https://pub.dartlang.org/packages/timeago'
+    author:
+        - 'Andres Araujo'
