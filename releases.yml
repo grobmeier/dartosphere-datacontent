@@ -20988,3 +20988,12 @@
         - 'Prasad Sunkari'
         - 'Michael Cheng'
         - 'Yan Qiao'
+-
+    package_name: persist
+    package_version: v0.0.4
+    title: 'v0.0.4 of persist'
+    published: '2015-04-27T22:59:45+00:00'
+    id: 'urn:uuid:51274b50-e1d0-515a-b011-f9e662688cb6'
+    link: 'https://pub.dartlang.org/packages/persist'
+    author:
+        - 'James Ots'
