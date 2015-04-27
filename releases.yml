@@ -20932,3 +20932,12 @@
     link: 'https://pub.dartlang.org/packages/locking'
     author:
         - 'Andrew Mezoni'
+-
+    package_name: timeago
+    package_version: v0.1.1
+    title: 'v0.1.1 of timeago'
+    published: '2015-04-27T15:59:46+00:00'
+    id: 'urn:uuid:479cbd21-ac18-55b0-bb18-4b3f17668c34'
+    link: 'https://pub.dartlang.org/packages/timeago'
+    author:
+        - 'Andres Araujo'
