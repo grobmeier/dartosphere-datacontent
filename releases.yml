@@ -21104,3 +21104,60 @@
     author:
         - 'Seth Ladd'
         - 'Devon Carew'
+-
+    package_name: angular2_benchmarks
+    package_version: v2.0.0-alpha.21
+    title: 'v2.0.0-alpha.21 of angular2_benchmarks'
+    published: '2015-04-28T19:59:45+00:00'
+    id: 'urn:uuid:eafe75b6-5b61-561d-a7d3-0894b488fde7'
+    link: 'https://pub.dartlang.org/packages/angular2_benchmarks'
+    author:
+        - 'Alex Eagle'
+        - 'Chirayu Krishnappa'
+        - 'Jeff Cross'
+        - 'Misko Hevery'
+        - 'Rado Kirov'
+        - 'Tobias Bosch'
+        - 'Victor Savkin'
+        - 'Yegor Jbanov'
+-
+    package_name: benchpress
+    package_version: v2.0.0-alpha.21
+    title: 'v2.0.0-alpha.21 of benchpress'
+    published: '2015-04-28T19:59:45+00:00'
+    id: 'urn:uuid:2f104aea-3cf2-54c9-9326-6c07e3b6548a'
+    link: 'https://pub.dartlang.org/packages/benchpress'
+    author:
+        - 'Alex Eagle'
+        - 'Chirayu Krishnappa'
+        - 'Jeff Cross'
+        - 'Misko Hevery'
+        - 'Rado Kirov'
+        - 'Tobias Bosch'
+        - 'Victor Savkin'
+        - 'Yegor Jbanov'
+-
+    package_name: angular2
+    package_version: v2.0.0-alpha.21
+    title: 'v2.0.0-alpha.21 of angular2'
+    published: '2015-04-28T19:59:45+00:00'
+    id: 'urn:uuid:cacbd049-f237-5b93-9899-ae4ddd6f0c7a'
+    link: 'https://pub.dartlang.org/packages/angular2'
+    author:
+        - 'Alex Eagle'
+        - 'Chirayu Krishnappa'
+        - 'Jeff Cross'
+        - 'Misko Hevery'
+        - 'Rado Kirov'
+        - 'Tobias Bosch'
+        - 'Victor Savkin'
+        - 'Yegor Jbanov'
+-
+    package_name: sky
+    package_version: v0.0.5+dart-summit-7
+    title: 'v0.0.5+dart-summit-7 of sky'
+    published: '2015-04-28T19:59:45+00:00'
+    id: 'urn:uuid:707d3824-cfa0-5b6a-bcb6-165058567b77'
+    link: 'https://pub.dartlang.org/packages/sky'
+    author:
+        - 'Chromium Authors'
