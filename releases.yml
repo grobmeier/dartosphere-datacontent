@@ -21031,3 +21031,12 @@
         - 'Paul Rohde'
         - 'Victor Berchet'
         - 'Rado Kirov'
+-
+    package_name: rpi_gpio
+    package_version: v0.1.0
+    title: 'v0.1.0 of rpi_gpio'
+    published: '2015-04-28T05:59:45+00:00'
+    id: 'urn:uuid:ac33110c-66fa-59b4-815a-7aa2ff0550a4'
+    link: 'https://pub.dartlang.org/packages/rpi_gpio'
+    author:
+        - 'Dan Rubel'
