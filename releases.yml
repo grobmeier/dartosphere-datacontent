@@ -21040,3 +21040,12 @@
     link: 'https://pub.dartlang.org/packages/rpi_gpio'
     author:
         - 'Dan Rubel'
+-
+    package_name: redstone_mvc
+    package_version: v0.0.1
+    title: 'v0.0.1 of redstone_mvc'
+    published: '2015-04-28T06:59:50+00:00'
+    id: 'urn:uuid:a4fca05c-6046-580e-97ee-4d1b751a8cea'
+    link: 'https://pub.dartlang.org/packages/redstone_mvc'
+    author:
+        - 'Cristian Garcia'
