@@ -21076,3 +21076,31 @@
     link: 'https://pub.dartlang.org/packages/resource_embedder'
     author:
         - 'Alexandre Ardhuin'
+-
+    package_name: sky
+    package_version: v0.0.5+dart-summit-6
+    title: 'v0.0.5+dart-summit-6 of sky'
+    published: '2015-04-28T18:59:44+00:00'
+    id: 'urn:uuid:63d3cdfd-9f64-594c-a35b-24b1e434749a'
+    link: 'https://pub.dartlang.org/packages/sky'
+    author:
+        - 'Chromium Authors'
+-
+    package_name: polymer_highcharts
+    package_version: v0.2.1+7
+    title: 'v0.2.1+7 of polymer_highcharts'
+    published: '2015-04-28T18:59:44+00:00'
+    id: 'urn:uuid:9ba6be4e-09d6-5d4c-898f-34a6c8e4fa59'
+    link: 'https://pub.dartlang.org/packages/polymer_highcharts'
+    author:
+        - 'Gonzalo Pezzi'
+-
+    package_name: stagehand
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of stagehand'
+    published: '2015-04-28T18:59:44+00:00'
+    id: 'urn:uuid:68595165-7fc8-5937-b1df-24e5d1726e0c'
+    link: 'https://pub.dartlang.org/packages/stagehand'
+    author:
+        - 'Seth Ladd'
+        - 'Devon Carew'
