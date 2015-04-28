@@ -21161,3 +21161,12 @@
     link: 'https://pub.dartlang.org/packages/sky'
     author:
         - 'Chromium Authors'
+-
+    package_name: force_elements
+    package_version: v0.0.3
+    title: 'v0.0.3 of force_elements'
+    published: '2015-04-28T20:59:53+00:00'
+    id: 'urn:uuid:3026ecbf-6818-523f-a4eb-2dd2bd40bd8f'
+    link: 'https://pub.dartlang.org/packages/force_elements'
+    author:
+        - 'Joris Hermans'
