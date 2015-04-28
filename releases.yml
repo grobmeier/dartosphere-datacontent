@@ -21015,3 +21015,19 @@
     link: 'https://pub.dartlang.org/packages/stack_trace'
     author:
         - 'Dart Team'
+-
+    package_name: angular
+    package_version: v1.1.2
+    title: 'v1.1.2 of angular'
+    published: '2015-04-28T01:59:45+00:00'
+    id: 'urn:uuid:fa556975-e0eb-5621-8aa8-7c659e683876'
+    link: 'https://pub.dartlang.org/packages/angular'
+    author:
+        - 'Misko Hevery'
+        - 'Pavel Jbanov'
+        - 'James deBoer'
+        - 'Chirayu Krishnappa'
+        - 'Matias Niemela'
+        - 'Paul Rohde'
+        - 'Victor Berchet'
+        - 'Rado Kirov'
