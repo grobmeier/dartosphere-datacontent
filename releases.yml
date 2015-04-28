@@ -21058,3 +21058,21 @@
     link: 'https://pub.dartlang.org/packages/stream'
     author:
         - 'Tom Yeh'
+-
+    package_name: redstone_mvc
+    package_version: v0.0.2
+    title: 'v0.0.2 of redstone_mvc'
+    published: '2015-04-28T15:59:40+00:00'
+    id: 'urn:uuid:1a4177e7-6539-57f5-ba1e-85c18b370b7a'
+    link: 'https://pub.dartlang.org/packages/redstone_mvc'
+    author:
+        - 'Cristian Garcia'
+-
+    package_name: resource_embedder
+    package_version: v0.0.1
+    title: 'v0.0.1 of resource_embedder'
+    published: '2015-04-28T15:59:40+00:00'
+    id: 'urn:uuid:e9829d0b-7bdf-5234-b64b-c13f3f312e02'
+    link: 'https://pub.dartlang.org/packages/resource_embedder'
+    author:
+        - 'Alexandre Ardhuin'
