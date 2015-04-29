@@ -21224,3 +21224,12 @@
     link: 'https://pub.dartlang.org/packages/elements'
     author:
         - 'Patrick Minogue'
+-
+    package_name: superlu
+    package_version: v0.1.0
+    title: 'v0.1.0 of superlu'
+    published: '2015-04-29T17:59:47+00:00'
+    id: 'urn:uuid:7689eb34-2e6e-5caf-aa40-aaf4f2c6f1fc'
+    link: 'https://pub.dartlang.org/packages/superlu'
+    author:
+        - 'Richard Lincoln'
