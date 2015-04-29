@@ -21281,3 +21281,30 @@
     link: 'https://pub.dartlang.org/packages/redstone_mvc'
     author:
         - 'Cristian Garcia'
+-
+    package_name: source_map_stack_trace
+    package_version: v1.0.1
+    title: 'v1.0.1 of source_map_stack_trace'
+    published: '2015-04-29T20:59:56+00:00'
+    id: 'urn:uuid:55378d7c-02ec-5b94-b742-fb65991dc7f9'
+    link: 'https://pub.dartlang.org/packages/source_map_stack_trace'
+    author:
+        - 'Dart Team'
+-
+    package_name: mock
+    package_version: v0.11.0+3
+    title: 'v0.11.0+3 of mock'
+    published: '2015-04-29T20:59:56+00:00'
+    id: 'urn:uuid:90171219-049b-587c-ad91-430a28ab9eaf'
+    link: 'https://pub.dartlang.org/packages/mock'
+    author:
+        - 'Dart Team'
+-
+    package_name: md_proc
+    package_version: v0.4.0
+    title: 'v0.4.0 of md_proc'
+    published: '2015-04-29T20:59:56+00:00'
+    id: 'urn:uuid:e4595923-e300-5f51-922a-76c6300746e3'
+    link: 'https://pub.dartlang.org/packages/md_proc'
+    author:
+        - 'Maxim Dikun'
