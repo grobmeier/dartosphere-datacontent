@@ -21206,3 +21206,12 @@
     link: 'https://pub.dartlang.org/packages/dartling'
     author:
         - 'Dzenan Ridjanovic'
+-
+    package_name: boarding
+    package_version: v0.3.1
+    title: 'v0.3.1 of boarding'
+    published: '2015-04-29T14:59:44+00:00'
+    id: 'urn:uuid:986f9f9f-f4a1-5366-8f6b-6143992e624f'
+    link: 'https://pub.dartlang.org/packages/boarding'
+    author:
+        - 'Dzenan Ridjanovic'
