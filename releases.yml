@@ -21308,3 +21308,12 @@
     link: 'https://pub.dartlang.org/packages/md_proc'
     author:
         - 'Maxim Dikun'
+-
+    package_name: source_map_stack_trace
+    package_version: v1.0.2
+    title: 'v1.0.2 of source_map_stack_trace'
+    published: '2015-04-29T22:59:41+00:00'
+    id: 'urn:uuid:37bdd56b-ae37-571f-ab9d-ec91587aa58b'
+    link: 'https://pub.dartlang.org/packages/source_map_stack_trace'
+    author:
+        - 'Dart Team'
