@@ -21215,3 +21215,12 @@
     link: 'https://pub.dartlang.org/packages/boarding'
     author:
         - 'Dzenan Ridjanovic'
+-
+    package_name: elements
+    package_version: v0.1.4
+    title: 'v0.1.4 of elements'
+    published: '2015-04-29T16:59:47+00:00'
+    id: 'urn:uuid:8aff615a-6afd-5e56-ac97-7a4f73e20d56'
+    link: 'https://pub.dartlang.org/packages/elements'
+    author:
+        - 'Patrick Minogue'
