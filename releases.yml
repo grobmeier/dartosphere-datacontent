@@ -21380,3 +21380,12 @@
     link: 'https://pub.dartlang.org/packages/oracledart'
     author:
         - 'Alexander Aprelev'
+-
+    package_name: tuneup
+    package_version: v0.0.5+6
+    title: 'v0.0.5+6 of tuneup'
+    published: '2015-04-30T08:59:49+00:00'
+    id: 'urn:uuid:9ff68e2d-3373-5e82-a987-2577c428cf31'
+    link: 'https://pub.dartlang.org/packages/tuneup'
+    author:
+        - 'Devon Carew'
