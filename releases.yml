@@ -21454,3 +21454,30 @@
     link: 'https://pub.dartlang.org/packages/code_transformers'
     author:
         - 'Dart Team'
+-
+    package_name: electron
+    package_version: v0.0.2
+    title: 'v0.0.2 of electron'
+    published: '2015-04-30T17:59:42+00:00'
+    id: 'urn:uuid:316f674e-7c8a-5ae8-8837-5e9cddbeec8a'
+    link: 'https://pub.dartlang.org/packages/electron'
+    author:
+        - 'Richard Lincoln'
+-
+    package_name: sync_webdriver
+    package_version: v1.2.2
+    title: 'v1.2.2 of sync_webdriver'
+    published: '2015-04-30T17:59:42+00:00'
+    id: 'urn:uuid:900f9af1-3886-50c3-9081-5110bce4e511'
+    link: 'https://pub.dartlang.org/packages/sync_webdriver'
+    author:
+        - 'Google, Inc.'
+-
+    package_name: sync_socket
+    package_version: v1.0.2
+    title: 'v1.0.2 of sync_socket'
+    published: '2015-04-30T17:59:43+00:00'
+    id: 'urn:uuid:79b7f873-3060-5c96-b468-37d56ac0c542'
+    link: 'https://pub.dartlang.org/packages/sync_socket'
+    author:
+        - 'Google Inc.'
