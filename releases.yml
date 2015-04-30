@@ -21499,3 +21499,12 @@
     link: 'https://pub.dartlang.org/packages/polymer'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: redstone_mvc
+    package_version: v0.0.32
+    title: 'v0.0.32 of redstone_mvc'
+    published: '2015-04-30T23:59:46+00:00'
+    id: 'urn:uuid:48cc27c9-4339-55bc-969d-e12f5e5e8bfd'
+    link: 'https://pub.dartlang.org/packages/redstone_mvc'
+    author:
+        - 'Cristian Garcia'
