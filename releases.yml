@@ -21490,3 +21490,12 @@
     link: 'https://pub.dartlang.org/packages/iris'
     author:
         - 'Matias Meno'
+-
+    package_name: polymer
+    package_version: v0.16.3+1
+    title: 'v0.16.3+1 of polymer'
+    published: '2015-04-30T21:59:59+00:00'
+    id: 'urn:uuid:c022fb09-53e8-5901-a8b0-5ecd0a792a07'
+    link: 'https://pub.dartlang.org/packages/polymer'
+    author:
+        - 'Polymer.dart Authors'
