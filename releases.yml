@@ -21481,3 +21481,12 @@
     link: 'https://pub.dartlang.org/packages/sync_socket'
     author:
         - 'Google Inc.'
+-
+    package_name: iris
+    package_version: v0.10.0
+    title: 'v0.10.0 of iris'
+    published: '2015-04-30T18:59:47+00:00'
+    id: 'urn:uuid:29dba3e9-0859-55e4-ac84-ab22cc426f66'
+    link: 'https://pub.dartlang.org/packages/iris'
+    author:
+        - 'Matias Meno'
