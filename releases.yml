@@ -21389,3 +21389,14 @@
     link: 'https://pub.dartlang.org/packages/tuneup'
     author:
         - 'Devon Carew'
+-
+    package_name: rikulo_commons
+    package_version: v2.0.1
+    title: 'v2.0.1 of rikulo_commons'
+    published: '2015-04-30T09:59:41+00:00'
+    id: 'urn:uuid:f7899156-63e9-5bba-a387-fff917f5aabb'
+    link: 'https://pub.dartlang.org/packages/rikulo_commons'
+    author:
+        - 'Tom Yeh'
+        - 'Henri Chen'
+        - 'Simon Pai'
