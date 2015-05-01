@@ -21508,3 +21508,21 @@
     link: 'https://pub.dartlang.org/packages/redstone_mvc'
     author:
         - 'Cristian Garcia'
+-
+    package_name: slickdart
+    package_version: v0.1.1+4
+    title: 'v0.1.1+4 of slickdart'
+    published: '2015-05-01T07:59:40+00:00'
+    id: 'urn:uuid:6702f82c-37f6-59a3-b9db-4d202d81cb38'
+    link: 'https://pub.dartlang.org/packages/slickdart'
+    author:
+        - CJKAO
+-
+    package_name: inflection
+    package_version: v0.4.1
+    title: 'v0.4.1 of inflection'
+    published: '2015-05-01T07:59:40+00:00'
+    id: 'urn:uuid:d06ee2e2-9a0b-5e28-8540-44ba30eddebf'
+    link: 'https://pub.dartlang.org/packages/inflection'
+    author:
+        - 'George Moschovitis'
