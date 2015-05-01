@@ -21580,3 +21580,12 @@
     link: 'https://pub.dartlang.org/packages/state'
     author:
         - 'Emil Persson'
+-
+    package_name: money
+    package_version: v0.1.0+1
+    title: 'v0.1.0+1 of money'
+    published: '2015-05-01T15:59:46+00:00'
+    id: 'urn:uuid:27a90f1c-d65f-5a5a-98a2-413ae3e80093'
+    link: 'https://pub.dartlang.org/packages/money'
+    author:
+        - 'Roman Shamritskiy'
