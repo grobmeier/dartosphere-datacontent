@@ -21589,3 +21589,12 @@
     link: 'https://pub.dartlang.org/packages/money'
     author:
         - 'Roman Shamritskiy'
+-
+    package_name: sync_socket
+    package_version: v1.0.2+1
+    title: 'v1.0.2+1 of sync_socket'
+    published: '2015-05-01T17:59:45+00:00'
+    id: 'urn:uuid:fbcfce83-72bd-5da0-a33b-38fd694acbff'
+    link: 'https://pub.dartlang.org/packages/sync_socket'
+    author:
+        - 'Marc Fisher II'
