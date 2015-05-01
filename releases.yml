@@ -21598,3 +21598,12 @@
     link: 'https://pub.dartlang.org/packages/sync_socket'
     author:
         - 'Marc Fisher II'
+-
+    package_name: sync_webdriver
+    package_version: v1.2.2+1
+    title: 'v1.2.2+1 of sync_webdriver'
+    published: '2015-05-01T18:59:48+00:00'
+    id: 'urn:uuid:2c2cc087-09b8-561a-a324-71cb848e929c'
+    link: 'https://pub.dartlang.org/packages/sync_webdriver'
+    author:
+        - 'Marc Fisher II'
