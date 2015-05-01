@@ -21634,3 +21634,12 @@
     link: 'https://pub.dartlang.org/packages/comid'
     author:
         - 'Comid Authors'
+-
+    package_name: comid
+    package_version: v0.0.3+5.2.1
+    title: 'v0.0.3+5.2.1 of comid'
+    published: '2015-05-01T23:59:41+00:00'
+    id: 'urn:uuid:94107abc-6a28-5f05-8e76-13a43edc9a16'
+    link: 'https://pub.dartlang.org/packages/comid'
+    author:
+        - 'Comid Authors'
