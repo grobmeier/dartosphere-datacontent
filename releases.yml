@@ -21526,3 +21526,12 @@
     link: 'https://pub.dartlang.org/packages/inflection'
     author:
         - 'George Moschovitis'
+-
+    package_name: state
+    package_version: v1.0.1
+    title: 'v1.0.1 of state'
+    published: '2015-05-01T10:59:43+00:00'
+    id: 'urn:uuid:489cd2d6-816a-540c-ba5d-ebd2bdf3e97a'
+    link: 'https://pub.dartlang.org/packages/state'
+    author:
+        - 'Emil Persson'
