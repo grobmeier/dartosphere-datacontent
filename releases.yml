@@ -21607,3 +21607,12 @@
     link: 'https://pub.dartlang.org/packages/sync_webdriver'
     author:
         - 'Marc Fisher II'
+-
+    package_name: compiler_unsupported
+    package_version: v1.10.0
+    title: 'v1.10.0 of compiler_unsupported'
+    published: '2015-05-01T20:59:52+00:00'
+    id: 'urn:uuid:b990d9cb-0a16-54d8-b51b-092503fbad79'
+    link: 'https://pub.dartlang.org/packages/compiler_unsupported'
+    author:
+        - 'Dart2js Team'
