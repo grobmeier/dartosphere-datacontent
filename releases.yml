@@ -21616,3 +21616,21 @@
     link: 'https://pub.dartlang.org/packages/compiler_unsupported'
     author:
         - 'Dart2js Team'
+-
+    package_name: state
+    package_version: v1.0.3
+    title: 'v1.0.3 of state'
+    published: '2015-05-01T22:59:44+00:00'
+    id: 'urn:uuid:4f82abeb-1a4e-5a7d-b833-d4bd23d00ff5'
+    link: 'https://pub.dartlang.org/packages/state'
+    author:
+        - 'Emil Persson'
+-
+    package_name: comid
+    package_version: v0.0.2
+    title: 'v0.0.2 of comid'
+    published: '2015-05-01T22:59:44+00:00'
+    id: 'urn:uuid:f5006985-0426-5b18-97d2-496f7e9536dd'
+    link: 'https://pub.dartlang.org/packages/comid'
+    author:
+        - 'Comid Authors'
