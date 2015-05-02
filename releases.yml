@@ -21688,3 +21688,15 @@
     link: 'https://pub.dartlang.org/packages/cargo'
     author:
         - 'Joris Hermans'
+-
+    package_name: mongo_dart
+    package_version: v0.1.47
+    title: 'v0.1.47 of mongo_dart'
+    published: '2015-05-02T19:59:49+00:00'
+    id: 'urn:uuid:f1a03327-c28e-52bf-8b01-4592d03f53fd'
+    link: 'https://pub.dartlang.org/packages/mongo_dart'
+    author:
+        - 'Vadim Tsushko'
+        - 'Ted Sander'
+        - 'Paul Evans'
+        - 'Stéphane Este-Gracias'
