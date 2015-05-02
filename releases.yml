@@ -21643,3 +21643,21 @@
     link: 'https://pub.dartlang.org/packages/comid'
     author:
         - 'Comid Authors'
+-
+    package_name: managed_mongo
+    package_version: v1.1.4
+    title: 'v1.1.4 of managed_mongo'
+    published: '2015-05-02T05:59:44+00:00'
+    id: 'urn:uuid:f17f9153-3be3-5aba-b019-2e7cf256792b'
+    link: 'https://pub.dartlang.org/packages/managed_mongo'
+    author:
+        - 'Jim Simon'
+-
+    package_name: dart_commons
+    package_version: v1.0.2
+    title: 'v1.0.2 of dart_commons'
+    published: '2015-05-02T05:59:44+00:00'
+    id: 'urn:uuid:14ba5c36-0eb1-585e-9cfa-c4e809e60088'
+    link: 'https://pub.dartlang.org/packages/dart_commons'
+    author:
+        - 'Jim Simon'
