@@ -21661,3 +21661,12 @@
     link: 'https://pub.dartlang.org/packages/dart_commons'
     author:
         - 'Jim Simon'
+-
+    package_name: pipeline
+    package_version: v1.0.0
+    title: 'v1.0.0 of pipeline'
+    published: '2015-05-02T10:59:45+00:00'
+    id: 'urn:uuid:d8a30d8d-e63d-522e-8797-a2f273d59a95'
+    link: 'https://pub.dartlang.org/packages/pipeline'
+    author:
+        - 'Emil Persson'
