@@ -21817,3 +21817,12 @@
     link: 'https://pub.dartlang.org/packages/event_bus'
     author:
         - 'Marco Jakob'
+-
+    package_name: redstone_utilities
+    package_version: v0.0.11
+    title: 'v0.0.11 of redstone_utilities'
+    published: '2015-05-03T23:59:47+00:00'
+    id: 'urn:uuid:1963f0d9-33d3-5b7d-bcd6-877c66d4a8f6'
+    link: 'https://pub.dartlang.org/packages/redstone_utilities'
+    author:
+        - 'Cristian Garcia'
