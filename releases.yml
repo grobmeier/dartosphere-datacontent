@@ -21700,3 +21700,21 @@
         - 'Ted Sander'
         - 'Paul Evans'
         - 'Stéphane Este-Gracias'
+-
+    package_name: ebisu_cpp
+    package_version: v0.1.1
+    title: 'v0.1.1 of ebisu_cpp'
+    published: '2015-05-03T02:59:46+00:00'
+    id: 'urn:uuid:977dca59-a216-592e-b95c-a09baa64fe2f'
+    link: 'https://pub.dartlang.org/packages/ebisu_cpp'
+    author:
+        - 'Daniel Davidson'
+-
+    package_name: ebisu
+    package_version: v0.3.6
+    title: 'v0.3.6 of ebisu'
+    published: '2015-05-03T02:59:46+00:00'
+    id: 'urn:uuid:4a0b3654-c75c-593d-92f1-e5f1964027a3'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson'
