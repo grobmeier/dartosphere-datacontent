@@ -21754,3 +21754,30 @@
     link: 'https://pub.dartlang.org/packages/route_provider'
     author:
         - 'Robert Beyer'
+-
+    package_name: uix_shortcuts
+    package_version: v0.0.1
+    title: 'v0.0.1 of uix_shortcuts'
+    published: '2015-05-03T17:59:46+00:00'
+    id: 'urn:uuid:d2d8090e-ed08-5c6c-aa3d-335540b05e88'
+    link: 'https://pub.dartlang.org/packages/uix_shortcuts'
+    author:
+        - 'Cristian Garcia'
+-
+    package_name: react
+    package_version: v0.6.2
+    title: 'v0.6.2 of react'
+    published: '2015-05-03T17:59:46+00:00'
+    id: 'urn:uuid:ab4a8633-f9af-55ab-ab55-4969945bf2a8'
+    link: 'https://pub.dartlang.org/packages/react'
+    author:
+        - 'Clean Team'
+-
+    package_name: redstone_mvc
+    package_version: v0.0.33
+    title: 'v0.0.33 of redstone_mvc'
+    published: '2015-05-03T17:59:46+00:00'
+    id: 'urn:uuid:0dbbbc1d-d65f-5916-8099-9a13bc12b8a1'
+    link: 'https://pub.dartlang.org/packages/redstone_mvc'
+    author:
+        - 'Cristian Garcia'
