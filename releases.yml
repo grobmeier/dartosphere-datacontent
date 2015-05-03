@@ -21745,3 +21745,12 @@
     link: 'https://pub.dartlang.org/packages/route_provider'
     author:
         - 'Robert Beyer'
+-
+    package_name: route_provider
+    package_version: v0.1.9
+    title: 'v0.1.9 of route_provider'
+    published: '2015-05-03T16:59:49+00:00'
+    id: 'urn:uuid:4f5cae27-36ae-5847-9be4-c714ff89dfbb'
+    link: 'https://pub.dartlang.org/packages/route_provider'
+    author:
+        - 'Robert Beyer'
