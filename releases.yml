@@ -21781,3 +21781,39 @@
     link: 'https://pub.dartlang.org/packages/redstone_mvc'
     author:
         - 'Cristian Garcia'
+-
+    package_name: fbx
+    package_version: v0.0.2
+    title: 'v0.0.2 of fbx'
+    published: '2015-05-03T18:59:42+00:00'
+    id: 'urn:uuid:a033e511-ae81-556a-b2f1-63eed1c38183'
+    link: 'https://pub.dartlang.org/packages/fbx'
+    author:
+        - 'Brendan Duncan'
+-
+    package_name: shelf_redis_session_store
+    package_version: v0.0.1
+    title: 'v0.0.1 of shelf_redis_session_store'
+    published: '2015-05-03T18:59:42+00:00'
+    id: 'urn:uuid:cc76d7ba-4f33-5028-b9f6-1b8dadcb34e8'
+    link: 'https://pub.dartlang.org/packages/shelf_redis_session_store'
+    author:
+        - takyam
+-
+    package_name: uix_shortcuts
+    package_version: v0.0.13
+    title: 'v0.0.13 of uix_shortcuts'
+    published: '2015-05-03T18:59:42+00:00'
+    id: 'urn:uuid:227c14f7-3205-5088-a901-0703a9c1c9ed'
+    link: 'https://pub.dartlang.org/packages/uix_shortcuts'
+    author:
+        - 'Cristian Garcia'
+-
+    package_name: event_bus
+    package_version: v0.4.0
+    title: 'v0.4.0 of event_bus'
+    published: '2015-05-03T18:59:42+00:00'
+    id: 'urn:uuid:f65fe305-e04b-5b18-8aac-86a26bef53fb'
+    link: 'https://pub.dartlang.org/packages/event_bus'
+    author:
+        - 'Marco Jakob'
