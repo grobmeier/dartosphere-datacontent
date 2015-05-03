@@ -21736,3 +21736,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu'
     author:
         - 'Daniel Davidson'
+-
+    package_name: route_provider
+    package_version: v0.1.7
+    title: 'v0.1.7 of route_provider'
+    published: '2015-05-03T15:59:43+00:00'
+    id: 'urn:uuid:d2c7f9ff-6dbd-5bd7-a53d-84dae8baa9b9'
+    link: 'https://pub.dartlang.org/packages/route_provider'
+    author:
+        - 'Robert Beyer'
