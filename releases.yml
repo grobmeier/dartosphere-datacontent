@@ -21889,3 +21889,30 @@
     link: 'https://pub.dartlang.org/packages/neo4j_dart'
     author:
         - 'Rasmus Eneman'
+-
+    package_name: source_map_stack_trace
+    package_version: v1.0.3
+    title: 'v1.0.3 of source_map_stack_trace'
+    published: '2015-05-04T20:59:52+00:00'
+    id: 'urn:uuid:2345a6b3-01a8-51e9-b1f3-1c73fa6b2203'
+    link: 'https://pub.dartlang.org/packages/source_map_stack_trace'
+    author:
+        - 'Dart Team'
+-
+    package_name: emoji
+    package_version: v1.0.0
+    title: 'v1.0.0 of emoji'
+    published: '2015-05-04T20:59:52+00:00'
+    id: 'urn:uuid:d52f7c5c-5d27-5596-a9fe-327543cbee71'
+    link: 'https://pub.dartlang.org/packages/emoji'
+    author:
+        - 'David Notik'
+-
+    package_name: intl
+    package_version: v0.12.3
+    title: 'v0.12.3 of intl'
+    published: '2015-05-04T20:59:52+00:00'
+    id: 'urn:uuid:39d286e6-ccd2-5337-a388-ca1b45ec1444'
+    link: 'https://pub.dartlang.org/packages/intl'
+    author:
+        - 'Dart Team'
