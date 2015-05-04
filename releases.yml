@@ -21853,3 +21853,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu_cpp'
     author:
         - 'Daniel Davidson'
+-
+    package_name: ebisu_cpp
+    package_version: v0.2.1
+    title: 'v0.2.1 of ebisu_cpp'
+    published: '2015-05-04T02:59:45+00:00'
+    id: 'urn:uuid:f84dae8e-d1d0-5216-961f-765f223521ad'
+    link: 'https://pub.dartlang.org/packages/ebisu_cpp'
+    author:
+        - 'Daniel Davidson'
