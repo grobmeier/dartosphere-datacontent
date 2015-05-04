@@ -21862,3 +21862,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu_cpp'
     author:
         - 'Daniel Davidson'
+-
+    package_name: dartlero
+    package_version: v1.0.5
+    title: 'v1.0.5 of dartlero'
+    published: '2015-05-04T15:59:44+00:00'
+    id: 'urn:uuid:38fc809d-256d-5689-88d8-0161178ef803'
+    link: 'https://pub.dartlang.org/packages/dartlero'
+    author:
+        - 'Dzenan Ridjanovic'
