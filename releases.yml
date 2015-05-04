@@ -21871,3 +21871,21 @@
     link: 'https://pub.dartlang.org/packages/dartlero'
     author:
         - 'Dzenan Ridjanovic'
+-
+    package_name: dart_event_emitter
+    package_version: v1.0.0
+    title: 'v1.0.0 of dart_event_emitter'
+    published: '2015-05-04T19:59:48+00:00'
+    id: 'urn:uuid:3618a03c-7c6c-53aa-af9f-4575b853d713'
+    link: 'https://pub.dartlang.org/packages/dart_event_emitter'
+    author:
+        - 'Jakub Turek'
+-
+    package_name: neo4j_dart
+    package_version: v0.2.0
+    title: 'v0.2.0 of neo4j_dart'
+    published: '2015-05-04T19:59:48+00:00'
+    id: 'urn:uuid:5fee1715-df73-5be8-87ed-8bbf2b0ef46b'
+    link: 'https://pub.dartlang.org/packages/neo4j_dart'
+    author:
+        - 'Rasmus Eneman'
