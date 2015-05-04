@@ -21934,3 +21934,12 @@
     link: 'https://pub.dartlang.org/packages/money'
     author:
         - 'Roman Shamritskiy'
+-
+    package_name: uix_shortcuts
+    package_version: v0.0.14
+    title: 'v0.0.14 of uix_shortcuts'
+    published: '2015-05-04T23:59:46+00:00'
+    id: 'urn:uuid:19861306-2f08-53cf-a489-0f361e8c446a'
+    link: 'https://pub.dartlang.org/packages/uix_shortcuts'
+    author:
+        - 'Cristian Garcia'
