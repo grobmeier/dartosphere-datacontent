@@ -21916,3 +21916,21 @@
     link: 'https://pub.dartlang.org/packages/intl'
     author:
         - 'Dart Team'
+-
+    package_name: simple_http_server
+    package_version: v0.2.0
+    title: 'v0.2.0 of simple_http_server'
+    published: '2015-05-04T21:59:58+00:00'
+    id: 'urn:uuid:b3063fa3-9280-544d-a3d0-77b49c91be40'
+    link: 'https://pub.dartlang.org/packages/simple_http_server'
+    author:
+        - 'Seth Ladd'
+-
+    package_name: money
+    package_version: v0.1.1
+    title: 'v0.1.1 of money'
+    published: '2015-05-04T21:59:58+00:00'
+    id: 'urn:uuid:620e9eec-1f2c-58ff-b220-103979806f1c'
+    link: 'https://pub.dartlang.org/packages/money'
+    author:
+        - 'Roman Shamritskiy'
