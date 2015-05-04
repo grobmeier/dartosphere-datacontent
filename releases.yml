@@ -21826,3 +21826,21 @@
     link: 'https://pub.dartlang.org/packages/redstone_utilities'
     author:
         - 'Cristian Garcia'
+-
+    package_name: redstone_mvc
+    package_version: v0.0.34
+    title: 'v0.0.34 of redstone_mvc'
+    published: '2015-05-04T00:59:43+00:00'
+    id: 'urn:uuid:6383a291-beb4-51fa-9293-e1b104a69097'
+    link: 'https://pub.dartlang.org/packages/redstone_mvc'
+    author:
+        - 'Cristian Garcia'
+-
+    package_name: event_dispatcher
+    package_version: v1.2.1+1
+    title: 'v1.2.1+1 of event_dispatcher'
+    published: '2015-05-04T00:59:43+00:00'
+    id: 'urn:uuid:d1268113-a0c2-5e89-be4e-78394c3b186e'
+    link: 'https://pub.dartlang.org/packages/event_dispatcher'
+    author:
+        - samrg472
