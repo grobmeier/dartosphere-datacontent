@@ -21844,3 +21844,12 @@
     link: 'https://pub.dartlang.org/packages/event_dispatcher'
     author:
         - samrg472
+-
+    package_name: ebisu_cpp
+    package_version: v0.2.0
+    title: 'v0.2.0 of ebisu_cpp'
+    published: '2015-05-04T01:59:50+00:00'
+    id: 'urn:uuid:4370c07e-2b07-5497-9983-b85657c05747'
+    link: 'https://pub.dartlang.org/packages/ebisu_cpp'
+    author:
+        - 'Daniel Davidson'
