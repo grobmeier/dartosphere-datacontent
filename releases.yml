@@ -21952,3 +21952,21 @@
     link: 'https://pub.dartlang.org/packages/emoji'
     author:
         - 'David Notik'
+-
+    package_name: google_visualization_api
+    package_version: v0.0.1
+    title: 'v0.0.1 of google_visualization_api'
+    published: '2015-05-05T06:59:44+00:00'
+    id: 'urn:uuid:d15b4a7f-fe61-5451-bb83-9031ebd28429'
+    link: 'https://pub.dartlang.org/packages/google_visualization_api'
+    author:
+        - 'Robert Hartung'
+-
+    package_name: stream
+    package_version: v1.5.0+1
+    title: 'v1.5.0+1 of stream'
+    published: '2015-05-05T06:59:44+00:00'
+    id: 'urn:uuid:7697a4e0-9e1e-5b30-b4f3-2c8956764f6d'
+    link: 'https://pub.dartlang.org/packages/stream'
+    author:
+        - 'Tom Yeh'
