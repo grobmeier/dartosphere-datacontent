@@ -21970,3 +21970,12 @@
     link: 'https://pub.dartlang.org/packages/stream'
     author:
         - 'Tom Yeh'
+-
+    package_name: rpc
+    package_version: v0.4.2
+    title: 'v0.4.2 of rpc'
+    published: '2015-05-05T12:59:50+00:00'
+    id: 'urn:uuid:035f184f-2d31-5886-a92d-94772fe48348'
+    link: 'https://pub.dartlang.org/packages/rpc'
+    author:
+        - 'Dart Team'
