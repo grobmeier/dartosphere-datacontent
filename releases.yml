@@ -22051,3 +22051,12 @@
     link: 'https://pub.dartlang.org/packages/money'
     author:
         - 'Roman Shamritskiy'
+-
+    package_name: oracledart
+    package_version: v0.0.16
+    title: 'v0.0.16 of oracledart'
+    published: '2015-05-05T23:59:40+00:00'
+    id: 'urn:uuid:45872e92-a7d5-58a5-b4f7-b0848a7cea91'
+    link: 'https://pub.dartlang.org/packages/oracledart'
+    author:
+        - 'Alexander Aprelev'
