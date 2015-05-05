@@ -22024,3 +22024,12 @@
     link: 'https://pub.dartlang.org/packages/bwu_docker'
     author:
         - 'Guenter Zoechbauer'
+-
+    package_name: money
+    package_version: v0.1.2
+    title: 'v0.1.2 of money'
+    published: '2015-05-05T18:59:45+00:00'
+    id: 'urn:uuid:0aca0ddd-48f4-56b2-8e99-7d103d1e52e4'
+    link: 'https://pub.dartlang.org/packages/money'
+    author:
+        - 'Roman Shamritskiy'
