@@ -21988,3 +21988,21 @@
     link: 'https://pub.dartlang.org/packages/redstone_mvc'
     author:
         - 'Cristian Garcia'
+-
+    package_name: bwu_docker
+    package_version: v0.1.0+3
+    title: 'v0.1.0+3 of bwu_docker'
+    published: '2015-05-05T16:59:42+00:00'
+    id: 'urn:uuid:983040cb-c79d-522f-bac2-65e6fa03ee60'
+    link: 'https://pub.dartlang.org/packages/bwu_docker'
+    author:
+        - 'Guenter Zoechbauer'
+-
+    package_name: pubviz
+    package_version: v2.3.1
+    title: 'v2.3.1 of pubviz'
+    published: '2015-05-05T16:59:42+00:00'
+    id: 'urn:uuid:61904868-b4c6-52cd-a09b-de80ae75fd80'
+    link: 'https://pub.dartlang.org/packages/pubviz'
+    author:
+        - 'Kevin Moore'
