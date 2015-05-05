@@ -21943,3 +21943,12 @@
     link: 'https://pub.dartlang.org/packages/uix_shortcuts'
     author:
         - 'Cristian Garcia'
+-
+    package_name: emoji
+    package_version: v1.0.3
+    title: 'v1.0.3 of emoji'
+    published: '2015-05-05T02:59:41+00:00'
+    id: 'urn:uuid:e95ab8b8-3c74-58e0-8bf2-f4a53dc9a338'
+    link: 'https://pub.dartlang.org/packages/emoji'
+    author:
+        - 'David Notik'
