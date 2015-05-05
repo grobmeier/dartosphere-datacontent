@@ -22033,3 +22033,12 @@
     link: 'https://pub.dartlang.org/packages/money'
     author:
         - 'Roman Shamritskiy'
+-
+    package_name: source_map_stack_trace
+    package_version: v1.0.4
+    title: 'v1.0.4 of source_map_stack_trace'
+    published: '2015-05-05T19:59:41+00:00'
+    id: 'urn:uuid:d672adb1-ee41-5e83-92d5-b1267f0a72b0'
+    link: 'https://pub.dartlang.org/packages/source_map_stack_trace'
+    author:
+        - 'Dart Team'
