@@ -21979,3 +21979,12 @@
     link: 'https://pub.dartlang.org/packages/rpc'
     author:
         - 'Dart Team'
+-
+    package_name: redstone_mvc
+    package_version: v0.0.35
+    title: 'v0.0.35 of redstone_mvc'
+    published: '2015-05-05T14:59:44+00:00'
+    id: 'urn:uuid:471a1438-0264-538b-8a9a-a08716482c27'
+    link: 'https://pub.dartlang.org/packages/redstone_mvc'
+    author:
+        - 'Cristian Garcia'
