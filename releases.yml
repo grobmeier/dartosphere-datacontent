@@ -22168,3 +22168,22 @@
     link: 'https://pub.dartlang.org/packages/bwu_fontawesome_iconset_svg'
     author:
         - 'Günter Zöchbauer'
+-
+    package_name: webkit_inspection_protocol
+    package_version: v0.0.1+1
+    title: 'v0.0.1+1 of webkit_inspection_protocol'
+    published: '2015-05-06T18:59:54+00:00'
+    id: 'urn:uuid:02b9ad37-ecbd-59a1-a327-c093474507da'
+    link: 'https://pub.dartlang.org/packages/webkit_inspection_protocol'
+    author:
+        - 'Devon Carew'
+-
+    package_name: bwu_sparkline
+    package_version: v0.0.8+1
+    title: 'v0.0.8+1 of bwu_sparkline'
+    published: '2015-05-06T18:59:54+00:00'
+    id: 'urn:uuid:62130899-475d-5355-abd9-73d331aba813'
+    link: 'https://pub.dartlang.org/packages/bwu_sparkline'
+    author:
+        - 'Günter Zöchbauer'
+        - 'James Hurford'
