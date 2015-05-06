@@ -22141,3 +22141,30 @@
     link: 'https://pub.dartlang.org/packages/polymer_interop'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: redstone_rethinkdb
+    package_version: v0.0.14
+    title: 'v0.0.14 of redstone_rethinkdb'
+    published: '2015-05-06T17:59:45+00:00'
+    id: 'urn:uuid:37326801-f5e2-54e0-888e-c89b5aee2547'
+    link: 'https://pub.dartlang.org/packages/redstone_rethinkdb'
+    author:
+        - 'Cristian Garcia'
+-
+    package_name: doc_coverage
+    package_version: v0.1.5
+    title: 'v0.1.5 of doc_coverage'
+    published: '2015-05-06T17:59:45+00:00'
+    id: 'urn:uuid:a4bbd7ad-f52a-5c01-8aa4-256e580768bb'
+    link: 'https://pub.dartlang.org/packages/doc_coverage'
+    author:
+        - 'Sam Rawlins'
+-
+    package_name: bwu_fontawesome_iconset_svg
+    package_version: v0.1.2
+    title: 'v0.1.2 of bwu_fontawesome_iconset_svg'
+    published: '2015-05-06T17:59:45+00:00'
+    id: 'urn:uuid:6e0c70ab-ad72-5154-87da-e9baa15213eb'
+    link: 'https://pub.dartlang.org/packages/bwu_fontawesome_iconset_svg'
+    author:
+        - 'Günter Zöchbauer'
