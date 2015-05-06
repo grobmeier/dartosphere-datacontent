@@ -22060,3 +22060,12 @@
     link: 'https://pub.dartlang.org/packages/oracledart'
     author:
         - 'Alexander Aprelev'
+-
+    package_name: rpc
+    package_version: v0.4.3
+    title: 'v0.4.3 of rpc'
+    published: '2015-05-06T12:59:43+00:00'
+    id: 'urn:uuid:e3d75226-59c7-5330-9cea-234b1c2a2b7e'
+    link: 'https://pub.dartlang.org/packages/rpc'
+    author:
+        - 'Dart Team'
