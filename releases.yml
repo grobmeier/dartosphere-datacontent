@@ -22223,3 +22223,12 @@
     link: 'https://pub.dartlang.org/packages/pub_semver'
     author:
         - 'Dart Team'
+-
+    package_name: logging
+    package_version: v0.11.0
+    title: 'v0.11.0 of logging'
+    published: '2015-05-06T22:00:01+00:00'
+    id: 'urn:uuid:e7d7a775-54a3-5c74-90bb-89b17afbcca3'
+    link: 'https://pub.dartlang.org/packages/logging'
+    author:
+        - 'Dart Team'
