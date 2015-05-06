@@ -22205,3 +22205,21 @@
     link: 'https://pub.dartlang.org/packages/money'
     author:
         - 'Roman Shamritskiy'
+-
+    package_name: realtime_data_model
+    package_version: v0.0.13
+    title: 'v0.0.13 of realtime_data_model'
+    published: '2015-05-06T20:59:53+00:00'
+    id: 'urn:uuid:6a20e1d3-37d5-5369-a13e-5da5ec21a452'
+    link: 'https://pub.dartlang.org/packages/realtime_data_model'
+    author:
+        - 'Christopher Best'
+-
+    package_name: pub_semver
+    package_version: v1.2.0
+    title: 'v1.2.0 of pub_semver'
+    published: '2015-05-06T20:59:53+00:00'
+    id: 'urn:uuid:7af6834e-9e3c-52ee-b403-37315b98b593'
+    link: 'https://pub.dartlang.org/packages/pub_semver'
+    author:
+        - 'Dart Team'
