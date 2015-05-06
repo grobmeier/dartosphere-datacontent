@@ -22087,3 +22087,21 @@
     link: 'https://pub.dartlang.org/packages/shelf_redis_session_store'
     author:
         - takyam
+-
+    package_name: realtime_data_model
+    package_version: v0.0.12
+    title: 'v0.0.12 of realtime_data_model'
+    published: '2015-05-06T14:59:45+00:00'
+    id: 'urn:uuid:d545b1ea-54e4-532a-a649-087ea724408e'
+    link: 'https://pub.dartlang.org/packages/realtime_data_model'
+    author:
+        - 'Christopher Best'
+-
+    package_name: pubviz
+    package_version: v2.3.1+1
+    title: 'v2.3.1+1 of pubviz'
+    published: '2015-05-06T14:59:45+00:00'
+    id: 'urn:uuid:c3dd248c-1005-5220-adc1-ced8d5d0ba67'
+    link: 'https://pub.dartlang.org/packages/pubviz'
+    author:
+        - 'Kevin Moore'
