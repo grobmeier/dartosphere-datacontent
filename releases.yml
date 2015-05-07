@@ -22304,3 +22304,12 @@
     link: 'https://pub.dartlang.org/packages/collection'
     author:
         - 'Dart Team'
+-
+    package_name: mojom
+    package_version: v0.0.3
+    title: 'v0.0.3 of mojom'
+    published: '2015-05-07T13:59:41+00:00'
+    id: 'urn:uuid:edd78110-9f99-5ec7-b7e1-848c6f110fd1'
+    link: 'https://pub.dartlang.org/packages/mojom'
+    author:
+        - 'Chromium Authors'
