@@ -22361,3 +22361,51 @@
     link: 'https://pub.dartlang.org/packages/logging'
     author:
         - 'Dart Team'
+-
+    package_name: angular2_benchmarks
+    package_version: v2.0.0-alpha.22
+    title: 'v2.0.0-alpha.22 of angular2_benchmarks'
+    published: '2015-05-07T23:59:46+00:00'
+    id: 'urn:uuid:6e52b56f-bb1f-5546-9d9a-3c8fc3e7d332'
+    link: 'https://pub.dartlang.org/packages/angular2_benchmarks'
+    author:
+        - '0'
+        - '1'
+        - '2'
+        - '3'
+        - '4'
+        - '5'
+        - '6'
+        - '7'
+-
+    package_name: benchpress
+    package_version: v2.0.0-alpha.22
+    title: 'v2.0.0-alpha.22 of benchpress'
+    published: '2015-05-07T23:59:46+00:00'
+    id: 'urn:uuid:4635c2d9-2b37-5b9e-9f72-671c8219b21e'
+    link: 'https://pub.dartlang.org/packages/benchpress'
+    author:
+        - '0'
+        - '1'
+        - '2'
+        - '3'
+        - '4'
+        - '5'
+        - '6'
+        - '7'
+-
+    package_name: angular2
+    package_version: v2.0.0-alpha.22
+    title: 'v2.0.0-alpha.22 of angular2'
+    published: '2015-05-07T23:59:46+00:00'
+    id: 'urn:uuid:a9a74233-f848-5e63-a8b2-d70dc3ecbafe'
+    link: 'https://pub.dartlang.org/packages/angular2'
+    author:
+        - '0'
+        - '1'
+        - '2'
+        - '3'
+        - '4'
+        - '5'
+        - '6'
+        - '7'
