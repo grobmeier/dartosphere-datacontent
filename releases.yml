@@ -22286,3 +22286,12 @@
     link: 'https://pub.dartlang.org/packages/mustache'
     author:
         - 'Greg Lowe'
+-
+    package_name: uix
+    package_version: v0.6.0
+    title: 'v0.6.0 of uix'
+    published: '2015-05-07T09:59:45+00:00'
+    id: 'urn:uuid:d59ce86d-cb20-5c1d-ae6f-b85fa11ce8c3'
+    link: 'https://pub.dartlang.org/packages/uix'
+    author:
+        - 'Boris Kaul'
