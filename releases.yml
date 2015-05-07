@@ -22250,3 +22250,21 @@
     link: 'https://pub.dartlang.org/packages/aha_table'
     author:
         - 'Luis Vargas'
+-
+    package_name: uix
+    package_version: v0.5.2
+    title: 'v0.5.2 of uix'
+    published: '2015-05-07T07:00:29+00:00'
+    id: 'urn:uuid:34c51255-81b8-5e47-8459-7e040e8b707c'
+    link: 'https://pub.dartlang.org/packages/uix'
+    author:
+        - 'Boris Kaul'
+-
+    package_name: google_visualization_api
+    package_version: v0.0.2
+    title: 'v0.0.2 of google_visualization_api'
+    published: '2015-05-07T07:00:29+00:00'
+    id: 'urn:uuid:fbb31f03-6df1-5772-bb33-4d703bc7b4a0'
+    link: 'https://pub.dartlang.org/packages/google_visualization_api'
+    author:
+        - 'Robert Hartung'
