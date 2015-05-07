@@ -22232,3 +22232,12 @@
     link: 'https://pub.dartlang.org/packages/logging'
     author:
         - 'Dart Team'
+-
+    package_name: redstone_mvc
+    package_version: v0.0.37
+    title: 'v0.0.37 of redstone_mvc'
+    published: '2015-05-07T01:59:46+00:00'
+    id: 'urn:uuid:6d1394ee-7e7a-57f4-9e83-e222eb195bde'
+    link: 'https://pub.dartlang.org/packages/redstone_mvc'
+    author:
+        - 'Cristian Garcia'
