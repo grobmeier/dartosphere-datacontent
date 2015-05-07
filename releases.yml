@@ -22331,3 +22331,24 @@
     link: 'https://pub.dartlang.org/packages/redstone_rethinkdb'
     author:
         - 'Cristian Garcia'
+-
+    package_name: charted
+    package_version: v0.2.4
+    title: 'v0.2.4 of charted'
+    published: '2015-05-07T17:59:49+00:00'
+    id: 'urn:uuid:308e7521-aa1f-54ce-9a8c-7fd677834883'
+    link: 'https://pub.dartlang.org/packages/charted'
+    author:
+        - 'Prasad Sunkari'
+        - 'Michael Cheng'
+        - 'Yan Qiao'
+-
+    package_name: bwu_fontawesome_iconset_svg
+    package_version: v0.1.3
+    title: 'v0.1.3 of bwu_fontawesome_iconset_svg'
+    published: '2015-05-07T17:59:50+00:00'
+    id: 'urn:uuid:c0e2529a-ef5c-54bf-802d-ae52b03935e9'
+    link: 'https://pub.dartlang.org/packages/bwu_fontawesome_iconset_svg'
+    author:
+        - 'Günter Zöchbauer'
+        - 'Kun Zhao'
