@@ -22352,3 +22352,12 @@
     author:
         - 'Günter Zöchbauer'
         - 'Kun Zhao'
+-
+    package_name: logging
+    package_version: v0.11.1
+    title: 'v0.11.1 of logging'
+    published: '2015-05-07T22:59:47+00:00'
+    id: 'urn:uuid:f0f16211-ed20-5cbe-a44a-14e7aa9f2181'
+    link: 'https://pub.dartlang.org/packages/logging'
+    author:
+        - 'Dart Team'
