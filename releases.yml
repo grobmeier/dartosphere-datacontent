@@ -22295,3 +22295,12 @@
     link: 'https://pub.dartlang.org/packages/uix'
     author:
         - 'Boris Kaul'
+-
+    package_name: collection
+    package_version: v1.1.1
+    title: 'v1.1.1 of collection'
+    published: '2015-05-07T11:59:48+00:00'
+    id: 'urn:uuid:3822f1d3-199f-52e1-8be1-32a560ac217c'
+    link: 'https://pub.dartlang.org/packages/collection'
+    author:
+        - 'Dart Team'
