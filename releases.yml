@@ -22241,3 +22241,12 @@
     link: 'https://pub.dartlang.org/packages/redstone_mvc'
     author:
         - 'Cristian Garcia'
+-
+    package_name: aha_table
+    package_version: v0.0.2+1
+    title: 'v0.0.2+1 of aha_table'
+    published: '2015-05-07T05:59:43+00:00'
+    id: 'urn:uuid:ca83926a-292c-5c6d-8a6f-97a91ad57596'
+    link: 'https://pub.dartlang.org/packages/aha_table'
+    author:
+        - 'Luis Vargas'
