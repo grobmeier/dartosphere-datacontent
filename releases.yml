@@ -22322,3 +22322,12 @@
     link: 'https://pub.dartlang.org/packages/redstone_rethinkdb'
     author:
         - 'Cristian Garcia'
+-
+    package_name: redstone_rethinkdb
+    package_version: v0.0.191
+    title: 'v0.0.191 of redstone_rethinkdb'
+    published: '2015-05-07T16:59:41+00:00'
+    id: 'urn:uuid:a2a01ce1-9b08-51ae-9c36-14982933f19d'
+    link: 'https://pub.dartlang.org/packages/redstone_rethinkdb'
+    author:
+        - 'Cristian Garcia'
