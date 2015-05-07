@@ -22313,3 +22313,12 @@
     link: 'https://pub.dartlang.org/packages/mojom'
     author:
         - 'Chromium Authors'
+-
+    package_name: redstone_rethinkdb
+    package_version: v0.0.17
+    title: 'v0.0.17 of redstone_rethinkdb'
+    published: '2015-05-07T15:59:53+00:00'
+    id: 'urn:uuid:a1c94b17-73c2-52ac-97f0-834ac3e9ffc7'
+    link: 'https://pub.dartlang.org/packages/redstone_rethinkdb'
+    author:
+        - 'Cristian Garcia'
