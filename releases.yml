@@ -22409,3 +22409,12 @@
         - '5'
         - '6'
         - '7'
+-
+    package_name: redstone_rethinkdb
+    package_version: v0.0.193
+    title: 'v0.0.193 of redstone_rethinkdb'
+    published: '2015-05-08T03:59:44+00:00'
+    id: 'urn:uuid:05c588d7-0c87-52f4-9004-9172696bf1fb'
+    link: 'https://pub.dartlang.org/packages/redstone_rethinkdb'
+    author:
+        - 'Cristian Garcia'
