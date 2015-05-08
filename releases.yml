@@ -22483,3 +22483,12 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team'
+-
+    package_name: haystack
+    package_version: v0.4.12
+    title: 'v0.4.12 of haystack'
+    published: '2015-05-08T20:59:46+00:00'
+    id: 'urn:uuid:32769126-8d1e-5fe1-9fcf-202f5694b6e8'
+    link: 'https://pub.dartlang.org/packages/haystack'
+    author:
+        - 'Dmitriy Vasilyev'
