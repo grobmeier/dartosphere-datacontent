@@ -22427,3 +22427,12 @@
     link: 'https://pub.dartlang.org/packages/redstone_rethinkdb'
     author:
         - 'Cristian Garcia'
+-
+    package_name: bwu_docker
+    package_version: v0.2.0
+    title: 'v0.2.0 of bwu_docker'
+    published: '2015-05-08T06:59:43+00:00'
+    id: 'urn:uuid:bd056d2c-416c-5d11-b36f-6d71ea6cc13c'
+    link: 'https://pub.dartlang.org/packages/bwu_docker'
+    author:
+        - 'Guenter Zoechbauer'
