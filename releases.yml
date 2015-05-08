@@ -22474,3 +22474,12 @@
     link: 'https://pub.dartlang.org/packages/redstone_rethinkdb'
     author:
         - 'Cristian Garcia'
+-
+    package_name: dartdoc
+    package_version: v0.0.1+10
+    title: 'v0.0.1+10 of dartdoc'
+    published: '2015-05-08T16:59:48+00:00'
+    id: 'urn:uuid:841f151c-e52e-5999-9d36-a578782f5276'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team'
