@@ -22501,3 +22501,12 @@
     link: 'https://pub.dartlang.org/packages/force'
     author:
         - 'Joris Hermans'
+-
+    package_name: scheduled_test
+    package_version: v0.11.8+1
+    title: 'v0.11.8+1 of scheduled_test'
+    published: '2015-05-08T22:59:46+00:00'
+    id: 'urn:uuid:5d1df94f-9990-5b70-bfe6-405fc3717ba3'
+    link: 'https://pub.dartlang.org/packages/scheduled_test'
+    author:
+        - 'Dart Team'
