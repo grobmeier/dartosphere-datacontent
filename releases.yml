@@ -22492,3 +22492,12 @@
     link: 'https://pub.dartlang.org/packages/haystack'
     author:
         - 'Dmitriy Vasilyev'
+-
+    package_name: force
+    package_version: v0.6.4
+    title: 'v0.6.4 of force'
+    published: '2015-05-08T21:59:42+00:00'
+    id: 'urn:uuid:7c18dcf7-f003-569e-bb5d-c1a4fbd216ff'
+    link: 'https://pub.dartlang.org/packages/force'
+    author:
+        - 'Joris Hermans'
