@@ -22537,3 +22537,12 @@
     link: 'https://pub.dartlang.org/packages/locale'
     author:
         - 'Joris Hermans'
+-
+    package_name: redstone_rethinkdb
+    package_version: v0.0.197
+    title: 'v0.0.197 of redstone_rethinkdb'
+    published: '2015-05-09T21:59:39+00:00'
+    id: 'urn:uuid:ddd366eb-b705-5ee4-a7af-3f0c5a5f186c'
+    link: 'https://pub.dartlang.org/packages/redstone_rethinkdb'
+    author:
+        - 'Cristian Garcia'
