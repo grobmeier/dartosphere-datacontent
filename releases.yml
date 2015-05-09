@@ -22573,3 +22573,30 @@
     link: 'https://pub.dartlang.org/packages/dacsslide'
     author:
         - 'Valentyn Shybanov'
+-
+    package_name: magus
+    package_version: v0.0.11
+    title: 'v0.0.11 of magus'
+    published: '2015-05-09T23:59:41+00:00'
+    id: 'urn:uuid:bb8959a9-2b0d-5ad3-92f9-8457a3ae6c9e'
+    link: 'https://pub.dartlang.org/packages/magus'
+    author:
+        - 'Daniel Davidson'
+-
+    package_name: ebisu
+    package_version: v0.5.0
+    title: 'v0.5.0 of ebisu'
+    published: '2015-05-09T23:59:41+00:00'
+    id: 'urn:uuid:bf2f69cd-829b-5ed4-9d16-2f5947cd9788'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson'
+-
+    package_name: redstone_rethinkdb
+    package_version: v0.0.204
+    title: 'v0.0.204 of redstone_rethinkdb'
+    published: '2015-05-09T23:59:41+00:00'
+    id: 'urn:uuid:1f508ffb-5147-5405-a9b9-6bcbf1e3ebd4'
+    link: 'https://pub.dartlang.org/packages/redstone_rethinkdb'
+    author:
+        - 'Cristian Garcia'
