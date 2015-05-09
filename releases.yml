@@ -22510,3 +22510,12 @@
     link: 'https://pub.dartlang.org/packages/scheduled_test'
     author:
         - 'Dart Team'
+-
+    package_name: lambda
+    package_version: v0.0.1
+    title: 'v0.0.1 of lambda'
+    published: '2015-05-09T04:59:46+00:00'
+    id: 'urn:uuid:efefe676-6ae0-561e-82d0-4e35fdcb29fd'
+    link: 'https://pub.dartlang.org/packages/lambda'
+    author:
+        - 'Yegor Jbanov'
