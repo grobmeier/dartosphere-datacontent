@@ -22519,3 +22519,12 @@
     link: 'https://pub.dartlang.org/packages/lambda'
     author:
         - 'Yegor Jbanov'
+-
+    package_name: targets
+    package_version: v0.7.7
+    title: 'v0.7.7 of targets'
+    published: '2015-05-09T05:59:40+00:00'
+    id: 'urn:uuid:a3170c72-a658-520d-bfb4-0b0f9a786a70'
+    link: 'https://pub.dartlang.org/packages/targets'
+    author:
+        - 'Jack Thakar'
