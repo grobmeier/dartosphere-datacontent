@@ -22546,3 +22546,30 @@
     link: 'https://pub.dartlang.org/packages/redstone_rethinkdb'
     author:
         - 'Cristian Garcia'
+-
+    package_name: ebisu
+    package_version: v0.4.0
+    title: 'v0.4.0 of ebisu'
+    published: '2015-05-09T22:59:50+00:00'
+    id: 'urn:uuid:cdee6bbc-4819-5016-b171-ac5f60c37708'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson'
+-
+    package_name: redstone_rethinkdb
+    package_version: v0.0.201
+    title: 'v0.0.201 of redstone_rethinkdb'
+    published: '2015-05-09T22:59:50+00:00'
+    id: 'urn:uuid:a9044c66-5a4c-5172-a3e4-c04ed8e0da41'
+    link: 'https://pub.dartlang.org/packages/redstone_rethinkdb'
+    author:
+        - 'Cristian Garcia'
+-
+    package_name: dacsslide
+    package_version: v0.0.10
+    title: 'v0.0.10 of dacsslide'
+    published: '2015-05-09T22:59:50+00:00'
+    id: 'urn:uuid:f1092108-5335-5ee9-b33a-14f8af888a73'
+    link: 'https://pub.dartlang.org/packages/dacsslide'
+    author:
+        - 'Valentyn Shybanov'
