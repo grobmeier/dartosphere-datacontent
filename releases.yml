@@ -22528,3 +22528,12 @@
     link: 'https://pub.dartlang.org/packages/targets'
     author:
         - 'Jack Thakar'
+-
+    package_name: locale
+    package_version: v0.1.0
+    title: 'v0.1.0 of locale'
+    published: '2015-05-09T14:59:46+00:00'
+    id: 'urn:uuid:87146eaf-fbd9-5021-a6e3-88c780a9eea4'
+    link: 'https://pub.dartlang.org/packages/locale'
+    author:
+        - 'Joris Hermans'
