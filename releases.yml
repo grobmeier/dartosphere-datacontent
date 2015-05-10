@@ -22672,3 +22672,12 @@
     link: 'https://pub.dartlang.org/packages/dialog'
     author:
         - 'Pavel Dvořák'
+-
+    package_name: locale
+    package_version: v0.1.1+2
+    title: 'v0.1.1+2 of locale'
+    published: '2015-05-10T12:59:41+00:00'
+    id: 'urn:uuid:c0960f41-e85a-599b-8f73-8b4029d96395'
+    link: 'https://pub.dartlang.org/packages/locale'
+    author:
+        - 'Joris Hermans'
