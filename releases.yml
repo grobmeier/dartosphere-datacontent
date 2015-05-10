@@ -22681,3 +22681,12 @@
     link: 'https://pub.dartlang.org/packages/locale'
     author:
         - 'Joris Hermans'
+-
+    package_name: yomp_db
+    package_version: v0.6.0
+    title: 'v0.6.0 of yomp_db'
+    published: '2015-05-10T13:59:47+00:00'
+    id: 'urn:uuid:f45983c5-8ce9-51bd-967d-9f1cb28ffcdb'
+    link: 'https://pub.dartlang.org/packages/yomp_db'
+    author:
+        - 'Tomas Rokos'
