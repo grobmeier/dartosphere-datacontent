@@ -22726,3 +22726,30 @@
     link: 'https://pub.dartlang.org/packages/ebisu'
     author:
         - 'Daniel Davidson'
+-
+    package_name: dart_amqp_rpc
+    package_version: v0.0.1
+    title: 'v0.0.1 of dart_amqp_rpc'
+    published: '2015-05-10T19:59:46+00:00'
+    id: 'urn:uuid:cdac962b-fbbc-5d98-948d-b218c67da191'
+    link: 'https://pub.dartlang.org/packages/dart_amqp_rpc'
+    author:
+        - 'Achilleas Anagnostopoulos'
+-
+    package_name: dart_amqp
+    package_version: v0.0.1
+    title: 'v0.0.1 of dart_amqp'
+    published: '2015-05-10T19:59:46+00:00'
+    id: 'urn:uuid:1a510115-d850-54e2-8828-b3be24f420de'
+    link: 'https://pub.dartlang.org/packages/dart_amqp'
+    author:
+        - 'Achilleas Anagnostopoulos'
+-
+    package_name: hashdown
+    package_version: v1.0.3
+    title: 'v1.0.3 of hashdown'
+    published: '2015-05-10T19:59:46+00:00'
+    id: 'urn:uuid:2323fd8b-2cde-5977-9f7c-9098b79b821e'
+    link: 'https://pub.dartlang.org/packages/hashdown'
+    author:
+        - 'Rick Zhou'
