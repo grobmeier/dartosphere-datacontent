@@ -22636,3 +22636,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu_cpp'
     author:
         - 'Daniel Davidson'
+-
+    package_name: redstone_rethinkdb
+    package_version: v0.0.207
+    title: 'v0.0.207 of redstone_rethinkdb'
+    published: '2015-05-10T01:59:39+00:00'
+    id: 'urn:uuid:83921ca4-684c-5e0c-b708-353731ad11ef'
+    link: 'https://pub.dartlang.org/packages/redstone_rethinkdb'
+    author:
+        - 'Cristian Garcia'
