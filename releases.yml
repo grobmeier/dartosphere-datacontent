@@ -22645,3 +22645,12 @@
     link: 'https://pub.dartlang.org/packages/redstone_rethinkdb'
     author:
         - 'Cristian Garcia'
+-
+    package_name: dotenv
+    package_version: v0.1.1+2
+    title: 'v0.1.1+2 of dotenv'
+    published: '2015-05-10T04:59:42+00:00'
+    id: 'urn:uuid:c36d3000-7b54-5745-8073-a352d4394c84'
+    link: 'https://pub.dartlang.org/packages/dotenv'
+    author:
+        - mockturtl
