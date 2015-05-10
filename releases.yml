@@ -22654,3 +22654,12 @@
     link: 'https://pub.dartlang.org/packages/dotenv'
     author:
         - mockturtl
+-
+    package_name: locale
+    package_version: v0.1.1
+    title: 'v0.1.1 of locale'
+    published: '2015-05-10T08:59:38+00:00'
+    id: 'urn:uuid:b294c694-4db1-5420-b2eb-fcb98a81ea05'
+    link: 'https://pub.dartlang.org/packages/locale'
+    author:
+        - 'Joris Hermans'
