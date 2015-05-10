@@ -22663,3 +22663,12 @@
     link: 'https://pub.dartlang.org/packages/locale'
     author:
         - 'Joris Hermans'
+-
+    package_name: dialog
+    package_version: v0.4.0
+    title: 'v0.4.0 of dialog'
+    published: '2015-05-10T10:59:39+00:00'
+    id: 'urn:uuid:f7487fc3-7dd6-59fc-8a44-97bfc49a0faf'
+    link: 'https://pub.dartlang.org/packages/dialog'
+    author:
+        - 'Pavel Dvořák'
