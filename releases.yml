@@ -22690,3 +22690,12 @@
     link: 'https://pub.dartlang.org/packages/yomp_db'
     author:
         - 'Tomas Rokos'
+-
+    package_name: yomp_db
+    package_version: v0.6.0+1
+    title: 'v0.6.0+1 of yomp_db'
+    published: '2015-05-10T14:59:47+00:00'
+    id: 'urn:uuid:46d57a3f-c20d-5223-8efa-5d4c90a0885f'
+    link: 'https://pub.dartlang.org/packages/yomp_db'
+    author:
+        - 'Tomas Rokos'
