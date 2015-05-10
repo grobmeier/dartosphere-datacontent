@@ -22708,3 +22708,21 @@
     link: 'https://pub.dartlang.org/packages/dialog'
     author:
         - 'Pavel Dvořák'
+-
+    package_name: magus
+    package_version: v0.0.12
+    title: 'v0.0.12 of magus'
+    published: '2015-05-10T16:59:48+00:00'
+    id: 'urn:uuid:db1d1776-0d76-5d37-8f88-53c2360ea2e9'
+    link: 'https://pub.dartlang.org/packages/magus'
+    author:
+        - 'Daniel Davidson'
+-
+    package_name: ebisu
+    package_version: v0.5.1
+    title: 'v0.5.1 of ebisu'
+    published: '2015-05-10T16:59:48+00:00'
+    id: 'urn:uuid:0de93d9f-b3c7-58d9-bb32-062854512956'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson'
