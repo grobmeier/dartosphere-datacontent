@@ -22887,3 +22887,12 @@
     link: 'https://pub.dartlang.org/packages/shelf'
     author:
         - 'Dart Team'
+-
+    package_name: smoke
+    package_version: v0.3.3+1
+    title: 'v0.3.3+1 of smoke'
+    published: '2015-05-11T19:59:49+00:00'
+    id: 'urn:uuid:175f05b1-ecae-597e-88c9-58ade02a4885'
+    link: 'https://pub.dartlang.org/packages/smoke'
+    author:
+        - 'Polymer.dart Authors'
