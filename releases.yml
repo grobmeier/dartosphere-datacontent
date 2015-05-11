@@ -22816,3 +22816,12 @@
     link: 'https://pub.dartlang.org/packages/mockito'
     author:
         - 'Dmitriy Fibulwinter'
+-
+    package_name: redstone_mvc
+    package_version: v0.0.372
+    title: 'v0.0.372 of redstone_mvc'
+    published: '2015-05-11T02:59:39+00:00'
+    id: 'urn:uuid:48b1915b-85c5-56ab-ae2b-5f5b8476b2ec'
+    link: 'https://pub.dartlang.org/packages/redstone_mvc'
+    author:
+        - 'Cristian Garcia'
