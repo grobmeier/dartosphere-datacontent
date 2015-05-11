@@ -22878,3 +22878,12 @@
     link: 'https://pub.dartlang.org/packages/observe'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: shelf
+    package_version: v0.6.1+2
+    title: 'v0.6.1+2 of shelf'
+    published: '2015-05-11T18:59:52+00:00'
+    id: 'urn:uuid:71a07032-3b43-516d-acfd-24b526ae48d9'
+    link: 'https://pub.dartlang.org/packages/shelf'
+    author:
+        - 'Dart Team'
