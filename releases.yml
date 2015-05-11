@@ -22825,3 +22825,12 @@
     link: 'https://pub.dartlang.org/packages/redstone_mvc'
     author:
         - 'Cristian Garcia'
+-
+    package_name: polymer
+    package_version: v0.16.3+2
+    title: 'v0.16.3+2 of polymer'
+    published: '2015-05-11T14:47:58+00:00'
+    id: 'urn:uuid:1e3a170b-d2f9-56b4-85a5-d1f6958dfa92'
+    link: 'https://pub.dartlang.org/packages/polymer'
+    author:
+        - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
