@@ -22834,3 +22834,12 @@
     link: 'https://pub.dartlang.org/packages/polymer'
     author:
         - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: semantic_for_pub
+    package_version: v1.12.2+1
+    title: 'v1.12.2+1 of semantic_for_pub'
+    published: '2015-05-11T15:44:28+00:00'
+    id: 'urn:uuid:216d29df-7375-5eff-af1f-c1d5c767c4d4'
+    link: 'https://pub.dartlang.org/packages/semantic_for_pub'
+    author:
+        - 'Michael Beckler <michael@fullacademy.com>'
