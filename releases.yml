@@ -22977,3 +22977,12 @@
     link: 'https://pub.dartlang.org/packages/web_components'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: crossdart
+    package_version: v0.0.5
+    title: 'v0.0.5 of crossdart'
+    published: '2015-05-12T15:59:40+00:00'
+    id: 'urn:uuid:033b1f23-0837-5445-a9cb-17a23aa7d01b'
+    link: 'https://pub.dartlang.org/packages/crossdart'
+    author:
+        - 'Anton Astashov'
