@@ -22932,3 +22932,12 @@
     link: 'https://pub.dartlang.org/packages/ghpages_generator'
     author:
         - 'Alexandre Ardhuin'
+-
+    package_name: dotenv
+    package_version: v0.1.2
+    title: 'v0.1.2 of dotenv'
+    published: '2015-05-12T07:59:41+00:00'
+    id: 'urn:uuid:6f3d08e5-2bbb-57fe-9d95-4992660ad137'
+    link: 'https://pub.dartlang.org/packages/dotenv'
+    author:
+        - mockturtl
