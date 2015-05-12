@@ -22914,3 +22914,12 @@
     link: 'https://pub.dartlang.org/packages/redstone_rethinkdb'
     author:
         - 'Cristian Garcia'
+-
+    package_name: dart_ext
+    package_version: v0.0.10
+    title: 'v0.0.10 of dart_ext'
+    published: '2015-05-12T04:59:42+00:00'
+    id: 'urn:uuid:c5df6998-40af-53ed-b9ab-dab0e9a9f513'
+    link: 'https://pub.dartlang.org/packages/dart_ext'
+    author:
+        - 'Kun Zhao'
