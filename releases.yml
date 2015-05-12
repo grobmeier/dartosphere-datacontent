@@ -23040,3 +23040,12 @@
     link: 'https://pub.dartlang.org/packages/route_provider'
     author:
         - 'Robert Beyer'
+-
+    package_name: route_provider
+    package_version: v0.1.12
+    title: 'v0.1.12 of route_provider'
+    published: '2015-05-12T21:59:44+00:00'
+    id: 'urn:uuid:4a9783cc-c3af-57a4-8ac2-f03e50a9a924'
+    link: 'https://pub.dartlang.org/packages/route_provider'
+    author:
+        - 'Robert Beyer'
