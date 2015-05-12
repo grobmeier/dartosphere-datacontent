@@ -22923,3 +22923,12 @@
     link: 'https://pub.dartlang.org/packages/dart_ext'
     author:
         - 'Kun Zhao'
+-
+    package_name: ghpages_generator
+    package_version: v0.2.5
+    title: 'v0.2.5 of ghpages_generator'
+    published: '2015-05-12T07:00:00+00:00'
+    id: 'urn:uuid:a986f4fd-c127-5ae2-aae9-948dbdd7ae7c'
+    link: 'https://pub.dartlang.org/packages/ghpages_generator'
+    author:
+        - 'Alexandre Ardhuin'
