@@ -22896,3 +22896,12 @@
     link: 'https://pub.dartlang.org/packages/smoke'
     author:
         - 'Polymer.dart Authors'
+-
+    package_name: redstone_rethinkdb
+    package_version: v0.0.211
+    title: 'v0.0.211 of redstone_rethinkdb'
+    published: '2015-05-12T02:59:45+00:00'
+    id: 'urn:uuid:a6f1c930-8c4f-5288-ba87-4d881d312f5d'
+    link: 'https://pub.dartlang.org/packages/redstone_rethinkdb'
+    author:
+        - 'Cristian Garcia'
