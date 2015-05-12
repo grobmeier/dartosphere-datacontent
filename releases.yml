@@ -23031,3 +23031,12 @@
     link: 'https://pub.dartlang.org/packages/test'
     author:
         - 'Dart Team'
+-
+    package_name: route_provider
+    package_version: v0.1.11
+    title: 'v0.1.11 of route_provider'
+    published: '2015-05-12T19:59:45+00:00'
+    id: 'urn:uuid:7d5a4a8c-0c52-5996-b1f1-b695bc9916cc'
+    link: 'https://pub.dartlang.org/packages/route_provider'
+    author:
+        - 'Robert Beyer'
