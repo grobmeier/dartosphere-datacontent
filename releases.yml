@@ -22986,3 +22986,12 @@
     link: 'https://pub.dartlang.org/packages/crossdart'
     author:
         - 'Anton Astashov'
+-
+    package_name: state
+    package_version: v1.0.4
+    title: 'v1.0.4 of state'
+    published: '2015-05-12T16:59:52+00:00'
+    id: 'urn:uuid:cc95d4b0-cf57-5477-8c65-9e786da27ed1'
+    link: 'https://pub.dartlang.org/packages/state'
+    author:
+        - 'Emil Persson'
