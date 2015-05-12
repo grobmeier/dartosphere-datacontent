@@ -23013,3 +23013,21 @@
     link: 'https://pub.dartlang.org/packages/csslib'
     author:
         - 'Polymer.dart Team'
+-
+    package_name: route_provider
+    package_version: v0.1.10
+    title: 'v0.1.10 of route_provider'
+    published: '2015-05-12T18:59:46+00:00'
+    id: 'urn:uuid:b8debc1b-8111-577d-99b0-aff685b32020'
+    link: 'https://pub.dartlang.org/packages/route_provider'
+    author:
+        - 'Robert Beyer'
+-
+    package_name: test
+    package_version: v0.12.1
+    title: 'v0.12.1 of test'
+    published: '2015-05-12T18:59:47+00:00'
+    id: 'urn:uuid:50b1caed-2d9c-586f-ab1b-164a68560a67'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team'
