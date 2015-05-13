@@ -23196,3 +23196,12 @@
     link: 'https://pub.dartlang.org/packages/graphviz'
     author:
         - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: event_bus
+    package_version: v0.4.1
+    title: 'v0.4.1 of event_bus'
+    published: '2015-05-13T19:35:13+00:00'
+    id: 'urn:uuid:7f616110-110d-508b-9aa9-bb812b212318'
+    link: 'https://pub.dartlang.org/packages/event_bus'
+    author:
+        - 'Marco Jakob <majakob@gmx.ch>'
