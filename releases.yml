@@ -23133,3 +23133,12 @@
     link: 'https://pub.dartlang.org/packages/mockito'
     author:
         - 'Dmitriy Fibulwinter'
+-
+    package_name: mockito
+    package_version: v0.10.1
+    title: 'v0.10.1 of mockito'
+    published: '2015-05-13T03:59:40+00:00'
+    id: 'urn:uuid:2cad51b4-ebb1-5a16-96e3-3b80652c6c54'
+    link: 'https://pub.dartlang.org/packages/mockito'
+    author:
+        - 'Dmitriy Fibulwinter'
