@@ -23142,3 +23142,12 @@
     link: 'https://pub.dartlang.org/packages/mockito'
     author:
         - 'Dmitriy Fibulwinter'
+-
+    package_name: analysis
+    package_version: v0.0.1-alpha.1
+    title: 'v0.0.1-alpha.1 of analysis'
+    published: '2015-05-13T06:59:47+00:00'
+    id: 'urn:uuid:b2f65f8e-16a6-5c8a-8c42-f4ae371f1b7e'
+    link: 'https://pub.dartlang.org/packages/analysis'
+    author:
+        - 'Matan Lurey'
