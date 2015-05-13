@@ -23151,3 +23151,12 @@
     link: 'https://pub.dartlang.org/packages/analysis'
     author:
         - 'Matan Lurey'
+-
+    package_name: mojom
+    package_version: v0.0.4
+    title: 'v0.0.4 of mojom'
+    published: '2015-05-13T09:55:25+00:00'
+    id: 'urn:uuid:f71f3dd4-f74d-5400-adc1-f6074ca9e462'
+    link: 'https://pub.dartlang.org/packages/mojom'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
