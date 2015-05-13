@@ -23178,3 +23178,12 @@
     link: 'https://pub.dartlang.org/packages/elements'
     author:
         - 'Patrick Minogue <patrick.minogue@appfoundry.se>'
+-
+    package_name: vue
+    package_version: v0.1.0
+    title: 'v0.1.0 of vue'
+    published: '2015-05-13T14:28:09+00:00'
+    id: 'urn:uuid:eb609aec-353b-56a4-b04c-5a92e05b5834'
+    link: 'https://pub.dartlang.org/packages/vue'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
