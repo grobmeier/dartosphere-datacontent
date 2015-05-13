@@ -23124,3 +23124,12 @@
     link: 'https://pub.dartlang.org/packages/pubviz'
     author:
         - 'Kevin Moore'
+-
+    package_name: mockito
+    package_version: v0.10.0
+    title: 'v0.10.0 of mockito'
+    published: '2015-05-13T02:59:42+00:00'
+    id: 'urn:uuid:7b780bde-2f11-5233-b15e-88f9e78f5994'
+    link: 'https://pub.dartlang.org/packages/mockito'
+    author:
+        - 'Dmitriy Fibulwinter'
