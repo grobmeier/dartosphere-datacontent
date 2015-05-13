@@ -23187,3 +23187,12 @@
     link: 'https://pub.dartlang.org/packages/vue'
     author:
         - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: graphviz
+    package_version: v0.0.3
+    title: 'v0.0.3 of graphviz'
+    published: '2015-05-13T18:50:44+00:00'
+    id: 'urn:uuid:efb5f6ab-3cc7-57af-a5b2-38ad24a241de'
+    link: 'https://pub.dartlang.org/packages/graphviz'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
