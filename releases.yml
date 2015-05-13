@@ -23205,3 +23205,22 @@
     link: 'https://pub.dartlang.org/packages/event_bus'
     author:
         - 'Marco Jakob <majakob@gmx.ch>'
+-
+    package_name: stagehand
+    package_version: v0.2.1
+    title: 'v0.2.1 of stagehand'
+    published: '2015-05-13T22:52:55+00:00'
+    id: 'urn:uuid:bede8581-588e-5bc8-a628-92c9dabefa95'
+    link: 'https://pub.dartlang.org/packages/stagehand'
+    author:
+        - 'Seth Ladd <sethladd@google.com>'
+        - 'Devon Carew <devoncarew@google.com>'
+-
+    package_name: dispatched_worker
+    package_version: v0.0.2
+    title: 'v0.0.2 of dispatched_worker'
+    published: '2015-05-13T22:12:37+00:00'
+    id: 'urn:uuid:8c9adfa1-6e2c-57c4-9494-c021cc314816'
+    link: 'https://pub.dartlang.org/packages/dispatched_worker'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
