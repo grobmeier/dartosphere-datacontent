@@ -23260,3 +23260,12 @@
     link: 'https://pub.dartlang.org/packages/built_collection'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: cupid
+    package_version: v0.2.1
+    title: 'v0.2.1 of cupid'
+    published: '2015-05-14T10:35:20+00:00'
+    id: 'urn:uuid:2dd49b93-7412-543f-a141-fad06f0c8a2c'
+    link: 'https://pub.dartlang.org/packages/cupid'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
