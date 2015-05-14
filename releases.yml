@@ -23269,3 +23269,12 @@
     link: 'https://pub.dartlang.org/packages/cupid'
     author:
         - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: serial_port
+    package_version: v0.3.0
+    title: 'v0.3.0 of serial_port'
+    published: '2015-05-14T14:54:42+00:00'
+    id: 'urn:uuid:b87ed711-1f0b-5d39-81d4-f585bf51e1d6'
+    link: 'https://pub.dartlang.org/packages/serial_port'
+    author:
+        - 'Nicolas Francois  <nicolas.franc@gmail.com>'
