@@ -23233,3 +23233,12 @@
     link: 'https://pub.dartlang.org/packages/mock'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: pubviz
+    package_version: v2.3.4
+    title: 'v2.3.4 of pubviz'
+    published: '2015-05-14T02:13:12+00:00'
+    id: 'urn:uuid:745432df-9188-5c31-94b1-fb451aaa06c8'
+    link: 'https://pub.dartlang.org/packages/pubviz'
+    author:
+        - 'Kevin Moore <kevmoo@google.com>'
