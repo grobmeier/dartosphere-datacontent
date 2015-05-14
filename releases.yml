@@ -23278,3 +23278,21 @@
     link: 'https://pub.dartlang.org/packages/serial_port'
     author:
         - 'Nicolas Francois  <nicolas.franc@gmail.com>'
+-
+    package_name: gmail_message_factory
+    package_version: v0.0.1
+    title: 'v0.0.1 of gmail_message_factory'
+    published: '2015-05-14T15:37:24+00:00'
+    id: 'urn:uuid:8e8db91b-cadb-5bac-b9e3-4ca8b246d777'
+    link: 'https://pub.dartlang.org/packages/gmail_message_factory'
+    author:
+        - 'laco0416 <laco0416@gmail.com>'
+-
+    package_name: graphviz
+    package_version: v0.0.4
+    title: 'v0.0.4 of graphviz'
+    published: '2015-05-14T15:02:05+00:00'
+    id: 'urn:uuid:36bc020f-48d0-57fc-8ca4-ab16cb515852'
+    link: 'https://pub.dartlang.org/packages/graphviz'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
