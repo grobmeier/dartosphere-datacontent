@@ -23224,3 +23224,12 @@
     link: 'https://pub.dartlang.org/packages/dispatched_worker'
     author:
         - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: mock
+    package_version: v0.12.0
+    title: 'v0.12.0 of mock'
+    published: '2015-05-14T00:15:44+00:00'
+    id: 'urn:uuid:54d03680-dc66-5c60-840e-f06d2bba5f9e'
+    link: 'https://pub.dartlang.org/packages/mock'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
