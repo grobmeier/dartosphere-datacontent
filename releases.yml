@@ -23359,3 +23359,22 @@
     link: 'https://pub.dartlang.org/packages/dotenv'
     author:
         - mockturtl
+-
+    package_name: petitparser
+    package_version: v1.4.0
+    title: 'v1.4.0 of petitparser'
+    published: '2015-05-15T11:59:44+00:00'
+    id: 'urn:uuid:63256dc4-60ec-5b54-9673-b4209b3c6b48'
+    link: 'https://pub.dartlang.org/packages/petitparser'
+    author:
+        - 'Lukas Renggli'
+-
+    package_name: elastic_dart
+    package_version: v0.1.0
+    title: 'v0.1.0 of elastic_dart'
+    published: '2015-05-15T11:59:44+00:00'
+    id: 'urn:uuid:da84853c-b619-511e-91a9-0b8fc14319fd'
+    link: 'https://pub.dartlang.org/packages/elastic_dart'
+    author:
+        - 'Jesper Håkansson'
+        - 'Rasmus Eneman'
