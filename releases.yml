@@ -23350,3 +23350,12 @@
     link: 'https://pub.dartlang.org/packages/hexgrid'
     author:
         - 'Kendal Harland <kendaljharland@gmail.com>'
+-
+    package_name: dotenv
+    package_version: v0.1.3
+    title: 'v0.1.3 of dotenv'
+    published: '2015-05-15T08:59:39+00:00'
+    id: 'urn:uuid:36ca1ba8-2edd-5744-9df4-9ecb7dc095dc'
+    link: 'https://pub.dartlang.org/packages/dotenv'
+    author:
+        - mockturtl
