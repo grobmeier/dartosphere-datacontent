@@ -23387,3 +23387,21 @@
     link: 'https://pub.dartlang.org/packages/built_collection'
     author:
         - 'David Morgan'
+-
+    package_name: xml
+    package_version: v2.3.0
+    title: 'v2.3.0 of xml'
+    published: '2015-05-15T15:59:44+00:00'
+    id: 'urn:uuid:b00e6ffa-ba60-58ea-b363-9580de356f61'
+    link: 'https://pub.dartlang.org/packages/xml'
+    author:
+        - 'Lukas Renggli'
+-
+    package_name: built_collection
+    package_version: v0.3.1
+    title: 'v0.3.1 of built_collection'
+    published: '2015-05-15T15:59:44+00:00'
+    id: 'urn:uuid:a5686b3e-07e9-5358-88a5-00677f1404d0'
+    link: 'https://pub.dartlang.org/packages/built_collection'
+    author:
+        - 'David Morgan'
