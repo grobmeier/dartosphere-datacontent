@@ -23442,3 +23442,12 @@
     link: 'https://pub.dartlang.org/packages/xml'
     author:
         - 'Lukas Renggli'
+-
+    package_name: more
+    package_version: v1.4.0
+    title: 'v1.4.0 of more'
+    published: '2015-05-15T18:59:42+00:00'
+    id: 'urn:uuid:2ea1f728-8a3b-5827-ad90-3e89c88728ff'
+    link: 'https://pub.dartlang.org/packages/more'
+    author:
+        - 'Lukas Renggli'
