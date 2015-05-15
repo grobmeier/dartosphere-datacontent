@@ -23341,3 +23341,12 @@
     link: 'https://pub.dartlang.org/packages/dispatched_worker'
     author:
         - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: hexgrid
+    package_version: v0.0.3
+    title: 'v0.0.3 of hexgrid'
+    published: '2015-05-15T04:25:50+00:00'
+    id: 'urn:uuid:64a46d63-4635-5443-b8c1-b8478f67fdd6'
+    link: 'https://pub.dartlang.org/packages/hexgrid'
+    author:
+        - 'Kendal Harland <kendaljharland@gmail.com>'
