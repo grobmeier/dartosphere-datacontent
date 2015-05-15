@@ -23378,3 +23378,12 @@
     author:
         - 'Jesper Håkansson'
         - 'Rasmus Eneman'
+-
+    package_name: built_collection
+    package_version: v0.3.0
+    title: 'v0.3.0 of built_collection'
+    published: '2015-05-15T13:59:51+00:00'
+    id: 'urn:uuid:c999934a-065c-5b15-ae1f-9ea0d80f3a09'
+    link: 'https://pub.dartlang.org/packages/built_collection'
+    author:
+        - 'David Morgan'
