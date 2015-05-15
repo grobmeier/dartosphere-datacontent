@@ -23423,3 +23423,22 @@
     link: 'https://pub.dartlang.org/packages/petitparser'
     author:
         - 'Lukas Renggli'
+-
+    package_name: bwu_fontawesome_iconset_svg
+    package_version: v0.1.4
+    title: 'v0.1.4 of bwu_fontawesome_iconset_svg'
+    published: '2015-05-15T17:59:46+00:00'
+    id: 'urn:uuid:89359c47-e696-5678-b626-309b2d891d18'
+    link: 'https://pub.dartlang.org/packages/bwu_fontawesome_iconset_svg'
+    author:
+        - 'Günter Zöchbauer'
+        - 'Kun Zhao'
+-
+    package_name: xml
+    package_version: v2.3.2
+    title: 'v2.3.2 of xml'
+    published: '2015-05-15T17:59:46+00:00'
+    id: 'urn:uuid:152bd0a5-b525-5421-9d5d-b3a94632926a'
+    link: 'https://pub.dartlang.org/packages/xml'
+    author:
+        - 'Lukas Renggli'
