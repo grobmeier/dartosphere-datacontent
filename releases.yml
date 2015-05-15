@@ -23405,3 +23405,21 @@
     link: 'https://pub.dartlang.org/packages/built_collection'
     author:
         - 'David Morgan'
+-
+    package_name: xml
+    package_version: v2.3.1
+    title: 'v2.3.1 of xml'
+    published: '2015-05-15T16:59:51+00:00'
+    id: 'urn:uuid:c5936f65-0ea1-50c1-99d8-c85df555f7fa'
+    link: 'https://pub.dartlang.org/packages/xml'
+    author:
+        - 'Lukas Renggli'
+-
+    package_name: petitparser
+    package_version: v1.4.1
+    title: 'v1.4.1 of petitparser'
+    published: '2015-05-15T16:59:51+00:00'
+    id: 'urn:uuid:f15a5eb6-05e1-535d-8340-78da33c1a845'
+    link: 'https://pub.dartlang.org/packages/petitparser'
+    author:
+        - 'Lukas Renggli'
