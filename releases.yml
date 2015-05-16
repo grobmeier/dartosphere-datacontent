@@ -23497,3 +23497,12 @@
     link: 'https://pub.dartlang.org/packages/crossdart'
     author:
         - 'Anton Astashov'
+-
+    package_name: neo4j_dart
+    package_version: v0.2.1
+    title: 'v0.2.1 of neo4j_dart'
+    published: '2015-05-16T07:59:43+00:00'
+    id: 'urn:uuid:d62f0291-6525-5589-9d0d-28a47efd4140'
+    link: 'https://pub.dartlang.org/packages/neo4j_dart'
+    author:
+        - 'Rasmus Eneman'
