@@ -23515,3 +23515,12 @@
     link: 'https://pub.dartlang.org/packages/google_visualization_api'
     author:
         - 'Robert Hartung'
+-
+    package_name: zipio
+    package_version: v0.1.0
+    title: 'v0.1.0 of zipio'
+    published: '2015-05-16T19:59:47+00:00'
+    id: 'urn:uuid:388c6828-7911-512f-97a3-f2a6820225f2'
+    link: 'https://pub.dartlang.org/packages/zipio'
+    author:
+        - 'Juan Mellado'
