@@ -23533,3 +23533,12 @@
     link: 'https://pub.dartlang.org/packages/guava_event_bus'
     author:
         - 'Matthew Franglen'
+-
+    package_name: guava_event_bus
+    package_version: v0.1.0
+    title: 'v0.1.0 of guava_event_bus'
+    published: '2015-05-16T22:59:49+00:00'
+    id: 'urn:uuid:f294fe3d-0263-5a09-b10f-e736340615ab'
+    link: 'https://pub.dartlang.org/packages/guava_event_bus'
+    author:
+        - 'Matthew Franglen'
