@@ -23524,3 +23524,12 @@
     link: 'https://pub.dartlang.org/packages/zipio'
     author:
         - 'Juan Mellado'
+-
+    package_name: guava_event_bus
+    package_version: v0.0.6
+    title: 'v0.0.6 of guava_event_bus'
+    published: '2015-05-16T20:59:52+00:00'
+    id: 'urn:uuid:582cb08b-3932-512a-bb51-88dd8b69eeb1'
+    link: 'https://pub.dartlang.org/packages/guava_event_bus'
+    author:
+        - 'Matthew Franglen'
