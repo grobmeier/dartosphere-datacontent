@@ -23506,3 +23506,12 @@
     link: 'https://pub.dartlang.org/packages/neo4j_dart'
     author:
         - 'Rasmus Eneman'
+-
+    package_name: google_visualization_api
+    package_version: v0.1.0
+    title: 'v0.1.0 of google_visualization_api'
+    published: '2015-05-16T09:59:39+00:00'
+    id: 'urn:uuid:0dcc7cbb-88e8-5771-8205-5d87d22799bb'
+    link: 'https://pub.dartlang.org/packages/google_visualization_api'
+    author:
+        - 'Robert Hartung'
