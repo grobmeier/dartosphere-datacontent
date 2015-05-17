@@ -23614,3 +23614,12 @@
     link: 'https://pub.dartlang.org/packages/petitparser'
     author:
         - 'Lukas Renggli'
+-
+    package_name: rest
+    package_version: v0.3.0
+    title: 'v0.3.0 of rest'
+    published: '2015-05-17T19:59:42+00:00'
+    id: 'urn:uuid:d782e140-17de-5ac9-8d5a-ef5180d9fc76'
+    link: 'https://pub.dartlang.org/packages/rest'
+    author:
+        - 'Matthew Coleman'
