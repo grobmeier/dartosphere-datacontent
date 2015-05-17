@@ -23542,3 +23542,12 @@
     link: 'https://pub.dartlang.org/packages/guava_event_bus'
     author:
         - 'Matthew Franglen'
+-
+    package_name: dart_ext
+    package_version: v0.0.11
+    title: 'v0.0.11 of dart_ext'
+    published: '2015-05-17T00:59:57+00:00'
+    id: 'urn:uuid:4eee261d-69ad-541f-bea9-1d979723e7ec'
+    link: 'https://pub.dartlang.org/packages/dart_ext'
+    author:
+        - 'Kun Zhao'
