@@ -23551,3 +23551,12 @@
     link: 'https://pub.dartlang.org/packages/dart_ext'
     author:
         - 'Kun Zhao'
+-
+    package_name: zipio
+    package_version: v0.1.1
+    title: 'v0.1.1 of zipio'
+    published: '2015-05-17T07:59:46+00:00'
+    id: 'urn:uuid:baacfdf2-0b83-5beb-ab73-347e900364d0'
+    link: 'https://pub.dartlang.org/packages/zipio'
+    author:
+        - 'Juan Mellado'
