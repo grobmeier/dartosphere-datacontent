@@ -23605,3 +23605,12 @@
     link: 'https://pub.dartlang.org/packages/vue'
     author:
         - 'Emil Persson'
+-
+    package_name: petitparser
+    package_version: v1.4.3
+    title: 'v1.4.3 of petitparser'
+    published: '2015-05-17T15:59:44+00:00'
+    id: 'urn:uuid:bd80ff5d-fde4-5aaf-9c3d-9a1636913eb4'
+    link: 'https://pub.dartlang.org/packages/petitparser'
+    author:
+        - 'Lukas Renggli'
