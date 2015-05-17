@@ -23578,3 +23578,30 @@
     link: 'https://pub.dartlang.org/packages/petitparser'
     author:
         - 'Lukas Renggli'
+-
+    package_name: serial_port
+    package_version: v0.3.0+1
+    title: 'v0.3.0+1 of serial_port'
+    published: '2015-05-17T14:59:41+00:00'
+    id: 'urn:uuid:00431550-a931-5498-b8af-bec4128cc380'
+    link: 'https://pub.dartlang.org/packages/serial_port'
+    author:
+        - 'Nicolas Francois '
+-
+    package_name: cupid
+    package_version: v0.3.0
+    title: 'v0.3.0 of cupid'
+    published: '2015-05-17T14:59:41+00:00'
+    id: 'urn:uuid:d7753206-a8b9-5050-abd8-f05886417a84'
+    link: 'https://pub.dartlang.org/packages/cupid'
+    author:
+        - 'Emil Persson'
+-
+    package_name: vue
+    package_version: v0.1.1
+    title: 'v0.1.1 of vue'
+    published: '2015-05-17T14:59:41+00:00'
+    id: 'urn:uuid:1b6132c7-45fc-5fa7-8e6e-e4d62eb32173'
+    link: 'https://pub.dartlang.org/packages/vue'
+    author:
+        - 'Emil Persson'
