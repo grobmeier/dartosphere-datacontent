@@ -23569,3 +23569,12 @@
     link: 'https://pub.dartlang.org/packages/yomp_db'
     author:
         - 'Tomas Rokos'
+-
+    package_name: petitparser
+    package_version: v1.4.2
+    title: 'v1.4.2 of petitparser'
+    published: '2015-05-17T09:59:46+00:00'
+    id: 'urn:uuid:3cf6b02d-c718-5fd7-99de-f606c7aa8229'
+    link: 'https://pub.dartlang.org/packages/petitparser'
+    author:
+        - 'Lukas Renggli'
