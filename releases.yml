@@ -23660,3 +23660,12 @@
     link: 'https://pub.dartlang.org/packages/react'
     author:
         - 'Clean Team'
+-
+    package_name: class_loader
+    package_version: v0.0.2
+    title: 'v0.0.2 of class_loader'
+    published: '2015-05-18T12:59:40+00:00'
+    id: 'urn:uuid:291e1321-dbad-569e-ab1c-2e07ce240eac'
+    link: 'https://pub.dartlang.org/packages/class_loader'
+    author:
+        - 'Christoph Grundmann'
