@@ -23696,3 +23696,12 @@
     link: 'https://pub.dartlang.org/packages/zipio'
     author:
         - 'Juan Mellado'
+-
+    package_name: linter
+    package_version: v0.0.2+3
+    title: 'v0.0.2+3 of linter'
+    published: '2015-05-18T22:00:00+00:00'
+    id: 'urn:uuid:0c3220af-47d0-57b5-9fc8-4047fed6facb'
+    link: 'https://pub.dartlang.org/packages/linter'
+    author:
+        - 'Dart Team'
