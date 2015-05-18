@@ -23632,3 +23632,13 @@
     link: 'https://pub.dartlang.org/packages/targets'
     author:
         - 'Jack Thakar'
+-
+    package_name: bwu_fontawesome_iconset_svg
+    package_version: v0.2.0
+    title: 'v0.2.0 of bwu_fontawesome_iconset_svg'
+    published: '2015-05-18T08:59:45+00:00'
+    id: 'urn:uuid:5a4655be-694c-5356-99d4-86051615e6a8'
+    link: 'https://pub.dartlang.org/packages/bwu_fontawesome_iconset_svg'
+    author:
+        - 'Günter Zöchbauer'
+        - 'Kun Zhao'
