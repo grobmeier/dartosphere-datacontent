@@ -23623,3 +23623,12 @@
     link: 'https://pub.dartlang.org/packages/rest'
     author:
         - 'Matthew Coleman'
+-
+    package_name: targets
+    package_version: v0.7.9
+    title: 'v0.7.9 of targets'
+    published: '2015-05-18T00:59:51+00:00'
+    id: 'urn:uuid:dd93193b-fbb9-5616-897a-f9dbd3a71cb0'
+    link: 'https://pub.dartlang.org/packages/targets'
+    author:
+        - 'Jack Thakar'
