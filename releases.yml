@@ -23651,3 +23651,12 @@
     link: 'https://pub.dartlang.org/packages/ghpages_generator'
     author:
         - 'Alexandre Ardhuin'
+-
+    package_name: react
+    package_version: v0.7.0
+    title: 'v0.7.0 of react'
+    published: '2015-05-18T10:59:41+00:00'
+    id: 'urn:uuid:a7d3a0c4-247c-568e-b653-03135bc663f9'
+    link: 'https://pub.dartlang.org/packages/react'
+    author:
+        - 'Clean Team'
