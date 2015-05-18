@@ -23669,3 +23669,12 @@
     link: 'https://pub.dartlang.org/packages/class_loader'
     author:
         - 'Christoph Grundmann'
+-
+    package_name: testcase
+    package_version: v0.1.0
+    title: 'v0.1.0 of testcase'
+    published: '2015-05-18T13:59:50+00:00'
+    id: 'urn:uuid:893f208f-5a62-5f1f-aa31-beeec5692f0b'
+    link: 'https://pub.dartlang.org/packages/testcase'
+    author:
+        - 'Emil Persson'
