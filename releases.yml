@@ -23678,3 +23678,21 @@
     link: 'https://pub.dartlang.org/packages/testcase'
     author:
         - 'Emil Persson'
+-
+    package_name: forcemvc
+    package_version: v0.7.2
+    title: 'v0.7.2 of forcemvc'
+    published: '2015-05-18T18:59:43+00:00'
+    id: 'urn:uuid:22a10df2-e4f6-5268-a7d5-0814579e73f2'
+    link: 'https://pub.dartlang.org/packages/forcemvc'
+    author:
+        - 'Joris Hermans'
+-
+    package_name: zipio
+    package_version: v0.1.2
+    title: 'v0.1.2 of zipio'
+    published: '2015-05-18T18:59:43+00:00'
+    id: 'urn:uuid:9f88eb4d-e9fd-5814-bc65-176245735573'
+    link: 'https://pub.dartlang.org/packages/zipio'
+    author:
+        - 'Juan Mellado'
