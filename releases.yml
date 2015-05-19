@@ -23934,3 +23934,12 @@
         - 'Tobias Bosch'
         - 'Victor Savkin'
         - 'Yegor Jbanov'
+-
+    package_name: cli_util
+    package_version: v0.0.1+2
+    title: 'v0.0.1+2 of cli_util'
+    published: '2015-05-19T23:59:43+00:00'
+    id: 'urn:uuid:585d53d9-919f-5a0e-b88f-d4300826dd32'
+    link: 'https://pub.dartlang.org/packages/cli_util'
+    author:
+        - 'Dart Team'
