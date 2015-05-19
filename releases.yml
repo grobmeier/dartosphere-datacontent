@@ -23777,3 +23777,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu'
     author:
         - 'Daniel Davidson'
+-
+    package_name: angular_dart_effects
+    package_version: v0.1.0
+    title: 'v0.1.0 of angular_dart_effects'
+    published: '2015-05-19T11:59:45+00:00'
+    id: 'urn:uuid:5d5c21ec-1586-5e4d-b673-06bd0512cb4c'
+    link: 'https://pub.dartlang.org/packages/angular_dart_effects'
+    author:
+        - AlexCDumitru(AlexCD)
