@@ -23822,3 +23822,21 @@
     link: 'https://pub.dartlang.org/packages/d_calendar'
     author:
         - 'Dejan Marlovic'
+-
+    package_name: tuneup
+    package_version: v0.0.5+7
+    title: 'v0.0.5+7 of tuneup'
+    published: '2015-05-19T18:59:44+00:00'
+    id: 'urn:uuid:595f7e7b-c4be-58e9-bf05-037172e8f239'
+    link: 'https://pub.dartlang.org/packages/tuneup'
+    author:
+        - 'Devon Carew'
+-
+    package_name: d_calendar
+    package_version: v0.1.1
+    title: 'v0.1.1 of d_calendar'
+    published: '2015-05-19T18:59:44+00:00'
+    id: 'urn:uuid:c5c23ef9-e808-51e4-b30b-cfc570b8c457'
+    link: 'https://pub.dartlang.org/packages/d_calendar'
+    author:
+        - 'Dejan Marlovic'
