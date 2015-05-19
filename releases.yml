@@ -23714,3 +23714,12 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team'
+-
+    package_name: compiler_unsupported
+    package_version: v1.10.1
+    title: 'v1.10.1 of compiler_unsupported'
+    published: '2015-05-19T04:59:41+00:00'
+    id: 'urn:uuid:d6b417e9-c35e-5b4b-bddb-e6e3e51c42b5'
+    link: 'https://pub.dartlang.org/packages/compiler_unsupported'
+    author:
+        - 'Dart2js Team'
