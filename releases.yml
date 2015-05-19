@@ -23705,3 +23705,12 @@
     link: 'https://pub.dartlang.org/packages/linter'
     author:
         - 'Dart Team'
+-
+    package_name: dartdoc
+    package_version: v0.0.2
+    title: 'v0.0.2 of dartdoc'
+    published: '2015-05-19T01:59:44+00:00'
+    id: 'urn:uuid:2ff67a76-72a6-5241-8945-fa5e505437e5'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team'
