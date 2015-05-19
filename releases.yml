@@ -23786,3 +23786,12 @@
     link: 'https://pub.dartlang.org/packages/angular_dart_effects'
     author:
         - AlexCDumitru(AlexCD)
+-
+    package_name: d_calendar
+    package_version: v0.0.6
+    title: 'v0.0.6 of d_calendar'
+    published: '2015-05-19T14:59:41+00:00'
+    id: 'urn:uuid:543ad58f-21ca-5bd0-b79f-ef22ce02a051'
+    link: 'https://pub.dartlang.org/packages/d_calendar'
+    author:
+        - 'Dejan Marlovic'
