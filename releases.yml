@@ -23759,3 +23759,21 @@
     link: 'https://pub.dartlang.org/packages/d_calendar'
     author:
         - 'Dejan Marlovic'
+-
+    package_name: ebisu_cpp
+    package_version: v0.3.1
+    title: 'v0.3.1 of ebisu_cpp'
+    published: '2015-05-19T10:59:50+00:00'
+    id: 'urn:uuid:d2c5f4d8-6512-5ddb-9614-a33dee7a6a3d'
+    link: 'https://pub.dartlang.org/packages/ebisu_cpp'
+    author:
+        - 'Daniel Davidson'
+-
+    package_name: ebisu
+    package_version: v0.5.2
+    title: 'v0.5.2 of ebisu'
+    published: '2015-05-19T10:59:51+00:00'
+    id: 'urn:uuid:75a8eb3d-b699-5356-ba5c-6a7774f26763'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson'
