@@ -23732,3 +23732,21 @@
     link: 'https://pub.dartlang.org/packages/coverage'
     author:
         - 'Dart Team'
+-
+    package_name: r2d2
+    package_version: v0.1.1
+    title: 'v0.1.1 of r2d2'
+    published: '2015-05-19T08:59:43+00:00'
+    id: 'urn:uuid:9f093ad2-3664-5002-9e66-b46e7b4df982'
+    link: 'https://pub.dartlang.org/packages/r2d2'
+    author:
+        - 'Joris Hermans'
+-
+    package_name: d_calendar
+    package_version: v0.0.2
+    title: 'v0.0.2 of d_calendar'
+    published: '2015-05-19T08:59:43+00:00'
+    id: 'urn:uuid:3d627e94-a049-5970-9b95-7fbcc8ae7b10'
+    link: 'https://pub.dartlang.org/packages/d_calendar'
+    author:
+        - 'Dejan Marlovic'
