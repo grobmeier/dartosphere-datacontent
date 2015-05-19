@@ -23804,3 +23804,12 @@
     link: 'https://pub.dartlang.org/packages/d_calendar'
     author:
         - 'Dejan Marlovic'
+-
+    package_name: d_calendar
+    package_version: v0.0.8
+    title: 'v0.0.8 of d_calendar'
+    published: '2015-05-19T16:59:42+00:00'
+    id: 'urn:uuid:8ad38761-c2a3-5e80-947e-95015e061d76'
+    link: 'https://pub.dartlang.org/packages/d_calendar'
+    author:
+        - 'Dejan Marlovic'
