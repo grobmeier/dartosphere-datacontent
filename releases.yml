@@ -23723,3 +23723,12 @@
     link: 'https://pub.dartlang.org/packages/compiler_unsupported'
     author:
         - 'Dart2js Team'
+-
+    package_name: coverage
+    package_version: v0.6.2
+    title: 'v0.6.2 of coverage'
+    published: '2015-05-19T05:59:42+00:00'
+    id: 'urn:uuid:6ddb2e2d-4276-5e18-97e4-bf737a30d541'
+    link: 'https://pub.dartlang.org/packages/coverage'
+    author:
+        - 'Dart Team'
