@@ -23840,3 +23840,12 @@
     link: 'https://pub.dartlang.org/packages/d_calendar'
     author:
         - 'Dejan Marlovic'
+-
+    package_name: web_notifications
+    package_version: v0.0.3
+    title: 'v0.0.3 of web_notifications'
+    published: '2015-05-19T19:59:49+00:00'
+    id: 'urn:uuid:af8b743a-28a7-5518-be49-dd7596cd411d'
+    link: 'https://pub.dartlang.org/packages/web_notifications'
+    author:
+        - 'Dart Team'
