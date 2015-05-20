@@ -23979,3 +23979,12 @@
     link: 'https://pub.dartlang.org/packages/bridge'
     author:
         - 'Emil Persson'
+-
+    package_name: cupid
+    package_version: v0.4.0
+    title: 'v0.4.0 of cupid'
+    published: '2015-05-20T11:59:41+00:00'
+    id: 'urn:uuid:19e92644-39a8-5832-add7-25cf6fcb5f94'
+    link: 'https://pub.dartlang.org/packages/cupid'
+    author:
+        - 'Emil Persson'
