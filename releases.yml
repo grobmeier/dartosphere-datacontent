@@ -23943,3 +23943,21 @@
     link: 'https://pub.dartlang.org/packages/cli_util'
     author:
         - 'Dart Team'
+-
+    package_name: ebisu
+    package_version: v0.5.3
+    title: 'v0.5.3 of ebisu'
+    published: '2015-05-20T03:59:44+00:00'
+    id: 'urn:uuid:1ddc1c5c-4315-5bfe-93c3-4ee342da20cb'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson'
+-
+    package_name: id
+    package_version: v1.0.10
+    title: 'v1.0.10 of id'
+    published: '2015-05-20T03:59:44+00:00'
+    id: 'urn:uuid:4625b48f-a338-508d-8dfd-c9bde65d61a1'
+    link: 'https://pub.dartlang.org/packages/id'
+    author:
+        - 'Daniel Davidson'
