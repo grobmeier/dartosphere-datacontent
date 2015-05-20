@@ -23961,3 +23961,12 @@
     link: 'https://pub.dartlang.org/packages/id'
     author:
         - 'Daniel Davidson'
+-
+    package_name: bridge
+    package_version: v0.2.0
+    title: 'v0.2.0 of bridge'
+    published: '2015-05-20T09:59:44+00:00'
+    id: 'urn:uuid:7aab82b8-4d70-5889-9001-b1ba29d55c98'
+    link: 'https://pub.dartlang.org/packages/bridge'
+    author:
+        - 'Emil Persson'
