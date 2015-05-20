@@ -24016,3 +24016,21 @@
     link: 'https://pub.dartlang.org/packages/cupid'
     author:
         - 'Emil Persson'
+-
+    package_name: dart_coveralls
+    package_version: v0.1.12
+    title: 'v0.1.12 of dart_coveralls'
+    published: '2015-05-20T17:59:49+00:00'
+    id: 'urn:uuid:fc4812b5-791c-5d73-8b65-c0a037ea89d8'
+    link: 'https://pub.dartlang.org/packages/dart_coveralls'
+    author:
+        - 'Axel Christ'
+-
+    package_name: targets
+    package_version: v0.7.9+1
+    title: 'v0.7.9+1 of targets'
+    published: '2015-05-20T17:59:49+00:00'
+    id: 'urn:uuid:7f5cffc6-306d-5ba4-b5d6-f3a6dcda775b'
+    link: 'https://pub.dartlang.org/packages/targets'
+    author:
+        - 'Jack Thakar'
