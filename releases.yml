@@ -24034,3 +24034,12 @@
     link: 'https://pub.dartlang.org/packages/targets'
     author:
         - 'Jack Thakar'
+-
+    package_name: coverage
+    package_version: v0.6.3
+    title: 'v0.6.3 of coverage'
+    published: '2015-05-20T18:59:54+00:00'
+    id: 'urn:uuid:e2a5a456-5511-59c3-b448-3de932c5b51d'
+    link: 'https://pub.dartlang.org/packages/coverage'
+    author:
+        - 'Dart Team'
