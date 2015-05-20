@@ -24052,3 +24052,21 @@
     link: 'https://pub.dartlang.org/packages/emoji'
     author:
         - 'David Notik'
+-
+    package_name: emoji
+    package_version: v1.1.1
+    title: 'v1.1.1 of emoji'
+    published: '2015-05-20T21:00:12+00:00'
+    id: 'urn:uuid:a1addc54-187a-56ee-901d-74433e60672f'
+    link: 'https://pub.dartlang.org/packages/emoji'
+    author:
+        - 'David Notik'
+-
+    package_name: zipio
+    package_version: v0.1.3
+    title: 'v0.1.3 of zipio'
+    published: '2015-05-20T21:00:13+00:00'
+    id: 'urn:uuid:42b6bb05-5b69-5352-8d4f-63e3881c7ecb'
+    link: 'https://pub.dartlang.org/packages/zipio'
+    author:
+        - 'Juan Mellado'
