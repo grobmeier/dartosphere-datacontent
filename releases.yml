@@ -24007,3 +24007,12 @@
     link: 'https://pub.dartlang.org/packages/cupid'
     author:
         - 'Emil Persson'
+-
+    package_name: cupid
+    package_version: v0.5.1
+    title: 'v0.5.1 of cupid'
+    published: '2015-05-20T15:59:41+00:00'
+    id: 'urn:uuid:c42ceb9b-345e-558a-b26b-648a6bc04aa5'
+    link: 'https://pub.dartlang.org/packages/cupid'
+    author:
+        - 'Emil Persson'
