@@ -24070,3 +24070,21 @@
     link: 'https://pub.dartlang.org/packages/zipio'
     author:
         - 'Juan Mellado'
+-
+    package_name: redis
+    package_version: v0.4.4
+    title: 'v0.4.4 of redis'
+    published: '2015-05-20T21:59:53+00:00'
+    id: 'urn:uuid:63f59720-cb42-5e6b-aec1-414a8302d67e'
+    link: 'https://pub.dartlang.org/packages/redis'
+    author:
+        - 'Luka Rahne'
+-
+    package_name: emoji
+    package_version: v1.1.2
+    title: 'v1.1.2 of emoji'
+    published: '2015-05-20T21:59:54+00:00'
+    id: 'urn:uuid:2ff9f9d1-1e7d-5a88-9b51-b4eeddcfd044'
+    link: 'https://pub.dartlang.org/packages/emoji'
+    author:
+        - 'David Notik'
