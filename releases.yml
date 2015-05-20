@@ -23970,3 +23970,12 @@
     link: 'https://pub.dartlang.org/packages/bridge'
     author:
         - 'Emil Persson'
+-
+    package_name: bridge
+    package_version: v0.2.1
+    title: 'v0.2.1 of bridge'
+    published: '2015-05-20T10:59:43+00:00'
+    id: 'urn:uuid:878fe14f-70c8-52f9-813e-bd15adee48f4'
+    link: 'https://pub.dartlang.org/packages/bridge'
+    author:
+        - 'Emil Persson'
