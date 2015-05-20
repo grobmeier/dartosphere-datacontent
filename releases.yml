@@ -24043,3 +24043,12 @@
     link: 'https://pub.dartlang.org/packages/coverage'
     author:
         - 'Dart Team'
+-
+    package_name: emoji
+    package_version: v1.1.0
+    title: 'v1.1.0 of emoji'
+    published: '2015-05-20T19:59:44+00:00'
+    id: 'urn:uuid:78084029-e828-55b3-8aab-befbe5ddc169'
+    link: 'https://pub.dartlang.org/packages/emoji'
+    author:
+        - 'David Notik'
