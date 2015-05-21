@@ -24160,3 +24160,12 @@
     link: 'https://pub.dartlang.org/packages/d_calendar'
     author:
         - 'Dejan Marlovic'
+-
+    package_name: d_calendar
+    package_version: v0.1.61
+    title: 'v0.1.61 of d_calendar'
+    published: '2015-05-21T16:59:46+00:00'
+    id: 'urn:uuid:379b24b8-3968-544c-8968-8bb0025f538c'
+    link: 'https://pub.dartlang.org/packages/d_calendar'
+    author:
+        - 'Dejan Marlovic'
