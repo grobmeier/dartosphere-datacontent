@@ -24133,3 +24133,21 @@
     link: 'https://pub.dartlang.org/packages/d_calendar'
     author:
         - 'Dejan Marlovic'
+-
+    package_name: d_calendar
+    package_version: v0.1.5
+    title: 'v0.1.5 of d_calendar'
+    published: '2015-05-21T14:59:48+00:00'
+    id: 'urn:uuid:f715e8b7-7162-5c8c-a777-98cfa5614164'
+    link: 'https://pub.dartlang.org/packages/d_calendar'
+    author:
+        - 'Dejan Marlovic'
+-
+    package_name: do2template
+    package_version: v0.2.4
+    title: 'v0.2.4 of do2template'
+    published: '2015-05-21T14:59:48+00:00'
+    id: 'urn:uuid:6ff472cb-7bf5-5403-b2bc-729b10ac8239'
+    link: 'https://pub.dartlang.org/packages/do2template'
+    author:
+        - 'Mikhail Stolyarov'
