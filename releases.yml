@@ -24151,3 +24151,12 @@
     link: 'https://pub.dartlang.org/packages/do2template'
     author:
         - 'Mikhail Stolyarov'
+-
+    package_name: d_calendar
+    package_version: v0.1.6
+    title: 'v0.1.6 of d_calendar'
+    published: '2015-05-21T15:59:46+00:00'
+    id: 'urn:uuid:b1d26ad8-1c85-57cf-a188-aeb04683d87a'
+    link: 'https://pub.dartlang.org/packages/d_calendar'
+    author:
+        - 'Dejan Marlovic'
