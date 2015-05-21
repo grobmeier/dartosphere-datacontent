@@ -24178,3 +24178,15 @@
     link: 'https://pub.dartlang.org/packages/matcher'
     author:
         - 'Dart Team'
+-
+    package_name: w_transport
+    package_version: v1.0.0
+    title: 'v1.0.0 of w_transport'
+    published: '2015-05-21T19:59:43+00:00'
+    id: 'urn:uuid:49de1597-dd75-5ac4-8cca-e0569ca8cf32'
+    link: 'https://pub.dartlang.org/packages/w_transport'
+    author:
+        - 'Workiva Client Platform Team'
+        - 'Evan Weible'
+        - 'Max Peterson'
+        - 'Trent Grover'
