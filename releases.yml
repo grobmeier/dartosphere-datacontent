@@ -24124,3 +24124,12 @@
     link: 'https://pub.dartlang.org/packages/cupid'
     author:
         - 'Emil Persson'
+-
+    package_name: d_calendar
+    package_version: v0.1.4
+    title: 'v0.1.4 of d_calendar'
+    published: '2015-05-21T12:59:48+00:00'
+    id: 'urn:uuid:260b83a6-20ef-5d59-9650-d89626040349'
+    link: 'https://pub.dartlang.org/packages/d_calendar'
+    author:
+        - 'Dejan Marlovic'
