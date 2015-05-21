@@ -24115,3 +24115,12 @@
     link: 'https://pub.dartlang.org/packages/d_calendar'
     author:
         - 'Dejan Marlovic'
+-
+    package_name: cupid
+    package_version: v0.5.2
+    title: 'v0.5.2 of cupid'
+    published: '2015-05-21T11:59:43+00:00'
+    id: 'urn:uuid:487fa36c-8858-5e11-a666-ae5abb890dae'
+    link: 'https://pub.dartlang.org/packages/cupid'
+    author:
+        - 'Emil Persson'
