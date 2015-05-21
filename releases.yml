@@ -24088,3 +24088,21 @@
     link: 'https://pub.dartlang.org/packages/emoji'
     author:
         - 'David Notik'
+-
+    package_name: pub_semver
+    package_version: v1.2.1
+    title: 'v1.2.1 of pub_semver'
+    published: '2015-05-21T00:59:43+00:00'
+    id: 'urn:uuid:6a2017c6-7237-5733-aee2-7eb648fe7549'
+    link: 'https://pub.dartlang.org/packages/pub_semver'
+    author:
+        - 'Dart Team'
+-
+    package_name: uri
+    package_version: v0.10.0
+    title: 'v0.10.0 of uri'
+    published: '2015-05-21T00:59:43+00:00'
+    id: 'urn:uuid:eb1a9f2f-40fb-5f2c-94dc-ef7d888ea3c1'
+    link: 'https://pub.dartlang.org/packages/uri'
+    author:
+        - 'Dart Authors'
