@@ -24190,3 +24190,21 @@
         - 'Evan Weible'
         - 'Max Peterson'
         - 'Trent Grover'
+-
+    package_name: args
+    package_version: v0.13.1
+    title: 'v0.13.1 of args'
+    published: '2015-05-21T20:59:55+00:00'
+    id: 'urn:uuid:2f3ee067-1430-5bf7-b6d9-3af86d60c5b7'
+    link: 'https://pub.dartlang.org/packages/args'
+    author:
+        - 'Dart Team'
+-
+    package_name: intl
+    package_version: v0.12.4
+    title: 'v0.12.4 of intl'
+    published: '2015-05-21T20:59:56+00:00'
+    id: 'urn:uuid:b2560f1d-4645-5f6f-9852-2bf8abfae1e1'
+    link: 'https://pub.dartlang.org/packages/intl'
+    author:
+        - 'Dart Team'
