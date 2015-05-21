@@ -24169,3 +24169,12 @@
     link: 'https://pub.dartlang.org/packages/d_calendar'
     author:
         - 'Dejan Marlovic'
+-
+    package_name: matcher
+    package_version: v0.12.0+1
+    title: 'v0.12.0+1 of matcher'
+    published: '2015-05-21T17:59:44+00:00'
+    id: 'urn:uuid:be0ac750-e78e-58c3-a961-85c22aadfd8b'
+    link: 'https://pub.dartlang.org/packages/matcher'
+    author:
+        - 'Dart Team'
