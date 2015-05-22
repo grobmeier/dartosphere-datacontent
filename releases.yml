@@ -24330,3 +24330,12 @@
     link: 'https://pub.dartlang.org/packages/coverage'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: coverage
+    package_version: v0.6.5
+    title: 'v0.6.5 of coverage'
+    published: '2015-05-22T23:11:59+00:00'
+    id: 'urn:uuid:45d1de17-1329-5a61-bbcb-c83e4d6bae05'
+    link: 'https://pub.dartlang.org/packages/coverage'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
