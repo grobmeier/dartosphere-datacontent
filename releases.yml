@@ -24283,3 +24283,14 @@
     link: 'https://pub.dartlang.org/packages/test'
     author:
         - 'Dart Team'
+-
+    package_name: rikulo_commons
+    package_version: v2.0.2
+    title: 'v2.0.2 of rikulo_commons'
+    published: '2015-05-22T07:33:33+00:00'
+    id: 'urn:uuid:2a041ef5-e971-52d0-b0ff-c58bb186cd80'
+    link: 'https://pub.dartlang.org/packages/rikulo_commons'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+        - 'Henri Chen <henrichen@rikulo.org>'
+        - 'Simon Pai <simonpai@rikulo.org>'
