@@ -24217,3 +24217,69 @@
     link: 'https://pub.dartlang.org/packages/less_dart'
     author:
         - 'Adalberto Lacruz'
+-
+    package_name: angular2_benchmarks
+    package_version: v2.0.0-alpha.25
+    title: 'v2.0.0-alpha.25 of angular2_benchmarks'
+    published: '2015-05-22T00:59:52+00:00'
+    id: 'urn:uuid:e4077710-66b3-53f7-b6a3-cfbf58bf74ed'
+    link: 'https://pub.dartlang.org/packages/angular2_benchmarks'
+    author:
+        - 'Alex Eagle'
+        - 'Chirayu Krishnappa'
+        - 'Jeff Cross'
+        - 'Misko Hevery'
+        - 'Rado Kirov'
+        - 'Tobias Bosch'
+        - 'Victor Savkin'
+        - 'Yegor Jbanov'
+-
+    package_name: benchpress
+    package_version: v2.0.0-alpha.25
+    title: 'v2.0.0-alpha.25 of benchpress'
+    published: '2015-05-22T00:59:52+00:00'
+    id: 'urn:uuid:6dfe0869-84d6-521c-97ff-4d903440f8c5'
+    link: 'https://pub.dartlang.org/packages/benchpress'
+    author:
+        - 'Alex Eagle'
+        - 'Chirayu Krishnappa'
+        - 'Jeff Cross'
+        - 'Misko Hevery'
+        - 'Rado Kirov'
+        - 'Tobias Bosch'
+        - 'Victor Savkin'
+        - 'Yegor Jbanov'
+-
+    package_name: angular2
+    package_version: v2.0.0-alpha.25
+    title: 'v2.0.0-alpha.25 of angular2'
+    published: '2015-05-22T00:59:52+00:00'
+    id: 'urn:uuid:d3235674-2a3f-517c-9478-a8d0a46b9892'
+    link: 'https://pub.dartlang.org/packages/angular2'
+    author:
+        - 'Alex Eagle'
+        - 'Chirayu Krishnappa'
+        - 'Jeff Cross'
+        - 'Misko Hevery'
+        - 'Rado Kirov'
+        - 'Tobias Bosch'
+        - 'Victor Savkin'
+        - 'Yegor Jbanov'
+-
+    package_name: unittest
+    package_version: v0.12.2
+    title: 'v0.12.2 of unittest'
+    published: '2015-05-22T00:59:52+00:00'
+    id: 'urn:uuid:e1f278cd-0a07-5dd4-9e3e-5c18637a1a19'
+    link: 'https://pub.dartlang.org/packages/unittest'
+    author:
+        - 'Dart Team'
+-
+    package_name: test
+    package_version: v0.12.2
+    title: 'v0.12.2 of test'
+    published: '2015-05-22T00:59:52+00:00'
+    id: 'urn:uuid:0d12ffbd-563b-574f-9967-0b9b1b502cf5'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team'
