@@ -24312,3 +24312,21 @@
     link: 'https://pub.dartlang.org/packages/access'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: polymer
+    package_version: v0.16.3+3
+    title: 'v0.16.3+3 of polymer'
+    published: '2015-05-22T16:50:22+00:00'
+    id: 'urn:uuid:66947bb3-82b2-5560-a51c-819739fe2702'
+    link: 'https://pub.dartlang.org/packages/polymer'
+    author:
+        - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: coverage
+    package_version: v0.6.4
+    title: 'v0.6.4 of coverage'
+    published: '2015-05-22T16:31:19+00:00'
+    id: 'urn:uuid:43d3fa0f-5783-5271-b160-5038765e6fce'
+    link: 'https://pub.dartlang.org/packages/coverage'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
