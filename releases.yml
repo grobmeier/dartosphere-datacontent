@@ -24303,3 +24303,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu'
     author:
         - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: access
+    package_version: v0.6.1
+    title: 'v0.6.1 of access'
+    published: '2015-05-22T13:48:04+00:00'
+    id: 'urn:uuid:65302a75-000d-56ce-8123-9dff1964db59'
+    link: 'https://pub.dartlang.org/packages/access'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
