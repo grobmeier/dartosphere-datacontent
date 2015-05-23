@@ -24366,3 +24366,12 @@
     link: 'https://pub.dartlang.org/packages/klang'
     author:
         - 'Gaëtan Rizio <gaetan@rizio.fr>'
+-
+    package_name: yomp_db
+    package_version: v0.8.0+1
+    title: 'v0.8.0+1 of yomp_db'
+    published: '2015-05-23T13:44:08+00:00'
+    id: 'urn:uuid:fd0d336e-f639-5217-ac2a-5220c2740815'
+    link: 'https://pub.dartlang.org/packages/yomp_db'
+    author:
+        - 'Tomas Rokos <tomas.rokos@gmail.com>'
