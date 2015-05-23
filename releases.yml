@@ -24339,3 +24339,12 @@
     link: 'https://pub.dartlang.org/packages/coverage'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: pool
+    package_version: v1.0.2
+    title: 'v1.0.2 of pool'
+    published: '2015-05-23T01:46:07+00:00'
+    id: 'urn:uuid:549685d7-da99-569a-b508-fee6541a4b84'
+    link: 'https://pub.dartlang.org/packages/pool'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
