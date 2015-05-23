@@ -24357,3 +24357,12 @@
     link: 'https://pub.dartlang.org/packages/dart_event_emitter'
     author:
         - 'Jakub Turek <ja@kubaturek.pl>'
+-
+    package_name: klang
+    package_version: v0.1.5
+    title: 'v0.1.5 of klang'
+    published: '2015-05-23T12:07:03+00:00'
+    id: 'urn:uuid:d33c9f25-2bdf-5f37-9490-465093d8707b'
+    link: 'https://pub.dartlang.org/packages/klang'
+    author:
+        - 'Gaëtan Rizio <gaetan@rizio.fr>'
