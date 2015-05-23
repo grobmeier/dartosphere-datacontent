@@ -24402,3 +24402,12 @@
     link: 'https://pub.dartlang.org/packages/log4dart'
     author:
         - 'Lars Tackmann <lars@solvr.io>'
+-
+    package_name: event_dispatcher
+    package_version: v1.2.2
+    title: 'v1.2.2 of event_dispatcher'
+    published: '2015-05-23T16:21:25+00:00'
+    id: 'urn:uuid:46afe522-dad7-530f-b6a2-b0e84bd24e1e'
+    link: 'https://pub.dartlang.org/packages/event_dispatcher'
+    author:
+        - 'samrg472 <samrg472@gmail.com>'
