@@ -24348,3 +24348,12 @@
     link: 'https://pub.dartlang.org/packages/pool'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dart_event_emitter
+    package_version: v1.0.1
+    title: 'v1.0.1 of dart_event_emitter'
+    published: '2015-05-23T10:24:38+00:00'
+    id: 'urn:uuid:18aeb28b-ecab-5e82-869a-5eeb7dc82503'
+    link: 'https://pub.dartlang.org/packages/dart_event_emitter'
+    author:
+        - 'Jakub Turek <ja@kubaturek.pl>'
