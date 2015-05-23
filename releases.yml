@@ -24375,3 +24375,30 @@
     link: 'https://pub.dartlang.org/packages/yomp_db'
     author:
         - 'Tomas Rokos <tomas.rokos@gmail.com>'
+-
+    package_name: harvest
+    package_version: v1.6.1
+    title: 'v1.6.1 of harvest'
+    published: '2015-05-23T15:51:16+00:00'
+    id: 'urn:uuid:f50abd55-b456-5af1-bf73-a4f163d60118'
+    link: 'https://pub.dartlang.org/packages/harvest'
+    author:
+        - 'Lars Tackmann <lars@solvr.io>'
+-
+    package_name: dice
+    package_version: v1.5.3
+    title: 'v1.5.3 of dice'
+    published: '2015-05-23T15:48:42+00:00'
+    id: 'urn:uuid:82b65e6d-90b6-5f3a-ab53-aa34e12b394e'
+    link: 'https://pub.dartlang.org/packages/dice'
+    author:
+        - 'Lars Tackmann <lars@solvr.io>'
+-
+    package_name: log4dart
+    package_version: v1.4.14
+    title: 'v1.4.14 of log4dart'
+    published: '2015-05-23T15:46:46+00:00'
+    id: 'urn:uuid:b6b9186a-4f13-5f39-84bc-dd450af6e606'
+    link: 'https://pub.dartlang.org/packages/log4dart'
+    author:
+        - 'Lars Tackmann <lars@solvr.io>'
