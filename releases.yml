@@ -24411,3 +24411,30 @@
     link: 'https://pub.dartlang.org/packages/event_dispatcher'
     author:
         - 'samrg472 <samrg472@gmail.com>'
+-
+    package_name: warehouse
+    package_version: v0.1.0
+    title: 'v0.1.0 of warehouse'
+    published: '2015-05-24T16:54:11+00:00'
+    id: 'urn:uuid:64bc8d45-ff78-5d6e-a8ed-595116b97190'
+    link: 'https://pub.dartlang.org/packages/warehouse'
+    author:
+        - 'Rasmus Eneman <rasmus@eneamn.eu>'
+-
+    package_name: slickdart
+    package_version: v0.1.2
+    title: 'v0.1.2 of slickdart'
+    published: '2015-05-24T16:45:50+00:00'
+    id: 'urn:uuid:81578887-f21d-528e-adf6-a090cb323bb9'
+    link: 'https://pub.dartlang.org/packages/slickdart'
+    author:
+        - 'CJKAO <kaopeter@gmail.com>'
+-
+    package_name: ebisu
+    package_version: v0.6.1
+    title: 'v0.6.1 of ebisu'
+    published: '2015-05-24T16:34:49+00:00'
+    id: 'urn:uuid:983002b5-085d-52d5-adbd-d6ab0107408b'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
