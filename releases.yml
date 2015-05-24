@@ -24438,3 +24438,22 @@
     link: 'https://pub.dartlang.org/packages/ebisu'
     author:
         - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: neo4j_dart
+    package_version: v0.3.0
+    title: 'v0.3.0 of neo4j_dart'
+    published: '2015-05-24T17:00:50+00:00'
+    id: 'urn:uuid:0760e4cc-aa3c-53c0-b18c-dfcce897d216'
+    link: 'https://pub.dartlang.org/packages/neo4j_dart'
+    author:
+        - 'Rasmus Eneman <rasmus@eneman.eu>'
+-
+    package_name: elastic_dart
+    package_version: v0.2.0
+    title: 'v0.2.0 of elastic_dart'
+    published: '2015-05-24T17:00:19+00:00'
+    id: 'urn:uuid:e3b825bd-643b-5a0f-b863-1a2f7a2e38a8'
+    link: 'https://pub.dartlang.org/packages/elastic_dart'
+    author:
+        - 'Jesper Håkansson <jesper@jesperh.se>'
+        - 'Rasmus Eneman <rasmus@eneman.eu>'
