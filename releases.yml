@@ -24540,3 +24540,21 @@
     link: 'https://pub.dartlang.org/packages/bridge'
     author:
         - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: cupid
+    package_version: v0.5.5
+    title: 'v0.5.5 of cupid'
+    published: '2015-05-25T20:59:16+00:00'
+    id: 'urn:uuid:179f4f99-aa1e-5ffa-a696-bf8879b9a618'
+    link: 'https://pub.dartlang.org/packages/cupid'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: bridge
+    package_version: v0.3.3
+    title: 'v0.3.3 of bridge'
+    published: '2015-05-25T20:30:31+00:00'
+    id: 'urn:uuid:79cc3fd0-322f-57e8-aa24-667ff7fc4c10'
+    link: 'https://pub.dartlang.org/packages/bridge'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
