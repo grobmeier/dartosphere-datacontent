@@ -24531,3 +24531,12 @@
     link: 'https://pub.dartlang.org/packages/pubs'
     author:
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: bridge
+    package_version: v0.3.0
+    title: 'v0.3.0 of bridge'
+    published: '2015-05-25T18:11:43+00:00'
+    id: 'urn:uuid:3f586380-ed0d-532c-ae0d-d4285c1b49ea'
+    link: 'https://pub.dartlang.org/packages/bridge'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
