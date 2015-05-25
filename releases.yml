@@ -24495,3 +24495,21 @@
     link: 'https://pub.dartlang.org/packages/d_calendar'
     author:
         - 'Dejan Marlovic <dejan.marlovic@appfoundry.se> & Patrick Minogue <patrick.minogue@appfoundry.se>'
+-
+    package_name: json_schema
+    package_version: v1.0.1
+    title: 'v1.0.1 of json_schema'
+    published: '2015-05-25T12:50:52+00:00'
+    id: 'urn:uuid:c88a12ed-0d24-57c8-93bc-39134121b8ce'
+    link: 'https://pub.dartlang.org/packages/json_schema'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: d_calendar
+    package_version: v0.2.1
+    title: 'v0.2.1 of d_calendar'
+    published: '2015-05-25T12:40:46+00:00'
+    id: 'urn:uuid:48d08f27-1d2d-5222-b07a-f7444dbb59be'
+    link: 'https://pub.dartlang.org/packages/d_calendar'
+    author:
+        - 'Dejan Marlovic <dejan.marlovic@appfoundry.se> & Patrick Minogue <patrick.minogue@appfoundry.se>'
