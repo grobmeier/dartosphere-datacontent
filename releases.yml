@@ -24576,3 +24576,12 @@
     link: 'https://pub.dartlang.org/packages/bridge'
     author:
         - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: ebisu
+    package_version: v0.6.2
+    title: 'v0.6.2 of ebisu'
+    published: '2015-05-25T22:05:06+00:00'
+    id: 'urn:uuid:93f2e5f5-ba06-5b69-9ba7-f45229e4568b'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
