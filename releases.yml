@@ -24522,3 +24522,12 @@
     link: 'https://pub.dartlang.org/packages/d_calendar'
     author:
         - 'Dejan Marlovic <dejan.marlovic@appfoundry.se> & Patrick Minogue <patrick.minogue@appfoundry.se>'
+-
+    package_name: pubs
+    package_version: v0.1.1+1
+    title: 'v0.1.1+1 of pubs'
+    published: '2015-05-25T17:48:03+00:00'
+    id: 'urn:uuid:c1916ac5-6953-57fd-9480-19d3d0957871'
+    link: 'https://pub.dartlang.org/packages/pubs'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
