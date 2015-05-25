@@ -24486,3 +24486,12 @@
     author:
         - 'Devon Carew <devoncarew@google.com>'
         - 'Sean Eagan <seaneagan1@gmail.com>'
+-
+    package_name: d_calendar
+    package_version: v0.1.85
+    title: 'v0.1.85 of d_calendar'
+    published: '2015-05-25T08:51:31+00:00'
+    id: 'urn:uuid:6b6b5e0f-db31-5651-abdb-bc0af45a9dc0'
+    link: 'https://pub.dartlang.org/packages/d_calendar'
+    author:
+        - 'Dejan Marlovic <dejan.marlovic@appfoundry.se> & Patrick Minogue <patrick.minogue@appfoundry.se>'
