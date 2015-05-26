@@ -24612,3 +24612,31 @@
     link: 'https://pub.dartlang.org/packages/hashdown'
     author:
         - 'Rick Zhou <rinick@gmail.com>'
+-
+    package_name: googleapis
+    package_version: v0.10.0
+    title: 'v0.10.0 of googleapis'
+    published: '2015-05-26T08:41:10+00:00'
+    id: 'urn:uuid:012e4452-2e61-58a3-9955-735b868cdc71'
+    link: 'https://pub.dartlang.org/packages/googleapis'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: googleapis_beta
+    package_version: v0.14.0
+    title: 'v0.14.0 of googleapis_beta'
+    published: '2015-05-26T08:41:00+00:00'
+    id: 'urn:uuid:accad93b-bad2-5731-a163-f844ceb2a3af'
+    link: 'https://pub.dartlang.org/packages/googleapis_beta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: elastic_dart
+    package_version: v0.2.1
+    title: 'v0.2.1 of elastic_dart'
+    published: '2015-05-26T08:10:57+00:00'
+    id: 'urn:uuid:784b0fce-d70b-5bd9-9b48-7eb0ffc4e8fa'
+    link: 'https://pub.dartlang.org/packages/elastic_dart'
+    author:
+        - 'Jesper Håkansson <jesper@jesperh.se>'
+        - 'Rasmus Eneman <rasmus@eneman.eu>'
