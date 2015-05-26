@@ -24594,3 +24594,12 @@
     link: 'https://pub.dartlang.org/packages/rest'
     author:
         - 'Matthew Coleman <matthew@eudaimonia.com>'
+-
+    package_name: pubs
+    package_version: v0.1.1+4
+    title: 'v0.1.1+4 of pubs'
+    published: '2015-05-26T06:26:19+00:00'
+    id: 'urn:uuid:12798542-901b-53a5-ad0d-3814453a19df'
+    link: 'https://pub.dartlang.org/packages/pubs'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
