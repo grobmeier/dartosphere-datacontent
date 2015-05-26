@@ -24603,3 +24603,12 @@
     link: 'https://pub.dartlang.org/packages/pubs'
     author:
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: hashdown
+    package_version: v1.0.5
+    title: 'v1.0.5 of hashdown'
+    published: '2015-05-26T07:27:23+00:00'
+    id: 'urn:uuid:5d61da02-44cd-5e06-9117-3fc6b3a2e868'
+    link: 'https://pub.dartlang.org/packages/hashdown'
+    author:
+        - 'Rick Zhou <rinick@gmail.com>'
