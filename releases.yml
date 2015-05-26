@@ -24658,3 +24658,12 @@
     link: 'https://pub.dartlang.org/packages/dartson'
     author:
         - 'Eric Schneller <eric@schnellers.name>'
+-
+    package_name: rest
+    package_version: v0.3.2
+    title: 'v0.3.2 of rest'
+    published: '2015-05-26T14:47:04+00:00'
+    id: 'urn:uuid:004a5ad8-e7f6-5790-a68a-09f1d2785ec6'
+    link: 'https://pub.dartlang.org/packages/rest'
+    author:
+        - 'Matthew Coleman <matthew@eudaimonia.com>'
