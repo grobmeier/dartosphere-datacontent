@@ -24640,3 +24640,12 @@
     author:
         - 'Jesper Håkansson <jesper@jesperh.se>'
         - 'Rasmus Eneman <rasmus@eneman.eu>'
+-
+    package_name: harvest
+    package_version: v1.6.2
+    title: 'v1.6.2 of harvest'
+    published: '2015-05-26T10:05:52+00:00'
+    id: 'urn:uuid:8d4cc4ce-bd3f-5c67-ad0c-2ae22cfa4e11'
+    link: 'https://pub.dartlang.org/packages/harvest'
+    author:
+        - 'Lars Tackmann <lars@solvr.io>'
