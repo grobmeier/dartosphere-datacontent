@@ -24676,3 +24676,21 @@
     link: 'https://pub.dartlang.org/packages/sitegen'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: pubs
+    package_version: v0.1.1+5
+    title: 'v0.1.1+5 of pubs'
+    published: '2015-05-26T16:55:20+00:00'
+    id: 'urn:uuid:a5b24c8c-d715-5236-969f-d1df86d4a346'
+    link: 'https://pub.dartlang.org/packages/pubs'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: d_calendar
+    package_version: v0.2.35
+    title: 'v0.2.35 of d_calendar'
+    published: '2015-05-26T16:28:25+00:00'
+    id: 'urn:uuid:fa97f7c6-4833-5c04-90f2-ba84f3f75cf5'
+    link: 'https://pub.dartlang.org/packages/d_calendar'
+    author:
+        - 'Dejan Marlovic <dejan.marlovic@appfoundry.se> & Patrick Minogue <patrick.minogue@appfoundry.se>'
