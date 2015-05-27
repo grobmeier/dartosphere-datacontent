@@ -24748,3 +24748,13 @@
     link: 'https://pub.dartlang.org/packages/d_calendar'
     author:
         - 'Dejan Marlovic <dejan.marlovic@appfoundry.se> & Patrick Minogue <patrick.minogue@appfoundry.se>'
+-
+    package_name: route_hierarchical
+    package_version: v0.6.2
+    title: 'v0.6.2 of route_hierarchical'
+    published: '2015-05-27T14:39:20+00:00'
+    id: 'urn:uuid:343518a6-4f5b-5ff5-89d3-b2d879555da3'
+    link: 'https://pub.dartlang.org/packages/route_hierarchical'
+    author:
+        - 'Justin Fagnani <justinfagnani@google.com>'
+        - 'Pavel Jbanov <pavelj@google.com>'
