@@ -24739,3 +24739,12 @@
     link: 'https://pub.dartlang.org/packages/d_calendar'
     author:
         - 'Dejan Marlovic <dejan.marlovic@appfoundry.se> & Patrick Minogue <patrick.minogue@appfoundry.se>'
+-
+    package_name: d_calendar
+    package_version: v0.2.49
+    title: 'v0.2.49 of d_calendar'
+    published: '2015-05-27T09:58:28+00:00'
+    id: 'urn:uuid:a26e61ad-54b0-54fc-8827-adc46d4c4aea'
+    link: 'https://pub.dartlang.org/packages/d_calendar'
+    author:
+        - 'Dejan Marlovic <dejan.marlovic@appfoundry.se> & Patrick Minogue <patrick.minogue@appfoundry.se>'
