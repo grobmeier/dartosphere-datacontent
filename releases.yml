@@ -24712,3 +24712,12 @@
     link: 'https://pub.dartlang.org/packages/harvest'
     author:
         - 'Lars Tackmann <lars@solvr.io>'
+-
+    package_name: google_visualization_api
+    package_version: v0.1.1+1
+    title: 'v0.1.1+1 of google_visualization_api'
+    published: '2015-05-27T06:37:16+00:00'
+    id: 'urn:uuid:526cb1f8-f245-57dd-b375-715ea2049a1c'
+    link: 'https://pub.dartlang.org/packages/google_visualization_api'
+    author:
+        - 'Robert Hartung <robert.w.hartung@gmail.com>'
