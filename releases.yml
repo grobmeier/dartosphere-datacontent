@@ -24875,3 +24875,12 @@
     link: 'https://pub.dartlang.org/packages/js_wrapping'
     author:
         - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+-
+    package_name: package_config
+    package_version: v0.0.2+3
+    title: 'v0.0.2+3 of package_config'
+    published: '2015-05-28T23:24:39+00:00'
+    id: 'urn:uuid:b0332d15-527e-52c7-846b-6fbef0e2398d'
+    link: 'https://pub.dartlang.org/packages/package_config'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
