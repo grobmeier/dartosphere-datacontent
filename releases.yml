@@ -24803,3 +24803,12 @@
     link: 'https://pub.dartlang.org/packages/bwu_datagrid_sdk110fix'
     author:
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: d_calendar
+    package_version: v0.2.62
+    title: 'v0.2.62 of d_calendar'
+    published: '2015-05-28T14:47:58+00:00'
+    id: 'urn:uuid:ae374325-2f7d-51f3-8b00-5189c72b23b3'
+    link: 'https://pub.dartlang.org/packages/d_calendar'
+    author:
+        - 'Dejan Marlovic <dejan.marlovic@appfoundry.se> & Patrick Minogue <patrick.minogue@appfoundry.se>'
