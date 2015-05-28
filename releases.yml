@@ -24785,3 +24785,12 @@
     link: 'https://pub.dartlang.org/packages/util'
     author:
         - 'Tanplus <tanplus@gmail.com>'
+-
+    package_name: d_calendar
+    package_version: v0.2.52
+    title: 'v0.2.52 of d_calendar'
+    published: '2015-05-28T11:13:25+00:00'
+    id: 'urn:uuid:5a78c53f-778e-512c-ad38-8d83b76ac644'
+    link: 'https://pub.dartlang.org/packages/d_calendar'
+    author:
+        - 'Dejan Marlovic <dejan.marlovic@appfoundry.se> & Patrick Minogue <patrick.minogue@appfoundry.se>'
