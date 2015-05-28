@@ -24776,3 +24776,12 @@
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
         - 'Sean Eagan <seaneagan1@gmail.com>'
         - 'Victor Berchet <victor@suumit.com>'
+-
+    package_name: util
+    package_version: v0.0.1
+    title: 'v0.0.1 of util'
+    published: '2015-05-28T10:00:22+00:00'
+    id: 'urn:uuid:6007b52c-3392-5662-b03e-cb5a4b9e655c'
+    link: 'https://pub.dartlang.org/packages/util'
+    author:
+        - 'Tanplus <tanplus@gmail.com>'
