@@ -24857,3 +24857,21 @@
     link: 'https://pub.dartlang.org/packages/d_calendar'
     author:
         - 'Dejan Marlovic <dejan.marlovic@appfoundry.se> & Patrick Minogue <patrick.minogue@appfoundry.se>'
+-
+    package_name: package_config
+    package_version: v0.0.2+2
+    title: 'v0.0.2+2 of package_config'
+    published: '2015-05-28T20:57:27+00:00'
+    id: 'urn:uuid:5190da76-a768-5a65-8949-6f57ab61f4f4'
+    link: 'https://pub.dartlang.org/packages/package_config'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: js_wrapping
+    package_version: v0.2.0
+    title: 'v0.2.0 of js_wrapping'
+    published: '2015-05-28T20:38:17+00:00'
+    id: 'urn:uuid:39b87e43-5dd9-5837-889f-8e7f9a48980c'
+    link: 'https://pub.dartlang.org/packages/js_wrapping'
+    author:
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
