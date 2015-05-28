@@ -24839,3 +24839,21 @@
     link: 'https://pub.dartlang.org/packages/bwu_datagrid'
     author:
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: package_config
+    package_version: v0.0.2
+    title: 'v0.0.2 of package_config'
+    published: '2015-05-28T17:52:43+00:00'
+    id: 'urn:uuid:b41c3ac0-4032-54d6-84a8-0160db373b8e'
+    link: 'https://pub.dartlang.org/packages/package_config'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: d_calendar
+    package_version: v0.2.66
+    title: 'v0.2.66 of d_calendar'
+    published: '2015-05-28T17:10:21+00:00'
+    id: 'urn:uuid:8c862d01-34e3-5109-ab75-0559ad491fba'
+    link: 'https://pub.dartlang.org/packages/d_calendar'
+    author:
+        - 'Dejan Marlovic <dejan.marlovic@appfoundry.se> & Patrick Minogue <patrick.minogue@appfoundry.se>'
