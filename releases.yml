@@ -24794,3 +24794,12 @@
     link: 'https://pub.dartlang.org/packages/d_calendar'
     author:
         - 'Dejan Marlovic <dejan.marlovic@appfoundry.se> & Patrick Minogue <patrick.minogue@appfoundry.se>'
+-
+    package_name: bwu_datagrid_sdk110fix
+    package_version: v0.0.21
+    title: 'v0.0.21 of bwu_datagrid_sdk110fix'
+    published: '2015-05-28T12:39:53+00:00'
+    id: 'urn:uuid:ce8f487c-5eed-54ce-aa75-c31b296c618d'
+    link: 'https://pub.dartlang.org/packages/bwu_datagrid_sdk110fix'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
