@@ -24902,3 +24902,21 @@
     link: 'https://pub.dartlang.org/packages/d_calendar'
     author:
         - 'Dejan Marlovic <dejan.marlovic@appfoundry.se> & Patrick Minogue <patrick.minogue@appfoundry.se>'
+-
+    package_name: d_calendar
+    package_version: v0.2.73
+    title: 'v0.2.73 of d_calendar'
+    published: '2015-05-29T08:55:02+00:00'
+    id: 'urn:uuid:7551a36e-1c8f-521c-9f67-782210cf6dc1'
+    link: 'https://pub.dartlang.org/packages/d_calendar'
+    author:
+        - 'Dejan Marlovic <dejan.marlovic@appfoundry.se> & Patrick Minogue <patrick.minogue@appfoundry.se>'
+-
+    package_name: sitegen
+    package_version: v1.0.1
+    title: 'v1.0.1 of sitegen'
+    published: '2015-05-29T08:25:03+00:00'
+    id: 'urn:uuid:4a57fe1d-728e-55d3-ab33-54b655ec3e02'
+    link: 'https://pub.dartlang.org/packages/sitegen'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
