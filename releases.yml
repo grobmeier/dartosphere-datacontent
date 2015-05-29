@@ -24947,3 +24947,21 @@
     link: 'https://pub.dartlang.org/packages/d_calendar'
     author:
         - 'Dejan Marlovic <dejan.marlovic@appfoundry.se> & Patrick Minogue <patrick.minogue@appfoundry.se>'
+-
+    package_name: d_calendar
+    package_version: v0.2.78
+    title: 'v0.2.78 of d_calendar'
+    published: '2015-05-29T15:55:43+00:00'
+    id: 'urn:uuid:5227bbe9-a69a-59cf-a84c-da113d45ac94'
+    link: 'https://pub.dartlang.org/packages/d_calendar'
+    author:
+        - 'Dejan Marlovic <dejan.marlovic@appfoundry.se> & Patrick Minogue <patrick.minogue@appfoundry.se>'
+-
+    package_name: dloc
+    package_version: v1.0.0
+    title: 'v1.0.0 of dloc'
+    published: '2015-05-29T15:10:10+00:00'
+    id: 'urn:uuid:a1d61838-d55a-5a61-9e2b-c3169440a38f'
+    link: 'https://pub.dartlang.org/packages/dloc'
+    author:
+        - 'Sigma Informatique <github@sigma.fr>'
