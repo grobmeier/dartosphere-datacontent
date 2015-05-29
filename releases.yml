@@ -24893,3 +24893,12 @@
     link: 'https://pub.dartlang.org/packages/pubs'
     author:
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: d_calendar
+    package_version: v0.2.67
+    title: 'v0.2.67 of d_calendar'
+    published: '2015-05-29T07:51:00+00:00'
+    id: 'urn:uuid:450c1a2b-5873-566e-b0e0-ace9b3f98665'
+    link: 'https://pub.dartlang.org/packages/d_calendar'
+    author:
+        - 'Dejan Marlovic <dejan.marlovic@appfoundry.se> & Patrick Minogue <patrick.minogue@appfoundry.se>'
