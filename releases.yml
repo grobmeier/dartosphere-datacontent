@@ -24929,3 +24929,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_rpc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: threading
+    package_version: v0.0.1
+    title: 'v0.0.1 of threading'
+    published: '2015-05-29T13:33:26+00:00'
+    id: 'urn:uuid:9ff4aea6-07aa-5d7e-b72f-f40775d19e06'
+    link: 'https://pub.dartlang.org/packages/threading'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
