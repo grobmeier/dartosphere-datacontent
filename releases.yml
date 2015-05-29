@@ -24965,3 +24965,39 @@
     link: 'https://pub.dartlang.org/packages/dloc'
     author:
         - 'Sigma Informatique <github@sigma.fr>'
+-
+    package_name: crossdart
+    package_version: v0.0.8
+    title: 'v0.0.8 of crossdart'
+    published: '2015-05-29T17:46:22+00:00'
+    id: 'urn:uuid:0fc6798a-0042-5743-b5d0-898c05446d45'
+    link: 'https://pub.dartlang.org/packages/crossdart'
+    author:
+        - 'Anton Astashov <anton.astashov@gmail.com>'
+-
+    package_name: package_config
+    package_version: v0.0.2+4
+    title: 'v0.0.2+4 of package_config'
+    published: '2015-05-29T17:28:54+00:00'
+    id: 'urn:uuid:938372b0-17ee-5f99-9995-4e5ef774777d'
+    link: 'https://pub.dartlang.org/packages/package_config'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: threading
+    package_version: v0.0.2
+    title: 'v0.0.2 of threading'
+    published: '2015-05-29T17:13:05+00:00'
+    id: 'urn:uuid:fdd89cc3-ce56-59fb-b46e-c60fd6c76f63'
+    link: 'https://pub.dartlang.org/packages/threading'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: pageloader
+    package_version: v1.4.0
+    title: 'v1.4.0 of pageloader'
+    published: '2015-02-27T18:50:02+00:00'
+    id: 'urn:uuid:509b92ec-c50a-5e55-baed-097ba8777ca5'
+    link: 'https://pub.dartlang.org/packages/pageloader'
+    author:
+        - 'Google Inc.'
