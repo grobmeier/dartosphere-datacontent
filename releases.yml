@@ -24938,3 +24938,12 @@
     link: 'https://pub.dartlang.org/packages/threading'
     author:
         - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: d_calendar
+    package_version: v0.2.74
+    title: 'v0.2.74 of d_calendar'
+    published: '2015-05-29T14:27:42+00:00'
+    id: 'urn:uuid:e5790b4b-0e87-5549-b31c-f53caae03193'
+    link: 'https://pub.dartlang.org/packages/d_calendar'
+    author:
+        - 'Dejan Marlovic <dejan.marlovic@appfoundry.se> & Patrick Minogue <patrick.minogue@appfoundry.se>'
