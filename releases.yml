@@ -24884,3 +24884,12 @@
     link: 'https://pub.dartlang.org/packages/package_config'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: pubs
+    package_version: v0.1.2
+    title: 'v0.1.2 of pubs'
+    published: '2015-05-29T06:46:56+00:00'
+    id: 'urn:uuid:03bf9f37-9ce2-5b23-bbff-4e2c82670220'
+    link: 'https://pub.dartlang.org/packages/pubs'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
