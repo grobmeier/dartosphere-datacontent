@@ -25073,3 +25073,12 @@
     link: 'https://pub.dartlang.org/packages/dart_coveralls'
     author:
         - 'Axel Christ <adracus@gmail.com>'
+-
+    package_name: svg
+    package_version: v0.0.1
+    title: 'v0.0.1 of svg'
+    published: '2015-05-30T23:10:19+00:00'
+    id: 'urn:uuid:092abc4c-b065-5e10-94b1-243db801e766'
+    link: 'https://pub.dartlang.org/packages/svg'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
