@@ -25028,3 +25028,30 @@
     link: 'https://pub.dartlang.org/packages/threading'
     author:
         - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: bwu_utils_dev
+    package_version: v0.1.0-dev.2
+    title: 'v0.1.0-dev.2 of bwu_utils_dev'
+    published: '2015-05-30T16:39:11+00:00'
+    id: 'urn:uuid:21bd1648-15f4-5a5f-b5b1-3fdf4274e7f8'
+    link: 'https://pub.dartlang.org/packages/bwu_utils_dev'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: bwu_dart_archive_downloader
+    package_version: v0.1.0
+    title: 'v0.1.0 of bwu_dart_archive_downloader'
+    published: '2015-05-30T16:32:59+00:00'
+    id: 'urn:uuid:27c5aec8-f093-526e-a1d4-dea5da1d5740'
+    link: 'https://pub.dartlang.org/packages/bwu_dart_archive_downloader'
+    author:
+        - 'Guenter Zoechbauer <guenter@gzoechbauer.com>'
+-
+    package_name: bwu_utils
+    package_version: v0.0.2
+    title: 'v0.0.2 of bwu_utils'
+    published: '2014-06-18T17:56:05+00:00'
+    id: 'urn:uuid:2570536a-e645-5bfe-a575-1b6d8569d2ee'
+    link: 'https://pub.dartlang.org/packages/bwu_utils'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
