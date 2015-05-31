@@ -25136,3 +25136,12 @@
     link: 'https://pub.dartlang.org/packages/hashdown'
     author:
         - 'Rick Zhou <rinick@gmail.com>'
+-
+    package_name: svg
+    package_version: v0.0.2
+    title: 'v0.0.2 of svg'
+    published: '2015-05-31T17:51:10+00:00'
+    id: 'urn:uuid:089ccfe7-8780-52f4-823e-c811a05fa9c2'
+    link: 'https://pub.dartlang.org/packages/svg'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
