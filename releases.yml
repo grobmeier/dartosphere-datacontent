@@ -25082,3 +25082,12 @@
     link: 'https://pub.dartlang.org/packages/svg'
     author:
         - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: new_bridge
+    package_version: v0.1.0
+    title: 'v0.1.0 of new_bridge'
+    published: '2015-05-31T09:58:21+00:00'
+    id: 'urn:uuid:3448af4f-8a54-5625-b0ed-c330f1f40d6a'
+    link: 'https://pub.dartlang.org/packages/new_bridge'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
