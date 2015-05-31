@@ -25100,3 +25100,21 @@
     link: 'https://pub.dartlang.org/packages/bridge'
     author:
         - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: yomp_cqrs
+    package_version: v0.1.0+4
+    title: 'v0.1.0+4 of yomp_cqrs'
+    published: '2015-05-31T11:12:02+00:00'
+    id: 'urn:uuid:166b3bee-5434-545b-80f6-d77ca568d2be'
+    link: 'https://pub.dartlang.org/packages/yomp_cqrs'
+    author:
+        - 'Tomas Rokos <tomas.rokos@gmail.com>'
+-
+    package_name: yomp_db
+    package_version: v0.8.1
+    title: 'v0.8.1 of yomp_db'
+    published: '2015-05-31T11:03:59+00:00'
+    id: 'urn:uuid:8b8aed9e-d9c0-555e-aec8-98a72721aa8f'
+    link: 'https://pub.dartlang.org/packages/yomp_db'
+    author:
+        - 'Tomas Rokos <tomas.rokos@gmail.com>'
