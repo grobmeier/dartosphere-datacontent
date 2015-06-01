@@ -25262,3 +25262,12 @@
     link: 'https://pub.dartlang.org/packages/parsejs'
     author:
         - 'Asger Feldthaus <asger.feldthaus@gmail.com>'
+-
+    package_name: shelf_appengine
+    package_version: v0.2.2
+    title: 'v0.2.2 of shelf_appengine'
+    published: '2015-06-01T22:02:42+00:00'
+    id: 'urn:uuid:52d6c2a4-b39b-5378-9d69-90febb6f165a'
+    link: 'https://pub.dartlang.org/packages/shelf_appengine'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
