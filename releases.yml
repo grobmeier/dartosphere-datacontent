@@ -25208,3 +25208,12 @@
     link: 'https://pub.dartlang.org/packages/bwu_pub_client'
     author:
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: d_calendar
+    package_version: v0.2.83
+    title: 'v0.2.83 of d_calendar'
+    published: '2015-06-01T13:23:19+00:00'
+    id: 'urn:uuid:e61f48aa-1005-5324-a8f7-2e4118e89dcd'
+    link: 'https://pub.dartlang.org/packages/d_calendar'
+    author:
+        - 'Dejan Marlovic <dejan.marlovic@appfoundry.se> & Patrick Minogue <patrick.minogue@appfoundry.se>'
