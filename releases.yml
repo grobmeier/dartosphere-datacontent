@@ -25163,3 +25163,12 @@
     link: 'https://pub.dartlang.org/packages/threading'
     author:
         - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: js_wrapping
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of js_wrapping'
+    published: '2015-06-01T07:34:50+00:00'
+    id: 'urn:uuid:eb0e8bb5-bb9e-508c-94ab-b376d642e61e'
+    link: 'https://pub.dartlang.org/packages/js_wrapping'
+    author:
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
