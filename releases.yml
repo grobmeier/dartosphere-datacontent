@@ -25316,3 +25316,12 @@
     link: 'https://pub.dartlang.org/packages/dice'
     author:
         - 'Lars Tackmann <lars@solvr.io>'
+-
+    package_name: discoveryapis_generator
+    package_version: v0.7.2
+    title: 'v0.7.2 of discoveryapis_generator'
+    published: '2015-06-02T13:50:17+00:00'
+    id: 'urn:uuid:d05c032c-8173-52b3-9538-432a2b3a4a48'
+    link: 'https://pub.dartlang.org/packages/discoveryapis_generator'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
