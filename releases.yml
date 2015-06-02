@@ -25280,3 +25280,12 @@
     link: 'https://pub.dartlang.org/packages/dart_jwt'
     author:
         - 'Anders Holmgren<aholmgren@atlassian.com>'
+-
+    package_name: dart_ext
+    package_version: v0.0.12
+    title: 'v0.0.12 of dart_ext'
+    published: '2015-06-02T03:27:46+00:00'
+    id: 'urn:uuid:53376d2a-a2f7-537e-81f0-5e847349a4cb'
+    link: 'https://pub.dartlang.org/packages/dart_ext'
+    author:
+        - 'Kun Zhao <kunzhao77@gmail.com>'
