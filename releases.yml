@@ -25343,3 +25343,12 @@
     link: 'https://pub.dartlang.org/packages/bwu_utils_dev'
     author:
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: r_tree
+    package_version: v1.0.0
+    title: 'v1.0.0 of r_tree'
+    published: '2015-06-02T20:19:46+00:00'
+    id: 'urn:uuid:cfbd20de-b66c-5c65-bdda-7a2f5090530d'
+    link: 'https://pub.dartlang.org/packages/r_tree'
+    author:
+        - 'Taylor Anderson <taylor.anderson@workiva.com>'
