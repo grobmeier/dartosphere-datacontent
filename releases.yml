@@ -25334,3 +25334,12 @@
     link: 'https://pub.dartlang.org/packages/iris'
     author:
         - 'Matias Meno <m@tias.me>'
+-
+    package_name: bwu_utils_dev
+    package_version: v0.1.0-dev.3
+    title: 'v0.1.0-dev.3 of bwu_utils_dev'
+    published: '2015-06-02T15:37:07+00:00'
+    id: 'urn:uuid:e0a7b4f9-062e-5fbc-9b22-decd2c7e1e3d'
+    link: 'https://pub.dartlang.org/packages/bwu_utils_dev'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
