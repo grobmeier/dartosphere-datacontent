@@ -25325,3 +25325,12 @@
     link: 'https://pub.dartlang.org/packages/discoveryapis_generator'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: iris
+    package_version: v0.10.1
+    title: 'v0.10.1 of iris'
+    published: '2015-06-02T14:13:13+00:00'
+    id: 'urn:uuid:447970e1-0bf5-5753-9eba-28cd1221cf3d'
+    link: 'https://pub.dartlang.org/packages/iris'
+    author:
+        - 'Matias Meno <m@tias.me>'
