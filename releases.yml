@@ -25271,3 +25271,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_appengine'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dart_jwt
+    package_version: v0.4.1
+    title: 'v0.4.1 of dart_jwt'
+    published: '2015-06-02T01:16:45+00:00'
+    id: 'urn:uuid:ac0b48c3-8332-5e47-aef2-0fcb9631e113'
+    link: 'https://pub.dartlang.org/packages/dart_jwt'
+    author:
+        - 'Anders Holmgren<aholmgren@atlassian.com>'
