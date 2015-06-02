@@ -25289,3 +25289,21 @@
     link: 'https://pub.dartlang.org/packages/dart_ext'
     author:
         - 'Kun Zhao <kunzhao77@gmail.com>'
+-
+    package_name: bwu_dart_archive_downloader
+    package_version: v0.2.0
+    title: 'v0.2.0 of bwu_dart_archive_downloader'
+    published: '2015-06-02T07:46:09+00:00'
+    id: 'urn:uuid:4e1c93a5-03fe-5844-b767-b65a73311c75'
+    link: 'https://pub.dartlang.org/packages/bwu_dart_archive_downloader'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: google_visualization_api
+    package_version: v0.1.2
+    title: 'v0.1.2 of google_visualization_api'
+    published: '2015-06-02T07:26:11+00:00'
+    id: 'urn:uuid:ae99ce83-7f6d-51e0-a01e-250175f83c65'
+    link: 'https://pub.dartlang.org/packages/google_visualization_api'
+    author:
+        - 'Robert Hartung <robert.w.hartung@gmail.com>'
