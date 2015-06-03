@@ -25415,3 +25415,21 @@
     link: 'https://pub.dartlang.org/packages/slickdart'
     author:
         - 'CJKAO <kaopeter@gmail.com>'
+-
+    package_name: threading
+    package_version: v0.0.7
+    title: 'v0.0.7 of threading'
+    published: '2015-06-03T17:37:01+00:00'
+    id: 'urn:uuid:68ce3823-040a-5664-a604-d3353fce5d9a'
+    link: 'https://pub.dartlang.org/packages/threading'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: bwu_utils_dev
+    package_version: v0.1.0-dev.5
+    title: 'v0.1.0-dev.5 of bwu_utils_dev'
+    published: '2015-06-03T17:03:19+00:00'
+    id: 'urn:uuid:99ce2cf4-1091-5683-b843-b72874fb0c16'
+    link: 'https://pub.dartlang.org/packages/bwu_utils_dev'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
