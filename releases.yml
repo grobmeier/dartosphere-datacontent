@@ -25370,3 +25370,12 @@
     link: 'https://pub.dartlang.org/packages/access'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: tiles
+    package_version: v0.1.3+1
+    title: 'v0.1.3+1 of tiles'
+    published: '2015-06-03T13:33:36+00:00'
+    id: 'urn:uuid:2dd1e11b-5d2a-5f9b-84e2-dbdfa237808a'
+    link: 'https://pub.dartlang.org/packages/tiles'
+    author:
+        - 'Jakuub Uhrik <jakuub@mail.com>'
