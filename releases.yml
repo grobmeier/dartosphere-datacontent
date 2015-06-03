@@ -25451,3 +25451,12 @@
     link: 'https://pub.dartlang.org/packages/test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: metatest
+    package_version: v0.2.0
+    title: 'v0.2.0 of metatest'
+    published: '2015-06-03T20:54:28+00:00'
+    id: 'urn:uuid:6dead78d-1a08-54c4-9adf-bff7552ab54e'
+    link: 'https://pub.dartlang.org/packages/metatest'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
