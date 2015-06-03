@@ -25361,3 +25361,12 @@
     link: 'https://pub.dartlang.org/packages/linter'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: access
+    package_version: v0.6.2
+    title: 'v0.6.2 of access'
+    published: '2015-06-03T02:27:49+00:00'
+    id: 'urn:uuid:18e33d63-43fc-58fc-86f6-c00750c5188e'
+    link: 'https://pub.dartlang.org/packages/access'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
