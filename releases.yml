@@ -25433,3 +25433,21 @@
     link: 'https://pub.dartlang.org/packages/bwu_utils_dev'
     author:
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: unittest
+    package_version: v0.12.3
+    title: 'v0.12.3 of unittest'
+    published: '2015-06-03T19:24:05+00:00'
+    id: 'urn:uuid:bea2fbaa-928a-5901-b3d8-1b9e98a930ef'
+    link: 'https://pub.dartlang.org/packages/unittest'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: test
+    package_version: v0.12.3
+    title: 'v0.12.3 of test'
+    published: '2015-06-03T19:22:37+00:00'
+    id: 'urn:uuid:b94ad86a-7670-55fa-b41c-0f50b8ec6965'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
