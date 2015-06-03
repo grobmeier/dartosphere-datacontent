@@ -25379,3 +25379,12 @@
     link: 'https://pub.dartlang.org/packages/tiles'
     author:
         - 'Jakuub Uhrik <jakuub@mail.com>'
+-
+    package_name: csvparser
+    package_version: v1.0.10
+    title: 'v1.0.10 of csvparser'
+    published: '2015-06-03T14:03:19+00:00'
+    id: 'urn:uuid:f9a2caa3-3870-5d32-9d42-19b9fe55f7e9'
+    link: 'https://pub.dartlang.org/packages/csvparser'
+    author:
+        - 'Edouard Tavinor <edouardtavinor@gmail.com>'
