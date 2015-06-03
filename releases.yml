@@ -25406,3 +25406,12 @@
     link: 'https://pub.dartlang.org/packages/csvparser'
     author:
         - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: slickdart
+    package_version: v0.1.2+1
+    title: 'v0.1.2+1 of slickdart'
+    published: '2015-06-03T16:29:01+00:00'
+    id: 'urn:uuid:c515d6cd-42b9-55c0-80f9-dad9a48d2b8d'
+    link: 'https://pub.dartlang.org/packages/slickdart'
+    author:
+        - 'CJKAO <kaopeter@gmail.com>'
