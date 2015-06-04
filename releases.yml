@@ -25607,3 +25607,12 @@
     link: 'https://pub.dartlang.org/packages/scheduled_test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: source_gen
+    package_version: v0.4.1
+    title: 'v0.4.1 of source_gen'
+    published: '2015-06-04T23:40:28+00:00'
+    id: 'urn:uuid:51ad22cb-6332-5e1f-879c-28cc54ad9fe6'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
