@@ -25460,3 +25460,105 @@
     link: 'https://pub.dartlang.org/packages/metatest'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: bwu_pub_client
+    package_version: v0.1.0+1
+    title: 'v0.1.0+1 of bwu_pub_client'
+    published: '2015-06-04T15:51:21+00:00'
+    id: 'urn:uuid:75b342d0-7957-5029-9853-104d95f9d951'
+    link: 'https://pub.dartlang.org/packages/bwu_pub_client'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: bwu_utils_dev
+    package_version: v0.1.0-dev.6
+    title: 'v0.1.0-dev.6 of bwu_utils_dev'
+    published: '2015-06-04T15:40:56+00:00'
+    id: 'urn:uuid:fe14dc3d-4296-5b12-b90d-a4d74a1f3cc0'
+    link: 'https://pub.dartlang.org/packages/bwu_utils_dev'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: google_visualization_api
+    package_version: v0.1.2+1
+    title: 'v0.1.2+1 of google_visualization_api'
+    published: '2015-06-04T15:16:05+00:00'
+    id: 'urn:uuid:2022be9b-006e-57d1-a26f-e79db58056cd'
+    link: 'https://pub.dartlang.org/packages/google_visualization_api'
+    author:
+        - 'Robert Hartung <robert.w.hartung@gmail.com>'
+-
+    package_name: bridge
+    package_version: v0.4.1
+    title: 'v0.4.1 of bridge'
+    published: '2015-06-04T15:02:10+00:00'
+    id: 'urn:uuid:0c86720d-7ed6-5cc5-8e6b-ba4802f90f2e'
+    link: 'https://pub.dartlang.org/packages/bridge'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: getscript
+    package_version: v0.0.1
+    title: 'v0.0.1 of getscript'
+    published: '2015-06-04T13:15:44+00:00'
+    id: 'urn:uuid:c76a4222-5ee7-59b1-b54a-5547996b200f'
+    link: 'https://pub.dartlang.org/packages/getscript'
+    author:
+        - 'George Kormaris <mail@gekorm.com>'
+-
+    package_name: slack
+    package_version: v1.2.1+1
+    title: 'v1.2.1+1 of slack'
+    published: '2015-06-04T02:33:30+00:00'
+    id: 'urn:uuid:f2e20910-57e8-5567-8dc0-e5c0044847fe'
+    link: 'https://pub.dartlang.org/packages/slack'
+    author:
+        - 'Paul VanKeuren <paul.vankeuren@gmail.com>'
+-
+    package_name: angular2_benchmarks
+    package_version: v2.0.0-alpha.26
+    title: 'v2.0.0-alpha.26 of angular2_benchmarks'
+    published: '2015-06-04T00:50:24+00:00'
+    id: 'urn:uuid:fa7ed7fb-24c7-56b1-bff7-d64381080e23'
+    link: 'https://pub.dartlang.org/packages/angular2_benchmarks'
+    author:
+        - 'Alex Eagle <alexeagle@google.com>'
+        - 'Chirayu Krishnappa <chirayu@google.com>'
+        - 'Jeff Cross <crossj@google.com>'
+        - 'Misko Hevery <misko@google.com>'
+        - 'Rado Kirov <radokirov@google.com>'
+        - 'Tobias Bosch <tbosch@google.com>'
+        - 'Victor Savkin <vsavkin@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+-
+    package_name: benchpress
+    package_version: v2.0.0-alpha.26
+    title: 'v2.0.0-alpha.26 of benchpress'
+    published: '2015-06-04T00:50:19+00:00'
+    id: 'urn:uuid:62b89cdd-c008-57c4-a34f-be99d1a62906'
+    link: 'https://pub.dartlang.org/packages/benchpress'
+    author:
+        - 'Alex Eagle <alexeagle@google.com>'
+        - 'Chirayu Krishnappa <chirayu@google.com>'
+        - 'Jeff Cross <crossj@google.com>'
+        - 'Misko Hevery <misko@google.com>'
+        - 'Rado Kirov <radokirov@google.com>'
+        - 'Tobias Bosch <tbosch@google.com>'
+        - 'Victor Savkin <vsavkin@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+-
+    package_name: angular2
+    package_version: v2.0.0-alpha.26
+    title: 'v2.0.0-alpha.26 of angular2'
+    published: '2015-06-04T00:50:14+00:00'
+    id: 'urn:uuid:fbb41e09-4bad-5ea8-b4f6-ffeaad0924d8'
+    link: 'https://pub.dartlang.org/packages/angular2'
+    author:
+        - 'Alex Eagle <alexeagle@google.com>'
+        - 'Chirayu Krishnappa <chirayu@google.com>'
+        - 'Jeff Cross <crossj@google.com>'
+        - 'Misko Hevery <misko@google.com>'
+        - 'Rado Kirov <radokirov@google.com>'
+        - 'Tobias Bosch <tbosch@google.com>'
+        - 'Victor Savkin <vsavkin@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
