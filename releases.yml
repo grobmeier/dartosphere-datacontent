@@ -25580,3 +25580,21 @@
     link: 'https://pub.dartlang.org/packages/google_charts'
     author:
         - 'Robert Hartung <robert.w.hartung@gmail.com>'
+-
+    package_name: bwu_utils_dev
+    package_version: v0.1.0-dev.8
+    title: 'v0.1.0-dev.8 of bwu_utils_dev'
+    published: '2015-06-04T18:23:00+00:00'
+    id: 'urn:uuid:6ba66cdc-e63c-549b-972d-7b220a312edf'
+    link: 'https://pub.dartlang.org/packages/bwu_utils_dev'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: dartdoc
+    package_version: v0.0.2+1
+    title: 'v0.0.2+1 of dartdoc'
+    published: '2015-06-04T18:20:23+00:00'
+    id: 'urn:uuid:0736fb90-23bb-55e4-b7af-c213cfd575fb'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
