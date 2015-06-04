@@ -25562,3 +25562,12 @@
         - 'Tobias Bosch <tbosch@google.com>'
         - 'Victor Savkin <vsavkin@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
+-
+    package_name: bwu_utils_dev
+    package_version: v0.1.0-dev.7
+    title: 'v0.1.0-dev.7 of bwu_utils_dev'
+    published: '2015-06-04T16:35:22+00:00'
+    id: 'urn:uuid:63a62d34-c87f-54a5-8b8c-340e01b913f9'
+    link: 'https://pub.dartlang.org/packages/bwu_utils_dev'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
