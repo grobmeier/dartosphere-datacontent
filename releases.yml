@@ -25671,3 +25671,30 @@
     link: 'https://pub.dartlang.org/packages/bwu_dart_archive_downloader'
     author:
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: binary_declarations
+    package_version: v0.0.59
+    title: 'v0.0.59 of binary_declarations'
+    published: '2015-06-05T10:37:22+00:00'
+    id: 'urn:uuid:203016c1-bb2f-507b-a934-d92ac4d0d8c7'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: binary_types
+    package_version: v0.0.53
+    title: 'v0.0.53 of binary_types'
+    published: '2015-06-05T10:32:21+00:00'
+    id: 'urn:uuid:caf1e55a-53b7-54c8-b544-d4040e6566d2'
+    link: 'https://pub.dartlang.org/packages/binary_types'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: d_calendar
+    package_version: v0.2.85
+    title: 'v0.2.85 of d_calendar'
+    published: '2015-06-05T10:15:32+00:00'
+    id: 'urn:uuid:f5ee816c-b9ea-5dcb-9211-5826acd3629e'
+    link: 'https://pub.dartlang.org/packages/d_calendar'
+    author:
+        - 'Dejan Marlovic <dejan.marlovic@appfoundry.se> & Patrick Minogue <patrick.minogue@appfoundry.se>'
