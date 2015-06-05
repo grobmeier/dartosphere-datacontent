@@ -25707,3 +25707,12 @@
     link: 'https://pub.dartlang.org/packages/bwu_utils_dev'
     author:
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: toml
+    package_version: v0.4.0
+    title: 'v0.4.0 of toml'
+    published: '2015-06-05T14:57:17+00:00'
+    id: 'urn:uuid:e69228c2-9fb5-525e-9db0-8c4c73d83164'
+    link: 'https://pub.dartlang.org/packages/toml'
+    author:
+        - 'Justin Andresen <jan.dresen.95@gmail.com>'
