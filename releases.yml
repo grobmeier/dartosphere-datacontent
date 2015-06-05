@@ -25698,3 +25698,12 @@
     link: 'https://pub.dartlang.org/packages/d_calendar'
     author:
         - 'Dejan Marlovic <dejan.marlovic@appfoundry.se> & Patrick Minogue <patrick.minogue@appfoundry.se>'
+-
+    package_name: bwu_utils_dev
+    package_version: v0.1.0-dev.9
+    title: 'v0.1.0-dev.9 of bwu_utils_dev'
+    published: '2015-06-05T12:13:20+00:00'
+    id: 'urn:uuid:8c82c23d-9b61-5b6f-98be-6a471034c1cc'
+    link: 'https://pub.dartlang.org/packages/bwu_utils_dev'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
