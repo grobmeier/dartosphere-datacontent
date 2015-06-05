@@ -25653,3 +25653,12 @@
     link: 'https://pub.dartlang.org/packages/binary_interop'
     author:
         - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: d_calendar
+    package_version: v0.2.84
+    title: 'v0.2.84 of d_calendar'
+    published: '2015-06-05T08:56:17+00:00'
+    id: 'urn:uuid:c46c0b50-1ef4-5740-88c3-77ad65fcfd4f'
+    link: 'https://pub.dartlang.org/packages/d_calendar'
+    author:
+        - 'Dejan Marlovic <dejan.marlovic@appfoundry.se> & Patrick Minogue <patrick.minogue@appfoundry.se>'
