@@ -25644,3 +25644,12 @@
     author:
         - 'David Peek <ninjascript@gmail.com>'
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: binary_interop
+    package_version: v0.0.32
+    title: 'v0.0.32 of binary_interop'
+    published: '2015-06-05T07:57:28+00:00'
+    id: 'urn:uuid:591dceed-902c-5355-80a3-b7f0118d76af'
+    link: 'https://pub.dartlang.org/packages/binary_interop'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
