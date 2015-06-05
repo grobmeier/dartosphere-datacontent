@@ -25625,3 +25625,22 @@
     link: 'https://pub.dartlang.org/packages/dotenv'
     author:
         - 'mockturtl <mockturtl@gmail.com>'
+-
+    package_name: dartdoc
+    package_version: v0.0.2+2
+    title: 'v0.0.2+2 of dartdoc'
+    published: '2015-06-05T04:48:27+00:00'
+    id: 'urn:uuid:c7e33fa2-4b1c-5183-90ae-29b5939a1744'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: markd
+    package_version: v0.7.1+6
+    title: 'v0.7.1+6 of markd'
+    published: '2015-06-05T04:17:35+00:00'
+    id: 'urn:uuid:716a22a7-53d8-5b76-a85b-628ea1442776'
+    link: 'https://pub.dartlang.org/packages/markd'
+    author:
+        - 'David Peek <ninjascript@gmail.com>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
