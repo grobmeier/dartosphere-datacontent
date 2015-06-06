@@ -25788,3 +25788,12 @@
     link: 'https://pub.dartlang.org/packages/do2websocket'
     author:
         - 'Mikhail Stolyarov <schnack.desu@gmail.com>'
+-
+    package_name: harvest
+    package_version: v1.6.4
+    title: 'v1.6.4 of harvest'
+    published: '2015-06-06T17:44:16+00:00'
+    id: 'urn:uuid:42f97d70-0a1c-5dad-8083-6900b2ec40d4'
+    link: 'https://pub.dartlang.org/packages/harvest'
+    author:
+        - 'Lars Tackmann <lars@solvr.io>'
