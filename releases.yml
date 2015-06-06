@@ -25761,3 +25761,21 @@
     link: 'https://pub.dartlang.org/packages/do2i18n'
     author:
         - 'Mikhail Stolyarov <schnack.desu@gmail.com>'
+-
+    package_name: do2config
+    package_version: v0.2.4
+    title: 'v0.2.4 of do2config'
+    published: '2015-06-06T15:34:44+00:00'
+    id: 'urn:uuid:697aa72d-5c1b-5105-bb9f-f1d17cdac33e'
+    link: 'https://pub.dartlang.org/packages/do2config'
+    author:
+        - 'Mikhail Stolyarov <schnack.desu@gmail.com>'
+-
+    package_name: do2server
+    package_version: v0.2.3
+    title: 'v0.2.3 of do2server'
+    published: '2015-06-06T15:04:54+00:00'
+    id: 'urn:uuid:50b82266-1269-5a40-bdd0-f34eca9c08f4'
+    link: 'https://pub.dartlang.org/packages/do2server'
+    author:
+        - 'Mikhail Stolyarov <schnack.desu@gmail.com>'
