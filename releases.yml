@@ -25734,3 +25734,30 @@
     link: 'https://pub.dartlang.org/packages/dice'
     author:
         - 'Lars Tackmann <lars@solvr.io>'
+-
+    package_name: do2init
+    package_version: v0.1.2
+    title: 'v0.1.2 of do2init'
+    published: '2015-06-06T14:54:13+00:00'
+    id: 'urn:uuid:f0a90566-5cb9-5e6c-a83d-653a01e335b9'
+    link: 'https://pub.dartlang.org/packages/do2init'
+    author:
+        - 'Mikhail Stolyarov <schnack.desu@gmail.com>'
+-
+    package_name: do2log
+    package_version: v0.0.3
+    title: 'v0.0.3 of do2log'
+    published: '2015-06-06T14:49:16+00:00'
+    id: 'urn:uuid:7b82af30-7ff2-575b-a84b-1ecf900d7bed'
+    link: 'https://pub.dartlang.org/packages/do2log'
+    author:
+        - 'Mikhail Stolyarov <schnack.desu@gmail.com>'
+-
+    package_name: do2i18n
+    package_version: v0.0.2
+    title: 'v0.0.2 of do2i18n'
+    published: '2015-06-06T14:44:31+00:00'
+    id: 'urn:uuid:b7ba49ae-bd93-54fe-8b41-3c0b8ed3e19a'
+    link: 'https://pub.dartlang.org/packages/do2i18n'
+    author:
+        - 'Mikhail Stolyarov <schnack.desu@gmail.com>'
