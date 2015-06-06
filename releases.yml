@@ -25797,3 +25797,12 @@
     link: 'https://pub.dartlang.org/packages/harvest'
     author:
         - 'Lars Tackmann <lars@solvr.io>'
+-
+    package_name: do2template
+    package_version: v0.2.5
+    title: 'v0.2.5 of do2template'
+    published: '2015-06-06T18:05:48+00:00'
+    id: 'urn:uuid:d741ab5d-83a9-5710-b344-874ebba01d78'
+    link: 'https://pub.dartlang.org/packages/do2template'
+    author:
+        - 'Mikhail Stolyarov <schnack.desu@gmail.com>'
