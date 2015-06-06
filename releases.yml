@@ -25725,3 +25725,12 @@
     link: 'https://pub.dartlang.org/packages/coverage'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dice
+    package_version: v1.6.0
+    title: 'v1.6.0 of dice'
+    published: '2015-06-06T13:26:44+00:00'
+    id: 'urn:uuid:0a3e30bd-6205-58db-a39e-755e79469e14'
+    link: 'https://pub.dartlang.org/packages/dice'
+    author:
+        - 'Lars Tackmann <lars@solvr.io>'
