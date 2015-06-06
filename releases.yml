@@ -25806,3 +25806,12 @@
     link: 'https://pub.dartlang.org/packages/do2template'
     author:
         - 'Mikhail Stolyarov <schnack.desu@gmail.com>'
+-
+    package_name: file
+    package_version: v0.0.1-dev+1
+    title: 'v0.0.1-dev+1 of file'
+    published: '2015-06-06T21:07:59+00:00'
+    id: 'urn:uuid:f42858c2-f8f7-5f4b-b95e-ce174021dd15'
+    link: 'https://pub.dartlang.org/packages/file'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
