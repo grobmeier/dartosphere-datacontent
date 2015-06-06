@@ -25779,3 +25779,12 @@
     link: 'https://pub.dartlang.org/packages/do2server'
     author:
         - 'Mikhail Stolyarov <schnack.desu@gmail.com>'
+-
+    package_name: do2websocket
+    package_version: v0.1.2
+    title: 'v0.1.2 of do2websocket'
+    published: '2015-06-06T16:27:47+00:00'
+    id: 'urn:uuid:37266770-cbf5-51c8-92ed-51b9f77057cd'
+    link: 'https://pub.dartlang.org/packages/do2websocket'
+    author:
+        - 'Mikhail Stolyarov <schnack.desu@gmail.com>'
