@@ -25842,3 +25842,12 @@
     link: 'https://pub.dartlang.org/packages/analysis'
     author:
         - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: analysis
+    package_version: v0.0.1-alpha.3+hotfix
+    title: 'v0.0.1-alpha.3+hotfix of analysis'
+    published: '2015-06-07T03:39:24+00:00'
+    id: 'urn:uuid:c569ee33-8aab-50f7-9166-1d713c6353c1'
+    link: 'https://pub.dartlang.org/packages/analysis'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
