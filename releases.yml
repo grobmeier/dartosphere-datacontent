@@ -25833,3 +25833,12 @@
     link: 'https://pub.dartlang.org/packages/postgresql'
     author:
         - 'Greg Lowe <greg@vis.net.nz>'
+-
+    package_name: analysis
+    package_version: v0.0.1-alpha.2
+    title: 'v0.0.1-alpha.2 of analysis'
+    published: '2015-06-07T01:50:58+00:00'
+    id: 'urn:uuid:d80b25e4-5ab6-5c3a-895c-65acf8ad8340'
+    link: 'https://pub.dartlang.org/packages/analysis'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
