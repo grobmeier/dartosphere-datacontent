@@ -25869,3 +25869,12 @@
     link: 'https://pub.dartlang.org/packages/do2template'
     author:
         - 'Mikhail Stolyarov <schnack.desu@gmail.com>'
+-
+    package_name: json_lexer
+    package_version: v1.0.0
+    title: 'v1.0.0 of json_lexer'
+    published: '2015-06-07T22:51:11+00:00'
+    id: 'urn:uuid:af0c0964-4323-57c9-b7bd-b082a188da01'
+    link: 'https://pub.dartlang.org/packages/json_lexer'
+    author:
+        - 'Jim Simon <jim.j.simon@gmail.com>'
