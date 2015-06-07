@@ -25851,3 +25851,12 @@
     link: 'https://pub.dartlang.org/packages/analysis'
     author:
         - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: force
+    package_version: v0.6.5
+    title: 'v0.6.5 of force'
+    published: '2015-06-07T12:09:03+00:00'
+    id: 'urn:uuid:2cfc0184-5cf1-5f45-b7c3-5d5245d695b6'
+    link: 'https://pub.dartlang.org/packages/force'
+    author:
+        - 'Joris Hermans <hermansj@gmail.com>'
