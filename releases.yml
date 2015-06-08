@@ -25878,3 +25878,12 @@
     link: 'https://pub.dartlang.org/packages/json_lexer'
     author:
         - 'Jim Simon <jim.j.simon@gmail.com>'
+-
+    package_name: simple_http_server
+    package_version: v0.3.0
+    title: 'v0.3.0 of simple_http_server'
+    published: '2015-06-08T04:05:40+00:00'
+    id: 'urn:uuid:555ff1e3-c2b3-5682-99b5-735c2814234e'
+    link: 'https://pub.dartlang.org/packages/simple_http_server'
+    author:
+        - 'Seth Ladd <sethladd@gmail.com>'
