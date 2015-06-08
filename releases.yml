@@ -25959,3 +25959,12 @@
     link: 'https://pub.dartlang.org/packages/functional_behaviour_tree'
     author:
         - 'Will Squire <will.mj.squire@googlemail.com>'
+-
+    package_name: functional_behaviour_tree
+    package_version: v0.9.2
+    title: 'v0.9.2 of functional_behaviour_tree'
+    published: '2015-06-08T21:15:59+00:00'
+    id: 'urn:uuid:a8cfe132-a0c7-55d4-befe-2207c496749c'
+    link: 'https://pub.dartlang.org/packages/functional_behaviour_tree'
+    author:
+        - 'Will Squire <will.mj.squire@googlemail.com>'
