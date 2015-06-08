@@ -25905,3 +25905,21 @@
     link: 'https://pub.dartlang.org/packages/d_calendar'
     author:
         - 'Dejan Marlovic <dejan.marlovic@appfoundry.se> & Patrick Minogue <patrick.minogue@appfoundry.se>'
+-
+    package_name: bwu_dart_archive_downloader
+    package_version: v0.3.0+1
+    title: 'v0.3.0+1 of bwu_dart_archive_downloader'
+    published: '2015-06-08T15:39:04+00:00'
+    id: 'urn:uuid:26fa8ded-bd7e-5f58-bed5-e15818b92403'
+    link: 'https://pub.dartlang.org/packages/bwu_dart_archive_downloader'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: bwu_utils_dev
+    package_version: v0.1.0-dev.10
+    title: 'v0.1.0-dev.10 of bwu_utils_dev'
+    published: '2015-06-08T15:22:28+00:00'
+    id: 'urn:uuid:d9767e35-db3b-5c94-86b7-95124d14831f'
+    link: 'https://pub.dartlang.org/packages/bwu_utils_dev'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
