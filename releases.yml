@@ -25896,3 +25896,12 @@
     link: 'https://pub.dartlang.org/packages/google_maps'
     author:
         - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+-
+    package_name: d_calendar
+    package_version: v0.2.89
+    title: 'v0.2.89 of d_calendar'
+    published: '2015-06-08T09:47:28+00:00'
+    id: 'urn:uuid:b0ffbbee-68d8-5a71-95f5-1a4d59c76ee6'
+    link: 'https://pub.dartlang.org/packages/d_calendar'
+    author:
+        - 'Dejan Marlovic <dejan.marlovic@appfoundry.se> & Patrick Minogue <patrick.minogue@appfoundry.se>'
