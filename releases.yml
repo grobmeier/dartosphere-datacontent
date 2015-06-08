@@ -25950,3 +25950,12 @@
     link: 'https://pub.dartlang.org/packages/do2template'
     author:
         - 'Mikhail Stolyarov <schnack.desu@gmail.com>'
+-
+    package_name: functional_behaviour_tree
+    package_version: v0.9.1
+    title: 'v0.9.1 of functional_behaviour_tree'
+    published: '2015-06-08T20:55:36+00:00'
+    id: 'urn:uuid:442a8412-4a5e-5e4b-b856-036486db9f0b'
+    link: 'https://pub.dartlang.org/packages/functional_behaviour_tree'
+    author:
+        - 'Will Squire <will.mj.squire@googlemail.com>'
