@@ -25887,3 +25887,12 @@
     link: 'https://pub.dartlang.org/packages/simple_http_server'
     author:
         - 'Seth Ladd <sethladd@gmail.com>'
+-
+    package_name: google_maps
+    package_version: v3.0.0
+    title: 'v3.0.0 of google_maps'
+    published: '2015-06-08T06:30:39+00:00'
+    id: 'urn:uuid:b907af3c-8f50-5b2c-8668-eb88629f1186'
+    link: 'https://pub.dartlang.org/packages/google_maps'
+    author:
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
