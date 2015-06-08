@@ -25923,3 +25923,12 @@
     link: 'https://pub.dartlang.org/packages/bwu_utils_dev'
     author:
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: crossdart
+    package_version: v0.1.0
+    title: 'v0.1.0 of crossdart'
+    published: '2015-06-08T16:05:15+00:00'
+    id: 'urn:uuid:cdc84b43-8a4c-51c3-9829-59f043e9eae4'
+    link: 'https://pub.dartlang.org/packages/crossdart'
+    author:
+        - 'Anton Astashov <anton.astashov@gmail.com>'
