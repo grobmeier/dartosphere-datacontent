@@ -25932,3 +25932,12 @@
     link: 'https://pub.dartlang.org/packages/crossdart'
     author:
         - 'Anton Astashov <anton.astashov@gmail.com>'
+-
+    package_name: bwu_dart_archive_downloader
+    package_version: v0.3.0+2
+    title: 'v0.3.0+2 of bwu_dart_archive_downloader'
+    published: '2015-06-08T17:55:54+00:00'
+    id: 'urn:uuid:c4622447-2312-5bdc-a53a-c97f077a7bb0'
+    link: 'https://pub.dartlang.org/packages/bwu_dart_archive_downloader'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
