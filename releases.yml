@@ -25941,3 +25941,12 @@
     link: 'https://pub.dartlang.org/packages/bwu_dart_archive_downloader'
     author:
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: do2template
+    package_version: v0.3.6
+    title: 'v0.3.6 of do2template'
+    published: '2015-06-08T19:21:41+00:00'
+    id: 'urn:uuid:6359dacf-e420-5c74-b75b-9039762543da'
+    link: 'https://pub.dartlang.org/packages/do2template'
+    author:
+        - 'Mikhail Stolyarov <schnack.desu@gmail.com>'
