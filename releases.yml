@@ -25986,3 +25986,21 @@
     link: 'https://pub.dartlang.org/packages/threading'
     author:
         - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: changelog
+    package_version: v1.3.1
+    title: 'v1.3.1 of changelog'
+    published: '2015-06-09T07:48:59+00:00'
+    id: 'urn:uuid:1c488ce3-b932-5202-9076-b2edc8dc5181'
+    link: 'https://pub.dartlang.org/packages/changelog'
+    author:
+        - office@mikemitterer.at
+-
+    package_name: sitegen
+    package_version: v1.1.0
+    title: 'v1.1.0 of sitegen'
+    published: '2015-06-09T07:17:45+00:00'
+    id: 'urn:uuid:01f805eb-6790-5262-afc8-576000d8e044'
+    link: 'https://pub.dartlang.org/packages/sitegen'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
