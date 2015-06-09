@@ -25977,3 +25977,12 @@
     link: 'https://pub.dartlang.org/packages/args'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: threading
+    package_version: v0.0.8
+    title: 'v0.0.8 of threading'
+    published: '2015-06-09T05:31:23+00:00'
+    id: 'urn:uuid:e670fc28-6240-5a09-8e1b-09760b64e0e0'
+    link: 'https://pub.dartlang.org/packages/threading'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
