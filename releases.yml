@@ -26040,3 +26040,12 @@
     link: 'https://pub.dartlang.org/packages/bwu_utils_dev'
     author:
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: coverage
+    package_version: v0.7.1
+    title: 'v0.7.1 of coverage'
+    published: '2015-06-09T16:11:56+00:00'
+    id: 'urn:uuid:6b9cb7c7-0010-5959-bd75-08857cd4f84a'
+    link: 'https://pub.dartlang.org/packages/coverage'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
