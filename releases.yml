@@ -26022,3 +26022,12 @@
     link: 'https://pub.dartlang.org/packages/hateoas_models'
     author:
         - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: sitegen
+    package_version: v1.1.2
+    title: 'v1.1.2 of sitegen'
+    published: '2015-06-09T09:50:21+00:00'
+    id: 'urn:uuid:e4bb17ea-f879-5131-8742-2db45f4eeecb'
+    link: 'https://pub.dartlang.org/packages/sitegen'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
