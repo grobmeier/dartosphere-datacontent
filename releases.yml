@@ -26067,3 +26067,21 @@
     link: 'https://pub.dartlang.org/packages/package_config'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dart_coveralls
+    package_version: v0.3.0+1
+    title: 'v0.3.0+1 of dart_coveralls'
+    published: '2015-06-09T19:26:11+00:00'
+    id: 'urn:uuid:0dfe4491-65ba-5202-8323-50b14fed74a6'
+    link: 'https://pub.dartlang.org/packages/dart_coveralls'
+    author:
+        - 'Axel Christ <adracus@gmail.com>'
+-
+    package_name: http_parser
+    package_version: v0.0.2+7
+    title: 'v0.0.2+7 of http_parser'
+    published: '2015-06-09T19:10:50+00:00'
+    id: 'urn:uuid:bd184608-67b7-5562-b589-2c64f9d8a3b1'
+    link: 'https://pub.dartlang.org/packages/http_parser'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
