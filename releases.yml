@@ -26031,3 +26031,12 @@
     link: 'https://pub.dartlang.org/packages/sitegen'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: bwu_utils_dev
+    package_version: v0.1.0-dev.11
+    title: 'v0.1.0-dev.11 of bwu_utils_dev'
+    published: '2015-06-09T10:28:46+00:00'
+    id: 'urn:uuid:c3764507-63e5-56fa-bd7e-4185c6782e22'
+    link: 'https://pub.dartlang.org/packages/bwu_utils_dev'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
