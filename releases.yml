@@ -26049,3 +26049,12 @@
     link: 'https://pub.dartlang.org/packages/coverage'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dart_orm
+    package_version: v0.0.14
+    title: 'v0.0.14 of dart_orm'
+    published: '2015-06-09T17:20:36+00:00'
+    id: 'urn:uuid:f370b3e8-0a03-5439-b170-6db17db2d5a5'
+    link: 'https://pub.dartlang.org/packages/dart_orm'
+    author:
+        - 'Ustimenko Sergey <ustims@gmail.com>'
