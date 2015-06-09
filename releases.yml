@@ -26112,3 +26112,21 @@
     link: 'https://pub.dartlang.org/packages/stack_trace'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: yaml
+    package_version: v2.1.3
+    title: 'v2.1.3 of yaml'
+    published: '2015-06-09T22:30:29+00:00'
+    id: 'urn:uuid:bbb7ae2c-071b-536f-8465-67a912929001'
+    link: 'https://pub.dartlang.org/packages/yaml'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: mojom
+    package_version: v0.0.5
+    title: 'v0.0.5 of mojom'
+    published: '2015-06-09T22:09:38+00:00'
+    id: 'urn:uuid:a3ac49bb-f7af-5903-84be-9ae05ef35252'
+    link: 'https://pub.dartlang.org/packages/mojom'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
