@@ -26004,3 +26004,21 @@
     link: 'https://pub.dartlang.org/packages/sitegen'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: jefe
+    package_version: v0.1.0
+    title: 'v0.1.0 of jefe'
+    published: '2015-06-09T08:16:07+00:00'
+    id: 'urn:uuid:51eaae01-a1e0-5102-9e85-bc768fb9c475'
+    link: 'https://pub.dartlang.org/packages/jefe'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: hateoas_models
+    package_version: v0.1.0
+    title: 'v0.1.0 of hateoas_models'
+    published: '2015-06-09T08:08:31+00:00'
+    id: 'urn:uuid:e29dfa3e-69a2-5e15-9445-b6753c248f27'
+    link: 'https://pub.dartlang.org/packages/hateoas_models'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
