@@ -26215,3 +26215,30 @@
         - 'Tom Yeh <tomyeh@rikulo.org>'
         - 'Henri Chen <henrichen@rikulo.org>'
         - 'Simon Pai <simonpai@rikulo.org>'
+-
+    package_name: cupid
+    package_version: v0.6.7
+    title: 'v0.6.7 of cupid'
+    published: '2015-06-10T13:57:37+00:00'
+    id: 'urn:uuid:22f52dc3-9a6a-542c-9d02-ae3da5fbe2ca'
+    link: 'https://pub.dartlang.org/packages/cupid'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: bridge
+    package_version: v0.4.2
+    title: 'v0.4.2 of bridge'
+    published: '2015-06-10T13:49:06+00:00'
+    id: 'urn:uuid:ce8b8db0-3595-5b13-9782-af084ea2ac2d'
+    link: 'https://pub.dartlang.org/packages/bridge'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: json_jones
+    package_version: v0.0.1
+    title: 'v0.0.1 of json_jones'
+    published: '2015-06-10T13:25:50+00:00'
+    id: 'urn:uuid:f6e4b20b-6d03-55ee-8430-c4b4ca269b2c'
+    link: 'https://pub.dartlang.org/packages/json_jones'
+    author:
+        - 'Kevin Moore <kevmoo@google.com>'
