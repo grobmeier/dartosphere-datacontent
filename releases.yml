@@ -26130,3 +26130,14 @@
     link: 'https://pub.dartlang.org/packages/mojom'
     author:
         - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: rikulo_commons
+    package_version: v2.0.3
+    title: 'v2.0.3 of rikulo_commons'
+    published: '2015-06-10T04:01:47+00:00'
+    id: 'urn:uuid:4cc7af6d-0760-5b6a-990f-28842dd788af'
+    link: 'https://pub.dartlang.org/packages/rikulo_commons'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+        - 'Henri Chen <henrichen@rikulo.org>'
+        - 'Simon Pai <simonpai@rikulo.org>'
