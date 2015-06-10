@@ -26242,3 +26242,12 @@
     link: 'https://pub.dartlang.org/packages/json_jones'
     author:
         - 'Kevin Moore <kevmoo@google.com>'
+-
+    package_name: shelf_auth
+    package_version: v0.6.0
+    title: 'v0.6.0 of shelf_auth'
+    published: '2015-06-10T15:40:08+00:00'
+    id: 'urn:uuid:e66b4f56-b79a-5086-a83c-97aeb93ff257'
+    link: 'https://pub.dartlang.org/packages/shelf_auth'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
