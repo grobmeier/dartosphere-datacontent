@@ -26168,3 +26168,12 @@
     link: 'https://pub.dartlang.org/packages/sdk_builds'
     author:
         - 'Kevin Moore <kevmoo@google.com>'
+-
+    package_name: cupid
+    package_version: v0.6.2
+    title: 'v0.6.2 of cupid'
+    published: '2015-06-10T08:26:54+00:00'
+    id: 'urn:uuid:6de953b4-e9e5-5321-a50b-202e617cd518'
+    link: 'https://pub.dartlang.org/packages/cupid'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
