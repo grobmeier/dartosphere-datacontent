@@ -26141,3 +26141,12 @@
         - 'Tom Yeh <tomyeh@rikulo.org>'
         - 'Henri Chen <henrichen@rikulo.org>'
         - 'Simon Pai <simonpai@rikulo.org>'
+-
+    package_name: pub_client
+    package_version: v1.0.7
+    title: 'v1.0.7 of pub_client'
+    published: '2015-06-10T05:00:43+00:00'
+    id: 'urn:uuid:2e1a5c87-ee24-5a53-b391-b2f8f06a76ef'
+    link: 'https://pub.dartlang.org/packages/pub_client'
+    author:
+        - 'Jim Simon <jim.j.simon@gmail.com>'
