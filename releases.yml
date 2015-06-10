@@ -26278,3 +26278,12 @@
     link: 'https://pub.dartlang.org/packages/webkit_inspection_protocol'
     author:
         - 'Devon Carew <devoncarew@google.com>'
+-
+    package_name: protobuf
+    package_version: v0.3.7
+    title: 'v0.3.7 of protobuf'
+    published: '2015-06-10T23:20:13+00:00'
+    id: 'urn:uuid:09ad8c6d-14c8-5c36-8655-dbcbd9787bd6'
+    link: 'https://pub.dartlang.org/packages/protobuf'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
