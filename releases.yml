@@ -26186,3 +26186,21 @@
     link: 'https://pub.dartlang.org/packages/cupid'
     author:
         - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: travis
+    package_version: v0.0.1-dev
+    title: 'v0.0.1-dev of travis'
+    published: '2015-06-10T10:32:29+00:00'
+    id: 'urn:uuid:aa9c4625-e2c6-5839-8f4f-e9f0af2ed599'
+    link: 'https://pub.dartlang.org/packages/travis'
+    author:
+        - 'Kevin Moore <kevmoo@google.com>'
+-
+    package_name: cryptoutils
+    package_version: v0.1.10
+    title: 'v0.1.10 of cryptoutils'
+    published: '2015-06-10T10:31:46+00:00'
+    id: 'urn:uuid:66efc69a-91d1-5541-bd25-01dab14c7772'
+    link: 'https://pub.dartlang.org/packages/cryptoutils'
+    author:
+        - 'Steven Roose <stevenroose@gmail.com>'
