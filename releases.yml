@@ -26150,3 +26150,12 @@
     link: 'https://pub.dartlang.org/packages/pub_client'
     author:
         - 'Jim Simon <jim.j.simon@gmail.com>'
+-
+    package_name: cupid
+    package_version: v0.6.1
+    title: 'v0.6.1 of cupid'
+    published: '2015-06-10T06:13:53+00:00'
+    id: 'urn:uuid:ad20a15b-9cdf-52d2-bff4-07ae69d6f4f4'
+    link: 'https://pub.dartlang.org/packages/cupid'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
