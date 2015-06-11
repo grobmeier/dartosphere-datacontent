@@ -26287,3 +26287,21 @@
     link: 'https://pub.dartlang.org/packages/protobuf'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: generator
+    package_version: v0.0.1-alpha.1
+    title: 'v0.0.1-alpha.1 of generator'
+    published: '2015-06-11T05:46:38+00:00'
+    id: 'urn:uuid:b4d16226-bf84-561a-b81d-156b7e8133c6'
+    link: 'https://pub.dartlang.org/packages/generator'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: analysis
+    package_version: v0.0.1-alpha.4
+    title: 'v0.0.1-alpha.4 of analysis'
+    published: '2015-06-11T05:42:00+00:00'
+    id: 'urn:uuid:59df6180-b8fd-5660-a1e5-6ab0b727a577'
+    link: 'https://pub.dartlang.org/packages/analysis'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
