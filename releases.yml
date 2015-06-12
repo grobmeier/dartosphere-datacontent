@@ -26461,3 +26461,12 @@
     link: 'https://pub.dartlang.org/packages/dev_compiler'
     author:
         - 'Dart Dev Compiler team <dev-compiler@dartlang.org>'
+-
+    package_name: shellephone
+    package_version: v0.0.2
+    title: 'v0.0.2 of shellephone'
+    published: '2015-06-12T19:50:13+00:00'
+    id: 'urn:uuid:bdf9009f-ab1e-51f0-87ad-6f8e55c087e1'
+    link: 'https://pub.dartlang.org/packages/shellephone'
+    author:
+        - 'Kendal Harland <kendaljharland@gmail.com>'
