@@ -26470,3 +26470,12 @@
     link: 'https://pub.dartlang.org/packages/shellephone'
     author:
         - 'Kendal Harland <kendaljharland@gmail.com>'
+-
+    package_name: jumbotron
+    package_version: v0.0.2
+    title: 'v0.0.2 of jumbotron'
+    published: '2015-06-12T20:15:53+00:00'
+    id: 'urn:uuid:66ca0435-9ec7-58a1-881f-7afb4c577689'
+    link: 'https://pub.dartlang.org/packages/jumbotron'
+    author:
+        - 'Kendal Harland <kendaljharland@gmail.com>'
