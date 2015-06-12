@@ -26389,3 +26389,12 @@
     link: 'https://pub.dartlang.org/packages/crossdart'
     author:
         - 'Anton Astashov <anton.astashov@gmail.com>'
+-
+    package_name: built_collection
+    package_version: v0.4.0
+    title: 'v0.4.0 of built_collection'
+    published: '2015-06-12T06:15:59+00:00'
+    id: 'urn:uuid:5fe84e10-8f22-5454-bfcc-5041a7251bf8'
+    link: 'https://pub.dartlang.org/packages/built_collection'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
