@@ -26434,3 +26434,12 @@
     link: 'https://pub.dartlang.org/packages/d_calendar'
     author:
         - 'Dejan Marlovic <dejan.marlovic@appfoundry.se> & Patrick Minogue <patrick.minogue@appfoundry.se>'
+-
+    package_name: gcloud
+    package_version: v0.2.0+3
+    title: 'v0.2.0+3 of gcloud'
+    published: '2015-06-12T09:04:06+00:00'
+    id: 'urn:uuid:c3249e2e-ff00-53ea-9683-db6acb33f371'
+    link: 'https://pub.dartlang.org/packages/gcloud'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
