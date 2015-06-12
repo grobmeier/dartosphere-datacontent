@@ -26380,3 +26380,12 @@
     link: 'https://pub.dartlang.org/packages/jumbotron'
     author:
         - 'Kendal Harland <kendaljharland@gmail.com>'
+-
+    package_name: crossdart
+    package_version: v0.1.2
+    title: 'v0.1.2 of crossdart'
+    published: '2015-06-12T05:45:19+00:00'
+    id: 'urn:uuid:6f273c7c-5ba1-51b3-bb2a-1b98f2ac8f17'
+    link: 'https://pub.dartlang.org/packages/crossdart'
+    author:
+        - 'Anton Astashov <anton.astashov@gmail.com>'
