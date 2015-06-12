@@ -26443,3 +26443,12 @@
     link: 'https://pub.dartlang.org/packages/gcloud'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: google_maps
+    package_version: v3.0.1
+    title: 'v3.0.1 of google_maps'
+    published: '2015-06-12T14:23:10+00:00'
+    id: 'urn:uuid:1090bcb7-fb60-5812-b741-69c523b0a326'
+    link: 'https://pub.dartlang.org/packages/google_maps'
+    author:
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
