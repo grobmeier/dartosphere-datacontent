@@ -26497,3 +26497,21 @@
     link: 'https://pub.dartlang.org/packages/paper_elements'
     author:
         - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: watcher
+    package_version: v0.9.6
+    title: 'v0.9.6 of watcher'
+    published: '2015-06-12T23:53:17+00:00'
+    id: 'urn:uuid:b4ca1e4c-0a65-53a4-87fb-c6a35b48b9e8'
+    link: 'https://pub.dartlang.org/packages/watcher'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: websocketsink
+    package_version: v0.0.1
+    title: 'v0.0.1 of websocketsink'
+    published: '2015-06-12T23:52:53+00:00'
+    id: 'urn:uuid:a6eb03fd-ff81-5825-ae72-8ded3fdc2065'
+    link: 'https://pub.dartlang.org/packages/websocketsink'
+    author:
+        - 'Kendal Harland <kendaljharland@gmail.com>'
