@@ -26398,3 +26398,12 @@
     link: 'https://pub.dartlang.org/packages/built_collection'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: entity
+    package_version: v0.7.5
+    title: 'v0.7.5 of entity'
+    published: '2015-06-12T07:44:04+00:00'
+    id: 'urn:uuid:c16b717c-f477-50a7-9fc3-4bbf477ab0ec'
+    link: 'https://pub.dartlang.org/packages/entity'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
