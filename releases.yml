@@ -26407,3 +26407,30 @@
     link: 'https://pub.dartlang.org/packages/entity'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: googleapis_beta
+    package_version: v0.15.0
+    title: 'v0.15.0 of googleapis_beta'
+    published: '2015-06-12T08:17:18+00:00'
+    id: 'urn:uuid:b8e8874d-8b18-5bfd-ab52-f4a2e6f4c221'
+    link: 'https://pub.dartlang.org/packages/googleapis_beta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: googleapis
+    package_version: v0.11.0
+    title: 'v0.11.0 of googleapis'
+    published: '2015-06-12T08:17:02+00:00'
+    id: 'urn:uuid:f6e3eab6-43eb-5c84-859c-36412c92fedf'
+    link: 'https://pub.dartlang.org/packages/googleapis'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: d_calendar
+    package_version: v0.2.90
+    title: 'v0.2.90 of d_calendar'
+    published: '2015-06-12T08:12:01+00:00'
+    id: 'urn:uuid:289f7163-0523-5ede-8063-d281d6d507ad'
+    link: 'https://pub.dartlang.org/packages/d_calendar'
+    author:
+        - 'Dejan Marlovic <dejan.marlovic@appfoundry.se> & Patrick Minogue <patrick.minogue@appfoundry.se>'
