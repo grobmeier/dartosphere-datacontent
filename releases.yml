@@ -26515,3 +26515,12 @@
     link: 'https://pub.dartlang.org/packages/websocketsink'
     author:
         - 'Kendal Harland <kendaljharland@gmail.com>'
+-
+    package_name: shellephone
+    package_version: v0.0.3
+    title: 'v0.0.3 of shellephone'
+    published: '2015-06-13T00:02:01+00:00'
+    id: 'urn:uuid:806f87cc-e162-5fe3-b033-ef4792d804eb'
+    link: 'https://pub.dartlang.org/packages/shellephone'
+    author:
+        - 'Kendal Harland <kendaljharland@gmail.com>'
