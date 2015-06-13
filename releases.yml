@@ -26524,3 +26524,12 @@
     link: 'https://pub.dartlang.org/packages/shellephone'
     author:
         - 'Kendal Harland <kendaljharland@gmail.com>'
+-
+    package_name: slickdart
+    package_version: v0.1.2+2
+    title: 'v0.1.2+2 of slickdart'
+    published: '2015-06-13T08:36:43+00:00'
+    id: 'urn:uuid:d5d03cbb-01ec-5fb4-9fae-3291837f439a'
+    link: 'https://pub.dartlang.org/packages/slickdart'
+    author:
+        - 'CJKAO <kaopeter@gmail.com>'
