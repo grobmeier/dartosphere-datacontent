@@ -26533,3 +26533,12 @@
     link: 'https://pub.dartlang.org/packages/slickdart'
     author:
         - 'CJKAO <kaopeter@gmail.com>'
+-
+    package_name: js_mimicry
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of js_mimicry'
+    published: '2015-06-14T00:38:01+00:00'
+    id: 'urn:uuid:54b97425-41db-5790-8771-a16b6d58e072'
+    link: 'https://pub.dartlang.org/packages/js_mimicry'
+    author:
+        - 'Igor Demyanov <igor.demyanov@gmail.com>'
