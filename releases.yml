@@ -26542,3 +26542,12 @@
     link: 'https://pub.dartlang.org/packages/js_mimicry'
     author:
         - 'Igor Demyanov <igor.demyanov@gmail.com>'
+-
+    package_name: smartcanvas
+    package_version: v0.2.0
+    title: 'v0.2.0 of smartcanvas'
+    published: '2015-06-14T01:17:56+00:00'
+    id: 'urn:uuid:08b47e53-a981-52f2-ac6a-a953054cb7b8'
+    link: 'https://pub.dartlang.org/packages/smartcanvas'
+    author:
+        - 'Kun Zhao <kzhdev@gmail.com>'
