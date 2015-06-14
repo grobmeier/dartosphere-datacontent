@@ -26569,3 +26569,12 @@
     link: 'https://pub.dartlang.org/packages/do2init'
     author:
         - 'Mikhail Stolyarov <schnack.desu@gmail.com>'
+-
+    package_name: cupid
+    package_version: v0.6.8
+    title: 'v0.6.8 of cupid'
+    published: '2015-06-14T13:51:56+00:00'
+    id: 'urn:uuid:a90bbbe8-ddeb-5e5a-9b30-5af62d65df3e'
+    link: 'https://pub.dartlang.org/packages/cupid'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
