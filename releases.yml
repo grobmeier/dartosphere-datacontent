@@ -26551,3 +26551,12 @@
     link: 'https://pub.dartlang.org/packages/smartcanvas'
     author:
         - 'Kun Zhao <kzhdev@gmail.com>'
+-
+    package_name: slickdart
+    package_version: v0.1.3
+    title: 'v0.1.3 of slickdart'
+    published: '2015-06-14T07:19:30+00:00'
+    id: 'urn:uuid:0759cdc3-e9a8-5aea-90e5-b85a1b1413b1'
+    link: 'https://pub.dartlang.org/packages/slickdart'
+    author:
+        - 'CJKAO <kaopeter@gmail.com>'
