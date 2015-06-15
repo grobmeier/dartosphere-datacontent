@@ -26651,3 +26651,21 @@
     link: 'https://pub.dartlang.org/packages/bwu_grinder_tasks'
     author:
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: messagebox
+    package_version: v0.0.8
+    title: 'v0.0.8 of messagebox'
+    published: '2015-06-15T13:55:02+00:00'
+    id: 'urn:uuid:da6da1cd-6c29-5ee8-bd2f-e7b7f6fa8433'
+    link: 'https://pub.dartlang.org/packages/messagebox'
+    author:
+        - 'Michael Krog <mic@apaq.dk>'
+-
+    package_name: bwu_dart_archive_downloader
+    package_version: v0.3.0+3
+    title: 'v0.3.0+3 of bwu_dart_archive_downloader'
+    published: '2015-06-15T13:33:39+00:00'
+    id: 'urn:uuid:18449918-3e7c-5424-98c3-9ee95f8bc282'
+    link: 'https://pub.dartlang.org/packages/bwu_dart_archive_downloader'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
