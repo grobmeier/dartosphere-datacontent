@@ -26723,3 +26723,12 @@
     link: 'https://pub.dartlang.org/packages/web_components'
     author:
         - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: sdk_builds
+    package_version: v0.1.0
+    title: 'v0.1.0 of sdk_builds'
+    published: '2015-06-15T22:00:26+00:00'
+    id: 'urn:uuid:1cc7c769-d197-579f-8170-b66da894979c'
+    link: 'https://pub.dartlang.org/packages/sdk_builds'
+    author:
+        - 'Kevin Moore <kevmoo@google.com>'
