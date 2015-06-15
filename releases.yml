@@ -26714,3 +26714,12 @@
     link: 'https://pub.dartlang.org/packages/bwu_utils_dev'
     author:
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: web_components
+    package_version: v0.12.0+2
+    title: 'v0.12.0+2 of web_components'
+    published: '2015-06-15T18:00:38+00:00'
+    id: 'urn:uuid:ed0ac9d3-2e09-50cd-acc8-146440f4523e'
+    link: 'https://pub.dartlang.org/packages/web_components'
+    author:
+        - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
