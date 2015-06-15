@@ -26678,3 +26678,12 @@
     link: 'https://pub.dartlang.org/packages/messagebox'
     author:
         - 'Michael Krog <mic@apaq.dk>'
+-
+    package_name: bwu_dart_archive_downloader
+    package_version: v0.3.0+4
+    title: 'v0.3.0+4 of bwu_dart_archive_downloader'
+    published: '2015-06-15T16:44:12+00:00'
+    id: 'urn:uuid:ead54e83-3aef-55b7-ba21-7d7517d34b2d'
+    link: 'https://pub.dartlang.org/packages/bwu_dart_archive_downloader'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
