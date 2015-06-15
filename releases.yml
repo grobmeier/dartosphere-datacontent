@@ -26605,3 +26605,12 @@
     link: 'https://pub.dartlang.org/packages/jsproxy'
     author:
         - 'Kun Zhao <kunzhao77@gmail.com>'
+-
+    package_name: sitegen
+    package_version: v1.1.3
+    title: 'v1.1.3 of sitegen'
+    published: '2015-06-15T06:14:12+00:00'
+    id: 'urn:uuid:58664dc0-64e3-5c64-8e49-76c781a8fd01'
+    link: 'https://pub.dartlang.org/packages/sitegen'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
