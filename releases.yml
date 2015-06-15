@@ -26642,3 +26642,12 @@
     author:
         - 'Matias Meno <m@tias.me>'
         - 'Martin Flucka <martin.flucka@gmail.com>'
+-
+    package_name: bwu_grinder_tasks
+    package_version: v0.1.0
+    title: 'v0.1.0 of bwu_grinder_tasks'
+    published: '2015-06-15T12:45:51+00:00'
+    id: 'urn:uuid:bb29d6ea-acfe-588a-bcd7-6d5cd12a3652'
+    link: 'https://pub.dartlang.org/packages/bwu_grinder_tasks'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
