@@ -26669,3 +26669,12 @@
     link: 'https://pub.dartlang.org/packages/bwu_dart_archive_downloader'
     author:
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: messagebox
+    package_version: v0.0.11
+    title: 'v0.0.11 of messagebox'
+    published: '2015-06-15T14:17:02+00:00'
+    id: 'urn:uuid:8e950d07-ca0b-52de-ad88-029825eb5dd7'
+    link: 'https://pub.dartlang.org/packages/messagebox'
+    author:
+        - 'Michael Krog <mic@apaq.dk>'
