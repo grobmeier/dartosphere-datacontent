@@ -26777,3 +26777,12 @@
     link: 'https://pub.dartlang.org/packages/google_maps'
     author:
         - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+-
+    package_name: haystack
+    package_version: v0.4.13
+    title: 'v0.4.13 of haystack'
+    published: '2015-06-16T13:31:03+00:00'
+    id: 'urn:uuid:b2d95ca0-b5fe-55f4-aa7c-845ba03b78fc'
+    link: 'https://pub.dartlang.org/packages/haystack'
+    author:
+        - 'Dmitriy Vasilyev <dmitry@bassg.com>'
