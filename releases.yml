@@ -26732,3 +26732,12 @@
     link: 'https://pub.dartlang.org/packages/sdk_builds'
     author:
         - 'Kevin Moore <kevmoo@google.com>'
+-
+    package_name: websockets
+    package_version: v0.0.0
+    title: 'v0.0.0 of websockets'
+    published: '2015-06-16T01:02:47+00:00'
+    id: 'urn:uuid:7db3a1ad-bcfd-5cfe-b34d-c3bd98559ee4'
+    link: 'https://pub.dartlang.org/packages/websockets'
+    author:
+        - 'Steven Roose <stevenroose@gmail.com>'
