@@ -26823,3 +26823,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_highcharts'
     author:
         - 'Gonzalo Pezzi <gonzalopezzi@gmail.com>'
+-
+    package_name: websockets
+    package_version: v0.1.0
+    title: 'v0.1.0 of websockets'
+    published: '2015-06-16T23:45:38+00:00'
+    id: 'urn:uuid:6ca94c04-125c-5973-a02f-ebeaea70d23e'
+    link: 'https://pub.dartlang.org/packages/websockets'
+    author:
+        - 'Steven Roose <stevenroose@gmail.com>'
