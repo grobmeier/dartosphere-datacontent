@@ -26759,3 +26759,12 @@
     link: 'https://pub.dartlang.org/packages/system_info'
     author:
         - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: package_config
+    package_version: v0.0.4
+    title: 'v0.0.4 of package_config'
+    published: '2015-06-16T09:22:15+00:00'
+    id: 'urn:uuid:cf460aa0-6143-56ae-b054-0d5ec6e053cc'
+    link: 'https://pub.dartlang.org/packages/package_config'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
