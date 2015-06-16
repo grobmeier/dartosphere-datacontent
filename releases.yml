@@ -26814,3 +26814,12 @@
     link: 'https://pub.dartlang.org/packages/js_mimicry'
     author:
         - 'Igor Demyanov <igor.demyanov@gmail.com>'
+-
+    package_name: polymer_highcharts
+    package_version: v0.2.1+8
+    title: 'v0.2.1+8 of polymer_highcharts'
+    published: '2015-06-16T22:04:20+00:00'
+    id: 'urn:uuid:2553ae6b-4ea4-51c7-8f6f-f1ffc553f9c3'
+    link: 'https://pub.dartlang.org/packages/polymer_highcharts'
+    author:
+        - 'Gonzalo Pezzi <gonzalopezzi@gmail.com>'
