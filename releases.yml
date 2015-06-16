@@ -26805,3 +26805,12 @@
     author:
         - 'Jesper Håkansson <jesper@jesperh.se>'
         - 'Rasmus Eneman <rasmus@eneman.eu>'
+-
+    package_name: js_mimicry
+    package_version: v0.2.0+2
+    title: 'v0.2.0+2 of js_mimicry'
+    published: '2015-06-16T20:32:58+00:00'
+    id: 'urn:uuid:17c02262-0213-5743-8bf8-2e9263030407'
+    link: 'https://pub.dartlang.org/packages/js_mimicry'
+    author:
+        - 'Igor Demyanov <igor.demyanov@gmail.com>'
