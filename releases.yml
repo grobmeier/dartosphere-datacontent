@@ -26768,3 +26768,12 @@
     link: 'https://pub.dartlang.org/packages/package_config'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: google_maps
+    package_version: v3.0.2
+    title: 'v3.0.2 of google_maps'
+    published: '2015-06-16T12:36:37+00:00'
+    id: 'urn:uuid:ccf9beb0-58b0-5c4f-b11d-4fa37136e632'
+    link: 'https://pub.dartlang.org/packages/google_maps'
+    author:
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
