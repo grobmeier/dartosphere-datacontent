@@ -26741,3 +26741,12 @@
     link: 'https://pub.dartlang.org/packages/websockets'
     author:
         - 'Steven Roose <stevenroose@gmail.com>'
+-
+    package_name: generator
+    package_version: v0.0.1-alpha.2
+    title: 'v0.0.1-alpha.2 of generator'
+    published: '2015-06-16T04:49:42+00:00'
+    id: 'urn:uuid:f94258ae-a532-5b8a-9800-5283044ffb88'
+    link: 'https://pub.dartlang.org/packages/generator'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
