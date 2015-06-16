@@ -26750,3 +26750,12 @@
     link: 'https://pub.dartlang.org/packages/generator'
     author:
         - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: system_info
+    package_version: v0.0.15
+    title: 'v0.0.15 of system_info'
+    published: '2015-06-16T05:28:44+00:00'
+    id: 'urn:uuid:28fd0683-6bfe-572b-b11e-e5ab09b7fc98'
+    link: 'https://pub.dartlang.org/packages/system_info'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
