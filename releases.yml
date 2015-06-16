@@ -26786,3 +26786,12 @@
     link: 'https://pub.dartlang.org/packages/haystack'
     author:
         - 'Dmitriy Vasilyev <dmitry@bassg.com>'
+-
+    package_name: do2template
+    package_version: v0.4.2
+    title: 'v0.4.2 of do2template'
+    published: '2015-06-16T18:49:59+00:00'
+    id: 'urn:uuid:8604b7dd-3aed-531b-8886-094eb27d6d0e'
+    link: 'https://pub.dartlang.org/packages/do2template'
+    author:
+        - 'Mikhail Stolyarov <schnack.desu@gmail.com>'
