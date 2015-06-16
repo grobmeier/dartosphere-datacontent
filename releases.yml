@@ -26795,3 +26795,13 @@
     link: 'https://pub.dartlang.org/packages/do2template'
     author:
         - 'Mikhail Stolyarov <schnack.desu@gmail.com>'
+-
+    package_name: elastic_dart
+    package_version: v0.2.2
+    title: 'v0.2.2 of elastic_dart'
+    published: '2015-06-16T19:47:37+00:00'
+    id: 'urn:uuid:f4e43011-8b0a-5b95-ae90-9ea98057bd38'
+    link: 'https://pub.dartlang.org/packages/elastic_dart'
+    author:
+        - 'Jesper Håkansson <jesper@jesperh.se>'
+        - 'Rasmus Eneman <rasmus@eneman.eu>'
