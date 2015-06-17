@@ -26910,3 +26910,21 @@
         - 'Tobias Bosch <tbosch@google.com>'
         - 'Victor Savkin <vsavkin@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
+-
+    package_name: dasic
+    package_version: v1.0.0
+    title: 'v1.0.0 of dasic'
+    published: '2015-06-17T10:41:36+00:00'
+    id: 'urn:uuid:a03d959f-6653-5aa2-a65c-96f085528a39'
+    link: 'https://pub.dartlang.org/packages/dasic'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: changelog
+    package_version: v1.3.2
+    title: 'v1.3.2 of changelog'
+    published: '2015-06-17T10:40:56+00:00'
+    id: 'urn:uuid:f639f3a6-5316-5b0b-8e72-62a627c89646'
+    link: 'https://pub.dartlang.org/packages/changelog'
+    author:
+        - office@mikemitterer.at
