@@ -26947,3 +26947,30 @@
     link: 'https://pub.dartlang.org/packages/realtime_data_model'
     author:
         - 'Christopher Best <bestchris@gmail.com>'
+-
+    package_name: drag_handler
+    package_version: v0.2.3
+    title: 'v0.2.3 of drag_handler'
+    published: '2015-06-17T20:55:38+00:00'
+    id: 'urn:uuid:625252e8-3d94-5d38-90f1-79b839519db6'
+    link: 'https://pub.dartlang.org/packages/drag_handler'
+    author:
+        - 'Christopher Best <bestchris@gmail.com>'
+-
+    package_name: test
+    package_version: v0.12.3+1
+    title: 'v0.12.3+1 of test'
+    published: '2015-06-17T20:44:35+00:00'
+    id: 'urn:uuid:fbfb4bc2-54b4-5072-98ec-7cbb232e5522'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: redstone_mvc
+    package_version: v0.0.373
+    title: 'v0.0.373 of redstone_mvc'
+    published: '2015-06-17T20:37:10+00:00'
+    id: 'urn:uuid:535fee48-98c7-5fdf-b22f-7fae1266e645'
+    link: 'https://pub.dartlang.org/packages/redstone_mvc'
+    author:
+        - 'Cristian Garcia <cgarcia.e88@gmail.com>'
