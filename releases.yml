@@ -26938,3 +26938,12 @@
     author:
         - 'Roman Shamritskiy <roman@litgroup.ru>'
         - 'Vladimir Bogutskiy <ustas@litgroup.ru>'
+-
+    package_name: realtime_data_model
+    package_version: v0.0.14
+    title: 'v0.0.14 of realtime_data_model'
+    published: '2015-06-17T19:06:13+00:00'
+    id: 'urn:uuid:c6f5d9f5-15c5-5c64-8812-804fb48d8301'
+    link: 'https://pub.dartlang.org/packages/realtime_data_model'
+    author:
+        - 'Christopher Best <bestchris@gmail.com>'
