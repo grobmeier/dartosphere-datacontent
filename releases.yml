@@ -26928,3 +26928,13 @@
     link: 'https://pub.dartlang.org/packages/changelog'
     author:
         - office@mikemitterer.at
+-
+    package_name: dimple
+    package_version: v0.1.0-beta.1
+    title: 'v0.1.0-beta.1 of dimple'
+    published: '2015-06-17T13:50:00+00:00'
+    id: 'urn:uuid:9386a038-fed7-59d6-899a-69255fbc2971'
+    link: 'https://pub.dartlang.org/packages/dimple'
+    author:
+        - 'Roman Shamritskiy <roman@litgroup.ru>'
+        - 'Vladimir Bogutskiy <ustas@litgroup.ru>'
