@@ -26859,3 +26859,54 @@
     link: 'https://pub.dartlang.org/packages/analysis'
     author:
         - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: angular2_benchmarks
+    package_version: v2.0.0-alpha.27
+    title: 'v2.0.0-alpha.27 of angular2_benchmarks'
+    published: '2015-06-17T06:15:41+00:00'
+    id: 'urn:uuid:01578ca4-e592-5cb5-8bb4-d564471e065f'
+    link: 'https://pub.dartlang.org/packages/angular2_benchmarks'
+    author:
+        - 'Alex Eagle <alexeagle@google.com>'
+        - 'Chirayu Krishnappa <chirayu@google.com>'
+        - 'Jeff Cross <crossj@google.com>'
+        - 'Matias Niemela <matsko@google.com>'
+        - 'Misko Hevery <misko@google.com>'
+        - 'Rado Kirov <radokirov@google.com>'
+        - 'Tobias Bosch <tbosch@google.com>'
+        - 'Victor Savkin <vsavkin@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+-
+    package_name: benchpress
+    package_version: v2.0.0-alpha.27
+    title: 'v2.0.0-alpha.27 of benchpress'
+    published: '2015-06-17T06:15:35+00:00'
+    id: 'urn:uuid:6095c907-738c-553a-abee-975a8e9dc0bb'
+    link: 'https://pub.dartlang.org/packages/benchpress'
+    author:
+        - 'Alex Eagle <alexeagle@google.com>'
+        - 'Chirayu Krishnappa <chirayu@google.com>'
+        - 'Jeff Cross <crossj@google.com>'
+        - 'Matias Niemela <matsko@google.com>'
+        - 'Misko Hevery <misko@google.com>'
+        - 'Rado Kirov <radokirov@google.com>'
+        - 'Tobias Bosch <tbosch@google.com>'
+        - 'Victor Savkin <vsavkin@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+-
+    package_name: angular2
+    package_version: v2.0.0-alpha.27
+    title: 'v2.0.0-alpha.27 of angular2'
+    published: '2015-06-17T06:15:28+00:00'
+    id: 'urn:uuid:31ad8899-e238-5dc9-ab87-94789b5e6c17'
+    link: 'https://pub.dartlang.org/packages/angular2'
+    author:
+        - 'Alex Eagle <alexeagle@google.com>'
+        - 'Chirayu Krishnappa <chirayu@google.com>'
+        - 'Jeff Cross <crossj@google.com>'
+        - 'Matias Niemela <matsko@google.com>'
+        - 'Misko Hevery <misko@google.com>'
+        - 'Rado Kirov <radokirov@google.com>'
+        - 'Tobias Bosch <tbosch@google.com>'
+        - 'Victor Savkin <vsavkin@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
