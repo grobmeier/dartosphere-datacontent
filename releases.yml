@@ -27028,3 +27028,21 @@
     link: 'https://pub.dartlang.org/packages/test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dart_feed
+    package_version: v0.0.1
+    title: 'v0.0.1 of dart_feed'
+    published: '2015-06-18T21:15:19+00:00'
+    id: 'urn:uuid:109b1df9-8a78-585f-a9cb-8b846c76d08f'
+    link: 'https://pub.dartlang.org/packages/dart_feed'
+    author:
+        - 'Haran Kumar <hkumar8200@gmail.com>'
+-
+    package_name: shelf_oauth
+    package_version: v0.6.0
+    title: 'v0.6.0 of shelf_oauth'
+    published: '2015-06-18T21:10:16+00:00'
+    id: 'urn:uuid:efb4c8f9-387f-5787-ba3a-2b026a1b8c8a'
+    link: 'https://pub.dartlang.org/packages/shelf_oauth'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
