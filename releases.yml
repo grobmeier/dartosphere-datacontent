@@ -27010,3 +27010,12 @@
     link: 'https://pub.dartlang.org/packages/simple_requests'
     author:
         - 'Martin Sikora <martin.sikora.ahoj@gmail.com>'
+-
+    package_name: shelf_appengine
+    package_version: v0.2.2+1
+    title: 'v0.2.2+1 of shelf_appengine'
+    published: '2015-06-18T17:59:42+00:00'
+    id: 'urn:uuid:30136344-ee45-59be-b1fe-d394fd5046a5'
+    link: 'https://pub.dartlang.org/packages/shelf_appengine'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
