@@ -27001,3 +27001,12 @@
     link: 'https://pub.dartlang.org/packages/github_hook'
     author:
         - 'Kevin Moore <kevmoo@google.com>'
+-
+    package_name: simple_requests
+    package_version: v0.1.0
+    title: 'v0.1.0 of simple_requests'
+    published: '2015-06-18T16:46:40+00:00'
+    id: 'urn:uuid:db6ed08b-cff4-5bd1-9341-4bf595ae29ca'
+    link: 'https://pub.dartlang.org/packages/simple_requests'
+    author:
+        - 'Martin Sikora <martin.sikora.ahoj@gmail.com>'
