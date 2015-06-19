@@ -27091,3 +27091,12 @@
     link: 'https://pub.dartlang.org/packages/force'
     author:
         - 'Joris Hermans <hermansj@gmail.com>'
+-
+    package_name: dartdoc
+    package_version: v0.0.2+3
+    title: 'v0.0.2+3 of dartdoc'
+    published: '2015-06-19T18:13:55+00:00'
+    id: 'urn:uuid:0d31db0b-a08a-5808-98fc-ed410f630825'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
