@@ -27073,3 +27073,12 @@
     link: 'https://pub.dartlang.org/packages/avl_tree'
     author:
         - 'Karl Guggisberg <karl.guggisberg@guggis.ch>'
+-
+    package_name: tiles
+    package_version: v0.1.3+4
+    title: 'v0.1.3+4 of tiles'
+    published: '2015-06-19T13:44:04+00:00'
+    id: 'urn:uuid:ab102904-fb86-58c3-afb4-c846d1d7478e'
+    link: 'https://pub.dartlang.org/packages/tiles'
+    author:
+        - 'Jakuub Uhrik <jakuub@mail.com>'
