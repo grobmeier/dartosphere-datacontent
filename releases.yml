@@ -27082,3 +27082,12 @@
     link: 'https://pub.dartlang.org/packages/tiles'
     author:
         - 'Jakuub Uhrik <jakuub@mail.com>'
+-
+    package_name: force
+    package_version: v0.6.5+1
+    title: 'v0.6.5+1 of force'
+    published: '2015-06-19T16:05:40+00:00'
+    id: 'urn:uuid:75084bc8-3173-595f-9b72-59115b440f95'
+    link: 'https://pub.dartlang.org/packages/force'
+    author:
+        - 'Joris Hermans <hermansj@gmail.com>'
