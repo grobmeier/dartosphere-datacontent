@@ -27064,3 +27064,12 @@
         - 'Victor Savkin <vsavkin@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: avl_tree
+    package_version: v0.1.1+1
+    title: 'v0.1.1+1 of avl_tree'
+    published: '2015-06-19T09:27:47+00:00'
+    id: 'urn:uuid:5e0aafda-04d7-553a-96cb-7f0c57bc24d9'
+    link: 'https://pub.dartlang.org/packages/avl_tree'
+    author:
+        - 'Karl Guggisberg <karl.guggisberg@guggis.ch>'
