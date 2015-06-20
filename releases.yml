@@ -27172,3 +27172,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_auth'
     author:
         - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: shelf_oauth_memcache
+    package_version: v0.2.1+1
+    title: 'v0.2.1+1 of shelf_oauth_memcache'
+    published: '2015-03-14T06:00:40+00:00'
+    id: 'urn:uuid:20d9d8e7-d9f2-5108-9045-e178e97dd347'
+    link: 'https://pub.dartlang.org/packages/shelf_oauth_memcache'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
