@@ -27154,3 +27154,12 @@
     link: 'https://pub.dartlang.org/packages/dart_builder'
     author:
         - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: bower_bind
+    package_version: v0.0.0
+    title: 'v0.0.0 of bower_bind'
+    published: '2015-06-20T20:28:46+00:00'
+    id: 'urn:uuid:b5e4697b-da19-5220-a3a9-c3354dbfec4b'
+    link: 'https://pub.dartlang.org/packages/bower_bind'
+    author:
+        - 'Paul VanKeuren <paul.vankeuren@gmail.com>'
