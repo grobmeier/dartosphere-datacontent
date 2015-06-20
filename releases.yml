@@ -27163,3 +27163,12 @@
     link: 'https://pub.dartlang.org/packages/bower_bind'
     author:
         - 'Paul VanKeuren <paul.vankeuren@gmail.com>'
+-
+    package_name: shelf_auth
+    package_version: v0.6.0+2
+    title: 'v0.6.0+2 of shelf_auth'
+    published: '2015-06-20T21:30:34+00:00'
+    id: 'urn:uuid:93466680-8830-5b1d-bf30-aa0998a4c36c'
+    link: 'https://pub.dartlang.org/packages/shelf_auth'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
