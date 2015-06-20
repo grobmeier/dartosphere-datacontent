@@ -27100,3 +27100,12 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: redstone_mvc
+    package_version: v0.0.380
+    title: 'v0.0.380 of redstone_mvc'
+    published: '2015-06-20T00:43:07+00:00'
+    id: 'urn:uuid:4be2c80d-db92-51ae-8641-41a4cb1001a8'
+    link: 'https://pub.dartlang.org/packages/redstone_mvc'
+    author:
+        - 'Cristian Garcia <cgarcia.e88@gmail.com>'
