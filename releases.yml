@@ -27181,3 +27181,21 @@
     link: 'https://pub.dartlang.org/packages/shelf_oauth_memcache'
     author:
         - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: mojito
+    package_version: v0.2.0
+    title: 'v0.2.0 of mojito'
+    published: '2015-03-01T02:33:45+00:00'
+    id: 'urn:uuid:776a7c8d-f9d3-591d-bc46-6ac6d0599c90'
+    link: 'https://pub.dartlang.org/packages/mojito'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: shelf_auth_session
+    package_version: v0.4.0
+    title: 'v0.4.0 of shelf_auth_session'
+    published: '2015-06-20T23:53:12+00:00'
+    id: 'urn:uuid:21559809-37a0-5914-ad2f-044ae209f725'
+    link: 'https://pub.dartlang.org/packages/shelf_auth_session'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
