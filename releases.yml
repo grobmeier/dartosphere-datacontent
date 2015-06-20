@@ -27109,3 +27109,12 @@
     link: 'https://pub.dartlang.org/packages/redstone_mvc'
     author:
         - 'Cristian Garcia <cgarcia.e88@gmail.com>'
+-
+    package_name: system_info
+    package_version: v0.0.16
+    title: 'v0.0.16 of system_info'
+    published: '2015-06-20T14:08:13+00:00'
+    id: 'urn:uuid:7c636293-a539-5e32-8965-e422f17e251c'
+    link: 'https://pub.dartlang.org/packages/system_info'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
