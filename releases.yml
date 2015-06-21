@@ -27199,3 +27199,30 @@
     link: 'https://pub.dartlang.org/packages/shelf_auth_session'
     author:
         - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: js_mimicry
+    package_version: v0.2.0+3
+    title: 'v0.2.0+3 of js_mimicry'
+    published: '2015-06-21T00:12:48+00:00'
+    id: 'urn:uuid:e3bae6e0-b985-570f-a935-d9537f701704'
+    link: 'https://pub.dartlang.org/packages/js_mimicry'
+    author:
+        - 'Igor Demyanov <igor.demyanov@gmail.com>'
+-
+    package_name: jefe
+    package_version: v0.2.0
+    title: 'v0.2.0 of jefe'
+    published: '2015-06-21T00:06:38+00:00'
+    id: 'urn:uuid:a7312020-28e5-50f5-a90e-56ff6f589cde'
+    link: 'https://pub.dartlang.org/packages/jefe'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: akismet
+    package_version: v0.6.0
+    title: 'v0.6.0 of akismet'
+    published: '2015-06-21T00:02:01+00:00'
+    id: 'urn:uuid:c3abe28a-40ac-547a-b9d1-cfcc2651094c'
+    link: 'https://pub.dartlang.org/packages/akismet'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
