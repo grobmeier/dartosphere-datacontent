@@ -27316,3 +27316,12 @@
     link: 'https://pub.dartlang.org/packages/pubspec'
     author:
         - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: shelf_auth_session
+    package_version: v0.4.1
+    title: 'v0.4.1 of shelf_auth_session'
+    published: '2015-06-21T22:31:11+00:00'
+    id: 'urn:uuid:905baaec-2d4d-568e-ac2a-840c7a9ef69e'
+    link: 'https://pub.dartlang.org/packages/shelf_auth_session'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
