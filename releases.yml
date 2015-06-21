@@ -27262,3 +27262,12 @@
     link: 'https://pub.dartlang.org/packages/cork'
     author:
         - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: svg
+    package_version: v0.0.3
+    title: 'v0.0.3 of svg'
+    published: '2015-06-21T06:38:58+00:00'
+    id: 'urn:uuid:e07879cc-ef4e-5748-83d3-828ad74b2efb'
+    link: 'https://pub.dartlang.org/packages/svg'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
