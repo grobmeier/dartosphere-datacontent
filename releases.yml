@@ -27226,3 +27226,30 @@
     link: 'https://pub.dartlang.org/packages/akismet'
     author:
         - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: dart_builder
+    package_version: v0.0.1-alpha.2
+    title: 'v0.0.1-alpha.2 of dart_builder'
+    published: '2015-06-21T04:58:23+00:00'
+    id: 'urn:uuid:90f7303d-e6b0-564a-a470-c6fb8182bb2a'
+    link: 'https://pub.dartlang.org/packages/dart_builder'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: generator
+    package_version: v0.0.1-alpha.3
+    title: 'v0.0.1-alpha.3 of generator'
+    published: '2015-06-21T04:56:48+00:00'
+    id: 'urn:uuid:e51fed37-713b-5032-8a3d-1f3181c0a29c'
+    link: 'https://pub.dartlang.org/packages/generator'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: analysis
+    package_version: v0.0.1-alpha.6
+    title: 'v0.0.1-alpha.6 of analysis'
+    published: '2015-06-21T04:55:06+00:00'
+    id: 'urn:uuid:438a9c6a-e3e1-5830-ad9e-69deadef8c56'
+    link: 'https://pub.dartlang.org/packages/analysis'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
