@@ -27289,3 +27289,12 @@
     link: 'https://pub.dartlang.org/packages/dom_stub'
     author:
         - 'Igor Demyanov <igor.demyanov@gmail.com>'
+-
+    package_name: google_oauth2_jwt
+    package_version: v0.2.1
+    title: 'v0.2.1 of google_oauth2_jwt'
+    published: '2015-06-21T13:47:50+00:00'
+    id: 'urn:uuid:02bf32e0-85e2-508d-b394-c1e5e75eb112'
+    link: 'https://pub.dartlang.org/packages/google_oauth2_jwt'
+    author:
+        - 'Tais P. Hansen <taishansen@gmail.com>'
