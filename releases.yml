@@ -27307,3 +27307,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_auth'
     author:
         - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: pubspec
+    package_version: v0.0.2
+    title: 'v0.0.2 of pubspec'
+    published: '2015-06-21T20:09:38+00:00'
+    id: 'urn:uuid:a1da9771-d608-590e-b439-2024f102b1ff'
+    link: 'https://pub.dartlang.org/packages/pubspec'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
