@@ -27406,3 +27406,39 @@
     link: 'https://pub.dartlang.org/packages/stagexl'
     author:
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: sky
+    package_version: v0.0.11
+    title: 'v0.0.11 of sky'
+    published: '2015-06-22T18:39:41+00:00'
+    id: 'urn:uuid:1d49aa19-72fd-5cc1-9f06-84a40d028793'
+    link: 'https://pub.dartlang.org/packages/sky'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: mojo_services
+    package_version: v0.0.9
+    title: 'v0.0.9 of mojo_services'
+    published: '2015-06-22T18:38:42+00:00'
+    id: 'urn:uuid:445655e4-72af-5190-aa04-e5335531a50b'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojom
+    package_version: v0.0.11
+    title: 'v0.0.11 of mojom'
+    published: '2015-06-22T18:38:33+00:00'
+    id: 'urn:uuid:b527f1c7-63f5-5bd6-a36c-e0da8bd89788'
+    link: 'https://pub.dartlang.org/packages/mojom'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo
+    package_version: v0.0.11
+    title: 'v0.0.11 of mojo'
+    published: '2015-06-22T18:38:20+00:00'
+    id: 'urn:uuid:60100fc1-ef2b-5b41-95d6-a389e78ac177'
+    link: 'https://pub.dartlang.org/packages/mojo'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
