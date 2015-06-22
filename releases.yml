@@ -27325,3 +27325,21 @@
     link: 'https://pub.dartlang.org/packages/shelf_auth_session'
     author:
         - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: dart_builder
+    package_version: v0.1.0
+    title: 'v0.1.0 of dart_builder'
+    published: '2015-06-22T04:55:22+00:00'
+    id: 'urn:uuid:2f739210-0aff-5c08-8d42-c1a63606a7b8'
+    link: 'https://pub.dartlang.org/packages/dart_builder'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: archive
+    package_version: v1.0.20
+    title: 'v1.0.20 of archive'
+    published: '2015-06-22T04:25:09+00:00'
+    id: 'urn:uuid:583d65c2-e26d-5427-aa23-5d16ba9e9288'
+    link: 'https://pub.dartlang.org/packages/archive'
+    author:
+        - 'Brendan Duncan <brendanduncan@gmail.com>'
