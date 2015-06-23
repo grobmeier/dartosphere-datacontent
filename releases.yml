@@ -27451,3 +27451,12 @@
     link: 'https://pub.dartlang.org/packages/scheduled_test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: ddns_client
+    package_version: v0.8.1
+    title: 'v0.8.1 of ddns_client'
+    published: '2015-06-23T01:37:56+00:00'
+    id: 'urn:uuid:96e1507e-970c-5bad-8e7b-b02ce6d94ea5'
+    link: 'https://pub.dartlang.org/packages/ddns_client'
+    author:
+        - 'Dan Rubel <danrubel@google.com>'
