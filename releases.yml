@@ -27496,3 +27496,12 @@
     link: 'https://pub.dartlang.org/packages/dart_builder'
     author:
         - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: cork
+    package_version: v0.1.1
+    title: 'v0.1.1 of cork'
+    published: '2015-06-23T18:06:30+00:00'
+    id: 'urn:uuid:776f057e-78df-511f-9d47-aaa509d7c49e'
+    link: 'https://pub.dartlang.org/packages/cork'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
