@@ -27505,3 +27505,39 @@
     link: 'https://pub.dartlang.org/packages/cork'
     author:
         - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: mojom
+    package_version: v0.0.12
+    title: 'v0.0.12 of mojom'
+    published: '2015-06-23T19:26:42+00:00'
+    id: 'urn:uuid:1b574512-f627-531d-abab-3c8ece987e99'
+    link: 'https://pub.dartlang.org/packages/mojom'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo
+    package_version: v0.0.12
+    title: 'v0.0.12 of mojo'
+    published: '2015-06-23T19:26:39+00:00'
+    id: 'urn:uuid:084a3256-18ec-59e1-a3b5-36bfba14d88a'
+    link: 'https://pub.dartlang.org/packages/mojo'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_services
+    package_version: v0.0.10
+    title: 'v0.0.10 of mojo_services'
+    published: '2015-06-23T19:26:36+00:00'
+    id: 'urn:uuid:a8c1f988-9ce6-53a4-9793-271ee2c7fe2e'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: sky
+    package_version: v0.0.12
+    title: 'v0.0.12 of sky'
+    published: '2015-06-23T19:26:34+00:00'
+    id: 'urn:uuid:d73a6f96-e042-5d67-8839-54b4535bf208'
+    link: 'https://pub.dartlang.org/packages/sky'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
