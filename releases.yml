@@ -27643,3 +27643,12 @@
     link: 'https://pub.dartlang.org/packages/source_gen'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: cork
+    package_version: v0.1.2
+    title: 'v0.1.2 of cork'
+    published: '2015-06-24T07:34:28+00:00'
+    id: 'urn:uuid:0c4bd3ab-b9cd-56bf-9286-97e92a05172b'
+    link: 'https://pub.dartlang.org/packages/cork'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
