@@ -27634,3 +27634,12 @@
     link: 'https://pub.dartlang.org/packages/protobuf'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: source_gen
+    package_version: v0.4.2
+    title: 'v0.4.2 of source_gen'
+    published: '2015-06-24T03:31:15+00:00'
+    id: 'urn:uuid:b97b2582-afb4-5513-bafe-8ea15ca79e81'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
