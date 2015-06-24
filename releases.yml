@@ -27670,3 +27670,13 @@
     link: 'https://pub.dartlang.org/packages/package_config'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: color
+    package_version: v2.0.0
+    title: 'v2.0.0 of color'
+    published: '2015-06-24T21:57:44+00:00'
+    id: 'urn:uuid:bbb8f895-d4d7-5024-afbd-4fc640d8ed47'
+    link: 'https://pub.dartlang.org/packages/color'
+    author:
+        - 'Michael Fenwick <mike@mikefenwick.com>'
+        - 'Tim Kluge <timklge@wh2.tu-dresden.de>'
