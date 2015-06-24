@@ -27652,3 +27652,21 @@
     link: 'https://pub.dartlang.org/packages/cork'
     author:
         - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: polymerjs
+    package_version: v0.1.2
+    title: 'v0.1.2 of polymerjs'
+    published: '2015-06-24T20:55:45+00:00'
+    id: 'urn:uuid:0f83fdda-5560-550d-984b-f83a68579c37'
+    link: 'https://pub.dartlang.org/packages/polymerjs'
+    author:
+        - 'Kasper Peulen <kasperpeulen@gmail.com>'
+-
+    package_name: package_config
+    package_version: v0.1.1
+    title: 'v0.1.1 of package_config'
+    published: '2015-06-24T20:55:14+00:00'
+    id: 'urn:uuid:1f7ee279-d320-564f-9402-9568b50657b4'
+    link: 'https://pub.dartlang.org/packages/package_config'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
