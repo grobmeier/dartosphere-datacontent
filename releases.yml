@@ -27770,3 +27770,21 @@
     link: 'https://pub.dartlang.org/packages/jefe'
     author:
         - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: googleapis_beta
+    package_version: v0.15.1
+    title: 'v0.15.1 of googleapis_beta'
+    published: '2015-06-25T09:54:31+00:00'
+    id: 'urn:uuid:cb1d6b62-16b5-5222-9eda-2cc932d772fd'
+    link: 'https://pub.dartlang.org/packages/googleapis_beta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: googleapis
+    package_version: v0.12.0
+    title: 'v0.12.0 of googleapis'
+    published: '2015-06-25T09:54:15+00:00'
+    id: 'urn:uuid:fafab7ab-a11f-50f1-a340-a4fcb63e25a9'
+    link: 'https://pub.dartlang.org/packages/googleapis'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
