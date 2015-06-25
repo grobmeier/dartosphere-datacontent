@@ -27788,3 +27788,57 @@
     link: 'https://pub.dartlang.org/packages/googleapis'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: shelf_bind
+    package_version: v0.8.2
+    title: 'v0.8.2 of shelf_bind'
+    published: '2015-06-25T10:39:59+00:00'
+    id: 'urn:uuid:c471e0bf-4cce-5ebe-aaa6-020930d4670c'
+    link: 'https://pub.dartlang.org/packages/shelf_bind'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: constrain
+    package_version: v0.2.2
+    title: 'v0.2.2 of constrain'
+    published: '2015-06-25T10:38:00+00:00'
+    id: 'urn:uuid:146728e2-258f-5ec5-a421-ddcfdb9b835c'
+    link: 'https://pub.dartlang.org/packages/constrain'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: shelf_path
+    package_version: v0.1.4
+    title: 'v0.1.4 of shelf_path'
+    published: '2015-06-25T10:37:19+00:00'
+    id: 'urn:uuid:ece70b1a-ebef-5849-97c9-ff3aa6ef966f'
+    link: 'https://pub.dartlang.org/packages/shelf_path'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: shelf_oauth_memcache
+    package_version: v0.3.1
+    title: 'v0.3.1 of shelf_oauth_memcache'
+    published: '2015-06-25T10:36:56+00:00'
+    id: 'urn:uuid:478f8a62-7b7b-5b06-a3cd-c73d024b1657'
+    link: 'https://pub.dartlang.org/packages/shelf_oauth_memcache'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: hateoas_models
+    package_version: v0.1.2
+    title: 'v0.1.2 of hateoas_models'
+    published: '2015-06-25T10:14:58+00:00'
+    id: 'urn:uuid:77906a94-4008-59a3-834f-a9cbac900378'
+    link: 'https://pub.dartlang.org/packages/hateoas_models'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: shelf_oauth
+    package_version: v0.6.2
+    title: 'v0.6.2 of shelf_oauth'
+    published: '2015-06-25T10:14:41+00:00'
+    id: 'urn:uuid:598edbb0-eae0-5d7e-828a-fa2ff1659928'
+    link: 'https://pub.dartlang.org/packages/shelf_oauth'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
