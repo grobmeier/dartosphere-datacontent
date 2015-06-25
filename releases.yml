@@ -28013,3 +28013,21 @@
     link: 'https://pub.dartlang.org/packages/mserve'
     author:
         - 'Devon Carew <devoncarew@gmail.com>'
+-
+    package_name: angular2_material
+    package_version: v2.0.0-alpha.28
+    title: 'v2.0.0-alpha.28 of angular2_material'
+    published: '2015-06-25T16:37:18+00:00'
+    id: 'urn:uuid:894cf189-88b9-51a1-8fdb-cced6bc1bcbc'
+    link: 'https://pub.dartlang.org/packages/angular2_material'
+    author:
+        - 'Alex Eagle <alexeagle@google.com>'
+        - 'Chirayu Krishnappa <chirayu@google.com>'
+        - 'Jeff Cross <crossj@google.com>'
+        - 'Matias Niemela <matsko@google.com>'
+        - 'Misko Hevery <misko@google.com>'
+        - 'Rado Kirov <radokirov@google.com>'
+        - 'Tobias Bosch <tbosch@google.com>'
+        - 'Victor Savkin <vsavkin@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Jeremy Elbourn <jelbourn@google.com>'
