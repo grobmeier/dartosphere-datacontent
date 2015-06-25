@@ -28004,3 +28004,12 @@
     link: 'https://pub.dartlang.org/packages/md_proc'
     author:
         - 'Maxim Dikun <dikmax@gmail.com>'
+-
+    package_name: mserve
+    package_version: v0.1.0
+    title: 'v0.1.0 of mserve'
+    published: '2015-06-25T14:00:09+00:00'
+    id: 'urn:uuid:27772ed9-963b-55fa-9f92-8837b6238625'
+    link: 'https://pub.dartlang.org/packages/mserve'
+    author:
+        - 'Devon Carew <devoncarew@gmail.com>'
