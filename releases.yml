@@ -27752,3 +27752,12 @@
         - 'Victor Savkin <vsavkin@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: dartdoc
+    package_version: v0.0.3
+    title: 'v0.0.3 of dartdoc'
+    published: '2015-06-25T04:13:58+00:00'
+    id: 'urn:uuid:0b2c6039-8ddc-5ed5-b454-bfe8179d4a93'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
