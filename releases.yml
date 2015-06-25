@@ -27914,3 +27914,84 @@
     link: 'https://pub.dartlang.org/packages/shelf_oauth_memcache'
     author:
         - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: shelf_rest
+    package_version: v0.2.0
+    title: 'v0.2.0 of shelf_rest'
+    published: '2015-06-25T12:25:05+00:00'
+    id: 'urn:uuid:8e09778b-e688-59fb-8316-cbc479c9e589'
+    link: 'https://pub.dartlang.org/packages/shelf_rest'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: shelf_auth_session
+    package_version: v0.4.4
+    title: 'v0.4.4 of shelf_auth_session'
+    published: '2015-06-25T12:24:36+00:00'
+    id: 'urn:uuid:3952ed24-d4ba-5bc7-b7a8-37cc70db2a68'
+    link: 'https://pub.dartlang.org/packages/shelf_auth_session'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: shelf_auth
+    package_version: v0.6.3
+    title: 'v0.6.3 of shelf_auth'
+    published: '2015-06-25T12:24:10+00:00'
+    id: 'urn:uuid:ae3d2551-7329-5c05-b3bb-3a42a52e0a5a'
+    link: 'https://pub.dartlang.org/packages/shelf_auth'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: shelf_bind
+    package_version: v0.8.4
+    title: 'v0.8.4 of shelf_bind'
+    published: '2015-06-25T12:23:44+00:00'
+    id: 'urn:uuid:53339a66-d2a7-58e9-8320-35c40826d376'
+    link: 'https://pub.dartlang.org/packages/shelf_bind'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: constrain
+    package_version: v0.2.4
+    title: 'v0.2.4 of constrain'
+    published: '2015-06-25T12:23:17+00:00'
+    id: 'urn:uuid:7bb6bb18-1359-5614-9599-d6f93ff5376f'
+    link: 'https://pub.dartlang.org/packages/constrain'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: shelf_route
+    package_version: v0.13.1
+    title: 'v0.13.1 of shelf_route'
+    published: '2015-06-25T12:22:52+00:00'
+    id: 'urn:uuid:a4ae1c19-13b8-58d7-9328-e50bb39a0ef6'
+    link: 'https://pub.dartlang.org/packages/shelf_route'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: shelf_path
+    package_version: v0.1.6
+    title: 'v0.1.6 of shelf_path'
+    published: '2015-06-25T12:18:13+00:00'
+    id: 'urn:uuid:fb2e2872-9fb9-50cf-8ec4-8bf1b4d171c5'
+    link: 'https://pub.dartlang.org/packages/shelf_path'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: shelf_oauth_memcache
+    package_version: v0.3.3
+    title: 'v0.3.3 of shelf_oauth_memcache'
+    published: '2015-06-25T12:17:50+00:00'
+    id: 'urn:uuid:8f51b4fa-6dad-5cee-9953-f71807eca3e7'
+    link: 'https://pub.dartlang.org/packages/shelf_oauth_memcache'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: hateoas_models
+    package_version: v0.1.4
+    title: 'v0.1.4 of hateoas_models'
+    published: '2015-06-25T12:14:12+00:00'
+    id: 'urn:uuid:416f2d9e-0741-5686-a3f4-5d44b5d47a99'
+    link: 'https://pub.dartlang.org/packages/hateoas_models'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
