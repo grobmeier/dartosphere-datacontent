@@ -28112,3 +28112,12 @@
     link: 'https://pub.dartlang.org/packages/complex'
     author:
         - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: jefe
+    package_version: v0.2.3
+    title: 'v0.2.3 of jefe'
+    published: '2015-06-26T11:00:40+00:00'
+    id: 'urn:uuid:a93f5ca9-9f2b-52c2-bde0-73a02f3834b0'
+    link: 'https://pub.dartlang.org/packages/jefe'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
