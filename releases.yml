@@ -28139,3 +28139,12 @@
     link: 'https://pub.dartlang.org/packages/gcloud'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: realtime_data_model
+    package_version: v0.0.16
+    title: 'v0.0.16 of realtime_data_model'
+    published: '2015-06-26T17:04:48+00:00'
+    id: 'urn:uuid:06f3a51b-b40a-5754-87a0-1794a6b136e0'
+    link: 'https://pub.dartlang.org/packages/realtime_data_model'
+    author:
+        - 'Christopher Best <bestchris@gmail.com>'
