@@ -28076,3 +28076,21 @@
     link: 'https://pub.dartlang.org/packages/shelf_route'
     author:
         - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: mojito
+    package_version: v0.3.0
+    title: 'v0.3.0 of mojito'
+    published: '2015-06-26T07:35:31+00:00'
+    id: 'urn:uuid:ec3114c8-bdd2-5c8e-a39b-ca5a68339f54'
+    link: 'https://pub.dartlang.org/packages/mojito'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: shelf_rest
+    package_version: v0.2.1
+    title: 'v0.2.1 of shelf_rest'
+    published: '2015-06-26T06:59:54+00:00'
+    id: 'urn:uuid:80c107c9-2297-589e-ad10-1722fc649619'
+    link: 'https://pub.dartlang.org/packages/shelf_rest'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
