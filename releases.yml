@@ -28148,3 +28148,12 @@
     link: 'https://pub.dartlang.org/packages/realtime_data_model'
     author:
         - 'Christopher Best <bestchris@gmail.com>'
+-
+    package_name: drag_handler
+    package_version: v0.2.4
+    title: 'v0.2.4 of drag_handler'
+    published: '2015-06-26T18:51:57+00:00'
+    id: 'urn:uuid:9c3f2579-40bf-5bb7-88ce-5a07bdd24674'
+    link: 'https://pub.dartlang.org/packages/drag_handler'
+    author:
+        - 'Christopher Best <bestchris@gmail.com>'
