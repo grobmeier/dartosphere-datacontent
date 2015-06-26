@@ -28169,3 +28169,12 @@
         - 'Evan Weible <evan.weible@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: scheduled_test
+    package_version: v0.12.1+2
+    title: 'v0.12.1+2 of scheduled_test'
+    published: '2015-06-26T21:36:02+00:00'
+    id: 'urn:uuid:63ef1ae4-2f94-5d49-8909-3477134a81fa'
+    link: 'https://pub.dartlang.org/packages/scheduled_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
