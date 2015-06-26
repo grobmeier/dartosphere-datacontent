@@ -28130,3 +28130,12 @@
     link: 'https://pub.dartlang.org/packages/stomp_sockjs'
     author:
         - 'Tamas Kiss <stompsockjsdart@gmail.com>'
+-
+    package_name: gcloud
+    package_version: v0.2.0+4
+    title: 'v0.2.0+4 of gcloud'
+    published: '2015-06-26T14:33:20+00:00'
+    id: 'urn:uuid:d7ef17fd-48e7-5743-ba27-b7a16177431d'
+    link: 'https://pub.dartlang.org/packages/gcloud'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
