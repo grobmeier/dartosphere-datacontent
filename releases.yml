@@ -28198,3 +28198,12 @@
     link: 'https://pub.dartlang.org/packages/mserve'
     author:
         - 'Devon Carew <devoncarew@gmail.com>'
+-
+    package_name: plato
+    package_version: v0.2.0
+    title: 'v0.2.0 of plato'
+    published: '2015-06-28T09:39:13+00:00'
+    id: 'urn:uuid:a78a98e5-91aa-5010-9f0a-43c4b9c496c1'
+    link: 'https://pub.dartlang.org/packages/plato'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
