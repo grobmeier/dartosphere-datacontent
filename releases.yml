@@ -28228,3 +28228,12 @@
         - 'samrg472 <samrg472@gmail.com>'
         - 'TheMike <zeusintraining@gmail.com>'
         - 'Logan Gorence <loganjohngorence@gmail.com>'
+-
+    package_name: dom_stub
+    package_version: v0.0.2
+    title: 'v0.0.2 of dom_stub'
+    published: '2015-06-28T21:08:02+00:00'
+    id: 'urn:uuid:60804b1f-e455-5367-b65b-580504da570d'
+    link: 'https://pub.dartlang.org/packages/dom_stub'
+    author:
+        - 'Igor Demyanov <igor.demyanov@gmail.com>'
