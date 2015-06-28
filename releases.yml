@@ -28207,3 +28207,12 @@
     link: 'https://pub.dartlang.org/packages/plato'
     author:
         - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: new_bridge
+    package_version: v0.2.0
+    title: 'v0.2.0 of new_bridge'
+    published: '2015-06-28T10:15:11+00:00'
+    id: 'urn:uuid:0ffd7727-95c9-5d7f-ba2b-8e753bcfb67a'
+    link: 'https://pub.dartlang.org/packages/new_bridge'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
