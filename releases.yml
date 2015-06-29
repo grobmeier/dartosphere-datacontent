@@ -28291,3 +28291,48 @@
     link: 'https://pub.dartlang.org/packages/github'
     author:
         - 'Kenneth Endfinger <kaendfinger@gmail.com>'
+-
+    package_name: mojom
+    package_version: v0.0.13
+    title: 'v0.0.13 of mojom'
+    published: '2015-06-29T19:56:25+00:00'
+    id: 'urn:uuid:97a8976f-81c5-5cc6-9114-d78ff22d0f7d'
+    link: 'https://pub.dartlang.org/packages/mojom'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo
+    package_version: v0.0.13
+    title: 'v0.0.13 of mojo'
+    published: '2015-06-29T19:56:22+00:00'
+    id: 'urn:uuid:43c091b5-10e4-5faf-b302-fc71959626fd'
+    link: 'https://pub.dartlang.org/packages/mojo'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_services
+    package_version: v0.0.11
+    title: 'v0.0.11 of mojo_services'
+    published: '2015-06-29T19:56:20+00:00'
+    id: 'urn:uuid:ce27bb15-a8d8-571c-94a7-341faa105951'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: sky
+    package_version: v0.0.13
+    title: 'v0.0.13 of sky'
+    published: '2015-06-29T19:56:17+00:00'
+    id: 'urn:uuid:36f1e559-a149-5a2a-acf5-c94e0fadb21c'
+    link: 'https://pub.dartlang.org/packages/sky'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: rethinkdb_driver
+    package_version: v2.0.3
+    title: 'v2.0.3 of rethinkdb_driver'
+    published: '2015-06-29T19:21:04+00:00'
+    id: 'urn:uuid:cfb77d57-a4d2-536a-b540-04a696922d33'
+    link: 'https://pub.dartlang.org/packages/rethinkdb_driver'
+    author:
+        - 'William Welch <billywelch@gmail.com>'
