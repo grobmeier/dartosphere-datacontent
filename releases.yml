@@ -28363,3 +28363,30 @@
     link: 'https://pub.dartlang.org/packages/js_mimicry'
     author:
         - 'Igor Demyanov <igor.demyanov@gmail.com>'
+-
+    package_name: cassowary
+    package_version: v0.1.1
+    title: 'v0.1.1 of cassowary'
+    published: '2015-06-29T23:54:12+00:00'
+    id: 'urn:uuid:f162b719-780a-5b88-a12b-d6680c664749'
+    link: 'https://pub.dartlang.org/packages/cassowary'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: stack_trace
+    package_version: v1.3.4
+    title: 'v1.3.4 of stack_trace'
+    published: '2015-06-29T23:29:15+00:00'
+    id: 'urn:uuid:9f6b5b34-2106-523a-9148-9dd74a9f0770'
+    link: 'https://pub.dartlang.org/packages/stack_trace'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: func
+    package_version: v0.1.0
+    title: 'v0.1.0 of func'
+    published: '2015-06-29T23:02:26+00:00'
+    id: 'urn:uuid:7420de8e-e2ca-5508-a86e-29c576df3f6b'
+    link: 'https://pub.dartlang.org/packages/func'
+    author:
+        - 'Dart Dev Compiler team <dev-compiler@dartlang.org>'
