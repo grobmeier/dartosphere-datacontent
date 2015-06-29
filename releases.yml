@@ -28246,3 +28246,12 @@
     link: 'https://pub.dartlang.org/packages/uix_shortcuts'
     author:
         - 'Cristian Garcia <cgarcia.e88@gmail.com>'
+-
+    package_name: bootjack_datepicker
+    package_version: v0.5.5
+    title: 'v0.5.5 of bootjack_datepicker'
+    published: '2015-06-29T01:18:54+00:00'
+    id: 'urn:uuid:f0871edf-1e5a-553c-b18f-30a7fc51169d'
+    link: 'https://pub.dartlang.org/packages/bootjack_datepicker'
+    author:
+        - 'Jimmy Shiau <jimmyshiau@potix.com>'
