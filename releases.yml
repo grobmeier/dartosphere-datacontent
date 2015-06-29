@@ -28345,3 +28345,21 @@
     link: 'https://pub.dartlang.org/packages/cassowary'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: functional_behaviour_tree
+    package_version: v0.9.3
+    title: 'v0.9.3 of functional_behaviour_tree'
+    published: '2015-06-29T21:46:18+00:00'
+    id: 'urn:uuid:85cefd06-0b6a-5fed-bc26-9c27328605c7'
+    link: 'https://pub.dartlang.org/packages/functional_behaviour_tree'
+    author:
+        - 'Will Squire <will.mj.squire@googlemail.com>'
+-
+    package_name: js_mimicry
+    package_version: v0.2.1+1
+    title: 'v0.2.1+1 of js_mimicry'
+    published: '2015-06-29T21:23:10+00:00'
+    id: 'urn:uuid:3f1a79cd-7629-59f5-99fc-4adba28414ed'
+    link: 'https://pub.dartlang.org/packages/js_mimicry'
+    author:
+        - 'Igor Demyanov <igor.demyanov@gmail.com>'
