@@ -28282,3 +28282,12 @@
     link: 'https://pub.dartlang.org/packages/protobuf'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: github
+    package_version: v2.2.3
+    title: 'v2.2.3 of github'
+    published: '2015-06-29T18:31:53+00:00'
+    id: 'urn:uuid:4076a10e-3f62-5bba-96e0-b4a48226f4bf'
+    link: 'https://pub.dartlang.org/packages/github'
+    author:
+        - 'Kenneth Endfinger <kaendfinger@gmail.com>'
