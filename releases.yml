@@ -28336,3 +28336,12 @@
     link: 'https://pub.dartlang.org/packages/rethinkdb_driver'
     author:
         - 'William Welch <billywelch@gmail.com>'
+-
+    package_name: cassowary
+    package_version: v0.1.0
+    title: 'v0.1.0 of cassowary'
+    published: '2015-06-29T20:18:36+00:00'
+    id: 'urn:uuid:ed46b13d-cf46-5460-9c82-387fc73e23aa'
+    link: 'https://pub.dartlang.org/packages/cassowary'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
