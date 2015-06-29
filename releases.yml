@@ -28273,3 +28273,12 @@
     link: 'https://pub.dartlang.org/packages/terminal'
     author:
         - 'Mike Lewis <mike@updroid.com>'
+-
+    package_name: protobuf
+    package_version: v0.3.10
+    title: 'v0.3.10 of protobuf'
+    published: '2015-06-29T13:37:52+00:00'
+    id: 'urn:uuid:0a6eaa1e-3511-5c9f-bf92-6c93622d905c'
+    link: 'https://pub.dartlang.org/packages/protobuf'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
