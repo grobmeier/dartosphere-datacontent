@@ -28237,3 +28237,12 @@
     link: 'https://pub.dartlang.org/packages/dom_stub'
     author:
         - 'Igor Demyanov <igor.demyanov@gmail.com>'
+-
+    package_name: uix_shortcuts
+    package_version: v0.0.15
+    title: 'v0.0.15 of uix_shortcuts'
+    published: '2015-06-29T00:55:24+00:00'
+    id: 'urn:uuid:c0d46961-bfb2-5cc7-b39c-82f7c7f136c7'
+    link: 'https://pub.dartlang.org/packages/uix_shortcuts'
+    author:
+        - 'Cristian Garcia <cgarcia.e88@gmail.com>'
