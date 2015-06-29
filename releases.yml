@@ -28255,3 +28255,21 @@
     link: 'https://pub.dartlang.org/packages/bootjack_datepicker'
     author:
         - 'Jimmy Shiau <jimmyshiau@potix.com>'
+-
+    package_name: bootjack_datepicker
+    package_version: v0.5.5+1
+    title: 'v0.5.5+1 of bootjack_datepicker'
+    published: '2015-06-29T05:58:13+00:00'
+    id: 'urn:uuid:df559c47-7577-56f8-9672-a7bf5fa8e88d'
+    link: 'https://pub.dartlang.org/packages/bootjack_datepicker'
+    author:
+        - 'Jimmy Shiau <jimmyshiau@potix.com>'
+-
+    package_name: terminal
+    package_version: v0.1.1
+    title: 'v0.1.1 of terminal'
+    published: '2015-06-29T05:36:28+00:00'
+    id: 'urn:uuid:e58ce299-7814-5afe-a687-d6c7a3630d8f'
+    link: 'https://pub.dartlang.org/packages/terminal'
+    author:
+        - 'Mike Lewis <mike@updroid.com>'
