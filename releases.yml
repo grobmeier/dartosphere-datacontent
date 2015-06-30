@@ -28445,3 +28445,12 @@
     link: 'https://pub.dartlang.org/packages/test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: cassowary
+    package_version: v0.1.2
+    title: 'v0.1.2 of cassowary'
+    published: '2015-06-30T21:07:58+00:00'
+    id: 'urn:uuid:86f50c40-da2c-5388-b7f9-4c5022e5dba8'
+    link: 'https://pub.dartlang.org/packages/cassowary'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
