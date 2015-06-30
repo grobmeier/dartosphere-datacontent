@@ -28454,3 +28454,12 @@
     link: 'https://pub.dartlang.org/packages/cassowary'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: dart_style
+    package_version: v0.1.8+1
+    title: 'v0.1.8+1 of dart_style'
+    published: '2015-06-30T22:56:40+00:00'
+    id: 'urn:uuid:8d04a0e1-388a-5572-89f6-9fb86f998b38'
+    link: 'https://pub.dartlang.org/packages/dart_style'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
