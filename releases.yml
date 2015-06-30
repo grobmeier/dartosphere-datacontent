@@ -28399,3 +28399,22 @@
     link: 'https://pub.dartlang.org/packages/github'
     author:
         - 'Kenneth Endfinger <kaendfinger@gmail.com>'
+-
+    package_name: bignum
+    package_version: v0.0.7
+    title: 'v0.0.7 of bignum'
+    published: '2015-06-30T04:36:28+00:00'
+    id: 'urn:uuid:0d2b0970-169d-59b6-ab00-53ac0b399f65'
+    link: 'https://pub.dartlang.org/packages/bignum'
+    author:
+        - 'Adam Singer <financeCoding@gmail.com>'
+-
+    package_name: polymorphic_bot
+    package_version: v2.2.0
+    title: 'v2.2.0 of polymorphic_bot'
+    published: '2015-06-30T04:31:58+00:00'
+    id: 'urn:uuid:e535c831-fafd-5278-8cb5-006f01535697'
+    link: 'https://pub.dartlang.org/packages/polymorphic_bot'
+    author:
+        - 'Kenneth Endfinger <kaendfinger@gmail.com>'
+        - 'samrg472 <samrg472@gmail.com>'
