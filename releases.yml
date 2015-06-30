@@ -28463,3 +28463,12 @@
     link: 'https://pub.dartlang.org/packages/dart_style'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: cassowary
+    package_version: v0.1.3
+    title: 'v0.1.3 of cassowary'
+    published: '2015-06-30T23:49:59+00:00'
+    id: 'urn:uuid:4c36dbc5-0e0c-5452-aab1-0d8a2c3d1ea5'
+    link: 'https://pub.dartlang.org/packages/cassowary'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
