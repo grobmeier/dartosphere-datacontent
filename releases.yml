@@ -28427,3 +28427,12 @@
     link: 'https://pub.dartlang.org/packages/Google_Search_v2'
     author:
         - 'Dmitriy Groschovskiy'
+-
+    package_name: log4dart
+    package_version: v1.4.15
+    title: 'v1.4.15 of log4dart'
+    published: '2015-06-30T10:08:26+00:00'
+    id: 'urn:uuid:d989eaaf-f9f9-5f61-a73c-26d25cbfdd30'
+    link: 'https://pub.dartlang.org/packages/log4dart'
+    author:
+        - 'Lars Tackmann <lars@solvr.io>'
