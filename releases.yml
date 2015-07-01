@@ -28571,3 +28571,23 @@
     link: 'https://pub.dartlang.org/packages/shelf_oauth'
     author:
         - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: firebase
+    package_version: v0.6.0
+    title: 'v0.6.0 of firebase'
+    published: '2015-07-01T22:36:18+00:00'
+    id: 'urn:uuid:ebc9ff62-f6dc-5a8b-96e7-f430af2af1c8'
+    link: 'https://pub.dartlang.org/packages/firebase'
+    author:
+        - 'Anant Narayanan <anant@kix.in>'
+        - 'Seth Ladd <sethladd@gmail.com>'
+        - 'Kevin Moore <github@j832.com>'
+-
+    package_name: mojito
+    package_version: v0.4.0+1
+    title: 'v0.4.0+1 of mojito'
+    published: '2015-07-01T22:11:48+00:00'
+    id: 'urn:uuid:d0196b04-3efa-5091-9c16-92bd15799340'
+    link: 'https://pub.dartlang.org/packages/mojito'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
