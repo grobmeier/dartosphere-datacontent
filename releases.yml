@@ -28490,3 +28490,12 @@
     link: 'https://pub.dartlang.org/packages/simple_requests'
     author:
         - 'Martin Sikora <martin.sikora.ahoj@gmail.com>'
+-
+    package_name: pubspec
+    package_version: v0.0.3
+    title: 'v0.0.3 of pubspec'
+    published: '2015-07-01T20:58:07+00:00'
+    id: 'urn:uuid:74a4a76d-87fa-514e-acfb-8d2e9ab57c63'
+    link: 'https://pub.dartlang.org/packages/pubspec'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
