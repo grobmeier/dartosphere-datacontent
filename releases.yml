@@ -28472,3 +28472,21 @@
     link: 'https://pub.dartlang.org/packages/cassowary'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: exiv2
+    package_version: v0.1.1
+    title: 'v0.1.1 of exiv2'
+    published: '2015-07-01T15:24:18+00:00'
+    id: 'urn:uuid:a0625e6a-a6a2-5390-bc1a-ebc02477d0f6'
+    link: 'https://pub.dartlang.org/packages/exiv2'
+    author:
+        - 'Martin Sikora <martin.sikora.ahoj@gmail.com>'
+-
+    package_name: simple_requests
+    package_version: v0.1.1
+    title: 'v0.1.1 of simple_requests'
+    published: '2015-07-01T15:00:18+00:00'
+    id: 'urn:uuid:4b236527-23ea-5587-9e16-20be289128b5'
+    link: 'https://pub.dartlang.org/packages/simple_requests'
+    author:
+        - 'Martin Sikora <martin.sikora.ahoj@gmail.com>'
