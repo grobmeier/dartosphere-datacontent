@@ -28699,3 +28699,12 @@
     link: 'https://pub.dartlang.org/packages/tuples'
     author:
         - 'Michał Stalmach <michal.stalmach.84@gmail.com>'
+-
+    package_name: jefe
+    package_version: v0.2.4
+    title: 'v0.2.4 of jefe'
+    published: '2015-07-02T22:02:35+00:00'
+    id: 'urn:uuid:b8cb26a1-0cdc-572c-8385-9f99ce5b6929'
+    link: 'https://pub.dartlang.org/packages/jefe'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
