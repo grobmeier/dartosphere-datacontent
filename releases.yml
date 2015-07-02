@@ -28690,3 +28690,12 @@
     link: 'https://pub.dartlang.org/packages/skyx'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: tuples
+    package_version: v1.0.0
+    title: 'v1.0.0 of tuples'
+    published: '2015-07-02T21:44:32+00:00'
+    id: 'urn:uuid:41f7b3ee-3261-50dc-8728-f46967c5d8c1'
+    link: 'https://pub.dartlang.org/packages/tuples'
+    author:
+        - 'Michał Stalmach <michal.stalmach.84@gmail.com>'
