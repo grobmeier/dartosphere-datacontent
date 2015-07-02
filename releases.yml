@@ -28672,3 +28672,21 @@
     link: 'https://pub.dartlang.org/packages/bootjack_datepicker'
     author:
         - 'Jimmy Shiau <jimmyshiau@potix.com>'
+-
+    package_name: akismet
+    package_version: v0.6.1
+    title: 'v0.6.1 of akismet'
+    published: '2015-07-02T15:55:14+00:00'
+    id: 'urn:uuid:47cb0c6c-a63d-519f-9415-fa421aad2d34'
+    link: 'https://pub.dartlang.org/packages/akismet'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: skyx
+    package_version: v0.0.1
+    title: 'v0.0.1 of skyx'
+    published: '2015-07-02T15:41:42+00:00'
+    id: 'urn:uuid:759e54b6-6e8c-5fc2-81d1-234f20c3a368'
+    link: 'https://pub.dartlang.org/packages/skyx'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
