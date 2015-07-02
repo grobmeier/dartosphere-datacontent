@@ -28663,3 +28663,12 @@
         - 'Victor Savkin <vsavkin@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: bootjack_datepicker
+    package_version: v0.5.5+2
+    title: 'v0.5.5+2 of bootjack_datepicker'
+    published: '2015-07-02T08:27:04+00:00'
+    id: 'urn:uuid:181f7517-3ad5-5359-b0f4-7c010fadcb03'
+    link: 'https://pub.dartlang.org/packages/bootjack_datepicker'
+    author:
+        - 'Jimmy Shiau <jimmyshiau@potix.com>'
