@@ -28738,3 +28738,14 @@
     link: 'https://pub.dartlang.org/packages/bootjack_datepicker'
     author:
         - 'Jimmy Shiau <jimmyshiau@potix.com>'
+-
+    package_name: bootjack
+    package_version: v0.6.5+3
+    title: 'v0.6.5+3 of bootjack'
+    published: '2015-07-03T09:00:07+00:00'
+    id: 'urn:uuid:6ff5bd28-75ee-59e6-a26b-5c620afde2a3'
+    link: 'https://pub.dartlang.org/packages/bootjack'
+    author:
+        - 'Simon Pai <simonpai@rikulo.org>'
+        - 'Jimmy Shiau <jimmyshiau@potix.com>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
