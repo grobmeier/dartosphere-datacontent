@@ -28749,3 +28749,12 @@
         - 'Simon Pai <simonpai@rikulo.org>'
         - 'Jimmy Shiau <jimmyshiau@potix.com>'
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: elements
+    package_version: v0.1.83
+    title: 'v0.1.83 of elements'
+    published: '2015-07-03T10:11:35+00:00'
+    id: 'urn:uuid:43d4e963-8fe3-5761-9fb0-6b94059cfea9'
+    link: 'https://pub.dartlang.org/packages/elements'
+    author:
+        - 'Patrick Minogue <patrick.minogue@appfoundry.se>'
