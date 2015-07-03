@@ -28717,3 +28717,24 @@
     link: 'https://pub.dartlang.org/packages/bootjack_datepicker'
     author:
         - 'Jimmy Shiau <jimmyshiau@potix.com>'
+-
+    package_name: irc
+    package_version: v2.1.8
+    title: 'v2.1.8 of irc'
+    published: '2015-07-03T04:51:00+00:00'
+    id: 'urn:uuid:9d2384a7-b74d-5731-9bfe-cd5546838e51'
+    link: 'https://pub.dartlang.org/packages/irc'
+    author:
+        - 'Kenneth Endfinger <kaendfinger@gmail.com>'
+        - 'samrg472 <samrg472@gmail.com>'
+        - 'TheMike <zeusintraining@gmail.com>'
+        - 'Logan Gorence <loganjohngorence@gmail.com>'
+-
+    package_name: bootjack_datepicker
+    package_version: v0.5.6+1
+    title: 'v0.5.6+1 of bootjack_datepicker'
+    published: '2015-07-03T04:41:54+00:00'
+    id: 'urn:uuid:836feff5-27ed-5f3e-a228-c6108306f952'
+    link: 'https://pub.dartlang.org/packages/bootjack_datepicker'
+    author:
+        - 'Jimmy Shiau <jimmyshiau@potix.com>'
