@@ -28708,3 +28708,12 @@
     link: 'https://pub.dartlang.org/packages/jefe'
     author:
         - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: bootjack_datepicker
+    package_version: v0.5.6
+    title: 'v0.5.6 of bootjack_datepicker'
+    published: '2015-07-03T03:55:18+00:00'
+    id: 'urn:uuid:0c4a982b-9c0b-53fb-9b87-65a9b895a3f9'
+    link: 'https://pub.dartlang.org/packages/bootjack_datepicker'
+    author:
+        - 'Jimmy Shiau <jimmyshiau@potix.com>'
