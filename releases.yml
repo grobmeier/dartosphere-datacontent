@@ -28767,3 +28767,12 @@
     link: 'https://pub.dartlang.org/packages/elements'
     author:
         - 'Patrick Minogue <patrick.minogue@appfoundry.se>'
+-
+    package_name: mserve
+    package_version: v0.1.2
+    title: 'v0.1.2 of mserve'
+    published: '2015-07-04T02:47:29+00:00'
+    id: 'urn:uuid:62d0c667-eb25-5e9b-8448-3620986f8e14'
+    link: 'https://pub.dartlang.org/packages/mserve'
+    author:
+        - 'Devon Carew <devoncarew@gmail.com>'
