@@ -28776,3 +28776,57 @@
     link: 'https://pub.dartlang.org/packages/mserve'
     author:
         - 'Devon Carew <devoncarew@gmail.com>'
+-
+    package_name: mojito
+    package_version: v0.4.1
+    title: 'v0.4.1 of mojito'
+    published: '2015-07-04T05:20:12+00:00'
+    id: 'urn:uuid:a5234262-2417-584f-9072-fa5acb34a8e7'
+    link: 'https://pub.dartlang.org/packages/mojito'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: shelf_auth_session
+    package_version: v0.4.6
+    title: 'v0.4.6 of shelf_auth_session'
+    published: '2015-07-04T05:19:43+00:00'
+    id: 'urn:uuid:aacd84bd-269f-5d30-8348-447f52b25765'
+    link: 'https://pub.dartlang.org/packages/shelf_auth_session'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: shelf_rest
+    package_version: v0.2.3
+    title: 'v0.2.3 of shelf_rest'
+    published: '2015-07-04T05:19:17+00:00'
+    id: 'urn:uuid:f2f8315a-f19c-5fc3-b51b-3224e9683653'
+    link: 'https://pub.dartlang.org/packages/shelf_rest'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: shelf_auth
+    package_version: v0.6.6
+    title: 'v0.6.6 of shelf_auth'
+    published: '2015-07-04T05:18:49+00:00'
+    id: 'urn:uuid:130aa640-a3bb-59a3-9f81-9af896868d19'
+    link: 'https://pub.dartlang.org/packages/shelf_auth'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: shelf_bind
+    package_version: v0.8.7
+    title: 'v0.8.7 of shelf_bind'
+    published: '2015-07-04T05:16:13+00:00'
+    id: 'urn:uuid:e07e0ec1-6b0d-5ba4-89d1-b542d64839a5'
+    link: 'https://pub.dartlang.org/packages/shelf_bind'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: shelf_route
+    package_version: v0.13.4
+    title: 'v0.13.4 of shelf_route'
+    published: '2015-07-04T05:13:28+00:00'
+    id: 'urn:uuid:d9c5c652-8b20-5088-953b-b12e950eb971'
+    link: 'https://pub.dartlang.org/packages/shelf_route'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
