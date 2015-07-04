@@ -28839,3 +28839,12 @@
     link: 'https://pub.dartlang.org/packages/yomp_cqrs'
     author:
         - 'Tomas Rokos <tomas.rokos@gmail.com>'
+-
+    package_name: dartson
+    package_version: v0.2.4
+    title: 'v0.2.4 of dartson'
+    published: '2015-07-04T13:08:57+00:00'
+    id: 'urn:uuid:fb40df31-8a55-51f9-96bb-9bc15212df99'
+    link: 'https://pub.dartlang.org/packages/dartson'
+    author:
+        - 'Eric Schneller <eric@schnellers.name>'
