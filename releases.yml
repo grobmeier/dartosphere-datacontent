@@ -28848,3 +28848,12 @@
     link: 'https://pub.dartlang.org/packages/dartson'
     author:
         - 'Eric Schneller <eric@schnellers.name>'
+-
+    package_name: rethinkdb_driver
+    package_version: v2.0.3+1
+    title: 'v2.0.3+1 of rethinkdb_driver'
+    published: '2015-07-04T18:21:38+00:00'
+    id: 'urn:uuid:4e4c2972-a4e6-5b24-bad8-a6e9e1521888'
+    link: 'https://pub.dartlang.org/packages/rethinkdb_driver'
+    author:
+        - 'William Welch <billywelch@gmail.com>'
