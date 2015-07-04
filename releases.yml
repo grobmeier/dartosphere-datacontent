@@ -28830,3 +28830,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_route'
     author:
         - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: yomp_cqrs
+    package_version: v0.2.0
+    title: 'v0.2.0 of yomp_cqrs'
+    published: '2015-07-04T11:52:28+00:00'
+    id: 'urn:uuid:820e134c-c1fd-5bbc-93ab-45ff0ba1e618'
+    link: 'https://pub.dartlang.org/packages/yomp_cqrs'
+    author:
+        - 'Tomas Rokos <tomas.rokos@gmail.com>'
