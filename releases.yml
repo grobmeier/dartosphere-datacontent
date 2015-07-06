@@ -28866,3 +28866,12 @@
     link: 'https://pub.dartlang.org/packages/static_compress'
     author:
         - 'Maxim Dikun <dikmax@gmail.com>'
+-
+    package_name: yomp_db
+    package_version: v0.9.1
+    title: 'v0.9.1 of yomp_db'
+    published: '2015-07-06T06:28:09+00:00'
+    id: 'urn:uuid:2a83e3ee-9d11-5827-b4e5-0abc2a836631'
+    link: 'https://pub.dartlang.org/packages/yomp_db'
+    author:
+        - 'Tomas Rokos <tomas.rokos@gmail.com>'
