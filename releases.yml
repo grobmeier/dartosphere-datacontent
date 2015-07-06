@@ -28902,3 +28902,12 @@
     link: 'https://pub.dartlang.org/packages/googleapis'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: cupid
+    package_version: v0.8.3
+    title: 'v0.8.3 of cupid'
+    published: '2015-07-06T15:53:19+00:00'
+    id: 'urn:uuid:ef882903-74a6-5564-af22-36f8dd68b9bc'
+    link: 'https://pub.dartlang.org/packages/cupid'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
