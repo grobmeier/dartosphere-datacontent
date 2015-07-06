@@ -28875,3 +28875,30 @@
     link: 'https://pub.dartlang.org/packages/yomp_db'
     author:
         - 'Tomas Rokos <tomas.rokos@gmail.com>'
+-
+    package_name: new_bridge
+    package_version: v0.3.0
+    title: 'v0.3.0 of new_bridge'
+    published: '2015-07-06T10:39:38+00:00'
+    id: 'urn:uuid:5b05904c-482f-5f39-a129-7593f47fc51f'
+    link: 'https://pub.dartlang.org/packages/new_bridge'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: googleapis_beta
+    package_version: v0.15.2
+    title: 'v0.15.2 of googleapis_beta'
+    published: '2015-07-06T10:23:35+00:00'
+    id: 'urn:uuid:76f1db6d-cb8d-5e40-bffd-02bade2aabb8'
+    link: 'https://pub.dartlang.org/packages/googleapis_beta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: googleapis
+    package_version: v0.12.1
+    title: 'v0.12.1 of googleapis'
+    published: '2015-07-06T10:23:25+00:00'
+    id: 'urn:uuid:6421ea68-1b19-5fb6-a5a7-3001efe3f0cf'
+    link: 'https://pub.dartlang.org/packages/googleapis'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
