@@ -28920,3 +28920,12 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: html
+    package_version: v0.12.1+2
+    title: 'v0.12.1+2 of html'
+    published: '2015-07-06T18:34:13+00:00'
+    id: 'urn:uuid:f296f8a8-fd9f-5b71-9302-f9c2bda168b5'
+    link: 'https://pub.dartlang.org/packages/html'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
