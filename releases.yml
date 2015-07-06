@@ -28947,3 +28947,21 @@
     link: 'https://pub.dartlang.org/packages/shelf'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: shelf
+    package_version: v0.6.2
+    title: 'v0.6.2 of shelf'
+    published: '2015-07-06T21:58:07+00:00'
+    id: 'urn:uuid:9be653c9-d968-50b0-a20d-e4b2080f83a5'
+    link: 'https://pub.dartlang.org/packages/shelf'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: newton
+    package_version: v0.1.0
+    title: 'v0.1.0 of newton'
+    published: '2015-07-06T21:57:12+00:00'
+    id: 'urn:uuid:91d9de92-524d-5ff7-9f2f-1d39ac272bc0'
+    link: 'https://pub.dartlang.org/packages/newton'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
