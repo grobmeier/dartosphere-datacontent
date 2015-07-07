@@ -28986,3 +28986,12 @@
         - 'Evan Weible <evan.weible@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: cassowary
+    package_version: v0.1.4
+    title: 'v0.1.4 of cassowary'
+    published: '2015-07-07T20:21:43+00:00'
+    id: 'urn:uuid:6d08753d-43cb-530f-844f-02efc88bb63d'
+    link: 'https://pub.dartlang.org/packages/cassowary'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
