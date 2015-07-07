@@ -28965,3 +28965,12 @@
     link: 'https://pub.dartlang.org/packages/newton'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: cupid
+    package_version: v0.8.4
+    title: 'v0.8.4 of cupid'
+    published: '2015-07-07T12:03:51+00:00'
+    id: 'urn:uuid:f7570465-fc12-59a8-ba63-c4c0756e4856'
+    link: 'https://pub.dartlang.org/packages/cupid'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
