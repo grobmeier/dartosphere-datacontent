@@ -28995,3 +28995,21 @@
     link: 'https://pub.dartlang.org/packages/cassowary'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: protobuf
+    package_version: v0.3.11
+    title: 'v0.3.11 of protobuf'
+    published: '2015-07-07T21:41:02+00:00'
+    id: 'urn:uuid:201a8bd3-65be-5d8d-b987-27e8e7494f62'
+    link: 'https://pub.dartlang.org/packages/protobuf'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: analyzer
+    package_version: v0.25.1
+    title: 'v0.25.1 of analyzer'
+    published: '2015-07-07T21:05:54+00:00'
+    id: 'urn:uuid:ca05b12e-e52a-5faf-94b7-42fb3e385ad4'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
