@@ -29076,3 +29076,57 @@
         - 'Victor Savkin <vsavkin@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: benchpress
+    package_version: v2.0.0-alpha.30
+    title: 'v2.0.0-alpha.30 of benchpress'
+    published: '2015-07-08T16:00:51+00:00'
+    id: 'urn:uuid:e0a8292f-432d-56fc-bddc-db1993320782'
+    link: 'https://pub.dartlang.org/packages/benchpress'
+    author:
+        - 'Alex Eagle <alexeagle@google.com>'
+        - 'Chirayu Krishnappa <chirayu@google.com>'
+        - 'Jeff Cross <crossj@google.com>'
+        - 'Matias Niemela <matsko@google.com>'
+        - 'Misko Hevery <misko@google.com>'
+        - 'Rado Kirov <radokirov@google.com>'
+        - 'Tobias Bosch <tbosch@google.com>'
+        - 'Victor Savkin <vsavkin@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: angular2_benchmarks
+    package_version: v2.0.0-alpha.30
+    title: 'v2.0.0-alpha.30 of angular2_benchmarks'
+    published: '2015-07-08T16:00:39+00:00'
+    id: 'urn:uuid:ab0be995-8cff-5e91-8946-f22df3f9db65'
+    link: 'https://pub.dartlang.org/packages/angular2_benchmarks'
+    author:
+        - 'Alex Eagle <alexeagle@google.com>'
+        - 'Chirayu Krishnappa <chirayu@google.com>'
+        - 'Jeff Cross <crossj@google.com>'
+        - 'Matias Niemela <matsko@google.com>'
+        - 'Misko Hevery <misko@google.com>'
+        - 'Rado Kirov <radokirov@google.com>'
+        - 'Tobias Bosch <tbosch@google.com>'
+        - 'Victor Savkin <vsavkin@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: angular2_material
+    package_version: v2.0.0-alpha.30
+    title: 'v2.0.0-alpha.30 of angular2_material'
+    published: '2015-07-08T16:00:26+00:00'
+    id: 'urn:uuid:75565ff4-a02f-514a-bcd2-e301a2520655'
+    link: 'https://pub.dartlang.org/packages/angular2_material'
+    author:
+        - 'Alex Eagle <alexeagle@google.com>'
+        - 'Chirayu Krishnappa <chirayu@google.com>'
+        - 'Jeff Cross <crossj@google.com>'
+        - 'Matias Niemela <matsko@google.com>'
+        - 'Misko Hevery <misko@google.com>'
+        - 'Rado Kirov <radokirov@google.com>'
+        - 'Tobias Bosch <tbosch@google.com>'
+        - 'Victor Savkin <vsavkin@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Jeremy Elbourn <jelbourn@google.com>'
