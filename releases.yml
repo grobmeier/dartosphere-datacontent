@@ -29049,3 +29049,12 @@
     link: 'https://pub.dartlang.org/packages/sky'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: compiler_unsupported
+    package_version: v1.11.1
+    title: 'v1.11.1 of compiler_unsupported'
+    published: '2015-07-08T14:00:12+00:00'
+    id: 'urn:uuid:80bfd02f-0d33-5456-91cf-2bd2840d9323'
+    link: 'https://pub.dartlang.org/packages/compiler_unsupported'
+    author:
+        - 'Dart2js Team <compiler-dev@dartlang.org>'
