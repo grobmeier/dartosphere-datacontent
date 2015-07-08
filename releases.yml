@@ -29130,3 +29130,21 @@
         - 'Victor Savkin <vsavkin@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: cassowary
+    package_version: v0.1.5
+    title: 'v0.1.5 of cassowary'
+    published: '2015-07-08T17:49:07+00:00'
+    id: 'urn:uuid:b9e1d393-8487-50e9-8f3e-88845ebe93a4'
+    link: 'https://pub.dartlang.org/packages/cassowary'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: smoke
+    package_version: v0.3.4
+    title: 'v0.3.4 of smoke'
+    published: '2015-07-08T17:46:43+00:00'
+    id: 'urn:uuid:146bdd46-eae4-50f3-b7d8-5107e1b0d8aa'
+    link: 'https://pub.dartlang.org/packages/smoke'
+    author:
+        - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
