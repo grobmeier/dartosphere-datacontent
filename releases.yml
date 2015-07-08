@@ -29220,3 +29220,12 @@
     link: 'https://pub.dartlang.org/packages/mojo'
     author:
         - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: cassowary
+    package_version: v0.1.7
+    title: 'v0.1.7 of cassowary'
+    published: '2015-07-08T23:51:03+00:00'
+    id: 'urn:uuid:6b373bfe-248f-5f30-97da-f879330a977a'
+    link: 'https://pub.dartlang.org/packages/cassowary'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
