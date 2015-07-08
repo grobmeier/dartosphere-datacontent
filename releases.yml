@@ -29157,3 +29157,12 @@
     link: 'https://pub.dartlang.org/packages/stagedive'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: cassowary
+    package_version: v0.1.6
+    title: 'v0.1.6 of cassowary'
+    published: '2015-07-08T19:40:08+00:00'
+    id: 'urn:uuid:d77c227f-25d0-5fcd-8703-9b5b90593f20'
+    link: 'https://pub.dartlang.org/packages/cassowary'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
