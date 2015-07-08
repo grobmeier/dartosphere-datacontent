@@ -29013,3 +29013,39 @@
     link: 'https://pub.dartlang.org/packages/analyzer'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: mojom
+    package_version: v0.0.15
+    title: 'v0.0.15 of mojom'
+    published: '2015-07-08T00:23:29+00:00'
+    id: 'urn:uuid:d0df1e26-5399-54d1-abcb-00a67a3abb0b'
+    link: 'https://pub.dartlang.org/packages/mojom'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo
+    package_version: v0.0.15
+    title: 'v0.0.15 of mojo'
+    published: '2015-07-08T00:23:27+00:00'
+    id: 'urn:uuid:77c78369-1f2a-5a5e-9289-0cc181579b5e'
+    link: 'https://pub.dartlang.org/packages/mojo'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_services
+    package_version: v0.0.13
+    title: 'v0.0.13 of mojo_services'
+    published: '2015-07-08T00:23:24+00:00'
+    id: 'urn:uuid:a0445fa2-12f1-5c9b-8d82-dd809bda28d4'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: sky
+    package_version: v0.0.15
+    title: 'v0.0.15 of sky'
+    published: '2015-07-08T00:23:22+00:00'
+    id: 'urn:uuid:ecaf2d57-d5bb-57bc-b2c3-3a1c109dcfaf'
+    link: 'https://pub.dartlang.org/packages/sky'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
