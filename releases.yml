@@ -29148,3 +29148,12 @@
     link: 'https://pub.dartlang.org/packages/smoke'
     author:
         - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: stagedive
+    package_version: v0.0.1
+    title: 'v0.0.1 of stagedive'
+    published: '2015-07-08T18:42:55+00:00'
+    id: 'urn:uuid:15b10784-5845-531d-9f91-bc3ed3245309'
+    link: 'https://pub.dartlang.org/packages/stagedive'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
