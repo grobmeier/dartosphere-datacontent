@@ -29339,3 +29339,21 @@
     link: 'https://pub.dartlang.org/packages/faker'
     author:
         - 'Jesper Håkansson <jesper@jesperh.se>'
+-
+    package_name: path
+    package_version: v1.3.6
+    title: 'v1.3.6 of path'
+    published: '2015-07-09T20:50:05+00:00'
+    id: 'urn:uuid:d349b9cd-5e05-54e3-81ce-c6c1e098171e'
+    link: 'https://pub.dartlang.org/packages/path'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: webkit_inspection_protocol
+    package_version: v0.1.2
+    title: 'v0.1.2 of webkit_inspection_protocol'
+    published: '2015-07-09T20:15:05+00:00'
+    id: 'urn:uuid:babf8a27-356a-5ee9-a32d-3ae2ca100a24'
+    link: 'https://pub.dartlang.org/packages/webkit_inspection_protocol'
+    author:
+        - 'Devon Carew <devoncarew@google.com>'
