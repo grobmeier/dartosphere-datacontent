@@ -29357,3 +29357,12 @@
     link: 'https://pub.dartlang.org/packages/webkit_inspection_protocol'
     author:
         - 'Devon Carew <devoncarew@google.com>'
+-
+    package_name: test
+    package_version: v0.12.3+6
+    title: 'v0.12.3+6 of test'
+    published: '2015-07-09T23:45:03+00:00'
+    id: 'urn:uuid:74dfc410-6d9b-5407-bb4b-ed21a2cb51fa'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
