@@ -29330,3 +29330,12 @@
     link: 'https://pub.dartlang.org/packages/smartcanvas'
     author:
         - 'Kun Zhao <kzhdev@gmail.com>'
+-
+    package_name: faker
+    package_version: v0.0.1
+    title: 'v0.0.1 of faker'
+    published: '2015-07-09T19:07:21+00:00'
+    id: 'urn:uuid:5fec6f86-ee37-5205-99fa-d7562ad5f92c'
+    link: 'https://pub.dartlang.org/packages/faker'
+    author:
+        - 'Jesper Håkansson <jesper@jesperh.se>'
