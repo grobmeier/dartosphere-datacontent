@@ -29229,3 +29229,12 @@
     link: 'https://pub.dartlang.org/packages/cassowary'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: stagedive
+    package_version: v0.2.0
+    title: 'v0.2.0 of stagedive'
+    published: '2015-07-09T00:40:36+00:00'
+    id: 'urn:uuid:6dd68b1e-15c7-54b7-b71a-d20f0752a913'
+    link: 'https://pub.dartlang.org/packages/stagedive'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
