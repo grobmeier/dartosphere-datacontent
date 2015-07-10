@@ -29520,3 +29520,12 @@
     link: 'https://pub.dartlang.org/packages/terminal'
     author:
         - 'Mike Lewis <mike@updroid.com>'
+-
+    package_name: github_hook
+    package_version: v0.2.0
+    title: 'v0.2.0 of github_hook'
+    published: '2015-07-10T23:40:10+00:00'
+    id: 'urn:uuid:c5c8771a-b3c8-5bf1-920c-7b64e6301d96'
+    link: 'https://pub.dartlang.org/packages/github_hook'
+    author:
+        - 'Kevin Moore <kevmoo@google.com>'
