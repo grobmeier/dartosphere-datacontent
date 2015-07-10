@@ -29456,3 +29456,12 @@
     link: 'https://pub.dartlang.org/packages/rpc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: jsproxy
+    package_version: v0.0.2
+    title: 'v0.0.2 of jsproxy'
+    published: '2015-07-10T14:22:56+00:00'
+    id: 'urn:uuid:f526791b-3472-5318-9ad1-24ddb94132e2'
+    link: 'https://pub.dartlang.org/packages/jsproxy'
+    author:
+        - 'Kun Zhao <kunzhao77@gmail.com>'
