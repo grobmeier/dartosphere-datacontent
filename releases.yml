@@ -29483,3 +29483,12 @@
     link: 'https://pub.dartlang.org/packages/stagedive'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: pub_cache
+    package_version: v0.1.0
+    title: 'v0.1.0 of pub_cache'
+    published: '2015-07-10T19:53:46+00:00'
+    id: 'urn:uuid:d9d2a3ba-e2a4-5190-bde9-0ee0135880e4'
+    link: 'https://pub.dartlang.org/packages/pub_cache'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
