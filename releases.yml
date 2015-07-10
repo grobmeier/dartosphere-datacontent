@@ -29465,3 +29465,12 @@
     link: 'https://pub.dartlang.org/packages/jsproxy'
     author:
         - 'Kun Zhao <kunzhao77@gmail.com>'
+-
+    package_name: stagedive
+    package_version: v0.3.0
+    title: 'v0.3.0 of stagedive'
+    published: '2015-07-10T15:31:33+00:00'
+    id: 'urn:uuid:20f6ae7e-64d0-53f8-bf70-4c9b630f6e95'
+    link: 'https://pub.dartlang.org/packages/stagedive'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
