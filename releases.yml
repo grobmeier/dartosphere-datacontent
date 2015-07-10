@@ -29366,3 +29366,21 @@
     link: 'https://pub.dartlang.org/packages/test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: polymer_highcharts
+    package_version: v0.2.1+9
+    title: 'v0.2.1+9 of polymer_highcharts'
+    published: '2015-07-10T06:50:41+00:00'
+    id: 'urn:uuid:0f0280ce-f250-5666-b56c-c92a876b08d3'
+    link: 'https://pub.dartlang.org/packages/polymer_highcharts'
+    author:
+        - 'Gonzalo Pezzi <gonzalopezzi@gmail.com>'
+-
+    package_name: highcharts_options
+    package_version: v0.2.1+5
+    title: 'v0.2.1+5 of highcharts_options'
+    published: '2015-07-10T06:45:49+00:00'
+    id: 'urn:uuid:34895bea-8089-5f32-8537-421abf2ef5b0'
+    link: 'https://pub.dartlang.org/packages/highcharts_options'
+    author:
+        - 'Gonzalo Pezzi <gonzalopezzi@gmail.com>'
