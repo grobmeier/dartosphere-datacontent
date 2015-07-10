@@ -29402,3 +29402,12 @@
     link: 'https://pub.dartlang.org/packages/stagedive'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: stagedive
+    package_version: v0.2.2
+    title: 'v0.2.2 of stagedive'
+    published: '2015-07-10T10:14:46+00:00'
+    id: 'urn:uuid:bd4d4f51-be09-5c0b-a4b4-af437c771cf1'
+    link: 'https://pub.dartlang.org/packages/stagedive'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
