@@ -29393,3 +29393,12 @@
     link: 'https://pub.dartlang.org/packages/pub_server'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: stagedive
+    package_version: v0.2.1
+    title: 'v0.2.1 of stagedive'
+    published: '2015-07-10T09:34:21+00:00'
+    id: 'urn:uuid:ba7bb774-4e39-55a0-8877-7efe13c91856'
+    link: 'https://pub.dartlang.org/packages/stagedive'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
