@@ -29511,3 +29511,12 @@
     author:
         - 'Anton Astashov <anton.astashov@gmail.com>'
         - 'Dan Schultz <schultz.t.dan@gmail.com>'
+-
+    package_name: terminal
+    package_version: v0.1.2
+    title: 'v0.1.2 of terminal'
+    published: '2015-07-10T22:19:35+00:00'
+    id: 'urn:uuid:611b4c16-ce1d-523d-b223-fe240aa1294c'
+    link: 'https://pub.dartlang.org/packages/terminal'
+    author:
+        - 'Mike Lewis <mike@updroid.com>'
