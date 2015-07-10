@@ -29492,3 +29492,22 @@
     link: 'https://pub.dartlang.org/packages/pub_cache'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: csslib
+    package_version: v0.12.1
+    title: 'v0.12.1 of csslib'
+    published: '2015-07-10T21:36:33+00:00'
+    id: 'urn:uuid:d00dce6a-06df-5d50-a6a3-4e05c0a14770'
+    link: 'https://pub.dartlang.org/packages/csslib'
+    author:
+        - 'Polymer.dart Team <web-ui-dev@dartlang.org>'
+-
+    package_name: rollbar
+    package_version: v0.3.0
+    title: 'v0.3.0 of rollbar'
+    published: '2015-07-10T21:01:13+00:00'
+    id: 'urn:uuid:bb1c0044-e2b0-52b7-a032-fcc5b7854d54'
+    link: 'https://pub.dartlang.org/packages/rollbar'
+    author:
+        - 'Anton Astashov <anton.astashov@gmail.com>'
+        - 'Dan Schultz <schultz.t.dan@gmail.com>'
