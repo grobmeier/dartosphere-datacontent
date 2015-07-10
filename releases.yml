@@ -29429,3 +29429,21 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: shelf_rpc
+    package_version: v0.0.3+2
+    title: 'v0.0.3+2 of shelf_rpc'
+    published: '2015-07-10T12:56:07+00:00'
+    id: 'urn:uuid:740b4583-eb77-5aa8-8ca1-86ce207d0c58'
+    link: 'https://pub.dartlang.org/packages/shelf_rpc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: mdl
+    package_version: v1.0.2
+    title: 'v1.0.2 of mdl'
+    published: '2015-07-10T12:08:02+00:00'
+    id: 'urn:uuid:3fb1b180-6db2-5f1e-a2f9-8039eb5b0404'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
