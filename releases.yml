@@ -29447,3 +29447,12 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: rpc
+    package_version: v0.5.1
+    title: 'v0.5.1 of rpc'
+    published: '2015-07-10T13:14:07+00:00'
+    id: 'urn:uuid:4cdd2b99-88c0-5de3-88fe-710c5e80801a'
+    link: 'https://pub.dartlang.org/packages/rpc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
