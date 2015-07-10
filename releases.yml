@@ -29384,3 +29384,12 @@
     link: 'https://pub.dartlang.org/packages/highcharts_options'
     author:
         - 'Gonzalo Pezzi <gonzalopezzi@gmail.com>'
+-
+    package_name: pub_server
+    package_version: v0.1.1
+    title: 'v0.1.1 of pub_server'
+    published: '2015-07-10T08:43:03+00:00'
+    id: 'urn:uuid:4423eec0-5476-56e6-83e8-f1e32a1a649b'
+    link: 'https://pub.dartlang.org/packages/pub_server'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
