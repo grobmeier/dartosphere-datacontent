@@ -29538,3 +29538,12 @@
     link: 'https://pub.dartlang.org/packages/stagexl'
     author:
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: string2tree
+    package_version: v0.1.0+1
+    title: 'v0.1.0+1 of string2tree'
+    published: '2015-07-11T15:15:15+00:00'
+    id: 'urn:uuid:ddc991be-462a-5cc4-84a6-f9d712224d59'
+    link: 'https://pub.dartlang.org/packages/string2tree'
+    author:
+        - 'Tomas Rokos <tomas.rokos@gmail.com>'
