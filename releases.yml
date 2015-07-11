@@ -29547,3 +29547,12 @@
     link: 'https://pub.dartlang.org/packages/string2tree'
     author:
         - 'Tomas Rokos <tomas.rokos@gmail.com>'
+-
+    package_name: string2tree
+    package_version: v0.2.0
+    title: 'v0.2.0 of string2tree'
+    published: '2015-07-11T20:06:03+00:00'
+    id: 'urn:uuid:db1c6fb6-5116-5788-9878-88fa9b54e956'
+    link: 'https://pub.dartlang.org/packages/string2tree'
+    author:
+        - 'Tomas Rokos <tomas.rokos@gmail.com>'
