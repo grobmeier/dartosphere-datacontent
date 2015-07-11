@@ -29529,3 +29529,12 @@
     link: 'https://pub.dartlang.org/packages/github_hook'
     author:
         - 'Kevin Moore <kevmoo@google.com>'
+-
+    package_name: stagexl
+    package_version: v0.12.0+1
+    title: 'v0.12.0+1 of stagexl'
+    published: '2015-07-11T05:32:45+00:00'
+    id: 'urn:uuid:85332206-5bc6-5fe0-b0a0-04a11364fbb1'
+    link: 'https://pub.dartlang.org/packages/stagexl'
+    author:
+        - 'Bernhard Pichler <support@stagexl.org>'
