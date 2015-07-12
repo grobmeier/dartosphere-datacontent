@@ -29568,3 +29568,12 @@
         - 'samrg472 <samrg472@gmail.com>'
         - 'TheMike <zeusintraining@gmail.com>'
         - 'Logan Gorence <loganjohngorence@gmail.com>'
+-
+    package_name: build_system
+    package_version: v0.0.2+1
+    title: 'v0.0.2+1 of build_system'
+    published: '2015-07-12T13:36:11+00:00'
+    id: 'urn:uuid:7a02ed26-8d68-5bfe-a0dc-02613a190799'
+    link: 'https://pub.dartlang.org/packages/build_system'
+    author:
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
