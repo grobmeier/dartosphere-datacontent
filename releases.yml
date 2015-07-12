@@ -29595,3 +29595,48 @@
     link: 'https://pub.dartlang.org/packages/md_proc'
     author:
         - 'Maxim Dikun <dikmax@gmail.com>'
+-
+    package_name: mojito
+    package_version: v0.5.0
+    title: 'v0.5.0 of mojito'
+    published: '2015-07-12T23:35:38+00:00'
+    id: 'urn:uuid:ed2bc2d3-9fc2-54f7-83c1-a2206f6a1bb3'
+    link: 'https://pub.dartlang.org/packages/mojito'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: shelf_auth_session
+    package_version: v0.4.7
+    title: 'v0.4.7 of shelf_auth_session'
+    published: '2015-07-12T23:34:48+00:00'
+    id: 'urn:uuid:8c273ced-4423-5cb5-bef8-9dd7e234a7c4'
+    link: 'https://pub.dartlang.org/packages/shelf_auth_session'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: shelf_rest
+    package_version: v0.3.0
+    title: 'v0.3.0 of shelf_rest'
+    published: '2015-07-12T23:34:08+00:00'
+    id: 'urn:uuid:465b21f1-c38c-56cf-ba5a-f93a0e68777e'
+    link: 'https://pub.dartlang.org/packages/shelf_rest'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: shelf_auth
+    package_version: v0.6.7
+    title: 'v0.6.7 of shelf_auth'
+    published: '2015-07-12T23:33:17+00:00'
+    id: 'urn:uuid:022e2a4d-9a47-5618-9cd2-ad23e005a23a'
+    link: 'https://pub.dartlang.org/packages/shelf_auth'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: shelf_bind
+    package_version: v0.9.0
+    title: 'v0.9.0 of shelf_bind'
+    published: '2015-07-12T23:32:28+00:00'
+    id: 'urn:uuid:524e689e-48b0-563d-b1aa-306b88894e0b'
+    link: 'https://pub.dartlang.org/packages/shelf_bind'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
