@@ -29586,3 +29586,12 @@
     link: 'https://pub.dartlang.org/packages/twitter'
     author:
         - 'sh4869 <nobuk4869@gmail.com>'
+-
+    package_name: md_proc
+    package_version: v0.5.1
+    title: 'v0.5.1 of md_proc'
+    published: '2015-07-12T18:44:45+00:00'
+    id: 'urn:uuid:e591ad72-7d4c-5771-94c7-e05ee089b90c'
+    link: 'https://pub.dartlang.org/packages/md_proc'
+    author:
+        - 'Maxim Dikun <dikmax@gmail.com>'
