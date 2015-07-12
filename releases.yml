@@ -29556,3 +29556,15 @@
     link: 'https://pub.dartlang.org/packages/string2tree'
     author:
         - 'Tomas Rokos <tomas.rokos@gmail.com>'
+-
+    package_name: irc
+    package_version: v3.0.0
+    title: 'v3.0.0 of irc'
+    published: '2015-07-12T00:44:56+00:00'
+    id: 'urn:uuid:a92c2dd1-36f8-5982-aac6-b71dfa58d755'
+    link: 'https://pub.dartlang.org/packages/irc'
+    author:
+        - 'Kenneth Endfinger <kaendfinger@gmail.com>'
+        - 'samrg472 <samrg472@gmail.com>'
+        - 'TheMike <zeusintraining@gmail.com>'
+        - 'Logan Gorence <loganjohngorence@gmail.com>'
