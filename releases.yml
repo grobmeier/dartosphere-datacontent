@@ -29679,3 +29679,48 @@
     author:
         - 'Matias Meno <m@tias.me>'
         - 'Martin Flucka <martin.flucka@gmail.com>'
+-
+    package_name: mdl
+    package_version: v1.0.3
+    title: 'v1.0.3 of mdl'
+    published: '2015-07-13T22:17:20+00:00'
+    id: 'urn:uuid:c52b07d1-9fc1-50c0-b821-19bfc8ef26db'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: mojom
+    package_version: v0.0.18
+    title: 'v0.0.18 of mojom'
+    published: '2015-07-13T22:03:30+00:00'
+    id: 'urn:uuid:690a6449-85a0-5f2a-a60a-71e9e758125e'
+    link: 'https://pub.dartlang.org/packages/mojom'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo
+    package_version: v0.0.18
+    title: 'v0.0.18 of mojo'
+    published: '2015-07-13T22:03:27+00:00'
+    id: 'urn:uuid:6ecd4096-539b-5c4d-b222-8075c98c1e23'
+    link: 'https://pub.dartlang.org/packages/mojo'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_services
+    package_version: v0.0.16
+    title: 'v0.0.16 of mojo_services'
+    published: '2015-07-13T22:03:25+00:00'
+    id: 'urn:uuid:06d214c0-aa37-5939-9b4c-e7ab6e84ebb4'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: sky
+    package_version: v0.0.18
+    title: 'v0.0.18 of sky'
+    published: '2015-07-13T22:03:22+00:00'
+    id: 'urn:uuid:ff47ac8d-d05c-5dc4-a22f-5d793fdc0469'
+    link: 'https://pub.dartlang.org/packages/sky'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
