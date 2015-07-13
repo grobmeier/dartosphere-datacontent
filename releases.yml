@@ -29660,3 +29660,12 @@
         - 'Anant Narayanan <anant@kix.in>'
         - 'Seth Ladd <sethladd@gmail.com>'
         - 'Kevin Moore <github@j832.com>'
+-
+    package_name: build_system
+    package_version: v0.0.2+3
+    title: 'v0.0.2+3 of build_system'
+    published: '2015-07-13T08:35:27+00:00'
+    id: 'urn:uuid:80ad70ea-9fd5-5591-9471-bdc8227ff8bb'
+    link: 'https://pub.dartlang.org/packages/build_system'
+    author:
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
