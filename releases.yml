@@ -29649,3 +29649,14 @@
     link: 'https://pub.dartlang.org/packages/console_app'
     author:
         - 'jim <jimchen5342@gmail.com>'
+-
+    package_name: firebase
+    package_version: v0.6.1
+    title: 'v0.6.1 of firebase'
+    published: '2015-07-13T01:34:46+00:00'
+    id: 'urn:uuid:db30a845-bf9a-52e8-819b-86e0deb5f20a'
+    link: 'https://pub.dartlang.org/packages/firebase'
+    author:
+        - 'Anant Narayanan <anant@kix.in>'
+        - 'Seth Ladd <sethladd@gmail.com>'
+        - 'Kevin Moore <github@j832.com>'
