@@ -29640,3 +29640,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_bind'
     author:
         - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: console_app
+    package_version: v0.0.1
+    title: 'v0.0.1 of console_app'
+    published: '2015-07-13T00:10:07+00:00'
+    id: 'urn:uuid:2ed34175-833c-5c90-b221-42d6913e7731'
+    link: 'https://pub.dartlang.org/packages/console_app'
+    author:
+        - 'jim <jimchen5342@gmail.com>'
