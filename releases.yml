@@ -29814,3 +29814,30 @@
     link: 'https://pub.dartlang.org/packages/bwu_utils'
     author:
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: mojito
+    package_version: v0.5.2
+    title: 'v0.5.2 of mojito'
+    published: '2015-07-14T12:06:33+00:00'
+    id: 'urn:uuid:2571728a-9cfb-5d23-9633-dfa67786aa31'
+    link: 'https://pub.dartlang.org/packages/mojito'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: shelf_rest
+    package_version: v0.3.1
+    title: 'v0.3.1 of shelf_rest'
+    published: '2015-07-14T12:05:55+00:00'
+    id: 'urn:uuid:7c209c48-3d5c-5785-a3d2-a7e6decdb144'
+    link: 'https://pub.dartlang.org/packages/shelf_rest'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: hateoas_models
+    package_version: v0.1.5
+    title: 'v0.1.5 of hateoas_models'
+    published: '2015-07-14T12:05:27+00:00'
+    id: 'urn:uuid:f5a3555c-b78d-5d33-97dc-8ba734c24f5a'
+    link: 'https://pub.dartlang.org/packages/hateoas_models'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
