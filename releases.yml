@@ -29733,3 +29733,39 @@
     link: 'https://pub.dartlang.org/packages/test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: mojito
+    package_version: v0.5.1
+    title: 'v0.5.1 of mojito'
+    published: '2015-07-14T05:28:02+00:00'
+    id: 'urn:uuid:fb111377-db10-556d-adc3-723211592242'
+    link: 'https://pub.dartlang.org/packages/mojito'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: shelf_auth_session
+    package_version: v0.4.8
+    title: 'v0.4.8 of shelf_auth_session'
+    published: '2015-07-14T05:27:36+00:00'
+    id: 'urn:uuid:faa74527-ca24-5f06-afd5-0d61eab69cfe'
+    link: 'https://pub.dartlang.org/packages/shelf_auth_session'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: shelf_auth
+    package_version: v0.6.8
+    title: 'v0.6.8 of shelf_auth'
+    published: '2015-07-14T05:27:05+00:00'
+    id: 'urn:uuid:25f1694e-8d73-50a5-8eaf-4cd2f1c43369'
+    link: 'https://pub.dartlang.org/packages/shelf_auth'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: dart_jwt
+    package_version: v0.4.2
+    title: 'v0.4.2 of dart_jwt'
+    published: '2015-07-14T05:11:43+00:00'
+    id: 'urn:uuid:91a24bf5-c29e-5704-96d8-65e67755d7a9'
+    link: 'https://pub.dartlang.org/packages/dart_jwt'
+    author:
+        - 'Anders Holmgren<aholmgren@atlassian.com>'
