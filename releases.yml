@@ -29805,3 +29805,12 @@
     link: 'https://pub.dartlang.org/packages/atlassian_connect_jwt'
     author:
         - 'Anders Holmgren <aholmgren@atlassian.com>'
+-
+    package_name: bwu_utils
+    package_version: v0.1.0
+    title: 'v0.1.0 of bwu_utils'
+    published: '2015-07-14T09:34:17+00:00'
+    id: 'urn:uuid:cb9c0824-a464-5a0d-ae37-35b8808b5f64'
+    link: 'https://pub.dartlang.org/packages/bwu_utils'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
