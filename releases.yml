@@ -29886,3 +29886,21 @@
     link: 'https://pub.dartlang.org/packages/atlassian_connect_jwt'
     author:
         - 'Anders Holmgren <aholmgren@atlassian.com>'
+-
+    package_name: dartdoc
+    package_version: v0.1.0
+    title: 'v0.1.0 of dartdoc'
+    published: '2015-07-14T23:54:05+00:00'
+    id: 'urn:uuid:b74d165e-c470-5379-8501-2a1f79850fc5'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: newton
+    package_version: v0.1.1
+    title: 'v0.1.1 of newton'
+    published: '2015-07-14T23:49:35+00:00'
+    id: 'urn:uuid:efa5986c-5470-5b79-a403-b7f5ef6ec365'
+    link: 'https://pub.dartlang.org/packages/newton'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
