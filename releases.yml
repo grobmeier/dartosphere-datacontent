@@ -29841,3 +29841,12 @@
     link: 'https://pub.dartlang.org/packages/hateoas_models'
     author:
         - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: analyzer
+    package_version: v0.25.2
+    title: 'v0.25.2 of analyzer'
+    published: '2015-07-14T20:28:28+00:00'
+    id: 'urn:uuid:8cc1a498-3583-5bd7-9860-9a0ef146c7ad'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
