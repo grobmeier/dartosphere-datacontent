@@ -29940,3 +29940,12 @@
     link: 'https://pub.dartlang.org/packages/pubs'
     author:
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: polymer_datepicker
+    package_version: v0.1.4
+    title: 'v0.1.4 of polymer_datepicker'
+    published: '2015-07-15T14:23:18+00:00'
+    id: 'urn:uuid:42acc82e-b59a-5991-848a-945f80595777'
+    link: 'https://pub.dartlang.org/packages/polymer_datepicker'
+    author:
+        - 'Drafintech <info@drafintech.it>'
