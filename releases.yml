@@ -29976,3 +29976,39 @@
     link: 'https://pub.dartlang.org/packages/pico_log'
     author:
         - 'mockturtl <mockturtl@gmail.com>'
+-
+    package_name: protobuf
+    package_version: v0.4.0
+    title: 'v0.4.0 of protobuf'
+    published: '2015-07-15T23:28:08+00:00'
+    id: 'urn:uuid:640148d3-4d6e-56ea-85f2-a5dfacc69544'
+    link: 'https://pub.dartlang.org/packages/protobuf'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dartdoc
+    package_version: v0.1.0+3
+    title: 'v0.1.0+3 of dartdoc'
+    published: '2015-07-15T23:16:09+00:00'
+    id: 'urn:uuid:36de5a36-2b0e-5174-87e9-b71569f2d213'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dart_coveralls
+    package_version: v0.4.0
+    title: 'v0.4.0 of dart_coveralls'
+    published: '2015-07-15T23:06:49+00:00'
+    id: 'urn:uuid:4552bfdd-e445-5ff8-8767-b2a9c0e1bc29'
+    link: 'https://pub.dartlang.org/packages/dart_coveralls'
+    author:
+        - 'Axel Christ <adracus@gmail.com>'
+-
+    package_name: http_parser
+    package_version: v0.0.2+8
+    title: 'v0.0.2+8 of http_parser'
+    published: '2015-07-15T23:03:40+00:00'
+    id: 'urn:uuid:597a3bf6-09ee-5002-a665-7377c37e276c'
+    link: 'https://pub.dartlang.org/packages/http_parser'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
