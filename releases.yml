@@ -29967,3 +29967,12 @@
     link: 'https://pub.dartlang.org/packages/rpi_gpio'
     author:
         - 'Dan Rubel <danrubel@google.com>'
+-
+    package_name: pico_log
+    package_version: v0.2.0
+    title: 'v0.2.0 of pico_log'
+    published: '2015-07-15T21:08:28+00:00'
+    id: 'urn:uuid:2044683c-0ece-5bab-872a-42acf946b6ba'
+    link: 'https://pub.dartlang.org/packages/pico_log'
+    author:
+        - 'mockturtl <mockturtl@gmail.com>'
