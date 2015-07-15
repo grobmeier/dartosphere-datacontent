@@ -29904,3 +29904,12 @@
     link: 'https://pub.dartlang.org/packages/newton'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: dartdoc
+    package_version: v0.1.0+2
+    title: 'v0.1.0+2 of dartdoc'
+    published: '2015-07-15T00:32:28+00:00'
+    id: 'urn:uuid:3ad0b682-1455-53bc-bb6c-453005877fef'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
