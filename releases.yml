@@ -29913,3 +29913,12 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: scheduled_test
+    package_version: v0.12.2
+    title: 'v0.12.2 of scheduled_test'
+    published: '2015-07-15T01:38:04+00:00'
+    id: 'urn:uuid:e94942c1-1e76-5d64-ab37-66e20943d8d4'
+    link: 'https://pub.dartlang.org/packages/scheduled_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
