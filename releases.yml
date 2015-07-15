@@ -29949,3 +29949,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_datepicker'
     author:
         - 'Drafintech <info@drafintech.it>'
+-
+    package_name: polymer_datepicker
+    package_version: v0.1.4+1
+    title: 'v0.1.4+1 of polymer_datepicker'
+    published: '2015-07-15T15:03:44+00:00'
+    id: 'urn:uuid:03263254-b70c-508d-aa88-bfe3af01aeac'
+    link: 'https://pub.dartlang.org/packages/polymer_datepicker'
+    author:
+        - 'Drafintech <info@drafintech.it>'
