@@ -29922,3 +29922,12 @@
     link: 'https://pub.dartlang.org/packages/scheduled_test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: github_hook
+    package_version: v0.2.1
+    title: 'v0.2.1 of github_hook'
+    published: '2015-07-15T04:17:22+00:00'
+    id: 'urn:uuid:581545b8-a9d4-5587-a97a-b5dbe72a26e8'
+    link: 'https://pub.dartlang.org/packages/github_hook'
+    author:
+        - 'Kevin Moore <kevmoo@google.com>'
