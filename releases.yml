@@ -29958,3 +29958,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_datepicker'
     author:
         - 'Drafintech <info@drafintech.it>'
+-
+    package_name: rpi_gpio
+    package_version: v0.2.0
+    title: 'v0.2.0 of rpi_gpio'
+    published: '2015-07-15T16:56:06+00:00'
+    id: 'urn:uuid:d804be45-ff88-56ca-a4a2-97295af2aaf6'
+    link: 'https://pub.dartlang.org/packages/rpi_gpio'
+    author:
+        - 'Dan Rubel <danrubel@google.com>'
