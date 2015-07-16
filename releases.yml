@@ -30102,3 +30102,12 @@
     link: 'https://pub.dartlang.org/packages/harvest'
     author:
         - 'Lars Tackmann <lars@solvr.io>'
+-
+    package_name: mdl
+    package_version: v1.1.0
+    title: 'v1.1.0 of mdl'
+    published: '2015-07-16T11:22:45+00:00'
+    id: 'urn:uuid:44b6869e-766f-52b0-89d6-2f5ea7df73c8'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
