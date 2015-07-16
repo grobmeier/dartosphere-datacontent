@@ -30084,3 +30084,21 @@
         - 'Victor Savkin <vsavkin@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: stagedive
+    package_version: v0.3.2
+    title: 'v0.3.2 of stagedive'
+    published: '2015-07-16T09:58:05+00:00'
+    id: 'urn:uuid:d2800495-469e-59a6-94e4-a250a307c3bb'
+    link: 'https://pub.dartlang.org/packages/stagedive'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: harvest
+    package_version: v1.7.0
+    title: 'v1.7.0 of harvest'
+    published: '2015-07-16T09:28:20+00:00'
+    id: 'urn:uuid:57f0dc65-04c0-5bff-ace9-4facc1edadca'
+    link: 'https://pub.dartlang.org/packages/harvest'
+    author:
+        - 'Lars Tackmann <lars@solvr.io>'
