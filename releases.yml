@@ -30139,3 +30139,30 @@
     link: 'https://pub.dartlang.org/packages/bwu_docker'
     author:
         - 'Guenter Zoechbauer <guenter@gzoechbauer.com>'
+-
+    package_name: polymer_dependency_injection
+    package_version: v0.0.14
+    title: 'v0.0.14 of polymer_dependency_injection'
+    published: '2015-07-16T20:48:22+00:00'
+    id: 'urn:uuid:d526bde6-4d1f-5e64-a2d0-258058c1dd81'
+    link: 'https://pub.dartlang.org/packages/polymer_dependency_injection'
+    author:
+        - 'Matthew Franglen <matthew.franglen@gmail.com>'
+-
+    package_name: dependency_injection
+    package_version: v0.1.7
+    title: 'v0.1.7 of dependency_injection'
+    published: '2015-07-16T20:44:48+00:00'
+    id: 'urn:uuid:179c5650-767d-5523-94a2-d0573a825b51'
+    link: 'https://pub.dartlang.org/packages/dependency_injection'
+    author:
+        - 'Matthew Franglen <matthew.franglen@gmail.com>'
+-
+    package_name: glob
+    package_version: v1.0.5
+    title: 'v1.0.5 of glob'
+    published: '2015-07-16T20:13:59+00:00'
+    id: 'urn:uuid:ed6a6155-abd1-5760-b84e-b17f07ea2bd1'
+    link: 'https://pub.dartlang.org/packages/glob'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
