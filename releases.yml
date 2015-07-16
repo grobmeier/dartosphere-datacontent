@@ -30120,3 +30120,22 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: bwu_fontawesome_iconset_svg
+    package_version: v0.2.1
+    title: 'v0.2.1 of bwu_fontawesome_iconset_svg'
+    published: '2015-07-16T14:46:26+00:00'
+    id: 'urn:uuid:1fd47541-6584-56d1-91b3-d581f47da138'
+    link: 'https://pub.dartlang.org/packages/bwu_fontawesome_iconset_svg'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+        - 'Kun Zhao <kunzhao77@gmail.com>'
+-
+    package_name: bwu_docker
+    package_version: v0.2.1
+    title: 'v0.2.1 of bwu_docker'
+    published: '2015-07-16T14:24:04+00:00'
+    id: 'urn:uuid:1b6804ca-570d-5a2b-b58f-255e60be3d8b'
+    link: 'https://pub.dartlang.org/packages/bwu_docker'
+    author:
+        - 'Guenter Zoechbauer <guenter@gzoechbauer.com>'
