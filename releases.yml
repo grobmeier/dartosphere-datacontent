@@ -30193,3 +30193,22 @@
     link: 'https://pub.dartlang.org/packages/peg'
     author:
         - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: polymer_datepicker
+    package_version: v0.1.5+4
+    title: 'v0.1.5+4 of polymer_datepicker'
+    published: '2015-07-17T12:36:51+00:00'
+    id: 'urn:uuid:22fd9034-73e1-584a-b543-88dbdc292424'
+    link: 'https://pub.dartlang.org/packages/polymer_datepicker'
+    author:
+        - 'Drafintech <info@drafintech.it>'
+-
+    package_name: bwu_sparkline
+    package_version: v0.0.9
+    title: 'v0.0.9 of bwu_sparkline'
+    published: '2015-07-17T12:36:13+00:00'
+    id: 'urn:uuid:b8b3cff2-f7f8-50af-a0ee-855d42b5c1b7'
+    link: 'https://pub.dartlang.org/packages/bwu_sparkline'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+        - 'James Hurford <terrasea@gmail.com>'
