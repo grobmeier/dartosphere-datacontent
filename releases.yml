@@ -30221,3 +30221,12 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: pico_log
+    package_version: v0.2.1
+    title: 'v0.2.1 of pico_log'
+    published: '2015-07-17T22:02:32+00:00'
+    id: 'urn:uuid:c8551a93-5e36-5855-a73e-cdf538f5a30b'
+    link: 'https://pub.dartlang.org/packages/pico_log'
+    author:
+        - 'mockturtl <mockturtl@gmail.com>'
