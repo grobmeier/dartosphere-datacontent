@@ -30184,3 +30184,12 @@
     link: 'https://pub.dartlang.org/packages/watcher'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: peg
+    package_version: v0.0.53
+    title: 'v0.0.53 of peg'
+    published: '2015-07-17T06:50:52+00:00'
+    id: 'urn:uuid:f8b3968e-1fc7-5ad1-9479-1235413c2ef3'
+    link: 'https://pub.dartlang.org/packages/peg'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
