@@ -30166,3 +30166,21 @@
     link: 'https://pub.dartlang.org/packages/glob'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: sky
+    package_version: v0.0.19
+    title: 'v0.0.19 of sky'
+    published: '2015-07-16T23:45:21+00:00'
+    id: 'urn:uuid:c761ebe8-9f66-562a-ac68-f675febc9e68'
+    link: 'https://pub.dartlang.org/packages/sky'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: watcher
+    package_version: v0.9.7
+    title: 'v0.9.7 of watcher'
+    published: '2015-07-16T23:26:07+00:00'
+    id: 'urn:uuid:4353c60d-1c1f-526b-97ce-37fb02f4545d'
+    link: 'https://pub.dartlang.org/packages/watcher'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
