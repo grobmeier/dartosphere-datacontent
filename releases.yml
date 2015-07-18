@@ -30257,3 +30257,12 @@
     link: 'https://pub.dartlang.org/packages/darter'
     author:
         - 'Marlon Silva Carvalho <marlon.carvalho@gmail.com>'
+-
+    package_name: peg
+    package_version: v0.0.54
+    title: 'v0.0.54 of peg'
+    published: '2015-07-18T07:15:20+00:00'
+    id: 'urn:uuid:ed54d9f3-9d2a-5b23-8536-d7c74133b23d'
+    link: 'https://pub.dartlang.org/packages/peg'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
