@@ -30230,3 +30230,12 @@
     link: 'https://pub.dartlang.org/packages/pico_log'
     author:
         - 'mockturtl <mockturtl@gmail.com>'
+-
+    package_name: pico_log
+    package_version: v0.3.0
+    title: 'v0.3.0 of pico_log'
+    published: '2015-07-18T00:24:11+00:00'
+    id: 'urn:uuid:22dab7da-a28c-50ea-b643-3cddd199a7ab'
+    link: 'https://pub.dartlang.org/packages/pico_log'
+    author:
+        - 'mockturtl <mockturtl@gmail.com>'
