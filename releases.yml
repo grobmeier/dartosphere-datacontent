@@ -30365,3 +30365,30 @@
     link: 'https://pub.dartlang.org/packages/retrace'
     author:
         - 'Björn Melinder <bjorn.melinder@gmail.com>'
+-
+    package_name: barback
+    package_version: v0.15.2+5
+    title: 'v0.15.2+5 of barback'
+    published: '2015-07-20T21:46:32+00:00'
+    id: 'urn:uuid:6d3947f8-ce86-5fac-967d-a8353cd28b52'
+    link: 'https://pub.dartlang.org/packages/barback'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: http
+    package_version: v0.11.3
+    title: 'v0.11.3 of http'
+    published: '2015-07-20T21:42:00+00:00'
+    id: 'urn:uuid:0394a7c7-8dd9-5c12-9f19-1e3b0f16936d'
+    link: 'https://pub.dartlang.org/packages/http'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: mdl
+    package_version: v1.1.2
+    title: 'v1.1.2 of mdl'
+    published: '2015-07-20T21:01:24+00:00'
+    id: 'urn:uuid:8afefcf1-e196-59f3-a958-84cc895a1a2a'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
