@@ -30266,3 +30266,84 @@
     link: 'https://pub.dartlang.org/packages/peg'
     author:
         - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: magus
+    package_version: v0.0.14
+    title: 'v0.0.14 of magus'
+    published: '2015-07-20T11:14:08+00:00'
+    id: 'urn:uuid:bc8c042c-f268-5f18-bf65-206610be3148'
+    link: 'https://pub.dartlang.org/packages/magus'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: darter
+    package_version: v0.0.1
+    title: 'v0.0.1 of darter'
+    published: '2015-07-20T02:13:36+00:00'
+    id: 'urn:uuid:c25cb0f8-eede-5220-8081-7b72710c9809'
+    link: 'https://pub.dartlang.org/packages/darter'
+    author:
+        - 'Marlon Silva Carvalho <marlon.carvalho@gmail.com>'
+-
+    package_name: dotenv
+    package_version: v0.1.3+3
+    title: 'v0.1.3+3 of dotenv'
+    published: '2015-07-19T21:19:21+00:00'
+    id: 'urn:uuid:63f1e2a5-c419-5996-be3c-5de38bc2acf2'
+    link: 'https://pub.dartlang.org/packages/dotenv'
+    author:
+        - 'mockturtl <mockturtl@gmail.com>'
+-
+    package_name: squint
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of squint'
+    published: '2015-07-19T20:15:40+00:00'
+    id: 'urn:uuid:8a8b7a13-d925-589f-89a4-87c22e02b6da'
+    link: 'https://pub.dartlang.org/packages/squint'
+    author:
+        - 'mockturtl <mockturtl@gmail.com>'
+-
+    package_name: pico_log
+    package_version: v0.3.1+3
+    title: 'v0.3.1+3 of pico_log'
+    published: '2015-07-19T19:55:58+00:00'
+    id: 'urn:uuid:8b271550-0087-53f0-ae30-05f00a419874'
+    link: 'https://pub.dartlang.org/packages/pico_log'
+    author:
+        - 'mockturtl <mockturtl@gmail.com>'
+-
+    package_name: jsproxy
+    package_version: v0.0.3
+    title: 'v0.0.3 of jsproxy'
+    published: '2015-07-19T02:12:51+00:00'
+    id: 'urn:uuid:39957868-e635-5c4c-a86b-46206f648b1e'
+    link: 'https://pub.dartlang.org/packages/jsproxy'
+    author:
+        - 'Kun Zhao <kunzhao77@gmail.com>'
+-
+    package_name: ebisu_cpp
+    package_version: v0.3.3
+    title: 'v0.3.3 of ebisu_cpp'
+    published: '2015-07-19T02:02:52+00:00'
+    id: 'urn:uuid:8de1dcb4-5017-5edc-94d8-31b3fc8c5b8f'
+    link: 'https://pub.dartlang.org/packages/ebisu_cpp'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: rpi_gpio
+    package_version: v0.2.1
+    title: 'v0.2.1 of rpi_gpio'
+    published: '2015-07-18T15:21:21+00:00'
+    id: 'urn:uuid:a12a769a-93c8-585f-91dc-a3ef7d16b79f'
+    link: 'https://pub.dartlang.org/packages/rpi_gpio'
+    author:
+        - 'Dan Rubel <danrubel@google.com>'
+-
+    package_name: ebisu
+    package_version: v0.6.3
+    title: 'v0.6.3 of ebisu'
+    published: '2015-07-18T15:19:01+00:00'
+    id: 'urn:uuid:1de530f3-1e5d-520d-9723-a2f4126fb387'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
