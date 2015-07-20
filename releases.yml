@@ -30347,3 +30347,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu'
     author:
         - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: dartdoc
+    package_version: v0.1.0+5
+    title: 'v0.1.0+5 of dartdoc'
+    published: '2015-07-20T14:10:35+00:00'
+    id: 'urn:uuid:6408c816-694e-54f5-a71a-7721b8023243'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
