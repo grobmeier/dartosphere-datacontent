@@ -30392,3 +30392,21 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: skyx
+    package_version: v0.0.2
+    title: 'v0.0.2 of skyx'
+    published: '2015-07-20T22:52:39+00:00'
+    id: 'urn:uuid:dbff6dc2-12cb-5de5-8c07-0e5bf64aca35'
+    link: 'https://pub.dartlang.org/packages/skyx'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: metatest
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of metatest'
+    published: '2015-07-20T22:42:02+00:00'
+    id: 'urn:uuid:6f73aa62-3099-5121-8d55-2d5b021dc5d3'
+    link: 'https://pub.dartlang.org/packages/metatest'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
