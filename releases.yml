@@ -30419,3 +30419,12 @@
     link: 'https://pub.dartlang.org/packages/tiles'
     author:
         - 'Jakuub Uhrik <jakuub@mail.com>'
+-
+    package_name: tiles
+    package_version: v0.1.4+1
+    title: 'v0.1.4+1 of tiles'
+    published: '2015-07-21T15:07:04+00:00'
+    id: 'urn:uuid:eb8618cb-a0e1-513a-8076-fa83726e614b'
+    link: 'https://pub.dartlang.org/packages/tiles'
+    author:
+        - 'Jakuub Uhrik <jakuub@mail.com>'
