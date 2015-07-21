@@ -30410,3 +30410,12 @@
     link: 'https://pub.dartlang.org/packages/metatest'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: tiles
+    package_version: v0.1.4
+    title: 'v0.1.4 of tiles'
+    published: '2015-07-21T14:49:18+00:00'
+    id: 'urn:uuid:94df7f0b-02a5-5661-b48c-118f7770373e'
+    link: 'https://pub.dartlang.org/packages/tiles'
+    author:
+        - 'Jakuub Uhrik <jakuub@mail.com>'
