@@ -30428,3 +30428,31 @@
     link: 'https://pub.dartlang.org/packages/tiles'
     author:
         - 'Jakuub Uhrik <jakuub@mail.com>'
+-
+    package_name: angular2_authentication_sample
+    package_version: v0.0.1-alpha.31
+    title: 'v0.0.1-alpha.31 of angular2_authentication_sample'
+    published: '2015-07-21T16:46:08+00:00'
+    id: 'urn:uuid:5ddf11ac-df95-5e2e-8d53-9633bb0b203a'
+    link: 'https://pub.dartlang.org/packages/angular2_authentication_sample'
+    author:
+        - 'Martin Gontovnikas (http://gon.to) <martin@gon.to>'
+        - 'PatrickJS <github@gdi2290.com>'
+-
+    package_name: dartdoc
+    package_version: v0.2.0
+    title: 'v0.2.0 of dartdoc'
+    published: '2015-07-21T16:13:16+00:00'
+    id: 'urn:uuid:aa933d49-ef35-5a12-ad2e-c19f8c3e7022'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: slickdart
+    package_version: v0.1.3+2
+    title: 'v0.1.3+2 of slickdart'
+    published: '2015-07-21T16:00:33+00:00'
+    id: 'urn:uuid:34fcae66-3170-5c99-8ee3-8915de66412c'
+    link: 'https://pub.dartlang.org/packages/slickdart'
+    author:
+        - 'CJKAO <kaopeter@gmail.com>'
