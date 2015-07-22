@@ -30519,3 +30519,12 @@
     link: 'https://pub.dartlang.org/packages/analyticsdart'
     author:
         - 'Faisal Abid <faisal.abid@gmail.com>'
+-
+    package_name: analyticsdart
+    package_version: v0.0.3
+    title: 'v0.0.3 of analyticsdart'
+    published: '2015-07-22T14:03:05+00:00'
+    id: 'urn:uuid:11a649df-795c-5865-92e5-a0b70526e039'
+    link: 'https://pub.dartlang.org/packages/analyticsdart'
+    author:
+        - 'Faisal Abid <faisal.abid@gmail.com>'
