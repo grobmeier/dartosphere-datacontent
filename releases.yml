@@ -30492,3 +30492,21 @@
     link: 'https://pub.dartlang.org/packages/guinness_2'
     author:
         - 'Julie Ralph <ju.ralph@gmail.com>'
+-
+    package_name: guinness2
+    package_version: v0.0.1
+    title: 'v0.0.1 of guinness2'
+    published: '2015-07-22T01:51:21+00:00'
+    id: 'urn:uuid:da313561-a81d-52b3-9b30-bb0130be95d1'
+    link: 'https://pub.dartlang.org/packages/guinness2'
+    author:
+        - 'Julie Ralph <ju.ralph@gmail.com>'
+-
+    package_name: dart_style
+    package_version: v0.1.8+2
+    title: 'v0.1.8+2 of dart_style'
+    published: '2015-07-22T01:10:36+00:00'
+    id: 'urn:uuid:9b523b05-8b98-5cbc-8cb8-81fa36efb0cc'
+    link: 'https://pub.dartlang.org/packages/dart_style'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
