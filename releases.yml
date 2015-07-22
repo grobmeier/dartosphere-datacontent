@@ -30510,3 +30510,12 @@
     link: 'https://pub.dartlang.org/packages/dart_style'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: analyticsdart
+    package_version: v0.0.1
+    title: 'v0.0.1 of analyticsdart'
+    published: '2015-07-22T13:58:26+00:00'
+    id: 'urn:uuid:979f0faa-2363-5dc1-a1af-087038847802'
+    link: 'https://pub.dartlang.org/packages/analyticsdart'
+    author:
+        - 'Faisal Abid <faisal.abid@gmail.com>'
