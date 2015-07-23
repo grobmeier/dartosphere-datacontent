@@ -30681,3 +30681,12 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: mdl
+    package_version: v1.2.1
+    title: 'v1.2.1 of mdl'
+    published: '2015-07-23T15:30:49+00:00'
+    id: 'urn:uuid:c7f01222-7b0a-584c-bb62-98b25c959bb5'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
