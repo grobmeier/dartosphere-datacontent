@@ -30690,3 +30690,12 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: intl
+    package_version: v0.12.4+1
+    title: 'v0.12.4+1 of intl'
+    published: '2015-07-23T19:35:04+00:00'
+    id: 'urn:uuid:d5d65775-43fe-5b33-853b-6cb5430f4328'
+    link: 'https://pub.dartlang.org/packages/intl'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
