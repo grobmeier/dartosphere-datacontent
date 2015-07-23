@@ -30672,3 +30672,12 @@
     link: 'https://pub.dartlang.org/packages/sky_tools'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: mdl
+    package_version: v1.2.0
+    title: 'v1.2.0 of mdl'
+    published: '2015-07-23T14:58:18+00:00'
+    id: 'urn:uuid:1dcdee5e-bc63-5bc0-9810-2bd807ce8aeb'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
