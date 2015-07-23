@@ -30645,3 +30645,12 @@
         - 'Victor Savkin <vsavkin@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: pub_client
+    package_version: v1.0.8
+    title: 'v1.0.8 of pub_client'
+    published: '2015-07-23T04:54:33+00:00'
+    id: 'urn:uuid:e623e9d0-0e1c-5429-9dbc-a5a071b1095c'
+    link: 'https://pub.dartlang.org/packages/pub_client'
+    author:
+        - 'Jim Simon <jim.j.simon@gmail.com>'
