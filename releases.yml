@@ -30717,3 +30717,21 @@
     link: 'https://pub.dartlang.org/packages/material_design_icons'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: guinness2
+    package_version: v0.0.2
+    title: 'v0.0.2 of guinness2'
+    published: '2015-07-23T23:18:02+00:00'
+    id: 'urn:uuid:7d49293a-8298-5ef4-b1fa-89045c368bb1'
+    link: 'https://pub.dartlang.org/packages/guinness2'
+    author:
+        - 'Julie Ralph <ju.ralph@gmail.com>'
+-
+    package_name: dialog
+    package_version: v0.4.0+2
+    title: 'v0.4.0+2 of dialog'
+    published: '2015-07-23T23:16:14+00:00'
+    id: 'urn:uuid:07b7ee2d-3d48-5287-b1cc-7b8c50772f48'
+    link: 'https://pub.dartlang.org/packages/dialog'
+    author:
+        - 'Pavel Dvořák <dvorapa1995@gmail.com>'
