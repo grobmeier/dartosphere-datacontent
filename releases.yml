@@ -30699,3 +30699,21 @@
     link: 'https://pub.dartlang.org/packages/intl'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dartdoc
+    package_version: v0.2.2
+    title: 'v0.2.2 of dartdoc'
+    published: '2015-07-23T22:27:29+00:00'
+    id: 'urn:uuid:d583c97c-bc4a-5596-8cba-8c20a20d4c5a'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: material_design_icons
+    package_version: v0.0.1
+    title: 'v0.0.1 of material_design_icons'
+    published: '2015-07-23T22:14:09+00:00'
+    id: 'urn:uuid:33c96151-293a-539e-9039-8a2ed7b32ec4'
+    link: 'https://pub.dartlang.org/packages/material_design_icons'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
