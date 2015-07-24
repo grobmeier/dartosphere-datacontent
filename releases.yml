@@ -30825,3 +30825,12 @@
     link: 'https://pub.dartlang.org/packages/dialog'
     author:
         - 'Pavel Dvořák <dvorapa1995@gmail.com>'
+-
+    package_name: dartnow
+    package_version: v0.1.11
+    title: 'v0.1.11 of dartnow'
+    published: '2015-07-24T19:58:27+00:00'
+    id: 'urn:uuid:cc8a2fc8-e678-5da9-98ad-52a7a99a20fc'
+    link: 'https://pub.dartlang.org/packages/dartnow'
+    author:
+        - 'Kasper Peulen <kasperpeulen@gmail.com>'
