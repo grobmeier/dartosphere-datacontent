@@ -30843,3 +30843,12 @@
     link: 'https://pub.dartlang.org/packages/dialog'
     author:
         - 'Pavel Dvořák <dvorapa1995@gmail.com>'
+-
+    package_name: rl_matrix
+    package_version: v0.0.2
+    title: 'v0.0.2 of rl_matrix'
+    published: '2015-07-24T22:14:22+00:00'
+    id: 'urn:uuid:b93610f6-c81e-5e4f-9cbd-b8039fa63e6f'
+    link: 'https://pub.dartlang.org/packages/rl_matrix'
+    author:
+        - 'R.S. Schermer <roland0507@gmail.com>'
