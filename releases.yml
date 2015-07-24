@@ -30789,3 +30789,12 @@
     link: 'https://pub.dartlang.org/packages/dartnow'
     author:
         - 'Kasper Peulen <kasperpeulen@gmail.com>'
+-
+    package_name: dartnow
+    package_version: v0.1.8
+    title: 'v0.1.8 of dartnow'
+    published: '2015-07-24T09:37:38+00:00'
+    id: 'urn:uuid:e35885a4-185e-5b4f-8670-d4cb5787e3d2'
+    link: 'https://pub.dartlang.org/packages/dartnow'
+    author:
+        - 'Kasper Peulen <kasperpeulen@gmail.com>'
