@@ -30744,3 +30744,12 @@
     link: 'https://pub.dartlang.org/packages/guinness2'
     author:
         - 'Julie Ralph <ju.ralph@gmail.com>'
+-
+    package_name: dartnow
+    package_version: v0.1.1
+    title: 'v0.1.1 of dartnow'
+    published: '2015-07-24T02:49:04+00:00'
+    id: 'urn:uuid:73cd6085-0eef-566f-8500-d5b0dc93806f'
+    link: 'https://pub.dartlang.org/packages/dartnow'
+    author:
+        - 'Kasper Peulen <kasperpeulen@gmail.com>'
