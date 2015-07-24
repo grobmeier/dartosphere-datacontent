@@ -30816,3 +30816,12 @@
     link: 'https://pub.dartlang.org/packages/dartnow'
     author:
         - 'Kasper Peulen <kasperpeulen@gmail.com>'
+-
+    package_name: dialog
+    package_version: v0.4.1+1
+    title: 'v0.4.1+1 of dialog'
+    published: '2015-07-24T15:37:23+00:00'
+    id: 'urn:uuid:1d3234b3-b081-5eaa-ba3c-afecc8742adf'
+    link: 'https://pub.dartlang.org/packages/dialog'
+    author:
+        - 'Pavel Dvořák <dvorapa1995@gmail.com>'
