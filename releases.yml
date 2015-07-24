@@ -30753,3 +30753,12 @@
     link: 'https://pub.dartlang.org/packages/dartnow'
     author:
         - 'Kasper Peulen <kasperpeulen@gmail.com>'
+-
+    package_name: dartnow
+    package_version: v0.1.3
+    title: 'v0.1.3 of dartnow'
+    published: '2015-07-24T03:14:00+00:00'
+    id: 'urn:uuid:d86ef822-9746-5014-bb0a-edaf92410e1e'
+    link: 'https://pub.dartlang.org/packages/dartnow'
+    author:
+        - 'Kasper Peulen <kasperpeulen@gmail.com>'
