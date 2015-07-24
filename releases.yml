@@ -30762,3 +30762,12 @@
     link: 'https://pub.dartlang.org/packages/dartnow'
     author:
         - 'Kasper Peulen <kasperpeulen@gmail.com>'
+-
+    package_name: sky_tools
+    package_version: v0.0.3
+    title: 'v0.0.3 of sky_tools'
+    published: '2015-07-24T04:51:43+00:00'
+    id: 'urn:uuid:4e148195-36b8-5edd-b441-46917fbb1e6f'
+    link: 'https://pub.dartlang.org/packages/sky_tools'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
