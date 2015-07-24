@@ -30771,3 +30771,12 @@
     link: 'https://pub.dartlang.org/packages/sky_tools'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: dartnow
+    package_version: v0.1.5
+    title: 'v0.1.5 of dartnow'
+    published: '2015-07-24T06:38:21+00:00'
+    id: 'urn:uuid:00e7da90-5a56-5db9-83d6-d8f9dc400f23'
+    link: 'https://pub.dartlang.org/packages/dartnow'
+    author:
+        - 'Kasper Peulen <kasperpeulen@gmail.com>'
