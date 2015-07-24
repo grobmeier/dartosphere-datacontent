@@ -30735,3 +30735,12 @@
     link: 'https://pub.dartlang.org/packages/dialog'
     author:
         - 'Pavel Dvořák <dvorapa1995@gmail.com>'
+-
+    package_name: guinness2
+    package_version: v0.0.3
+    title: 'v0.0.3 of guinness2'
+    published: '2015-07-24T00:23:44+00:00'
+    id: 'urn:uuid:c48daeec-235d-53bf-b469-3fc59c98568c'
+    link: 'https://pub.dartlang.org/packages/guinness2'
+    author:
+        - 'Julie Ralph <ju.ralph@gmail.com>'
