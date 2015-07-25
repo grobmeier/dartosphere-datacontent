@@ -30880,3 +30880,12 @@
     link: 'https://pub.dartlang.org/packages/dartnow'
     author:
         - 'Kasper Peulen <kasperpeulen@gmail.com>'
+-
+    package_name: rl_matrix
+    package_version: v0.0.3
+    title: 'v0.0.3 of rl_matrix'
+    published: '2015-07-25T18:17:56+00:00'
+    id: 'urn:uuid:f289850e-5c61-5aeb-88c8-b014c666bb7c'
+    link: 'https://pub.dartlang.org/packages/rl_matrix'
+    author:
+        - 'R.S. Schermer <roland0507@gmail.com>'
