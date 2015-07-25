@@ -30852,3 +30852,12 @@
     link: 'https://pub.dartlang.org/packages/rl_matrix'
     author:
         - 'R.S. Schermer <roland0507@gmail.com>'
+-
+    package_name: jsproxy
+    package_version: v0.0.4
+    title: 'v0.0.4 of jsproxy'
+    published: '2015-07-25T00:41:40+00:00'
+    id: 'urn:uuid:e2dd3bb0-ecaa-5845-bb24-742102dc68c4'
+    link: 'https://pub.dartlang.org/packages/jsproxy'
+    author:
+        - 'Kun Zhao <kunzhao77@gmail.com>'
