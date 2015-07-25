@@ -30871,3 +30871,12 @@
     author:
         - 'Vadim Tsushko <vadimtsushko@gmail.com>'
         - 'Ad van der Veer <advanderveer@gmail.com>'
+-
+    package_name: dartnow
+    package_version: v0.1.12
+    title: 'v0.1.12 of dartnow'
+    published: '2015-07-25T14:17:55+00:00'
+    id: 'urn:uuid:22fea653-3de6-58b1-a354-92678d6ea7d8'
+    link: 'https://pub.dartlang.org/packages/dartnow'
+    author:
+        - 'Kasper Peulen <kasperpeulen@gmail.com>'
