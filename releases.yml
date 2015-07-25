@@ -30889,3 +30889,12 @@
     link: 'https://pub.dartlang.org/packages/rl_matrix'
     author:
         - 'R.S. Schermer <roland0507@gmail.com>'
+-
+    package_name: dartiny_event_dispatcher
+    package_version: v0.0.0
+    title: 'v0.0.0 of dartiny_event_dispatcher'
+    published: '2015-07-25T21:47:23+00:00'
+    id: 'urn:uuid:4cd5952d-0c28-5c06-a94b-74b1c45dbf35'
+    link: 'https://pub.dartlang.org/packages/dartiny_event_dispatcher'
+    author:
+        - 'Roman Shamritskiy <roman@litgroup.ru>'
