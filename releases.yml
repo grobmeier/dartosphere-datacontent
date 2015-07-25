@@ -30861,3 +30861,13 @@
     link: 'https://pub.dartlang.org/packages/jsproxy'
     author:
         - 'Kun Zhao <kunzhao77@gmail.com>'
+-
+    package_name: bson
+    package_version: v0.2.0
+    title: 'v0.2.0 of bson'
+    published: '2015-07-25T08:28:06+00:00'
+    id: 'urn:uuid:1788fb30-c682-5f54-b67a-90127c682ce3'
+    link: 'https://pub.dartlang.org/packages/bson'
+    author:
+        - 'Vadim Tsushko <vadimtsushko@gmail.com>'
+        - 'Ad van der Veer <advanderveer@gmail.com>'
