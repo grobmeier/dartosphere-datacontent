@@ -30907,3 +30907,12 @@
     link: 'https://pub.dartlang.org/packages/slickdart'
     author:
         - 'CJKAO <kaopeter@gmail.com>'
+-
+    package_name: cobble
+    package_version: v0.1.0
+    title: 'v0.1.0 of cobble'
+    published: '2015-07-26T22:22:40+00:00'
+    id: 'urn:uuid:96ffe5ac-1fa4-582f-815f-e2080941bed9'
+    link: 'https://pub.dartlang.org/packages/cobble'
+    author:
+        - 'James Ots <code@jamesots.com>'
