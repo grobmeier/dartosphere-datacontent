@@ -30898,3 +30898,12 @@
     link: 'https://pub.dartlang.org/packages/dartiny_event_dispatcher'
     author:
         - 'Roman Shamritskiy <roman@litgroup.ru>'
+-
+    package_name: slickdart
+    package_version: v0.1.3+3
+    title: 'v0.1.3+3 of slickdart'
+    published: '2015-07-26T10:27:04+00:00'
+    id: 'urn:uuid:4736b6e0-bdad-5d9b-b52e-79bbd8f06c09'
+    link: 'https://pub.dartlang.org/packages/slickdart'
+    author:
+        - 'CJKAO <kaopeter@gmail.com>'
