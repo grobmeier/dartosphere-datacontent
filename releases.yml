@@ -31026,3 +31026,21 @@
     link: 'https://pub.dartlang.org/packages/newton'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: barback
+    package_version: v0.15.2+6
+    title: 'v0.15.2+6 of barback'
+    published: '2015-07-27T21:38:50+00:00'
+    id: 'urn:uuid:ad132362-2be4-57e8-aae9-985c4cb39862'
+    link: 'https://pub.dartlang.org/packages/barback'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: mojo_services
+    package_version: v0.0.17
+    title: 'v0.0.17 of mojo_services'
+    published: '2015-07-27T21:00:25+00:00'
+    id: 'urn:uuid:170ffc6f-b4c5-5570-ac22-f4262f36f734'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
