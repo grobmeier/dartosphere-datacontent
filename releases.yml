@@ -31006,3 +31006,23 @@
     link: 'https://pub.dartlang.org/packages/sky_tools'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: firebase
+    package_version: v0.6.2
+    title: 'v0.6.2 of firebase'
+    published: '2015-07-27T18:48:11+00:00'
+    id: 'urn:uuid:b756970b-646e-5877-b2c2-768501e0ac71'
+    link: 'https://pub.dartlang.org/packages/firebase'
+    author:
+        - 'Anant Narayanan <anant@kix.in>'
+        - 'Seth Ladd <sethladd@gmail.com>'
+        - 'Kevin Moore <github@j832.com>'
+-
+    package_name: newton
+    package_version: v0.1.2
+    title: 'v0.1.2 of newton'
+    published: '2015-07-27T18:09:08+00:00'
+    id: 'urn:uuid:26512df4-9df2-5f26-9b52-422d74b35d68'
+    link: 'https://pub.dartlang.org/packages/newton'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
