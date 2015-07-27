@@ -30934,3 +30934,21 @@
     link: 'https://pub.dartlang.org/packages/google_charts'
     author:
         - 'Robert Hartung <robert.w.hartung@gmail.com>'
+-
+    package_name: mongo_dart_query
+    package_version: v0.1.17
+    title: 'v0.1.17 of mongo_dart_query'
+    published: '2015-07-27T15:56:44+00:00'
+    id: 'urn:uuid:cd6274a2-e9f2-51b0-b609-80c07b04bea2'
+    link: 'https://pub.dartlang.org/packages/mongo_dart_query'
+    author:
+        - 'Vadim Tsushko <vadimtsushko@gmail.com>'
+-
+    package_name: material_design_icons
+    package_version: v0.0.2
+    title: 'v0.0.2 of material_design_icons'
+    published: '2015-07-27T15:26:59+00:00'
+    id: 'urn:uuid:8d3e5697-37b7-52b1-8f2c-a2637526731e'
+    link: 'https://pub.dartlang.org/packages/material_design_icons'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
