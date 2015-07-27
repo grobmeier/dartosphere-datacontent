@@ -30925,3 +30925,12 @@
     link: 'https://pub.dartlang.org/packages/dartnow'
     author:
         - 'Kasper Peulen <kasperpeulen@gmail.com>'
+-
+    package_name: google_charts
+    package_version: v0.1.4
+    title: 'v0.1.4 of google_charts'
+    published: '2015-07-27T11:37:26+00:00'
+    id: 'urn:uuid:ab6bf847-3bb4-585f-8ef2-9b6e4dc20a24'
+    link: 'https://pub.dartlang.org/packages/google_charts'
+    author:
+        - 'Robert Hartung <robert.w.hartung@gmail.com>'
