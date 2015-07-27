@@ -30916,3 +30916,12 @@
     link: 'https://pub.dartlang.org/packages/cobble'
     author:
         - 'James Ots <code@jamesots.com>'
+-
+    package_name: dartnow
+    package_version: v0.1.12+1
+    title: 'v0.1.12+1 of dartnow'
+    published: '2015-07-27T00:32:06+00:00'
+    id: 'urn:uuid:d65f8602-09eb-5223-b23c-8d588331a517'
+    link: 'https://pub.dartlang.org/packages/dartnow'
+    author:
+        - 'Kasper Peulen <kasperpeulen@gmail.com>'
