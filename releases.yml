@@ -31125,3 +31125,21 @@
     link: 'https://pub.dartlang.org/packages/firebase_rest'
     author:
         - 'Rik Bellens <rik.bellens@appsup.be>'
+-
+    package_name: firebase_rest
+    package_version: v0.1.2
+    title: 'v0.1.2 of firebase_rest'
+    published: '2015-07-29T23:40:50+00:00'
+    id: 'urn:uuid:cb0b91e3-896a-56be-9cb2-1a4c0cd04520'
+    link: 'https://pub.dartlang.org/packages/firebase_rest'
+    author:
+        - 'Rik Bellens <rik.bellens@appsup.be>'
+-
+    package_name: sky_tools
+    package_version: v0.0.5
+    title: 'v0.0.5 of sky_tools'
+    published: '2015-07-29T23:29:17+00:00'
+    id: 'urn:uuid:d4245836-153f-5f49-ac3b-3a5a42fbe24f'
+    link: 'https://pub.dartlang.org/packages/sky_tools'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
