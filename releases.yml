@@ -31080,3 +31080,12 @@
     link: 'https://pub.dartlang.org/packages/dev_compiler'
     author:
         - 'Dart Dev Compiler team <dev-compiler@dartlang.org>'
+-
+    package_name: peanut
+    package_version: v0.0.1+2
+    title: 'v0.0.1+2 of peanut'
+    published: '2015-07-29T01:28:35+00:00'
+    id: 'urn:uuid:121a3a13-4adf-5344-9485-dafc077f0a65'
+    link: 'https://pub.dartlang.org/packages/peanut'
+    author:
+        - 'Kevin Moore <github@j832.com>'
