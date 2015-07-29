@@ -31116,3 +31116,12 @@
     link: 'https://pub.dartlang.org/packages/tiles'
     author:
         - 'Jakuub Uhrik <jakuub@mail.com>'
+-
+    package_name: firebase_rest
+    package_version: v0.1.1
+    title: 'v0.1.1 of firebase_rest'
+    published: '2015-07-29T22:22:47+00:00'
+    id: 'urn:uuid:daa7c4a7-69ac-5de5-8ecb-95f2e5b3aca6'
+    link: 'https://pub.dartlang.org/packages/firebase_rest'
+    author:
+        - 'Rik Bellens <rik.bellens@appsup.be>'
