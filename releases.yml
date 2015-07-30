@@ -31143,3 +31143,12 @@
     link: 'https://pub.dartlang.org/packages/sky_tools'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: dart_updater
+    package_version: v0.0.1
+    title: 'v0.0.1 of dart_updater'
+    published: '2015-07-30T02:54:34+00:00'
+    id: 'urn:uuid:261cf9f0-9858-5559-a7fd-89bdbab1a007'
+    link: 'https://pub.dartlang.org/packages/dart_updater'
+    author:
+        - 'Joel Trottier-Hebert (Pacane) <iamquebecois@gmail.com>'
