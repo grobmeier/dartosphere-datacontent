@@ -31269,3 +31269,12 @@
     link: 'https://pub.dartlang.org/packages/mojo'
     author:
         - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: sqljocky
+    package_version: v0.13.0
+    title: 'v0.13.0 of sqljocky'
+    published: '2015-07-30T20:10:47+00:00'
+    id: 'urn:uuid:a8124d12-8166-5074-ae27-80e97491739c'
+    link: 'https://pub.dartlang.org/packages/sqljocky'
+    author:
+        - 'James Ots <code@jamesots.com>'
