@@ -31224,3 +31224,21 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: analyzer
+    package_version: v0.26.0
+    title: 'v0.26.0 of analyzer'
+    published: '2015-07-30T16:55:16+00:00'
+    id: 'urn:uuid:1d90d29c-4b49-57a6-8831-ba2dd563a9b6'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: linter
+    package_version: v0.1.1
+    title: 'v0.1.1 of linter'
+    published: '2015-07-30T16:48:39+00:00'
+    id: 'urn:uuid:458ddbb3-c353-55d9-b56a-036bc740a89b'
+    link: 'https://pub.dartlang.org/packages/linter'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
