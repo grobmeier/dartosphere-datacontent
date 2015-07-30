@@ -31242,3 +31242,30 @@
     link: 'https://pub.dartlang.org/packages/linter'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: mojo_services
+    package_version: v0.0.21
+    title: 'v0.0.21 of mojo_services'
+    published: '2015-07-30T17:09:35+00:00'
+    id: 'urn:uuid:3e696495-072e-5b1d-8ffc-a5760fbc1f4d'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojom
+    package_version: v0.0.21
+    title: 'v0.0.21 of mojom'
+    published: '2015-07-30T17:09:32+00:00'
+    id: 'urn:uuid:a6946ceb-8ac0-509f-9876-2273dec56afa'
+    link: 'https://pub.dartlang.org/packages/mojom'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo
+    package_version: v0.0.21
+    title: 'v0.0.21 of mojo'
+    published: '2015-07-30T17:09:29+00:00'
+    id: 'urn:uuid:6f28b6f7-d600-5494-8b1c-571bedfe7662'
+    link: 'https://pub.dartlang.org/packages/mojo'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
