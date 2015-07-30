@@ -31215,3 +31215,12 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: mdl
+    package_version: v1.3.2
+    title: 'v1.3.2 of mdl'
+    published: '2015-07-30T08:14:06+00:00'
+    id: 'urn:uuid:4ddf5618-1f4c-5172-9f7c-52243adcbfff'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
