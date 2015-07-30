@@ -31152,3 +31152,12 @@
     link: 'https://pub.dartlang.org/packages/dart_updater'
     author:
         - 'Joel Trottier-Hebert (Pacane) <iamquebecois@gmail.com>'
+-
+    package_name: dart_updater
+    package_version: v0.0.3
+    title: 'v0.0.3 of dart_updater'
+    published: '2015-07-30T03:09:02+00:00'
+    id: 'urn:uuid:b0d94171-dae8-5ba9-ad7f-9047f684116a'
+    link: 'https://pub.dartlang.org/packages/dart_updater'
+    author:
+        - 'Joel Trottier-Hebert (Pacane) <iamquebecois@gmail.com>'
