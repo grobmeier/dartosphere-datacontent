@@ -31422,3 +31422,14 @@
     link: 'https://pub.dartlang.org/packages/dart_updater'
     author:
         - 'Joel Trottier-Hebert (Pacane) <iamquebecois@gmail.com>'
+-
+    package_name: angular2_authentication_sample
+    package_version: v0.0.1-alpha.33
+    title: 'v0.0.1-alpha.33 of angular2_authentication_sample'
+    published: '2015-07-31T14:31:40+00:00'
+    id: 'urn:uuid:79848d4c-690a-5d13-a29b-2ac8e4772900'
+    link: 'https://pub.dartlang.org/packages/angular2_authentication_sample'
+    author:
+        - 'Martin Gontovnikas (http://gon.to) <martin@gon.to>'
+        - 'PatrickJS <github@gdi2290.com>'
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
