@@ -31469,3 +31469,12 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: shelf_static
+    package_version: v0.2.3
+    title: 'v0.2.3 of shelf_static'
+    published: '2015-07-31T19:49:03+00:00'
+    id: 'urn:uuid:381bf54e-ec45-5bc1-818a-1882741ce83e'
+    link: 'https://pub.dartlang.org/packages/shelf_static'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
