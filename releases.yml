@@ -31395,3 +31395,12 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: web
+    package_version: v0.0.1
+    title: 'v0.0.1 of web'
+    published: '2015-07-31T00:10:03+00:00'
+    id: 'urn:uuid:090573f8-60b3-5670-87ae-c009651280b1'
+    link: 'https://pub.dartlang.org/packages/web'
+    author:
+        - 'Dart Dev Compiler team <dev-compiler@dartlang.org>'
