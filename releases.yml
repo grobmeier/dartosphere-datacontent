@@ -31413,3 +31413,12 @@
     link: 'https://pub.dartlang.org/packages/dart_updater'
     author:
         - 'Joel Trottier-Hebert (Pacane) <iamquebecois@gmail.com>'
+-
+    package_name: dart_updater
+    package_version: v0.0.41
+    title: 'v0.0.41 of dart_updater'
+    published: '2015-07-31T12:36:41+00:00'
+    id: 'urn:uuid:e0d9bea1-fc49-581b-8daa-91db76af0e9b'
+    link: 'https://pub.dartlang.org/packages/dart_updater'
+    author:
+        - 'Joel Trottier-Hebert (Pacane) <iamquebecois@gmail.com>'
