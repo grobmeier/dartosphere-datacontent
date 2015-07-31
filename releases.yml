@@ -31404,3 +31404,12 @@
     link: 'https://pub.dartlang.org/packages/web'
     author:
         - 'Dart Dev Compiler team <dev-compiler@dartlang.org>'
+-
+    package_name: dart_updater
+    package_version: v0.0.4
+    title: 'v0.0.4 of dart_updater'
+    published: '2015-07-31T01:38:37+00:00'
+    id: 'urn:uuid:5b8a7e1a-5110-579d-bc67-11326c171409'
+    link: 'https://pub.dartlang.org/packages/dart_updater'
+    author:
+        - 'Joel Trottier-Hebert (Pacane) <iamquebecois@gmail.com>'
