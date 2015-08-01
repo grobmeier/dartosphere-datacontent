@@ -31496,3 +31496,12 @@
     link: 'https://pub.dartlang.org/packages/transmit'
     author:
         - 'Paul VanKeuren <paul.vankeuren@gmail.com>'
+-
+    package_name: dartnow
+    package_version: v0.2.0
+    title: 'v0.2.0 of dartnow'
+    published: '2015-08-01T18:21:32+00:00'
+    id: 'urn:uuid:db601f08-f0d3-5848-b607-b30981ccb752'
+    link: 'https://pub.dartlang.org/packages/dartnow'
+    author:
+        - 'Kasper Peulen <kasperpeulen@gmail.com>'
