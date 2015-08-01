@@ -31515,3 +31515,21 @@
     author:
         - 'Roman Shamritskiy <roman@litgroup.ru>'
         - 'Vladimir Bogutskiy <ustas@litgroup.ru>'
+-
+    package_name: dartnow
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of dartnow'
+    published: '2015-08-01T23:28:42+00:00'
+    id: 'urn:uuid:4c5b61d0-8eb8-544e-9182-90e37874b499'
+    link: 'https://pub.dartlang.org/packages/dartnow'
+    author:
+        - 'Kasper Peulen <kasperpeulen@gmail.com>'
+-
+    package_name: yamlicious
+    package_version: v0.0.2
+    title: 'v0.0.2 of yamlicious'
+    published: '2015-08-01T23:27:34+00:00'
+    id: 'urn:uuid:0512fa8c-a077-5363-97e4-3ce04334b9c2'
+    link: 'https://pub.dartlang.org/packages/yamlicious'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
