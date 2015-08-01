@@ -31487,3 +31487,12 @@
     link: 'https://pub.dartlang.org/packages/sky_tools'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: transmit
+    package_version: v1.1.0
+    title: 'v1.1.0 of transmit'
+    published: '2015-08-01T15:38:37+00:00'
+    id: 'urn:uuid:662e58ff-e19e-5002-a1ea-a90279c818d4'
+    link: 'https://pub.dartlang.org/packages/transmit'
+    author:
+        - 'Paul VanKeuren <paul.vankeuren@gmail.com>'
