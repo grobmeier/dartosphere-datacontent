@@ -31505,3 +31505,13 @@
     link: 'https://pub.dartlang.org/packages/dartnow'
     author:
         - 'Kasper Peulen <kasperpeulen@gmail.com>'
+-
+    package_name: dimple
+    package_version: v0.1.0+1
+    title: 'v0.1.0+1 of dimple'
+    published: '2015-08-01T21:42:21+00:00'
+    id: 'urn:uuid:bbfe0e6d-c76f-5c5a-aa90-edf90ac45d68'
+    link: 'https://pub.dartlang.org/packages/dimple'
+    author:
+        - 'Roman Shamritskiy <roman@litgroup.ru>'
+        - 'Vladimir Bogutskiy <ustas@litgroup.ru>'
