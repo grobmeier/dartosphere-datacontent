@@ -31478,3 +31478,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_static'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: sky_tools
+    package_version: v0.0.6
+    title: 'v0.0.6 of sky_tools'
+    published: '2015-08-01T03:32:37+00:00'
+    id: 'urn:uuid:31589db3-ae94-5bb3-94ce-34527f60c65a'
+    link: 'https://pub.dartlang.org/packages/sky_tools'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
