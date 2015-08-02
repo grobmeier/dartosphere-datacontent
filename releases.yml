@@ -31533,3 +31533,12 @@
     link: 'https://pub.dartlang.org/packages/yamlicious'
     author:
         - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: dartnow
+    package_version: v0.2.0+3
+    title: 'v0.2.0+3 of dartnow'
+    published: '2015-08-02T00:21:54+00:00'
+    id: 'urn:uuid:e634801c-009c-5318-87d9-cf4daf52907f'
+    link: 'https://pub.dartlang.org/packages/dartnow'
+    author:
+        - 'Kasper Peulen <kasperpeulen@gmail.com>'
