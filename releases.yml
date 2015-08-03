@@ -31598,3 +31598,30 @@
         - 'Anant Narayanan <anant@kix.in>'
         - 'Seth Ladd <sethladd@gmail.com>'
         - 'Kevin Moore <github@j832.com>'
+-
+    package_name: sky
+    package_version: v0.0.27
+    title: 'v0.0.27 of sky'
+    published: '2015-08-03T18:13:17+00:00'
+    id: 'urn:uuid:7b1a5353-6bbf-57e6-856f-c578624e002d'
+    link: 'https://pub.dartlang.org/packages/sky'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.6
+    title: 'v0.0.6 of sky_services'
+    published: '2015-08-03T18:10:41+00:00'
+    id: 'urn:uuid:910262b7-8321-5da1-a020-39c123eaf5e8'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.6
+    title: 'v0.0.6 of sky_engine'
+    published: '2015-08-03T18:10:39+00:00'
+    id: 'urn:uuid:52b38ceb-8c3c-54f3-a22d-9f8fb07dc089'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
