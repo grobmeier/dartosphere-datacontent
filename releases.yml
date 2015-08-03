@@ -31634,3 +31634,12 @@
     link: 'https://pub.dartlang.org/packages/auth0_lock'
     author:
         - 'Andres Araujo <a.araujo.azua@gmail.com>'
+-
+    package_name: retrace
+    package_version: v1.1.0
+    title: 'v1.1.0 of retrace'
+    published: '2015-08-03T20:18:00+00:00'
+    id: 'urn:uuid:86f3b865-ef09-5202-9740-a8162c9ef67e'
+    link: 'https://pub.dartlang.org/packages/retrace'
+    author:
+        - 'Björn Melinder <bjorn.melinder@gmail.com>'
