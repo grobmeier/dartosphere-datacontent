@@ -31551,3 +31551,12 @@
     link: 'https://pub.dartlang.org/packages/stream'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: parsers
+    package_version: v0.14.4
+    title: 'v0.14.4 of parsers'
+    published: '2015-08-03T11:30:06+00:00'
+    id: 'urn:uuid:f27ed5ca-f158-5f13-a81e-f8f308cb0d1d'
+    link: 'https://pub.dartlang.org/packages/parsers'
+    author:
+        - 'Paul Brauner <polux@google.com>'
