@@ -31542,3 +31542,12 @@
     link: 'https://pub.dartlang.org/packages/dartnow'
     author:
         - 'Kasper Peulen <kasperpeulen@gmail.com>'
+-
+    package_name: stream
+    package_version: v1.5.0+2
+    title: 'v1.5.0+2 of stream'
+    published: '2015-08-03T03:37:20+00:00'
+    id: 'urn:uuid:faba294d-870a-517f-a0e9-84d53b881bbb'
+    link: 'https://pub.dartlang.org/packages/stream'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
