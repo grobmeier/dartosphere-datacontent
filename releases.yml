@@ -31625,3 +31625,12 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: auth0_lock
+    package_version: v0.1.0
+    title: 'v0.1.0 of auth0_lock'
+    published: '2015-08-03T19:35:07+00:00'
+    id: 'urn:uuid:7557bee4-ab95-5183-bb70-73e64debc3df'
+    link: 'https://pub.dartlang.org/packages/auth0_lock'
+    author:
+        - 'Andres Araujo <a.araujo.azua@gmail.com>'
