@@ -31569,3 +31569,32 @@
     link: 'https://pub.dartlang.org/packages/dev_compiler'
     author:
         - 'Dart Dev Compiler team <dev-compiler@dartlang.org>'
+-
+    package_name: mdl
+    package_version: v1.3.3
+    title: 'v1.3.3 of mdl'
+    published: '2015-08-03T17:57:29+00:00'
+    id: 'urn:uuid:8f3849e0-5b73-59c3-a0f6-ddee7915c143'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: markdown
+    package_version: v0.7.1+3
+    title: 'v0.7.1+3 of markdown'
+    published: '2015-08-03T17:34:45+00:00'
+    id: 'urn:uuid:8de5ef1e-790a-5c0e-9ec2-35e8bbc2d2e6'
+    link: 'https://pub.dartlang.org/packages/markdown'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: firebase
+    package_version: v0.6.3
+    title: 'v0.6.3 of firebase'
+    published: '2015-08-03T17:17:06+00:00'
+    id: 'urn:uuid:9e06cb6a-60c3-5464-8446-a4916b8c6b69'
+    link: 'https://pub.dartlang.org/packages/firebase'
+    author:
+        - 'Anant Narayanan <anant@kix.in>'
+        - 'Seth Ladd <sethladd@gmail.com>'
+        - 'Kevin Moore <github@j832.com>'
