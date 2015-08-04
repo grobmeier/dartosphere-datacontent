@@ -31679,3 +31679,12 @@
     link: 'https://pub.dartlang.org/packages/drails_commons'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: dson
+    package_version: v0.1.6+1
+    title: 'v0.1.6+1 of dson'
+    published: '2015-08-04T05:04:55+00:00'
+    id: 'urn:uuid:2cd14b27-964d-5f05-977d-bb10903c18f9'
+    link: 'https://pub.dartlang.org/packages/dson'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
