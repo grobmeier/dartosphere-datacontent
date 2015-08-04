@@ -31733,3 +31733,12 @@
     link: 'https://pub.dartlang.org/packages/googleapis'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: async_commands
+    package_version: v0.2.2
+    title: 'v0.2.2 of async_commands'
+    published: '2015-08-04T15:22:02+00:00'
+    id: 'urn:uuid:391b345f-7aad-5bca-a444-9aad82f27c70'
+    link: 'https://pub.dartlang.org/packages/async_commands'
+    author:
+        - 'Hans Van den Keybus <hans@dotdotcommadot.com>'
