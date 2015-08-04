@@ -31661,3 +31661,21 @@
     link: 'https://pub.dartlang.org/packages/sky'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: dson
+    package_version: v0.1.6
+    title: 'v0.1.6 of dson'
+    published: '2015-08-04T04:27:30+00:00'
+    id: 'urn:uuid:4d0bb601-77e0-5231-b386-7210690b45c4'
+    link: 'https://pub.dartlang.org/packages/dson'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: drails_commons
+    package_version: v0.0.5
+    title: 'v0.0.5 of drails_commons'
+    published: '2015-08-04T04:14:36+00:00'
+    id: 'urn:uuid:de3f9f79-0dac-5a59-8faa-9de91e242dad'
+    link: 'https://pub.dartlang.org/packages/drails_commons'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
