@@ -31697,3 +31697,21 @@
     link: 'https://pub.dartlang.org/packages/bwu_webdriver'
     author:
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: harvest
+    package_version: v2.0.0
+    title: 'v2.0.0 of harvest'
+    published: '2015-08-04T13:17:01+00:00'
+    id: 'urn:uuid:7f81c816-721a-5253-914c-e3389bd8488d'
+    link: 'https://pub.dartlang.org/packages/harvest'
+    author:
+        - 'Lars Tackmann <lars@solvr.io>'
+-
+    package_name: log4dart
+    package_version: v1.4.16
+    title: 'v1.4.16 of log4dart'
+    published: '2015-08-04T13:09:43+00:00'
+    id: 'urn:uuid:14346d3f-7421-5e9d-ad5e-5d1c4fd04428'
+    link: 'https://pub.dartlang.org/packages/log4dart'
+    author:
+        - 'Lars Tackmann <lars@solvr.io>'
