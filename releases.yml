@@ -31688,3 +31688,12 @@
     link: 'https://pub.dartlang.org/packages/dson'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: bwu_webdriver
+    package_version: v0.1.0
+    title: 'v0.1.0 of bwu_webdriver'
+    published: '2015-08-04T12:11:15+00:00'
+    id: 'urn:uuid:4258755c-5a39-598f-9a51-5a0890b95431'
+    link: 'https://pub.dartlang.org/packages/bwu_webdriver'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
