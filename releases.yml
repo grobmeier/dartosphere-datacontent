@@ -31742,3 +31742,12 @@
     link: 'https://pub.dartlang.org/packages/async_commands'
     author:
         - 'Hans Van den Keybus <hans@dotdotcommadot.com>'
+-
+    package_name: async_commands
+    package_version: v0.2.3
+    title: 'v0.2.3 of async_commands'
+    published: '2015-08-04T16:16:42+00:00'
+    id: 'urn:uuid:5c7df977-f55d-5b12-92a3-44f8942d5f77'
+    link: 'https://pub.dartlang.org/packages/async_commands'
+    author:
+        - 'Hans Van den Keybus <hans@dotdotcommadot.com>'
