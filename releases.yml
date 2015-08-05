@@ -31751,3 +31751,12 @@
     link: 'https://pub.dartlang.org/packages/async_commands'
     author:
         - 'Hans Van den Keybus <hans@dotdotcommadot.com>'
+-
+    package_name: gcloud
+    package_version: v0.2.0+5
+    title: 'v0.2.0+5 of gcloud'
+    published: '2015-08-05T10:08:32+00:00'
+    id: 'urn:uuid:a7dc2a67-45e3-5b25-9d3f-4956d9e6fcc6'
+    link: 'https://pub.dartlang.org/packages/gcloud'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
