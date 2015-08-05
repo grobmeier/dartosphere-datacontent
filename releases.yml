@@ -31769,3 +31769,12 @@
     link: 'https://pub.dartlang.org/packages/async_commands'
     author:
         - 'Hans Van den Keybus <hans@dotdotcommadot.com>'
+-
+    package_name: dartdoc
+    package_version: v0.4.0
+    title: 'v0.4.0 of dartdoc'
+    published: '2015-08-05T16:50:15+00:00'
+    id: 'urn:uuid:537e51aa-b755-5fc4-8212-59f000b3c3cc'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
