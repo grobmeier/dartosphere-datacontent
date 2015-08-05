@@ -31778,3 +31778,12 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: react
+    package_version: v0.7.2
+    title: 'v0.7.2 of react'
+    published: '2015-08-05T18:19:40+00:00'
+    id: 'urn:uuid:bb073d87-851b-5254-bbea-a64c4da4c351'
+    link: 'https://pub.dartlang.org/packages/react'
+    author:
+        - 'Clean Team <clean@vacuumlabs.com>'
