@@ -31805,3 +31805,12 @@
     link: 'https://pub.dartlang.org/packages/react'
     author:
         - 'Clean Team <clean@vacuumlabs.com>'
+-
+    package_name: rpc
+    package_version: v0.5.2
+    title: 'v0.5.2 of rpc'
+    published: '2015-08-06T14:10:22+00:00'
+    id: 'urn:uuid:e0d664d7-e26b-5537-a5cb-a01a620b59f9'
+    link: 'https://pub.dartlang.org/packages/rpc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
