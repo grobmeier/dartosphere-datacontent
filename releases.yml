@@ -31823,3 +31823,12 @@
     link: 'https://pub.dartlang.org/packages/coverage'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: options_file
+    package_version: v0.11.0
+    title: 'v0.11.0 of options_file'
+    published: '2015-08-06T19:59:56+00:00'
+    id: 'urn:uuid:6680a9b0-f9b8-5434-9bd3-125b3833c132'
+    link: 'https://pub.dartlang.org/packages/options_file'
+    author:
+        - 'James Ots <code@jamesots.com>'
