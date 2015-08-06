@@ -31814,3 +31814,12 @@
     link: 'https://pub.dartlang.org/packages/rpc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: coverage
+    package_version: v0.7.2
+    title: 'v0.7.2 of coverage'
+    published: '2015-08-06T19:41:45+00:00'
+    id: 'urn:uuid:56245a35-912b-51b8-96e0-0187dde8c505'
+    link: 'https://pub.dartlang.org/packages/coverage'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
