@@ -31832,3 +31832,32 @@
     link: 'https://pub.dartlang.org/packages/options_file'
     author:
         - 'James Ots <code@jamesots.com>'
+-
+    package_name: markdown
+    package_version: v0.7.2
+    title: 'v0.7.2 of markdown'
+    published: '2015-08-06T21:51:29+00:00'
+    id: 'urn:uuid:81dc1f0b-98cb-576d-87a8-d09246bb1d03'
+    link: 'https://pub.dartlang.org/packages/markdown'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: frappe
+    package_version: v0.4.0+6
+    title: 'v0.4.0+6 of frappe'
+    published: '2015-08-06T21:31:31+00:00'
+    id: 'urn:uuid:9275a786-fb39-508c-8e41-74912a2f30b6'
+    link: 'https://pub.dartlang.org/packages/frappe'
+    author:
+        - 'Dan Schultz <schultz.t.dan@gmail.com>'
+        - 'Anders Holmgren'
+        - 'Aaron Washington'
+-
+    package_name: stitch
+    package_version: v0.2.0+5
+    title: 'v0.2.0+5 of stitch'
+    published: '2015-08-06T21:14:37+00:00'
+    id: 'urn:uuid:1d4426d5-a555-5bb9-b314-94c34faf351a'
+    link: 'https://pub.dartlang.org/packages/stitch'
+    author:
+        - 'Dan Schultz <schultz.t.dan@gmail.com>'
