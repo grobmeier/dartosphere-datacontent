@@ -31796,3 +31796,12 @@
     link: 'https://pub.dartlang.org/packages/smartcanvas'
     author:
         - 'Kun Zhao <kzhdev@gmail.com>'
+-
+    package_name: react
+    package_version: v0.7.3
+    title: 'v0.7.3 of react'
+    published: '2015-08-06T10:10:31+00:00'
+    id: 'urn:uuid:1db3ff27-9351-5d38-bedb-1cbe12df8f39'
+    link: 'https://pub.dartlang.org/packages/react'
+    author:
+        - 'Clean Team <clean@vacuumlabs.com>'
