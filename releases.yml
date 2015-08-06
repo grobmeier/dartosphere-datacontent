@@ -31787,3 +31787,12 @@
     link: 'https://pub.dartlang.org/packages/react'
     author:
         - 'Clean Team <clean@vacuumlabs.com>'
+-
+    package_name: smartcanvas
+    package_version: v0.2.0+3
+    title: 'v0.2.0+3 of smartcanvas'
+    published: '2015-08-06T03:45:50+00:00'
+    id: 'urn:uuid:3e555853-f32a-5700-a1a4-c4395e07b03b'
+    link: 'https://pub.dartlang.org/packages/smartcanvas'
+    author:
+        - 'Kun Zhao <kzhdev@gmail.com>'
