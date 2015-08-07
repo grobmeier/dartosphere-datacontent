@@ -31987,3 +31987,21 @@
     link: 'https://pub.dartlang.org/packages/appengine'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: shelf_appengine
+    package_version: v0.2.3
+    title: 'v0.2.3 of shelf_appengine'
+    published: '2015-08-07T17:47:50+00:00'
+    id: 'urn:uuid:515c2219-351f-580e-b3fc-00514937fe38'
+    link: 'https://pub.dartlang.org/packages/shelf_appengine'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: docgen
+    package_version: v0.9.1
+    title: 'v0.9.1 of docgen'
+    published: '2015-08-07T17:40:37+00:00'
+    id: 'urn:uuid:1654fd78-63ff-5463-bf3d-c3bef709b5a5'
+    link: 'https://pub.dartlang.org/packages/docgen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
