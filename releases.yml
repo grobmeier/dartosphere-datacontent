@@ -32014,3 +32014,12 @@
     link: 'https://pub.dartlang.org/packages/sky_tools'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: rl_matrix
+    package_version: v0.1.0
+    title: 'v0.1.0 of rl_matrix'
+    published: '2015-08-07T21:46:20+00:00'
+    id: 'urn:uuid:00326120-425d-5948-a93c-1a28ec7208d8'
+    link: 'https://pub.dartlang.org/packages/rl_matrix'
+    author:
+        - 'R.S. Schermer <roland0507@gmail.com>'
