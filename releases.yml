@@ -32023,3 +32023,30 @@
     link: 'https://pub.dartlang.org/packages/rl_matrix'
     author:
         - 'R.S. Schermer <roland0507@gmail.com>'
+-
+    package_name: sky
+    package_version: v0.0.29
+    title: 'v0.0.29 of sky'
+    published: '2015-08-07T22:30:19+00:00'
+    id: 'urn:uuid:4a651676-06fb-5171-8973-4ceb24df84e6'
+    link: 'https://pub.dartlang.org/packages/sky'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.7
+    title: 'v0.0.7 of sky_services'
+    published: '2015-08-07T22:24:33+00:00'
+    id: 'urn:uuid:88ca4a3d-e95e-5119-bb58-8f58ea6ebaff'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.7
+    title: 'v0.0.7 of sky_engine'
+    published: '2015-08-07T22:24:31+00:00'
+    id: 'urn:uuid:059aafff-448c-5ba4-ad18-bebba2ef033a'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
