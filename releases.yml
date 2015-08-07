@@ -31969,3 +31969,12 @@
         - 'Victor Savkin <vsavkin@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: elements
+    package_version: v0.1.88
+    title: 'v0.1.88 of elements'
+    published: '2015-08-07T14:58:55+00:00'
+    id: 'urn:uuid:771ad946-86cd-53c9-a6bc-8069007740c7'
+    link: 'https://pub.dartlang.org/packages/elements'
+    author:
+        - 'Patrick Minogue <patrick.minogue@appfoundry.se>'
