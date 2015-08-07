@@ -32005,3 +32005,12 @@
     link: 'https://pub.dartlang.org/packages/docgen'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: sky_tools
+    package_version: v0.0.7
+    title: 'v0.0.7 of sky_tools'
+    published: '2015-08-07T19:59:45+00:00'
+    id: 'urn:uuid:d1b5ab73-b661-5488-94d8-60cbe7842112'
+    link: 'https://pub.dartlang.org/packages/sky_tools'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
