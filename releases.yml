@@ -32068,3 +32068,12 @@
     link: 'https://pub.dartlang.org/packages/md_proc'
     author:
         - 'Maxim Dikun <dikmax@gmail.com>'
+-
+    package_name: sky_tools
+    package_version: v0.0.8
+    title: 'v0.0.8 of sky_tools'
+    published: '2015-08-08T11:11:05+00:00'
+    id: 'urn:uuid:b4eb6b22-79b1-5dd9-a71f-7e283c7a1e59'
+    link: 'https://pub.dartlang.org/packages/sky_tools'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
