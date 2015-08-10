@@ -32140,3 +32140,12 @@
     link: 'https://pub.dartlang.org/packages/io_extra'
     author:
         - 'Jaron Tai <jaroncn@gmail.com>'
+-
+    package_name: elements
+    package_version: v0.1.90
+    title: 'v0.1.90 of elements'
+    published: '2015-08-10T09:58:11+00:00'
+    id: 'urn:uuid:5043e0f5-2416-5b55-b429-a25df0bbf38c'
+    link: 'https://pub.dartlang.org/packages/elements'
+    author:
+        - 'Patrick Minogue <patrick.minogue@appfoundry.se>'
