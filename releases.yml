@@ -32221,3 +32221,12 @@
     link: 'https://pub.dartlang.org/packages/resourcetest'
     author:
         - '<your name> <email@example.com>'
+-
+    package_name: benchmark_generator
+    package_version: v0.0.1
+    title: 'v0.0.1 of benchmark_generator'
+    published: '2015-08-10T17:14:54+00:00'
+    id: 'urn:uuid:458c3a53-7b59-51d7-adf9-36a663614833'
+    link: 'https://pub.dartlang.org/packages/benchmark_generator'
+    author:
+        - 'Yegor Jbanov <yjbanov@google.com>'
