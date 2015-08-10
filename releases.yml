@@ -32149,3 +32149,12 @@
     link: 'https://pub.dartlang.org/packages/elements'
     author:
         - 'Patrick Minogue <patrick.minogue@appfoundry.se>'
+-
+    package_name: elements
+    package_version: v0.1.91
+    title: 'v0.1.91 of elements'
+    published: '2015-08-10T09:59:44+00:00'
+    id: 'urn:uuid:481a2096-dfac-56c7-ba90-d0ad446f5803'
+    link: 'https://pub.dartlang.org/packages/elements'
+    author:
+        - 'Patrick Minogue <patrick.minogue@appfoundry.se>'
