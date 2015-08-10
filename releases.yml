@@ -32248,3 +32248,21 @@
     link: 'https://pub.dartlang.org/packages/tuneup'
     author:
         - 'Devon Carew <devoncarew@google.com>'
+-
+    package_name: scheduled_test
+    package_version: v0.12.3
+    title: 'v0.12.3 of scheduled_test'
+    published: '2015-08-10T23:09:45+00:00'
+    id: 'urn:uuid:df3b777a-9421-5431-9aec-5bbc4370daa9'
+    link: 'https://pub.dartlang.org/packages/scheduled_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: test
+    package_version: v0.12.4
+    title: 'v0.12.4 of test'
+    published: '2015-08-10T23:05:38+00:00'
+    id: 'urn:uuid:51159c34-10d4-5c07-9394-d53867454c8b'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
