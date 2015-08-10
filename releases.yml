@@ -32131,3 +32131,12 @@
     link: 'https://pub.dartlang.org/packages/io_extra'
     author:
         - 'Jaron Tai <jaroncn@gmail.com>'
+-
+    package_name: io_extra
+    package_version: v0.0.3
+    title: 'v0.0.3 of io_extra'
+    published: '2015-08-10T08:17:41+00:00'
+    id: 'urn:uuid:548bfa2e-6994-5442-a182-54167d7ae7a7'
+    link: 'https://pub.dartlang.org/packages/io_extra'
+    author:
+        - 'Jaron Tai <jaroncn@gmail.com>'
