@@ -32176,3 +32176,48 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: sky_tools
+    package_version: v0.0.8+1
+    title: 'v0.0.8+1 of sky_tools'
+    published: '2015-08-10T16:56:40+00:00'
+    id: 'urn:uuid:ef333dc0-3b85-5616-ada0-02027b28fef8'
+    link: 'https://pub.dartlang.org/packages/sky_tools'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: bwu_dart_archive_downloader
+    package_version: v0.3.0+6
+    title: 'v0.3.0+6 of bwu_dart_archive_downloader'
+    published: '2015-08-10T16:41:58+00:00'
+    id: 'urn:uuid:cc0b6b38-163f-583e-89d9-dc198010b23f'
+    link: 'https://pub.dartlang.org/packages/bwu_dart_archive_downloader'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: uri
+    package_version: v0.11.0
+    title: 'v0.11.0 of uri'
+    published: '2015-08-10T16:37:48+00:00'
+    id: 'urn:uuid:d0621783-4a4b-5662-a1e5-130df2b24d8a'
+    link: 'https://pub.dartlang.org/packages/uri'
+    author:
+        - 'Dart Authors <misc@dartlang.org>'
+-
+    package_name: ng2soyc
+    package_version: v0.0.2
+    title: 'v0.0.2 of ng2soyc'
+    published: '2015-08-10T16:15:15+00:00'
+    id: 'urn:uuid:b2151b1c-0c76-5505-a211-ece369f1e4e8'
+    link: 'https://pub.dartlang.org/packages/ng2soyc'
+    author:
+        - 'Yegor Jbanov <yjbanov@google.com>'
+-
+    package_name: resourcetest
+    package_version: v0.0.2
+    title: 'v0.0.2 of resourcetest'
+    published: '2015-08-10T16:06:55+00:00'
+    id: 'urn:uuid:b814a333-8761-507c-830a-7a13c9a8e9a7'
+    link: 'https://pub.dartlang.org/packages/resourcetest'
+    author:
+        - '<your name> <email@example.com>'
