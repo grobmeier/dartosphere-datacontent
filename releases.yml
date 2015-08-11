@@ -32311,3 +32311,12 @@
     link: 'https://pub.dartlang.org/packages/struct'
     author:
         - 'Austin Cummings <austincummings95@gmail.com>'
+-
+    package_name: io_extra
+    package_version: v0.0.3+2
+    title: 'v0.0.3+2 of io_extra'
+    published: '2015-08-11T06:30:45+00:00'
+    id: 'urn:uuid:fa20112b-f7a0-56d3-b76c-382adf6c8b34'
+    link: 'https://pub.dartlang.org/packages/io_extra'
+    author:
+        - 'Jaron Tai <jaroncn@gmail.com>'
