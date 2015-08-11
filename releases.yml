@@ -32339,3 +32339,12 @@
     author:
         - 'John Ryan <john.p.ryan4@gmail.com>'
         - 'Evan Weible <ekweible@gmail.com>'
+-
+    package_name: cairodart
+    package_version: v0.1.0
+    title: 'v0.1.0 of cairodart'
+    published: '2015-08-11T16:36:01+00:00'
+    id: 'urn:uuid:39062667-3d3c-5b42-93a1-d7d5e904e2d0'
+    link: 'https://pub.dartlang.org/packages/cairodart'
+    author:
+        - 'Alexander Dembinsky <alexander.dembinsky@gmail.com>'
