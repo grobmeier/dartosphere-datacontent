@@ -32375,3 +32375,12 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: source_gen
+    package_version: v0.4.3
+    title: 'v0.4.3 of source_gen'
+    published: '2015-08-11T19:54:28+00:00'
+    id: 'urn:uuid:2795443a-bf50-5964-804f-c7637ef2286d'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
