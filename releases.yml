@@ -32402,3 +32402,12 @@
     link: 'https://pub.dartlang.org/packages/unittest'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: colt
+    package_version: v0.1.1
+    title: 'v0.1.1 of colt'
+    published: '2015-08-11T21:18:10+00:00'
+    id: 'urn:uuid:fb3a9fab-f0ff-55c1-bb34-956de2061cbd'
+    link: 'https://pub.dartlang.org/packages/colt'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
