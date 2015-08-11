@@ -32348,3 +32348,30 @@
     link: 'https://pub.dartlang.org/packages/cairodart'
     author:
         - 'Alexander Dembinsky <alexander.dembinsky@gmail.com>'
+-
+    package_name: sky
+    package_version: v0.0.30
+    title: 'v0.0.30 of sky'
+    published: '2015-08-11T17:53:00+00:00'
+    id: 'urn:uuid:5b33dc70-dd09-5be4-b4af-c2e701458739'
+    link: 'https://pub.dartlang.org/packages/sky'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.8
+    title: 'v0.0.8 of sky_services'
+    published: '2015-08-11T17:51:03+00:00'
+    id: 'urn:uuid:3307c464-df2a-5cf6-9822-8383a3d6c525'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.8
+    title: 'v0.0.8 of sky_engine'
+    published: '2015-08-11T17:51:00+00:00'
+    id: 'urn:uuid:1329f7a5-e00d-50aa-9783-774fc9e85dea'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
