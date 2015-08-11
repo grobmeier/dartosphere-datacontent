@@ -32329,3 +32329,13 @@
     link: 'https://pub.dartlang.org/packages/httprate'
     author:
         - 'Ole Martin Gjersvik <olem@olem.org>'
+-
+    package_name: dart_codecov_generator
+    package_version: v0.4.0
+    title: 'v0.4.0 of dart_codecov_generator'
+    published: '2015-08-11T15:29:16+00:00'
+    id: 'urn:uuid:ee27f56d-3348-5753-b7a0-f66ed249e247'
+    link: 'https://pub.dartlang.org/packages/dart_codecov_generator'
+    author:
+        - 'John Ryan <john.p.ryan4@gmail.com>'
+        - 'Evan Weible <ekweible@gmail.com>'
