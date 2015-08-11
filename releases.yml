@@ -32293,3 +32293,12 @@
     link: 'https://pub.dartlang.org/packages/io_extra'
     author:
         - 'Jaron Tai <jaroncn@gmail.com>'
+-
+    package_name: sky_tools
+    package_version: v0.0.8+3
+    title: 'v0.0.8+3 of sky_tools'
+    published: '2015-08-11T02:01:29+00:00'
+    id: 'urn:uuid:01b8e62b-73c3-5d57-8593-65c6141f4d10'
+    link: 'https://pub.dartlang.org/packages/sky_tools'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
