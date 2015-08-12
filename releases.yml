@@ -32438,3 +32438,12 @@
     link: 'https://pub.dartlang.org/packages/_test_'
     author:
         - 'Devon Carew <devoncarew@google.com>'
+-
+    package_name: colt
+    package_version: v0.1.2
+    title: 'v0.1.2 of colt'
+    published: '2015-08-12T11:56:16+00:00'
+    id: 'urn:uuid:16d698da-aa2f-50d2-92d5-53a295e1e3ee'
+    link: 'https://pub.dartlang.org/packages/colt'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
