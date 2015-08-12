@@ -32447,3 +32447,12 @@
     link: 'https://pub.dartlang.org/packages/colt'
     author:
         - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: complex
+    package_version: v0.1.2
+    title: 'v0.1.2 of complex'
+    published: '2015-08-12T12:21:08+00:00'
+    id: 'urn:uuid:db9d7992-5885-5148-b434-4e5b733605c8'
+    link: 'https://pub.dartlang.org/packages/complex'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
