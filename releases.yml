@@ -32474,3 +32474,12 @@
     link: 'https://pub.dartlang.org/packages/sky_tools'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: stack_trace
+    package_version: v1.4.0
+    title: 'v1.4.0 of stack_trace'
+    published: '2015-08-12T20:41:38+00:00'
+    id: 'urn:uuid:f4d59e2f-2259-5ae5-870c-a71bdb323da7'
+    link: 'https://pub.dartlang.org/packages/stack_trace'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
