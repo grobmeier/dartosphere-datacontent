@@ -32537,3 +32537,21 @@
     link: 'https://pub.dartlang.org/packages/stack_trace'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: converters
+    package_version: v0.0.1
+    title: 'v0.0.1 of converters'
+    published: '2015-08-12T22:39:32+00:00'
+    id: 'urn:uuid:fbe656e8-daad-5516-9fa8-959ae63724aa'
+    link: 'https://pub.dartlang.org/packages/converters'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: stuff
+    package_version: v0.0.1
+    title: 'v0.0.1 of stuff'
+    published: '2015-08-12T22:24:13+00:00'
+    id: 'urn:uuid:d00fcc72-f5cb-5478-9552-5cc66aad903b'
+    link: 'https://pub.dartlang.org/packages/stuff'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
