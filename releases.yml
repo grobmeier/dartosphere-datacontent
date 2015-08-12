@@ -32456,3 +32456,12 @@
     link: 'https://pub.dartlang.org/packages/complex'
     author:
         - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: colt
+    package_version: v0.2.0
+    title: 'v0.2.0 of colt'
+    published: '2015-08-12T15:47:06+00:00'
+    id: 'urn:uuid:0618e49d-60bc-5094-b439-80579054107c'
+    link: 'https://pub.dartlang.org/packages/colt'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
