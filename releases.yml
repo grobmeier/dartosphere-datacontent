@@ -32780,3 +32780,21 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: redstone_mvc
+    package_version: v0.3.0
+    title: 'v0.3.0 of redstone_mvc'
+    published: '2015-08-13T23:33:36+00:00'
+    id: 'urn:uuid:bf5cd531-e0b7-5477-a6d1-75da6ca32f9a'
+    link: 'https://pub.dartlang.org/packages/redstone_mvc'
+    author:
+        - 'Cristian Garcia <cgarcia.e88@gmail.com>'
+-
+    package_name: redstone_mapper
+    package_version: v0.1.13
+    title: 'v0.1.13 of redstone_mapper'
+    published: '2015-03-04T02:24:13+00:00'
+    id: 'urn:uuid:63f879db-eb50-538d-a412-4c07e3707aba'
+    link: 'https://pub.dartlang.org/packages/redstone_mapper'
+    author:
+        - 'Luiz Mineo <luiz.mineo@gmail.com>'
