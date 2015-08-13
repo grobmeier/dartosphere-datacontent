@@ -32645,3 +32645,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_route'
     author:
         - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: simple_http_server
+    package_version: v0.3.1
+    title: 'v0.3.1 of simple_http_server'
+    published: '2015-08-13T06:22:35+00:00'
+    id: 'urn:uuid:120ca095-ae64-59b3-b989-d9254f82b6aa'
+    link: 'https://pub.dartlang.org/packages/simple_http_server'
+    author:
+        - 'Seth Ladd <sethladd@gmail.com>'
