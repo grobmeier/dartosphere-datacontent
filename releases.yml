@@ -32879,3 +32879,30 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: sky
+    package_version: v0.0.33
+    title: 'v0.0.33 of sky'
+    published: '2015-08-14T21:16:28+00:00'
+    id: 'urn:uuid:ec1b8d0d-5dc4-521f-8e90-bf3df028ea00'
+    link: 'https://pub.dartlang.org/packages/sky'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.11
+    title: 'v0.0.11 of sky_services'
+    published: '2015-08-14T21:11:58+00:00'
+    id: 'urn:uuid:8a1aa4e8-cec9-5b7e-af81-5de08ae6e019'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.11
+    title: 'v0.0.11 of sky_engine'
+    published: '2015-08-14T21:11:55+00:00'
+    id: 'urn:uuid:27cce5be-2c07-55e8-9157-bef316d1fe06'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
