@@ -32852,3 +32852,12 @@
     link: 'https://pub.dartlang.org/packages/inline_benchmarker'
     author:
         - 'Hans Van den Keybus <hans@dotdotcommadot.com>'
+-
+    package_name: dartiny_event_dispatcher
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of dartiny_event_dispatcher'
+    published: '2015-08-14T17:28:05+00:00'
+    id: 'urn:uuid:1b4ba9e5-b559-529c-96de-97ab8084a435'
+    link: 'https://pub.dartlang.org/packages/dartiny_event_dispatcher'
+    author:
+        - 'Roman Shamritskiy <roman@litgroup.ru>'
