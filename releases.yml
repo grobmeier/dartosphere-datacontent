@@ -32843,3 +32843,12 @@
     link: 'https://pub.dartlang.org/packages/superlu'
     author:
         - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: inline_benchmarker
+    package_version: v0.1.1
+    title: 'v0.1.1 of inline_benchmarker'
+    published: '2015-08-14T14:36:40+00:00'
+    id: 'urn:uuid:0f9015b8-4090-5ea8-bc85-77690260bba7'
+    link: 'https://pub.dartlang.org/packages/inline_benchmarker'
+    author:
+        - 'Hans Van den Keybus <hans@dotdotcommadot.com>'
