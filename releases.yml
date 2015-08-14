@@ -32825,3 +32825,12 @@
     link: 'https://pub.dartlang.org/packages/dispatched_worker'
     author:
         - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: mdl
+    package_version: v1.3.6
+    title: 'v1.3.6 of mdl'
+    published: '2015-08-14T09:12:04+00:00'
+    id: 'urn:uuid:7a098d03-1c70-585b-9a79-b43da37e6d2d'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
