@@ -32798,3 +32798,30 @@
     link: 'https://pub.dartlang.org/packages/redstone_mapper'
     author:
         - 'Luiz Mineo <luiz.mineo@gmail.com>'
+-
+    package_name: sitegen
+    package_version: v1.1.7
+    title: 'v1.1.7 of sitegen'
+    published: '2015-08-14T08:57:30+00:00'
+    id: 'urn:uuid:aa828515-5a59-5203-985f-38b515a42faa'
+    link: 'https://pub.dartlang.org/packages/sitegen'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: graphviz
+    package_version: v0.0.9
+    title: 'v0.0.9 of graphviz'
+    published: '2015-08-14T08:51:31+00:00'
+    id: 'urn:uuid:baa2cd61-79b3-54b0-b8fe-0601405a0e1a'
+    link: 'https://pub.dartlang.org/packages/graphviz'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: dispatched_worker
+    package_version: v0.0.4
+    title: 'v0.0.4 of dispatched_worker'
+    published: '2015-08-14T08:46:24+00:00'
+    id: 'urn:uuid:e8cc3769-b812-500b-a837-e8a8db05a2e8'
+    link: 'https://pub.dartlang.org/packages/dispatched_worker'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
