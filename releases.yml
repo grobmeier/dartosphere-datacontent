@@ -32834,3 +32834,12 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: superlu
+    package_version: v0.2.0
+    title: 'v0.2.0 of superlu'
+    published: '2015-08-14T13:00:46+00:00'
+    id: 'urn:uuid:14466881-e484-5889-8c30-4fec75c7cbd3'
+    link: 'https://pub.dartlang.org/packages/superlu'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
