@@ -32906,3 +32906,12 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: dart2js_info
+    package_version: v0.0.1
+    title: 'v0.0.1 of dart2js_info'
+    published: '2015-08-15T01:40:47+00:00'
+    id: 'urn:uuid:7cc6d78e-e11a-5288-b1a6-25504fe9cab3'
+    link: 'https://pub.dartlang.org/packages/dart2js_info'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
