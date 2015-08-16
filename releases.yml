@@ -32960,3 +32960,12 @@
     link: 'https://pub.dartlang.org/packages/dart_to_js_script_rewriter'
     author:
         - 'Seth Ladd <sethladd@gmail.com>'
+-
+    package_name: pneuma
+    package_version: v0.0.2
+    title: 'v0.0.2 of pneuma'
+    published: '2015-08-16T17:55:45+00:00'
+    id: 'urn:uuid:9ca21d76-6005-5e0b-bd03-bcb01b2f99b8'
+    link: 'https://pub.dartlang.org/packages/pneuma'
+    author:
+        - 'Maxim Savin <i@soulman.kz>'
