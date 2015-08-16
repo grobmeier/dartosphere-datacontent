@@ -32924,3 +32924,12 @@
     link: 'https://pub.dartlang.org/packages/react'
     author:
         - 'Clean Team <clean@vacuumlabs.com>'
+-
+    package_name: grapheen
+    package_version: v0.2.0
+    title: 'v0.2.0 of grapheen'
+    published: '2015-08-16T10:02:12+00:00'
+    id: 'urn:uuid:7d6b5722-be2c-5acc-94eb-8890ff409a17'
+    link: 'https://pub.dartlang.org/packages/grapheen'
+    author:
+        - 'Tomas Rokos <tomas.rokos@gmail.com>'
