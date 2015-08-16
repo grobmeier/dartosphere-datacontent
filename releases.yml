@@ -32969,3 +32969,12 @@
     link: 'https://pub.dartlang.org/packages/pneuma'
     author:
         - 'Maxim Savin <i@soulman.kz>'
+-
+    package_name: pneuma
+    package_version: v0.0.3
+    title: 'v0.0.3 of pneuma'
+    published: '2015-08-16T18:32:27+00:00'
+    id: 'urn:uuid:9ae77c0c-637e-51cf-b1cc-32614f97a3e1'
+    link: 'https://pub.dartlang.org/packages/pneuma'
+    author:
+        - 'Maxim Savin <i@soulman.kz>'
