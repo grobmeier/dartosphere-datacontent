@@ -32915,3 +32915,12 @@
     link: 'https://pub.dartlang.org/packages/dart2js_info'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: react
+    package_version: v0.8.0
+    title: 'v0.8.0 of react'
+    published: '2015-08-16T09:34:11+00:00'
+    id: 'urn:uuid:32abbeb7-82c9-5d59-a5ca-84d3cb3a4222'
+    link: 'https://pub.dartlang.org/packages/react'
+    author:
+        - 'Clean Team <clean@vacuumlabs.com>'
