@@ -32942,3 +32942,21 @@
     link: 'https://pub.dartlang.org/packages/fold_button'
     author:
         - 'Keiichiro Ui <keiichiro.ui@gmail.com>'
+-
+    package_name: color_palette
+    package_version: v1.3.0
+    title: 'v1.3.0 of color_palette'
+    published: '2015-08-16T13:51:11+00:00'
+    id: 'urn:uuid:e2748ccc-d10d-55f4-bfa6-efd9357e0b62'
+    link: 'https://pub.dartlang.org/packages/color_palette'
+    author:
+        - 'Keiichiro Ui <keiichiro.ui@gmail.com>'
+-
+    package_name: dart_to_js_script_rewriter
+    package_version: v0.1.0+3
+    title: 'v0.1.0+3 of dart_to_js_script_rewriter'
+    published: '2015-08-16T13:28:35+00:00'
+    id: 'urn:uuid:b136334e-23b0-56fe-91c0-e5bfc18b27c6'
+    link: 'https://pub.dartlang.org/packages/dart_to_js_script_rewriter'
+    author:
+        - 'Seth Ladd <sethladd@gmail.com>'
