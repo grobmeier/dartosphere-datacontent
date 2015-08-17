@@ -33032,3 +33032,39 @@
     link: 'https://pub.dartlang.org/packages/superlu'
     author:
         - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: css_animation
+    package_version: v0.1.8
+    title: 'v0.1.8 of css_animation'
+    published: '2015-08-17T14:46:09+00:00'
+    id: 'urn:uuid:f21248d3-06cb-5a41-a7df-02fb143081e7'
+    link: 'https://pub.dartlang.org/packages/css_animation'
+    author:
+        - 'Dan Parnham <dan@teadriven.me.uk>'
+-
+    package_name: random
+    package_version: v0.0.1-dev2
+    title: 'v0.0.1-dev2 of random'
+    published: '2015-08-17T14:28:03+00:00'
+    id: 'urn:uuid:b849b406-bc29-5139-a529-5fc50a113450'
+    link: 'https://pub.dartlang.org/packages/random'
+    author:
+        - 'Justin Fagnani <justin@fagnani.com>'
+-
+    package_name: googleapis_beta
+    package_version: v0.17.0
+    title: 'v0.17.0 of googleapis_beta'
+    published: '2015-08-17T14:10:55+00:00'
+    id: 'urn:uuid:1922c656-d3d4-5f4c-b2b2-8b329339cd3f'
+    link: 'https://pub.dartlang.org/packages/googleapis_beta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: googleapis
+    package_version: v0.14.0
+    title: 'v0.14.0 of googleapis'
+    published: '2015-08-17T14:10:47+00:00'
+    id: 'urn:uuid:aba2b766-b3d6-5b27-82a6-36fc3be41198'
+    link: 'https://pub.dartlang.org/packages/googleapis'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
