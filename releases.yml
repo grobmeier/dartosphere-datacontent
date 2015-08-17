@@ -33023,3 +33023,12 @@
     link: 'https://pub.dartlang.org/packages/random'
     author:
         - 'Justin Fagnani <justin@fagnani.com>'
+-
+    package_name: superlu
+    package_version: v0.2.1
+    title: 'v0.2.1 of superlu'
+    published: '2015-08-17T09:00:07+00:00'
+    id: 'urn:uuid:d2ae3ba7-9968-533c-bb7d-4bf601aa6f66'
+    link: 'https://pub.dartlang.org/packages/superlu'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
