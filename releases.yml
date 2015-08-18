@@ -33105,3 +33105,12 @@
     link: 'https://pub.dartlang.org/packages/md_proc'
     author:
         - 'Maxim Dikun <dikmax@gmail.com>'
+-
+    package_name: playfair
+    package_version: v0.0.3
+    title: 'v0.0.3 of playfair'
+    published: '2015-08-18T00:39:50+00:00'
+    id: 'urn:uuid:c0246fc1-b89d-5222-8e7f-f3f583014069'
+    link: 'https://pub.dartlang.org/packages/playfair'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
