@@ -33114,3 +33114,30 @@
     link: 'https://pub.dartlang.org/packages/playfair'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: ebisu_cpp
+    package_version: v0.3.4
+    title: 'v0.3.4 of ebisu_cpp'
+    published: '2015-08-18T01:37:57+00:00'
+    id: 'urn:uuid:52c7391b-b781-5bcd-8ad2-8ae7d8a3fc0c'
+    link: 'https://pub.dartlang.org/packages/ebisu_cpp'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: magus
+    package_version: v0.0.15
+    title: 'v0.0.15 of magus'
+    published: '2015-08-18T01:27:15+00:00'
+    id: 'urn:uuid:5017ca84-0565-5ce9-8706-a825590bc16b'
+    link: 'https://pub.dartlang.org/packages/magus'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: ebisu
+    package_version: v0.6.4
+    title: 'v0.6.4 of ebisu'
+    published: '2015-08-18T01:17:21+00:00'
+    id: 'urn:uuid:e6c8d82b-c435-5007-9a35-0126d3dafb58'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
