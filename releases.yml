@@ -33168,3 +33168,12 @@
     link: 'https://pub.dartlang.org/packages/route_provider'
     author:
         - 'Robert Beyer <4sternrb@googlemail.com>'
+-
+    package_name: js_bridge
+    package_version: v1.0.4
+    title: 'v1.0.4 of js_bridge'
+    published: '2015-08-18T11:51:18+00:00'
+    id: 'urn:uuid:cae961ae-21a8-5809-aff0-62a2518892ee'
+    link: 'https://pub.dartlang.org/packages/js_bridge'
+    author:
+        - 'Jim Trainor <jim.trainor@jptrainor.com>'
