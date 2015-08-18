@@ -33204,3 +33204,21 @@
     link: 'https://pub.dartlang.org/packages/svg_pan_zoom'
     author:
         - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: playfair
+    package_version: v0.0.4
+    title: 'v0.0.4 of playfair'
+    published: '2015-08-18T22:45:20+00:00'
+    id: 'urn:uuid:1df89472-da6f-57f9-a007-9b6f60f472c9'
+    link: 'https://pub.dartlang.org/packages/playfair'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: source_span
+    package_version: v1.1.3
+    title: 'v1.1.3 of source_span'
+    published: '2015-08-18T22:02:20+00:00'
+    id: 'urn:uuid:36a1276c-8b37-5363-b35f-106bd9792df2'
+    link: 'https://pub.dartlang.org/packages/source_span'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
