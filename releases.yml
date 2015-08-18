@@ -33159,3 +33159,12 @@
     link: 'https://pub.dartlang.org/packages/entity'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: route_provider
+    package_version: v0.1.13
+    title: 'v0.1.13 of route_provider'
+    published: '2015-08-18T09:18:22+00:00'
+    id: 'urn:uuid:97a4c9f2-9e8e-5df0-84f3-1960837b1c20'
+    link: 'https://pub.dartlang.org/packages/route_provider'
+    author:
+        - 'Robert Beyer <4sternrb@googlemail.com>'
