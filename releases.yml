@@ -33141,3 +33141,21 @@
     link: 'https://pub.dartlang.org/packages/ebisu'
     author:
         - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: mdl
+    package_version: v1.5.1
+    title: 'v1.5.1 of mdl'
+    published: '2015-08-18T06:20:31+00:00'
+    id: 'urn:uuid:612cc438-50e3-53f7-99ef-fdcfafcc0a4a'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: entity
+    package_version: v0.8.0
+    title: 'v0.8.0 of entity'
+    published: '2015-08-18T06:05:51+00:00'
+    id: 'urn:uuid:e024f8d6-57cd-5e48-b4fe-2e365ba0915e'
+    link: 'https://pub.dartlang.org/packages/entity'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
