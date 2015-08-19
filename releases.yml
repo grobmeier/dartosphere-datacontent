@@ -33240,3 +33240,12 @@
     link: 'https://pub.dartlang.org/packages/reflectable'
     author:
         - 'The Dart Team <dart@google.com>'
+-
+    package_name: dice
+    package_version: v1.6.1
+    title: 'v1.6.1 of dice'
+    published: '2015-08-19T12:52:13+00:00'
+    id: 'urn:uuid:28580e16-6463-5c8d-b5f6-4df8be68be10'
+    link: 'https://pub.dartlang.org/packages/dice'
+    author:
+        - 'Lars Tackmann <lars@solvr.io>'
