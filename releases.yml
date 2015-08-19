@@ -33402,3 +33402,12 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: smoke
+    package_version: v0.3.5
+    title: 'v0.3.5 of smoke'
+    published: '2015-08-19T21:20:20+00:00'
+    id: 'urn:uuid:82620e6e-0394-5444-a71d-8532420e962c'
+    link: 'https://pub.dartlang.org/packages/smoke'
+    author:
+        - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
