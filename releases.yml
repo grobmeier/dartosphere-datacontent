@@ -33411,3 +33411,12 @@
     link: 'https://pub.dartlang.org/packages/smoke'
     author:
         - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: observe
+    package_version: v0.13.1+2
+    title: 'v0.13.1+2 of observe'
+    published: '2015-08-19T22:04:25+00:00'
+    id: 'urn:uuid:f57a4bb2-88ed-57ee-b881-d9336ad40399'
+    link: 'https://pub.dartlang.org/packages/observe'
+    author:
+        - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
