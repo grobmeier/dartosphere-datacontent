@@ -33222,3 +33222,12 @@
     link: 'https://pub.dartlang.org/packages/source_span'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: mdl
+    package_version: v1.5.2
+    title: 'v1.5.2 of mdl'
+    published: '2015-08-19T09:55:50+00:00'
+    id: 'urn:uuid:0bc08b42-8cd3-5eff-ab27-c8526e31b5f2'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
