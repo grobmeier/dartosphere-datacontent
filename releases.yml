@@ -33231,3 +33231,12 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: reflectable
+    package_version: v0.1.1
+    title: 'v0.1.1 of reflectable'
+    published: '2015-08-19T10:37:41+00:00'
+    id: 'urn:uuid:ee65b7d5-773d-5eea-a237-f1d216c0d727'
+    link: 'https://pub.dartlang.org/packages/reflectable'
+    author:
+        - 'The Dart Team <dart@google.com>'
