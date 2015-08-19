@@ -33339,3 +33339,30 @@
     link: 'https://pub.dartlang.org/packages/calcs'
     author:
         - 'Chris Briscoe <cbriscoe658@yahoo.com>'
+-
+    package_name: dart2js_info
+    package_version: v0.0.2
+    title: 'v0.0.2 of dart2js_info'
+    published: '2015-08-19T19:53:53+00:00'
+    id: 'urn:uuid:9e5d0353-650e-543b-8aab-085702b76a22'
+    link: 'https://pub.dartlang.org/packages/dart2js_info'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: logging
+    package_version: v0.11.1+1
+    title: 'v0.11.1+1 of logging'
+    published: '2015-08-19T19:40:47+00:00'
+    id: 'urn:uuid:6f1f14f9-74b7-50db-ae1a-b2cfc02f4d6c'
+    link: 'https://pub.dartlang.org/packages/logging'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: test
+    package_version: v0.12.4+4
+    title: 'v0.12.4+4 of test'
+    published: '2015-08-19T19:27:50+00:00'
+    id: 'urn:uuid:2ee4f9b2-530d-5f6f-9153-18f5438a69dd'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
