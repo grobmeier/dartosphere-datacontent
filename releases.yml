@@ -33420,3 +33420,12 @@
     link: 'https://pub.dartlang.org/packages/observe'
     author:
         - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: intl
+    package_version: v0.12.4+2
+    title: 'v0.12.4+2 of intl'
+    published: '2015-08-19T23:43:51+00:00'
+    id: 'urn:uuid:a1bb2600-d0fb-5ad5-8958-884016f1d7cc'
+    link: 'https://pub.dartlang.org/packages/intl'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
