@@ -33303,3 +33303,21 @@
         - 'Victor Savkin <vsavkin@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: analyzer
+    package_version: v0.26.1
+    title: 'v0.26.1 of analyzer'
+    published: '2015-08-19T16:04:30+00:00'
+    id: 'urn:uuid:2a57aad9-661d-531c-bb52-4acac5117b0a'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: playfair
+    package_version: v0.0.5
+    title: 'v0.0.5 of playfair'
+    published: '2015-08-19T16:01:58+00:00'
+    id: 'urn:uuid:90225d44-70cb-5beb-86dc-4372ee80a426'
+    link: 'https://pub.dartlang.org/packages/playfair'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
