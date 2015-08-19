@@ -33321,3 +33321,21 @@
     link: 'https://pub.dartlang.org/packages/playfair'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: jsproxy
+    package_version: v0.0.5
+    title: 'v0.0.5 of jsproxy'
+    published: '2015-08-19T17:24:57+00:00'
+    id: 'urn:uuid:ad714adf-adcf-57a9-9ce5-dd07c36a783f'
+    link: 'https://pub.dartlang.org/packages/jsproxy'
+    author:
+        - 'Kun Zhao <kunzhao77@gmail.com>'
+-
+    package_name: calcs
+    package_version: v0.0.1
+    title: 'v0.0.1 of calcs'
+    published: '2015-08-19T17:05:11+00:00'
+    id: 'urn:uuid:7812d669-9bb7-5a3b-804d-17010c002d3c'
+    link: 'https://pub.dartlang.org/packages/calcs'
+    author:
+        - 'Chris Briscoe <cbriscoe658@yahoo.com>'
