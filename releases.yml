@@ -33510,3 +33510,12 @@
     link: 'https://pub.dartlang.org/packages/xml2json'
     author:
         - 'S. Hamblett <steve.hamblett@linux.com>'
+-
+    package_name: package_config
+    package_version: v0.1.3
+    title: 'v0.1.3 of package_config'
+    published: '2015-08-20T11:12:41+00:00'
+    id: 'urn:uuid:a713a204-b350-5547-83a5-2b838ba917fc'
+    link: 'https://pub.dartlang.org/packages/package_config'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
