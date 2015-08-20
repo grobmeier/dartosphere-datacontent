@@ -33429,3 +33429,30 @@
     link: 'https://pub.dartlang.org/packages/intl'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: jefe
+    package_version: v0.2.5
+    title: 'v0.2.5 of jefe'
+    published: '2015-08-20T03:58:37+00:00'
+    id: 'urn:uuid:f832d1f7-b20c-51da-be4d-61535a945e4b'
+    link: 'https://pub.dartlang.org/packages/jefe'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: pubspec
+    package_version: v0.0.4
+    title: 'v0.0.4 of pubspec'
+    published: '2015-08-20T03:56:24+00:00'
+    id: 'urn:uuid:1933e5b5-901d-5797-a393-2ddb78f334dc'
+    link: 'https://pub.dartlang.org/packages/pubspec'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: yamlicious
+    package_version: v0.0.3
+    title: 'v0.0.3 of yamlicious'
+    published: '2015-08-20T03:54:06+00:00'
+    id: 'urn:uuid:442dc5f8-7a07-5061-9b64-da71c842cd09'
+    link: 'https://pub.dartlang.org/packages/yamlicious'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
