@@ -33474,3 +33474,30 @@
     link: 'https://pub.dartlang.org/packages/pubspec'
     author:
         - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: atlassian_connect_shelf
+    package_version: v0.11.3
+    title: 'v0.11.3 of atlassian_connect_shelf'
+    published: '2015-08-20T06:41:59+00:00'
+    id: 'urn:uuid:6b02ee08-270e-5e40-a857-dc25b66cd6e9'
+    link: 'https://pub.dartlang.org/packages/atlassian_connect_shelf'
+    author:
+        - 'Anders Holmgren <aholmgren@atlassian.com>'
+-
+    package_name: atlassian_connect_host
+    package_version: v0.5.3
+    title: 'v0.5.3 of atlassian_connect_host'
+    published: '2015-08-20T06:41:34+00:00'
+    id: 'urn:uuid:6ca28a6b-d024-5f76-b781-59e8db382fb6'
+    link: 'https://pub.dartlang.org/packages/atlassian_connect_host'
+    author:
+        - 'Anders Holmgren <aholmgren@atlassian.com>'
+-
+    package_name: atlassian_connect_jwt
+    package_version: v0.3.4
+    title: 'v0.3.4 of atlassian_connect_jwt'
+    published: '2015-08-20T06:41:01+00:00'
+    id: 'urn:uuid:1734c2d8-7566-518e-aef8-40b26da1d928'
+    link: 'https://pub.dartlang.org/packages/atlassian_connect_jwt'
+    author:
+        - 'Anders Holmgren <aholmgren@atlassian.com>'
