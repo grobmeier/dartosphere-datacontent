@@ -33501,3 +33501,12 @@
     link: 'https://pub.dartlang.org/packages/atlassian_connect_jwt'
     author:
         - 'Anders Holmgren <aholmgren@atlassian.com>'
+-
+    package_name: xml2json
+    package_version: v2.0.8
+    title: 'v2.0.8 of xml2json'
+    published: '2015-08-20T07:31:43+00:00'
+    id: 'urn:uuid:1c83e97d-c38f-5d83-ab13-f44aa54ee365'
+    link: 'https://pub.dartlang.org/packages/xml2json'
+    author:
+        - 'S. Hamblett <steve.hamblett@linux.com>'
