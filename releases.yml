@@ -33528,3 +33528,12 @@
     link: 'https://pub.dartlang.org/packages/code_transformers'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: code_transformers
+    package_version: v0.2.9+4
+    title: 'v0.2.9+4 of code_transformers'
+    published: '2015-08-20T19:45:48+00:00'
+    id: 'urn:uuid:7819ab75-ecae-51e4-b741-ea5906f3fca5'
+    link: 'https://pub.dartlang.org/packages/code_transformers'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
