@@ -33614,3 +33614,13 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: table_sorter
+    package_version: v2.0.0
+    title: 'v2.0.0 of table_sorter'
+    published: '2015-08-21T13:26:37+00:00'
+    id: 'urn:uuid:52663dda-3963-5658-8916-494e07a6148c'
+    link: 'https://pub.dartlang.org/packages/table_sorter'
+    author:
+        - 'Bogdan Taranu <dystopian.heaven@gmail.com>'
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
