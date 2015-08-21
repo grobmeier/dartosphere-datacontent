@@ -33582,3 +33582,12 @@
     link: 'https://pub.dartlang.org/packages/sky_tools'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: handheld
+    package_version: v2.0.0
+    title: 'v2.0.0 of handheld'
+    published: '2015-08-21T06:43:47+00:00'
+    id: 'urn:uuid:a0e8833d-6aa0-54ae-9358-0f1946190681'
+    link: 'https://pub.dartlang.org/packages/handheld'
+    author:
+        - 'Lars Tackmann <lars@solvr.io>'
