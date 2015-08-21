@@ -33591,3 +33591,12 @@
     link: 'https://pub.dartlang.org/packages/handheld'
     author:
         - 'Lars Tackmann <lars@solvr.io>'
+-
+    package_name: reflectable
+    package_version: v0.1.2
+    title: 'v0.1.2 of reflectable'
+    published: '2015-08-21T07:49:02+00:00'
+    id: 'urn:uuid:eed70cd5-c3c0-5ef1-9355-671c4bc1c978'
+    link: 'https://pub.dartlang.org/packages/reflectable'
+    author:
+        - 'The Dart Team <dart@google.com>'
