@@ -33573,3 +33573,12 @@
     link: 'https://pub.dartlang.org/packages/id'
     author:
         - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: sky_tools
+    package_version: v0.0.10
+    title: 'v0.0.10 of sky_tools'
+    published: '2015-08-21T03:58:37+00:00'
+    id: 'urn:uuid:a06240c4-e5fb-5d65-896f-f0d21b183809'
+    link: 'https://pub.dartlang.org/packages/sky_tools'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
