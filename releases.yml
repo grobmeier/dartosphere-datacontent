@@ -33624,3 +33624,12 @@
     author:
         - 'Bogdan Taranu <dystopian.heaven@gmail.com>'
         - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: dom_stub
+    package_version: v0.0.3
+    title: 'v0.0.3 of dom_stub'
+    published: '2015-08-21T14:05:44+00:00'
+    id: 'urn:uuid:79c4170b-5497-5df6-82e7-3ff3af0f11d4'
+    link: 'https://pub.dartlang.org/packages/dom_stub'
+    author:
+        - 'Igor Demyanov <igor.demyanov@gmail.com>'
