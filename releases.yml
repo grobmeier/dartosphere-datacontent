@@ -33546,3 +33546,30 @@
     link: 'https://pub.dartlang.org/packages/test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: ebisu_cpp
+    package_version: v0.3.5
+    title: 'v0.3.5 of ebisu_cpp'
+    published: '2015-08-21T02:34:56+00:00'
+    id: 'urn:uuid:5d5ca73f-0b71-524c-ab4f-03d32c871f4c'
+    link: 'https://pub.dartlang.org/packages/ebisu_cpp'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: dacsslide
+    package_version: v0.0.12
+    title: 'v0.0.12 of dacsslide'
+    published: '2015-08-21T02:27:24+00:00'
+    id: 'urn:uuid:159ff8bc-5233-54d1-a6b5-5cc7c4e4bf68'
+    link: 'https://pub.dartlang.org/packages/dacsslide'
+    author:
+        - 'Valentyn Shybanov <olostan@gmail.com>'
+-
+    package_name: id
+    package_version: v1.0.11
+    title: 'v1.0.11 of id'
+    published: '2015-08-21T02:15:52+00:00'
+    id: 'urn:uuid:26151c92-48db-5435-9764-f2e43547ca26'
+    link: 'https://pub.dartlang.org/packages/id'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
