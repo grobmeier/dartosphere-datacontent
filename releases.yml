@@ -33642,3 +33642,12 @@
     link: 'https://pub.dartlang.org/packages/linter'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: crossdart
+    package_version: v0.1.3
+    title: 'v0.1.3 of crossdart'
+    published: '2015-08-21T19:57:46+00:00'
+    id: 'urn:uuid:da1e1d02-b3d0-5761-acd3-ace254ab6dc8'
+    link: 'https://pub.dartlang.org/packages/crossdart'
+    author:
+        - 'Anton Astashov <anton.astashov@gmail.com>'
