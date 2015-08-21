@@ -33633,3 +33633,12 @@
     link: 'https://pub.dartlang.org/packages/dom_stub'
     author:
         - 'Igor Demyanov <igor.demyanov@gmail.com>'
+-
+    package_name: linter
+    package_version: v0.1.2
+    title: 'v0.1.2 of linter'
+    published: '2015-08-21T17:14:04+00:00'
+    id: 'urn:uuid:2730afc0-ad4b-5218-89c1-41cdc5eb5543'
+    link: 'https://pub.dartlang.org/packages/linter'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
