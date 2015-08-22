@@ -33715,3 +33715,12 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: fuzzylogic
+    package_version: v0.1.4
+    title: 'v0.1.4 of fuzzylogic'
+    published: '2015-08-22T08:38:35+00:00'
+    id: 'urn:uuid:c3115d98-36fd-58af-8ede-257f2e510a2f'
+    link: 'https://pub.dartlang.org/packages/fuzzylogic'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
