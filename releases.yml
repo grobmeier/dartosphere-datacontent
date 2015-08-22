@@ -33706,3 +33706,12 @@
     link: 'https://pub.dartlang.org/packages/firebase_rest'
     author:
         - 'Rik Bellens <rik.bellens@appsup.be>'
+-
+    package_name: dartdoc
+    package_version: v0.6.0
+    title: 'v0.6.0 of dartdoc'
+    published: '2015-08-22T00:03:18+00:00'
+    id: 'urn:uuid:15aad42b-65cd-5fc7-acc6-4634e629cb80'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
