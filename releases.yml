@@ -33742,3 +33742,12 @@
     link: 'https://pub.dartlang.org/packages/superlu'
     author:
         - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: endpoints
+    package_version: v0.2.0
+    title: 'v0.2.0 of endpoints'
+    published: '2015-08-23T09:48:51+00:00'
+    id: 'urn:uuid:b0269c0d-78bd-520e-a5d0-c02327a464b4'
+    link: 'https://pub.dartlang.org/packages/endpoints'
+    author:
+        - 'Gerwin Sturm <scarygami@gmail.com>'
