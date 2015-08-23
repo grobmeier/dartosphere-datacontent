@@ -33724,3 +33724,12 @@
     link: 'https://pub.dartlang.org/packages/fuzzylogic'
     author:
         - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: rpi_gpio
+    package_version: v0.2.1+1
+    title: 'v0.2.1+1 of rpi_gpio'
+    published: '2015-08-23T02:31:23+00:00'
+    id: 'urn:uuid:39316827-6db7-5838-9374-2ca80bd45a1c'
+    link: 'https://pub.dartlang.org/packages/rpi_gpio'
+    author:
+        - 'Dan Rubel <danrubel@google.com>'
