@@ -33733,3 +33733,12 @@
     link: 'https://pub.dartlang.org/packages/rpi_gpio'
     author:
         - 'Dan Rubel <danrubel@google.com>'
+-
+    package_name: superlu
+    package_version: v0.2.2
+    title: 'v0.2.2 of superlu'
+    published: '2015-08-23T08:19:13+00:00'
+    id: 'urn:uuid:401fcc9c-b265-5059-ab34-3c1860d4e836'
+    link: 'https://pub.dartlang.org/packages/superlu'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
