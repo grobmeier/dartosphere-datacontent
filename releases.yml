@@ -33851,3 +33851,12 @@
     link: 'https://pub.dartlang.org/packages/md_proc'
     author:
         - 'Maxim Dikun <dikmax@gmail.com>'
+-
+    package_name: harvest
+    package_version: v2.0.4
+    title: 'v2.0.4 of harvest'
+    published: '2015-08-25T14:37:23+00:00'
+    id: 'urn:uuid:ba8d662f-bcf2-5434-bfec-50a010fe0d8b'
+    link: 'https://pub.dartlang.org/packages/harvest'
+    author:
+        - 'Lars Tackmann <lars@solvr.io>'
