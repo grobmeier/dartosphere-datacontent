@@ -33887,3 +33887,12 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: playfair
+    package_version: v0.0.6
+    title: 'v0.0.6 of playfair'
+    published: '2015-08-25T20:29:35+00:00'
+    id: 'urn:uuid:f219f86d-23f8-539a-926a-d81f12a7b1b2'
+    link: 'https://pub.dartlang.org/packages/playfair'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
