@@ -33842,3 +33842,12 @@
     link: 'https://pub.dartlang.org/packages/node_preamble'
     author:
         - 'Michael Bullington <mikebullingtn@gmail.com>'
+-
+    package_name: md_proc
+    package_version: v0.7.1
+    title: 'v0.7.1 of md_proc'
+    published: '2015-08-25T12:21:01+00:00'
+    id: 'urn:uuid:993cd93a-7b64-5658-b462-aae5b17a6e34'
+    link: 'https://pub.dartlang.org/packages/md_proc'
+    author:
+        - 'Maxim Dikun <dikmax@gmail.com>'
