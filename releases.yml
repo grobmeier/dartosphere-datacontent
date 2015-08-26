@@ -33986,3 +33986,21 @@
     link: 'https://pub.dartlang.org/packages/enum_class'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: enum_class_generator
+    package_version: v0.0.2
+    title: 'v0.0.2 of enum_class_generator'
+    published: '2015-08-26T11:24:11+00:00'
+    id: 'urn:uuid:8d11daaa-80b3-557f-942a-6a0f21a57479'
+    link: 'https://pub.dartlang.org/packages/enum_class_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: enum_class
+    package_version: v0.0.2
+    title: 'v0.0.2 of enum_class'
+    published: '2015-08-26T11:23:56+00:00'
+    id: 'urn:uuid:3251f2b4-5f29-5416-885b-3df185efd50c'
+    link: 'https://pub.dartlang.org/packages/enum_class'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
