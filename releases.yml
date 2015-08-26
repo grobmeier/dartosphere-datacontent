@@ -33950,3 +33950,12 @@
     link: 'https://pub.dartlang.org/packages/lightning'
     author:
         - 'Accorto <support@accorto.com>'
+-
+    package_name: lightning
+    package_version: v0.8.1
+    title: 'v0.8.1 of lightning'
+    published: '2015-08-26T06:55:07+00:00'
+    id: 'urn:uuid:72f05a0f-c198-564e-824f-87314a112fad'
+    link: 'https://pub.dartlang.org/packages/lightning'
+    author:
+        - 'Accorto <support@accorto.com>'
