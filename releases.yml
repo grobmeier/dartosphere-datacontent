@@ -34004,3 +34004,39 @@
     link: 'https://pub.dartlang.org/packages/enum_class'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: mojo
+    package_version: v0.0.23
+    title: 'v0.0.23 of mojo'
+    published: '2015-08-26T16:11:27+00:00'
+    id: 'urn:uuid:9f90cb58-d790-5a2c-a06e-b3db3419aad6'
+    link: 'https://pub.dartlang.org/packages/mojo'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojom
+    package_version: v0.0.23
+    title: 'v0.0.23 of mojom'
+    published: '2015-08-26T16:10:26+00:00'
+    id: 'urn:uuid:8671a7e1-4514-5fac-b0c0-6175444fb425'
+    link: 'https://pub.dartlang.org/packages/mojom'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_services
+    package_version: v0.0.23
+    title: 'v0.0.23 of mojo_services'
+    published: '2015-08-26T16:09:53+00:00'
+    id: 'urn:uuid:33c6c912-f7ef-5274-b21b-034e1a640844'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: sky
+    package_version: v0.0.37
+    title: 'v0.0.37 of sky'
+    published: '2015-08-26T16:00:39+00:00'
+    id: 'urn:uuid:4b758f5f-7f7a-50df-b51b-668573bdcc3b'
+    link: 'https://pub.dartlang.org/packages/sky'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
