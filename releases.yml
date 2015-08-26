@@ -34040,3 +34040,12 @@
     link: 'https://pub.dartlang.org/packages/sky'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: github_hook
+    package_version: v0.2.2
+    title: 'v0.2.2 of github_hook'
+    published: '2015-08-26T18:23:28+00:00'
+    id: 'urn:uuid:e03e3f3e-f775-5aec-94bd-86a1d1f4dc03'
+    link: 'https://pub.dartlang.org/packages/github_hook'
+    author:
+        - 'Kevin Moore <kevmoo@google.com>'
