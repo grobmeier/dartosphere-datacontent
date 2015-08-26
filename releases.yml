@@ -33968,3 +33968,21 @@
     link: 'https://pub.dartlang.org/packages/superlu'
     author:
         - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: enum_class_generator
+    package_version: v0.0.1
+    title: 'v0.0.1 of enum_class_generator'
+    published: '2015-08-26T10:19:41+00:00'
+    id: 'urn:uuid:7cf52445-cb16-578d-93e6-face8e465fdc'
+    link: 'https://pub.dartlang.org/packages/enum_class_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: enum_class
+    package_version: v0.0.1
+    title: 'v0.0.1 of enum_class'
+    published: '2015-08-26T10:18:42+00:00'
+    id: 'urn:uuid:eeda74f2-78e8-524f-9064-f58a4ef89fe4'
+    link: 'https://pub.dartlang.org/packages/enum_class'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
