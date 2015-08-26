@@ -33959,3 +33959,12 @@
     link: 'https://pub.dartlang.org/packages/lightning'
     author:
         - 'Accorto <support@accorto.com>'
+-
+    package_name: superlu
+    package_version: v0.2.3
+    title: 'v0.2.3 of superlu'
+    published: '2015-08-26T08:41:21+00:00'
+    id: 'urn:uuid:3e65ccab-a29f-586d-899c-04df92ab4211'
+    link: 'https://pub.dartlang.org/packages/superlu'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
