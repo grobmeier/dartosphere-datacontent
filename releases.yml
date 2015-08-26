@@ -33941,3 +33941,12 @@
     link: 'https://pub.dartlang.org/packages/skysprites'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: lightning
+    package_version: v0.8.0
+    title: 'v0.8.0 of lightning'
+    published: '2015-08-26T00:11:11+00:00'
+    id: 'urn:uuid:db557cee-6b22-51de-85d4-c89437859e44'
+    link: 'https://pub.dartlang.org/packages/lightning'
+    author:
+        - 'Accorto <support@accorto.com>'
