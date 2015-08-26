@@ -34049,3 +34049,48 @@
     link: 'https://pub.dartlang.org/packages/github_hook'
     author:
         - 'Kevin Moore <kevmoo@google.com>'
+-
+    package_name: shelf_static
+    package_version: v0.2.3+1
+    title: 'v0.2.3+1 of shelf_static'
+    published: '2015-08-26T19:42:31+00:00'
+    id: 'urn:uuid:878a74e5-bf2a-56f6-b88b-0388ae9d8d22'
+    link: 'https://pub.dartlang.org/packages/shelf_static'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: collection
+    package_version: v1.1.2
+    title: 'v1.1.2 of collection'
+    published: '2015-08-26T19:22:50+00:00'
+    id: 'urn:uuid:eeb2551a-cccc-5dc6-9673-0f92aeb2ccc3'
+    link: 'https://pub.dartlang.org/packages/collection'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: http
+    package_version: v0.11.3+1
+    title: 'v0.11.3+1 of http'
+    published: '2015-08-26T19:17:55+00:00'
+    id: 'urn:uuid:c7e0d9ba-860e-5feb-b065-4f70fd7955ad'
+    link: 'https://pub.dartlang.org/packages/http'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: shelf
+    package_version: v0.6.2+1
+    title: 'v0.6.2+1 of shelf'
+    published: '2015-08-26T19:16:57+00:00'
+    id: 'urn:uuid:e078de98-7ad3-5968-9ece-869087ca5dbd'
+    link: 'https://pub.dartlang.org/packages/shelf'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: test
+    package_version: v0.12.4+7
+    title: 'v0.12.4+7 of test'
+    published: '2015-08-26T19:13:18+00:00'
+    id: 'urn:uuid:f1949c45-7dee-5da4-b155-91d657830c98'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
