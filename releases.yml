@@ -34202,3 +34202,12 @@
     link: 'https://pub.dartlang.org/packages/route_provider'
     author:
         - 'Robert Beyer <4sternrb@googlemail.com>'
+-
+    package_name: shelf_web_socket
+    package_version: v0.0.1+4
+    title: 'v0.0.1+4 of shelf_web_socket'
+    published: '2015-08-27T19:57:44+00:00'
+    id: 'urn:uuid:9550f8dc-ebf5-587f-a5a2-06ce2e8e67e8'
+    link: 'https://pub.dartlang.org/packages/shelf_web_socket'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
