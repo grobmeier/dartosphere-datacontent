@@ -34211,3 +34211,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_web_socket'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: smartcanvas
+    package_version: v0.2.0+4
+    title: 'v0.2.0+4 of smartcanvas'
+    published: '2015-08-27T22:15:53+00:00'
+    id: 'urn:uuid:8bf10a6a-4304-5e81-bee4-e12ded8f8d47'
+    link: 'https://pub.dartlang.org/packages/smartcanvas'
+    author:
+        - 'Kun Zhao <kzhdev@gmail.com>'
