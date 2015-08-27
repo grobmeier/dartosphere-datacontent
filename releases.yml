@@ -34139,3 +34139,30 @@
     link: 'https://pub.dartlang.org/packages/md_proc'
     author:
         - 'Maxim Dikun <dikmax@gmail.com>'
+-
+    package_name: mediator
+    package_version: v0.1.0+2
+    title: 'v0.1.0+2 of mediator'
+    published: '2015-08-27T14:50:47+00:00'
+    id: 'urn:uuid:53b0e8b1-8261-5e23-970a-cc4fe67a0fb7'
+    link: 'https://pub.dartlang.org/packages/mediator'
+    author:
+        - 'Roman Shamritskiy <roman@litgroup.ru>'
+-
+    package_name: dartiny_event_dispatcher
+    package_version: v0.2.0+2
+    title: 'v0.2.0+2 of dartiny_event_dispatcher'
+    published: '2015-08-27T14:48:30+00:00'
+    id: 'urn:uuid:26846bd0-4c3f-591a-9a98-52cbd7f58385'
+    link: 'https://pub.dartlang.org/packages/dartiny_event_dispatcher'
+    author:
+        - 'Roman Shamritskiy <roman@litgroup.ru>'
+-
+    package_name: mojo_apptest
+    package_version: v0.0.23
+    title: 'v0.0.23 of mojo_apptest'
+    published: '2015-08-27T14:28:47+00:00'
+    id: 'urn:uuid:1f31d9cc-7b8f-5d2b-bfc8-cdf2e5cc6bda'
+    link: 'https://pub.dartlang.org/packages/mojo_apptest'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
