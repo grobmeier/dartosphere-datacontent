@@ -34247,3 +34247,21 @@
     link: 'https://pub.dartlang.org/packages/html'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dartdoc
+    package_version: v0.6.2
+    title: 'v0.6.2 of dartdoc'
+    published: '2015-08-28T21:11:14+00:00'
+    id: 'urn:uuid:524ae044-0dd6-563c-ba2e-16db5916eb31'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: analyzer
+    package_version: v0.26.1+2
+    title: 'v0.26.1+2 of analyzer'
+    published: '2015-08-28T21:08:22+00:00'
+    id: 'urn:uuid:47f3e3f1-702e-5d04-b2d9-dbfef25b2de3'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
