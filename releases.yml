@@ -34238,3 +34238,12 @@
     link: 'https://pub.dartlang.org/packages/http'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: html
+    package_version: v0.12.2
+    title: 'v0.12.2 of html'
+    published: '2015-08-28T20:15:52+00:00'
+    id: 'urn:uuid:15e2f2c4-8526-547d-84e9-8d02dbbce317'
+    link: 'https://pub.dartlang.org/packages/html'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
