@@ -34220,3 +34220,21 @@
     link: 'https://pub.dartlang.org/packages/smartcanvas'
     author:
         - 'Kun Zhao <kzhdev@gmail.com>'
+-
+    package_name: source_span
+    package_version: v1.1.4
+    title: 'v1.1.4 of source_span'
+    published: '2015-08-28T01:15:40+00:00'
+    id: 'urn:uuid:93fa57ed-113a-5801-bf78-6c1a3020ceab'
+    link: 'https://pub.dartlang.org/packages/source_span'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: http
+    package_version: v0.11.3+2
+    title: 'v0.11.3+2 of http'
+    published: '2015-08-28T01:10:44+00:00'
+    id: 'urn:uuid:f2f7b90b-e6d4-50f9-8b02-03d86587957a'
+    link: 'https://pub.dartlang.org/packages/http'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
