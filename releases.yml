@@ -34292,3 +34292,12 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: ebisu
+    package_version: v0.6.5
+    title: 'v0.6.5 of ebisu'
+    published: '2015-08-29T21:38:50+00:00'
+    id: 'urn:uuid:549dc30c-80c8-5171-9dc5-79727c92365f'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
