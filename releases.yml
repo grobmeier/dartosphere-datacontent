@@ -34301,3 +34301,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu'
     author:
         - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: playfair
+    package_version: v0.0.7
+    title: 'v0.0.7 of playfair'
+    published: '2015-08-29T22:52:21+00:00'
+    id: 'urn:uuid:fc4be312-19e5-577a-9462-02626459430a'
+    link: 'https://pub.dartlang.org/packages/playfair'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
