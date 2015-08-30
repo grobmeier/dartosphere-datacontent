@@ -34319,3 +34319,12 @@
     link: 'https://pub.dartlang.org/packages/harvest'
     author:
         - 'Lars Tackmann <lars@solvr.io>'
+-
+    package_name: incremental_dom
+    package_version: v0.1.0-pre1
+    title: 'v0.1.0-pre1 of incremental_dom'
+    published: '2015-08-30T20:24:13+00:00'
+    id: 'urn:uuid:af32b07f-9e6a-53b6-a346-9bbaa2254d03'
+    link: 'https://pub.dartlang.org/packages/incremental_dom'
+    author:
+        - 'Justin Fagnani <justinfagnani@google.com>'
