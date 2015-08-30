@@ -34310,3 +34310,12 @@
     link: 'https://pub.dartlang.org/packages/playfair'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: harvest
+    package_version: v2.0.8
+    title: 'v2.0.8 of harvest'
+    published: '2015-08-30T16:26:00+00:00'
+    id: 'urn:uuid:28142f3e-4bdd-5887-8884-18e281aa6d28'
+    link: 'https://pub.dartlang.org/packages/harvest'
+    author:
+        - 'Lars Tackmann <lars@solvr.io>'
