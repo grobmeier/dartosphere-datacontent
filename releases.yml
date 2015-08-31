@@ -34346,3 +34346,12 @@
     link: 'https://pub.dartlang.org/packages/incremental_dom'
     author:
         - 'Justin Fagnani <justinfagnani@google.com>'
+-
+    package_name: mdl
+    package_version: v1.5.4
+    title: 'v1.5.4 of mdl'
+    published: '2015-08-31T12:24:33+00:00'
+    id: 'urn:uuid:0d0251f7-c1d0-5202-a325-a920267365c6'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
