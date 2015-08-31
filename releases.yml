@@ -34337,3 +34337,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_route'
     author:
         - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: incremental_dom
+    package_version: v0.1.0-pre2
+    title: 'v0.1.0-pre2 of incremental_dom'
+    published: '2015-08-31T01:13:27+00:00'
+    id: 'urn:uuid:480c81f7-c382-53a1-8fda-91ebb22b9ca6'
+    link: 'https://pub.dartlang.org/packages/incremental_dom'
+    author:
+        - 'Justin Fagnani <justinfagnani@google.com>'
