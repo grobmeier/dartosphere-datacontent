@@ -34355,3 +34355,12 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: compiler_unsupported
+    package_version: v1.12.0
+    title: 'v1.12.0 of compiler_unsupported'
+    published: '2015-08-31T17:56:03+00:00'
+    id: 'urn:uuid:08c9d192-c9a2-589d-9b06-17dd3166a500'
+    link: 'https://pub.dartlang.org/packages/compiler_unsupported'
+    author:
+        - 'Dart2js Team <compiler-dev@dartlang.org>'
