@@ -34483,3 +34483,12 @@
     link: 'https://pub.dartlang.org/packages/duty'
     author:
         - 'Axel Christ <adracus@gmail.com>'
+-
+    package_name: sqljocky
+    package_version: v0.14.1
+    title: 'v0.14.1 of sqljocky'
+    published: '2015-09-01T10:01:59+00:00'
+    id: 'urn:uuid:65c3ac8c-3f95-5adb-bb73-161bab3251cf'
+    link: 'https://pub.dartlang.org/packages/sqljocky'
+    author:
+        - 'James Ots <code@jamesots.com>'
