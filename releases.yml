@@ -34454,3 +34454,12 @@
         - 'Victor Savkin <vsavkin@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: shelf
+    package_version: v0.6.3
+    title: 'v0.6.3 of shelf'
+    published: '2015-09-01T02:02:04+00:00'
+    id: 'urn:uuid:efff19a4-e392-57ed-a11a-26838b4aecbf'
+    link: 'https://pub.dartlang.org/packages/shelf'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
