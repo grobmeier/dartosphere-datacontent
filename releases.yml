@@ -34501,3 +34501,12 @@
     link: 'https://pub.dartlang.org/packages/duty'
     author:
         - 'Axel Christ <adracus@gmail.com>'
+-
+    package_name: source_span
+    package_version: v1.1.5
+    title: 'v1.1.5 of source_span'
+    published: '2015-09-01T22:46:04+00:00'
+    id: 'urn:uuid:9557fd11-e07f-501c-8a4b-ff036d57c13f'
+    link: 'https://pub.dartlang.org/packages/source_span'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
