@@ -34528,3 +34528,21 @@
     link: 'https://pub.dartlang.org/packages/string_scanner'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: sky_services
+    package_version: v0.0.17
+    title: 'v0.0.17 of sky_services'
+    published: '2015-09-02T02:59:29+00:00'
+    id: 'urn:uuid:0429b4e2-7665-5453-b0d6-8ec152bb0d92'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.17
+    title: 'v0.0.17 of sky_engine'
+    published: '2015-09-02T02:59:07+00:00'
+    id: 'urn:uuid:26ca930a-6eed-5ef8-8293-e0d3c353db9b'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
