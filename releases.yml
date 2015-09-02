@@ -34555,3 +34555,12 @@
     link: 'https://pub.dartlang.org/packages/sky'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: mdl
+    package_version: v1.5.5
+    title: 'v1.5.5 of mdl'
+    published: '2015-09-02T09:01:18+00:00'
+    id: 'urn:uuid:2e11b01c-ce7b-53dd-b751-2ef3d0f1ee28'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
