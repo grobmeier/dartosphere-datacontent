@@ -34582,3 +34582,12 @@
     link: 'https://pub.dartlang.org/packages/rpc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: postgresql2
+    package_version: v0.2.14+7
+    title: 'v0.2.14+7 of postgresql2'
+    published: '2015-09-02T14:44:16+00:00'
+    id: 'urn:uuid:9782e0b5-c96f-5169-90b1-fb76cd43c993'
+    link: 'https://pub.dartlang.org/packages/postgresql2'
+    author:
+        - 'Greg Lowe <greg@vis.net.nz>'
