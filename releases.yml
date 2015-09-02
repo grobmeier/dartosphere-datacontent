@@ -34659,3 +34659,12 @@
     link: 'https://pub.dartlang.org/packages/material_design_icons'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: stack_trace
+    package_version: v1.4.2
+    title: 'v1.4.2 of stack_trace'
+    published: '2015-09-02T22:53:56+00:00'
+    id: 'urn:uuid:9976f506-ff58-5910-bcc4-f8724ee71220'
+    link: 'https://pub.dartlang.org/packages/stack_trace'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
