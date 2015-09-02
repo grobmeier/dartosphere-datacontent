@@ -34609,3 +34609,26 @@
     link: 'https://pub.dartlang.org/packages/initialize'
     author:
         - 'Polymer.dart Authors <web@dartlang.org>'
+-
+    package_name: string_scanner
+    package_version: v0.1.4
+    title: 'v0.1.4 of string_scanner'
+    published: '2015-09-02T18:45:57+00:00'
+    id: 'urn:uuid:52c16cba-b60c-5e9f-adfb-31dfe2961468'
+    link: 'https://pub.dartlang.org/packages/string_scanner'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: w_flux
+    package_version: v1.0.0
+    title: 'v1.0.0 of w_flux'
+    published: '2015-09-02T18:08:25+00:00'
+    id: 'urn:uuid:2743db36-5070-5b6e-a15f-fe4cd6a03617'
+    link: 'https://pub.dartlang.org/packages/w_flux'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
