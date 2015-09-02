@@ -34632,3 +34632,30 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: skyx
+    package_version: v0.0.3
+    title: 'v0.0.3 of skyx'
+    published: '2015-09-02T20:49:48+00:00'
+    id: 'urn:uuid:80af73f8-4ff8-5c19-9d79-bcfdb81713a1'
+    link: 'https://pub.dartlang.org/packages/skyx'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: source_span
+    package_version: v1.2.0
+    title: 'v1.2.0 of source_span'
+    published: '2015-09-02T20:32:43+00:00'
+    id: 'urn:uuid:6c04c407-91f4-5703-863f-8f2127bf3f7a'
+    link: 'https://pub.dartlang.org/packages/source_span'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: material_design_icons
+    package_version: v0.0.3
+    title: 'v0.0.3 of material_design_icons'
+    published: '2015-09-02T20:23:59+00:00'
+    id: 'urn:uuid:7b1942dd-8d62-5e36-9621-297f5ff290c7'
+    link: 'https://pub.dartlang.org/packages/material_design_icons'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
