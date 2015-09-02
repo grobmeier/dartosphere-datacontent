@@ -34573,3 +34573,12 @@
     link: 'https://pub.dartlang.org/packages/reflectable'
     author:
         - 'The Dart Team <dart@google.com>'
+-
+    package_name: rpc
+    package_version: v0.5.3
+    title: 'v0.5.3 of rpc'
+    published: '2015-09-02T13:02:18+00:00'
+    id: 'urn:uuid:8763fe24-26ab-5155-8d43-bf0efc2d2f0c'
+    link: 'https://pub.dartlang.org/packages/rpc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
