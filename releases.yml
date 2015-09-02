@@ -34546,3 +34546,12 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: sky
+    package_version: v0.0.40
+    title: 'v0.0.40 of sky'
+    published: '2015-09-02T03:01:12+00:00'
+    id: 'urn:uuid:04f11775-8158-5d3d-876c-967ea188dbdb'
+    link: 'https://pub.dartlang.org/packages/sky'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
