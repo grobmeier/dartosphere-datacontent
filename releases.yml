@@ -34706,3 +34706,21 @@
         - 'Prasad Sunkari <prsd@google.com>'
         - 'Michael Cheng <midoringo@google.com>'
         - 'Yan Qiao <yqiao@google.com>'
+-
+    package_name: bootjack_datepicker
+    package_version: v0.5.6+2
+    title: 'v0.5.6+2 of bootjack_datepicker'
+    published: '2015-09-03T09:45:54+00:00'
+    id: 'urn:uuid:3a4ef095-02e5-5e01-887e-c392d7d27783'
+    link: 'https://pub.dartlang.org/packages/bootjack_datepicker'
+    author:
+        - 'Jimmy Shiau <jimmyshiau@potix.com>'
+-
+    package_name: source_gen
+    package_version: v0.4.4
+    title: 'v0.4.4 of source_gen'
+    published: '2015-09-03T09:40:25+00:00'
+    id: 'urn:uuid:1728edf1-2262-5ad5-bacc-2bd3f6f77022'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
