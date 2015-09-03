@@ -34668,3 +34668,21 @@
     link: 'https://pub.dartlang.org/packages/stack_trace'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dson
+    package_version: v0.1.7
+    title: 'v0.1.7 of dson'
+    published: '2015-09-03T01:42:59+00:00'
+    id: 'urn:uuid:7d105c7b-033c-5481-816b-a6952c10eb57'
+    link: 'https://pub.dartlang.org/packages/dson'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: yaml
+    package_version: v2.1.4
+    title: 'v2.1.4 of yaml'
+    published: '2015-09-03T01:02:30+00:00'
+    id: 'urn:uuid:83aa31e8-6a06-5940-80c9-5a20fa73c702'
+    link: 'https://pub.dartlang.org/packages/yaml'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
