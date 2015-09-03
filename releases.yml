@@ -34695,3 +34695,14 @@
     link: 'https://pub.dartlang.org/packages/uix'
     author:
         - 'Boris Kaul <localvoid@gmail.com>'
+-
+    package_name: charted
+    package_version: v0.2.6
+    title: 'v0.2.6 of charted'
+    published: '2015-09-03T08:03:40+00:00'
+    id: 'urn:uuid:41fe5b87-32e7-5411-895e-99ad3e619006'
+    link: 'https://pub.dartlang.org/packages/charted'
+    author:
+        - 'Prasad Sunkari <prsd@google.com>'
+        - 'Michael Cheng <midoringo@google.com>'
+        - 'Yan Qiao <yqiao@google.com>'
