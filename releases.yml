@@ -34781,3 +34781,24 @@
     link: 'https://pub.dartlang.org/packages/reflectable'
     author:
         - 'The Dart Team <dart@google.com>'
+-
+    package_name: w_service
+    package_version: v1.0.2
+    title: 'v1.0.2 of w_service'
+    published: '2015-09-04T19:49:29+00:00'
+    id: 'urn:uuid:a535e912-b31c-5dcb-bf5b-2817cc2d47b2'
+    link: 'https://pub.dartlang.org/packages/w_service'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: fixnum
+    package_version: v0.10.2
+    title: 'v0.10.2 of fixnum'
+    published: '2015-09-04T19:06:01+00:00'
+    id: 'urn:uuid:88b530ba-e498-5795-ac32-be94ebb56531'
+    link: 'https://pub.dartlang.org/packages/fixnum'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
