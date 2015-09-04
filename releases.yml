@@ -34762,3 +34762,13 @@
         - 'Prasad Sunkari <prsd@google.com>'
         - 'Michael Cheng <midoringo@google.com>'
         - 'Yan Qiao <yqiao@google.com>'
+-
+    package_name: dquery
+    package_version: v0.7.1+1
+    title: 'v0.7.1+1 of dquery'
+    published: '2015-09-04T02:27:53+00:00'
+    id: 'urn:uuid:b7c9d891-58fd-52d4-8721-3a15d6f07e77'
+    link: 'https://pub.dartlang.org/packages/dquery'
+    author:
+        - 'Simon Pai <simonpai@rikulo.org>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
