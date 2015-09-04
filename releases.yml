@@ -34772,3 +34772,12 @@
     author:
         - 'Simon Pai <simonpai@rikulo.org>'
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: reflectable
+    package_version: v0.1.4
+    title: 'v0.1.4 of reflectable'
+    published: '2015-09-04T09:13:52+00:00'
+    id: 'urn:uuid:1b6ab102-71b9-5762-b764-80aec71f5770'
+    link: 'https://pub.dartlang.org/packages/reflectable'
+    author:
+        - 'The Dart Team <dart@google.com>'
