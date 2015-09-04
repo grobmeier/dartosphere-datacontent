@@ -34811,3 +34811,12 @@
     link: 'https://pub.dartlang.org/packages/drag_handler'
     author:
         - 'Christopher Best <bestchris@gmail.com>'
+-
+    package_name: lookup_map
+    package_version: v0.0.1
+    title: 'v0.0.1 of lookup_map'
+    published: '2015-09-04T23:32:06+00:00'
+    id: 'urn:uuid:93ff856e-74ee-5f5b-9dba-17732c9c1714'
+    link: 'https://pub.dartlang.org/packages/lookup_map'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
