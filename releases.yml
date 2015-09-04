@@ -34802,3 +34802,12 @@
     link: 'https://pub.dartlang.org/packages/fixnum'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: drag_handler
+    package_version: v0.2.5
+    title: 'v0.2.5 of drag_handler'
+    published: '2015-09-04T20:21:12+00:00'
+    id: 'urn:uuid:24883d57-b009-5540-9c9d-cd222f870623'
+    link: 'https://pub.dartlang.org/packages/drag_handler'
+    author:
+        - 'Christopher Best <bestchris@gmail.com>'
