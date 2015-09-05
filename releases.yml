@@ -34820,3 +34820,12 @@
     link: 'https://pub.dartlang.org/packages/lookup_map'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: id
+    package_version: v1.0.12
+    title: 'v1.0.12 of id'
+    published: '2015-09-05T00:08:53+00:00'
+    id: 'urn:uuid:8db97f59-4ad0-5343-be9d-90d6f139c79d'
+    link: 'https://pub.dartlang.org/packages/id'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
