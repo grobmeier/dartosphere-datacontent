@@ -34865,3 +34865,12 @@
     link: 'https://pub.dartlang.org/packages/drails_commons'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: webrpg
+    package_version: v0.0.2
+    title: 'v0.0.2 of webrpg'
+    published: '2015-09-05T15:29:07+00:00'
+    id: 'urn:uuid:2c6e0dd4-beea-5f45-9c40-561d1233bf95'
+    link: 'https://pub.dartlang.org/packages/webrpg'
+    author:
+        - 'Danny Hendrix'
