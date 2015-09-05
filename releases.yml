@@ -34874,3 +34874,12 @@
     link: 'https://pub.dartlang.org/packages/webrpg'
     author:
         - 'Danny Hendrix'
+-
+    package_name: trestle
+    package_version: v0.1.0
+    title: 'v0.1.0 of trestle'
+    published: '2015-09-05T23:00:43+00:00'
+    id: 'urn:uuid:5f0d24b7-fd84-5a0f-abfa-b8fc48e8ced9'
+    link: 'https://pub.dartlang.org/packages/trestle'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
