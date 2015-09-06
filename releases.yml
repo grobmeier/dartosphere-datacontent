@@ -34883,3 +34883,24 @@
     link: 'https://pub.dartlang.org/packages/trestle'
     author:
         - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: mongo_dart
+    package_version: v0.2.1
+    title: 'v0.2.1 of mongo_dart'
+    published: '2015-09-06T10:56:46+00:00'
+    id: 'urn:uuid:b619f81e-e10e-5bdd-b052-6c90260fe126'
+    link: 'https://pub.dartlang.org/packages/mongo_dart'
+    author:
+        - 'Vadim Tsushko <vadimtsushko@gmail.com>'
+        - 'Ted Sander <ted@tedsander.com>'
+        - 'Paul Evans <pevans@sonardesign.com>'
+        - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+-
+    package_name: trestle
+    package_version: v0.1.1
+    title: 'v0.1.1 of trestle'
+    published: '2015-09-06T10:43:46+00:00'
+    id: 'urn:uuid:873eb2f4-5ac0-5f2c-81c4-8253f2eefc5e'
+    link: 'https://pub.dartlang.org/packages/trestle'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
