@@ -34925,3 +34925,12 @@
         - 'Ted Sander <ted@tedsander.com>'
         - 'Paul Evans <pevans@sonardesign.com>'
         - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+-
+    package_name: redstone_mvc
+    package_version: v0.3.0+3
+    title: 'v0.3.0+3 of redstone_mvc'
+    published: '2015-09-06T21:50:59+00:00'
+    id: 'urn:uuid:4f7cec77-db31-518f-a4df-9a54a00ff255'
+    link: 'https://pub.dartlang.org/packages/redstone_mvc'
+    author:
+        - 'Cristian Garcia <cgarcia.e88@gmail.com>'
