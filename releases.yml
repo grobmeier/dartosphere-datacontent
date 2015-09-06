@@ -34904,3 +34904,12 @@
     link: 'https://pub.dartlang.org/packages/trestle'
     author:
         - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: source_gen
+    package_version: v0.4.4+1
+    title: 'v0.4.4+1 of source_gen'
+    published: '2015-09-06T12:16:51+00:00'
+    id: 'urn:uuid:3374193a-c711-501a-8d27-2944370d1336'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
