@@ -34983,3 +34983,12 @@
     link: 'https://pub.dartlang.org/packages/stream_test_scheduler'
     author:
         - 'Michael Maier <maier1michael@gmail.com>'
+-
+    package_name: auto_mapper
+    package_version: v0.0.2+4
+    title: 'v0.0.2+4 of auto_mapper'
+    published: '2015-09-07T11:16:15+00:00'
+    id: 'urn:uuid:ce8462ae-dc9e-538b-be3a-2ec7c49ac6ce'
+    link: 'https://pub.dartlang.org/packages/auto_mapper'
+    author:
+        - 'Liquid Thinking Ltd'
