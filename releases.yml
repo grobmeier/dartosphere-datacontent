@@ -34992,3 +34992,12 @@
     link: 'https://pub.dartlang.org/packages/auto_mapper'
     author:
         - 'Liquid Thinking Ltd'
+-
+    package_name: async_commands
+    package_version: v0.2.5
+    title: 'v0.2.5 of async_commands'
+    published: '2015-09-07T13:34:13+00:00'
+    id: 'urn:uuid:9fb752c3-f12a-52fb-b5e2-4a4ac2e27d2b'
+    link: 'https://pub.dartlang.org/packages/async_commands'
+    author:
+        - 'Hans Van den Keybus <hans@dotdotcommadot.com>'
