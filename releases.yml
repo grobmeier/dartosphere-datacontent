@@ -34974,3 +34974,12 @@
     link: 'https://pub.dartlang.org/packages/stream_test_scheduler'
     author:
         - 'Michael Maier <maier1michael@gmail.com>'
+-
+    package_name: stream_test_scheduler
+    package_version: v0.2.0
+    title: 'v0.2.0 of stream_test_scheduler'
+    published: '2015-09-07T08:25:49+00:00'
+    id: 'urn:uuid:8fe3feff-d8b0-564d-a143-a67369f94289'
+    link: 'https://pub.dartlang.org/packages/stream_test_scheduler'
+    author:
+        - 'Michael Maier <maier1michael@gmail.com>'
