@@ -34946,3 +34946,13 @@
         - 'samrg472 <samrg472@gmail.com>'
         - 'TheMike <zeusintraining@gmail.com>'
         - 'Logan Gorence <loganjohngorence@gmail.com>'
+-
+    package_name: postgresql2
+    package_version: v0.3.2+1
+    title: 'v0.3.2+1 of postgresql2'
+    published: '2015-09-07T02:33:52+00:00'
+    id: 'urn:uuid:5fab11a9-3b24-56c8-9991-9369d1f47445'
+    link: 'https://pub.dartlang.org/packages/postgresql2'
+    author:
+        - 'Greg Lowe <greg@vis.net.nz>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
