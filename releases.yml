@@ -35001,3 +35001,12 @@
     link: 'https://pub.dartlang.org/packages/async_commands'
     author:
         - 'Hans Van den Keybus <hans@dotdotcommadot.com>'
+-
+    package_name: http2
+    package_version: v0.1.0
+    title: 'v0.1.0 of http2'
+    published: '2015-09-07T14:46:06+00:00'
+    id: 'urn:uuid:c9137fd8-43f8-5fe0-8a72-9bac65e7f9bb'
+    link: 'https://pub.dartlang.org/packages/http2'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
