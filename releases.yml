@@ -35010,3 +35010,12 @@
     link: 'https://pub.dartlang.org/packages/http2'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: simple_server
+    package_version: v0.1.0
+    title: 'v0.1.0 of simple_server'
+    published: '2015-09-07T17:04:18+00:00'
+    id: 'urn:uuid:8b8c7850-17e2-5573-8000-93a7c2446ea1'
+    link: 'https://pub.dartlang.org/packages/simple_server'
+    author:
+        - 'Robert Beyer <4sternrb@googlemail.com>'
