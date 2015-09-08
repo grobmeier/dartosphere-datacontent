@@ -35073,3 +35073,12 @@
     link: 'https://pub.dartlang.org/packages/faker'
     author:
         - 'Jesper Håkansson <jesper@jesperh.se>'
+-
+    package_name: dart_webcrypto
+    package_version: v0.0.1
+    title: 'v0.0.1 of dart_webcrypto'
+    published: '2015-09-08T13:54:20+00:00'
+    id: 'urn:uuid:23c5dc3c-16a2-50f4-8520-fff5eb9bbe63'
+    link: 'https://pub.dartlang.org/packages/dart_webcrypto'
+    author:
+        - 'Andreas Reiter <andreas.reiter@iaik.tugraz.at>'
