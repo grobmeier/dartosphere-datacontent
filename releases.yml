@@ -35046,3 +35046,21 @@
     link: 'https://pub.dartlang.org/packages/build_system'
     author:
         - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+-
+    package_name: d3dart
+    package_version: v0.0.1
+    title: 'v0.0.1 of d3dart'
+    published: '2015-09-08T11:14:17+00:00'
+    id: 'urn:uuid:5722e1d3-3ca5-53c7-ac95-978d884635e1'
+    link: 'https://pub.dartlang.org/packages/d3dart'
+    author:
+        - 'Adam Lofts <adam.lofts@gmail.com>'
+-
+    package_name: haystack
+    package_version: v0.4.14
+    title: 'v0.4.14 of haystack'
+    published: '2015-09-08T11:03:22+00:00'
+    id: 'urn:uuid:d1eb5463-40b1-55ff-b350-c46f0dc13a27'
+    link: 'https://pub.dartlang.org/packages/haystack'
+    author:
+        - 'Dmitriy Vasilyev <dmitry@bassg.com>'
