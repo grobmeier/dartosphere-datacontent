@@ -35100,3 +35100,12 @@
     link: 'https://pub.dartlang.org/packages/googleapis'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: slickdart
+    package_version: v0.1.3+4
+    title: 'v0.1.3+4 of slickdart'
+    published: '2015-09-08T16:22:33+00:00'
+    id: 'urn:uuid:e7672b0d-c339-55ad-9124-c703fc3e98e0'
+    link: 'https://pub.dartlang.org/packages/slickdart'
+    author:
+        - 'CJKAO <kaopeter@gmail.com>'
