@@ -35064,3 +35064,12 @@
     link: 'https://pub.dartlang.org/packages/haystack'
     author:
         - 'Dmitriy Vasilyev <dmitry@bassg.com>'
+-
+    package_name: faker
+    package_version: v0.0.2
+    title: 'v0.0.2 of faker'
+    published: '2015-09-08T12:55:03+00:00'
+    id: 'urn:uuid:6a2356fa-6978-56ba-9d9a-d19cd60ecc5b'
+    link: 'https://pub.dartlang.org/packages/faker'
+    author:
+        - 'Jesper Håkansson <jesper@jesperh.se>'
