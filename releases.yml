@@ -35082,3 +35082,21 @@
     link: 'https://pub.dartlang.org/packages/dart_webcrypto'
     author:
         - 'Andreas Reiter <andreas.reiter@iaik.tugraz.at>'
+-
+    package_name: googleapis_beta
+    package_version: v0.18.0
+    title: 'v0.18.0 of googleapis_beta'
+    published: '2015-09-08T14:57:32+00:00'
+    id: 'urn:uuid:3cf88bff-1237-52db-8d51-f26b01942fb0'
+    link: 'https://pub.dartlang.org/packages/googleapis_beta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: googleapis
+    package_version: v0.15.0
+    title: 'v0.15.0 of googleapis'
+    published: '2015-09-08T14:57:08+00:00'
+    id: 'urn:uuid:eee8c502-55ea-5df0-bad4-abb4594b7fb0'
+    link: 'https://pub.dartlang.org/packages/googleapis'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
