@@ -35037,3 +35037,12 @@
     link: 'https://pub.dartlang.org/packages/access'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: build_system
+    package_version: v0.0.3
+    title: 'v0.0.3 of build_system'
+    published: '2015-09-08T09:03:55+00:00'
+    id: 'urn:uuid:5f7f52f1-346e-5b27-9679-9ca6f6ace1cf'
+    link: 'https://pub.dartlang.org/packages/build_system'
+    author:
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
