@@ -35028,3 +35028,12 @@
     link: 'https://pub.dartlang.org/packages/simple_server'
     author:
         - 'Robert Beyer <4sternrb@googlemail.com>'
+-
+    package_name: access
+    package_version: v0.6.5
+    title: 'v0.6.5 of access'
+    published: '2015-09-08T01:48:42+00:00'
+    id: 'urn:uuid:fc7591ce-c730-5b9a-8825-34bbaf6ad9bb'
+    link: 'https://pub.dartlang.org/packages/access'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
