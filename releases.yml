@@ -35109,3 +35109,12 @@
     link: 'https://pub.dartlang.org/packages/slickdart'
     author:
         - 'CJKAO <kaopeter@gmail.com>'
+-
+    package_name: dartdoc
+    package_version: v0.6.3
+    title: 'v0.6.3 of dartdoc'
+    published: '2015-09-08T21:44:55+00:00'
+    id: 'urn:uuid:7d68fa82-3695-5c25-98c9-49d57893a7a0'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
