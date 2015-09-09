@@ -35146,3 +35146,17 @@
     link: 'https://pub.dartlang.org/packages/access'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: dart_dev
+    package_version: v1.0.1
+    title: 'v1.0.1 of dart_dev'
+    published: '2015-09-09T18:13:02+00:00'
+    id: 'urn:uuid:ae45f678-b21c-5a48-bad7-8e2dfd44d1da'
+    link: 'https://pub.dartlang.org/packages/dart_dev'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
