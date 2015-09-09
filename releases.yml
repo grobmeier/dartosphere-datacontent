@@ -35196,3 +35196,12 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: gcloud
+    package_version: v0.2.0+7
+    title: 'v0.2.0+7 of gcloud'
+    published: '2015-09-09T22:56:29+00:00'
+    id: 'urn:uuid:7424b332-7fe7-5487-96af-0fce100d46bd'
+    link: 'https://pub.dartlang.org/packages/gcloud'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
