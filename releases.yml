@@ -35118,3 +35118,12 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: yaml
+    package_version: v2.1.5
+    title: 'v2.1.5 of yaml'
+    published: '2015-09-09T00:38:37+00:00'
+    id: 'urn:uuid:0b16ba39-1f09-5fa8-9bbb-45e85640972c'
+    link: 'https://pub.dartlang.org/packages/yaml'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
