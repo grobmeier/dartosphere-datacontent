@@ -35127,3 +35127,13 @@
     link: 'https://pub.dartlang.org/packages/yaml'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: markd
+    package_version: v0.8.0
+    title: 'v0.8.0 of markd'
+    published: '2015-09-09T02:22:55+00:00'
+    id: 'urn:uuid:eb034342-c268-5485-bf5e-8247f80fe2d8'
+    link: 'https://pub.dartlang.org/packages/markd'
+    author:
+        - 'David Peek <ninjascript@gmail.com>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
