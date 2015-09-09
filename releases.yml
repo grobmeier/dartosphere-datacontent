@@ -35137,3 +35137,12 @@
     author:
         - 'David Peek <ninjascript@gmail.com>'
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: access
+    package_version: v0.6.5+1
+    title: 'v0.6.5+1 of access'
+    published: '2015-09-09T11:02:05+00:00'
+    id: 'urn:uuid:85fd6941-1e72-5256-88e6-c98ecf1a80d1'
+    link: 'https://pub.dartlang.org/packages/access'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
