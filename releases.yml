@@ -35232,3 +35232,12 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: tiles
+    package_version: v0.2.0+3
+    title: 'v0.2.0+3 of tiles'
+    published: '2015-09-10T14:30:33+00:00'
+    id: 'urn:uuid:6784e23a-6752-5b88-a4b7-1ea657bb77f2'
+    link: 'https://pub.dartlang.org/packages/tiles'
+    author:
+        - 'Jakuub Uhrik <jakuub@mail.com>'
