@@ -35313,3 +35313,12 @@
         - 'Victor Savkin <vsavkin@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: symcrypt
+    package_version: v0.0.1
+    title: 'v0.0.1 of symcrypt'
+    published: '2015-09-10T19:30:34+00:00'
+    id: 'urn:uuid:70021d30-e24d-5cfb-ba54-f97b9e45d5cc'
+    link: 'https://pub.dartlang.org/packages/symcrypt'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
