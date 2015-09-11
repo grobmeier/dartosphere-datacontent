@@ -35322,3 +35322,12 @@
     link: 'https://pub.dartlang.org/packages/symcrypt'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: duty
+    package_version: v0.2.0
+    title: 'v0.2.0 of duty'
+    published: '2015-09-11T09:12:34+00:00'
+    id: 'urn:uuid:3c3320dc-24c7-55e5-a289-82bef0e9b811'
+    link: 'https://pub.dartlang.org/packages/duty'
+    author:
+        - 'Axel Christ <adracus@gmail.com>'
