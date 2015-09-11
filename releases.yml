@@ -35340,3 +35340,12 @@
     link: 'https://pub.dartlang.org/packages/reflectable'
     author:
         - 'The Dart Team <dart@google.com>'
+-
+    package_name: susi
+    package_version: v0.1.1
+    title: 'v0.1.1 of susi'
+    published: '2015-09-11T20:39:50+00:00'
+    id: 'urn:uuid:61190579-e006-52f2-9ca6-a62dff6874ae'
+    link: 'https://pub.dartlang.org/packages/susi'
+    author:
+        - 'Tino Rusch <tino.rusch@gmail.com>'
