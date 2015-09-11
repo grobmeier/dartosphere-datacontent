@@ -35331,3 +35331,12 @@
     link: 'https://pub.dartlang.org/packages/duty'
     author:
         - 'Axel Christ <adracus@gmail.com>'
+-
+    package_name: reflectable
+    package_version: v0.1.5
+    title: 'v0.1.5 of reflectable'
+    published: '2015-09-11T11:44:44+00:00'
+    id: 'urn:uuid:172e8b68-9f11-526b-80a3-9389ba19c724'
+    link: 'https://pub.dartlang.org/packages/reflectable'
+    author:
+        - 'The Dart Team <dart@google.com>'
