@@ -35349,3 +35349,12 @@
     link: 'https://pub.dartlang.org/packages/susi'
     author:
         - 'Tino Rusch <tino.rusch@gmail.com>'
+-
+    package_name: dart2js_info
+    package_version: v0.0.3
+    title: 'v0.0.3 of dart2js_info'
+    published: '2015-09-11T23:20:54+00:00'
+    id: 'urn:uuid:339ddda3-11dd-5514-847c-30c547d507ef'
+    link: 'https://pub.dartlang.org/packages/dart2js_info'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
