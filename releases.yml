@@ -35358,3 +35358,12 @@
     link: 'https://pub.dartlang.org/packages/dart2js_info'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: quick
+    package_version: v0.0.1
+    title: 'v0.0.1 of quick'
+    published: '2015-09-12T09:54:42+00:00'
+    id: 'urn:uuid:7a0e4985-98c3-538e-bf2d-50667f8929fc'
+    link: 'https://pub.dartlang.org/packages/quick'
+    author:
+        - 'Axel Christ <adracus@gmail.com>'
