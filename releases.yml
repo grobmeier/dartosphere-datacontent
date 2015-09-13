@@ -35376,3 +35376,24 @@
     link: 'https://pub.dartlang.org/packages/overwrite'
     author:
         - 'Christopher Best <bestchris@gmail.com>'
+-
+    package_name: mongo_dart
+    package_version: v0.2.4
+    title: 'v0.2.4 of mongo_dart'
+    published: '2015-09-13T09:50:41+00:00'
+    id: 'urn:uuid:eee2f885-30f4-5022-95dd-855ccd07b82d'
+    link: 'https://pub.dartlang.org/packages/mongo_dart'
+    author:
+        - 'Vadim Tsushko <vadimtsushko@gmail.com>'
+        - 'Ted Sander <ted@tedsander.com>'
+        - 'Paul Evans <pevans@sonardesign.com>'
+        - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+-
+    package_name: mongo_dart_query
+    package_version: v0.2.1
+    title: 'v0.2.1 of mongo_dart_query'
+    published: '2015-09-13T09:46:03+00:00'
+    id: 'urn:uuid:5af587bd-e822-53e8-b2d0-9e0dd0ab4c5c'
+    link: 'https://pub.dartlang.org/packages/mongo_dart_query'
+    author:
+        - 'Vadim Tsushko <vadimtsushko@gmail.com>'
