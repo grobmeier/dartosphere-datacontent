@@ -35424,3 +35424,12 @@
     link: 'https://pub.dartlang.org/packages/colorful'
     author:
         - 'Martin Haesler <martin.haesler@gmail.com>'
+-
+    package_name: dart_flex
+    package_version: v0.9.0
+    title: 'v0.9.0 of dart_flex'
+    published: '2015-09-13T19:14:01+00:00'
+    id: 'urn:uuid:d7c0aad3-69e0-5a04-b624-c9cb088ffb88'
+    link: 'https://pub.dartlang.org/packages/dart_flex'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
