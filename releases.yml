@@ -35415,3 +35415,12 @@
     link: 'https://pub.dartlang.org/packages/colorful'
     author:
         - 'Your Name <martin.haesler@gmail.com>'
+-
+    package_name: colorful
+    package_version: v1.0.2
+    title: 'v1.0.2 of colorful'
+    published: '2015-09-13T17:20:16+00:00'
+    id: 'urn:uuid:4312f1fe-4ec3-5666-9e8e-36188dff2c59'
+    link: 'https://pub.dartlang.org/packages/colorful'
+    author:
+        - 'Martin Haesler <martin.haesler@gmail.com>'
