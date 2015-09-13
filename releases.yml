@@ -35397,3 +35397,12 @@
     link: 'https://pub.dartlang.org/packages/mongo_dart_query'
     author:
         - 'Vadim Tsushko <vadimtsushko@gmail.com>'
+-
+    package_name: jsonx
+    package_version: v2.0.1
+    title: 'v2.0.1 of jsonx'
+    published: '2015-09-13T14:51:25+00:00'
+    id: 'urn:uuid:b7db15ba-6e8f-512f-913f-a26eec074fd5'
+    link: 'https://pub.dartlang.org/packages/jsonx'
+    author:
+        - 'Man Hoang <jolleekin@outlook.com>'
