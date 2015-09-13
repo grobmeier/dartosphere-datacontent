@@ -35367,3 +35367,12 @@
     link: 'https://pub.dartlang.org/packages/quick'
     author:
         - 'Axel Christ <adracus@gmail.com>'
+-
+    package_name: overwrite
+    package_version: v0.2.8
+    title: 'v0.2.8 of overwrite'
+    published: '2015-09-13T02:44:11+00:00'
+    id: 'urn:uuid:902f9b45-d5ab-565a-a755-af77f958b6fb'
+    link: 'https://pub.dartlang.org/packages/overwrite'
+    author:
+        - 'Christopher Best <bestchris@gmail.com>'
