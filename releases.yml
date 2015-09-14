@@ -35496,3 +35496,12 @@
     link: 'https://pub.dartlang.org/packages/colorful'
     author:
         - 'Martin Haesler <martin.haesler@gmail.com>'
+-
+    package_name: symcrypt
+    package_version: v0.0.2
+    title: 'v0.0.2 of symcrypt'
+    published: '2015-09-14T17:50:43+00:00'
+    id: 'urn:uuid:9617fbc8-5266-5e53-89d3-4017dd59e411'
+    link: 'https://pub.dartlang.org/packages/symcrypt'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
