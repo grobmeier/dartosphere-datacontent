@@ -35514,3 +35514,21 @@
     link: 'https://pub.dartlang.org/packages/oauth2'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: markdown
+    package_version: v0.8.0
+    title: 'v0.8.0 of markdown'
+    published: '2015-09-14T21:24:16+00:00'
+    id: 'urn:uuid:15607437-e6aa-5f34-9f90-68b7da9c89a6'
+    link: 'https://pub.dartlang.org/packages/markdown'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: consume_transformer
+    package_version: v0.0.1
+    title: 'v0.0.1 of consume_transformer'
+    published: '2015-09-14T21:14:46+00:00'
+    id: 'urn:uuid:a0d55afe-0f37-519b-8db5-962470ad05a7'
+    link: 'https://pub.dartlang.org/packages/consume_transformer'
+    author:
+        - 'Oliver Sand <oliver.sand@tentaclelabs.com>'
