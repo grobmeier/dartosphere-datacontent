@@ -35433,3 +35433,12 @@
     link: 'https://pub.dartlang.org/packages/dart_flex'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: mockito
+    package_version: v0.11.0
+    title: 'v0.11.0 of mockito'
+    published: '2015-09-14T03:59:58+00:00'
+    id: 'urn:uuid:9336671f-83dc-5152-aa02-a3106a72798b'
+    link: 'https://pub.dartlang.org/packages/mockito'
+    author:
+        - 'Dmitriy Fibulwinter <fibulwinter@gmail.com>'
