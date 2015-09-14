@@ -35487,3 +35487,12 @@
     link: 'https://pub.dartlang.org/packages/haystack'
     author:
         - 'Dmitriy Vasilyev <dmitry@bassg.com>'
+-
+    package_name: colorful
+    package_version: v1.0.3
+    title: 'v1.0.3 of colorful'
+    published: '2015-09-14T15:16:22+00:00'
+    id: 'urn:uuid:683e9ced-c43c-58de-aa2f-4c53161173c4'
+    link: 'https://pub.dartlang.org/packages/colorful'
+    author:
+        - 'Martin Haesler <martin.haesler@gmail.com>'
