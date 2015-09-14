@@ -35442,3 +35442,12 @@
     link: 'https://pub.dartlang.org/packages/mockito'
     author:
         - 'Dmitriy Fibulwinter <fibulwinter@gmail.com>'
+-
+    package_name: smartcanvas
+    package_version: v0.2.0+5
+    title: 'v0.2.0+5 of smartcanvas'
+    published: '2015-09-14T05:31:21+00:00'
+    id: 'urn:uuid:38f7495e-b506-5d2b-ae2e-3e829785132a'
+    link: 'https://pub.dartlang.org/packages/smartcanvas'
+    author:
+        - 'Kun Zhao <kzhdev@gmail.com>'
