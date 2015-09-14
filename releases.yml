@@ -35478,3 +35478,12 @@
     link: 'https://pub.dartlang.org/packages/googleapis'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: haystack
+    package_version: v0.4.15
+    title: 'v0.4.15 of haystack'
+    published: '2015-09-14T14:31:34+00:00'
+    id: 'urn:uuid:f2ff297c-b7c4-5c64-b9d2-b415986fe12e'
+    link: 'https://pub.dartlang.org/packages/haystack'
+    author:
+        - 'Dmitriy Vasilyev <dmitry@bassg.com>'
