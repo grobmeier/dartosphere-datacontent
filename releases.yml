@@ -35505,3 +35505,12 @@
     link: 'https://pub.dartlang.org/packages/symcrypt'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: oauth2
+    package_version: v1.0.0
+    title: 'v1.0.0 of oauth2'
+    published: '2015-09-14T19:57:54+00:00'
+    id: 'urn:uuid:f70ecef8-51fc-582c-9f99-d0b7fdc9575e'
+    link: 'https://pub.dartlang.org/packages/oauth2'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
