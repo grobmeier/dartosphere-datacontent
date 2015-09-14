@@ -35451,3 +35451,12 @@
     link: 'https://pub.dartlang.org/packages/smartcanvas'
     author:
         - 'Kun Zhao <kzhdev@gmail.com>'
+-
+    package_name: access
+    package_version: v0.6.6
+    title: 'v0.6.6 of access'
+    published: '2015-09-14T06:58:06+00:00'
+    id: 'urn:uuid:91cef54e-9633-5e57-8d37-9f9c01b4dca5'
+    link: 'https://pub.dartlang.org/packages/access'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
