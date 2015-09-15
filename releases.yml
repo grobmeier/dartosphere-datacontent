@@ -35532,3 +35532,12 @@
     link: 'https://pub.dartlang.org/packages/consume_transformer'
     author:
         - 'Oliver Sand <oliver.sand@tentaclelabs.com>'
+-
+    package_name: json_rpc_2
+    package_version: v1.2.0
+    title: 'v1.2.0 of json_rpc_2'
+    published: '2015-09-15T00:32:49+00:00'
+    id: 'urn:uuid:2def35b9-8aa9-5c3d-a1b7-aaf0cbeee6b8'
+    link: 'https://pub.dartlang.org/packages/json_rpc_2'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
