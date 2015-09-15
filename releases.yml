@@ -35562,3 +35562,12 @@
         - 'Kenneth Endfinger <kaendfinger@gmail.com>'
         - 'Austin Cummings <austincummings95@gmail.com>'
         - 'Cristian Garcia <cgarcia.e88@gmail.com>'
+-
+    package_name: compiler_unsupported
+    package_version: v1.12.1
+    title: 'v1.12.1 of compiler_unsupported'
+    published: '2015-09-15T05:36:25+00:00'
+    id: 'urn:uuid:c38f2e7c-21f8-570b-a58e-df4fbc198b02'
+    link: 'https://pub.dartlang.org/packages/compiler_unsupported'
+    author:
+        - 'Dart2js Team <compiler-dev@dartlang.org>'
