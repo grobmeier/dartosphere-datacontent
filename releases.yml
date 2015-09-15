@@ -35571,3 +35571,12 @@
     link: 'https://pub.dartlang.org/packages/compiler_unsupported'
     author:
         - 'Dart2js Team <compiler-dev@dartlang.org>'
+-
+    package_name: serial_port
+    package_version: v0.3.1
+    title: 'v0.3.1 of serial_port'
+    published: '2015-09-15T11:12:00+00:00'
+    id: 'urn:uuid:b59a5601-9c0b-5ee8-b5fc-3ebd1891e330'
+    link: 'https://pub.dartlang.org/packages/serial_port'
+    author:
+        - 'Nicolas Francois  <nicolas.franc@gmail.com>'
