@@ -35643,3 +35643,12 @@
     link: 'https://pub.dartlang.org/packages/crypto'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dict
+    package_version: v1.0.0
+    title: 'v1.0.0 of dict'
+    published: '2015-09-16T20:35:39+00:00'
+    id: 'urn:uuid:da2536f4-f11e-5bb3-9911-a9afda6efe9f'
+    link: 'https://pub.dartlang.org/packages/dict'
+    author:
+        - 'Gil Mendes <gilmendes@designture.net>'
