@@ -35634,3 +35634,12 @@
     link: 'https://pub.dartlang.org/packages/stream'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: crypto
+    package_version: v0.9.1
+    title: 'v0.9.1 of crypto'
+    published: '2015-09-16T16:08:49+00:00'
+    id: 'urn:uuid:fcf569e5-b989-5349-988e-8bf47580e56b'
+    link: 'https://pub.dartlang.org/packages/crypto'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
