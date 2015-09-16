@@ -35652,3 +35652,12 @@
     link: 'https://pub.dartlang.org/packages/dict'
     author:
         - 'Gil Mendes <gilmendes@designture.net>'
+-
+    package_name: sky_tools
+    package_version: v0.0.11
+    title: 'v0.0.11 of sky_tools'
+    published: '2015-09-16T23:49:01+00:00'
+    id: 'urn:uuid:2fde93fb-2f7b-5b83-a0ae-0f34cb608f9d'
+    link: 'https://pub.dartlang.org/packages/sky_tools'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
