@@ -35744,3 +35744,21 @@
     link: 'https://pub.dartlang.org/packages/collection'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: source_gen
+    package_version: v0.4.5
+    title: 'v0.4.5 of source_gen'
+    published: '2015-09-17T21:12:04+00:00'
+    id: 'urn:uuid:5ee96985-d536-5053-972f-80d86a031353'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dart_flex
+    package_version: v0.9.1
+    title: 'v0.9.1 of dart_flex'
+    published: '2015-09-17T21:06:41+00:00'
+    id: 'urn:uuid:6bf87ad8-cd2a-580b-a720-7eb1e38c05aa'
+    link: 'https://pub.dartlang.org/packages/dart_flex'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
