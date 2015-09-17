@@ -35688,3 +35688,14 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: chrome
+    package_version: v0.8.0
+    title: 'v0.8.0 of chrome'
+    published: '2015-09-17T01:09:52+00:00'
+    id: 'urn:uuid:8ceeb535-c73f-5c71-af57-3607f64bb9f7'
+    link: 'https://pub.dartlang.org/packages/chrome'
+    author:
+        - 'Devon Carew <devoncarew@gmail.com>'
+        - 'Adam Singer <financeCoding@gmail.com>'
+        - 'Kevin Moore <kevin@thinkpixellab.com>'
