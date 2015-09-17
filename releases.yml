@@ -35699,3 +35699,30 @@
         - 'Devon Carew <devoncarew@gmail.com>'
         - 'Adam Singer <financeCoding@gmail.com>'
         - 'Kevin Moore <kevin@thinkpixellab.com>'
+-
+    package_name: reed_solomon
+    package_version: v0.0.1
+    title: 'v0.0.1 of reed_solomon'
+    published: '2015-09-17T15:55:22+00:00'
+    id: 'urn:uuid:f15f3f8c-0b4a-508a-8930-b7a045161c78'
+    link: 'https://pub.dartlang.org/packages/reed_solomon'
+    author:
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: galois_field
+    package_version: v0.0.1
+    title: 'v0.0.1 of galois_field'
+    published: '2015-09-17T15:54:21+00:00'
+    id: 'urn:uuid:36a47b1e-05ca-540c-8a0a-dc0d1f9598a3'
+    link: 'https://pub.dartlang.org/packages/galois_field'
+    author:
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: reflectable
+    package_version: v0.2.0
+    title: 'v0.2.0 of reflectable'
+    published: '2015-09-17T15:14:34+00:00'
+    id: 'urn:uuid:f329faa9-6565-5d48-8507-865c6e5fdd01'
+    link: 'https://pub.dartlang.org/packages/reflectable'
+    author:
+        - 'The Dart Team <dart@google.com>'
