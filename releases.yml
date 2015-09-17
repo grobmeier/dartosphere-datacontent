@@ -35762,3 +35762,12 @@
     link: 'https://pub.dartlang.org/packages/dart_flex'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: sky_tools
+    package_version: v0.0.12
+    title: 'v0.0.12 of sky_tools'
+    published: '2015-09-17T22:26:40+00:00'
+    id: 'urn:uuid:452ba839-01a7-52e0-9d1b-849463b94c09'
+    link: 'https://pub.dartlang.org/packages/sky_tools'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
