@@ -35726,3 +35726,12 @@
     link: 'https://pub.dartlang.org/packages/reflectable'
     author:
         - 'The Dart Team <dart@google.com>'
+-
+    package_name: pusher
+    package_version: v0.1.0
+    title: 'v0.1.0 of pusher'
+    published: '2015-09-17T16:40:54+00:00'
+    id: 'urn:uuid:119f1244-a1e5-5298-9263-acfbfbedba33'
+    link: 'https://pub.dartlang.org/packages/pusher'
+    author:
+        - 'Adao Junior <itsjunnior@gmail.com>'
