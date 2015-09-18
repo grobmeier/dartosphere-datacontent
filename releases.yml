@@ -35825,3 +35825,21 @@
     link: 'https://pub.dartlang.org/packages/polymer_autonotify'
     author:
         - 'Vittorio Ballestra (Drafintech s.r.l.) <vittorio.ballestra@gmail.com>'
+-
+    package_name: sqlite3_driver
+    package_version: v0.0.1
+    title: 'v0.0.1 of sqlite3_driver'
+    published: '2015-09-18T18:54:34+00:00'
+    id: 'urn:uuid:dd98a3ec-d9e7-5c35-a407-db7c927fd7e2'
+    link: 'https://pub.dartlang.org/packages/sqlite3_driver'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: sqlite3_bindings
+    package_version: v0.0.5
+    title: 'v0.0.5 of sqlite3_bindings'
+    published: '2015-09-18T18:52:18+00:00'
+    id: 'urn:uuid:32844f7b-8762-5f55-a233-521a12b4cc83'
+    link: 'https://pub.dartlang.org/packages/sqlite3_bindings'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
