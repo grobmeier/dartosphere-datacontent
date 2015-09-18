@@ -35816,3 +35816,12 @@
     link: 'https://pub.dartlang.org/packages/stream'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: polymer_autonotify
+    package_version: v0.0.1
+    title: 'v0.0.1 of polymer_autonotify'
+    published: '2015-09-18T17:45:30+00:00'
+    id: 'urn:uuid:8a18e5cc-f8ce-503f-911f-a49e9ca682bf'
+    link: 'https://pub.dartlang.org/packages/polymer_autonotify'
+    author:
+        - 'Vittorio Ballestra (Drafintech s.r.l.) <vittorio.ballestra@gmail.com>'
