@@ -35789,3 +35789,30 @@
     link: 'https://pub.dartlang.org/packages/barback'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: playfair
+    package_version: v0.0.8
+    title: 'v0.0.8 of playfair'
+    published: '2015-09-18T16:56:59+00:00'
+    id: 'urn:uuid:0644918c-75ec-5860-8fdd-7166c8247967'
+    link: 'https://pub.dartlang.org/packages/playfair'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: dartdoc
+    package_version: v0.6.4
+    title: 'v0.6.4 of dartdoc'
+    published: '2015-09-18T16:25:38+00:00'
+    id: 'urn:uuid:46435f13-bbca-52dd-968b-8f8577a26a12'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: stream
+    package_version: v1.5.2+1
+    title: 'v1.5.2+1 of stream'
+    published: '2015-09-18T16:06:46+00:00'
+    id: 'urn:uuid:ad87a593-cac6-5dbc-b755-b1fdfa7da4ec'
+    link: 'https://pub.dartlang.org/packages/stream'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
