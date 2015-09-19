@@ -35924,3 +35924,12 @@
     link: 'https://pub.dartlang.org/packages/sqlite3_driver'
     author:
         - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: eventus
+    package_version: v1.0.0
+    title: 'v1.0.0 of eventus'
+    published: '2015-09-19T15:33:24+00:00'
+    id: 'urn:uuid:4c753d4d-5fd6-5626-b24f-7a127369d54b'
+    link: 'https://pub.dartlang.org/packages/eventus'
+    author:
+        - 'Gil Mendes <gilmendes@designture.net>'
