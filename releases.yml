@@ -35933,3 +35933,12 @@
     link: 'https://pub.dartlang.org/packages/eventus'
     author:
         - 'Gil Mendes <gilmendes@designture.net>'
+-
+    package_name: flutter
+    package_version: v0.0.1
+    title: 'v0.0.1 of flutter'
+    published: '2015-09-19T17:58:43+00:00'
+    id: 'urn:uuid:e61f1b99-55b0-5738-88f9-3f1c8c09edd5'
+    link: 'https://pub.dartlang.org/packages/flutter'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
