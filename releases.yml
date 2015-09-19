@@ -35915,3 +35915,12 @@
     link: 'https://pub.dartlang.org/packages/galois_field'
     author:
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: sqlite3_driver
+    package_version: v0.0.3
+    title: 'v0.0.3 of sqlite3_driver'
+    published: '2015-09-19T08:28:12+00:00'
+    id: 'urn:uuid:e2b5768a-5da2-51cd-b92f-cb98276a68bb'
+    link: 'https://pub.dartlang.org/packages/sqlite3_driver'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
