@@ -35888,3 +35888,30 @@
     link: 'https://pub.dartlang.org/packages/sqlite3_bindings'
     author:
         - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: tuple
+    package_version: v0.1.1
+    title: 'v0.1.1 of tuple'
+    published: '2015-09-19T07:43:13+00:00'
+    id: 'urn:uuid:b29ab54d-fdf6-57ea-b14a-2da2ecf99229'
+    link: 'https://pub.dartlang.org/packages/tuple'
+    author:
+        - 'Boris Kaul <localvoid@gmail.com>'
+-
+    package_name: reed_solomon
+    package_version: v0.0.2
+    title: 'v0.0.2 of reed_solomon'
+    published: '2015-09-19T07:02:08+00:00'
+    id: 'urn:uuid:2e10e3ad-862e-5120-b0bf-8cc176ab48b9'
+    link: 'https://pub.dartlang.org/packages/reed_solomon'
+    author:
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: galois_field
+    package_version: v0.0.3
+    title: 'v0.0.3 of galois_field'
+    published: '2015-09-19T07:01:22+00:00'
+    id: 'urn:uuid:e3f3efd3-70d9-561e-9690-5a6b9aafa7cb'
+    link: 'https://pub.dartlang.org/packages/galois_field'
+    author:
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
