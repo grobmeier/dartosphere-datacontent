@@ -35942,3 +35942,12 @@
     link: 'https://pub.dartlang.org/packages/flutter'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: trestle
+    package_version: v0.2.0
+    title: 'v0.2.0 of trestle'
+    published: '2015-09-20T00:49:32+00:00'
+    id: 'urn:uuid:b3eb93e0-df61-5935-a97d-e1e79b916079'
+    link: 'https://pub.dartlang.org/packages/trestle'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
