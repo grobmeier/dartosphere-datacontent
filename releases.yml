@@ -35969,3 +35969,21 @@
     link: 'https://pub.dartlang.org/packages/warehouse'
     author:
         - 'Rasmus Eneman <rasmus@eneamn.eu>'
+-
+    package_name: dhttpd
+    package_version: v0.3.1
+    title: 'v0.3.1 of dhttpd'
+    published: '2015-09-20T15:58:36+00:00'
+    id: 'urn:uuid:b6106fe0-3a06-57f9-bc99-39c4bf0dac89'
+    link: 'https://pub.dartlang.org/packages/dhttpd'
+    author:
+        - 'Seth Ladd <sethladd@gmail.com>'
+-
+    package_name: sqlite3_bindings
+    package_version: v0.0.7
+    title: 'v0.0.7 of sqlite3_bindings'
+    published: '2015-09-20T15:27:51+00:00'
+    id: 'urn:uuid:b0457219-dbbc-52f3-abcf-b7693f335c5c'
+    link: 'https://pub.dartlang.org/packages/sqlite3_bindings'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
