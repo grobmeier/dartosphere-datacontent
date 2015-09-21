@@ -36033,3 +36033,21 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: galois_field
+    package_version: v0.0.6
+    title: 'v0.0.6 of galois_field'
+    published: '2015-09-21T13:48:57+00:00'
+    id: 'urn:uuid:a5e5a36e-0c20-5d3c-be80-3474b8ede979'
+    link: 'https://pub.dartlang.org/packages/galois_field'
+    author:
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: reed_solomon
+    package_version: v0.0.6
+    title: 'v0.0.6 of reed_solomon'
+    published: '2015-09-21T13:48:44+00:00'
+    id: 'urn:uuid:63be6d05-ed45-5053-851a-2c5616edab10'
+    link: 'https://pub.dartlang.org/packages/reed_solomon'
+    author:
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
