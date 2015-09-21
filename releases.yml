@@ -35997,3 +35997,30 @@
     author:
         - 'Boris Kaul <localvoid@gmail.com>'
         - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: polymer_autonotify
+    package_version: v0.0.2
+    title: 'v0.0.2 of polymer_autonotify'
+    published: '2015-09-21T07:35:54+00:00'
+    id: 'urn:uuid:b4f8eb55-be86-55dc-bece-d6bdde43112d'
+    link: 'https://pub.dartlang.org/packages/polymer_autonotify'
+    author:
+        - 'Vittorio Ballestra (Drafintech s.r.l.) <vittorio.ballestra@gmail.com>'
+-
+    package_name: sembast
+    package_version: v1.0.0
+    title: 'v1.0.0 of sembast'
+    published: '2015-09-21T07:04:08+00:00'
+    id: 'urn:uuid:ae69ee3d-0295-5afc-b4e0-af3985f3a6dd'
+    link: 'https://pub.dartlang.org/packages/sembast'
+    author:
+        - 'Alexandre Roux Tekartik <alex.tekartik.pub@gmail.com>'
+-
+    package_name: idb_shim
+    package_version: v1.0.0
+    title: 'v1.0.0 of idb_shim'
+    published: '2015-09-21T07:03:39+00:00'
+    id: 'urn:uuid:e2e3e29a-e1ad-5a23-aea7-48783e5a37f9'
+    link: 'https://pub.dartlang.org/packages/idb_shim'
+    author:
+        - 'Alexandre Roux Tekartik <alex.tekartik.pub@gmail.com>'
