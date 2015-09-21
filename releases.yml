@@ -36051,3 +36051,30 @@
     link: 'https://pub.dartlang.org/packages/reed_solomon'
     author:
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: reed_solomon
+    package_version: v0.0.7
+    title: 'v0.0.7 of reed_solomon'
+    published: '2015-09-21T14:44:28+00:00'
+    id: 'urn:uuid:164a667f-9280-5953-99ac-96293e068774'
+    link: 'https://pub.dartlang.org/packages/reed_solomon'
+    author:
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: galois_field
+    package_version: v0.0.7
+    title: 'v0.0.7 of galois_field'
+    published: '2015-09-21T14:43:15+00:00'
+    id: 'urn:uuid:f6837323-4570-5659-a005-d4a8f9954708'
+    link: 'https://pub.dartlang.org/packages/galois_field'
+    author:
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: gcloud
+    package_version: v0.2.0+8
+    title: 'v0.2.0+8 of gcloud'
+    published: '2015-09-21T14:20:01+00:00'
+    id: 'urn:uuid:7b151874-23ec-5837-88db-3987b6d35e09'
+    link: 'https://pub.dartlang.org/packages/gcloud'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
