@@ -35987,3 +35987,13 @@
     link: 'https://pub.dartlang.org/packages/sqlite3_bindings'
     author:
         - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: tuple
+    package_version: v0.2.0
+    title: 'v0.2.0 of tuple'
+    published: '2015-09-21T01:56:44+00:00'
+    id: 'urn:uuid:dd1c9a52-dbe8-583c-8b36-30f88b9f2813'
+    link: 'https://pub.dartlang.org/packages/tuple'
+    author:
+        - 'Boris Kaul <localvoid@gmail.com>'
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
