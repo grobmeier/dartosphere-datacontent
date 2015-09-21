@@ -36024,3 +36024,12 @@
     link: 'https://pub.dartlang.org/packages/idb_shim'
     author:
         - 'Alexandre Roux Tekartik <alex.tekartik.pub@gmail.com>'
+-
+    package_name: mdl
+    package_version: v1.5.6
+    title: 'v1.5.6 of mdl'
+    published: '2015-09-21T09:14:25+00:00'
+    id: 'urn:uuid:21bab05b-4ce5-5132-9835-64ba613e1701'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
