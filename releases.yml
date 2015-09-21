@@ -36123,3 +36123,12 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: pub_semver
+    package_version: v1.2.2
+    title: 'v1.2.2 of pub_semver'
+    published: '2015-09-21T20:09:17+00:00'
+    id: 'urn:uuid:7ebf7fe4-db1b-546f-a6bd-8baeaaf83cee'
+    link: 'https://pub.dartlang.org/packages/pub_semver'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
