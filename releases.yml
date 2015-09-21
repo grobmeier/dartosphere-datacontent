@@ -36096,3 +36096,30 @@
     link: 'https://pub.dartlang.org/packages/sky_tools'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: sky
+    package_version: v0.0.47
+    title: 'v0.0.47 of sky'
+    published: '2015-09-21T19:47:37+00:00'
+    id: 'urn:uuid:277786ce-217f-5983-a90f-576e314777c0'
+    link: 'https://pub.dartlang.org/packages/sky'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.24
+    title: 'v0.0.24 of sky_services'
+    published: '2015-09-21T19:36:33+00:00'
+    id: 'urn:uuid:0cf652ab-4278-57a9-a359-e6b63e6868be'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.24
+    title: 'v0.0.24 of sky_engine'
+    published: '2015-09-21T19:36:31+00:00'
+    id: 'urn:uuid:58c4ecf4-af3b-5320-8204-2bc9f7480928'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
