@@ -36177,3 +36177,12 @@
     link: 'https://pub.dartlang.org/packages/binary_generator'
     author:
         - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: dartdoc
+    package_version: v0.6.5
+    title: 'v0.6.5 of dartdoc'
+    published: '2015-09-22T15:27:05+00:00'
+    id: 'urn:uuid:6cdfd1cf-42ad-5d16-86c1-63d0f819868b'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
