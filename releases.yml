@@ -36222,3 +36222,12 @@
     link: 'https://pub.dartlang.org/packages/reed_solomon'
     author:
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: newton
+    package_version: v0.1.3
+    title: 'v0.1.3 of newton'
+    published: '2015-09-22T22:45:26+00:00'
+    id: 'urn:uuid:35c607c7-0445-576e-b422-60908727eaec'
+    link: 'https://pub.dartlang.org/packages/newton'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
