@@ -36204,3 +36204,21 @@
     link: 'https://pub.dartlang.org/packages/dart_orm_adapter_mysql'
     author:
         - 'Ustimenko Sergey <ustims@gmail.com>'
+-
+    package_name: dart_orm_adapter_mysql
+    package_version: v0.0.9+2
+    title: 'v0.0.9+2 of dart_orm_adapter_mysql'
+    published: '2015-09-22T18:22:59+00:00'
+    id: 'urn:uuid:c3ed8373-8a39-5936-aef0-fcb3799fb5f6'
+    link: 'https://pub.dartlang.org/packages/dart_orm_adapter_mysql'
+    author:
+        - 'Ustimenko Sergey <ustims@gmail.com>'
+-
+    package_name: reed_solomon
+    package_version: v0.0.8
+    title: 'v0.0.8 of reed_solomon'
+    published: '2015-09-22T18:17:01+00:00'
+    id: 'urn:uuid:fc83f94e-7f71-5c28-9541-530fd693691e'
+    link: 'https://pub.dartlang.org/packages/reed_solomon'
+    author:
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
