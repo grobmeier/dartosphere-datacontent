@@ -36186,3 +36186,21 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: macro_processor
+    package_version: v0.0.10
+    title: 'v0.0.10 of macro_processor'
+    published: '2015-09-22T17:57:57+00:00'
+    id: 'urn:uuid:94cbcaa1-3d9c-53bf-b862-c37071d2c5a8'
+    link: 'https://pub.dartlang.org/packages/macro_processor'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: dart_orm_adapter_mysql
+    package_version: v0.0.9+1
+    title: 'v0.0.9+1 of dart_orm_adapter_mysql'
+    published: '2015-09-22T17:56:59+00:00'
+    id: 'urn:uuid:a91173dc-e310-53c7-87a8-3df44aca0f18'
+    link: 'https://pub.dartlang.org/packages/dart_orm_adapter_mysql'
+    author:
+        - 'Ustimenko Sergey <ustims@gmail.com>'
