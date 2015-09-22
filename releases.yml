@@ -36141,3 +36141,39 @@
     link: 'https://pub.dartlang.org/packages/dev_compiler'
     author:
         - 'Dart Dev Compiler team <dev-compiler@dartlang.org>'
+-
+    package_name: sqlite3_driver
+    package_version: v0.0.4
+    title: 'v0.0.4 of sqlite3_driver'
+    published: '2015-09-22T13:43:39+00:00'
+    id: 'urn:uuid:cfcc313d-ed6e-5fea-a2d8-164cafaf5ffe'
+    link: 'https://pub.dartlang.org/packages/sqlite3_driver'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: sqlite3_bindings
+    package_version: v0.0.8
+    title: 'v0.0.8 of sqlite3_bindings'
+    published: '2015-09-22T13:39:54+00:00'
+    id: 'urn:uuid:e6d6f3d9-7182-5bd9-b660-4036f2113400'
+    link: 'https://pub.dartlang.org/packages/sqlite3_bindings'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: idb_shim
+    package_version: v1.1.0
+    title: 'v1.1.0 of idb_shim'
+    published: '2015-09-22T13:16:56+00:00'
+    id: 'urn:uuid:c0ba8840-92de-5ce0-9014-bce3135927ef'
+    link: 'https://pub.dartlang.org/packages/idb_shim'
+    author:
+        - 'Alexandre Roux Tekartik <alex.tekartik.pub@gmail.com>'
+-
+    package_name: binary_generator
+    package_version: v0.0.18
+    title: 'v0.0.18 of binary_generator'
+    published: '2015-09-22T13:16:28+00:00'
+    id: 'urn:uuid:070b9aa3-6a0b-5fbf-bca0-809e2c79e7d8'
+    link: 'https://pub.dartlang.org/packages/binary_generator'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
