@@ -36231,3 +36231,13 @@
     link: 'https://pub.dartlang.org/packages/newton'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: tuple
+    package_version: v0.3.0
+    title: 'v0.3.0 of tuple'
+    published: '2015-09-23T01:42:01+00:00'
+    id: 'urn:uuid:a96056a0-254b-50f5-876b-7a26ac857578'
+    link: 'https://pub.dartlang.org/packages/tuple'
+    author:
+        - 'Boris Kaul <localvoid@gmail.com>'
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
