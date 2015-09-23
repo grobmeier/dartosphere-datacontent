@@ -36241,3 +36241,12 @@
     author:
         - 'Boris Kaul <localvoid@gmail.com>'
         - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: rpc_mongo_mapper
+    package_version: v0.1.1
+    title: 'v0.1.1 of rpc_mongo_mapper'
+    published: '2015-09-23T11:31:55+00:00'
+    id: 'urn:uuid:16cb30ec-4db2-5db2-849e-a36dd1ff4337'
+    link: 'https://pub.dartlang.org/packages/rpc_mongo_mapper'
+    author:
+        - 'ProfileRH, PLATEL Kevin <platel.kevin@gmail.com>'
