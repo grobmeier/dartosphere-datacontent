@@ -36503,3 +36503,12 @@
     link: 'https://pub.dartlang.org/packages/mojo'
     author:
         - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.26
+    title: 'v0.0.26 of sky_services'
+    published: '2015-09-23T23:35:50+00:00'
+    id: 'urn:uuid:47dcf451-2c35-5d06-a753-ce9d1bb34eab'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
