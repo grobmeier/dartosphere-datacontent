@@ -36422,3 +36422,21 @@
     link: 'https://pub.dartlang.org/packages/mojo_apptest'
     author:
         - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: binary_declarations
+    package_version: v0.0.60
+    title: 'v0.0.60 of binary_declarations'
+    published: '2015-09-23T18:58:34+00:00'
+    id: 'urn:uuid:74f1d598-2f17-5a51-8a6a-8f9b1c6193b6'
+    link: 'https://pub.dartlang.org/packages/binary_declarations'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: analyzer
+    package_version: v0.26.1+4
+    title: 'v0.26.1+4 of analyzer'
+    published: '2015-09-23T18:24:12+00:00'
+    id: 'urn:uuid:9b31c66e-f33e-5895-a6bc-b063114a3901'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
