@@ -36332,3 +36332,93 @@
     link: 'https://pub.dartlang.org/packages/macro_processor'
     author:
         - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: sky
+    package_version: v0.0.48
+    title: 'v0.0.48 of sky'
+    published: '2015-09-23T17:38:40+00:00'
+    id: 'urn:uuid:fafae42b-ec26-5be2-868e-574f40542b62'
+    link: 'https://pub.dartlang.org/packages/sky'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.25
+    title: 'v0.0.25 of sky_services'
+    published: '2015-09-23T17:37:53+00:00'
+    id: 'urn:uuid:70a1541d-36d7-5a8e-947d-faeea8e9bcc5'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.25
+    title: 'v0.0.25 of sky_engine'
+    published: '2015-09-23T17:37:50+00:00'
+    id: 'urn:uuid:eee1328b-977a-525a-82fc-184a143616ba'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: sky_tools
+    package_version: v0.0.14
+    title: 'v0.0.14 of sky_tools'
+    published: '2015-09-23T17:35:09+00:00'
+    id: 'urn:uuid:1e67c548-3d65-5a6e-b600-dcf8ec438875'
+    link: 'https://pub.dartlang.org/packages/sky_tools'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: sqlite3_bindings
+    package_version: v0.0.9
+    title: 'v0.0.9 of sqlite3_bindings'
+    published: '2015-09-23T17:33:07+00:00'
+    id: 'urn:uuid:2fb86645-31be-583a-a0e3-ee5b859c1d8e'
+    link: 'https://pub.dartlang.org/packages/sqlite3_bindings'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: dartdoc
+    package_version: v0.6.6
+    title: 'v0.6.6 of dartdoc'
+    published: '2015-09-23T17:18:36+00:00'
+    id: 'urn:uuid:9b5cc714-4f3b-521f-b341-62de8646d401'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: binary_generator
+    package_version: v0.0.19
+    title: 'v0.0.19 of binary_generator'
+    published: '2015-09-23T17:16:16+00:00'
+    id: 'urn:uuid:2dca52ee-9981-5857-84c7-f84639d6a746'
+    link: 'https://pub.dartlang.org/packages/binary_generator'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: mojo_services
+    package_version: v0.0.25
+    title: 'v0.0.25 of mojo_services'
+    published: '2015-09-23T17:12:42+00:00'
+    id: 'urn:uuid:f0feabb3-064e-5f89-8695-f3363230b5b9'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojom
+    package_version: v0.0.25
+    title: 'v0.0.25 of mojom'
+    published: '2015-09-23T17:12:39+00:00'
+    id: 'urn:uuid:76685373-3737-5ea3-9827-1847407b89fd'
+    link: 'https://pub.dartlang.org/packages/mojom'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_apptest
+    package_version: v0.0.25
+    title: 'v0.0.25 of mojo_apptest'
+    published: '2015-09-23T17:12:36+00:00'
+    id: 'urn:uuid:9390976b-1b6a-5d71-9b03-88c6140bb129'
+    link: 'https://pub.dartlang.org/packages/mojo_apptest'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
