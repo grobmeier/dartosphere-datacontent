@@ -36440,3 +36440,12 @@
     link: 'https://pub.dartlang.org/packages/analyzer'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: trestle
+    package_version: v0.5.2
+    title: 'v0.5.2 of trestle'
+    published: '2015-09-23T19:33:03+00:00'
+    id: 'urn:uuid:7e9a8f00-c3c5-51ec-9094-87af20ff975e'
+    link: 'https://pub.dartlang.org/packages/trestle'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
