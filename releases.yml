@@ -36250,3 +36250,21 @@
     link: 'https://pub.dartlang.org/packages/rpc_mongo_mapper'
     author:
         - 'ProfileRH, PLATEL Kevin <platel.kevin@gmail.com>'
+-
+    package_name: amqp_rpc_binder
+    package_version: v0.1.0
+    title: 'v0.1.0 of amqp_rpc_binder'
+    published: '2015-09-23T12:57:21+00:00'
+    id: 'urn:uuid:1a006e8c-8b25-5a8c-ac5c-3d2e3df7b76b'
+    link: 'https://pub.dartlang.org/packages/amqp_rpc_binder'
+    author:
+        - 'ProfileRH, PLATEL Kevin <platel.kevin@gmail.com>'
+-
+    package_name: reflectable
+    package_version: v0.2.1
+    title: 'v0.2.1 of reflectable'
+    published: '2015-09-23T12:19:00+00:00'
+    id: 'urn:uuid:18e9bc38-bb97-5788-9875-c183fb89f9cc'
+    link: 'https://pub.dartlang.org/packages/reflectable'
+    author:
+        - 'The Dart Team <dart@google.com>'
