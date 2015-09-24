@@ -36589,3 +36589,12 @@
         - 'Gunter Zochbauer <gzoechi@gmail.com>'
         - 'Francesco Cina <ufoscout@gmail.com>'
         - 'Neeraj Mittal <mittal.neeraj@gmail.com>'
+-
+    package_name: sky_tools
+    package_version: v0.0.15
+    title: 'v0.0.15 of sky_tools'
+    published: '2015-09-24T19:38:26+00:00'
+    id: 'urn:uuid:54f7e2ba-9c52-5b9a-97b7-264c23bd4931'
+    link: 'https://pub.dartlang.org/packages/sky_tools'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
