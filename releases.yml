@@ -36531,3 +36531,12 @@
     link: 'https://pub.dartlang.org/packages/geohash'
     author:
         - 'Adam Stark <llamadonica@gmail.com>'
+-
+    package_name: tiles_sitemap
+    package_version: v0.1.0
+    title: 'v0.1.0 of tiles_sitemap'
+    published: '2015-09-24T09:37:19+00:00'
+    id: 'urn:uuid:3261b12c-ebfb-5046-85b9-43470766debe'
+    link: 'https://pub.dartlang.org/packages/tiles_sitemap'
+    author:
+        - 'Jakuub Uhrik <jakuub@mail.com>'
