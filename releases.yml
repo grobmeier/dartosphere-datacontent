@@ -36522,3 +36522,12 @@
     author:
         - 'Boris Kaul <localvoid@gmail.com>'
         - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: geohash
+    package_version: v0.1.0
+    title: 'v0.1.0 of geohash'
+    published: '2015-09-24T03:18:20+00:00'
+    id: 'urn:uuid:2f274720-482f-5e4d-aa3e-405a8479052a'
+    link: 'https://pub.dartlang.org/packages/geohash'
+    author:
+        - 'Adam Stark <llamadonica@gmail.com>'
