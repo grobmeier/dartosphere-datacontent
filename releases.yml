@@ -36576,3 +36576,16 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: angular_ui
+    package_version: v0.6.9
+    title: 'v0.6.9 of angular_ui'
+    published: '2015-09-24T18:37:54+00:00'
+    id: 'urn:uuid:29e488b3-b332-5d04-9c28-76aff0f81436'
+    link: 'https://pub.dartlang.org/packages/angular_ui'
+    author:
+        - 'Sergey Akopkokhyants <akserg@gmail.com>'
+        - 'Tonis Pool <tonis.pool@gmail.com>'
+        - 'Gunter Zochbauer <gzoechi@gmail.com>'
+        - 'Francesco Cina <ufoscout@gmail.com>'
+        - 'Neeraj Mittal <mittal.neeraj@gmail.com>'
