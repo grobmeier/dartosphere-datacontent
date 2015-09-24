@@ -36549,3 +36549,30 @@
     link: 'https://pub.dartlang.org/packages/sembast'
     author:
         - 'Alexandre Roux Tekartik <alex.tekartik.pub@gmail.com>'
+-
+    package_name: sky
+    package_version: v0.0.49
+    title: 'v0.0.49 of sky'
+    published: '2015-09-24T17:48:38+00:00'
+    id: 'urn:uuid:0d104958-48f2-5534-9359-b63bf1b4e8d1'
+    link: 'https://pub.dartlang.org/packages/sky'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.27
+    title: 'v0.0.27 of sky_services'
+    published: '2015-09-24T17:45:47+00:00'
+    id: 'urn:uuid:723c8eb2-a15a-502b-92b3-48d01c7e2dc2'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.27
+    title: 'v0.0.27 of sky_engine'
+    published: '2015-09-24T17:45:45+00:00'
+    id: 'urn:uuid:2aeefa31-d229-58b1-b966-250c62193e21'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
