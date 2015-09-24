@@ -36598,3 +36598,21 @@
     link: 'https://pub.dartlang.org/packages/sky_tools'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: analyzer
+    package_version: v0.26.1+6
+    title: 'v0.26.1+6 of analyzer'
+    published: '2015-09-24T21:54:07+00:00'
+    id: 'urn:uuid:9e56a55d-8f7e-596d-81c6-76732834bd65'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: test
+    package_version: v0.12.4+9
+    title: 'v0.12.4+9 of test'
+    published: '2015-09-24T21:14:17+00:00'
+    id: 'urn:uuid:b3b3ced4-1d71-5835-adcc-ba972634c650'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
