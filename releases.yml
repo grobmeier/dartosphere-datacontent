@@ -36742,3 +36742,14 @@
     link: 'https://pub.dartlang.org/packages/newton'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: charted
+    package_version: v0.2.9
+    title: 'v0.2.9 of charted'
+    published: '2015-09-25T21:53:34+00:00'
+    id: 'urn:uuid:d269cda8-3d52-5dfa-9d14-a33db46701b1'
+    link: 'https://pub.dartlang.org/packages/charted'
+    author:
+        - 'Prasad Sunkari <prsd@google.com>'
+        - 'Michael Cheng <midoringo@google.com>'
+        - 'Yan Qiao <yqiao@google.com>'
