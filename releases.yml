@@ -36679,3 +36679,12 @@
     link: 'https://pub.dartlang.org/packages/nomirrorsmap'
     author:
         - jrote1<jrote1@me.com>
+-
+    package_name: trestle
+    package_version: v0.5.3
+    title: 'v0.5.3 of trestle'
+    published: '2015-09-25T14:20:49+00:00'
+    id: 'urn:uuid:7623b40a-60e4-58d2-8aea-8f9f30347d30'
+    link: 'https://pub.dartlang.org/packages/trestle'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
