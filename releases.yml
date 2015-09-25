@@ -36670,3 +36670,12 @@
     link: 'https://pub.dartlang.org/packages/sembast'
     author:
         - 'Alexandre Roux Tekartik <alex.tekartik.pub@gmail.com>'
+-
+    package_name: nomirrorsmap
+    package_version: v1.0.1
+    title: 'v1.0.1 of nomirrorsmap'
+    published: '2015-09-25T13:47:02+00:00'
+    id: 'urn:uuid:29dd3a17-7ca8-574b-9902-4365da9d95bf'
+    link: 'https://pub.dartlang.org/packages/nomirrorsmap'
+    author:
+        - jrote1<jrote1@me.com>
