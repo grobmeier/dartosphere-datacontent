@@ -36733,3 +36733,12 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: newton
+    package_version: v0.1.4
+    title: 'v0.1.4 of newton'
+    published: '2015-09-25T20:22:46+00:00'
+    id: 'urn:uuid:9925066c-f7e2-5967-ad64-8a8a84dc1494'
+    link: 'https://pub.dartlang.org/packages/newton'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
