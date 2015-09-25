@@ -36697,3 +36697,12 @@
     link: 'https://pub.dartlang.org/packages/idb_shim'
     author:
         - 'Alexandre Roux Tekartik <alex.tekartik.pub@gmail.com>'
+-
+    package_name: nomirrorsmap
+    package_version: v1.0.2
+    title: 'v1.0.2 of nomirrorsmap'
+    published: '2015-09-25T16:14:00+00:00'
+    id: 'urn:uuid:2051d77a-c757-53f2-b042-5cfdaca5a608'
+    link: 'https://pub.dartlang.org/packages/nomirrorsmap'
+    author:
+        - jrote1<jrote1@me.com>
