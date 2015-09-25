@@ -36634,3 +36634,21 @@
     link: 'https://pub.dartlang.org/packages/pana'
     author:
         - 'Kevin Moore <github@j832.com>'
+-
+    package_name: nomirrorsmap
+    package_version: v1.0.0
+    title: 'v1.0.0 of nomirrorsmap'
+    published: '2015-09-25T10:30:00+00:00'
+    id: 'urn:uuid:38f911e0-72fc-5d1c-a9f8-fc28fc872fe5'
+    link: 'https://pub.dartlang.org/packages/nomirrorsmap'
+    author:
+        - jrote1<jrote1@me.com>
+-
+    package_name: _discoveryapis_commons
+    package_version: v0.1.2
+    title: 'v0.1.2 of _discoveryapis_commons'
+    published: '2015-09-25T10:28:38+00:00'
+    id: 'urn:uuid:ed9540c2-da12-5524-bd50-bd338baceaf0'
+    link: 'https://pub.dartlang.org/packages/_discoveryapis_commons'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
