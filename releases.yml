@@ -36762,3 +36762,21 @@
     link: 'https://pub.dartlang.org/packages/stream_transformers'
     author:
         - 'Dan Schultz <schultz.t.dan@gmail.com>'
+-
+    package_name: simplegamelib
+    package_version: v0.0.1
+    title: 'v0.0.1 of simplegamelib'
+    published: '2015-09-26T14:35:37+00:00'
+    id: 'urn:uuid:cae5484e-fdd0-55e0-bd68-5bb370437846'
+    link: 'https://pub.dartlang.org/packages/simplegamelib'
+    author:
+        - 'Davy Mitchell <daftspaniel@gmail.com>'
+-
+    package_name: dart_to_js_script_rewriter
+    package_version: v0.1.0+4
+    title: 'v0.1.0+4 of dart_to_js_script_rewriter'
+    published: '2015-09-26T14:23:32+00:00'
+    id: 'urn:uuid:197d0084-8308-52a7-a0cc-278e40c8d557'
+    link: 'https://pub.dartlang.org/packages/dart_to_js_script_rewriter'
+    author:
+        - 'Seth Ladd <sethladd@gmail.com>'
