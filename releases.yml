@@ -36789,3 +36789,12 @@
     link: 'https://pub.dartlang.org/packages/sembast'
     author:
         - 'Alexandre Roux Tekartik <alex.tekartik.pub@gmail.com>'
+-
+    package_name: idb_shim
+    package_version: v1.2.0
+    title: 'v1.2.0 of idb_shim'
+    published: '2015-09-26T16:30:24+00:00'
+    id: 'urn:uuid:4c65741b-d1aa-58e6-a6a9-711e1f4cf6a2'
+    link: 'https://pub.dartlang.org/packages/idb_shim'
+    author:
+        - 'Alexandre Roux Tekartik <alex.tekartik.pub@gmail.com>'
