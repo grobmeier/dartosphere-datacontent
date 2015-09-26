@@ -36798,3 +36798,12 @@
     link: 'https://pub.dartlang.org/packages/idb_shim'
     author:
         - 'Alexandre Roux Tekartik <alex.tekartik.pub@gmail.com>'
+-
+    package_name: simplegamelib
+    package_version: v0.0.2
+    title: 'v0.0.2 of simplegamelib'
+    published: '2015-09-26T18:07:27+00:00'
+    id: 'urn:uuid:56595e1a-1f47-5506-a723-b59679f54cc8'
+    link: 'https://pub.dartlang.org/packages/simplegamelib'
+    author:
+        - 'Davy Mitchell <daftspaniel@gmail.com>'
