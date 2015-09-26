@@ -36753,3 +36753,12 @@
         - 'Prasad Sunkari <prsd@google.com>'
         - 'Michael Cheng <midoringo@google.com>'
         - 'Yan Qiao <yqiao@google.com>'
+-
+    package_name: stream_transformers
+    package_version: v0.3.0+3
+    title: 'v0.3.0+3 of stream_transformers'
+    published: '2015-09-26T08:35:59+00:00'
+    id: 'urn:uuid:c9fcf262-d316-5459-b17a-3c60ea77c2c1'
+    link: 'https://pub.dartlang.org/packages/stream_transformers'
+    author:
+        - 'Dan Schultz <schultz.t.dan@gmail.com>'
