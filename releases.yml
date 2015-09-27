@@ -36825,3 +36825,12 @@
     link: 'https://pub.dartlang.org/packages/geohash'
     author:
         - 'Adam Stark <llamadonica@gmail.com>'
+-
+    package_name: source_gen
+    package_version: v0.4.5+1
+    title: 'v0.4.5+1 of source_gen'
+    published: '2015-09-27T18:09:13+00:00'
+    id: 'urn:uuid:d7792d72-c64b-5437-b9de-1c373dee7bc0'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
