@@ -36852,3 +36852,12 @@
     link: 'https://pub.dartlang.org/packages/json_stream_parser'
     author:
         - 'Adam Stark <llamadonica@gmail.com>'
+-
+    package_name: nomirrorsmap
+    package_version: v1.0.5
+    title: 'v1.0.5 of nomirrorsmap'
+    published: '2015-09-28T09:58:06+00:00'
+    id: 'urn:uuid:3be9cb2b-6258-5ad0-b55c-36ecfb849ef1'
+    link: 'https://pub.dartlang.org/packages/nomirrorsmap'
+    author:
+        - jrote1<jrote1@me.com>
