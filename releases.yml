@@ -36969,3 +36969,23 @@
     link: 'https://pub.dartlang.org/packages/slickdart'
     author:
         - 'CJKAO <kaopeter@gmail.com>'
+-
+    package_name: oracle
+    package_version: v0.1.0
+    title: 'v0.1.0 of oracle'
+    published: '2015-09-29T17:37:22+00:00'
+    id: 'urn:uuid:a013098e-8862-5e8a-ba4c-8943daab2d79'
+    link: 'https://pub.dartlang.org/packages/oracle'
+    author:
+        - 'Michael Loveridge <loveridge.michael@gmail.com>'
+        - 'Chris Lucas <chris@chrisjlucas.com>'
+        - 'Austin Cummings <austin@austincummings.com>'
+-
+    package_name: brproxy
+    package_version: v0.0.1
+    title: 'v0.0.1 of brproxy'
+    published: '2015-09-29T17:04:20+00:00'
+    id: 'urn:uuid:c3fb688b-608e-5412-b0e2-46bfb8641800'
+    link: 'https://pub.dartlang.org/packages/brproxy'
+    author:
+        - 'Erik Grimes <erik.grimes@gmail.com>'
