@@ -36942,3 +36942,12 @@
     link: 'https://pub.dartlang.org/packages/immutable'
     author:
         - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: nomirrorsmap
+    package_version: v1.0.10
+    title: 'v1.0.10 of nomirrorsmap'
+    published: '2015-09-29T13:37:59+00:00'
+    id: 'urn:uuid:716470fe-d8e0-5e46-bba9-aa618c0fe619'
+    link: 'https://pub.dartlang.org/packages/nomirrorsmap'
+    author:
+        - jrote1<jrote1@me.com>
