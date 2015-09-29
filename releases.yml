@@ -36933,3 +36933,12 @@
     link: 'https://pub.dartlang.org/packages/googleapis_beta'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: immutable
+    package_version: v0.0.1
+    title: 'v0.0.1 of immutable'
+    published: '2015-09-29T10:19:31+00:00'
+    id: 'urn:uuid:e294a104-3e99-568c-9b89-8c05c78381df'
+    link: 'https://pub.dartlang.org/packages/immutable'
+    author:
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
