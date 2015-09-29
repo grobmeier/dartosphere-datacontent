@@ -36989,3 +36989,13 @@
     link: 'https://pub.dartlang.org/packages/brproxy'
     author:
         - 'Erik Grimes <erik.grimes@gmail.com>'
+-
+    package_name: calzone
+    package_version: v0.1.2
+    title: 'v0.1.2 of calzone'
+    published: '2015-09-29T21:18:56+00:00'
+    id: 'urn:uuid:747322b1-5b7c-5c0c-9f5c-b44653519bb8'
+    link: 'https://pub.dartlang.org/packages/calzone'
+    author:
+        - 'Michael Bullington <m.bullington@dglogik.com>'
+        - 'Kenneth Endfinger <k.endfinger@dglogik.com>'
