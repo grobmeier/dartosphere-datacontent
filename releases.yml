@@ -36960,3 +36960,12 @@
     link: 'https://pub.dartlang.org/packages/nomirrorsmap'
     author:
         - jrote1<jrote1@me.com>
+-
+    package_name: slickdart
+    package_version: v0.1.3+5
+    title: 'v0.1.3+5 of slickdart'
+    published: '2015-09-29T15:34:49+00:00'
+    id: 'urn:uuid:44bc8ed2-dd9d-52ad-b409-be1c338fdd86'
+    link: 'https://pub.dartlang.org/packages/slickdart'
+    author:
+        - 'CJKAO <kaopeter@gmail.com>'
