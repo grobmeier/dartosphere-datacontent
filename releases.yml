@@ -37017,3 +37017,12 @@
     link: 'https://pub.dartlang.org/packages/binary_generator'
     author:
         - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: binary_types
+    package_version: v0.0.54
+    title: 'v0.0.54 of binary_types'
+    published: '2015-09-30T12:19:02+00:00'
+    id: 'urn:uuid:caf0618d-8cf6-59ea-94a1-ba793a090948'
+    link: 'https://pub.dartlang.org/packages/binary_types'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
