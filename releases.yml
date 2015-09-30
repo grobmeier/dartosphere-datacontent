@@ -37053,3 +37053,12 @@
     link: 'https://pub.dartlang.org/packages/libpq93_bindings'
     author:
         - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: analyzer
+    package_version: v0.26.1+7
+    title: 'v0.26.1+7 of analyzer'
+    published: '2015-09-30T18:16:11+00:00'
+    id: 'urn:uuid:fcdecbda-464f-5dda-8426-6be1cc27c381'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
