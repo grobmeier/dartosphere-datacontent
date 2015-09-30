@@ -36999,3 +36999,12 @@
     author:
         - 'Michael Bullington <m.bullington@dglogik.com>'
         - 'Kenneth Endfinger <k.endfinger@dglogik.com>'
+-
+    package_name: immutable
+    package_version: v0.0.2
+    title: 'v0.0.2 of immutable'
+    published: '2015-09-30T06:58:51+00:00'
+    id: 'urn:uuid:fa2265fc-f192-522a-bf1a-36e2c5caab8e'
+    link: 'https://pub.dartlang.org/packages/immutable'
+    author:
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
