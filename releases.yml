@@ -37134,3 +37134,12 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: cupid
+    package_version: v0.9.5
+    title: 'v0.9.5 of cupid'
+    published: '2015-10-01T12:54:42+00:00'
+    id: 'urn:uuid:e9a9938e-838d-552d-9a34-93532196b63b'
+    link: 'https://pub.dartlang.org/packages/cupid'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
