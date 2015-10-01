@@ -37233,3 +37233,30 @@
     link: 'https://pub.dartlang.org/packages/logging'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: sky
+    package_version: v0.0.52
+    title: 'v0.0.52 of sky'
+    published: '2015-10-01T22:47:19+00:00'
+    id: 'urn:uuid:17ca1405-c750-568e-a0ac-286100d10449'
+    link: 'https://pub.dartlang.org/packages/sky'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.30
+    title: 'v0.0.30 of sky_services'
+    published: '2015-10-01T22:46:36+00:00'
+    id: 'urn:uuid:0043b383-89d4-5b36-a6b9-6ab190797bb8'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.30
+    title: 'v0.0.30 of sky_engine'
+    published: '2015-10-01T22:46:31+00:00'
+    id: 'urn:uuid:9a9ceb18-2893-511b-98fc-dcc0d340149d'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
