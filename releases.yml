@@ -37179,3 +37179,30 @@
     link: 'https://pub.dartlang.org/packages/cupid'
     author:
         - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: json_stream_parser
+    package_version: v0.1.1
+    title: 'v0.1.1 of json_stream_parser'
+    published: '2015-10-01T15:35:58+00:00'
+    id: 'urn:uuid:d18fa284-8839-56a0-82ff-3a898fc2a19d'
+    link: 'https://pub.dartlang.org/packages/json_stream_parser'
+    author:
+        - 'Adam Stark <llamadonica@gmail.com>'
+-
+    package_name: nomirrorsmap
+    package_version: v1.0.16
+    title: 'v1.0.16 of nomirrorsmap'
+    published: '2015-10-01T15:30:36+00:00'
+    id: 'urn:uuid:e7655d83-7af7-5ba4-8c5b-1105ab3823d0'
+    link: 'https://pub.dartlang.org/packages/nomirrorsmap'
+    author:
+        - jrote1<jrote1@me.com>
+-
+    package_name: entity
+    package_version: v0.8.0+1
+    title: 'v0.8.0+1 of entity'
+    published: '2015-10-01T15:06:06+00:00'
+    id: 'urn:uuid:9a71bd77-6095-5126-942a-08896a64aff9'
+    link: 'https://pub.dartlang.org/packages/entity'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
