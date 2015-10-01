@@ -37143,3 +37143,21 @@
     link: 'https://pub.dartlang.org/packages/cupid'
     author:
         - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: nomirrorsmap
+    package_version: v1.0.13
+    title: 'v1.0.13 of nomirrorsmap'
+    published: '2015-10-01T13:58:41+00:00'
+    id: 'urn:uuid:c5983f3e-c56d-5ced-af79-f64283e3ccf3'
+    link: 'https://pub.dartlang.org/packages/nomirrorsmap'
+    author:
+        - jrote1<jrote1@me.com>
+-
+    package_name: cupid
+    package_version: v0.9.6
+    title: 'v0.9.6 of cupid'
+    published: '2015-10-01T13:11:45+00:00'
+    id: 'urn:uuid:ca378e82-fb5a-5aa0-bcb3-3793ba777a0e'
+    link: 'https://pub.dartlang.org/packages/cupid'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
