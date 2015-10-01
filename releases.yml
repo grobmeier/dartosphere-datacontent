@@ -37206,3 +37206,12 @@
     link: 'https://pub.dartlang.org/packages/entity'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: playfair
+    package_version: v0.0.9
+    title: 'v0.0.9 of playfair'
+    published: '2015-10-01T16:54:11+00:00'
+    id: 'urn:uuid:a998cc49-296c-528b-b44a-8b7b0663ac00'
+    link: 'https://pub.dartlang.org/packages/playfair'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
