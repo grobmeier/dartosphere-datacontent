@@ -37270,3 +37270,12 @@
     author:
         - 'Anton Astashov <anton.astashov@gmail.com>'
         - 'Dan Schultz <schultz.t.dan@gmail.com>'
+-
+    package_name: entity
+    package_version: v0.8.1
+    title: 'v0.8.1 of entity'
+    published: '2015-10-02T04:36:51+00:00'
+    id: 'urn:uuid:cd17ae08-51c7-5d32-8400-55992806e857'
+    link: 'https://pub.dartlang.org/packages/entity'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
