@@ -37279,3 +37279,12 @@
     link: 'https://pub.dartlang.org/packages/entity'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: dart_amqp
+    package_version: v0.0.2
+    title: 'v0.0.2 of dart_amqp'
+    published: '2015-10-02T07:10:49+00:00'
+    id: 'urn:uuid:d2329293-5a96-5f17-a5dd-57f6f45dc3d0'
+    link: 'https://pub.dartlang.org/packages/dart_amqp'
+    author:
+        - 'Achilleas Anagnostopoulos'
