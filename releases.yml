@@ -37260,3 +37260,13 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: rollbar
+    package_version: v0.3.1
+    title: 'v0.3.1 of rollbar'
+    published: '2015-10-02T03:02:44+00:00'
+    id: 'urn:uuid:56af041b-4740-5882-8cde-1a705ffaa559'
+    link: 'https://pub.dartlang.org/packages/rollbar'
+    author:
+        - 'Anton Astashov <anton.astashov@gmail.com>'
+        - 'Dan Schultz <schultz.t.dan@gmail.com>'
