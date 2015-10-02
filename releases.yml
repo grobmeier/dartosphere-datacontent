@@ -37315,3 +37315,12 @@
     link: 'https://pub.dartlang.org/packages/pretender'
     author:
         - 'Erik Grimes <erik.grimes@gmail.com>'
+-
+    package_name: yaml
+    package_version: v2.1.7
+    title: 'v2.1.7 of yaml'
+    published: '2015-10-02T20:42:57+00:00'
+    id: 'urn:uuid:6c63c0e6-2b27-57dd-88d7-581daaa58abb'
+    link: 'https://pub.dartlang.org/packages/yaml'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
