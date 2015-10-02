@@ -37288,3 +37288,12 @@
     link: 'https://pub.dartlang.org/packages/dart_amqp'
     author:
         - 'Achilleas Anagnostopoulos'
+-
+    package_name: cupid
+    package_version: v0.9.8
+    title: 'v0.9.8 of cupid'
+    published: '2015-10-02T10:54:24+00:00'
+    id: 'urn:uuid:1c7491b0-9c48-5413-aac2-da72c1a448a7'
+    link: 'https://pub.dartlang.org/packages/cupid'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
