@@ -37306,3 +37306,12 @@
     link: 'https://pub.dartlang.org/packages/reflectable'
     author:
         - 'The Dart Team <dart@google.com>'
+-
+    package_name: pretender
+    package_version: v0.1.0
+    title: 'v0.1.0 of pretender'
+    published: '2015-10-02T15:32:25+00:00'
+    id: 'urn:uuid:49604e42-bf7e-5c46-9b7d-f5d70f32d4fc'
+    link: 'https://pub.dartlang.org/packages/pretender'
+    author:
+        - 'Erik Grimes <erik.grimes@gmail.com>'
