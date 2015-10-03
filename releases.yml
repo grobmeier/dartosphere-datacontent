@@ -37324,3 +37324,12 @@
     link: 'https://pub.dartlang.org/packages/yaml'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: entity
+    package_version: v0.8.2
+    title: 'v0.8.2 of entity'
+    published: '2015-10-03T01:13:59+00:00'
+    id: 'urn:uuid:d2cb2384-9948-5a9a-9213-65d5b09b8e7a'
+    link: 'https://pub.dartlang.org/packages/entity'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
