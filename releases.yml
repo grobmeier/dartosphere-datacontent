@@ -37342,3 +37342,12 @@
     link: 'https://pub.dartlang.org/packages/quantity'
     author:
         - 'Rob Bishop (cooler-king)'
+-
+    package_name: envy
+    package_version: v0.0.1
+    title: 'v0.0.1 of envy'
+    published: '2015-10-03T13:43:57+00:00'
+    id: 'urn:uuid:53208367-57a7-5831-b1db-e5e80c3f02ba'
+    link: 'https://pub.dartlang.org/packages/envy'
+    author:
+        - 'Rob Bishop (cooler-king)'
