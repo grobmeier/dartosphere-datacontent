@@ -37333,3 +37333,12 @@
     link: 'https://pub.dartlang.org/packages/entity'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: quantity
+    package_version: v0.1.0
+    title: 'v0.1.0 of quantity'
+    published: '2015-10-03T12:55:34+00:00'
+    id: 'urn:uuid:6b5e6327-3c2a-5974-a705-fce38fcf0d8a'
+    link: 'https://pub.dartlang.org/packages/quantity'
+    author:
+        - 'Rob Bishop (cooler-king)'
