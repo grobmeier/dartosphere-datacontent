@@ -37378,3 +37378,21 @@
     link: 'https://pub.dartlang.org/packages/stream'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: simplegamelib
+    package_version: v0.0.5
+    title: 'v0.0.5 of simplegamelib'
+    published: '2015-10-04T15:28:34+00:00'
+    id: 'urn:uuid:d30a1144-d6f5-5446-a63e-86f01caa6843'
+    link: 'https://pub.dartlang.org/packages/simplegamelib'
+    author:
+        - 'Davy Mitchell <daftspaniel@gmail.com>'
+-
+    package_name: quantity
+    package_version: v0.1.1
+    title: 'v0.1.1 of quantity'
+    published: '2015-10-04T15:27:45+00:00'
+    id: 'urn:uuid:584ca9eb-5556-59f7-ae1b-3debf977d234'
+    link: 'https://pub.dartlang.org/packages/quantity'
+    author:
+        - 'Rob Bishop (cooler-king)'
