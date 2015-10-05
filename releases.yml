@@ -37518,3 +37518,21 @@
     link: 'https://pub.dartlang.org/packages/dart_orm_adapter_mongodb'
     author:
         - 'Ustimenko Sergey <ustims@gmail.com>'
+-
+    package_name: graphviz
+    package_version: v0.0.10
+    title: 'v0.0.10 of graphviz'
+    published: '2015-10-05T21:47:02+00:00'
+    id: 'urn:uuid:06652b08-856a-598a-9122-cd8ab3b6c280'
+    link: 'https://pub.dartlang.org/packages/graphviz'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: mdl
+    package_version: v1.5.7
+    title: 'v1.5.7 of mdl'
+    published: '2015-10-05T21:34:59+00:00'
+    id: 'urn:uuid:4e11bc5a-741c-5c69-ae8c-fbcdc1ee708d'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
