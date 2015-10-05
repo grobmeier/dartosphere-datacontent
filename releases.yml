@@ -37509,3 +37509,12 @@
     link: 'https://pub.dartlang.org/packages/emscripten'
     author:
         - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: dart_orm_adapter_mongodb
+    package_version: v0.1.0
+    title: 'v0.1.0 of dart_orm_adapter_mongodb'
+    published: '2015-10-05T20:16:01+00:00'
+    id: 'urn:uuid:a8c921cb-cd84-5c7d-8045-9e0a1168a7b7'
+    link: 'https://pub.dartlang.org/packages/dart_orm_adapter_mongodb'
+    author:
+        - 'Ustimenko Sergey <ustims@gmail.com>'
