@@ -37441,3 +37441,21 @@
     link: 'https://pub.dartlang.org/packages/emscripten'
     author:
         - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: reflectable
+    package_version: v0.3.1
+    title: 'v0.3.1 of reflectable'
+    published: '2015-10-05T14:50:23+00:00'
+    id: 'urn:uuid:21e05dc8-4aa7-5031-9a48-e37b71928718'
+    link: 'https://pub.dartlang.org/packages/reflectable'
+    author:
+        - 'The Dart Team <dart@google.com>'
+-
+    package_name: dartivity
+    package_version: v0.0.1
+    title: 'v0.0.1 of dartivity'
+    published: '2015-10-05T14:30:52+00:00'
+    id: 'urn:uuid:75874865-59f0-5c5a-a7a1-73f913725b6e'
+    link: 'https://pub.dartlang.org/packages/dartivity'
+    author:
+        - 'Steve Hamblett<steve.hamblett@linux.com>'
