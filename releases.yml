@@ -37536,3 +37536,21 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: superlu
+    package_version: v0.3.2
+    title: 'v0.3.2 of superlu'
+    published: '2015-10-05T23:13:43+00:00'
+    id: 'urn:uuid:14e45508-3c79-5a9a-a0b0-1dd78ab88940'
+    link: 'https://pub.dartlang.org/packages/superlu'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: emscripten
+    package_version: v0.0.3
+    title: 'v0.0.3 of emscripten'
+    published: '2015-10-05T23:07:36+00:00'
+    id: 'urn:uuid:acdcc5a1-5a0e-5707-a832-8631da665a93'
+    link: 'https://pub.dartlang.org/packages/emscripten'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
