@@ -37459,3 +37459,26 @@
     link: 'https://pub.dartlang.org/packages/dartivity'
     author:
         - 'Steve Hamblett<steve.hamblett@linux.com>'
+-
+    package_name: w_module
+    package_version: v0.3.1
+    title: 'v0.3.1 of w_module'
+    published: '2015-10-05T15:57:13+00:00'
+    id: 'urn:uuid:57d9f1a4-69d4-53b4-8055-9df979762c3e'
+    link: 'https://pub.dartlang.org/packages/w_module'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: quantity
+    package_version: v0.1.2
+    title: 'v0.1.2 of quantity'
+    published: '2015-10-05T15:23:17+00:00'
+    id: 'urn:uuid:d8388d65-b203-5176-93ba-7a4c6e556005'
+    link: 'https://pub.dartlang.org/packages/quantity'
+    author:
+        - 'Rob Bishop (cooler-king)'
