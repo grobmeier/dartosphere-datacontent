@@ -37432,3 +37432,12 @@
     link: 'https://pub.dartlang.org/packages/pretender'
     author:
         - 'Erik Grimes <erik.grimes@gmail.com>'
+-
+    package_name: emscripten
+    package_version: v0.0.1
+    title: 'v0.0.1 of emscripten'
+    published: '2015-10-05T11:53:07+00:00'
+    id: 'urn:uuid:cab6ab22-397d-536a-a055-839402afb15f'
+    link: 'https://pub.dartlang.org/packages/emscripten'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
