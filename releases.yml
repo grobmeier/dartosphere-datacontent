@@ -37563,3 +37563,12 @@
     link: 'https://pub.dartlang.org/packages/dev_test'
     author:
         - 'Alexandre Roux @ Tekartik <alex@tekartik.com>'
+-
+    package_name: cupid
+    package_version: v0.9.9
+    title: 'v0.9.9 of cupid'
+    published: '2015-10-06T13:31:00+00:00'
+    id: 'urn:uuid:95ca5407-504c-578a-a909-b4d6edf0e08b'
+    link: 'https://pub.dartlang.org/packages/cupid'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
