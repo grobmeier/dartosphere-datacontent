@@ -37572,3 +37572,39 @@
     link: 'https://pub.dartlang.org/packages/cupid'
     author:
         - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: sky
+    package_version: v0.0.53
+    title: 'v0.0.53 of sky'
+    published: '2015-10-06T16:51:18+00:00'
+    id: 'urn:uuid:dadec548-404c-59fc-a47f-68f890ffacf6'
+    link: 'https://pub.dartlang.org/packages/sky'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.31
+    title: 'v0.0.31 of sky_services'
+    published: '2015-10-06T16:50:08+00:00'
+    id: 'urn:uuid:862a023b-4e63-5dfe-994e-c01ef9060330'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.31
+    title: 'v0.0.31 of sky_engine'
+    published: '2015-10-06T16:50:05+00:00'
+    id: 'urn:uuid:ad1ae788-5481-563f-ad5a-2598b817abcc'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: resource
+    package_version: v0.0.0
+    title: 'v0.0.0 of resource'
+    published: '2015-10-06T16:02:34+00:00'
+    id: 'urn:uuid:f6f40dbe-1337-592d-9791-2f5a2ed5d2fd'
+    link: 'https://pub.dartlang.org/packages/resource'
+    author:
+        - 'The Dart Team <misc@dartlang.org>'
