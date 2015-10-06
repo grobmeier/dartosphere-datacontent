@@ -37762,3 +37762,13 @@
     link: 'https://pub.dartlang.org/packages/custom_element_apigen'
     author:
         - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: stagehand
+    package_version: v0.2.3
+    title: 'v0.2.3 of stagehand'
+    published: '2015-10-06T21:13:18+00:00'
+    id: 'urn:uuid:a59ec99c-ac91-56e1-984a-3e078d76bce1'
+    link: 'https://pub.dartlang.org/packages/stagehand'
+    author:
+        - 'Seth Ladd <sethladd@google.com>'
+        - 'Devon Carew <devoncarew@google.com>'
