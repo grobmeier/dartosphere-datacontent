@@ -37743,3 +37743,22 @@
         - 'Victor Savkin <vsavkin@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: polymer_elements
+    package_version: v0.3.0
+    title: 'v0.3.0 of polymer_elements'
+    published: '2014-05-31T08:48:30+00:00'
+    id: 'urn:uuid:6dd44667-78b6-5dce-9573-793f5cce0622'
+    link: 'https://pub.dartlang.org/packages/polymer_elements'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+        - 'Erik Grimes <erik.grimes@gmail.com>'
+-
+    package_name: custom_element_apigen
+    package_version: v0.2.0
+    title: 'v0.2.0 of custom_element_apigen'
+    published: '2015-10-06T20:42:34+00:00'
+    id: 'urn:uuid:0eda2df3-fe72-5cf7-8665-eb30036e077c'
+    link: 'https://pub.dartlang.org/packages/custom_element_apigen'
+    author:
+        - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
