@@ -37608,3 +37608,12 @@
     link: 'https://pub.dartlang.org/packages/resource'
     author:
         - 'The Dart Team <misc@dartlang.org>'
+-
+    package_name: sky_tools
+    package_version: v0.0.16
+    title: 'v0.0.16 of sky_tools'
+    published: '2015-10-06T17:58:02+00:00'
+    id: 'urn:uuid:ef126fa0-d747-5dd7-b7ee-617e8ba658b2'
+    link: 'https://pub.dartlang.org/packages/sky_tools'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
