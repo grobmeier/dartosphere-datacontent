@@ -37554,3 +37554,12 @@
     link: 'https://pub.dartlang.org/packages/emscripten'
     author:
         - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: dev_test
+    package_version: v0.4.4
+    title: 'v0.4.4 of dev_test'
+    published: '2015-10-06T10:10:35+00:00'
+    id: 'urn:uuid:163f76f7-8246-5a43-a6ed-f562cf977485'
+    link: 'https://pub.dartlang.org/packages/dev_test'
+    author:
+        - 'Alexandre Roux @ Tekartik <alex@tekartik.com>'
