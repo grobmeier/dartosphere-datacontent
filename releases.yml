@@ -37617,3 +37617,57 @@
     link: 'https://pub.dartlang.org/packages/sky_tools'
     author:
         - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: junitconfiguration
+    package_version: v1.2.0
+    title: 'v1.2.0 of junitconfiguration'
+    published: '2015-10-06T18:54:29+00:00'
+    id: 'urn:uuid:8704e063-896d-5aaf-b21c-13eaafcea635'
+    link: 'https://pub.dartlang.org/packages/junitconfiguration'
+    author:
+        - 'Lukas Renggli <renggli@gmail.com>'
+-
+    package_name: dev_test
+    package_version: v0.4.5
+    title: 'v0.4.5 of dev_test'
+    published: '2015-10-06T18:39:37+00:00'
+    id: 'urn:uuid:7eb4b8dc-3a2f-553a-8abb-7af51fa80992'
+    link: 'https://pub.dartlang.org/packages/dev_test'
+    author:
+        - 'Alexandre Roux @ Tekartik <alex@tekartik.com>'
+-
+    package_name: statemachine
+    package_version: v1.2.0
+    title: 'v1.2.0 of statemachine'
+    published: '2015-10-06T18:25:43+00:00'
+    id: 'urn:uuid:695fbded-ef37-53ad-8379-19a7ea8eae83'
+    link: 'https://pub.dartlang.org/packages/statemachine'
+    author:
+        - 'Lukas Renggli <renggli@gmail.com>'
+-
+    package_name: xml
+    package_version: v2.4.0
+    title: 'v2.4.0 of xml'
+    published: '2015-10-06T18:18:29+00:00'
+    id: 'urn:uuid:318b2155-e687-5111-af37-e8ea414497b9'
+    link: 'https://pub.dartlang.org/packages/xml'
+    author:
+        - 'Lukas Renggli <renggli@gmail.com>'
+-
+    package_name: petitparser
+    package_version: v1.5.0
+    title: 'v1.5.0 of petitparser'
+    published: '2015-10-06T18:08:39+00:00'
+    id: 'urn:uuid:c4a96a79-b8de-5bd9-9d0d-8a757671f9f5'
+    link: 'https://pub.dartlang.org/packages/petitparser'
+    author:
+        - 'Lukas Renggli <renggli@gmail.com>'
+-
+    package_name: more
+    package_version: v1.5.0
+    title: 'v1.5.0 of more'
+    published: '2015-10-06T18:02:26+00:00'
+    id: 'urn:uuid:5fbf23bb-9547-5e3b-a4f7-df658a267ce6'
+    link: 'https://pub.dartlang.org/packages/more'
+    author:
+        - 'Lukas Renggli <renggli@gmail.com>'
