@@ -37782,3 +37782,21 @@
     author:
         - 'Seth Ladd <sethladd@google.com>'
         - 'Devon Carew <devoncarew@google.com>'
+-
+    package_name: sky_tools
+    package_version: v0.0.17
+    title: 'v0.0.17 of sky_tools'
+    published: '2015-10-07T03:53:17+00:00'
+    id: 'urn:uuid:f52063b0-e7b2-5d92-9d64-7d04ced8d4c7'
+    link: 'https://pub.dartlang.org/packages/sky_tools'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: webview
+    package_version: v0.3.2
+    title: 'v0.3.2 of webview'
+    published: '2015-10-07T03:53:12+00:00'
+    id: 'urn:uuid:671c6093-7c3b-543b-b648-b637007e0962'
+    link: 'https://pub.dartlang.org/packages/webview'
+    author:
+        - Authors
