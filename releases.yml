@@ -37827,3 +37827,12 @@
     link: 'https://pub.dartlang.org/packages/bcm2835_bindings'
     author:
         - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: dartagnan
+    package_version: v0.0.1
+    title: 'v0.0.1 of dartagnan'
+    published: '2015-10-07T17:00:14+00:00'
+    id: 'urn:uuid:7dffebef-0ba7-599c-b16f-2add34e16ee2'
+    link: 'https://pub.dartlang.org/packages/dartagnan'
+    author:
+        - 'Benjamin Repingon <benjamin@geko.io>'
