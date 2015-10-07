@@ -37800,3 +37800,12 @@
     link: 'https://pub.dartlang.org/packages/webview'
     author:
         - Authors
+-
+    package_name: formler
+    package_version: v0.1.1
+    title: 'v0.1.1 of formler'
+    published: '2015-10-07T04:55:15+00:00'
+    id: 'urn:uuid:964f4695-d5c8-5147-b3b6-da2fdac1bcc4'
+    link: 'https://pub.dartlang.org/packages/formler'
+    author:
+        - 'Yulian Kuncheff <yulian@kuncheff.com>'
