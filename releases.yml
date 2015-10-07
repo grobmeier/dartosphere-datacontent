@@ -37836,3 +37836,12 @@
     link: 'https://pub.dartlang.org/packages/dartagnan'
     author:
         - 'Benjamin Repingon <benjamin@geko.io>'
+-
+    package_name: analyzer
+    package_version: v0.26.1+8
+    title: 'v0.26.1+8 of analyzer'
+    published: '2015-10-07T18:12:37+00:00'
+    id: 'urn:uuid:57b66919-b9c6-5b7c-95c2-8587ebc07ef1'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
