@@ -37809,3 +37809,21 @@
     link: 'https://pub.dartlang.org/packages/formler'
     author:
         - 'Yulian Kuncheff <yulian@kuncheff.com>'
+-
+    package_name: pusher
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of pusher'
+    published: '2015-10-07T13:54:10+00:00'
+    id: 'urn:uuid:81b9f41e-cd37-5d61-8395-7bbfe47d513c'
+    link: 'https://pub.dartlang.org/packages/pusher'
+    author:
+        - 'Adao Junior <itsjunnior@gmail.com>'
+-
+    package_name: bcm2835_bindings
+    package_version: v1.46.0
+    title: 'v1.46.0 of bcm2835_bindings'
+    published: '2015-10-07T13:28:55+00:00'
+    id: 'urn:uuid:29552466-456b-546b-b387-f24e88f7bba8'
+    link: 'https://pub.dartlang.org/packages/bcm2835_bindings'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
