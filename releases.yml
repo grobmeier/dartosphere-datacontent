@@ -37953,3 +37953,16 @@
     link: 'https://pub.dartlang.org/packages/linter'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angular_ui
+    package_version: v0.6.10
+    title: 'v0.6.10 of angular_ui'
+    published: '2015-10-08T19:43:37+00:00'
+    id: 'urn:uuid:5c6059e3-5881-5a1d-8296-0dd15c8cd1e6'
+    link: 'https://pub.dartlang.org/packages/angular_ui'
+    author:
+        - 'Sergey Akopkokhyants <akserg@gmail.com>'
+        - 'Tonis Pool <tonis.pool@gmail.com>'
+        - 'Gunter Zochbauer <gzoechi@gmail.com>'
+        - 'Francesco Cina <ufoscout@gmail.com>'
+        - 'Neeraj Mittal <mittal.neeraj@gmail.com>'
