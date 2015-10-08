@@ -37854,3 +37854,12 @@
     link: 'https://pub.dartlang.org/packages/custom_element_apigen'
     author:
         - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: fun_components
+    package_version: v0.6.0
+    title: 'v0.6.0 of fun_components'
+    published: '2015-10-07T23:59:18+00:00'
+    id: 'urn:uuid:22141692-abb5-526e-8d3c-4ff0651fc288'
+    link: 'https://pub.dartlang.org/packages/fun_components'
+    author:
+        - 'James Hurford <terrasea@gmail.com>'
