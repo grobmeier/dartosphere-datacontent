@@ -37908,3 +37908,21 @@
     link: 'https://pub.dartlang.org/packages/dartagnan'
     author:
         - 'Benjamin Repingon <benjamin@geko.io>'
+-
+    package_name: completion
+    package_version: v0.1.5
+    title: 'v0.1.5 of completion'
+    published: '2015-10-08T16:50:57+00:00'
+    id: 'urn:uuid:6a311c17-f711-5119-b472-670a2af2e946'
+    link: 'https://pub.dartlang.org/packages/completion'
+    author:
+        - 'Kevin Moore <github@j832.com>'
+-
+    package_name: simplegamelib
+    package_version: v0.0.6
+    title: 'v0.0.6 of simplegamelib'
+    published: '2015-10-08T16:07:19+00:00'
+    id: 'urn:uuid:29fb9ba1-98b0-5dd0-aa85-35fceff96884'
+    link: 'https://pub.dartlang.org/packages/simplegamelib'
+    author:
+        - 'Davy Mitchell <daftspaniel@gmail.com>'
