@@ -37890,3 +37890,12 @@
     link: 'https://pub.dartlang.org/packages/dartagnan'
     author:
         - 'Benjamin Repingon <benjamin@geko.io>'
+-
+    package_name: dartagnan
+    package_version: v0.0.4
+    title: 'v0.0.4 of dartagnan'
+    published: '2015-10-08T08:10:06+00:00'
+    id: 'urn:uuid:ac62a813-b93e-5564-9b1d-50d9ddb4281c'
+    link: 'https://pub.dartlang.org/packages/dartagnan'
+    author:
+        - 'Benjamin Repingon <benjamin@geko.io>'
