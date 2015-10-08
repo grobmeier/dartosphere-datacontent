@@ -37863,3 +37863,12 @@
     link: 'https://pub.dartlang.org/packages/fun_components'
     author:
         - 'James Hurford <terrasea@gmail.com>'
+-
+    package_name: value_object
+    package_version: v0.1.0
+    title: 'v0.1.0 of value_object'
+    published: '2015-10-08T02:19:49+00:00'
+    id: 'urn:uuid:40ec118a-c71e-5329-83d5-159f7673c216'
+    link: 'https://pub.dartlang.org/packages/value_object'
+    author:
+        - 'Anton Astashov <anton.astashov@gmail.com>'
