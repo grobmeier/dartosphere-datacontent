@@ -37881,3 +37881,12 @@
     link: 'https://pub.dartlang.org/packages/lightning'
     author:
         - 'Accorto Lightning <lightning@accorto.com>'
+-
+    package_name: dartagnan
+    package_version: v0.0.3
+    title: 'v0.0.3 of dartagnan'
+    published: '2015-10-08T07:53:11+00:00'
+    id: 'urn:uuid:8860542c-dacc-5576-8806-571a20d440a7'
+    link: 'https://pub.dartlang.org/packages/dartagnan'
+    author:
+        - 'Benjamin Repingon <benjamin@geko.io>'
