@@ -38007,3 +38007,12 @@
     link: 'https://pub.dartlang.org/packages/zengen'
     author:
         - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+-
+    package_name: image
+    package_version: v1.1.25
+    title: 'v1.1.25 of image'
+    published: '2015-10-08T23:17:50+00:00'
+    id: 'urn:uuid:34d6e0fb-82dd-54e7-8782-a1e198d2d340'
+    link: 'https://pub.dartlang.org/packages/image'
+    author:
+        - 'Brendan Duncan <brendanduncan@gmail.com>'
