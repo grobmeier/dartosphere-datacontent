@@ -38268,3 +38268,25 @@
     link: 'https://pub.dartlang.org/packages/formler'
     author:
         - 'Yulian Kuncheff <yulian@kuncheff.com>'
+-
+    package_name: angular_ui
+    package_version: v0.6.11
+    title: 'v0.6.11 of angular_ui'
+    published: '2015-10-09T18:57:21+00:00'
+    id: 'urn:uuid:dc840797-79c9-5b89-a4e8-e5e5f1a36159'
+    link: 'https://pub.dartlang.org/packages/angular_ui'
+    author:
+        - 'Sergey Akopkokhyants <akserg@gmail.com>'
+        - 'Tonis Pool <tonis.pool@gmail.com>'
+        - 'Gunter Zochbauer <gzoechi@gmail.com>'
+        - 'Francesco Cina <ufoscout@gmail.com>'
+        - 'Neeraj Mittal <mittal.neeraj@gmail.com>'
+-
+    package_name: realtime_data_model
+    package_version: v0.0.19
+    title: 'v0.0.19 of realtime_data_model'
+    published: '2015-10-09T18:48:33+00:00'
+    id: 'urn:uuid:086e0141-b1ce-5705-bb11-3d33c8ebebd7'
+    link: 'https://pub.dartlang.org/packages/realtime_data_model'
+    author:
+        - 'Christopher Best <bestchris@gmail.com>'
