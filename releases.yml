@@ -38223,3 +38223,30 @@
     link: 'https://pub.dartlang.org/packages/polymer_include_element'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: sky
+    package_version: v0.0.54
+    title: 'v0.0.54 of sky'
+    published: '2015-10-09T16:37:44+00:00'
+    id: 'urn:uuid:c02956ed-0b4a-5c48-a4df-100a998d7f87'
+    link: 'https://pub.dartlang.org/packages/sky'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.32
+    title: 'v0.0.32 of sky_services'
+    published: '2015-10-09T16:34:05+00:00'
+    id: 'urn:uuid:c616e5bf-5b50-507d-a079-8b5b60d8b63e'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.32
+    title: 'v0.0.32 of sky_engine'
+    published: '2015-10-09T16:34:03+00:00'
+    id: 'urn:uuid:cffe901f-2dd4-5fad-b4e6-9e9f0836b737'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
