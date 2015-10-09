@@ -38250,3 +38250,21 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: custom_element_apigen
+    package_version: v0.2.0+2
+    title: 'v0.2.0+2 of custom_element_apigen'
+    published: '2015-10-09T17:23:13+00:00'
+    id: 'urn:uuid:0745638d-4c54-5ab0-89b3-55f94cb5440d'
+    link: 'https://pub.dartlang.org/packages/custom_element_apigen'
+    author:
+        - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: formler
+    package_version: v0.1.2
+    title: 'v0.1.2 of formler'
+    published: '2015-10-09T17:01:46+00:00'
+    id: 'urn:uuid:44506f04-c18d-5720-bfc6-1a1702551020'
+    link: 'https://pub.dartlang.org/packages/formler'
+    author:
+        - 'Yulian Kuncheff <yulian@kuncheff.com>'
