@@ -38380,3 +38380,12 @@
     link: 'https://pub.dartlang.org/packages/mojo_apptest'
     author:
         - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: metatest
+    package_version: v0.2.2+1
+    title: 'v0.2.2+1 of metatest'
+    published: '2015-10-09T23:48:55+00:00'
+    id: 'urn:uuid:56a462f7-2641-56d2-819a-b477e4c5d109'
+    link: 'https://pub.dartlang.org/packages/metatest'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
