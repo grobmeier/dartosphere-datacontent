@@ -38353,3 +38353,30 @@
     link: 'https://pub.dartlang.org/packages/protobuf'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: mojom
+    package_version: v0.2.1
+    title: 'v0.2.1 of mojom'
+    published: '2015-10-09T22:56:18+00:00'
+    id: 'urn:uuid:5b3e2450-8176-518e-ab99-8e62dea35b54'
+    link: 'https://pub.dartlang.org/packages/mojom'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_services
+    package_version: v0.2.1
+    title: 'v0.2.1 of mojo_services'
+    published: '2015-10-09T22:56:15+00:00'
+    id: 'urn:uuid:928ab50b-4910-55e4-80d0-55f0c1ed5bc9'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_apptest
+    package_version: v0.2.1
+    title: 'v0.2.1 of mojo_apptest'
+    published: '2015-10-09T22:56:12+00:00'
+    id: 'urn:uuid:926dfccb-6491-5e0e-91fe-bb1c850d0847'
+    link: 'https://pub.dartlang.org/packages/mojo_apptest'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
