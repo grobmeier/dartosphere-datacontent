@@ -38308,3 +38308,48 @@
     link: 'https://pub.dartlang.org/packages/test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: sky
+    package_version: v0.0.55
+    title: 'v0.0.55 of sky'
+    published: '2015-10-09T21:55:49+00:00'
+    id: 'urn:uuid:ab455239-f391-5d6a-80a7-73de6dbd3472'
+    link: 'https://pub.dartlang.org/packages/sky'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.33
+    title: 'v0.0.33 of sky_services'
+    published: '2015-10-09T21:54:53+00:00'
+    id: 'urn:uuid:ba27ced7-cd1d-5894-aff7-d1fe71b9ca4b'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.33
+    title: 'v0.0.33 of sky_engine'
+    published: '2015-10-09T21:54:51+00:00'
+    id: 'urn:uuid:0351ea68-893c-52ff-b4f7-ff0a246ab5c5'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: scheduled_test
+    package_version: v0.12.4
+    title: 'v0.12.4 of scheduled_test'
+    published: '2015-10-09T21:50:55+00:00'
+    id: 'urn:uuid:72f95894-c052-5cfb-9292-1c0a172bd29c'
+    link: 'https://pub.dartlang.org/packages/scheduled_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: protobuf
+    package_version: v0.5.0+1
+    title: 'v0.5.0+1 of protobuf'
+    published: '2015-10-09T21:03:05+00:00'
+    id: 'urn:uuid:dd37161b-6dd2-5b71-8246-59a7e6a1a1f2'
+    link: 'https://pub.dartlang.org/packages/protobuf'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
