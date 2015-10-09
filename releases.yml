@@ -38290,3 +38290,12 @@
     link: 'https://pub.dartlang.org/packages/realtime_data_model'
     author:
         - 'Christopher Best <bestchris@gmail.com>'
+-
+    package_name: simplegamelib
+    package_version: v0.0.7
+    title: 'v0.0.7 of simplegamelib'
+    published: '2015-10-09T19:32:07+00:00'
+    id: 'urn:uuid:3e4e51c3-995d-5426-aecb-5a6d10c9b236'
+    link: 'https://pub.dartlang.org/packages/simplegamelib'
+    author:
+        - 'Davy Mitchell <daftspaniel@gmail.com>'
