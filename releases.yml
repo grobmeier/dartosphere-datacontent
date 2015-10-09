@@ -38196,3 +38196,30 @@
     link: 'https://pub.dartlang.org/packages/analyzer_cli'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dart_service_worker
+    package_version: v0.0.2
+    title: 'v0.0.2 of dart_service_worker'
+    published: '2015-10-09T14:48:29+00:00'
+    id: 'urn:uuid:ce6923b3-560d-5ee6-b5eb-ebdac0d6403f'
+    link: 'https://pub.dartlang.org/packages/dart_service_worker'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: polymer_app_layout_template
+    package_version: v0.0.1
+    title: 'v0.0.1 of polymer_app_layout_template'
+    published: '2015-10-09T14:05:57+00:00'
+    id: 'urn:uuid:8a6a820b-9cfc-5449-a880-db36c9acbe40'
+    link: 'https://pub.dartlang.org/packages/polymer_app_layout_template'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: polymer_include_element
+    package_version: v0.0.2
+    title: 'v0.0.2 of polymer_include_element'
+    published: '2015-10-09T14:01:32+00:00'
+    id: 'urn:uuid:1e6074cc-2719-5590-825d-180d5070e12b'
+    link: 'https://pub.dartlang.org/packages/polymer_include_element'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
