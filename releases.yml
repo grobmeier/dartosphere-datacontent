@@ -38160,3 +38160,39 @@
     link: 'https://pub.dartlang.org/packages/reflectable'
     author:
         - 'The Dart Team <dart@google.com>'
+-
+    package_name: polymer_include_element
+    package_version: v0.0.1
+    title: 'v0.0.1 of polymer_include_element'
+    published: '2015-10-09T13:45:05+00:00'
+    id: 'urn:uuid:46e9353b-edc8-5996-b198-084a7c3cb096'
+    link: 'https://pub.dartlang.org/packages/polymer_include_element'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: trestle
+    package_version: v0.5.5+1
+    title: 'v0.5.5+1 of trestle'
+    published: '2015-10-09T13:25:10+00:00'
+    id: 'urn:uuid:50f2c3ab-76c2-5b0c-bbd7-724726cebd58'
+    link: 'https://pub.dartlang.org/packages/trestle'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: rpc
+    package_version: v0.5.5
+    title: 'v0.5.5 of rpc'
+    published: '2015-10-09T13:04:38+00:00'
+    id: 'urn:uuid:794ebe03-95aa-56df-ac02-ced7a316a2f7'
+    link: 'https://pub.dartlang.org/packages/rpc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: analyzer_cli
+    package_version: v1.1.2
+    title: 'v1.1.2 of analyzer_cli'
+    published: '2015-10-09T13:02:21+00:00'
+    id: 'urn:uuid:f6369d44-a258-57d3-9d72-f55117a28df8'
+    link: 'https://pub.dartlang.org/packages/analyzer_cli'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
