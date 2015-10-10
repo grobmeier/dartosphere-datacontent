@@ -38535,3 +38535,21 @@
     link: 'https://pub.dartlang.org/packages/ccompilers'
     author:
         - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: built_value_generator
+    package_version: v0.0.1
+    title: 'v0.0.1 of built_value_generator'
+    published: '2015-10-10T21:26:14+00:00'
+    id: 'urn:uuid:db81ce3a-ab4b-5243-8f29-30f7813343de'
+    link: 'https://pub.dartlang.org/packages/built_value_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value
+    package_version: v0.0.1
+    title: 'v0.0.1 of built_value'
+    published: '2015-10-10T21:25:03+00:00'
+    id: 'urn:uuid:999f8247-1e0c-54e2-94d2-bf19bca8671d'
+    link: 'https://pub.dartlang.org/packages/built_value'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
