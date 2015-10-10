@@ -38416,3 +38416,30 @@
     link: 'https://pub.dartlang.org/packages/flutter'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: dart_orm_adapter_mongodb
+    package_version: v0.1.1
+    title: 'v0.1.1 of dart_orm_adapter_mongodb'
+    published: '2015-10-10T09:44:36+00:00'
+    id: 'urn:uuid:0422cece-4db6-5354-93a8-c1bc42126d08'
+    link: 'https://pub.dartlang.org/packages/dart_orm_adapter_mongodb'
+    author:
+        - 'Ustimenko Sergey <ustims@gmail.com>'
+-
+    package_name: dart_orm_adapter_postgresql
+    package_version: v0.0.9+1
+    title: 'v0.0.9+1 of dart_orm_adapter_postgresql'
+    published: '2015-10-10T09:43:52+00:00'
+    id: 'urn:uuid:83199dc5-e7ba-53ad-9a79-41e223378a9d'
+    link: 'https://pub.dartlang.org/packages/dart_orm_adapter_postgresql'
+    author:
+        - 'Ustimenko Sergey <ustims@gmail.com>'
+-
+    package_name: dart_orm_adapter_mysql
+    package_version: v0.1.2
+    title: 'v0.1.2 of dart_orm_adapter_mysql'
+    published: '2015-10-10T09:15:51+00:00'
+    id: 'urn:uuid:4f06306a-0a24-58c0-a086-43ecdbf5341d'
+    link: 'https://pub.dartlang.org/packages/dart_orm_adapter_mysql'
+    author:
+        - 'Ustimenko Sergey <ustims@gmail.com>'
