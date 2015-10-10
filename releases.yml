@@ -38389,3 +38389,21 @@
     link: 'https://pub.dartlang.org/packages/metatest'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: sky_services
+    package_version: v0.0.34
+    title: 'v0.0.34 of sky_services'
+    published: '2015-10-10T06:27:28+00:00'
+    id: 'urn:uuid:87257685-9469-58c3-801b-1fd633e8cdce'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.34
+    title: 'v0.0.34 of sky_engine'
+    published: '2015-10-10T06:27:25+00:00'
+    id: 'urn:uuid:a693dd9c-cfb2-5829-bc90-d14723d2d571'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
