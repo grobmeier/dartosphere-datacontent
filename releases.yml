@@ -38452,3 +38452,14 @@
     link: 'https://pub.dartlang.org/packages/semaphore'
     author:
         - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: firebase
+    package_version: v0.6.4
+    title: 'v0.6.4 of firebase'
+    published: '2015-10-10T15:43:46+00:00'
+    id: 'urn:uuid:23298222-d7a4-58ed-b563-0ba9ce60fea9'
+    link: 'https://pub.dartlang.org/packages/firebase'
+    author:
+        - 'Anant Narayanan <anant@kix.in>'
+        - 'Seth Ladd <sethladd@gmail.com>'
+        - 'Kevin Moore <github@j832.com>'
