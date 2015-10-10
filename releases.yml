@@ -38443,3 +38443,12 @@
     link: 'https://pub.dartlang.org/packages/dart_orm_adapter_mysql'
     author:
         - 'Ustimenko Sergey <ustims@gmail.com>'
+-
+    package_name: semaphore
+    package_version: v0.0.1
+    title: 'v0.0.1 of semaphore'
+    published: '2015-10-10T11:19:06+00:00'
+    id: 'urn:uuid:9c8109f3-dbd6-51ea-8341-0f2aecd25ed5'
+    link: 'https://pub.dartlang.org/packages/semaphore'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
