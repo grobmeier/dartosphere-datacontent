@@ -38553,3 +38553,21 @@
     link: 'https://pub.dartlang.org/packages/built_value'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value_generator
+    package_version: v0.0.3
+    title: 'v0.0.3 of built_value_generator'
+    published: '2015-10-10T22:38:54+00:00'
+    id: 'urn:uuid:14724211-3670-569a-8ad7-c99a11baa750'
+    link: 'https://pub.dartlang.org/packages/built_value_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value
+    package_version: v0.0.3
+    title: 'v0.0.3 of built_value'
+    published: '2015-10-10T22:38:17+00:00'
+    id: 'urn:uuid:f5d6d9f0-fd77-59c0-8176-f6d3016d7f13'
+    link: 'https://pub.dartlang.org/packages/built_value'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
