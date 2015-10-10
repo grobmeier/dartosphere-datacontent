@@ -38526,3 +38526,12 @@
     link: 'https://pub.dartlang.org/packages/dart_orm_adapter_mongodb'
     author:
         - 'Ustimenko Sergey <ustims@gmail.com>'
+-
+    package_name: ccompilers
+    package_version: v0.2.11
+    title: 'v0.2.11 of ccompilers'
+    published: '2015-10-10T20:43:04+00:00'
+    id: 'urn:uuid:0f42da6a-1931-5adb-bde6-bd7c3c679747'
+    link: 'https://pub.dartlang.org/packages/ccompilers'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
