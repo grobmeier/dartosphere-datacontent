@@ -38580,3 +38580,30 @@
     link: 'https://pub.dartlang.org/packages/lens'
     author:
         - 'Anton Astashov <anton.astashov@gmail.com>'
+-
+    package_name: libffi6_extension
+    package_version: v0.0.9
+    title: 'v0.0.9 of libffi6_extension'
+    published: '2015-10-11T10:59:05+00:00'
+    id: 'urn:uuid:4e1550e3-7fd5-53c9-83e8-043d525248a5'
+    link: 'https://pub.dartlang.org/packages/libffi6_extension'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: unsafe_extension
+    package_version: v0.0.21
+    title: 'v0.0.21 of unsafe_extension'
+    published: '2015-10-11T10:58:19+00:00'
+    id: 'urn:uuid:2ff4ea23-54f8-579a-80b4-8637b44d0450'
+    link: 'https://pub.dartlang.org/packages/unsafe_extension'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: forcemvc
+    package_version: v0.7.3
+    title: 'v0.7.3 of forcemvc'
+    published: '2015-10-11T10:12:29+00:00'
+    id: 'urn:uuid:d18198dc-b502-57b9-875e-de0b02e353bc'
+    link: 'https://pub.dartlang.org/packages/forcemvc'
+    author:
+        - 'Joris Hermans <hermansj@gmail.com>'
