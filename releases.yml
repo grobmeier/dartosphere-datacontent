@@ -38571,3 +38571,12 @@
     link: 'https://pub.dartlang.org/packages/built_value'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: lens
+    package_version: v0.1.0
+    title: 'v0.1.0 of lens'
+    published: '2015-10-11T05:06:00+00:00'
+    id: 'urn:uuid:3daad00d-8200-58e1-ad1f-c37faad587dd'
+    link: 'https://pub.dartlang.org/packages/lens'
+    author:
+        - 'Anton Astashov <anton.astashov@gmail.com>'
