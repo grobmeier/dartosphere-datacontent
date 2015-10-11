@@ -38607,3 +38607,13 @@
     link: 'https://pub.dartlang.org/packages/forcemvc'
     author:
         - 'Joris Hermans <hermansj@gmail.com>'
+-
+    package_name: falcor_dart
+    package_version: v0.0.2
+    title: 'v0.0.2 of falcor_dart'
+    published: '2015-10-11T12:24:35+00:00'
+    id: 'urn:uuid:79a6bea1-cc57-5444-8a19-55f58090d871'
+    link: 'https://pub.dartlang.org/packages/falcor_dart'
+    author:
+        - 'Rasmus Eneman <rasmus@eneman.eu>'
+        - 'Jesper Håkansson <jesper@jesperh.se>'
