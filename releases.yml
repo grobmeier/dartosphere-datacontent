@@ -38617,3 +38617,21 @@
     author:
         - 'Rasmus Eneman <rasmus@eneman.eu>'
         - 'Jesper Håkansson <jesper@jesperh.se>'
+-
+    package_name: polymer_app_layout_template
+    package_version: v0.0.2
+    title: 'v0.0.2 of polymer_app_layout_template'
+    published: '2015-10-11T13:52:22+00:00'
+    id: 'urn:uuid:29203db7-309d-59db-b24b-a3d54af3c0f4'
+    link: 'https://pub.dartlang.org/packages/polymer_app_layout_template'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: polymer_route_behavior
+    package_version: v0.0.1
+    title: 'v0.0.1 of polymer_route_behavior'
+    published: '2015-10-11T13:32:37+00:00'
+    id: 'urn:uuid:d332c3fa-77cc-5ca1-aecd-2bc83c9822e8'
+    link: 'https://pub.dartlang.org/packages/polymer_route_behavior'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
