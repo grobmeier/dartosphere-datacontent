@@ -38635,3 +38635,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_route_behavior'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: binary_types
+    package_version: v0.0.55
+    title: 'v0.0.55 of binary_types'
+    published: '2015-10-11T15:22:04+00:00'
+    id: 'urn:uuid:e12cf1cd-4004-5670-aef2-56996814115d'
+    link: 'https://pub.dartlang.org/packages/binary_types'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
