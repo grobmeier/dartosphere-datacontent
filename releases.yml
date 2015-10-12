@@ -38743,3 +38743,21 @@
     link: 'https://pub.dartlang.org/packages/dev_test'
     author:
         - 'Alexandre Roux @ Tekartik <alex@tekartik.com>'
+-
+    package_name: unsafe_extension
+    package_version: v0.0.22
+    title: 'v0.0.22 of unsafe_extension'
+    published: '2015-10-12T12:56:57+00:00'
+    id: 'urn:uuid:178dd063-1509-56cd-97c6-927555361e16'
+    link: 'https://pub.dartlang.org/packages/unsafe_extension'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: libffi6_extension
+    package_version: v0.0.10
+    title: 'v0.0.10 of libffi6_extension'
+    published: '2015-10-12T12:55:14+00:00'
+    id: 'urn:uuid:bfb3b3fe-011c-5341-94db-c3ac7a809915'
+    link: 'https://pub.dartlang.org/packages/libffi6_extension'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
