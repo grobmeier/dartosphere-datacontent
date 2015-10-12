@@ -38689,3 +38689,12 @@
     link: 'https://pub.dartlang.org/packages/sky_tools'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: playfair
+    package_version: v0.0.10
+    title: 'v0.0.10 of playfair'
+    published: '2015-10-12T07:17:08+00:00'
+    id: 'urn:uuid:da724085-0c69-5328-bda6-0bae39d175d4'
+    link: 'https://pub.dartlang.org/packages/playfair'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
