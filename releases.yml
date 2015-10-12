@@ -38824,3 +38824,12 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dartdoc
+    package_version: v0.7.2
+    title: 'v0.7.2 of dartdoc'
+    published: '2015-10-12T21:51:35+00:00'
+    id: 'urn:uuid:53370a39-408f-545c-b7e6-2b50f6233b3a'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
