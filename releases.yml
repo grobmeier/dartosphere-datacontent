@@ -38725,3 +38725,12 @@
     link: 'https://pub.dartlang.org/packages/sky'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: tiles
+    package_version: v0.2.1
+    title: 'v0.2.1 of tiles'
+    published: '2015-10-12T09:07:53+00:00'
+    id: 'urn:uuid:57904c0b-dcb4-51b6-a70d-453ab62d73ae'
+    link: 'https://pub.dartlang.org/packages/tiles'
+    author:
+        - 'Jakuub Uhrik <jakuub@mail.com>'
