@@ -38761,3 +38761,30 @@
     link: 'https://pub.dartlang.org/packages/libffi6_extension'
     author:
         - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: dart_service_worker
+    package_version: v0.0.3
+    title: 'v0.0.3 of dart_service_worker'
+    published: '2015-10-12T15:58:37+00:00'
+    id: 'urn:uuid:2f7989d2-15c3-53b1-a1e1-0272644629b3'
+    link: 'https://pub.dartlang.org/packages/dart_service_worker'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: libffi6_extension
+    package_version: v0.0.11
+    title: 'v0.0.11 of libffi6_extension'
+    published: '2015-10-12T15:44:22+00:00'
+    id: 'urn:uuid:878b3149-7ca6-514e-a600-257438373198'
+    link: 'https://pub.dartlang.org/packages/libffi6_extension'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: unsafe_extension
+    package_version: v0.0.23
+    title: 'v0.0.23 of unsafe_extension'
+    published: '2015-10-12T15:32:20+00:00'
+    id: 'urn:uuid:2614c745-1ca9-5ac6-803b-31bda347c8b7'
+    link: 'https://pub.dartlang.org/packages/unsafe_extension'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
