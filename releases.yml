@@ -38870,3 +38870,12 @@
     author:
         - 'Vizidrix <admin@vizidrix.com>'
         - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: polymer_http_behavior
+    package_version: v0.0.2
+    title: 'v0.0.2 of polymer_http_behavior'
+    published: '2015-10-13T15:02:49+00:00'
+    id: 'urn:uuid:1a1b04d1-6630-51d7-a2d6-b2a47fa556ca'
+    link: 'https://pub.dartlang.org/packages/polymer_http_behavior'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
