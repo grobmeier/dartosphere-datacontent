@@ -38842,3 +38842,21 @@
     link: 'https://pub.dartlang.org/packages/dev_test'
     author:
         - 'Alexandre Roux @ Tekartik <alex@tekartik.com>'
+-
+    package_name: idb_shim
+    package_version: v1.2.1
+    title: 'v1.2.1 of idb_shim'
+    published: '2015-10-13T09:34:47+00:00'
+    id: 'urn:uuid:c2fe07a7-3692-5c6c-bc05-a7ef1cbcf79f'
+    link: 'https://pub.dartlang.org/packages/idb_shim'
+    author:
+        - 'Alexandre Roux Tekartik <alex.tekartik.pub@gmail.com>'
+-
+    package_name: sembast
+    package_version: v1.2.2
+    title: 'v1.2.2 of sembast'
+    published: '2015-10-13T09:25:07+00:00'
+    id: 'urn:uuid:c143da63-4db0-5264-8b30-0b38fc01ecf8'
+    link: 'https://pub.dartlang.org/packages/sembast'
+    author:
+        - 'Alexandre Roux Tekartik <alex.tekartik.pub@gmail.com>'
