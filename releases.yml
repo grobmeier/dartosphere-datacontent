@@ -38978,3 +38978,12 @@
         - 'Victor Savkin <vsavkin@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: vm_service_lib
+    package_version: v0.0.2
+    title: 'v0.0.2 of vm_service_lib'
+    published: '2015-10-13T21:40:05+00:00'
+    id: 'urn:uuid:2df318b0-83e3-5c65-8f4b-4fc940e74e5f'
+    link: 'https://pub.dartlang.org/packages/vm_service_lib'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
