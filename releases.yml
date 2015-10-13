@@ -38860,3 +38860,13 @@
     link: 'https://pub.dartlang.org/packages/sembast'
     author:
         - 'Alexandre Roux Tekartik <alex.tekartik.pub@gmail.com>'
+-
+    package_name: disposable
+    package_version: v0.2.0
+    title: 'v0.2.0 of disposable'
+    published: '2015-10-13T12:44:40+00:00'
+    id: 'urn:uuid:269e31ff-3bb8-564e-9988-93f39f6fe6a5'
+    link: 'https://pub.dartlang.org/packages/disposable'
+    author:
+        - 'Vizidrix <admin@vizidrix.com>'
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
