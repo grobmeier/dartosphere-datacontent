@@ -38833,3 +38833,12 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dev_test
+    package_version: v0.6.1
+    title: 'v0.6.1 of dev_test'
+    published: '2015-10-13T08:34:01+00:00'
+    id: 'urn:uuid:706fef9c-6b83-5894-b6ea-f61c4600446a'
+    link: 'https://pub.dartlang.org/packages/dev_test'
+    author:
+        - 'Alexandre Roux @ Tekartik <alex@tekartik.com>'
