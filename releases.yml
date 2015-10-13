@@ -38879,3 +38879,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_http_behavior'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: envy
+    package_version: v0.0.2
+    title: 'v0.0.2 of envy'
+    published: '2015-10-13T19:42:28+00:00'
+    id: 'urn:uuid:3eb0a160-1a3c-5b7b-837f-76b92add6f69'
+    link: 'https://pub.dartlang.org/packages/envy'
+    author:
+        - 'Rob Bishop (cooler-king)'
