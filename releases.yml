@@ -39113,3 +39113,12 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: _discoveryapis_commons
+    package_version: v0.1.3
+    title: 'v0.1.3 of _discoveryapis_commons'
+    published: '2015-10-14T13:02:54+00:00'
+    id: 'urn:uuid:3617d984-ad67-53a2-aa1d-f9c330ea7de0'
+    link: 'https://pub.dartlang.org/packages/_discoveryapis_commons'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
