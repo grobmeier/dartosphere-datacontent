@@ -39176,3 +39176,39 @@
     link: 'https://pub.dartlang.org/packages/sandbox'
     author:
         - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: flutter_sprites
+    package_version: v0.0.3
+    title: 'v0.0.3 of flutter_sprites'
+    published: '2015-10-14T19:21:51+00:00'
+    id: 'urn:uuid:b685dd52-9586-58dd-b564-0c56352a9dd9'
+    link: 'https://pub.dartlang.org/packages/flutter_sprites'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: flutter
+    package_version: v0.0.5
+    title: 'v0.0.5 of flutter'
+    published: '2015-10-14T19:21:48+00:00'
+    id: 'urn:uuid:c649c4a8-314b-5526-987c-86c3312d82a4'
+    link: 'https://pub.dartlang.org/packages/flutter'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.36
+    title: 'v0.0.36 of sky_services'
+    published: '2015-10-14T19:17:13+00:00'
+    id: 'urn:uuid:6a51ab63-7203-5512-8709-c82611a5d090'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.36
+    title: 'v0.0.36 of sky_engine'
+    published: '2015-10-14T19:17:11+00:00'
+    id: 'urn:uuid:fd36fd24-7032-570c-91cd-5ff19484e38b'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
