@@ -39261,3 +39261,28 @@
     link: 'https://pub.dartlang.org/packages/sky_tools'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: analyzer
+    package_version: v0.26.1+10
+    title: 'v0.26.1+10 of analyzer'
+    published: '2015-10-14T23:52:11+00:00'
+    id: 'urn:uuid:c95a2c91-a0dc-5a44-af74-b0a2824fffe0'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angular
+    package_version: v1.1.2+2
+    title: 'v1.1.2+2 of angular'
+    published: '2015-10-14T23:23:12+00:00'
+    id: 'urn:uuid:e7a30952-862e-572f-a1b2-344aa9817e0d'
+    link: 'https://pub.dartlang.org/packages/angular'
+    author:
+        - 'Misko Hevery <misko@hevery.com>'
+        - 'Pavel Jbanov <pavelgj@gmail.com>'
+        - 'James deBoer <james@huronbox.com>'
+        - 'Chirayu Krishnappa <chirayu@google.com>'
+        - 'Matias Niemela <matias@yearofmoo.com>'
+        - 'Paul Rohde <paul@paulrohde.com>'
+        - 'Victor Berchet <victor@suumit.com>'
+        - 'Rado Kirov <radokirov@google.com>'
