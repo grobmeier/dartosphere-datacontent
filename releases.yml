@@ -39122,3 +39122,21 @@
     link: 'https://pub.dartlang.org/packages/_discoveryapis_commons'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: polymer_app_layout_template
+    package_version: v0.0.4
+    title: 'v0.0.4 of polymer_app_layout_template'
+    published: '2015-10-14T15:26:01+00:00'
+    id: 'urn:uuid:4d01a98e-12a6-5797-b49a-54a3da2acb08'
+    link: 'https://pub.dartlang.org/packages/polymer_app_layout_template'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: polymer_route_behavior
+    package_version: v0.0.2
+    title: 'v0.0.2 of polymer_route_behavior'
+    published: '2015-10-14T15:19:51+00:00'
+    id: 'urn:uuid:9b16e660-1c6d-523f-8645-7e57382bd345'
+    link: 'https://pub.dartlang.org/packages/polymer_route_behavior'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
