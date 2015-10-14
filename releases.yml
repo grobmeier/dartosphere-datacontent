@@ -39212,3 +39212,12 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: vm_service_lib
+    package_version: v0.0.3
+    title: 'v0.0.3 of vm_service_lib'
+    published: '2015-10-14T20:19:01+00:00'
+    id: 'urn:uuid:6c5167d5-be6c-5fea-9319-5ef91faad969'
+    link: 'https://pub.dartlang.org/packages/vm_service_lib'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
