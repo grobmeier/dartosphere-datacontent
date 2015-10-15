@@ -39340,3 +39340,21 @@
     link: 'https://pub.dartlang.org/packages/polymer_include_element'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: linter
+    package_version: v0.1.3+4
+    title: 'v0.1.3+4 of linter'
+    published: '2015-10-15T22:46:25+00:00'
+    id: 'urn:uuid:fbe8c629-975d-5615-8646-8a88f0bfd1da'
+    link: 'https://pub.dartlang.org/packages/linter'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: analyzer
+    package_version: v0.26.1+11
+    title: 'v0.26.1+11 of analyzer'
+    published: '2015-10-15T22:32:38+00:00'
+    id: 'urn:uuid:608bdf2d-fceb-5dc0-b125-46bf08051d96'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
