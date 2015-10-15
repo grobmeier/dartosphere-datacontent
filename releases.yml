@@ -39313,3 +39313,21 @@
     link: 'https://pub.dartlang.org/packages/sandbox'
     author:
         - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: newton
+    package_version: v0.1.5
+    title: 'v0.1.5 of newton'
+    published: '2015-10-15T19:44:44+00:00'
+    id: 'urn:uuid:fc67ee3e-1fdd-529a-89b2-9a82efa57186'
+    link: 'https://pub.dartlang.org/packages/newton'
+    author:
+        - 'Chromium Authors <sky-dev@googlegroups.com>'
+-
+    package_name: envy
+    package_version: v0.0.3
+    title: 'v0.0.3 of envy'
+    published: '2015-10-15T19:15:47+00:00'
+    id: 'urn:uuid:54731053-ea45-5762-9bac-614125de890a'
+    link: 'https://pub.dartlang.org/packages/envy'
+    author:
+        - 'Rob Bishop (cooler-king)'
