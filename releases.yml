@@ -39331,3 +39331,12 @@
     link: 'https://pub.dartlang.org/packages/envy'
     author:
         - 'Rob Bishop (cooler-king)'
+-
+    package_name: polymer_include_element
+    package_version: v0.0.3
+    title: 'v0.0.3 of polymer_include_element'
+    published: '2015-10-15T21:21:20+00:00'
+    id: 'urn:uuid:352e2031-47c5-5408-a637-fd38a4d5d0c8'
+    link: 'https://pub.dartlang.org/packages/polymer_include_element'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
