@@ -39502,3 +39502,21 @@
     link: 'https://pub.dartlang.org/packages/simple_server'
     author:
         - 'Robert Beyer <4sternrb@googlemail.com>'
+-
+    package_name: fft
+    package_version: v0.0.2
+    title: 'v0.0.2 of fft'
+    published: '2015-10-16T13:27:10+00:00'
+    id: 'urn:uuid:a424b2f7-cf04-5057-addf-14c8d1bd2a56'
+    link: 'https://pub.dartlang.org/packages/fft'
+    author:
+        - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: route_provider
+    package_version: v0.3.3
+    title: 'v0.3.3 of route_provider'
+    published: '2015-10-16T13:21:03+00:00'
+    id: 'urn:uuid:ae4d6ab3-b975-5b91-b615-f22f50c35002'
+    link: 'https://pub.dartlang.org/packages/route_provider'
+    author:
+        - 'Robert Beyer <4sternrb@googlemail.com>'
