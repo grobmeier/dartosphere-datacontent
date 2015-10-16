@@ -39547,3 +39547,12 @@
     link: 'https://pub.dartlang.org/packages/simplegamelib'
     author:
         - 'Davy Mitchell <daftspaniel@gmail.com>'
+-
+    package_name: fft
+    package_version: v0.0.3
+    title: 'v0.0.3 of fft'
+    published: '2015-10-16T17:26:22+00:00'
+    id: 'urn:uuid:8942b95e-114b-5319-81a3-3440b52fc7f5'
+    link: 'https://pub.dartlang.org/packages/fft'
+    author:
+        - 'Edouard Tavinor <edouardtavinor@gmail.com>'
