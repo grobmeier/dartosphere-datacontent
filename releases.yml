@@ -39466,3 +39466,12 @@
     link: 'https://pub.dartlang.org/packages/vm_service_lib'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: hrms_webproject
+    package_version: v0.0.1
+    title: 'v0.0.1 of hrms_webproject'
+    published: '2015-10-16T06:53:35+00:00'
+    id: 'urn:uuid:4f579777-5502-5e07-ac4c-123094e006be'
+    link: 'https://pub.dartlang.org/packages/hrms_webproject'
+    author:
+        - 'UUC <xiongwei@ultra-unoin.com>'
