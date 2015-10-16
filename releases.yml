@@ -39574,3 +39574,12 @@
     link: 'https://pub.dartlang.org/packages/analyzer'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: trestle
+    package_version: v0.5.8
+    title: 'v0.5.8 of trestle'
+    published: '2015-10-16T20:19:56+00:00'
+    id: 'urn:uuid:b3f3a790-587b-57fa-97a0-6e0e96b11505'
+    link: 'https://pub.dartlang.org/packages/trestle'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
