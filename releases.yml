@@ -39457,3 +39457,12 @@
     link: 'https://pub.dartlang.org/packages/drails_commons'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: vm_service_lib
+    package_version: v0.0.5
+    title: 'v0.0.5 of vm_service_lib'
+    published: '2015-10-16T02:25:38+00:00'
+    id: 'urn:uuid:e21869a3-d290-5104-bc4e-5aff387ea826'
+    link: 'https://pub.dartlang.org/packages/vm_service_lib'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
