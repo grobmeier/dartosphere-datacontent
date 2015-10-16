@@ -39484,3 +39484,21 @@
     link: 'https://pub.dartlang.org/packages/route_provider'
     author:
         - 'Robert Beyer <4sternrb@googlemail.com>'
+-
+    package_name: route_provider
+    package_version: v0.3.2
+    title: 'v0.3.2 of route_provider'
+    published: '2015-10-16T12:20:58+00:00'
+    id: 'urn:uuid:2c7f5073-afd5-5429-a45b-4d69bf98baf6'
+    link: 'https://pub.dartlang.org/packages/route_provider'
+    author:
+        - 'Robert Beyer <4sternrb@googlemail.com>'
+-
+    package_name: simple_server
+    package_version: v0.2.0
+    title: 'v0.2.0 of simple_server'
+    published: '2015-10-16T12:03:38+00:00'
+    id: 'urn:uuid:02f09fb4-78cd-5cb8-8f39-65a9c689e3f8'
+    link: 'https://pub.dartlang.org/packages/simple_server'
+    author:
+        - 'Robert Beyer <4sternrb@googlemail.com>'
