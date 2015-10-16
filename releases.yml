@@ -39529,3 +39529,21 @@
     link: 'https://pub.dartlang.org/packages/trestle'
     author:
         - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: transformer_binding
+    package_version: v0.0.2
+    title: 'v0.0.2 of transformer_binding'
+    published: '2015-10-16T15:57:25+00:00'
+    id: 'urn:uuid:6a906bae-ecd9-5bc7-9757-61306d661d17'
+    link: 'https://pub.dartlang.org/packages/transformer_binding'
+    author:
+        - 'Man Hoang <jolleekin@outlook.com>'
+-
+    package_name: simplegamelib
+    package_version: v0.0.8
+    title: 'v0.0.8 of simplegamelib'
+    published: '2015-10-16T15:47:45+00:00'
+    id: 'urn:uuid:b1a275ab-e059-574f-970f-35a22c9399cf'
+    link: 'https://pub.dartlang.org/packages/simplegamelib'
+    author:
+        - 'Davy Mitchell <daftspaniel@gmail.com>'
