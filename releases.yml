@@ -39439,3 +39439,21 @@
         - 'Victor Savkin <vsavkin@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: dson
+    package_version: v0.2.0
+    title: 'v0.2.0 of dson'
+    published: '2015-10-16T01:46:43+00:00'
+    id: 'urn:uuid:48f9eaec-30ab-5b93-af32-352b1293c567'
+    link: 'https://pub.dartlang.org/packages/dson'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: drails_commons
+    package_version: v0.0.6
+    title: 'v0.0.6 of drails_commons'
+    published: '2015-10-16T01:38:46+00:00'
+    id: 'urn:uuid:4f29e17e-c0d3-5124-9928-55567a133dde'
+    link: 'https://pub.dartlang.org/packages/drails_commons'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
