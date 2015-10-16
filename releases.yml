@@ -39556,3 +39556,12 @@
     link: 'https://pub.dartlang.org/packages/fft'
     author:
         - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: csslib
+    package_version: v0.12.2
+    title: 'v0.12.2 of csslib'
+    published: '2015-10-16T18:45:44+00:00'
+    id: 'urn:uuid:e1dc25c7-4e32-5461-93a0-a5b59936a6f1'
+    link: 'https://pub.dartlang.org/packages/csslib'
+    author:
+        - 'Polymer.dart Team <web-ui-dev@dartlang.org>'
