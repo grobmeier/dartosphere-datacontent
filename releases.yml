@@ -39565,3 +39565,12 @@
     link: 'https://pub.dartlang.org/packages/csslib'
     author:
         - 'Polymer.dart Team <web-ui-dev@dartlang.org>'
+-
+    package_name: analyzer
+    package_version: v0.26.1+12
+    title: 'v0.26.1+12 of analyzer'
+    published: '2015-10-16T19:45:50+00:00'
+    id: 'urn:uuid:72ed3a11-8ec4-54bc-bf36-c9f4c2348f14'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
