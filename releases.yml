@@ -39475,3 +39475,12 @@
     link: 'https://pub.dartlang.org/packages/hrms_webproject'
     author:
         - 'UUC <xiongwei@ultra-unoin.com>'
+-
+    package_name: route_provider
+    package_version: v0.3.0
+    title: 'v0.3.0 of route_provider'
+    published: '2015-10-16T11:52:34+00:00'
+    id: 'urn:uuid:ac1266ed-b77a-5598-8c0e-20caca5b6a17'
+    link: 'https://pub.dartlang.org/packages/route_provider'
+    author:
+        - 'Robert Beyer <4sternrb@googlemail.com>'
