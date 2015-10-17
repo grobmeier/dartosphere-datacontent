@@ -39628,3 +39628,12 @@
     link: 'https://pub.dartlang.org/packages/new_bridge'
     author:
         - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: dogma_convert
+    package_version: v0.0.1
+    title: 'v0.0.1 of dogma_convert'
+    published: '2015-10-17T14:56:41+00:00'
+    id: 'urn:uuid:1ba808cc-1889-561f-9f2a-d7ad2248faad'
+    link: 'https://pub.dartlang.org/packages/dogma_convert'
+    author:
+        - 'Don Olmstead <don.j.olmstead@gmail.com>'
