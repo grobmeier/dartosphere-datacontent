@@ -39655,3 +39655,12 @@
     link: 'https://pub.dartlang.org/packages/dogma_codegen_test'
     author:
         - 'Don Olmstead <don.j.olmstead@gmail.com>'
+-
+    package_name: simplegamelib
+    package_version: v0.0.10
+    title: 'v0.0.10 of simplegamelib'
+    published: '2015-10-17T17:51:32+00:00'
+    id: 'urn:uuid:4590e203-3a89-5d2e-8f1d-169ee72b52f5'
+    link: 'https://pub.dartlang.org/packages/simplegamelib'
+    author:
+        - 'Davy Mitchell <daftspaniel@gmail.com>'
