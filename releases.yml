@@ -39637,3 +39637,21 @@
     link: 'https://pub.dartlang.org/packages/dogma_convert'
     author:
         - 'Don Olmstead <don.j.olmstead@gmail.com>'
+-
+    package_name: simplegamelib
+    package_version: v0.0.9
+    title: 'v0.0.9 of simplegamelib'
+    published: '2015-10-17T15:25:35+00:00'
+    id: 'urn:uuid:66434e20-dac1-50d5-adeb-4918f844fce6'
+    link: 'https://pub.dartlang.org/packages/simplegamelib'
+    author:
+        - 'Davy Mitchell <daftspaniel@gmail.com>'
+-
+    package_name: dogma_codegen_test
+    package_version: v0.0.1
+    title: 'v0.0.1 of dogma_codegen_test'
+    published: '2015-10-17T15:05:13+00:00'
+    id: 'urn:uuid:59d946e6-26d6-5298-9f9f-3c9edc5c9444'
+    link: 'https://pub.dartlang.org/packages/dogma_codegen_test'
+    author:
+        - 'Don Olmstead <don.j.olmstead@gmail.com>'
