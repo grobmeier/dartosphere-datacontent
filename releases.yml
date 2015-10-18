@@ -39664,3 +39664,12 @@
     link: 'https://pub.dartlang.org/packages/simplegamelib'
     author:
         - 'Davy Mitchell <daftspaniel@gmail.com>'
+-
+    package_name: dliver
+    package_version: v1.0.1
+    title: 'v1.0.1 of dliver'
+    published: '2015-10-18T16:53:20+00:00'
+    id: 'urn:uuid:15e29d8d-649f-5ff8-b0a2-04de33955270'
+    link: 'https://pub.dartlang.org/packages/dliver'
+    author:
+        - 'Vostrikov Vitaliy <rasart.pro@gmail.com>'
