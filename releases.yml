@@ -39673,3 +39673,12 @@
     link: 'https://pub.dartlang.org/packages/dliver'
     author:
         - 'Vostrikov Vitaliy <rasart.pro@gmail.com>'
+-
+    package_name: dliver
+    package_version: v1.0.1+1
+    title: 'v1.0.1+1 of dliver'
+    published: '2015-10-18T17:01:53+00:00'
+    id: 'urn:uuid:55391ddb-4a32-5758-b2e1-ccc3ebc253a5'
+    link: 'https://pub.dartlang.org/packages/dliver'
+    author:
+        - 'Vostrikov Vitaliy <rasart.pro@gmail.com>'
