@@ -39682,3 +39682,12 @@
     link: 'https://pub.dartlang.org/packages/dliver'
     author:
         - 'Vostrikov Vitaliy <rasart.pro@gmail.com>'
+-
+    package_name: sky_tools
+    package_version: v0.0.24
+    title: 'v0.0.24 of sky_tools'
+    published: '2015-10-18T19:50:04+00:00'
+    id: 'urn:uuid:bbeeb79f-022f-5f17-a4d9-7ef71fac2b3d'
+    link: 'https://pub.dartlang.org/packages/sky_tools'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
