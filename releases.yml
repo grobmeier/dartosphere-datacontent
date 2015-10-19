@@ -39907,3 +39907,12 @@
     link: 'https://pub.dartlang.org/packages/sky_tools'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: syncbase
+    package_version: v0.0.4
+    title: 'v0.0.4 of syncbase'
+    published: '2015-10-19T21:19:33+00:00'
+    id: 'urn:uuid:a51b3c29-a0be-58a5-a9d3-acfb74628837'
+    link: 'https://pub.dartlang.org/packages/syncbase'
+    author:
+        - 'Vanadium Authors'
