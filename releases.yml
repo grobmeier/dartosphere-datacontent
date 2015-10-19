@@ -39898,3 +39898,12 @@
     link: 'https://pub.dartlang.org/packages/analyzer'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: sky_tools
+    package_version: v0.0.25
+    title: 'v0.0.25 of sky_tools'
+    published: '2015-10-19T20:33:19+00:00'
+    id: 'urn:uuid:fb777e20-1119-5be4-b132-81090da59b28'
+    link: 'https://pub.dartlang.org/packages/sky_tools'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
