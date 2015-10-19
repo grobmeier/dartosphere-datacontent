@@ -39754,3 +39754,30 @@
     link: 'https://pub.dartlang.org/packages/polymer_route_behavior'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: googleapis_beta
+    package_version: v0.20.0
+    title: 'v0.20.0 of googleapis_beta'
+    published: '2015-10-19T14:20:24+00:00'
+    id: 'urn:uuid:2be307d4-7429-5e21-b848-ee8466f6aeae'
+    link: 'https://pub.dartlang.org/packages/googleapis_beta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: googleapis
+    package_version: v0.17.0
+    title: 'v0.17.0 of googleapis'
+    published: '2015-10-19T14:20:03+00:00'
+    id: 'urn:uuid:3ea9cae4-a738-5fe8-9c69-bf58ba2728d6'
+    link: 'https://pub.dartlang.org/packages/googleapis'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: reflectable
+    package_version: v0.3.3
+    title: 'v0.3.3 of reflectable'
+    published: '2015-10-19T14:15:23+00:00'
+    id: 'urn:uuid:5bd87372-3d5d-5b39-b7c6-210d0520d295'
+    link: 'https://pub.dartlang.org/packages/reflectable'
+    author:
+        - 'The Dart Team <dart@google.com>'
