@@ -39916,3 +39916,21 @@
     link: 'https://pub.dartlang.org/packages/syncbase'
     author:
         - 'Vanadium Authors'
+-
+    package_name: plot_window
+    package_version: v0.0.3
+    title: 'v0.0.3 of plot_window'
+    published: '2015-10-19T22:27:55+00:00'
+    id: 'urn:uuid:19198548-7113-5cc7-9f68-0e6b57a6bdb9'
+    link: 'https://pub.dartlang.org/packages/plot_window'
+    author:
+        - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: dart2js_info
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of dart2js_info'
+    published: '2015-10-19T22:22:46+00:00'
+    id: 'urn:uuid:33c847c4-6778-5096-952e-a039336775bb'
+    link: 'https://pub.dartlang.org/packages/dart2js_info'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
