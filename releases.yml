@@ -39835,3 +39835,57 @@
     link: 'https://pub.dartlang.org/packages/polymer_include_element'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: isolate_cluster
+    package_version: v0.1.0
+    title: 'v0.1.0 of isolate_cluster'
+    published: '2015-10-19T18:59:50+00:00'
+    id: 'urn:uuid:5190fb79-5852-53e9-8fd5-32fde63338d4'
+    link: 'https://pub.dartlang.org/packages/isolate_cluster'
+    author:
+        - 'Oliver Damm <oliver.damm@gmx.de>'
+-
+    package_name: plot_window
+    package_version: v0.0.2
+    title: 'v0.0.2 of plot_window'
+    published: '2015-10-19T18:38:42+00:00'
+    id: 'urn:uuid:03910813-fe00-5c82-98fa-cbdb71ab0b90'
+    link: 'https://pub.dartlang.org/packages/plot_window'
+    author:
+        - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: flutter_sprites
+    package_version: v0.0.5
+    title: 'v0.0.5 of flutter_sprites'
+    published: '2015-10-19T18:26:53+00:00'
+    id: 'urn:uuid:ee7c4bb4-df54-5a30-a7c1-360a9c9ddac5'
+    link: 'https://pub.dartlang.org/packages/flutter_sprites'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: flutter
+    package_version: v0.0.7
+    title: 'v0.0.7 of flutter'
+    published: '2015-10-19T18:26:50+00:00'
+    id: 'urn:uuid:754cc902-6d52-503b-b2b0-2d03f7eeb832'
+    link: 'https://pub.dartlang.org/packages/flutter'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.38
+    title: 'v0.0.38 of sky_services'
+    published: '2015-10-19T18:24:35+00:00'
+    id: 'urn:uuid:ff2c3fed-4b36-533e-b8a9-a32ad996e03a'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.38
+    title: 'v0.0.38 of sky_engine'
+    published: '2015-10-19T18:24:33+00:00'
+    id: 'urn:uuid:9d57fbd9-3f7f-50a9-b77e-2737fde80c50'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
