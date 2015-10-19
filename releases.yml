@@ -39790,3 +39790,48 @@
     link: 'https://pub.dartlang.org/packages/polymer_app_layout_template'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: analyzer
+    package_version: v0.26.1+13
+    title: 'v0.26.1+13 of analyzer'
+    published: '2015-10-19T17:58:06+00:00'
+    id: 'urn:uuid:1db3ab15-36c4-5c56-9fa5-39913302fb0c'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: syncbase
+    package_version: v0.0.3
+    title: 'v0.0.3 of syncbase'
+    published: '2015-10-19T17:56:28+00:00'
+    id: 'urn:uuid:a16c2194-2b60-5b57-a222-95148f19644c'
+    link: 'https://pub.dartlang.org/packages/syncbase'
+    author:
+        - 'Vanadium Authors'
+-
+    package_name: plot_window
+    package_version: v0.0.1
+    title: 'v0.0.1 of plot_window'
+    published: '2015-10-19T17:18:16+00:00'
+    id: 'urn:uuid:027a63bb-3604-52a8-86de-9cef3c8e0b8d'
+    link: 'https://pub.dartlang.org/packages/plot_window'
+    author:
+        - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: polymer_app_layout_template
+    package_version: v0.0.8
+    title: 'v0.0.8 of polymer_app_layout_template'
+    published: '2015-10-19T17:14:10+00:00'
+    id: 'urn:uuid:c0671918-d749-51a6-b72c-9feae11cf6ca'
+    link: 'https://pub.dartlang.org/packages/polymer_app_layout_template'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: polymer_include_element
+    package_version: v0.0.5
+    title: 'v0.0.5 of polymer_include_element'
+    published: '2015-10-19T17:13:34+00:00'
+    id: 'urn:uuid:9c5c12e1-44e7-55d6-af09-d4018e5fbf76'
+    link: 'https://pub.dartlang.org/packages/polymer_include_element'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
