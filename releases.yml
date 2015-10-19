@@ -39727,3 +39727,30 @@
     link: 'https://pub.dartlang.org/packages/polymer_route_behavior'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: mdl
+    package_version: v1.5.8
+    title: 'v1.5.8 of mdl'
+    published: '2015-10-19T13:57:44+00:00'
+    id: 'urn:uuid:c397f7ea-d583-5bff-acc9-520512cfc359'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: polymer_app_layout_template
+    package_version: v0.0.6
+    title: 'v0.0.6 of polymer_app_layout_template'
+    published: '2015-10-19T13:03:46+00:00'
+    id: 'urn:uuid:230ce8e1-e5cc-59b9-991a-99c978682229'
+    link: 'https://pub.dartlang.org/packages/polymer_app_layout_template'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: polymer_route_behavior
+    package_version: v0.0.4
+    title: 'v0.0.4 of polymer_route_behavior'
+    published: '2015-10-19T13:02:56+00:00'
+    id: 'urn:uuid:a5a429ee-deba-562e-9c32-ca1e96eb1c79'
+    link: 'https://pub.dartlang.org/packages/polymer_route_behavior'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
