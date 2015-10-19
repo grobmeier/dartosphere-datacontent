@@ -39781,3 +39781,12 @@
     link: 'https://pub.dartlang.org/packages/reflectable'
     author:
         - 'The Dart Team <dart@google.com>'
+-
+    package_name: polymer_app_layout_template
+    package_version: v0.0.7
+    title: 'v0.0.7 of polymer_app_layout_template'
+    published: '2015-10-19T15:22:55+00:00'
+    id: 'urn:uuid:6357a1e7-877e-5191-8581-5728aa70c575'
+    link: 'https://pub.dartlang.org/packages/polymer_app_layout_template'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
