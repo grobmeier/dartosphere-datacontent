@@ -39889,3 +39889,12 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: analyzer
+    package_version: v0.26.1+14
+    title: 'v0.26.1+14 of analyzer'
+    published: '2015-10-19T19:33:10+00:00'
+    id: 'urn:uuid:5b8e37de-7894-5162-b516-06ea2d32683c'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
