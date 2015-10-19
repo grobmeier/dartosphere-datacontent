@@ -39691,3 +39691,39 @@
     link: 'https://pub.dartlang.org/packages/sky_tools'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: dartson
+    package_version: v0.2.5
+    title: 'v0.2.5 of dartson'
+    published: '2015-10-19T12:58:58+00:00'
+    id: 'urn:uuid:e9ad2ac0-0228-5c9a-9ccd-20fcf51c80cc'
+    link: 'https://pub.dartlang.org/packages/dartson'
+    author:
+        - 'Eric Schneller <eric@schnellers.name>'
+-
+    package_name: polymer_app_layout_template
+    package_version: v0.0.5
+    title: 'v0.0.5 of polymer_app_layout_template'
+    published: '2015-10-19T12:39:35+00:00'
+    id: 'urn:uuid:c582ce54-cf0f-58c9-bf37-8d8fc21ca486'
+    link: 'https://pub.dartlang.org/packages/polymer_app_layout_template'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: polymer_include_element
+    package_version: v0.0.4
+    title: 'v0.0.4 of polymer_include_element'
+    published: '2015-10-19T12:39:06+00:00'
+    id: 'urn:uuid:fac381c6-6725-510b-91e5-c8dcd7c84d29'
+    link: 'https://pub.dartlang.org/packages/polymer_include_element'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: polymer_route_behavior
+    package_version: v0.0.3
+    title: 'v0.0.3 of polymer_route_behavior'
+    published: '2015-10-19T12:38:48+00:00'
+    id: 'urn:uuid:b2cdd52c-1da8-5088-99b7-20a732f085ff'
+    link: 'https://pub.dartlang.org/packages/polymer_route_behavior'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
