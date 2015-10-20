@@ -40051,3 +40051,12 @@
     link: 'https://pub.dartlang.org/packages/mojo'
     author:
         - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: rxdart
+    package_version: v0.1.0+1
+    title: 'v0.1.0+1 of rxdart'
+    published: '2015-10-20T20:07:57+00:00'
+    id: 'urn:uuid:99155f0f-f725-57ff-a6a2-285f36b9979c'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
