@@ -40069,3 +40069,48 @@
     link: 'https://pub.dartlang.org/packages/vm_service_lib'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: http_parser
+    package_version: v1.1.0
+    title: 'v1.1.0 of http_parser'
+    published: '2015-10-20T23:39:21+00:00'
+    id: 'urn:uuid:0f784f1b-2b06-5656-9a0c-3fc8f7ce3fc4'
+    link: 'https://pub.dartlang.org/packages/http_parser'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: flutter_sprites
+    package_version: v0.0.6
+    title: 'v0.0.6 of flutter_sprites'
+    published: '2015-10-20T23:24:08+00:00'
+    id: 'urn:uuid:41c4db32-6cba-5473-9c29-ac7f8c1e6239'
+    link: 'https://pub.dartlang.org/packages/flutter_sprites'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: flutter
+    package_version: v0.0.8
+    title: 'v0.0.8 of flutter'
+    published: '2015-10-20T23:24:05+00:00'
+    id: 'urn:uuid:97e72e48-0c18-5a11-a9a2-465c76f5e14f'
+    link: 'https://pub.dartlang.org/packages/flutter'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.39
+    title: 'v0.0.39 of sky_services'
+    published: '2015-10-20T23:20:42+00:00'
+    id: 'urn:uuid:864900fb-af81-5df0-9baa-2eb56565f2d4'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.39
+    title: 'v0.0.39 of sky_engine'
+    published: '2015-10-20T23:20:40+00:00'
+    id: 'urn:uuid:903319a8-fc75-52e3-a220-d510c288f93c'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
