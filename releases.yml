@@ -39961,3 +39961,30 @@
     link: 'https://pub.dartlang.org/packages/plot_window'
     author:
         - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: mdl
+    package_version: v1.6.1
+    title: 'v1.6.1 of mdl'
+    published: '2015-10-20T14:41:18+00:00'
+    id: 'urn:uuid:9f471001-ddf0-5f69-82ee-85ce1ecd0bc7'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: fft
+    package_version: v0.0.5
+    title: 'v0.0.5 of fft'
+    published: '2015-10-20T14:34:42+00:00'
+    id: 'urn:uuid:300065e9-795d-5723-8c1a-bf7eacdedadb'
+    link: 'https://pub.dartlang.org/packages/fft'
+    author:
+        - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: yml2html
+    package_version: v0.1.0
+    title: 'v0.1.0 of yml2html'
+    published: '2015-10-20T14:27:43+00:00'
+    id: 'urn:uuid:10d5bdbc-a880-530c-a21a-fd68cbb77d90'
+    link: 'https://pub.dartlang.org/packages/yml2html'
+    author:
+        - 'diederik-dev <diederik.dev@gmail.com>'
