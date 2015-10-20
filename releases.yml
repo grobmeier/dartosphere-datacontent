@@ -39997,3 +39997,12 @@
     link: 'https://pub.dartlang.org/packages/slickdart'
     author:
         - 'CJKAO <kaopeter@gmail.com>'
+-
+    package_name: plot_window
+    package_version: v0.0.5
+    title: 'v0.0.5 of plot_window'
+    published: '2015-10-20T16:19:14+00:00'
+    id: 'urn:uuid:74a0b276-6d2b-5542-9b6b-1ee1c3962b48'
+    link: 'https://pub.dartlang.org/packages/plot_window'
+    author:
+        - 'Edouard Tavinor <edouardtavinor@gmail.com>'
