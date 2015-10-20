@@ -40015,3 +40015,39 @@
     link: 'https://pub.dartlang.org/packages/yml2html'
     author:
         - 'diederik-dev <diederik.dev@gmail.com>'
+-
+    package_name: mojom
+    package_version: v0.2.2
+    title: 'v0.2.2 of mojom'
+    published: '2015-10-20T18:30:28+00:00'
+    id: 'urn:uuid:a2cefb02-76c6-54d2-b9b5-fcf85be6bacf'
+    link: 'https://pub.dartlang.org/packages/mojom'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_services
+    package_version: v0.3.1
+    title: 'v0.3.1 of mojo_services'
+    published: '2015-10-20T18:30:25+00:00'
+    id: 'urn:uuid:023bef1e-ede9-560f-b2ca-0f7cef19668a'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_apptest
+    package_version: v0.2.2
+    title: 'v0.2.2 of mojo_apptest'
+    published: '2015-10-20T18:30:23+00:00'
+    id: 'urn:uuid:17f36d3d-1bbf-541d-a4ff-ed64deb90fd2'
+    link: 'https://pub.dartlang.org/packages/mojo_apptest'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo
+    package_version: v0.2.1
+    title: 'v0.2.1 of mojo'
+    published: '2015-10-20T18:30:20+00:00'
+    id: 'urn:uuid:d5840201-46d6-573d-b131-bcbac172b6d8'
+    link: 'https://pub.dartlang.org/packages/mojo'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
