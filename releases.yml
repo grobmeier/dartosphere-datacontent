@@ -39943,3 +39943,12 @@
     link: 'https://pub.dartlang.org/packages/usage'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: fft
+    package_version: v0.0.4
+    title: 'v0.0.4 of fft'
+    published: '2015-10-20T11:31:51+00:00'
+    id: 'urn:uuid:bae97480-e5b8-5de7-8bfe-cb8789d9bbc1'
+    link: 'https://pub.dartlang.org/packages/fft'
+    author:
+        - 'Edouard Tavinor <edouardtavinor@gmail.com>'
