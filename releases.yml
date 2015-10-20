@@ -39988,3 +39988,12 @@
     link: 'https://pub.dartlang.org/packages/yml2html'
     author:
         - 'diederik-dev <diederik.dev@gmail.com>'
+-
+    package_name: slickdart
+    package_version: v0.1.4
+    title: 'v0.1.4 of slickdart'
+    published: '2015-10-20T15:30:07+00:00'
+    id: 'urn:uuid:bc4927f9-e3d1-50b3-921f-5ed06d5912a3'
+    link: 'https://pub.dartlang.org/packages/slickdart'
+    author:
+        - 'CJKAO <kaopeter@gmail.com>'
