@@ -40208,3 +40208,57 @@
     link: 'https://pub.dartlang.org/packages/polymer_route_behavior'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: syncbase
+    package_version: v0.0.6
+    title: 'v0.0.6 of syncbase'
+    published: '2015-10-21T17:57:54+00:00'
+    id: 'urn:uuid:29c95576-7b0e-5007-a1b9-c4ab12835510'
+    link: 'https://pub.dartlang.org/packages/syncbase'
+    author:
+        - 'Vanadium Authors'
+-
+    package_name: dliver
+    package_version: v1.0.3
+    title: 'v1.0.3 of dliver'
+    published: '2015-10-21T17:31:28+00:00'
+    id: 'urn:uuid:6d7b2baa-4002-5d3b-bbd1-e64388e2e982'
+    link: 'https://pub.dartlang.org/packages/dliver'
+    author:
+        - 'Vostrikov Vitaliy <rasart.pro@gmail.com>'
+-
+    package_name: mojom
+    package_version: v0.2.3
+    title: 'v0.2.3 of mojom'
+    published: '2015-10-21T17:24:45+00:00'
+    id: 'urn:uuid:e9d5aa18-54c7-58ff-a97c-30a1e9c5882e'
+    link: 'https://pub.dartlang.org/packages/mojom'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_services
+    package_version: v0.4.0
+    title: 'v0.4.0 of mojo_services'
+    published: '2015-10-21T17:24:42+00:00'
+    id: 'urn:uuid:a67bc7b4-649b-5d63-bc71-eee729433352'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_apptest
+    package_version: v0.2.3
+    title: 'v0.2.3 of mojo_apptest'
+    published: '2015-10-21T17:24:39+00:00'
+    id: 'urn:uuid:da8da331-9955-538d-b7aa-d3f211f481d7'
+    link: 'https://pub.dartlang.org/packages/mojo_apptest'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo
+    package_version: v0.3.0
+    title: 'v0.3.0 of mojo'
+    published: '2015-10-21T17:24:37+00:00'
+    id: 'urn:uuid:bdaa1668-a53e-50ec-965d-279b3310623b'
+    link: 'https://pub.dartlang.org/packages/mojo'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
