@@ -40114,3 +40114,21 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: shelf
+    package_version: v0.6.3+1
+    title: 'v0.6.3+1 of shelf'
+    published: '2015-10-21T00:21:38+00:00'
+    id: 'urn:uuid:c0144513-f296-520d-9a94-1dfca53d0e3a'
+    link: 'https://pub.dartlang.org/packages/shelf'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: syncbase
+    package_version: v0.0.5
+    title: 'v0.0.5 of syncbase'
+    published: '2015-10-21T00:03:34+00:00'
+    id: 'urn:uuid:9852496d-c4bd-51e7-b62d-848c3c18d717'
+    link: 'https://pub.dartlang.org/packages/syncbase'
+    author:
+        - 'Vanadium Authors'
