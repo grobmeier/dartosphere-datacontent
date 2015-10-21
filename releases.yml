@@ -40262,3 +40262,57 @@
     link: 'https://pub.dartlang.org/packages/mojo'
     author:
         - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_sdk
+    package_version: v0.1.0
+    title: 'v0.1.0 of mojo_sdk'
+    published: '2015-10-21T18:30:05+00:00'
+    id: 'urn:uuid:a9b8f804-63ba-5cef-8679-1e040b953de0'
+    link: 'https://pub.dartlang.org/packages/mojo_sdk'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: flutter_sprites
+    package_version: v0.0.7
+    title: 'v0.0.7 of flutter_sprites'
+    published: '2015-10-21T18:13:44+00:00'
+    id: 'urn:uuid:3a511b9f-0d01-5a5a-a195-e65f25846c9b'
+    link: 'https://pub.dartlang.org/packages/flutter_sprites'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: flutter
+    package_version: v0.0.10
+    title: 'v0.0.10 of flutter'
+    published: '2015-10-21T18:13:41+00:00'
+    id: 'urn:uuid:06f5fc4d-b783-52c2-abe3-f436a7b2d2e9'
+    link: 'https://pub.dartlang.org/packages/flutter'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: dliver
+    package_version: v1.0.3+1
+    title: 'v1.0.3+1 of dliver'
+    published: '2015-10-21T18:11:09+00:00'
+    id: 'urn:uuid:7067a3c1-6124-5d71-9038-6775bb4b0858'
+    link: 'https://pub.dartlang.org/packages/dliver'
+    author:
+        - 'Vostrikov Vitaliy <rasart.pro@gmail.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.40
+    title: 'v0.0.40 of sky_services'
+    published: '2015-10-21T18:10:38+00:00'
+    id: 'urn:uuid:04c2bbdf-72e9-5c54-9ef2-a4390ca300e4'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.40
+    title: 'v0.0.40 of sky_engine'
+    published: '2015-10-21T18:10:36+00:00'
+    id: 'urn:uuid:661c1840-1b30-5239-a9a8-bd0155bea8a0'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
