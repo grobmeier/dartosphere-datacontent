@@ -40132,3 +40132,12 @@
     link: 'https://pub.dartlang.org/packages/syncbase'
     author:
         - 'Vanadium Authors'
+-
+    package_name: flutter
+    package_version: v0.0.9
+    title: 'v0.0.9 of flutter'
+    published: '2015-10-21T01:13:17+00:00'
+    id: 'urn:uuid:f22bc922-d57a-5633-8541-4f824d604589'
+    link: 'https://pub.dartlang.org/packages/flutter'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
