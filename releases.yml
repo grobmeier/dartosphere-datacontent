@@ -40141,3 +40141,21 @@
     link: 'https://pub.dartlang.org/packages/flutter'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: enum_class_generator
+    package_version: v0.0.3
+    title: 'v0.0.3 of enum_class_generator'
+    published: '2015-10-21T09:14:27+00:00'
+    id: 'urn:uuid:acc18852-82cd-5560-baf4-17e5531ab27f'
+    link: 'https://pub.dartlang.org/packages/enum_class_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: enum_class
+    package_version: v0.0.3
+    title: 'v0.0.3 of enum_class'
+    published: '2015-10-21T09:13:55+00:00'
+    id: 'urn:uuid:e9178904-55bd-5c9a-8ae3-9718e7ee7a7a'
+    link: 'https://pub.dartlang.org/packages/enum_class'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
