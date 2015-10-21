@@ -40370,3 +40370,12 @@
     link: 'https://pub.dartlang.org/packages/ddo'
     author:
         - 'Nathan Kerr <nathankerr@gmail.com>'
+-
+    package_name: dart2js_info
+    package_version: v0.2.1
+    title: 'v0.2.1 of dart2js_info'
+    published: '2015-10-21T23:10:05+00:00'
+    id: 'urn:uuid:aa824b8f-917c-59be-9c10-5945dcd26047'
+    link: 'https://pub.dartlang.org/packages/dart2js_info'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
