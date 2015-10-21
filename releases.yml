@@ -40343,3 +40343,30 @@
     link: 'https://pub.dartlang.org/packages/route_provider'
     author:
         - 'Robert Beyer <4sternrb@googlemail.com>'
+-
+    package_name: dartdoc
+    package_version: v0.7.3
+    title: 'v0.7.3 of dartdoc'
+    published: '2015-10-21T21:11:04+00:00'
+    id: 'urn:uuid:b6f0d2ff-919e-55eb-9e81-4fcfee66fbaf'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: core_elements
+    package_version: v0.7.1+4
+    title: 'v0.7.1+4 of core_elements'
+    published: '2015-10-21T21:08:25+00:00'
+    id: 'urn:uuid:6dd5ecb9-56d2-5532-97ea-16fffdd648b3'
+    link: 'https://pub.dartlang.org/packages/core_elements'
+    author:
+        - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: ddo
+    package_version: v0.2.7
+    title: 'v0.2.7 of ddo'
+    published: '2015-10-21T21:01:16+00:00'
+    id: 'urn:uuid:1814c0f7-2397-54f1-9739-b06dbefcb9d8'
+    link: 'https://pub.dartlang.org/packages/ddo'
+    author:
+        - 'Nathan Kerr <nathankerr@gmail.com>'
