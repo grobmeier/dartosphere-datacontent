@@ -40186,3 +40186,25 @@
     link: 'https://pub.dartlang.org/packages/enum_class'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: di
+    package_version: v3.3.5+1
+    title: 'v3.3.5+1 of di'
+    published: '2015-10-21T16:58:29+00:00'
+    id: 'urn:uuid:b5eed083-952e-5123-9ee1-4149e159e7db'
+    link: 'https://pub.dartlang.org/packages/di'
+    author:
+        - 'Vojta Jina <vojta.jina@gmail.com>'
+        - 'Pavel Jbanov <pavelgj@gmail.com>'
+        - 'Anting Shen <shenantingtt@gmail.com>'
+        - 'Misko Hevery <misko@hevery.com>'
+        - 'Victor Berchet <victor@suumit.com>'
+-
+    package_name: polymer_route_behavior
+    package_version: v0.0.5
+    title: 'v0.0.5 of polymer_route_behavior'
+    published: '2015-10-21T16:33:35+00:00'
+    id: 'urn:uuid:58be1c36-ddc2-5a37-8f7b-1fe059afd2ed'
+    link: 'https://pub.dartlang.org/packages/polymer_route_behavior'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
