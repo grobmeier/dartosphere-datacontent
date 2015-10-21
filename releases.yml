@@ -40159,3 +40159,30 @@
     link: 'https://pub.dartlang.org/packages/enum_class'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: smartcanvas
+    package_version: v0.2.0+6
+    title: 'v0.2.0+6 of smartcanvas'
+    published: '2015-10-21T14:58:47+00:00'
+    id: 'urn:uuid:cef51579-44b3-5ebf-b66b-faa51515cb57'
+    link: 'https://pub.dartlang.org/packages/smartcanvas'
+    author:
+        - 'Kun Zhao <kzhdev@gmail.com>'
+-
+    package_name: enum_class_generator
+    package_version: v0.0.4
+    title: 'v0.0.4 of enum_class_generator'
+    published: '2015-10-21T14:46:24+00:00'
+    id: 'urn:uuid:48291563-6076-57bb-8fe2-8353a8556f00'
+    link: 'https://pub.dartlang.org/packages/enum_class_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: enum_class
+    package_version: v0.0.4
+    title: 'v0.0.4 of enum_class'
+    published: '2015-10-21T14:45:30+00:00'
+    id: 'urn:uuid:981e04b1-353c-5c53-b99d-4f8c02c1be1d'
+    link: 'https://pub.dartlang.org/packages/enum_class'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
