@@ -40559,3 +40559,30 @@
     link: 'https://pub.dartlang.org/packages/react'
     author:
         - 'Clean Team <clean@vacuumlabs.com>'
+-
+    package_name: isolate_cluster
+    package_version: v0.2.1
+    title: 'v0.2.1 of isolate_cluster'
+    published: '2015-10-22T21:37:48+00:00'
+    id: 'urn:uuid:04c01a2a-b0c6-5c30-a1ef-76902733c607'
+    link: 'https://pub.dartlang.org/packages/isolate_cluster'
+    author:
+        - 'Oliver Damm <oliver.damm@gmx.de>'
+-
+    package_name: syncbase
+    package_version: v0.0.7
+    title: 'v0.0.7 of syncbase'
+    published: '2015-10-22T21:35:59+00:00'
+    id: 'urn:uuid:6581ee6e-3762-5f47-b5be-21b8b71185fe'
+    link: 'https://pub.dartlang.org/packages/syncbase'
+    author:
+        - 'Vanadium Authors'
+-
+    package_name: fft
+    package_version: v0.0.7
+    title: 'v0.0.7 of fft'
+    published: '2015-10-22T21:01:03+00:00'
+    id: 'urn:uuid:64d8101f-e8e3-5ffe-a209-a426686d3061'
+    link: 'https://pub.dartlang.org/packages/fft'
+    author:
+        - 'Edouard Tavinor <edouardtavinor@gmail.com>'
