@@ -40424,3 +40424,21 @@
     link: 'https://pub.dartlang.org/packages/malison'
     author:
         - 'Bob Nystrom <robert@stuffwithstuff.com>'
+-
+    package_name: fft
+    package_version: v0.0.6
+    title: 'v0.0.6 of fft'
+    published: '2015-10-22T06:29:51+00:00'
+    id: 'urn:uuid:aa5ee952-6977-531e-8217-9af5e195f2a2'
+    link: 'https://pub.dartlang.org/packages/fft'
+    author:
+        - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: red_black_tree
+    package_version: v0.1.4
+    title: 'v0.1.4 of red_black_tree'
+    published: '2015-10-22T06:19:22+00:00'
+    id: 'urn:uuid:3ca99150-99f8-59e8-9268-d0c0126766b6'
+    link: 'https://pub.dartlang.org/packages/red_black_tree'
+    author:
+        - 'Kendal Harland <kendaljharland@gmail.com>'
