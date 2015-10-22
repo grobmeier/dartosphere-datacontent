@@ -40442,3 +40442,39 @@
     link: 'https://pub.dartlang.org/packages/red_black_tree'
     author:
         - 'Kendal Harland <kendaljharland@gmail.com>'
+-
+    package_name: faker
+    package_version: v0.0.3
+    title: 'v0.0.3 of faker'
+    published: '2015-10-22T07:52:42+00:00'
+    id: 'urn:uuid:1a027768-3de0-5bc0-a550-991e3ad05f02'
+    link: 'https://pub.dartlang.org/packages/faker'
+    author:
+        - 'Jesper Håkansson <jesper@jesperh.se>'
+-
+    package_name: pubviz
+    package_version: v2.3.5
+    title: 'v2.3.5 of pubviz'
+    published: '2015-10-22T07:52:19+00:00'
+    id: 'urn:uuid:27faf6d5-d2c8-56d1-bde1-bc23bc7d98cb'
+    link: 'https://pub.dartlang.org/packages/pubviz'
+    author:
+        - 'Kevin Moore <kevmoo@google.com>'
+-
+    package_name: enum_class_generator
+    package_version: v0.0.5
+    title: 'v0.0.5 of enum_class_generator'
+    published: '2015-10-22T07:16:55+00:00'
+    id: 'urn:uuid:47bd86a1-6ca3-5f59-b63d-444c5850d5b6'
+    link: 'https://pub.dartlang.org/packages/enum_class_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: enum_class
+    package_version: v0.0.5
+    title: 'v0.0.5 of enum_class'
+    published: '2015-10-22T07:16:33+00:00'
+    id: 'urn:uuid:07ca4f6b-c3df-5343-96eb-8fad9c723427'
+    link: 'https://pub.dartlang.org/packages/enum_class'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
