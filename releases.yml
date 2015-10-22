@@ -40487,3 +40487,21 @@
     link: 'https://pub.dartlang.org/packages/immutable'
     author:
         - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: slugfield
+    package_version: v0.0.2
+    title: 'v0.0.2 of slugfield'
+    published: '2015-10-22T14:59:40+00:00'
+    id: 'urn:uuid:b176521a-892b-56a4-a791-570ac47f6f85'
+    link: 'https://pub.dartlang.org/packages/slugfield'
+    author:
+        - 'Svintsov Dmitry <sacrud@uralbash.ru>'
+-
+    package_name: mdl
+    package_version: v1.7.0
+    title: 'v1.7.0 of mdl'
+    published: '2015-10-22T14:25:37+00:00'
+    id: 'urn:uuid:29e18cb1-0201-532c-997e-dee6b5b30ad6'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
