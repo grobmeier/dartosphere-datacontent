@@ -40379,3 +40379,30 @@
     link: 'https://pub.dartlang.org/packages/dart2js_info'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: malison
+    package_version: v0.4.0
+    title: 'v0.4.0 of malison'
+    published: '2015-10-22T04:55:18+00:00'
+    id: 'urn:uuid:b3e8b29c-91a4-58f2-a68a-47207b85ff50'
+    link: 'https://pub.dartlang.org/packages/malison'
+    author:
+        - 'Bob Nystrom <robert@stuffwithstuff.com>'
+-
+    package_name: access
+    package_version: v0.6.7
+    title: 'v0.6.7 of access'
+    published: '2015-10-22T04:55:03+00:00'
+    id: 'urn:uuid:c2dc6490-fa6c-5cd0-9fee-f5d6b9ebacbf'
+    link: 'https://pub.dartlang.org/packages/access'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: entity
+    package_version: v0.8.3
+    title: 'v0.8.3 of entity'
+    published: '2015-10-22T04:08:23+00:00'
+    id: 'urn:uuid:3a103129-ca2b-59a3-8563-c9f5b447bc16'
+    link: 'https://pub.dartlang.org/packages/entity'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
