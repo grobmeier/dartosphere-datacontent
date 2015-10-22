@@ -40478,3 +40478,12 @@
     link: 'https://pub.dartlang.org/packages/enum_class'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: immutable
+    package_version: v0.0.3
+    title: 'v0.0.3 of immutable'
+    published: '2015-10-22T11:20:35+00:00'
+    id: 'urn:uuid:1d35ba66-77db-5329-82e2-2c2e23527f59'
+    link: 'https://pub.dartlang.org/packages/immutable'
+    author:
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
