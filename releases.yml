@@ -40541,3 +40541,21 @@
     link: 'https://pub.dartlang.org/packages/rxdart'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: polymer_route_behavior
+    package_version: v0.0.6
+    title: 'v0.0.6 of polymer_route_behavior'
+    published: '2015-10-22T20:44:28+00:00'
+    id: 'urn:uuid:33d6db15-49ab-5dd7-81d4-dbb705a9664a'
+    link: 'https://pub.dartlang.org/packages/polymer_route_behavior'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: react
+    package_version: v0.8.1
+    title: 'v0.8.1 of react'
+    published: '2015-10-22T20:31:30+00:00'
+    id: 'urn:uuid:d8d39ab3-99eb-5435-8bde-029dc250f4e4'
+    link: 'https://pub.dartlang.org/packages/react'
+    author:
+        - 'Clean Team <clean@vacuumlabs.com>'
