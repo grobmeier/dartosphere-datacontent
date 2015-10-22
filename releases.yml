@@ -40532,3 +40532,12 @@
     link: 'https://pub.dartlang.org/packages/weDGE'
     author:
         - 'Viktor Zoutman'
+-
+    package_name: rxdart
+    package_version: v0.1.0+2
+    title: 'v0.1.0+2 of rxdart'
+    published: '2015-10-22T18:25:19+00:00'
+    id: 'urn:uuid:51936cde-bf2b-5ce8-82cb-fcb1d069dc9e'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
