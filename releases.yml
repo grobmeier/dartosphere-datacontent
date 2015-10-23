@@ -40704,3 +40704,12 @@
     link: 'https://pub.dartlang.org/packages/scissors'
     author:
         - 'Olivier Chafik <ochafik@google.com>'
+-
+    package_name: smartcanvas
+    package_version: v0.2.0+7
+    title: 'v0.2.0+7 of smartcanvas'
+    published: '2015-10-23T14:42:54+00:00'
+    id: 'urn:uuid:6002eb0e-a5cd-5477-90a8-cfe915fd5bd0'
+    link: 'https://pub.dartlang.org/packages/smartcanvas'
+    author:
+        - 'Kun Zhao <kzhdev@gmail.com>'
