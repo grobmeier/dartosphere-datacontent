@@ -40586,3 +40586,12 @@
     link: 'https://pub.dartlang.org/packages/fft'
     author:
         - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: lightning
+    package_version: v0.10.1+0
+    title: 'v0.10.1+0 of lightning'
+    published: '2015-10-23T02:28:32+00:00'
+    id: 'urn:uuid:31c60585-be26-58c3-8b83-74571ecaa26f'
+    link: 'https://pub.dartlang.org/packages/lightning'
+    author:
+        - 'Accorto Lightning <lightning@accorto.com>'
