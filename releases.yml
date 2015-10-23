@@ -40695,3 +40695,12 @@
     author:
         - 'Vizidrix <admin@vizidrix.com>'
         - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: scissors
+    package_version: v0.1.1
+    title: 'v0.1.1 of scissors'
+    published: '2015-10-23T13:46:00+00:00'
+    id: 'urn:uuid:9232e1fe-4584-5691-9aa8-8410d1463329'
+    link: 'https://pub.dartlang.org/packages/scissors'
+    author:
+        - 'Olivier Chafik <ochafik@google.com>'
