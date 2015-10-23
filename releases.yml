@@ -40640,3 +40640,39 @@
     link: 'https://pub.dartlang.org/packages/dev_test'
     author:
         - 'Alexandre Roux @ Tekartik <alex@tekartik.com>'
+-
+    package_name: enum_class_generator
+    package_version: v0.0.6
+    title: 'v0.0.6 of enum_class_generator'
+    published: '2015-10-23T11:57:18+00:00'
+    id: 'urn:uuid:2bba0409-8e57-5e13-ad29-0f37bb30322e'
+    link: 'https://pub.dartlang.org/packages/enum_class_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: enum_class
+    package_version: v0.0.6
+    title: 'v0.0.6 of enum_class'
+    published: '2015-10-23T11:56:54+00:00'
+    id: 'urn:uuid:accf7a44-28c2-5630-a607-ce896e50a653'
+    link: 'https://pub.dartlang.org/packages/enum_class'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value_generator
+    package_version: v0.0.4
+    title: 'v0.0.4 of built_value_generator'
+    published: '2015-10-23T11:28:31+00:00'
+    id: 'urn:uuid:578a9482-b29b-55f9-a6bb-8e1f922fe409'
+    link: 'https://pub.dartlang.org/packages/built_value_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value
+    package_version: v0.0.4
+    title: 'v0.0.4 of built_value'
+    published: '2015-10-23T11:27:53+00:00'
+    id: 'urn:uuid:6cec1952-55aa-5fae-be82-3f005ced86f8'
+    link: 'https://pub.dartlang.org/packages/built_value'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
