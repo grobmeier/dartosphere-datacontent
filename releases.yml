@@ -40758,3 +40758,57 @@
     link: 'https://pub.dartlang.org/packages/rxdart'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: flutter_sprites
+    package_version: v0.0.8
+    title: 'v0.0.8 of flutter_sprites'
+    published: '2015-10-23T17:15:29+00:00'
+    id: 'urn:uuid:0d89990e-c295-50d9-b6b1-cacbb779fcab'
+    link: 'https://pub.dartlang.org/packages/flutter_sprites'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: flutter
+    package_version: v0.0.11
+    title: 'v0.0.11 of flutter'
+    published: '2015-10-23T17:14:41+00:00'
+    id: 'urn:uuid:49743772-063f-53ad-a5d1-3ff98e25857d'
+    link: 'https://pub.dartlang.org/packages/flutter'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.41
+    title: 'v0.0.41 of sky_services'
+    published: '2015-10-23T17:14:38+00:00'
+    id: 'urn:uuid:1d2fe3c5-67a7-520a-8bf1-f9f98deae13a'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.41
+    title: 'v0.0.41 of sky_engine'
+    published: '2015-10-23T17:14:35+00:00'
+    id: 'urn:uuid:f935157d-701e-536e-bf90-5a02df45c55f'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: custom_element_apigen
+    package_version: v0.2.1
+    title: 'v0.2.1 of custom_element_apigen'
+    published: '2015-10-23T17:06:15+00:00'
+    id: 'urn:uuid:59c442a5-2a90-5ef5-b44f-a3e72094d60d'
+    link: 'https://pub.dartlang.org/packages/custom_element_apigen'
+    author:
+        - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: dartemis_transformer
+    package_version: v0.1.1
+    title: 'v0.1.1 of dartemis_transformer'
+    published: '2015-10-23T17:05:51+00:00'
+    id: 'urn:uuid:d7c83a16-b4b7-5a8c-80b2-face70c1beb6'
+    link: 'https://pub.dartlang.org/packages/dartemis_transformer'
+    author:
+        - 'Dennis Kaselow <Dennis.Kaselow+dartemis@gmail.com>'
