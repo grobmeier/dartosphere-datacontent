@@ -40830,3 +40830,12 @@
     link: 'https://pub.dartlang.org/packages/sky_tools'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: rxdart
+    package_version: v0.1.0+5
+    title: 'v0.1.0+5 of rxdart'
+    published: '2015-10-23T23:37:26+00:00'
+    id: 'urn:uuid:b79de45a-3513-5e5e-a1a5-88150adaa5ae'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
