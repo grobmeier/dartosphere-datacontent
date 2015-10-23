@@ -40731,3 +40731,30 @@
     link: 'https://pub.dartlang.org/packages/quantity'
     author:
         - 'Rob Bishop (cooler-king)'
+-
+    package_name: dartemis
+    package_version: v0.7.1
+    title: 'v0.7.1 of dartemis'
+    published: '2015-10-23T16:51:04+00:00'
+    id: 'urn:uuid:7c53e90d-ae15-58ce-9468-710f2544eae1'
+    link: 'https://pub.dartlang.org/packages/dartemis'
+    author:
+        - 'Dennis Kaselow <Dennis.Kaselow+dartemis@gmail.com>'
+-
+    package_name: realtime_data_model
+    package_version: v0.0.20
+    title: 'v0.0.20 of realtime_data_model'
+    published: '2015-10-23T16:31:00+00:00'
+    id: 'urn:uuid:c6701d43-052a-5f70-ad9a-beca31503731'
+    link: 'https://pub.dartlang.org/packages/realtime_data_model'
+    author:
+        - 'Christopher Best <bestchris@gmail.com>'
+-
+    package_name: rxdart
+    package_version: v0.1.0+4
+    title: 'v0.1.0+4 of rxdart'
+    published: '2015-10-23T16:14:11+00:00'
+    id: 'urn:uuid:96999aa6-2756-55eb-9541-3af68c8569ad'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
