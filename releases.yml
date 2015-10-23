@@ -40676,3 +40676,22 @@
     link: 'https://pub.dartlang.org/packages/built_value'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: quantity
+    package_version: v0.1.3+1
+    title: 'v0.1.3+1 of quantity'
+    published: '2015-10-23T12:48:35+00:00'
+    id: 'urn:uuid:6212066c-6542-5289-add1-e664edbbf0f2'
+    link: 'https://pub.dartlang.org/packages/quantity'
+    author:
+        - 'Rob Bishop (cooler-king)'
+-
+    package_name: disposable
+    package_version: v0.2.1
+    title: 'v0.2.1 of disposable'
+    published: '2015-10-23T12:25:47+00:00'
+    id: 'urn:uuid:df345d47-1bd1-5f38-ab11-4458e2185319'
+    link: 'https://pub.dartlang.org/packages/disposable'
+    author:
+        - 'Vizidrix <admin@vizidrix.com>'
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
