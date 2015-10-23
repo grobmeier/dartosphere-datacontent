@@ -40595,3 +40595,21 @@
     link: 'https://pub.dartlang.org/packages/lightning'
     author:
         - 'Accorto Lightning <lightning@accorto.com>'
+-
+    package_name: malison
+    package_version: v0.4.2
+    title: 'v0.4.2 of malison'
+    published: '2015-10-23T03:34:06+00:00'
+    id: 'urn:uuid:3e66de7c-0b2c-5c23-ac2e-b6a3c3198fed'
+    link: 'https://pub.dartlang.org/packages/malison'
+    author:
+        - 'Bob Nystrom <robert@stuffwithstuff.com>'
+-
+    package_name: piecemeal
+    package_version: v0.2.0
+    title: 'v0.2.0 of piecemeal'
+    published: '2015-10-23T03:28:59+00:00'
+    id: 'urn:uuid:7ac75bde-620d-576f-b9bf-1ea766b03436'
+    link: 'https://pub.dartlang.org/packages/piecemeal'
+    author:
+        - 'Bob Nystrom <robert@stuffwithstuff.com>'
