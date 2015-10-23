@@ -40821,3 +40821,12 @@
     link: 'https://pub.dartlang.org/packages/tuneup'
     author:
         - 'Devon Carew <devoncarew@google.com>'
+-
+    package_name: sky_tools
+    package_version: v0.0.26
+    title: 'v0.0.26 of sky_tools'
+    published: '2015-10-23T21:56:56+00:00'
+    id: 'urn:uuid:96856664-63fc-59d6-adf6-05b11e79bb04'
+    link: 'https://pub.dartlang.org/packages/sky_tools'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
