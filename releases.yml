@@ -40848,3 +40848,12 @@
     link: 'https://pub.dartlang.org/packages/rxdart'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: syncbase
+    package_version: v0.0.8
+    title: 'v0.0.8 of syncbase'
+    published: '2015-10-24T01:13:41+00:00'
+    id: 'urn:uuid:1f8d6aa3-6601-583a-b6ce-cca826167080'
+    link: 'https://pub.dartlang.org/packages/syncbase'
+    author:
+        - 'Vanadium Authors'
