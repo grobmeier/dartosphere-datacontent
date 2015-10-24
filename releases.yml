@@ -40875,3 +40875,12 @@
     link: 'https://pub.dartlang.org/packages/red_black_tree'
     author:
         - 'Kendal Harland <kendaljharland@gmail.com>'
+-
+    package_name: rxdart
+    package_version: v0.2.0
+    title: 'v0.2.0 of rxdart'
+    published: '2015-10-24T10:43:14+00:00'
+    id: 'urn:uuid:ed4656b2-9a55-561d-b1ba-7b8ca0c08073'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
