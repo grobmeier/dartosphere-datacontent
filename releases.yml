@@ -40866,3 +40866,12 @@
     link: 'https://pub.dartlang.org/packages/red_black_tree'
     author:
         - 'Kendal Harland <kendaljharland@gmail.com>'
+-
+    package_name: red_black_tree
+    package_version: v0.1.6
+    title: 'v0.1.6 of red_black_tree'
+    published: '2015-10-24T07:44:55+00:00'
+    id: 'urn:uuid:4d2dadb5-c56b-56a8-a981-dda3d0e78c72'
+    link: 'https://pub.dartlang.org/packages/red_black_tree'
+    author:
+        - 'Kendal Harland <kendaljharland@gmail.com>'
