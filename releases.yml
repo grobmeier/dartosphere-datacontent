@@ -40857,3 +40857,12 @@
     link: 'https://pub.dartlang.org/packages/syncbase'
     author:
         - 'Vanadium Authors'
+-
+    package_name: red_black_tree
+    package_version: v0.1.5
+    title: 'v0.1.5 of red_black_tree'
+    published: '2015-10-24T03:53:32+00:00'
+    id: 'urn:uuid:e50eb781-48d0-56ec-9181-13e122712b98'
+    link: 'https://pub.dartlang.org/packages/red_black_tree'
+    author:
+        - 'Kendal Harland <kendaljharland@gmail.com>'
