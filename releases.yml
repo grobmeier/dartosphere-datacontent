@@ -40920,3 +40920,21 @@
     link: 'https://pub.dartlang.org/packages/faker'
     author:
         - 'Jesper Håkansson <jesper@jesperh.se>'
+-
+    package_name: yml2html
+    package_version: v0.2.0
+    title: 'v0.2.0 of yml2html'
+    published: '2015-10-25T17:52:51+00:00'
+    id: 'urn:uuid:b30fcaf8-267e-5359-a631-602e64ae5dff'
+    link: 'https://pub.dartlang.org/packages/yml2html'
+    author:
+        - 'diederik-dev <diederik.dev@gmail.com>'
+-
+    package_name: polymer_app_layout_template
+    package_version: v0.0.9
+    title: 'v0.0.9 of polymer_app_layout_template'
+    published: '2015-10-25T17:08:08+00:00'
+    id: 'urn:uuid:81d2ef0b-eb02-5ffb-872d-e17e6f981100'
+    link: 'https://pub.dartlang.org/packages/polymer_app_layout_template'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
