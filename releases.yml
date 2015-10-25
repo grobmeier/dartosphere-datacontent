@@ -40911,3 +40911,12 @@
     link: 'https://pub.dartlang.org/packages/rl_matrix'
     author:
         - 'R.S. Schermer <roland0507@gmail.com>'
+-
+    package_name: faker
+    package_version: v0.0.4
+    title: 'v0.0.4 of faker'
+    published: '2015-10-25T15:08:46+00:00'
+    id: 'urn:uuid:afeda839-2533-5f7b-b89a-9800b3e70276'
+    link: 'https://pub.dartlang.org/packages/faker'
+    author:
+        - 'Jesper Håkansson <jesper@jesperh.se>'
