@@ -40947,3 +40947,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_app_layout_template'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: aws_policy_expander_minimizer
+    package_version: v0.0.5
+    title: 'v0.0.5 of aws_policy_expander_minimizer'
+    published: '2015-10-25T22:48:25+00:00'
+    id: 'urn:uuid:88364b86-0104-5e67-bd79-b6bf27e9fac9'
+    link: 'https://pub.dartlang.org/packages/aws_policy_expander_minimizer'
+    author:
+        - 'Patrick Kelley <pkelley@netflix.com>'
