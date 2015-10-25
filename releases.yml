@@ -40902,3 +40902,12 @@
     link: 'https://pub.dartlang.org/packages/rxdart'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: rl_matrix
+    package_version: v0.4.2
+    title: 'v0.4.2 of rl_matrix'
+    published: '2015-10-25T10:50:41+00:00'
+    id: 'urn:uuid:4f62650c-3094-55a6-9119-e3b9180ac02f'
+    link: 'https://pub.dartlang.org/packages/rl_matrix'
+    author:
+        - 'R.S. Schermer <roland0507@gmail.com>'
