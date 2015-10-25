@@ -40938,3 +40938,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_app_layout_template'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: polymer_app_layout_template
+    package_version: v0.0.10
+    title: 'v0.0.10 of polymer_app_layout_template'
+    published: '2015-10-25T18:28:52+00:00'
+    id: 'urn:uuid:c9b2e8a1-e034-5619-a1f9-fe5cac68dbaa'
+    link: 'https://pub.dartlang.org/packages/polymer_app_layout_template'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
