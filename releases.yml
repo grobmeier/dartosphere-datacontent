@@ -41001,3 +41001,12 @@
     link: 'https://pub.dartlang.org/packages/vm_service_lib'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: analyzer
+    package_version: v0.26.1+15
+    title: 'v0.26.1+15 of analyzer'
+    published: '2015-10-26T03:49:17+00:00'
+    id: 'urn:uuid:7a4239b3-fc15-5493-a11a-b236429a1d0e'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
