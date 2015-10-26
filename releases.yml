@@ -41019,3 +41019,12 @@
     link: 'https://pub.dartlang.org/packages/entity'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: entity
+    package_version: v0.8.5
+    title: 'v0.8.5 of entity'
+    published: '2015-10-26T08:42:36+00:00'
+    id: 'urn:uuid:96027205-1f20-5bfe-b079-153ab5dbe8f4'
+    link: 'https://pub.dartlang.org/packages/entity'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
