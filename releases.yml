@@ -41037,3 +41037,30 @@
     link: 'https://pub.dartlang.org/packages/polymer_route_behavior'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: dartemis
+    package_version: v0.7.2
+    title: 'v0.7.2 of dartemis'
+    published: '2015-10-26T15:44:18+00:00'
+    id: 'urn:uuid:8901ed04-7b4f-5a40-8b9c-b3322ef5f68b'
+    link: 'https://pub.dartlang.org/packages/dartemis'
+    author:
+        - 'Dennis Kaselow <Dennis.Kaselow+dartemis@gmail.com>'
+-
+    package_name: scissors
+    package_version: v0.1.2
+    title: 'v0.1.2 of scissors'
+    published: '2015-10-26T15:10:44+00:00'
+    id: 'urn:uuid:d558bf85-7382-50f1-9abf-62120fbac990'
+    link: 'https://pub.dartlang.org/packages/scissors'
+    author:
+        - 'Olivier Chafik <ochafik@google.com>'
+-
+    package_name: polymer_app_layout_template
+    package_version: v0.0.11
+    title: 'v0.0.11 of polymer_app_layout_template'
+    published: '2015-10-26T15:05:37+00:00'
+    id: 'urn:uuid:076ba68c-6a76-5458-83c2-9f57b7e66a52'
+    link: 'https://pub.dartlang.org/packages/polymer_app_layout_template'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
