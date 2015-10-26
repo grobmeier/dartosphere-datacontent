@@ -41096,3 +41096,48 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: flutter_sprites
+    package_version: v0.0.9
+    title: 'v0.0.9 of flutter_sprites'
+    published: '2015-10-26T17:43:46+00:00'
+    id: 'urn:uuid:118866bd-9e04-51e8-9645-f22c136c928d'
+    link: 'https://pub.dartlang.org/packages/flutter_sprites'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: flutter
+    package_version: v0.0.12
+    title: 'v0.0.12 of flutter'
+    published: '2015-10-26T17:43:43+00:00'
+    id: 'urn:uuid:761fee90-f611-55de-bdcc-6827f1f9a30a'
+    link: 'https://pub.dartlang.org/packages/flutter'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.42
+    title: 'v0.0.42 of sky_services'
+    published: '2015-10-26T17:43:41+00:00'
+    id: 'urn:uuid:58d99883-e306-5fb9-baff-995cec6c6df2'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.42
+    title: 'v0.0.42 of sky_engine'
+    published: '2015-10-26T17:43:38+00:00'
+    id: 'urn:uuid:4a64d639-80a3-5d09-84b9-e5281fc29ce5'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: simplegamelib
+    package_version: v0.0.11
+    title: 'v0.0.11 of simplegamelib'
+    published: '2015-10-26T17:39:48+00:00'
+    id: 'urn:uuid:48a5e9a7-93de-5b01-a483-23306e4c0faa'
+    link: 'https://pub.dartlang.org/packages/simplegamelib'
+    author:
+        - 'Davy Mitchell <daftspaniel@gmail.com>'
