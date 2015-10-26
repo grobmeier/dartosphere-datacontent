@@ -41159,3 +41159,21 @@
     link: 'https://pub.dartlang.org/packages/sky_tools'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: polymer_app_layout_template
+    package_version: v0.0.12
+    title: 'v0.0.12 of polymer_app_layout_template'
+    published: '2015-10-26T20:55:30+00:00'
+    id: 'urn:uuid:4d5b51e1-23a0-5d56-8e2a-12862870e8ad'
+    link: 'https://pub.dartlang.org/packages/polymer_app_layout_template'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: polymer_route_behavior
+    package_version: v0.0.10
+    title: 'v0.0.10 of polymer_route_behavior'
+    published: '2015-10-26T20:51:02+00:00'
+    id: 'urn:uuid:4be821b7-1967-50dd-96fb-56b520068d27'
+    link: 'https://pub.dartlang.org/packages/polymer_route_behavior'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
