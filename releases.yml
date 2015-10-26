@@ -41141,3 +41141,12 @@
     link: 'https://pub.dartlang.org/packages/simplegamelib'
     author:
         - 'Davy Mitchell <daftspaniel@gmail.com>'
+-
+    package_name: flx
+    package_version: v0.0.1
+    title: 'v0.0.1 of flx'
+    published: '2015-10-26T18:52:23+00:00'
+    id: 'urn:uuid:836d1754-52d8-5547-8c23-c5b54e2ee1e2'
+    link: 'https://pub.dartlang.org/packages/flx'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
