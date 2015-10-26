@@ -41028,3 +41028,12 @@
     link: 'https://pub.dartlang.org/packages/entity'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: polymer_route_behavior
+    package_version: v0.0.8
+    title: 'v0.0.8 of polymer_route_behavior'
+    published: '2015-10-26T14:59:41+00:00'
+    id: 'urn:uuid:b61ba96c-10d3-55f3-ab99-607092d2c757'
+    link: 'https://pub.dartlang.org/packages/polymer_route_behavior'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
