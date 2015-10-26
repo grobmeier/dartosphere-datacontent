@@ -41010,3 +41010,12 @@
     link: 'https://pub.dartlang.org/packages/analyzer'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: entity
+    package_version: v0.8.3+1
+    title: 'v0.8.3+1 of entity'
+    published: '2015-10-26T05:04:23+00:00'
+    id: 'urn:uuid:91131322-df2a-5ddd-96a7-d251cacccd3b'
+    link: 'https://pub.dartlang.org/packages/entity'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
