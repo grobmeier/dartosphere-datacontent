@@ -40956,3 +40956,39 @@
     link: 'https://pub.dartlang.org/packages/aws_policy_expander_minimizer'
     author:
         - 'Patrick Kelley <pkelley@netflix.com>'
+-
+    package_name: dogma_rest_connection
+    package_version: v0.0.1
+    title: 'v0.0.1 of dogma_rest_connection'
+    published: '2015-10-26T01:48:48+00:00'
+    id: 'urn:uuid:577a9425-5de5-57bb-880e-90704f9fe01c'
+    link: 'https://pub.dartlang.org/packages/dogma_rest_connection'
+    author:
+        - 'Don Olmstead <don.j.olmstead@gmail.com>'
+-
+    package_name: dogma_mapper
+    package_version: v0.0.1
+    title: 'v0.0.1 of dogma_mapper'
+    published: '2015-10-26T01:46:38+00:00'
+    id: 'urn:uuid:ca1dea75-643a-5cba-b9e3-bdc5fa438bd9'
+    link: 'https://pub.dartlang.org/packages/dogma_mapper'
+    author:
+        - 'Don Olmstead <don.j.olmstead@gmail.com>'
+-
+    package_name: dogma_rest_client
+    package_version: v0.0.1
+    title: 'v0.0.1 of dogma_rest_client'
+    published: '2015-10-26T01:36:53+00:00'
+    id: 'urn:uuid:97432c92-be5c-5a2a-aaba-a1c8cae12c98'
+    link: 'https://pub.dartlang.org/packages/dogma_rest_client'
+    author:
+        - 'Don Olmstead <don.j.olmstead@gmail.com>'
+-
+    package_name: dogma_connection
+    package_version: v0.0.1
+    title: 'v0.0.1 of dogma_connection'
+    published: '2015-10-26T01:33:44+00:00'
+    id: 'urn:uuid:d223e462-a532-549d-a107-bd1211cb2666'
+    link: 'https://pub.dartlang.org/packages/dogma_connection'
+    author:
+        - 'Don Olmstead <don.j.olmstead@gmail.com>'
