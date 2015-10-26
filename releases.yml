@@ -41150,3 +41150,12 @@
     link: 'https://pub.dartlang.org/packages/flx'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_tools
+    package_version: v0.0.27
+    title: 'v0.0.27 of sky_tools'
+    published: '2015-10-26T19:31:37+00:00'
+    id: 'urn:uuid:52c51dbb-2813-544e-ad07-4509d318fa5b'
+    link: 'https://pub.dartlang.org/packages/sky_tools'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
