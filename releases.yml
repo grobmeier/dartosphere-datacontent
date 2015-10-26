@@ -40992,3 +40992,12 @@
     link: 'https://pub.dartlang.org/packages/dogma_connection'
     author:
         - 'Don Olmstead <don.j.olmstead@gmail.com>'
+-
+    package_name: vm_service_lib
+    package_version: v0.0.7
+    title: 'v0.0.7 of vm_service_lib'
+    published: '2015-10-26T02:11:26+00:00'
+    id: 'urn:uuid:1992dfef-13ee-5891-a07d-f8a5aad7dca8'
+    link: 'https://pub.dartlang.org/packages/vm_service_lib'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
