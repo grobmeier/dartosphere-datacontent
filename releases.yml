@@ -41213,3 +41213,12 @@
     link: 'https://pub.dartlang.org/packages/access'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: elements
+    package_version: v0.9.55
+    title: 'v0.9.55 of elements'
+    published: '2015-10-27T11:57:22+00:00'
+    id: 'urn:uuid:62f75284-1be2-59db-abf1-210c7b9cfa60'
+    link: 'https://pub.dartlang.org/packages/elements'
+    author:
+        - 'Patrick Minogue <patrick.minogue@appfoundry.se>'
