@@ -41186,3 +41186,21 @@
     link: 'https://pub.dartlang.org/packages/shelf'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: malison
+    package_version: v0.4.3
+    title: 'v0.4.3 of malison'
+    published: '2015-10-27T02:41:04+00:00'
+    id: 'urn:uuid:ac855288-31b7-5fad-905e-c9931d38e3bf'
+    link: 'https://pub.dartlang.org/packages/malison'
+    author:
+        - 'Bob Nystrom <robert@stuffwithstuff.com>'
+-
+    package_name: piecemeal
+    package_version: v0.2.1
+    title: 'v0.2.1 of piecemeal'
+    published: '2015-10-27T02:37:21+00:00'
+    id: 'urn:uuid:058b0b33-01d7-5630-8f81-fe3fb27cc5b6'
+    link: 'https://pub.dartlang.org/packages/piecemeal'
+    author:
+        - 'Bob Nystrom <robert@stuffwithstuff.com>'
