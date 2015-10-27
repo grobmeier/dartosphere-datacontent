@@ -41222,3 +41222,12 @@
     link: 'https://pub.dartlang.org/packages/elements'
     author:
         - 'Patrick Minogue <patrick.minogue@appfoundry.se>'
+-
+    package_name: sembast
+    package_version: v1.3.0
+    title: 'v1.3.0 of sembast'
+    published: '2015-10-27T18:59:26+00:00'
+    id: 'urn:uuid:5fd62686-fca0-5722-9829-81c82de751e3'
+    link: 'https://pub.dartlang.org/packages/sembast'
+    author:
+        - 'Alexandre Roux Tekartik <alex.tekartik.pub@gmail.com>'
