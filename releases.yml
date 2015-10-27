@@ -41177,3 +41177,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_route_behavior'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: shelf
+    package_version: v0.6.4
+    title: 'v0.6.4 of shelf'
+    published: '2015-10-26T23:03:14+00:00'
+    id: 'urn:uuid:e7594c35-e362-5cb5-bac2-412965166184'
+    link: 'https://pub.dartlang.org/packages/shelf'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
