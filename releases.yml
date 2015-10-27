@@ -41204,3 +41204,12 @@
     link: 'https://pub.dartlang.org/packages/piecemeal'
     author:
         - 'Bob Nystrom <robert@stuffwithstuff.com>'
+-
+    package_name: access
+    package_version: v0.6.8
+    title: 'v0.6.8 of access'
+    published: '2015-10-27T07:03:23+00:00'
+    id: 'urn:uuid:6cd44cb0-d41e-5eb5-8f9b-2e224167e810'
+    link: 'https://pub.dartlang.org/packages/access'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
