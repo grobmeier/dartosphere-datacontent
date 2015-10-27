@@ -41240,3 +41240,12 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: idb_shim
+    package_version: v1.3.0
+    title: 'v1.3.0 of idb_shim'
+    published: '2015-10-27T22:36:33+00:00'
+    id: 'urn:uuid:19988aad-042a-53c1-8e5e-cb430950519a'
+    link: 'https://pub.dartlang.org/packages/idb_shim'
+    author:
+        - 'Alexandre Roux Tekartik <alex.tekartik.pub@gmail.com>'
