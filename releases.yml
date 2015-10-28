@@ -41340,3 +41340,12 @@
     link: 'https://pub.dartlang.org/packages/postgresql'
     author:
         - 'Greg Lowe <greg@vis.net.nz>'
+-
+    package_name: fnx_router
+    package_version: v0.2.1
+    title: 'v0.2.1 of fnx_router'
+    published: '2015-10-28T13:15:53+00:00'
+    id: 'urn:uuid:e01dadd3-161d-5c74-90c4-f784e79aa3e6'
+    link: 'https://pub.dartlang.org/packages/fnx_router'
+    author:
+        - 'Tomas Zverina <tomucha@gmail.com>'
