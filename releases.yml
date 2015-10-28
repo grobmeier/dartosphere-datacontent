@@ -41249,3 +41249,30 @@
     link: 'https://pub.dartlang.org/packages/idb_shim'
     author:
         - 'Alexandre Roux Tekartik <alex.tekartik.pub@gmail.com>'
+-
+    package_name: atlassian_connect_shelf
+    package_version: v0.11.4
+    title: 'v0.11.4 of atlassian_connect_shelf'
+    published: '2015-10-28T02:29:09+00:00'
+    id: 'urn:uuid:be926dfd-6f81-57ed-be7c-12aa9a035314'
+    link: 'https://pub.dartlang.org/packages/atlassian_connect_shelf'
+    author:
+        - 'Anders Holmgren <aholmgren@atlassian.com>'
+-
+    package_name: atlassian_connect_host
+    package_version: v0.5.4
+    title: 'v0.5.4 of atlassian_connect_host'
+    published: '2015-10-28T02:28:44+00:00'
+    id: 'urn:uuid:aff23eaf-461e-54f5-8447-fc4c3a9f0c8a'
+    link: 'https://pub.dartlang.org/packages/atlassian_connect_host'
+    author:
+        - 'Anders Holmgren <aholmgren@atlassian.com>'
+-
+    package_name: atlassian_connect_jwt
+    package_version: v0.3.5
+    title: 'v0.3.5 of atlassian_connect_jwt'
+    published: '2015-10-28T02:28:18+00:00'
+    id: 'urn:uuid:e2aaeafb-4d3f-5ba0-8df7-48098e1f2b92'
+    link: 'https://pub.dartlang.org/packages/atlassian_connect_jwt'
+    author:
+        - 'Anders Holmgren <aholmgren@atlassian.com>'
