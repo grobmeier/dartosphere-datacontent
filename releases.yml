@@ -41322,3 +41322,12 @@
     author:
         - 'Vizidrix <admin@vizidrix.com>'
         - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: mustache
+    package_version: v0.2.4
+    title: 'v0.2.4 of mustache'
+    published: '2015-10-28T08:55:45+00:00'
+    id: 'urn:uuid:4a5c426d-8acf-51c8-a3d7-69083330bfdb'
+    link: 'https://pub.dartlang.org/packages/mustache'
+    author:
+        - 'Greg Lowe <greg@vis.net.nz>'
