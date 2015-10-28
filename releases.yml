@@ -41376,3 +41376,12 @@
     link: 'https://pub.dartlang.org/packages/sky_tools'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: custom_element_apigen
+    package_version: v0.2.1+1
+    title: 'v0.2.1+1 of custom_element_apigen'
+    published: '2015-10-28T18:02:25+00:00'
+    id: 'urn:uuid:ff33d1ae-d0f7-559b-888d-5457d74a705d'
+    link: 'https://pub.dartlang.org/packages/custom_element_apigen'
+    author:
+        - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
