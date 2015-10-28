@@ -41385,3 +41385,66 @@
     link: 'https://pub.dartlang.org/packages/custom_element_apigen'
     author:
         - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: dart2js_info
+    package_version: v0.2.2+1
+    title: 'v0.2.2+1 of dart2js_info'
+    published: '2015-10-28T20:57:47+00:00'
+    id: 'urn:uuid:2ce364c5-d19a-5306-88a5-e76565d9a48a'
+    link: 'https://pub.dartlang.org/packages/dart2js_info'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: typed_data
+    package_version: v1.1.0
+    title: 'v1.1.0 of typed_data'
+    published: '2015-10-28T20:50:51+00:00'
+    id: 'urn:uuid:d13b0bc7-ad10-5690-80a8-e8b43725c098'
+    link: 'https://pub.dartlang.org/packages/typed_data'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: syncbase
+    package_version: v0.0.9
+    title: 'v0.0.9 of syncbase'
+    published: '2015-10-28T20:50:50+00:00'
+    id: 'urn:uuid:cb8a2a00-b5a9-5376-8fa1-4e87b8196aa0'
+    link: 'https://pub.dartlang.org/packages/syncbase'
+    author:
+        - 'Vanadium Authors'
+-
+    package_name: mojom
+    package_version: v0.2.4
+    title: 'v0.2.4 of mojom'
+    published: '2015-10-28T20:17:36+00:00'
+    id: 'urn:uuid:683b5e75-3ee2-5b65-9f01-c03e7b6441d2'
+    link: 'https://pub.dartlang.org/packages/mojom'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_services
+    package_version: v0.4.1
+    title: 'v0.4.1 of mojo_services'
+    published: '2015-10-28T20:17:05+00:00'
+    id: 'urn:uuid:cb8676e3-fa1d-5d39-9a0a-3ef7746abbc6'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_apptest
+    package_version: v0.2.4
+    title: 'v0.2.4 of mojo_apptest'
+    published: '2015-10-28T20:13:28+00:00'
+    id: 'urn:uuid:ee529640-124a-5fef-a024-7214f4e53a33'
+    link: 'https://pub.dartlang.org/packages/mojo_apptest'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo
+    package_version: v0.3.1
+    title: 'v0.3.1 of mojo'
+    published: '2015-10-28T20:13:25+00:00'
+    id: 'urn:uuid:2341a39c-80e2-50f8-9136-d27723ad783c'
+    link: 'https://pub.dartlang.org/packages/mojo'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
