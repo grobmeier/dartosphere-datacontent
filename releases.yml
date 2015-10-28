@@ -41502,3 +41502,39 @@
     link: 'https://pub.dartlang.org/packages/build_system'
     author:
         - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+-
+    package_name: flutter_sprites
+    package_version: v0.0.11
+    title: 'v0.0.11 of flutter_sprites'
+    published: '2015-10-28T22:38:57+00:00'
+    id: 'urn:uuid:b833d403-36ce-510a-a2eb-3148cdf1ceb2'
+    link: 'https://pub.dartlang.org/packages/flutter_sprites'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: flutter
+    package_version: v0.0.14
+    title: 'v0.0.14 of flutter'
+    published: '2015-10-28T22:38:54+00:00'
+    id: 'urn:uuid:678e6146-462a-5960-9ce4-2ef606b7c9f5'
+    link: 'https://pub.dartlang.org/packages/flutter'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.44
+    title: 'v0.0.44 of sky_services'
+    published: '2015-10-28T22:38:51+00:00'
+    id: 'urn:uuid:5770261d-8991-5ae9-80aa-24894a2d2983'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.44
+    title: 'v0.0.44 of sky_engine'
+    published: '2015-10-28T22:38:48+00:00'
+    id: 'urn:uuid:ed8ce9fe-7388-56c5-8ef3-bba112859982'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
