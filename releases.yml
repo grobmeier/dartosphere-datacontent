@@ -41367,3 +41367,12 @@
     link: 'https://pub.dartlang.org/packages/fnx_router'
     author:
         - 'Tomas Zverina <tomucha@gmail.com>'
+-
+    package_name: sky_tools
+    package_version: v0.0.28
+    title: 'v0.0.28 of sky_tools'
+    published: '2015-10-28T17:56:35+00:00'
+    id: 'urn:uuid:460a0feb-c567-5a63-a75f-2bd8eb32399a'
+    link: 'https://pub.dartlang.org/packages/sky_tools'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
