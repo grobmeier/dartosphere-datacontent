@@ -41538,3 +41538,12 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: shelf
+    package_version: v0.6.4+1
+    title: 'v0.6.4+1 of shelf'
+    published: '2015-10-28T23:24:44+00:00'
+    id: 'urn:uuid:71e71886-764b-59fe-aafd-162b2f0d5289'
+    link: 'https://pub.dartlang.org/packages/shelf'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
