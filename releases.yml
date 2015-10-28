@@ -41276,3 +41276,39 @@
     link: 'https://pub.dartlang.org/packages/atlassian_connect_jwt'
     author:
         - 'Anders Holmgren <aholmgren@atlassian.com>'
+-
+    package_name: flutter_sprites
+    package_version: v0.0.10
+    title: 'v0.0.10 of flutter_sprites'
+    published: '2015-10-28T03:17:55+00:00'
+    id: 'urn:uuid:803ffbef-0346-54c7-aa73-a764b37c814f'
+    link: 'https://pub.dartlang.org/packages/flutter_sprites'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: flutter
+    package_version: v0.0.13
+    title: 'v0.0.13 of flutter'
+    published: '2015-10-28T03:17:52+00:00'
+    id: 'urn:uuid:972c5a1d-4c40-5d8f-a538-078c30b9163c'
+    link: 'https://pub.dartlang.org/packages/flutter'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.43
+    title: 'v0.0.43 of sky_services'
+    published: '2015-10-28T03:17:49+00:00'
+    id: 'urn:uuid:47514744-c8b6-51d2-be8c-14f45924f72f'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.43
+    title: 'v0.0.43 of sky_engine'
+    published: '2015-10-28T03:17:47+00:00'
+    id: 'urn:uuid:73dafc5c-a38c-54d8-9f4e-ee45455235a4'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
