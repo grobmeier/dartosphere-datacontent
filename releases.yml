@@ -41331,3 +41331,12 @@
     link: 'https://pub.dartlang.org/packages/mustache'
     author:
         - 'Greg Lowe <greg@vis.net.nz>'
+-
+    package_name: postgresql
+    package_version: v0.3.2
+    title: 'v0.3.2 of postgresql'
+    published: '2015-10-28T09:19:07+00:00'
+    id: 'urn:uuid:6907b3b1-8000-581d-b489-f2fb7678a2cb'
+    link: 'https://pub.dartlang.org/packages/postgresql'
+    author:
+        - 'Greg Lowe <greg@vis.net.nz>'
