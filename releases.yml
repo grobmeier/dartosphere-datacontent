@@ -41782,3 +41782,12 @@
     link: 'https://pub.dartlang.org/packages/sky_tools'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: analyzer
+    package_version: v0.26.1+17
+    title: 'v0.26.1+17 of analyzer'
+    published: '2015-10-29T22:00:25+00:00'
+    id: 'urn:uuid:f7bb4343-e4d5-5ea1-87c8-0f5599930242'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
