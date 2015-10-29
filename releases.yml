@@ -41628,3 +41628,12 @@
         - 'Victor Savkin <vsavkin@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: douban_fm
+    package_version: v0.0.1
+    title: 'v0.0.1 of douban_fm'
+    published: '2015-10-29T06:41:00+00:00'
+    id: 'urn:uuid:7dbde808-3c97-5dfc-9dbb-0f324ced5292'
+    link: 'https://pub.dartlang.org/packages/douban_fm'
+    author:
+        - 'Jaron Tai <jaroncn@gmail.com>'
