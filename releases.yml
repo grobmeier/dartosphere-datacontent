@@ -41646,3 +41646,12 @@
     link: 'https://pub.dartlang.org/packages/typed_data'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: zhihu_daily
+    package_version: v0.0.1
+    title: 'v0.0.1 of zhihu_daily'
+    published: '2015-10-29T13:14:52+00:00'
+    id: 'urn:uuid:34d47b52-1194-5d34-9d20-8c1034099b6a'
+    link: 'https://pub.dartlang.org/packages/zhihu_daily'
+    author:
+        - 'Jaron Tai <jaroncn@gmail.com>'
