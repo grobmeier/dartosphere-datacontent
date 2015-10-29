@@ -41701,3 +41701,12 @@
     link: 'https://pub.dartlang.org/packages/googleapis'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: sitegen
+    package_version: v1.2.2
+    title: 'v1.2.2 of sitegen'
+    published: '2015-10-29T16:56:00+00:00'
+    id: 'urn:uuid:234328bb-a0a4-51cc-8b0e-27b4c8897e7d'
+    link: 'https://pub.dartlang.org/packages/sitegen'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
