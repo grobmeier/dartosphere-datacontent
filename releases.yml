@@ -41547,3 +41547,12 @@
     link: 'https://pub.dartlang.org/packages/shelf'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: git
+    package_version: v0.4.4+2
+    title: 'v0.4.4+2 of git'
+    published: '2015-10-29T00:57:59+00:00'
+    id: 'urn:uuid:be134942-fa6a-523e-b053-22a00fe9ca9c'
+    link: 'https://pub.dartlang.org/packages/git'
+    author:
+        - 'Kevin Moore <github@j832.com>'
