@@ -41818,3 +41818,12 @@
     link: 'https://pub.dartlang.org/packages/zhihu_daily'
     author:
         - 'Jaron Tai <jaroncn@gmail.com>'
+-
+    package_name: rl_matrix
+    package_version: v0.4.3
+    title: 'v0.4.3 of rl_matrix'
+    published: '2015-10-30T11:03:27+00:00'
+    id: 'urn:uuid:ef07a2d4-591c-5154-9f13-96bc3a529f56'
+    link: 'https://pub.dartlang.org/packages/rl_matrix'
+    author:
+        - 'R.S. Schermer <roland0507@gmail.com>'
