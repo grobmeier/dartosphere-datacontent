@@ -41809,3 +41809,12 @@
     link: 'https://pub.dartlang.org/packages/fnx_router'
     author:
         - 'Tomas Zverina <tomucha@gmail.com>'
+-
+    package_name: zhihu_daily
+    package_version: v0.1.0+1
+    title: 'v0.1.0+1 of zhihu_daily'
+    published: '2015-10-30T08:51:38+00:00'
+    id: 'urn:uuid:836c7427-9d65-55da-b9fd-2a569c8715ce'
+    link: 'https://pub.dartlang.org/packages/zhihu_daily'
+    author:
+        - 'Jaron Tai <jaroncn@gmail.com>'
