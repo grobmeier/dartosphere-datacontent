@@ -41863,3 +41863,12 @@
     link: 'https://pub.dartlang.org/packages/scissors'
     author:
         - 'Olivier Chafik <ochafik@google.com>'
+-
+    package_name: polymer_elements_demos
+    package_version: v0.1.0
+    title: 'v0.1.0 of polymer_elements_demos'
+    published: '2015-10-30T20:06:44+00:00'
+    id: 'urn:uuid:42c20a9b-a0d9-582e-b374-891a115ac640'
+    link: 'https://pub.dartlang.org/packages/polymer_elements_demos'
+    author:
+        - 'Polymer.dart Authors <guenter@gzoechbauer.com>'
