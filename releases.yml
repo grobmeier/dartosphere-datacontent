@@ -41791,3 +41791,21 @@
     link: 'https://pub.dartlang.org/packages/analyzer'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: fnx_config
+    package_version: v1.0.0
+    title: 'v1.0.0 of fnx_config'
+    published: '2015-10-30T06:55:39+00:00'
+    id: 'urn:uuid:78856bd8-9ec5-5699-80c4-4f798f91bd68'
+    link: 'https://pub.dartlang.org/packages/fnx_config'
+    author:
+        - 'Tomas Zverina <tomucha@gmail.com>'
+-
+    package_name: fnx_router
+    package_version: v0.2.1+3
+    title: 'v0.2.1+3 of fnx_router'
+    published: '2015-10-30T06:44:07+00:00'
+    id: 'urn:uuid:4f37aaca-bdb0-53c5-b8c6-042bb15e4e32'
+    link: 'https://pub.dartlang.org/packages/fnx_router'
+    author:
+        - 'Tomas Zverina <tomucha@gmail.com>'
