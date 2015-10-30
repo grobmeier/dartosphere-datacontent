@@ -41854,3 +41854,12 @@
     link: 'https://pub.dartlang.org/packages/dart2js_info'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: scissors
+    package_version: v0.1.4
+    title: 'v0.1.4 of scissors'
+    published: '2015-10-30T19:11:56+00:00'
+    id: 'urn:uuid:8d7de197-635e-530b-9eff-e0d2606c5a7e'
+    link: 'https://pub.dartlang.org/packages/scissors'
+    author:
+        - 'Olivier Chafik <ochafik@google.com>'
