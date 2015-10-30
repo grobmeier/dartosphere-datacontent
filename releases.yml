@@ -41827,3 +41827,21 @@
     link: 'https://pub.dartlang.org/packages/rl_matrix'
     author:
         - 'R.S. Schermer <roland0507@gmail.com>'
+-
+    package_name: mdl
+    package_version: v1.7.1
+    title: 'v1.7.1 of mdl'
+    published: '2015-10-30T17:37:39+00:00'
+    id: 'urn:uuid:32199e97-b1c4-5e28-af92-fdf24d89530c'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: sky_tools
+    package_version: v0.0.31
+    title: 'v0.0.31 of sky_tools'
+    published: '2015-10-30T17:08:41+00:00'
+    id: 'urn:uuid:4392f2d0-0323-53b8-bb54-4e8dc1e7bc77'
+    link: 'https://pub.dartlang.org/packages/sky_tools'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
