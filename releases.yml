@@ -41845,3 +41845,12 @@
     link: 'https://pub.dartlang.org/packages/sky_tools'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: dart2js_info
+    package_version: v0.2.3
+    title: 'v0.2.3 of dart2js_info'
+    published: '2015-10-30T18:15:28+00:00'
+    id: 'urn:uuid:49cde421-13da-5ad3-ace8-fdef909f9d92'
+    link: 'https://pub.dartlang.org/packages/dart2js_info'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
