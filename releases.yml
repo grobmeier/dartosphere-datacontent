@@ -41872,3 +41872,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_elements_demos'
     author:
         - 'Polymer.dart Authors <guenter@gzoechbauer.com>'
+-
+    package_name: dart_amqp
+    package_version: v0.0.3
+    title: 'v0.0.3 of dart_amqp'
+    published: '2015-10-31T07:08:32+00:00'
+    id: 'urn:uuid:b389f4cf-9b29-5236-88dd-11e8b76977ee'
+    link: 'https://pub.dartlang.org/packages/dart_amqp'
+    author:
+        - 'Achilleas Anagnostopoulos'
