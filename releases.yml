@@ -41899,3 +41899,12 @@
     link: 'https://pub.dartlang.org/packages/postcss_transformer'
     author:
         - 'Anthony Lai <anthonyjlai@gmail.com>'
+-
+    package_name: isolate_cluster
+    package_version: v0.3.0
+    title: 'v0.3.0 of isolate_cluster'
+    published: '2015-11-01T20:39:25+00:00'
+    id: 'urn:uuid:a30f14ac-2427-521a-9b96-d801ee2e31f3'
+    link: 'https://pub.dartlang.org/packages/isolate_cluster'
+    author:
+        - 'Oliver Damm <oliver.damm@gmx.de>'
