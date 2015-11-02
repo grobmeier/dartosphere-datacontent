@@ -41917,3 +41917,12 @@
     link: 'https://pub.dartlang.org/packages/interval_skip_list'
     author:
         - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: access
+    package_version: v0.6.9
+    title: 'v0.6.9 of access'
+    published: '2015-11-02T07:14:00+00:00'
+    id: 'urn:uuid:99cb6ba8-cbdf-553f-b4f1-b1ec7e9de5c0'
+    link: 'https://pub.dartlang.org/packages/access'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
