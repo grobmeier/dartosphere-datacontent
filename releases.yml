@@ -41953,3 +41953,21 @@
     link: 'https://pub.dartlang.org/packages/changelog'
     author:
         - office@mikemitterer.at
+-
+    package_name: sky_tools
+    package_version: v0.0.32
+    title: 'v0.0.32 of sky_tools'
+    published: '2015-11-02T19:28:37+00:00'
+    id: 'urn:uuid:c693f74a-5e98-5746-9a91-b70034d40998'
+    link: 'https://pub.dartlang.org/packages/sky_tools'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: syncbase
+    package_version: v0.0.10
+    title: 'v0.0.10 of syncbase'
+    published: '2015-11-02T19:11:44+00:00'
+    id: 'urn:uuid:b65c67c8-fd22-5fb0-8994-6eb86d2ddc32'
+    link: 'https://pub.dartlang.org/packages/syncbase'
+    author:
+        - 'Vanadium Authors'
