@@ -41944,3 +41944,12 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: changelog
+    package_version: v1.3.5
+    title: 'v1.3.5 of changelog'
+    published: '2015-11-02T17:00:49+00:00'
+    id: 'urn:uuid:bfc279c1-f21f-5c44-b77d-82c39fbb45a5'
+    link: 'https://pub.dartlang.org/packages/changelog'
+    author:
+        - office@mikemitterer.at
