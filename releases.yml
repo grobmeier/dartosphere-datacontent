@@ -41971,3 +41971,21 @@
     link: 'https://pub.dartlang.org/packages/syncbase'
     author:
         - 'Vanadium Authors'
+-
+    package_name: analyzer
+    package_version: v0.26.2
+    title: 'v0.26.2 of analyzer'
+    published: '2015-11-02T20:59:38+00:00'
+    id: 'urn:uuid:40a9a76a-e56f-5eff-a84e-ff2fcb9fa9bc'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: pub_semver
+    package_version: v1.2.3
+    title: 'v1.2.3 of pub_semver'
+    published: '2015-11-02T20:51:32+00:00'
+    id: 'urn:uuid:5911f8a1-9ac9-5134-8dc0-501ec030add1'
+    link: 'https://pub.dartlang.org/packages/pub_semver'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
