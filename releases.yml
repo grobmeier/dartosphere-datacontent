@@ -41926,3 +41926,21 @@
     link: 'https://pub.dartlang.org/packages/access'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: changelog
+    package_version: v1.3.4
+    title: 'v1.3.4 of changelog'
+    published: '2015-11-02T16:55:26+00:00'
+    id: 'urn:uuid:1c18103a-08ab-5057-bb5b-c3919a6d6d53'
+    link: 'https://pub.dartlang.org/packages/changelog'
+    author:
+        - office@mikemitterer.at
+-
+    package_name: mdl
+    package_version: v1.8.1
+    title: 'v1.8.1 of mdl'
+    published: '2015-11-02T16:14:22+00:00'
+    id: 'urn:uuid:7cf3d1e1-e832-56f3-80ce-98bff755cbf7'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
