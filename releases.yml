@@ -42061,3 +42061,12 @@
     link: 'https://pub.dartlang.org/packages/getscript'
     author:
         - 'George Kormaris <mail@gekorm.com>'
+-
+    package_name: path_finding
+    package_version: v0.0.1
+    title: 'v0.0.1 of path_finding'
+    published: '2015-11-03T19:41:23+00:00'
+    id: 'urn:uuid:53df95ad-d47c-5f11-aff6-46e64e744714'
+    link: 'https://pub.dartlang.org/packages/path_finding'
+    author:
+        - 'Connor Gray <connordbgray@gmail.com>'
