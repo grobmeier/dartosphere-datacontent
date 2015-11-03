@@ -42106,3 +42106,21 @@
     link: 'https://pub.dartlang.org/packages/stack_trace'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: sky_services
+    package_version: v0.0.47
+    title: 'v0.0.47 of sky_services'
+    published: '2015-11-03T23:41:06+00:00'
+    id: 'urn:uuid:4af05f7b-4eb8-5200-aa77-90e7217db785'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.47
+    title: 'v0.0.47 of sky_engine'
+    published: '2015-11-03T23:41:03+00:00'
+    id: 'urn:uuid:8453274d-3a5b-5b7d-8180-488473d63237'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
