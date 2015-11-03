@@ -42043,3 +42043,12 @@
     link: 'https://pub.dartlang.org/packages/sky_tools'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: convert
+    package_version: v1.0.1
+    title: 'v1.0.1 of convert'
+    published: '2015-11-03T00:48:38+00:00'
+    id: 'urn:uuid:4a5d0a88-b626-517b-81b9-4b439f9cc355'
+    link: 'https://pub.dartlang.org/packages/convert'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
