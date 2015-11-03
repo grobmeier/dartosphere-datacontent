@@ -42070,3 +42070,21 @@
     link: 'https://pub.dartlang.org/packages/path_finding'
     author:
         - 'Connor Gray <connordbgray@gmail.com>'
+-
+    package_name: sky_tools
+    package_version: v0.0.34
+    title: 'v0.0.34 of sky_tools'
+    published: '2015-11-03T20:42:13+00:00'
+    id: 'urn:uuid:9e9983e0-5e36-57b7-8ae0-e2b0e2cb5b02'
+    link: 'https://pub.dartlang.org/packages/sky_tools'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: flx
+    package_version: v0.0.5
+    title: 'v0.0.5 of flx'
+    published: '2015-11-03T20:22:36+00:00'
+    id: 'urn:uuid:8e4b402f-d8aa-5d1a-a528-8423642c80ed'
+    link: 'https://pub.dartlang.org/packages/flx'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
