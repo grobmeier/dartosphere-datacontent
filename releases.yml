@@ -42052,3 +42052,12 @@
     link: 'https://pub.dartlang.org/packages/convert'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: getscript
+    package_version: v0.1.0
+    title: 'v0.1.0 of getscript'
+    published: '2015-11-03T18:56:58+00:00'
+    id: 'urn:uuid:bbf3a9de-a9ab-549c-9fca-c91acd5ffac4'
+    link: 'https://pub.dartlang.org/packages/getscript'
+    author:
+        - 'George Kormaris <mail@gekorm.com>'
