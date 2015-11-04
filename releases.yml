@@ -42151,3 +42151,12 @@
     link: 'https://pub.dartlang.org/packages/dogma_rest_client'
     author:
         - 'Don Olmstead <don.j.olmstead@gmail.com>'
+-
+    package_name: omnibus
+    package_version: v0.0.0
+    title: 'v0.0.0 of omnibus'
+    published: '2015-11-04T14:57:50+00:00'
+    id: 'urn:uuid:9a7a295d-3538-54e2-948b-2b9e2a7aac3b'
+    link: 'https://pub.dartlang.org/packages/omnibus'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
