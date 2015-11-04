@@ -42286,3 +42286,66 @@
     link: 'https://pub.dartlang.org/packages/flx'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: flutter_sprites
+    package_version: v0.0.14
+    title: 'v0.0.14 of flutter_sprites'
+    published: '2015-11-04T22:50:56+00:00'
+    id: 'urn:uuid:eaafce98-1f9f-58be-b754-e68ed07e56e5'
+    link: 'https://pub.dartlang.org/packages/flutter_sprites'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: flx
+    package_version: v0.0.9
+    title: 'v0.0.9 of flx'
+    published: '2015-11-04T22:50:53+00:00'
+    id: 'urn:uuid:de8ec343-6ddd-517e-8531-c64ee4cfe724'
+    link: 'https://pub.dartlang.org/packages/flx'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: flutter
+    package_version: v0.0.17
+    title: 'v0.0.17 of flutter'
+    published: '2015-11-04T22:50:51+00:00'
+    id: 'urn:uuid:23b45aea-2f85-56a9-9407-cbedc86d322c'
+    link: 'https://pub.dartlang.org/packages/flutter'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.48
+    title: 'v0.0.48 of sky_services'
+    published: '2015-11-04T22:46:23+00:00'
+    id: 'urn:uuid:c55b0ba3-d3a4-506f-840a-a0df4bc453e4'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.48
+    title: 'v0.0.48 of sky_engine'
+    published: '2015-11-04T22:46:20+00:00'
+    id: 'urn:uuid:1b41e329-10ed-5397-a02d-d3704b87fa70'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_tools
+    package_version: v0.0.37
+    title: 'v0.0.37 of sky_tools'
+    published: '2015-11-04T22:26:36+00:00'
+    id: 'urn:uuid:5e2b6b5d-be63-59f2-82e6-72afd0450e6c'
+    link: 'https://pub.dartlang.org/packages/sky_tools'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: omnibus
+    package_version: v0.0.2
+    title: 'v0.0.2 of omnibus'
+    published: '2015-11-04T22:19:23+00:00'
+    id: 'urn:uuid:b99714cf-d76a-519a-a82d-489acd575522'
+    link: 'https://pub.dartlang.org/packages/omnibus'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
