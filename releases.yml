@@ -42277,3 +42277,12 @@
     link: 'https://pub.dartlang.org/packages/flx'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: flx
+    package_version: v0.0.8
+    title: 'v0.0.8 of flx'
+    published: '2015-11-04T20:51:44+00:00'
+    id: 'urn:uuid:20d80583-9721-525d-9fad-138dd7cb6dda'
+    link: 'https://pub.dartlang.org/packages/flx'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
