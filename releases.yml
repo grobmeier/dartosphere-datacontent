@@ -42169,3 +42169,48 @@
     link: 'https://pub.dartlang.org/packages/omnibus'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: syncbase
+    package_version: v0.0.11
+    title: 'v0.0.11 of syncbase'
+    published: '2015-11-04T16:14:00+00:00'
+    id: 'urn:uuid:686bfdeb-e360-52ab-a19b-7632e388365c'
+    link: 'https://pub.dartlang.org/packages/syncbase'
+    author:
+        - 'Vanadium Authors'
+-
+    package_name: mojom
+    package_version: v0.2.5
+    title: 'v0.2.5 of mojom'
+    published: '2015-11-04T16:07:50+00:00'
+    id: 'urn:uuid:1f27dfab-57cc-5a8e-9e77-49c2062f110e'
+    link: 'https://pub.dartlang.org/packages/mojom'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_services
+    package_version: v0.4.2
+    title: 'v0.4.2 of mojo_services'
+    published: '2015-11-04T16:07:46+00:00'
+    id: 'urn:uuid:d05b980e-d050-575c-a4cd-4668b3d35a1a'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_apptest
+    package_version: v0.2.5
+    title: 'v0.2.5 of mojo_apptest'
+    published: '2015-11-04T16:07:42+00:00'
+    id: 'urn:uuid:6296df73-df99-567e-a110-0bdf7344033b'
+    link: 'https://pub.dartlang.org/packages/mojo_apptest'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo
+    package_version: v0.3.2
+    title: 'v0.3.2 of mojo'
+    published: '2015-11-04T16:07:39+00:00'
+    id: 'urn:uuid:aa84fb0c-4e54-5b19-b8a1-473d4aae274e'
+    link: 'https://pub.dartlang.org/packages/mojo'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
