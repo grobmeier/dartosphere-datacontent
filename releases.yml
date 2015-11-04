@@ -42241,3 +42241,30 @@
     link: 'https://pub.dartlang.org/packages/sky_tools'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: analyzer
+    package_version: v0.26.2+1
+    title: 'v0.26.2+1 of analyzer'
+    published: '2015-11-04T18:31:16+00:00'
+    id: 'urn:uuid:359641c3-d3b5-5378-98f9-1ba0620daccc'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: linter
+    package_version: v0.1.4
+    title: 'v0.1.4 of linter'
+    published: '2015-11-04T18:28:05+00:00'
+    id: 'urn:uuid:9efc6181-9923-5039-921f-474ec881ce41'
+    link: 'https://pub.dartlang.org/packages/linter'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: mcpi_dart
+    package_version: v0.0.2
+    title: 'v0.0.2 of mcpi_dart'
+    published: '2015-11-04T18:05:34+00:00'
+    id: 'urn:uuid:8a04a4d7-a5af-525b-a7a4-c7cb3fbbc749'
+    link: 'https://pub.dartlang.org/packages/mcpi_dart'
+    author:
+        - 'Davy Mitchell <daftspaniel@gmail.com>'
