@@ -42214,3 +42214,30 @@
     link: 'https://pub.dartlang.org/packages/mojo'
     author:
         - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: flx
+    package_version: v0.0.6
+    title: 'v0.0.6 of flx'
+    published: '2015-11-04T17:51:35+00:00'
+    id: 'urn:uuid:da712980-878d-54a0-8e58-945a1df433a1'
+    link: 'https://pub.dartlang.org/packages/flx'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: mojo_sdk
+    package_version: v0.1.2
+    title: 'v0.1.2 of mojo_sdk'
+    published: '2015-11-04T17:23:39+00:00'
+    id: 'urn:uuid:56e22a3e-298e-52e3-b691-550f3cfdeac7'
+    link: 'https://pub.dartlang.org/packages/mojo_sdk'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: sky_tools
+    package_version: v0.0.35
+    title: 'v0.0.35 of sky_tools'
+    published: '2015-11-04T17:07:55+00:00'
+    id: 'urn:uuid:08e814e6-c358-5dc9-ae6a-bf97394f4280'
+    link: 'https://pub.dartlang.org/packages/sky_tools'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
