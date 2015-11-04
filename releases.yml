@@ -42124,3 +42124,12 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: interval_skip_list
+    package_version: v0.0.2
+    title: 'v0.0.2 of interval_skip_list'
+    published: '2015-11-04T00:00:27+00:00'
+    id: 'urn:uuid:6d4250ae-467d-5a27-b641-6d6d6c7d24dc'
+    link: 'https://pub.dartlang.org/packages/interval_skip_list'
+    author:
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
