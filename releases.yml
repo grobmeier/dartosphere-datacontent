@@ -42268,3 +42268,12 @@
     link: 'https://pub.dartlang.org/packages/mcpi_dart'
     author:
         - 'Davy Mitchell <daftspaniel@gmail.com>'
+-
+    package_name: flx
+    package_version: v0.0.7
+    title: 'v0.0.7 of flx'
+    published: '2015-11-04T19:02:35+00:00'
+    id: 'urn:uuid:19a64c27-7a3a-5500-9398-fa7b88e8772f'
+    link: 'https://pub.dartlang.org/packages/flx'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
