@@ -42142,3 +42142,12 @@
     link: 'https://pub.dartlang.org/packages/drails_commons'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: dogma_rest_client
+    package_version: v0.0.2
+    title: 'v0.0.2 of dogma_rest_client'
+    published: '2015-11-04T08:09:04+00:00'
+    id: 'urn:uuid:829f319c-f29e-5c62-9510-fc630a876acb'
+    link: 'https://pub.dartlang.org/packages/dogma_rest_client'
+    author:
+        - 'Don Olmstead <don.j.olmstead@gmail.com>'
