@@ -42358,3 +42358,12 @@
     link: 'https://pub.dartlang.org/packages/path_finding'
     author:
         - 'Connor Gray <connordbgray@gmail.com>'
+-
+    package_name: wilt
+    package_version: v3.1.2
+    title: 'v3.1.2 of wilt'
+    published: '2015-11-05T08:43:39+00:00'
+    id: 'urn:uuid:8cf65390-3820-53c7-94ee-569bdda49657'
+    link: 'https://pub.dartlang.org/packages/wilt'
+    author:
+        - 'S. Hamblett <steve.hamblett@linux.com>'
