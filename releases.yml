@@ -42367,3 +42367,12 @@
     link: 'https://pub.dartlang.org/packages/wilt'
     author:
         - 'S. Hamblett <steve.hamblett@linux.com>'
+-
+    package_name: trestle
+    package_version: v0.6.0
+    title: 'v0.6.0 of trestle'
+    published: '2015-11-05T13:15:17+00:00'
+    id: 'urn:uuid:bf3da9af-5116-5c74-afb3-47f54e91b62e'
+    link: 'https://pub.dartlang.org/packages/trestle'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
