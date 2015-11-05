@@ -42376,3 +42376,12 @@
     link: 'https://pub.dartlang.org/packages/trestle'
     author:
         - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: simplegamelib
+    package_version: v0.0.12
+    title: 'v0.0.12 of simplegamelib'
+    published: '2015-11-05T19:43:02+00:00'
+    id: 'urn:uuid:ebe52a39-d7b7-5ca9-9689-2ab2f173d091'
+    link: 'https://pub.dartlang.org/packages/simplegamelib'
+    author:
+        - 'Davy Mitchell <daftspaniel@gmail.com>'
