@@ -42385,3 +42385,12 @@
     link: 'https://pub.dartlang.org/packages/simplegamelib'
     author:
         - 'Davy Mitchell <daftspaniel@gmail.com>'
+-
+    package_name: shelf_mvc
+    package_version: v0.0.1
+    title: 'v0.0.1 of shelf_mvc'
+    published: '2015-11-05T20:42:42+00:00'
+    id: 'urn:uuid:8dedd211-7ff3-56d1-8d03-22e78043c884'
+    link: 'https://pub.dartlang.org/packages/shelf_mvc'
+    author:
+        - 'Joris Hermans <hermansj@gmail.com>'
