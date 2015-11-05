@@ -42349,3 +42349,12 @@
     link: 'https://pub.dartlang.org/packages/omnibus'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: path_finding
+    package_version: v0.3.0+1
+    title: 'v0.3.0+1 of path_finding'
+    published: '2015-11-05T00:08:10+00:00'
+    id: 'urn:uuid:931e9198-a42f-539a-8500-e32b13679d96'
+    link: 'https://pub.dartlang.org/packages/path_finding'
+    author:
+        - 'Connor Gray <connordbgray@gmail.com>'
