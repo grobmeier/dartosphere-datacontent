@@ -42413,3 +42413,12 @@
     link: 'https://pub.dartlang.org/packages/interval_skip_list'
     author:
         - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: idb_shim
+    package_version: v1.3.1
+    title: 'v1.3.1 of idb_shim'
+    published: '2015-11-06T14:55:51+00:00'
+    id: 'urn:uuid:44269980-9c93-572e-8b98-22acf204ef41'
+    link: 'https://pub.dartlang.org/packages/idb_shim'
+    author:
+        - 'Alexandre Roux Tekartik <alex.tekartik.pub@gmail.com>'
