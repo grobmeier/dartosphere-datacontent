@@ -42394,3 +42394,13 @@
     link: 'https://pub.dartlang.org/packages/shelf_mvc'
     author:
         - 'Joris Hermans <hermansj@gmail.com>'
+-
+    package_name: stagehand
+    package_version: v0.2.4
+    title: 'v0.2.4 of stagehand'
+    published: '2015-11-06T02:43:08+00:00'
+    id: 'urn:uuid:a12725b9-fe91-591d-9406-e2e01a11f1f2'
+    link: 'https://pub.dartlang.org/packages/stagehand'
+    author:
+        - 'Seth Ladd <sethladd@google.com>'
+        - 'Devon Carew <devoncarew@google.com>'
