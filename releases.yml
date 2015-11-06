@@ -42431,3 +42431,48 @@
     link: 'https://pub.dartlang.org/packages/overwrite'
     author:
         - 'Christopher Best <bestchris@gmail.com>'
+-
+    package_name: mojo_sdk
+    package_version: v0.2.0
+    title: 'v0.2.0 of mojo_sdk'
+    published: '2015-11-06T22:57:07+00:00'
+    id: 'urn:uuid:53af02a7-02d8-5700-8f38-60ce74438cec'
+    link: 'https://pub.dartlang.org/packages/mojo_sdk'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojom
+    package_version: v0.2.6
+    title: 'v0.2.6 of mojom'
+    published: '2015-11-06T22:52:43+00:00'
+    id: 'urn:uuid:42e86466-faa0-5b56-b00b-8885eafc8196'
+    link: 'https://pub.dartlang.org/packages/mojom'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_services
+    package_version: v0.4.3
+    title: 'v0.4.3 of mojo_services'
+    published: '2015-11-06T22:52:40+00:00'
+    id: 'urn:uuid:f9e1501f-9cb3-52c7-97f6-507abf105ffe'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_apptest
+    package_version: v0.2.6
+    title: 'v0.2.6 of mojo_apptest'
+    published: '2015-11-06T22:52:38+00:00'
+    id: 'urn:uuid:da6f5c41-942a-5f9a-9fe6-b4840e3d7618'
+    link: 'https://pub.dartlang.org/packages/mojo_apptest'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo
+    package_version: v0.4.1
+    title: 'v0.4.1 of mojo'
+    published: '2015-11-06T22:52:36+00:00'
+    id: 'urn:uuid:0e115667-5c09-5633-835e-d86251b69338'
+    link: 'https://pub.dartlang.org/packages/mojo'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
