@@ -42422,3 +42422,12 @@
     link: 'https://pub.dartlang.org/packages/idb_shim'
     author:
         - 'Alexandre Roux Tekartik <alex.tekartik.pub@gmail.com>'
+-
+    package_name: overwrite
+    package_version: v0.2.9
+    title: 'v0.2.9 of overwrite'
+    published: '2015-11-06T19:58:16+00:00'
+    id: 'urn:uuid:0f78fcb3-546f-52ed-aee0-885e33f0a8ce'
+    link: 'https://pub.dartlang.org/packages/overwrite'
+    author:
+        - 'Christopher Best <bestchris@gmail.com>'
