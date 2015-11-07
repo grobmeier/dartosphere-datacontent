@@ -42584,3 +42584,12 @@
     link: 'https://pub.dartlang.org/packages/tasks'
     author:
         - Mixbook
+-
+    package_name: astprinter
+    package_version: v0.1.0
+    title: 'v0.1.0 of astprinter'
+    published: '2015-11-07T16:05:11+00:00'
+    id: 'urn:uuid:31c17d14-4690-55b3-882c-c92434bcad08'
+    link: 'https://pub.dartlang.org/packages/astprinter'
+    author:
+        - 'George Kormaris <gekorm@gmail.com>'
