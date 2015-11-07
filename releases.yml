@@ -42566,3 +42566,12 @@
     link: 'https://pub.dartlang.org/packages/mojo'
     author:
         - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mustache
+    package_version: v0.2.5
+    title: 'v0.2.5 of mustache'
+    published: '2015-11-07T01:32:12+00:00'
+    id: 'urn:uuid:1b5faf82-5864-526e-9e1c-d6ff3a00c059'
+    link: 'https://pub.dartlang.org/packages/mustache'
+    author:
+        - 'Greg Lowe <greg@vis.net.nz>'
