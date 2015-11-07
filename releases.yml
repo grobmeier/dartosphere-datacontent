@@ -42575,3 +42575,12 @@
     link: 'https://pub.dartlang.org/packages/mustache'
     author:
         - 'Greg Lowe <greg@vis.net.nz>'
+-
+    package_name: tasks
+    package_version: v0.1.0
+    title: 'v0.1.0 of tasks'
+    published: '2015-11-07T04:46:57+00:00'
+    id: 'urn:uuid:f2ad6183-6b2d-5ae1-b628-e4337946713c'
+    link: 'https://pub.dartlang.org/packages/tasks'
+    author:
+        - Mixbook
