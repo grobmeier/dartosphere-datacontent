@@ -42629,3 +42629,12 @@
     link: 'https://pub.dartlang.org/packages/built_json'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: ctrl_alt_foo
+    package_version: v0.3.1
+    title: 'v0.3.1 of ctrl_alt_foo'
+    published: '2015-11-08T20:00:11+00:00'
+    id: 'urn:uuid:19a799bd-4988-59cf-a28c-41f357be639e'
+    link: 'https://pub.dartlang.org/packages/ctrl_alt_foo'
+    author:
+        - 'Chris Strom <chris@eeecomputes.com>'
