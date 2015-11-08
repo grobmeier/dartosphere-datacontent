@@ -42611,3 +42611,21 @@
     link: 'https://pub.dartlang.org/packages/slickdart'
     author:
         - 'CJKAO <kaopeter@gmail.com>'
+-
+    package_name: built_json_generator
+    package_version: v0.0.1
+    title: 'v0.0.1 of built_json_generator'
+    published: '2015-11-08T12:47:39+00:00'
+    id: 'urn:uuid:8a0ba151-c1b8-5e8e-805a-16cff282bab0'
+    link: 'https://pub.dartlang.org/packages/built_json_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_json
+    package_version: v0.0.1
+    title: 'v0.0.1 of built_json'
+    published: '2015-11-08T12:46:04+00:00'
+    id: 'urn:uuid:0f8c49f5-ee6a-599b-8135-8d6853802ec1'
+    link: 'https://pub.dartlang.org/packages/built_json'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
