@@ -42602,3 +42602,12 @@
     link: 'https://pub.dartlang.org/packages/postcss_transformer'
     author:
         - 'Anthony Lai <anthonyjlai@gmail.com>'
+-
+    package_name: slickdart
+    package_version: v0.1.5
+    title: 'v0.1.5 of slickdart'
+    published: '2015-11-08T09:26:19+00:00'
+    id: 'urn:uuid:db649ff3-0660-5e5a-94e4-36b264442e89'
+    link: 'https://pub.dartlang.org/packages/slickdart'
+    author:
+        - 'CJKAO <kaopeter@gmail.com>'
