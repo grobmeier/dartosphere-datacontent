@@ -42647,3 +42647,12 @@
     link: 'https://pub.dartlang.org/packages/rxdart'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: pub_server
+    package_version: v0.1.1+2
+    title: 'v0.1.1+2 of pub_server'
+    published: '2015-11-09T12:10:54+00:00'
+    id: 'urn:uuid:846aea99-ef33-5ab3-897e-736b024b9a3d'
+    link: 'https://pub.dartlang.org/packages/pub_server'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
