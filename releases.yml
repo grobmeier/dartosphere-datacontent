@@ -42674,3 +42674,12 @@
     link: 'https://pub.dartlang.org/packages/googleapis'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: polymer_app_layout_template
+    package_version: v0.1.0
+    title: 'v0.1.0 of polymer_app_layout_template'
+    published: '2015-11-09T17:43:48+00:00'
+    id: 'urn:uuid:7a23370e-eeff-50bb-b659-ee1a790810df'
+    link: 'https://pub.dartlang.org/packages/polymer_app_layout_template'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
