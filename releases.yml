@@ -42692,3 +42692,12 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: syncbase
+    package_version: v0.0.12
+    title: 'v0.0.12 of syncbase'
+    published: '2015-11-09T19:04:15+00:00'
+    id: 'urn:uuid:7a09b6c3-7da5-5e9c-beaa-8a73a8208b27'
+    link: 'https://pub.dartlang.org/packages/syncbase'
+    author:
+        - 'Vanadium Authors'
