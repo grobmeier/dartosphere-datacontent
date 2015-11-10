@@ -42737,3 +42737,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_mvc'
     author:
         - 'Joris Hermans <hermansj@gmail.com>'
+-
+    package_name: linter
+    package_version: v0.1.5
+    title: 'v0.1.5 of linter'
+    published: '2015-11-10T17:35:40+00:00'
+    id: 'urn:uuid:ccb03002-4079-5e19-9cdd-9c16d72f65e6'
+    link: 'https://pub.dartlang.org/packages/linter'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
