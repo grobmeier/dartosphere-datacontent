@@ -42701,3 +42701,39 @@
     link: 'https://pub.dartlang.org/packages/syncbase'
     author:
         - 'Vanadium Authors'
+-
+    package_name: dice
+    package_version: v1.6.2
+    title: 'v1.6.2 of dice'
+    published: '2015-11-10T15:34:20+00:00'
+    id: 'urn:uuid:df720c77-9161-5929-9622-4ec4ca21735b'
+    link: 'https://pub.dartlang.org/packages/dice'
+    author:
+        - 'Lars Tackmann <lars@solvr.io>'
+-
+    package_name: harvest
+    package_version: v2.0.9
+    title: 'v2.0.9 of harvest'
+    published: '2015-11-10T15:34:06+00:00'
+    id: 'urn:uuid:1d1ea37b-c0e6-5911-b343-8793eb9b4832'
+    link: 'https://pub.dartlang.org/packages/harvest'
+    author:
+        - 'Lars Tackmann <lars@solvr.io>'
+-
+    package_name: parsers
+    package_version: v0.14.5
+    title: 'v0.14.5 of parsers'
+    published: '2015-11-10T15:26:58+00:00'
+    id: 'urn:uuid:98eb2b6a-637b-5424-8f2c-83f9deff781e'
+    link: 'https://pub.dartlang.org/packages/parsers'
+    author:
+        - 'Paul Brauner <polux@google.com>'
+-
+    package_name: shelf_mvc
+    package_version: v0.0.2
+    title: 'v0.0.2 of shelf_mvc'
+    published: '2015-11-10T15:25:45+00:00'
+    id: 'urn:uuid:c17cbb66-2dc9-5d01-b9aa-741e9a4bc71e'
+    link: 'https://pub.dartlang.org/packages/shelf_mvc'
+    author:
+        - 'Joris Hermans <hermansj@gmail.com>'
