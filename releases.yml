@@ -42773,3 +42773,12 @@
     link: 'https://pub.dartlang.org/packages/markdown'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: languagetools
+    package_version: v0.0.1
+    title: 'v0.0.1 of languagetools'
+    published: '2015-11-10T23:09:32+00:00'
+    id: 'urn:uuid:8b1c920e-683e-5d29-8143-62f97bce12d8'
+    link: 'https://pub.dartlang.org/packages/languagetools'
+    author:
+        - 'Wael Boutglay <btwael@gmail.com>'
