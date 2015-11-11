@@ -42782,3 +42782,21 @@
     link: 'https://pub.dartlang.org/packages/languagetools'
     author:
         - 'Wael Boutglay <btwael@gmail.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.51
+    title: 'v0.0.51 of sky_services'
+    published: '2015-11-11T00:02:13+00:00'
+    id: 'urn:uuid:43cf441c-1d06-50b4-9f5c-15fcb0b3d968'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.50
+    title: 'v0.0.50 of sky_engine'
+    published: '2015-11-11T00:02:11+00:00'
+    id: 'urn:uuid:9f0b84b4-afaa-52c5-8fe9-c5f0721b8b16'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
