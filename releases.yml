@@ -42836,3 +42836,21 @@
     link: 'https://pub.dartlang.org/packages/container'
     author:
         - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: mcpi_dart
+    package_version: v0.0.3
+    title: 'v0.0.3 of mcpi_dart'
+    published: '2015-11-11T15:39:38+00:00'
+    id: 'urn:uuid:f9d730b0-1128-5dc6-b2e4-8e5f80a38736'
+    link: 'https://pub.dartlang.org/packages/mcpi_dart'
+    author:
+        - 'Davy Mitchell <daftspaniel@gmail.com>'
+-
+    package_name: container
+    package_version: v0.1.1
+    title: 'v0.1.1 of container'
+    published: '2015-11-11T15:07:05+00:00'
+    id: 'urn:uuid:9ff06d1b-34ba-58ff-8e9f-67bac2a762b9'
+    link: 'https://pub.dartlang.org/packages/container'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
