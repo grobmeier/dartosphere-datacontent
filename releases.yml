@@ -42827,3 +42827,12 @@
     link: 'https://pub.dartlang.org/packages/bwu_datagrid'
     author:
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: container
+    package_version: v0.1.0
+    title: 'v0.1.0 of container'
+    published: '2015-11-11T14:52:28+00:00'
+    id: 'urn:uuid:26b96da4-812e-5a43-bf9f-b929ae23ca8f'
+    link: 'https://pub.dartlang.org/packages/container'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
