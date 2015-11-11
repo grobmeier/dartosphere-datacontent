@@ -42809,3 +42809,12 @@
     link: 'https://pub.dartlang.org/packages/syncbase'
     author:
         - 'Vanadium Authors'
+-
+    package_name: powerset
+    package_version: v0.0.1
+    title: 'v0.0.1 of powerset'
+    published: '2015-11-11T06:34:27+00:00'
+    id: 'urn:uuid:72dcd12d-f89f-56e5-ad50-e5099745cc43'
+    link: 'https://pub.dartlang.org/packages/powerset'
+    author:
+        - 'Harry Terkelsen <harry@terkelsen.io>'
