@@ -42818,3 +42818,12 @@
     link: 'https://pub.dartlang.org/packages/powerset'
     author:
         - 'Harry Terkelsen <harry@terkelsen.io>'
+-
+    package_name: bwu_datagrid
+    package_version: v0.0.23
+    title: 'v0.0.23 of bwu_datagrid'
+    published: '2015-11-11T13:18:20+00:00'
+    id: 'urn:uuid:9672553b-3dbd-5902-b99c-ecf1a40805c1'
+    link: 'https://pub.dartlang.org/packages/bwu_datagrid'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
