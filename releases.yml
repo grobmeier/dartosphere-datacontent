@@ -42971,3 +42971,12 @@
         - 'Victor Savkin <vsavkin@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: v23discovery
+    package_version: v0.0.1
+    title: 'v0.0.1 of v23discovery'
+    published: '2015-11-12T00:29:26+00:00'
+    id: 'urn:uuid:a612e9f8-91bd-544a-907f-7d4f71ec9c84'
+    link: 'https://pub.dartlang.org/packages/v23discovery'
+    author:
+        - 'Vanadium Authors'
