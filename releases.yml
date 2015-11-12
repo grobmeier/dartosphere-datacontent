@@ -43016,3 +43016,21 @@
     link: 'https://pub.dartlang.org/packages/nuxeo_client'
     author:
         - 'Nelson Silva <nsilva@nuxeo.com>'
+-
+    package_name: polymer_app_layout_template
+    package_version: v0.1.2
+    title: 'v0.1.2 of polymer_app_layout_template'
+    published: '2015-11-12T15:19:56+00:00'
+    id: 'urn:uuid:c5e108c1-1732-5cb4-beb9-6d1b809f9fb1'
+    link: 'https://pub.dartlang.org/packages/polymer_app_layout_template'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: scissors
+    package_version: v0.1.6
+    title: 'v0.1.6 of scissors'
+    published: '2015-11-12T15:03:16+00:00'
+    id: 'urn:uuid:92e72f1d-8054-55e1-a496-fb360d5592b6'
+    link: 'https://pub.dartlang.org/packages/scissors'
+    author:
+        - 'Olivier Chafik <ochafik@google.com>'
