@@ -43007,3 +43007,12 @@
     link: 'https://pub.dartlang.org/packages/scissors'
     author:
         - 'Olivier Chafik <ochafik@google.com>'
+-
+    package_name: nuxeo_client
+    package_version: v0.1.0
+    title: 'v0.1.0 of nuxeo_client'
+    published: '2015-11-12T09:51:49+00:00'
+    id: 'urn:uuid:c64a5a9b-afbf-55d9-9706-6e3b80991412'
+    link: 'https://pub.dartlang.org/packages/nuxeo_client'
+    author:
+        - 'Nelson Silva <nsilva@nuxeo.com>'
