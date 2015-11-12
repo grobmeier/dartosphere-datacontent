@@ -43075,3 +43075,21 @@
     link: 'https://pub.dartlang.org/packages/bwu_bind_html'
     author:
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.52
+    title: 'v0.0.52 of sky_services'
+    published: '2015-11-12T18:54:12+00:00'
+    id: 'urn:uuid:2d83e1a9-ba09-5748-a5aa-89b4b397918e'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.52
+    title: 'v0.0.52 of sky_engine'
+    published: '2015-11-12T18:54:10+00:00'
+    id: 'urn:uuid:a0bf47e3-aaf4-575a-823f-3661d6d40a3d'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
