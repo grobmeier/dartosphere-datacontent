@@ -42998,3 +42998,12 @@
     link: 'https://pub.dartlang.org/packages/v23discovery'
     author:
         - 'Vanadium Authors'
+-
+    package_name: scissors
+    package_version: v0.1.5
+    title: 'v0.1.5 of scissors'
+    published: '2015-11-12T05:04:09+00:00'
+    id: 'urn:uuid:d657d64a-3bc0-5e07-a086-54084620f589'
+    link: 'https://pub.dartlang.org/packages/scissors'
+    author:
+        - 'Olivier Chafik <ochafik@google.com>'
