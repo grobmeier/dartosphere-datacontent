@@ -43034,3 +43034,35 @@
     link: 'https://pub.dartlang.org/packages/scissors'
     author:
         - 'Olivier Chafik <ochafik@google.com>'
+-
+    package_name: scissors
+    package_version: v0.1.7
+    title: 'v0.1.7 of scissors'
+    published: '2015-11-12T16:56:31+00:00'
+    id: 'urn:uuid:c8ca45b3-be36-53e0-a103-69abb390ab05'
+    link: 'https://pub.dartlang.org/packages/scissors'
+    author:
+        - 'Olivier Chafik <ochafik@google.com>'
+-
+    package_name: idb_shim
+    package_version: v1.3.2
+    title: 'v1.3.2 of idb_shim'
+    published: '2015-11-12T16:22:11+00:00'
+    id: 'urn:uuid:032ea2d5-def2-51fe-88f9-d5c4185ccb14'
+    link: 'https://pub.dartlang.org/packages/idb_shim'
+    author:
+        - 'Alexandre Roux Tekartik <alex.tekartik.pub@gmail.com>'
+-
+    package_name: dart_dev
+    package_version: v1.0.3
+    title: 'v1.0.3 of dart_dev'
+    published: '2015-11-12T16:10:27+00:00'
+    id: 'urn:uuid:bc9fe61b-e37b-536a-9d18-11149630f508'
+    link: 'https://pub.dartlang.org/packages/dart_dev'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
