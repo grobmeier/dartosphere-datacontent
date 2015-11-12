@@ -43066,3 +43066,12 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: bwu_bind_html
+    package_version: v0.1.0
+    title: 'v0.1.0 of bwu_bind_html'
+    published: '2015-11-12T17:58:43+00:00'
+    id: 'urn:uuid:27d1f1c2-a74a-5dab-9dc1-d92c83c35e42'
+    link: 'https://pub.dartlang.org/packages/bwu_bind_html'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
