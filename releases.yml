@@ -43093,3 +43093,48 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: mojo_sdk
+    package_version: v0.2.2
+    title: 'v0.2.2 of mojo_sdk'
+    published: '2015-11-12T21:35:36+00:00'
+    id: 'urn:uuid:446c161f-1498-5410-8c11-33a0769ad4f9'
+    link: 'https://pub.dartlang.org/packages/mojo_sdk'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojom
+    package_version: v0.2.8
+    title: 'v0.2.8 of mojom'
+    published: '2015-11-12T21:30:56+00:00'
+    id: 'urn:uuid:445da826-aa99-527b-8bba-e296f98b8522'
+    link: 'https://pub.dartlang.org/packages/mojom'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_services
+    package_version: v0.4.5
+    title: 'v0.4.5 of mojo_services'
+    published: '2015-11-12T21:30:54+00:00'
+    id: 'urn:uuid:337492e3-4804-54ae-a1ad-362857556151'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_apptest
+    package_version: v0.2.8
+    title: 'v0.2.8 of mojo_apptest'
+    published: '2015-11-12T21:30:51+00:00'
+    id: 'urn:uuid:d9b20c02-4ac5-532a-be4f-ba66952afe5a'
+    link: 'https://pub.dartlang.org/packages/mojo_apptest'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo
+    package_version: v0.4.3
+    title: 'v0.4.3 of mojo'
+    published: '2015-11-12T21:30:48+00:00'
+    id: 'urn:uuid:3603ad5f-557d-54d2-8e50-af00834d1070'
+    link: 'https://pub.dartlang.org/packages/mojo'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
