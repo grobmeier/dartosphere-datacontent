@@ -43158,3 +43158,12 @@
     author:
         - 'Vizidrix <admin@vizidrix.com>'
         - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: container
+    package_version: v0.1.2
+    title: 'v0.1.2 of container'
+    published: '2015-11-13T13:34:43+00:00'
+    id: 'urn:uuid:80a64837-737a-54c2-9f71-d2a3262de3a8'
+    link: 'https://pub.dartlang.org/packages/container'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
