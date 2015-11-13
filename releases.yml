@@ -43204,3 +43204,21 @@
     author:
         - 'Jesper Håkansson <jesper@jesperh.se>'
         - 'Rasmus Eneman <rasmus@eneman.eu>'
+-
+    package_name: sky_services
+    package_version: v0.0.54
+    title: 'v0.0.54 of sky_services'
+    published: '2015-11-13T20:19:35+00:00'
+    id: 'urn:uuid:8988c1ae-f561-5a3a-b361-1dcfd91f61d9'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.54
+    title: 'v0.0.54 of sky_engine'
+    published: '2015-11-13T20:19:32+00:00'
+    id: 'urn:uuid:81fb4f18-fa2c-5f5a-afd5-4f3e0e8ddfe8'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
