@@ -43249,3 +43249,12 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: range_collection
+    package_version: v0.1.0
+    title: 'v0.1.0 of range_collection'
+    published: '2015-11-14T00:34:29+00:00'
+    id: 'urn:uuid:3ba6953e-aeef-5b34-8e5a-8cf34a285132'
+    link: 'https://pub.dartlang.org/packages/range_collection'
+    author:
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
