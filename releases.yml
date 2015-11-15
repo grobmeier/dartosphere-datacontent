@@ -43276,3 +43276,12 @@
     link: 'https://pub.dartlang.org/packages/stream_test_scheduler'
     author:
         - 'Michael Maier <maier1michael@gmail.com>'
+-
+    package_name: polymer_app_layout_template
+    package_version: v0.1.3
+    title: 'v0.1.3 of polymer_app_layout_template'
+    published: '2015-11-15T23:05:07+00:00'
+    id: 'urn:uuid:e7bb2646-1bda-5f3b-9033-91da6d3504a5'
+    link: 'https://pub.dartlang.org/packages/polymer_app_layout_template'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
