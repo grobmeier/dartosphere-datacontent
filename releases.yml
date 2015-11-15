@@ -43258,3 +43258,12 @@
     link: 'https://pub.dartlang.org/packages/range_collection'
     author:
         - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: scissors
+    package_version: v0.1.8
+    title: 'v0.1.8 of scissors'
+    published: '2015-11-15T05:02:30+00:00'
+    id: 'urn:uuid:955a6aec-0c1f-5b44-8ac1-4010b2d85110'
+    link: 'https://pub.dartlang.org/packages/scissors'
+    author:
+        - 'Olivier Chafik <ochafik@google.com>'
