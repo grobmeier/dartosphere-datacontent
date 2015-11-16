@@ -43323,3 +43323,12 @@
         - 'Werner Gaisbauer <werner.gaisbauer@exitlive.io>'
         - 'Alex Tekartik <alex@tekartik.com>'
         - 'Matias Meno <matias.meno@exitlive.io>'
+-
+    package_name: mdl
+    package_version: v1.9.1
+    title: 'v1.9.1 of mdl'
+    published: '2015-11-16T18:52:09+00:00'
+    id: 'urn:uuid:08097b0d-a902-5f74-a90c-1d2b26a0a3dd'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
