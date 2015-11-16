@@ -43312,3 +43312,14 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: xcvbnm
+    package_version: v0.3.6
+    title: 'v0.3.6 of xcvbnm'
+    published: '2015-11-16T15:05:55+00:00'
+    id: 'urn:uuid:a5a6b5eb-409e-5b70-b26e-8af26db63cb8'
+    link: 'https://pub.dartlang.org/packages/xcvbnm'
+    author:
+        - 'Werner Gaisbauer <werner.gaisbauer@exitlive.io>'
+        - 'Alex Tekartik <alex@tekartik.com>'
+        - 'Matias Meno <matias.meno@exitlive.io>'
