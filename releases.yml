@@ -43350,3 +43350,12 @@
     link: 'https://pub.dartlang.org/packages/chartjs'
     author:
         - 'Kevin Moore <github@j832.com>'
+-
+    package_name: react
+    package_version: v0.8.3
+    title: 'v0.8.3 of react'
+    published: '2015-11-16T21:20:00+00:00'
+    id: 'urn:uuid:3058edb3-19cf-5e86-9a24-645b6a71bb51'
+    link: 'https://pub.dartlang.org/packages/react'
+    author:
+        - 'Clean Team <clean@vacuumlabs.com>'
