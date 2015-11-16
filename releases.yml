@@ -43303,3 +43303,12 @@
     link: 'https://pub.dartlang.org/packages/scissors'
     author:
         - 'Olivier Chafik <ochafik@google.com>'
+-
+    package_name: mdl
+    package_version: v1.9.0
+    title: 'v1.9.0 of mdl'
+    published: '2015-11-16T13:41:55+00:00'
+    id: 'urn:uuid:d7949470-4531-5558-8bd9-32afbe208ece'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
