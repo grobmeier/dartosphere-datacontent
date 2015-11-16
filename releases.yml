@@ -43285,3 +43285,21 @@
     link: 'https://pub.dartlang.org/packages/polymer_app_layout_template'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: simple_requests
+    package_version: v0.1.2
+    title: 'v0.1.2 of simple_requests'
+    published: '2015-11-16T08:19:45+00:00'
+    id: 'urn:uuid:f069066f-1846-5255-a327-7ad12855b5c3'
+    link: 'https://pub.dartlang.org/packages/simple_requests'
+    author:
+        - 'Martin Sikora <martin.sikora.ahoj@gmail.com>'
+-
+    package_name: scissors
+    package_version: v0.1.9
+    title: 'v0.1.9 of scissors'
+    published: '2015-11-16T08:13:52+00:00'
+    id: 'urn:uuid:4de47bc4-2e5f-5f6d-bd16-8558da04780b'
+    link: 'https://pub.dartlang.org/packages/scissors'
+    author:
+        - 'Olivier Chafik <ochafik@google.com>'
