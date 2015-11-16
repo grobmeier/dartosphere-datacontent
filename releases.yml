@@ -43332,3 +43332,21 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: linter
+    package_version: v0.1.6
+    title: 'v0.1.6 of linter'
+    published: '2015-11-16T19:56:40+00:00'
+    id: 'urn:uuid:1d9af5b7-533e-5a77-a3c0-f6500999641b'
+    link: 'https://pub.dartlang.org/packages/linter'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: chartjs
+    package_version: v0.1.0
+    title: 'v0.1.0 of chartjs'
+    published: '2015-11-16T19:55:16+00:00'
+    id: 'urn:uuid:f30e295d-fc8a-5868-81fa-ba7745cb0bd2'
+    link: 'https://pub.dartlang.org/packages/chartjs'
+    author:
+        - 'Kevin Moore <github@j832.com>'
