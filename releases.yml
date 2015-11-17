@@ -43424,3 +43424,12 @@
         - 'Werner Gaisbauer <werner.gaisbauer@exitlive.io>'
         - 'Alex Tekartik <alex@tekartik.com>'
         - 'Matias Meno <matias.meno@exitlive.io>'
+-
+    package_name: v23discovery
+    package_version: v0.0.3
+    title: 'v0.0.3 of v23discovery'
+    published: '2015-11-17T17:26:06+00:00'
+    id: 'urn:uuid:7c7bb345-708e-5686-bebd-426bc4a617d9'
+    link: 'https://pub.dartlang.org/packages/v23discovery'
+    author:
+        - 'Vanadium Authors'
