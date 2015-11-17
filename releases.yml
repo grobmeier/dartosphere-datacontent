@@ -43433,3 +43433,12 @@
     link: 'https://pub.dartlang.org/packages/v23discovery'
     author:
         - 'Vanadium Authors'
+-
+    package_name: chartjs
+    package_version: v0.1.0+1
+    title: 'v0.1.0+1 of chartjs'
+    published: '2015-11-17T18:33:55+00:00'
+    id: 'urn:uuid:9e17b683-7d82-5d88-8fcb-e96dcd9e6c5c'
+    link: 'https://pub.dartlang.org/packages/chartjs'
+    author:
+        - 'Kevin Moore <github@j832.com>'
