@@ -43442,3 +43442,21 @@
     link: 'https://pub.dartlang.org/packages/chartjs'
     author:
         - 'Kevin Moore <github@j832.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.57
+    title: 'v0.0.57 of sky_services'
+    published: '2015-11-17T19:55:24+00:00'
+    id: 'urn:uuid:c9236940-68d3-5f6b-93d7-e12407540949'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.57
+    title: 'v0.0.57 of sky_engine'
+    published: '2015-11-17T19:55:22+00:00'
+    id: 'urn:uuid:75b7b6e2-fd3f-5f5b-beac-9d3d545e9c3f'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
