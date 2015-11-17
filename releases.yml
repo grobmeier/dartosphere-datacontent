@@ -43460,3 +43460,12 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: polymer_app_layout_template
+    package_version: v0.1.4
+    title: 'v0.1.4 of polymer_app_layout_template'
+    published: '2015-11-17T21:04:29+00:00'
+    id: 'urn:uuid:66305416-662a-5b73-b604-5943124e5c08'
+    link: 'https://pub.dartlang.org/packages/polymer_app_layout_template'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
