@@ -43404,3 +43404,12 @@
     link: 'https://pub.dartlang.org/packages/sitegen'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: mdl
+    package_version: v1.9.2
+    title: 'v1.9.2 of mdl'
+    published: '2015-11-17T11:52:10+00:00'
+    id: 'urn:uuid:3f2efdc4-b17a-5feb-878d-4b5648d773fb'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
