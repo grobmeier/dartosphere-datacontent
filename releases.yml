@@ -43395,3 +43395,12 @@
     link: 'https://pub.dartlang.org/packages/ng2_strap'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: sitegen
+    package_version: v1.2.4
+    title: 'v1.2.4 of sitegen'
+    published: '2015-11-17T07:40:58+00:00'
+    id: 'urn:uuid:95316dba-715c-597d-ac9f-a1706ff2de32'
+    link: 'https://pub.dartlang.org/packages/sitegen'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
