@@ -43469,3 +43469,21 @@
     link: 'https://pub.dartlang.org/packages/polymer_app_layout_template'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: shelf
+    package_version: v0.6.4+2
+    title: 'v0.6.4+2 of shelf'
+    published: '2015-11-18T00:24:11+00:00'
+    id: 'urn:uuid:275fa05f-2420-5c37-8671-4008ae34e454'
+    link: 'https://pub.dartlang.org/packages/shelf'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: path
+    package_version: v1.3.7
+    title: 'v1.3.7 of path'
+    published: '2015-11-18T00:08:26+00:00'
+    id: 'urn:uuid:61e89d96-46a5-5b8b-be39-219174369a3e'
+    link: 'https://pub.dartlang.org/packages/path'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
