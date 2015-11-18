@@ -43730,3 +43730,21 @@
     link: 'https://pub.dartlang.org/packages/molviewfmt'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: omnibus
+    package_version: v0.0.3
+    title: 'v0.0.3 of omnibus'
+    published: '2015-11-18T21:50:05+00:00'
+    id: 'urn:uuid:7ab34613-5ec5-5d4a-b748-b32edb3c3a06'
+    link: 'https://pub.dartlang.org/packages/omnibus'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: molviewfmt
+    package_version: v0.0.3
+    title: 'v0.0.3 of molviewfmt'
+    published: '2015-11-18T21:26:37+00:00'
+    id: 'urn:uuid:e48f7404-20c7-51a3-b907-4fc19af3b947'
+    link: 'https://pub.dartlang.org/packages/molviewfmt'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
