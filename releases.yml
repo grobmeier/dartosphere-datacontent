@@ -43496,3 +43496,12 @@
     link: 'https://pub.dartlang.org/packages/v23discovery'
     author:
         - 'Vanadium Authors'
+-
+    package_name: drails_validator
+    package_version: v0.0.2
+    title: 'v0.0.2 of drails_validator'
+    published: '2015-11-18T06:29:16+00:00'
+    id: 'urn:uuid:e1f1fb67-a1d2-58d2-8198-38d607545b08'
+    link: 'https://pub.dartlang.org/packages/drails_validator'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
