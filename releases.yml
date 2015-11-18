@@ -43505,3 +43505,12 @@
     link: 'https://pub.dartlang.org/packages/drails_validator'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: tether
+    package_version: v0.1.0
+    title: 'v0.1.0 of tether'
+    published: '2015-11-18T12:40:26+00:00'
+    id: 'urn:uuid:64037fa8-c93b-545c-a3d7-a78ebbdeba11'
+    link: 'https://pub.dartlang.org/packages/tether'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
