@@ -43604,3 +43604,111 @@
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
         - 'Sean Eagan <seaneagan1@gmail.com>'
         - 'Victor Berchet <victor@suumit.com>'
+-
+    package_name: quiver_collection
+    package_version: v1.0.0-dev.1
+    title: 'v1.0.0-dev.1 of quiver_collection'
+    published: '2015-11-18T18:57:06+00:00'
+    id: 'urn:uuid:5b18d572-c4d5-5e25-aa21-4b08241e053d'
+    link: 'https://pub.dartlang.org/packages/quiver_collection'
+    author:
+        - 'Justin Fagnani <justinfagnani@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Chris Bracken <cbracken@google.com>'
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+        - 'David Morgan <davidmorgan@google.com>'
+        - 'John McDole <codefu@google.com>'
+        - 'Matan Lurey <matanl@google.com>'
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+        - 'Sean Eagan <seaneagan1@gmail.com>'
+        - 'Victor Berchet <victor@suumit.com>'
+-
+    package_name: quiver_iterables
+    package_version: v1.0.0-dev.1
+    title: 'v1.0.0-dev.1 of quiver_iterables'
+    published: '2015-11-18T18:40:06+00:00'
+    id: 'urn:uuid:3cd4a8f0-f356-527c-8a88-12c5ea2afb98'
+    link: 'https://pub.dartlang.org/packages/quiver_iterables'
+    author:
+        - 'Justin Fagnani <justinfagnani@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Chris Bracken <cbracken@google.com>'
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+        - 'David Morgan <davidmorgan@google.com>'
+        - 'John McDole <codefu@google.com>'
+        - 'Matan Lurey <matanl@google.com>'
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+        - 'Sean Eagan <seaneagan1@gmail.com>'
+        - 'Victor Berchet <victor@suumit.com>'
+-
+    package_name: quiver_strings
+    package_version: v1.0.0-dev.1
+    title: 'v1.0.0-dev.1 of quiver_strings'
+    published: '2015-11-18T18:38:18+00:00'
+    id: 'urn:uuid:630bccaf-0a4c-5da4-96b2-b6121d34952b'
+    link: 'https://pub.dartlang.org/packages/quiver_strings'
+    author:
+        - 'Justin Fagnani <justinfagnani@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Chris Bracken <cbracken@google.com>'
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+        - 'David Morgan <davidmorgan@google.com>'
+        - 'John McDole <codefu@google.com>'
+        - 'Matan Lurey <matanl@google.com>'
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+        - 'Sean Eagan <seaneagan1@gmail.com>'
+        - 'Victor Berchet <victor@suumit.com>'
+-
+    package_name: quiver_pattern
+    package_version: v1.0.0-dev.1
+    title: 'v1.0.0-dev.1 of quiver_pattern'
+    published: '2015-11-18T18:36:43+00:00'
+    id: 'urn:uuid:38d5b988-78c8-5a0f-99b7-249fb775f91f'
+    link: 'https://pub.dartlang.org/packages/quiver_pattern'
+    author:
+        - 'Justin Fagnani <justinfagnani@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Chris Bracken <cbracken@google.com>'
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+        - 'David Morgan <davidmorgan@google.com>'
+        - 'John McDole <codefu@google.com>'
+        - 'Matan Lurey <matanl@google.com>'
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+        - 'Sean Eagan <seaneagan1@gmail.com>'
+        - 'Victor Berchet <victor@suumit.com>'
+-
+    package_name: quiver_optional
+    package_version: v1.0.0-dev.1
+    title: 'v1.0.0-dev.1 of quiver_optional'
+    published: '2015-11-18T18:06:19+00:00'
+    id: 'urn:uuid:4d6001e7-4f0b-5eb7-a6ae-7c767c7404e8'
+    link: 'https://pub.dartlang.org/packages/quiver_optional'
+    author:
+        - 'Justin Fagnani <justinfagnani@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Chris Bracken <cbracken@google.com>'
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+        - 'David Morgan <davidmorgan@google.com>'
+        - 'John McDole <codefu@google.com>'
+        - 'Matan Lurey <matanl@google.com>'
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+        - 'Sean Eagan <seaneagan1@gmail.com>'
+        - 'Victor Berchet <victor@suumit.com>'
+-
+    package_name: quiver_mirrors
+    package_version: v1.0.0-dev.1
+    title: 'v1.0.0-dev.1 of quiver_mirrors'
+    published: '2015-11-18T18:04:01+00:00'
+    id: 'urn:uuid:f242563f-8151-5b9f-b73e-687ee8eccd28'
+    link: 'https://pub.dartlang.org/packages/quiver_mirrors'
+    author:
+        - 'Justin Fagnani <justinfagnani@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Chris Bracken <cbracken@google.com>'
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+        - 'David Morgan <davidmorgan@google.com>'
+        - 'John McDole <codefu@google.com>'
+        - 'Matan Lurey <matanl@google.com>'
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+        - 'Sean Eagan <seaneagan1@gmail.com>'
+        - 'Victor Berchet <victor@suumit.com>'
