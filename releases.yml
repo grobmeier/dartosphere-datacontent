@@ -43523,3 +43523,12 @@
     link: 'https://pub.dartlang.org/packages/event_kit'
     author:
         - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: event_kit
+    package_version: v0.1.1
+    title: 'v0.1.1 of event_kit'
+    published: '2015-11-18T16:27:45+00:00'
+    id: 'urn:uuid:2d061f4d-d430-5fea-b8bc-b87eb0630bbc'
+    link: 'https://pub.dartlang.org/packages/event_kit'
+    author:
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
