@@ -43712,3 +43712,21 @@
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
         - 'Sean Eagan <seaneagan1@gmail.com>'
         - 'Victor Berchet <victor@suumit.com>'
+-
+    package_name: mojito
+    package_version: v0.6.3
+    title: 'v0.6.3 of mojito'
+    published: '2015-11-18T19:57:30+00:00'
+    id: 'urn:uuid:7d343ba4-7894-5dd6-b27c-f5e8950737fc'
+    link: 'https://pub.dartlang.org/packages/mojito'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: molviewfmt
+    package_version: v0.0.2
+    title: 'v0.0.2 of molviewfmt'
+    published: '2015-11-18T19:27:47+00:00'
+    id: 'urn:uuid:a978dff3-50c0-5b81-883b-a776dd3bde28'
+    link: 'https://pub.dartlang.org/packages/molviewfmt'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
