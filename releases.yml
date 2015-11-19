@@ -43802,3 +43802,57 @@
     link: 'https://pub.dartlang.org/packages/plot_window'
     author:
         - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: vm_service_lib
+    package_version: v0.0.8
+    title: 'v0.0.8 of vm_service_lib'
+    published: '2015-11-19T21:41:08+00:00'
+    id: 'urn:uuid:bb76c32b-4173-5ff9-a52f-2b5ad4368688'
+    link: 'https://pub.dartlang.org/packages/vm_service_lib'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: mojo_sdk
+    package_version: v0.2.3
+    title: 'v0.2.3 of mojo_sdk'
+    published: '2015-11-19T21:28:21+00:00'
+    id: 'urn:uuid:3c2aac30-5e2b-577c-83a8-13328c4c283d'
+    link: 'https://pub.dartlang.org/packages/mojo_sdk'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_services
+    package_version: v0.4.6
+    title: 'v0.4.6 of mojo_services'
+    published: '2015-11-19T21:04:42+00:00'
+    id: 'urn:uuid:22274835-1d35-5537-b0ab-641c510d931c'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojom
+    package_version: v0.2.9
+    title: 'v0.2.9 of mojom'
+    published: '2015-11-19T21:04:17+00:00'
+    id: 'urn:uuid:935274be-6aa9-5f38-b0dc-2223204d85a5'
+    link: 'https://pub.dartlang.org/packages/mojom'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_apptest
+    package_version: v0.2.9
+    title: 'v0.2.9 of mojo_apptest'
+    published: '2015-11-19T21:04:03+00:00'
+    id: 'urn:uuid:d5ad02e9-ea5a-5a4a-99e7-e1cf0f1d691f'
+    link: 'https://pub.dartlang.org/packages/mojo_apptest'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo
+    package_version: v0.4.4
+    title: 'v0.4.4 of mojo'
+    published: '2015-11-19T21:03:35+00:00'
+    id: 'urn:uuid:22b7dc24-4f64-570d-a47d-9701847e394f'
+    link: 'https://pub.dartlang.org/packages/mojo'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
