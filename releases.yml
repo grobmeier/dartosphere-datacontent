@@ -43748,3 +43748,30 @@
     link: 'https://pub.dartlang.org/packages/molviewfmt'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: chartjs
+    package_version: v0.1.0+2
+    title: 'v0.1.0+2 of chartjs'
+    published: '2015-11-18T23:39:11+00:00'
+    id: 'urn:uuid:966f5ff8-bded-5d87-9ed6-700adeb82d52'
+    link: 'https://pub.dartlang.org/packages/chartjs'
+    author:
+        - 'Kevin Moore <kevmoo+github@google.com>'
+-
+    package_name: v23discovery
+    package_version: v0.0.5
+    title: 'v0.0.5 of v23discovery'
+    published: '2015-11-18T23:38:06+00:00'
+    id: 'urn:uuid:fdc4808a-0b3a-59d5-b863-c9127941bafc'
+    link: 'https://pub.dartlang.org/packages/v23discovery'
+    author:
+        - 'Vanadium Authors'
+-
+    package_name: js
+    package_version: v0.6.0
+    title: 'v0.6.0 of js'
+    published: '2015-11-18T23:34:48+00:00'
+    id: 'urn:uuid:0f5c8cd5-f35c-5e5a-b726-8a44ce815603'
+    link: 'https://pub.dartlang.org/packages/js'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
