@@ -43784,3 +43784,12 @@
     link: 'https://pub.dartlang.org/packages/dacsslide'
     author:
         - 'Valentyn Shybanov <olostan@gmail.com>'
+-
+    package_name: math_expressions
+    package_version: v0.2.0
+    title: 'v0.2.0 of math_expressions'
+    published: '2015-11-19T09:56:34+00:00'
+    id: 'urn:uuid:1f8205e0-e36a-5a60-b904-46517df37f6f'
+    link: 'https://pub.dartlang.org/packages/math_expressions'
+    author:
+        - 'Frederik Leonhardt <frederik.leonhardt@gmail.com>'
