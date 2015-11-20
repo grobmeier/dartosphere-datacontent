@@ -43964,3 +43964,30 @@
     link: 'https://pub.dartlang.org/packages/orientdb_server'
     author:
         - 'Ross Albertson <magnusthegood@yahoo.com>'
+-
+    package_name: mdl
+    package_version: v1.10.2
+    title: 'v1.10.2 of mdl'
+    published: '2015-11-20T15:37:10+00:00'
+    id: 'urn:uuid:f98ccb99-23d9-5a7a-aff5-3621d2cf498b'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: changelog
+    package_version: v1.3.6
+    title: 'v1.3.6 of changelog'
+    published: '2015-11-20T15:24:32+00:00'
+    id: 'urn:uuid:aa3bc2dc-d5fd-5f01-b375-b7b8dfc86a17'
+    link: 'https://pub.dartlang.org/packages/changelog'
+    author:
+        - office@mikemitterer.at
+-
+    package_name: slickdart
+    package_version: v0.1.5+1
+    title: 'v0.1.5+1 of slickdart'
+    published: '2015-11-20T15:19:27+00:00'
+    id: 'urn:uuid:c196bd5a-fdfc-5920-88b7-41d4d8c36f63'
+    link: 'https://pub.dartlang.org/packages/slickdart'
+    author:
+        - 'CJKAO <kaopeter@gmail.com>'
