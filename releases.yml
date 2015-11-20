@@ -43937,3 +43937,12 @@
     link: 'https://pub.dartlang.org/packages/event_kit'
     author:
         - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: tether
+    package_version: v0.1.1
+    title: 'v0.1.1 of tether'
+    published: '2015-11-20T09:29:45+00:00'
+    id: 'urn:uuid:165be72b-6329-5419-ad29-4536725203d6'
+    link: 'https://pub.dartlang.org/packages/tether'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
