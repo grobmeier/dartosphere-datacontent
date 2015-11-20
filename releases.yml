@@ -44054,3 +44054,62 @@
     link: 'https://pub.dartlang.org/packages/flutter'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: vm_service_lib
+    package_version: v0.0.8+1
+    title: 'v0.0.8+1 of vm_service_lib'
+    published: '2015-11-20T21:51:35+00:00'
+    id: 'urn:uuid:e517d5d6-b3f6-5ab1-ac4f-9340926ab8eb'
+    link: 'https://pub.dartlang.org/packages/vm_service_lib'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: mojo_sdk
+    package_version: v0.2.4
+    title: 'v0.2.4 of mojo_sdk'
+    published: '2015-11-20T21:20:18+00:00'
+    id: 'urn:uuid:c3e16298-c58d-5214-9d70-0c69dfd8ece6'
+    link: 'https://pub.dartlang.org/packages/mojo_sdk'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_services
+    package_version: v0.4.7
+    title: 'v0.4.7 of mojo_services'
+    published: '2015-11-20T21:16:02+00:00'
+    id: 'urn:uuid:5141f104-5471-5e97-b9a2-850726d19da6'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo
+    package_version: v0.4.5
+    title: 'v0.4.5 of mojo'
+    published: '2015-11-20T21:15:51+00:00'
+    id: 'urn:uuid:5de367bb-b744-59e5-a5de-4686e677a7ea'
+    link: 'https://pub.dartlang.org/packages/mojo'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: dart_dev
+    package_version: v1.0.4
+    title: 'v1.0.4 of dart_dev'
+    published: '2015-11-20T21:15:04+00:00'
+    id: 'urn:uuid:093f1b3e-d050-53ba-a114-430bfdc92185'
+    link: 'https://pub.dartlang.org/packages/dart_dev'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: tintin
+    package_version: v0.1.0+2
+    title: 'v0.1.0+2 of tintin'
+    published: '2015-11-20T21:09:24+00:00'
+    id: 'urn:uuid:2ea06a8e-4f62-5d5e-8b6c-5d791289a2f3'
+    link: 'https://pub.dartlang.org/packages/tintin'
+    author:
+        - 'Frederik Leonhardt <frederik.leonhardt@gmail.com>'
