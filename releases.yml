@@ -44009,3 +44009,48 @@
     link: 'https://pub.dartlang.org/packages/plotly'
     author:
         - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: collection
+    package_version: v1.2.0
+    title: 'v1.2.0 of collection'
+    published: '2015-11-20T19:50:43+00:00'
+    id: 'urn:uuid:ea5f872d-8480-573e-97d6-29f114ac6fcd'
+    link: 'https://pub.dartlang.org/packages/collection'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: yaml2json_transformer
+    package_version: v0.0.4
+    title: 'v0.0.4 of yaml2json_transformer'
+    published: '2015-11-20T19:41:42+00:00'
+    id: 'urn:uuid:780c35cc-daea-515f-aea3-ddd2ed77ae41'
+    link: 'https://pub.dartlang.org/packages/yaml2json_transformer'
+    author:
+        - 'Mark Nordine <marknordine@gmail.com>'
+-
+    package_name: poisson_disc
+    package_version: v2.0.0
+    title: 'v2.0.0 of poisson_disc'
+    published: '2015-11-20T19:24:25+00:00'
+    id: 'urn:uuid:0be2fe3a-ad5c-5da0-85a7-f1f6b4e23935'
+    link: 'https://pub.dartlang.org/packages/poisson_disc'
+    author:
+        - 'Gary Smith <argentiapparatus@gmail.com>'
+-
+    package_name: sky_tools
+    package_version: v0.0.38
+    title: 'v0.0.38 of sky_tools'
+    published: '2015-11-20T19:07:20+00:00'
+    id: 'urn:uuid:4d11fbb2-1981-5dc0-b945-5e8c035b07b4'
+    link: 'https://pub.dartlang.org/packages/sky_tools'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: flutter
+    package_version: v0.0.19
+    title: 'v0.0.19 of flutter'
+    published: '2015-11-20T19:04:01+00:00'
+    id: 'urn:uuid:8ee7f05a-5112-5918-8b2b-a7297d6e232c'
+    link: 'https://pub.dartlang.org/packages/flutter'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
