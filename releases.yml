@@ -43928,3 +43928,12 @@
     link: 'https://pub.dartlang.org/packages/orientdb_server'
     author:
         - 'Ross Albertson <magnusthegood@yahoo.com>'
+-
+    package_name: event_kit
+    package_version: v0.1.2
+    title: 'v0.1.2 of event_kit'
+    published: '2015-11-20T07:59:59+00:00'
+    id: 'urn:uuid:504d82c7-de24-5639-a20b-d8a50b4608b1'
+    link: 'https://pub.dartlang.org/packages/event_kit'
+    author:
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
