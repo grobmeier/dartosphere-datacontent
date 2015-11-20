@@ -44000,3 +44000,12 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: plotly
+    package_version: v0.0.1
+    title: 'v0.0.1 of plotly'
+    published: '2015-11-20T18:13:19+00:00'
+    id: 'urn:uuid:fd347f36-5b7d-5531-b68b-1acd63fa635c'
+    link: 'https://pub.dartlang.org/packages/plotly'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
