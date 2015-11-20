@@ -43892,3 +43892,30 @@
     link: 'https://pub.dartlang.org/packages/orientdb_server'
     author:
         - 'Ross Albertson <magnusthegood@yahoo.com>'
+-
+    package_name: ebisu_cpp
+    package_version: v0.3.6
+    title: 'v0.3.6 of ebisu_cpp'
+    published: '2015-11-20T00:53:08+00:00'
+    id: 'urn:uuid:bc15ae6b-d0df-51a3-ab55-dcb5f29aef21'
+    link: 'https://pub.dartlang.org/packages/ebisu_cpp'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: ebisu
+    package_version: v0.6.6
+    title: 'v0.6.6 of ebisu'
+    published: '2015-11-20T00:46:08+00:00'
+    id: 'urn:uuid:4c2a27fc-fa59-5bdc-98c8-20ea00c6a37d'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: orientdb_server
+    package_version: v0.0.3
+    title: 'v0.0.3 of orientdb_server'
+    published: '2015-11-20T00:20:23+00:00'
+    id: 'urn:uuid:91c06064-d482-5293-852d-cfbb455643ae'
+    link: 'https://pub.dartlang.org/packages/orientdb_server'
+    author:
+        - 'Ross Albertson <magnusthegood@yahoo.com>'
