@@ -44230,3 +44230,12 @@
     link: 'https://pub.dartlang.org/packages/stagexl'
     author:
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: plotly
+    package_version: v0.0.2
+    title: 'v0.0.2 of plotly'
+    published: '2015-11-21T10:25:34+00:00'
+    id: 'urn:uuid:8e93f587-b8b4-56cc-97af-7ad1f0fe9478'
+    link: 'https://pub.dartlang.org/packages/plotly'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
