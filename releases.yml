@@ -44140,3 +44140,48 @@
     link: 'https://pub.dartlang.org/packages/dev_compiler'
     author:
         - 'Dart Dev Compiler team <dev-compiler@dartlang.org>'
+-
+    package_name: orientdb_server
+    package_version: v0.0.8
+    title: 'v0.0.8 of orientdb_server'
+    published: '2015-11-21T00:52:23+00:00'
+    id: 'urn:uuid:c635371a-f40d-511a-9bb3-04ae5bcd3e56'
+    link: 'https://pub.dartlang.org/packages/orientdb_server'
+    author:
+        - 'Ross Albertson <magnusthegood@yahoo.com>'
+-
+    package_name: analyzer
+    package_version: v0.26.3
+    title: 'v0.26.3 of analyzer'
+    published: '2015-11-21T00:39:14+00:00'
+    id: 'urn:uuid:1b3d4ded-6100-575f-a9e3-241f4f54b14d'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: vm_service_lib
+    package_version: v0.0.8+2
+    title: 'v0.0.8+2 of vm_service_lib'
+    published: '2015-11-21T00:01:35+00:00'
+    id: 'urn:uuid:db1cefbe-67d3-526a-b83f-d41886e1c2d5'
+    link: 'https://pub.dartlang.org/packages/vm_service_lib'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: sky_services
+    package_version: v0.0.60
+    title: 'v0.0.60 of sky_services'
+    published: '2015-11-21T00:00:40+00:00'
+    id: 'urn:uuid:7b862160-0ca1-55e3-a56e-4149f5a312fc'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.60
+    title: 'v0.0.60 of sky_engine'
+    published: '2015-11-21T00:00:38+00:00'
+    id: 'urn:uuid:fac01ced-7759-5a05-b83f-16a6532ea95e'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
