@@ -44185,3 +44185,48 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: stagexl_particle
+    package_version: v0.3.7
+    title: 'v0.3.7 of stagexl_particle'
+    published: '2015-11-21T07:38:31+00:00'
+    id: 'urn:uuid:59b5e7ea-f2d9-5410-b256-b69ead4628a3'
+    link: 'https://pub.dartlang.org/packages/stagexl_particle'
+    author:
+        - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: stagexl_flump
+    package_version: v0.3.5
+    title: 'v0.3.5 of stagexl_flump'
+    published: '2015-11-21T07:14:22+00:00'
+    id: 'urn:uuid:1fd3f681-86f8-5762-b72f-ae7b111647e1'
+    link: 'https://pub.dartlang.org/packages/stagexl_flump'
+    author:
+        - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: stagexl_bitmapfont
+    package_version: v0.1.1
+    title: 'v0.1.1 of stagexl_bitmapfont'
+    published: '2015-11-21T07:12:13+00:00'
+    id: 'urn:uuid:479711e5-d09c-56fe-8770-fcffb58eabd7'
+    link: 'https://pub.dartlang.org/packages/stagexl_bitmapfont'
+    author:
+        - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: stagexl_spine
+    package_version: v0.4.1
+    title: 'v0.4.1 of stagexl_spine'
+    published: '2015-11-21T07:09:06+00:00'
+    id: 'urn:uuid:fc6d8654-ed6f-5597-8c07-d8d11cf635db'
+    link: 'https://pub.dartlang.org/packages/stagexl_spine'
+    author:
+        - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: stagexl
+    package_version: v0.13.0
+    title: 'v0.13.0 of stagexl'
+    published: '2015-11-21T07:03:23+00:00'
+    id: 'urn:uuid:89bfbfc7-a37b-5985-b335-da7470f52520'
+    link: 'https://pub.dartlang.org/packages/stagexl'
+    author:
+        - 'Bernhard Pichler <support@stagexl.org>'
