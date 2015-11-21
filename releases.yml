@@ -44239,3 +44239,12 @@
     link: 'https://pub.dartlang.org/packages/plotly'
     author:
         - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: stagexl_richtextfield
+    package_version: v0.1.3
+    title: 'v0.1.3 of stagexl_richtextfield'
+    published: '2015-11-21T19:19:49+00:00'
+    id: 'urn:uuid:83b7fe26-fc16-5e6e-95ac-7a020fac624f'
+    link: 'https://pub.dartlang.org/packages/stagexl_richtextfield'
+    author:
+        - 'Alex Gann <k.alexgann@gmail.com>'
