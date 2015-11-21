@@ -44258,3 +44258,12 @@
     author:
         - 'Alex Gann <k.alexgann@gmail.com>'
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: molviewfmt
+    package_version: v0.1.0
+    title: 'v0.1.0 of molviewfmt'
+    published: '2015-11-21T22:43:33+00:00'
+    id: 'urn:uuid:3f74ab0f-daef-5bae-969b-f79a6ff7d781'
+    link: 'https://pub.dartlang.org/packages/molviewfmt'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
