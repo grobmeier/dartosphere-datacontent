@@ -44248,3 +44248,13 @@
     link: 'https://pub.dartlang.org/packages/stagexl_richtextfield'
     author:
         - 'Alex Gann <k.alexgann@gmail.com>'
+-
+    package_name: stagexl_richtextfield
+    package_version: v0.1.3+2
+    title: 'v0.1.3+2 of stagexl_richtextfield'
+    published: '2015-11-21T20:31:05+00:00'
+    id: 'urn:uuid:38d5a79e-d814-59c3-8d5a-8b83c49f8e0f'
+    link: 'https://pub.dartlang.org/packages/stagexl_richtextfield'
+    author:
+        - 'Alex Gann <k.alexgann@gmail.com>'
+        - 'Bernhard Pichler <support@stagexl.org>'
