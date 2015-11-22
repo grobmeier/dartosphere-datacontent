@@ -44303,3 +44303,12 @@
     link: 'https://pub.dartlang.org/packages/darpule'
     author:
         - 'Ray King <taipan.king@gmail.com>'
+-
+    package_name: syncbase
+    package_version: v0.0.15
+    title: 'v0.0.15 of syncbase'
+    published: '2015-11-22T08:07:41+00:00'
+    id: 'urn:uuid:52267a88-4caa-5c71-bc05-8f25ea8e36f4'
+    link: 'https://pub.dartlang.org/packages/syncbase'
+    author:
+        - 'Vanadium Authors'
