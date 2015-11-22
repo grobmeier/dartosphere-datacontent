@@ -44312,3 +44312,12 @@
     link: 'https://pub.dartlang.org/packages/syncbase'
     author:
         - 'Vanadium Authors'
+-
+    package_name: tson
+    package_version: v1.0.0
+    title: 'v1.0.0 of tson'
+    published: '2015-11-22T10:29:50+00:00'
+    id: 'urn:uuid:8b7a772f-65ee-579d-8b87-900cdfd1b672'
+    link: 'https://pub.dartlang.org/packages/tson'
+    author:
+        - 'am <alexandre.maurel@gmail.com>'
