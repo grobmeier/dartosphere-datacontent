@@ -44321,3 +44321,12 @@
     link: 'https://pub.dartlang.org/packages/tson'
     author:
         - 'am <alexandre.maurel@gmail.com>'
+-
+    package_name: tether
+    package_version: v0.1.4
+    title: 'v0.1.4 of tether'
+    published: '2015-11-22T12:01:35+00:00'
+    id: 'urn:uuid:36c5f31a-062c-595e-b374-b49673a3c69e'
+    link: 'https://pub.dartlang.org/packages/tether'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
