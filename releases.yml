@@ -44330,3 +44330,21 @@
     link: 'https://pub.dartlang.org/packages/tether'
     author:
         - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: leaflet
+    package_version: v0.0.1
+    title: 'v0.0.1 of leaflet'
+    published: '2015-11-22T15:55:04+00:00'
+    id: 'urn:uuid:33e35682-9e6d-5b69-a379-230cc6d5eb66'
+    link: 'https://pub.dartlang.org/packages/leaflet'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: tap
+    package_version: v0.1.0
+    title: 'v0.1.0 of tap'
+    published: '2015-11-22T15:21:05+00:00'
+    id: 'urn:uuid:5dd92ab7-5f8a-5b3f-8e80-e71809bcdc1e'
+    link: 'https://pub.dartlang.org/packages/tap'
+    author:
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
