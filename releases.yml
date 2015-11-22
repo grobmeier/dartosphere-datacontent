@@ -44294,3 +44294,12 @@
     link: 'https://pub.dartlang.org/packages/btree'
     author:
         - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: darpule
+    package_version: v0.1.0
+    title: 'v0.1.0 of darpule'
+    published: '2015-11-22T03:48:50+00:00'
+    id: 'urn:uuid:5da2adf2-68ae-5044-8245-aced38bd5841'
+    link: 'https://pub.dartlang.org/packages/darpule'
+    author:
+        - 'Ray King <taipan.king@gmail.com>'
