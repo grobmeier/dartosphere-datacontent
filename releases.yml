@@ -44402,3 +44402,12 @@
     link: 'https://pub.dartlang.org/packages/scissors'
     author:
         - 'Olivier Chafik <ochafik@google.com>'
+-
+    package_name: js_mimicry
+    package_version: v0.2.1+2
+    title: 'v0.2.1+2 of js_mimicry'
+    published: '2015-11-23T10:56:14+00:00'
+    id: 'urn:uuid:93b954f0-bd83-5cb3-a210-b47719889baa'
+    link: 'https://pub.dartlang.org/packages/js_mimicry'
+    author:
+        - 'Igor Demyanov <igor.demyanov@gmail.com>'
