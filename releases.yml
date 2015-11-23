@@ -44465,3 +44465,21 @@
     link: 'https://pub.dartlang.org/packages/web_components'
     author:
         - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: source_gen
+    package_version: v0.4.6
+    title: 'v0.4.6 of source_gen'
+    published: '2015-11-23T21:24:02+00:00'
+    id: 'urn:uuid:c6430ccd-f9e2-532a-a25b-b3af72813298'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: test
+    package_version: v0.12.5+2
+    title: 'v0.12.5+2 of test'
+    published: '2015-11-23T21:19:13+00:00'
+    id: 'urn:uuid:193b8667-22a5-55fa-8a84-5b1f009f43ca'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
