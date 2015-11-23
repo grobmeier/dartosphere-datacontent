@@ -44411,3 +44411,21 @@
     link: 'https://pub.dartlang.org/packages/js_mimicry'
     author:
         - 'Igor Demyanov <igor.demyanov@gmail.com>'
+-
+    package_name: slickdart
+    package_version: v0.1.5+2
+    title: 'v0.1.5+2 of slickdart'
+    published: '2015-11-23T15:53:14+00:00'
+    id: 'urn:uuid:cb83f8a4-ff92-52e9-8a1c-da5d725845e2'
+    link: 'https://pub.dartlang.org/packages/slickdart'
+    author:
+        - 'CJKAO <kaopeter@gmail.com>, tonosama-atlacatl'
+-
+    package_name: range_fix
+    package_version: v0.1.0
+    title: 'v0.1.0 of range_fix'
+    published: '2015-11-23T15:18:39+00:00'
+    id: 'urn:uuid:8afec676-ea21-5a0a-b734-a285e6959653'
+    link: 'https://pub.dartlang.org/packages/range_fix'
+    author:
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
