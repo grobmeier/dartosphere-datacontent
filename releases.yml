@@ -44429,3 +44429,12 @@
     link: 'https://pub.dartlang.org/packages/range_fix'
     author:
         - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: tson
+    package_version: v1.1.0
+    title: 'v1.1.0 of tson'
+    published: '2015-11-23T17:21:32+00:00'
+    id: 'urn:uuid:93214545-bc61-515a-a312-f18a19079405'
+    link: 'https://pub.dartlang.org/packages/tson'
+    author:
+        - 'am <alexandre.maurel@gmail.com>'
