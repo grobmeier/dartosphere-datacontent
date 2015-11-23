@@ -44393,3 +44393,12 @@
     link: 'https://pub.dartlang.org/packages/leaflet_fullscreen'
     author:
         - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: scissors
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of scissors'
+    published: '2015-11-23T02:03:14+00:00'
+    id: 'urn:uuid:06b95f42-40e5-597d-9ced-f06b4d3c4f93'
+    link: 'https://pub.dartlang.org/packages/scissors'
+    author:
+        - 'Olivier Chafik <ochafik@google.com>'
