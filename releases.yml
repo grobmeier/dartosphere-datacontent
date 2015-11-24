@@ -44714,3 +44714,12 @@
     link: 'https://pub.dartlang.org/packages/box'
     author:
         - 'Stijn Van Bael <stijn.van.bael@appify.be>'
+-
+    package_name: idb_shim
+    package_version: v1.3.3
+    title: 'v1.3.3 of idb_shim'
+    published: '2015-11-24T21:10:21+00:00'
+    id: 'urn:uuid:3c106014-0d36-5691-b5aa-0bec1682d49d'
+    link: 'https://pub.dartlang.org/packages/idb_shim'
+    author:
+        - 'Alexandre Roux Tekartik <alex.tekartik.pub@gmail.com>'
