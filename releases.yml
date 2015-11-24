@@ -44569,3 +44569,21 @@
     author:
         - 'Boris Kaul <localvoid@gmail.com>'
         - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: reflectable
+    package_version: v0.3.4
+    title: 'v0.3.4 of reflectable'
+    published: '2015-11-24T11:58:56+00:00'
+    id: 'urn:uuid:26d03f36-3f2f-5929-a83e-28a36f0de911'
+    link: 'https://pub.dartlang.org/packages/reflectable'
+    author:
+        - 'The Dart Team <dart@google.com>'
+-
+    package_name: tags
+    package_version: v0.9.4
+    title: 'v0.9.4 of tags'
+    published: '2015-11-24T11:51:35+00:00'
+    id: 'urn:uuid:83a0cce7-9adf-57be-826b-96503fa5f342'
+    link: 'https://pub.dartlang.org/packages/tags'
+    author:
+        - Authors
