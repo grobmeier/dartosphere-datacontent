@@ -44705,3 +44705,12 @@
     link: 'https://pub.dartlang.org/packages/vm_service_lib'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: box
+    package_version: v0.0.7
+    title: 'v0.0.7 of box'
+    published: '2015-11-24T20:21:34+00:00'
+    id: 'urn:uuid:b57bb467-4813-5d07-bb25-1e1b82906b54'
+    link: 'https://pub.dartlang.org/packages/box'
+    author:
+        - 'Stijn Van Bael <stijn.van.bael@appify.be>'
