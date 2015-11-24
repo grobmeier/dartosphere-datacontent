@@ -44723,3 +44723,21 @@
     link: 'https://pub.dartlang.org/packages/idb_shim'
     author:
         - 'Alexandre Roux Tekartik <alex.tekartik.pub@gmail.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.63
+    title: 'v0.0.63 of sky_services'
+    published: '2015-11-24T22:05:21+00:00'
+    id: 'urn:uuid:b113c646-a461-5587-90b9-9762b91fcb10'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.63
+    title: 'v0.0.63 of sky_engine'
+    published: '2015-11-24T22:05:18+00:00'
+    id: 'urn:uuid:2c9718b9-b6e5-5c2b-9e90-106cad4a5033'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
