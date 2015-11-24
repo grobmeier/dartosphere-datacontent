@@ -44614,3 +44614,39 @@
     link: 'https://pub.dartlang.org/packages/undone'
     author:
         - Authors
+-
+    package_name: googleapis_beta
+    package_version: v0.22.0
+    title: 'v0.22.0 of googleapis_beta'
+    published: '2015-11-24T14:51:59+00:00'
+    id: 'urn:uuid:5e6a5c7d-b457-5deb-823b-73e878f26147'
+    link: 'https://pub.dartlang.org/packages/googleapis_beta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: googleapis
+    package_version: v0.20.0
+    title: 'v0.20.0 of googleapis'
+    published: '2015-11-24T14:51:38+00:00'
+    id: 'urn:uuid:bccf20f1-5e99-5405-95b8-89873fabd459'
+    link: 'https://pub.dartlang.org/packages/googleapis'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: nuxeo_client
+    package_version: v0.2.0
+    title: 'v0.2.0 of nuxeo_client'
+    published: '2015-11-24T14:46:36+00:00'
+    id: 'urn:uuid:6cfe09c5-3783-5020-a070-59fbb382c69a'
+    link: 'https://pub.dartlang.org/packages/nuxeo_client'
+    author:
+        - 'Nelson Silva <nsilva@nuxeo.com>'
+-
+    package_name: redstone_exception_mapper
+    package_version: v0.0.1
+    title: 'v0.0.1 of redstone_exception_mapper'
+    published: '2015-11-24T13:59:56+00:00'
+    id: 'urn:uuid:ef3c2656-0047-53f8-8c6a-cfc85d19a497'
+    link: 'https://pub.dartlang.org/packages/redstone_exception_mapper'
+    author:
+        - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
