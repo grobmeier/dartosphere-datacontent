@@ -44659,3 +44659,12 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: ace
+    package_version: v0.7.0+3.4.15
+    title: 'v0.7.0+3.4.15 of ace'
+    published: '2015-11-24T16:24:45+00:00'
+    id: 'urn:uuid:5fd7d845-f55b-584e-8f15-c181aa09112b'
+    link: 'https://pub.dartlang.org/packages/ace'
+    author:
+        - 'Ace.dart Authors'
