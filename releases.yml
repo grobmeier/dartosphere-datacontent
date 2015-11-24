@@ -44587,3 +44587,21 @@
     link: 'https://pub.dartlang.org/packages/tags'
     author:
         - Authors
+-
+    package_name: fields
+    package_version: v0.11.5
+    title: 'v0.11.5 of fields'
+    published: '2015-11-24T12:27:09+00:00'
+    id: 'urn:uuid:bc1dc696-b657-5b77-b7e4-299d3ec602eb'
+    link: 'https://pub.dartlang.org/packages/fields'
+    author:
+        - Authors
+-
+    package_name: bench
+    package_version: v0.4.4
+    title: 'v0.4.4 of bench'
+    published: '2015-11-24T12:06:28+00:00'
+    id: 'urn:uuid:5c770f9a-b6b3-529b-9fe3-25dd39df01fe'
+    link: 'https://pub.dartlang.org/packages/bench'
+    author:
+        - Authors
