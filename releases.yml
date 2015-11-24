@@ -44677,3 +44677,13 @@
     link: 'https://pub.dartlang.org/packages/sembast'
     author:
         - 'Alexandre Roux Tekartik <alex.tekartik.pub@gmail.com>'
+-
+    package_name: timezone
+    package_version: v0.4.0
+    title: 'v0.4.0 of timezone'
+    published: '2015-11-24T18:38:13+00:00'
+    id: 'urn:uuid:339137a9-27a1-5d93-98a7-901751a08f26'
+    link: 'https://pub.dartlang.org/packages/timezone'
+    author:
+        - 'Boris Kaul <localvoid@gmail.com>'
+        - 'Sam Rawlins <sam.rawlins@gmail.com>'
