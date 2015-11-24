@@ -44668,3 +44668,12 @@
     link: 'https://pub.dartlang.org/packages/ace'
     author:
         - 'Ace.dart Authors'
+-
+    package_name: sembast
+    package_version: v1.3.1
+    title: 'v1.3.1 of sembast'
+    published: '2015-11-24T17:35:40+00:00'
+    id: 'urn:uuid:e9fea3a9-3666-584b-9e43-b3bc47bfeb59'
+    link: 'https://pub.dartlang.org/packages/sembast'
+    author:
+        - 'Alexandre Roux Tekartik <alex.tekartik.pub@gmail.com>'
