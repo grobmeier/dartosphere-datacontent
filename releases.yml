@@ -44492,3 +44492,12 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: v23discovery
+    package_version: v0.0.6
+    title: 'v0.0.6 of v23discovery'
+    published: '2015-11-23T23:41:48+00:00'
+    id: 'urn:uuid:17a4353d-e699-52c5-87ce-280bd31543a1'
+    link: 'https://pub.dartlang.org/packages/v23discovery'
+    author:
+        - 'Vanadium Authors'
