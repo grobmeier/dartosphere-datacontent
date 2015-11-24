@@ -44559,3 +44559,13 @@
     link: 'https://pub.dartlang.org/packages/test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: tuple
+    package_version: v1.0.0
+    title: 'v1.0.0 of tuple'
+    published: '2015-11-24T10:23:10+00:00'
+    id: 'urn:uuid:f3809312-0bb4-596e-9833-b8e06510be75'
+    link: 'https://pub.dartlang.org/packages/tuple'
+    author:
+        - 'Boris Kaul <localvoid@gmail.com>'
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
