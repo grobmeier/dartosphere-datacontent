@@ -44501,3 +44501,25 @@
     link: 'https://pub.dartlang.org/packages/v23discovery'
     author:
         - 'Vanadium Authors'
+-
+    package_name: redstone
+    package_version: v0.6.1
+    title: 'v0.6.1 of redstone'
+    published: '2015-11-24T00:52:15+00:00'
+    id: 'urn:uuid:40ada79c-77af-59e1-9d47-1f9f1750c43f'
+    link: 'https://pub.dartlang.org/packages/redstone'
+    author:
+        - 'Luiz Mineo <luiz.mineo@gmail.com>'
+        - 'Kenneth Endfinger <kaendfinger@gmail.com>'
+        - 'Austin Cummings <austincummings95@gmail.com>'
+        - 'Cristian Garcia <cgarcia.e88@gmail.com>'
+        - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
+-
+    package_name: darpule
+    package_version: v0.1.1
+    title: 'v0.1.1 of darpule'
+    published: '2015-11-24T00:37:22+00:00'
+    id: 'urn:uuid:7e045389-9c5b-5a78-995b-3d714a5bf7f4'
+    link: 'https://pub.dartlang.org/packages/darpule'
+    author:
+        - 'Ray King <taipan.king@gmail.com>'
