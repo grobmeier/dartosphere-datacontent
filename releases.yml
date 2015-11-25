@@ -44775,3 +44775,12 @@
         - 'Tom Yeh <tomyeh@rikulo.org>'
         - 'Simon Pai <simonpai@rikulo.org>'
         - 'Henri Chen <henrichen@rikulo.org>'
+-
+    package_name: range_fix
+    package_version: v0.1.1
+    title: 'v0.1.1 of range_fix'
+    published: '2015-11-25T09:19:50+00:00'
+    id: 'urn:uuid:09c7524e-82d8-5a9e-9240-4dd487a64d75'
+    link: 'https://pub.dartlang.org/packages/range_fix'
+    author:
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
