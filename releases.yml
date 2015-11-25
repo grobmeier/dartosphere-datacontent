@@ -44750,3 +44750,17 @@
     link: 'https://pub.dartlang.org/packages/idb_shim'
     author:
         - 'Alexandre Roux Tekartik <alex.tekartik.pub@gmail.com>'
+-
+    package_name: w_transport
+    package_version: v2.0.0
+    title: 'v2.0.0 of w_transport'
+    published: '2015-11-25T02:47:55+00:00'
+    id: 'urn:uuid:f3e80613-b329-5db9-9a67-3f9138459375'
+    link: 'https://pub.dartlang.org/packages/w_transport'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
