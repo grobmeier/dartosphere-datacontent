@@ -44847,3 +44847,21 @@
     link: 'https://pub.dartlang.org/packages/linter'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: sky_services
+    package_version: v0.0.64
+    title: 'v0.0.64 of sky_services'
+    published: '2015-11-25T18:49:09+00:00'
+    id: 'urn:uuid:d940f927-07a5-5c72-ad84-3f7c932feea9'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.64
+    title: 'v0.0.64 of sky_engine'
+    published: '2015-11-25T18:49:05+00:00'
+    id: 'urn:uuid:dc7d99a6-cbb0-5f05-bd17-737d603a0888'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
