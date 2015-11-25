@@ -44865,3 +44865,12 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: box
+    package_version: v0.0.11
+    title: 'v0.0.11 of box'
+    published: '2015-11-25T21:00:37+00:00'
+    id: 'urn:uuid:d993296e-113c-52f3-ae34-12b48f5c8fbd'
+    link: 'https://pub.dartlang.org/packages/box'
+    author:
+        - 'Stijn Van Bael <stijn.van.bael@appify.be>'
