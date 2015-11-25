@@ -44802,3 +44802,12 @@
     link: 'https://pub.dartlang.org/packages/crossbow'
     author:
         - 'Stijn Van Bael <stijn.van.bael@appify.be>'
+-
+    package_name: crossbow
+    package_version: v0.0.8
+    title: 'v0.0.8 of crossbow'
+    published: '2015-11-25T11:49:08+00:00'
+    id: 'urn:uuid:beac5f4b-dfad-5de4-8945-c4e8b697584c'
+    link: 'https://pub.dartlang.org/packages/crossbow'
+    author:
+        - 'Stijn Van Bael <stijn.van.bael@appify.be>'
