@@ -44784,3 +44784,21 @@
     link: 'https://pub.dartlang.org/packages/range_fix'
     author:
         - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: mcpi_dart
+    package_version: v0.0.4
+    title: 'v0.0.4 of mcpi_dart'
+    published: '2015-11-25T10:31:25+00:00'
+    id: 'urn:uuid:e3a5fa81-5372-5ac3-9a64-ff7369355aca'
+    link: 'https://pub.dartlang.org/packages/mcpi_dart'
+    author:
+        - 'Davy Mitchell <daftspaniel@gmail.com>'
+-
+    package_name: crossbow
+    package_version: v0.0.6
+    title: 'v0.0.6 of crossbow'
+    published: '2015-11-25T10:13:06+00:00'
+    id: 'urn:uuid:34ff85a3-00ba-53a6-a09d-45017d2e1d1a'
+    link: 'https://pub.dartlang.org/packages/crossbow'
+    author:
+        - 'Stijn Van Bael <stijn.van.bael@appify.be>'
