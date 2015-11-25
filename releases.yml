@@ -44811,3 +44811,21 @@
     link: 'https://pub.dartlang.org/packages/crossbow'
     author:
         - 'Stijn Van Bael <stijn.van.bael@appify.be>'
+-
+    package_name: reflective
+    package_version: v0.0.16
+    title: 'v0.0.16 of reflective'
+    published: '2015-11-25T12:15:31+00:00'
+    id: 'urn:uuid:f7f007b4-8c8d-5eaa-96ef-0e098b3b8173'
+    link: 'https://pub.dartlang.org/packages/reflective'
+    author:
+        - 'Stijn Van Bael <stijn.van.bael@appify.be>'
+-
+    package_name: box
+    package_version: v0.0.9
+    title: 'v0.0.9 of box'
+    published: '2015-11-25T12:09:07+00:00'
+    id: 'urn:uuid:0e9f13ae-1b5f-58dc-916d-f754b633428d'
+    link: 'https://pub.dartlang.org/packages/box'
+    author:
+        - 'Stijn Van Bael <stijn.van.bael@appify.be>'
