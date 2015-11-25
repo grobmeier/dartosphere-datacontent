@@ -44764,3 +44764,14 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: rikulo_ui
+    package_version: v0.8.0
+    title: 'v0.8.0 of rikulo_ui'
+    published: '2015-11-25T03:44:36+00:00'
+    id: 'urn:uuid:53216fbf-38de-5603-91b8-2cd799d7599c'
+    link: 'https://pub.dartlang.org/packages/rikulo_ui'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+        - 'Simon Pai <simonpai@rikulo.org>'
+        - 'Henri Chen <henrichen@rikulo.org>'
