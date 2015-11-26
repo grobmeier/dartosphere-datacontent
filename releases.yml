@@ -44885,3 +44885,13 @@
         - 'Anant Narayanan <anant@kix.in>'
         - 'Seth Ladd <sethladd@gmail.com>'
         - 'Kevin Moore <github@j832.com>'
+-
+    package_name: disposable
+    package_version: v0.3.1
+    title: 'v0.3.1 of disposable'
+    published: '2015-11-26T03:19:33+00:00'
+    id: 'urn:uuid:e762c4d6-4029-5a57-8eca-f37516ba6d59'
+    link: 'https://pub.dartlang.org/packages/disposable'
+    author:
+        - 'Vizidrix <admin@vizidrix.com>'
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
