@@ -44895,3 +44895,21 @@
     author:
         - 'Vizidrix <admin@vizidrix.com>'
         - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: wilt
+    package_version: v3.2.0
+    title: 'v3.2.0 of wilt'
+    published: '2015-11-26T12:25:55+00:00'
+    id: 'urn:uuid:fc8a6075-4fed-5ed1-bd6d-b819ba707203'
+    link: 'https://pub.dartlang.org/packages/wilt'
+    author:
+        - 'S. Hamblett <steve.hamblett@linux.com>'
+-
+    package_name: box
+    package_version: v0.0.12
+    title: 'v0.0.12 of box'
+    published: '2015-11-26T12:20:00+00:00'
+    id: 'urn:uuid:b2fd0081-739c-5bca-a578-7369eebb7443'
+    link: 'https://pub.dartlang.org/packages/box'
+    author:
+        - 'Stijn Van Bael <stijn.van.bael@appify.be>'
