@@ -44913,3 +44913,12 @@
     link: 'https://pub.dartlang.org/packages/box'
     author:
         - 'Stijn Van Bael <stijn.van.bael@appify.be>'
+-
+    package_name: dartivity_database
+    package_version: v0.1.0
+    title: 'v0.1.0 of dartivity_database'
+    published: '2015-11-26T13:27:32+00:00'
+    id: 'urn:uuid:b24d13a5-7f90-59b9-8114-ce61bfb52647'
+    link: 'https://pub.dartlang.org/packages/dartivity_database'
+    author:
+        - 'Steve Hamblett<steve.hamblett@linux.com>'
