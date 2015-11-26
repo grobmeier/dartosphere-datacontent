@@ -44874,3 +44874,14 @@
     link: 'https://pub.dartlang.org/packages/box'
     author:
         - 'Stijn Van Bael <stijn.van.bael@appify.be>'
+-
+    package_name: firebase
+    package_version: v0.6.5
+    title: 'v0.6.5 of firebase'
+    published: '2015-11-26T01:24:28+00:00'
+    id: 'urn:uuid:3d8ac198-218b-583a-8669-35789ebb3536'
+    link: 'https://pub.dartlang.org/packages/firebase'
+    author:
+        - 'Anant Narayanan <anant@kix.in>'
+        - 'Seth Ladd <sethladd@gmail.com>'
+        - 'Kevin Moore <github@j832.com>'
