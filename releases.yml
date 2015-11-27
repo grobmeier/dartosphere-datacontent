@@ -44940,3 +44940,21 @@
     link: 'https://pub.dartlang.org/packages/process_run'
     author:
         - 'Tekartik <dev@tekartik.com>'
+-
+    package_name: pubglobalupdate
+    package_version: v0.3.0
+    title: 'v0.3.0 of pubglobalupdate'
+    published: '2015-11-27T15:18:46+00:00'
+    id: 'urn:uuid:353e1ab1-af9c-5e0d-96e6-df4c8125441e'
+    link: 'https://pub.dartlang.org/packages/pubglobalupdate'
+    author:
+        - 'Tekartik <dev@tekartik.com>'
+-
+    package_name: process_run
+    package_version: v0.1.1
+    title: 'v0.1.1 of process_run'
+    published: '2015-11-27T15:03:42+00:00'
+    id: 'urn:uuid:dead5660-8c55-5909-9922-6f64405bcfe5'
+    link: 'https://pub.dartlang.org/packages/process_run'
+    author:
+        - 'Tekartik <dev@tekartik.com>'
