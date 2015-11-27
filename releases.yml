@@ -44967,3 +44967,13 @@
     link: 'https://pub.dartlang.org/packages/tson'
     author:
         - 'am <alexandre.maurel@gmail.com>'
+-
+    package_name: angular2_dart_router_demo
+    package_version: v0.0.2-alpha.46
+    title: 'v0.0.2-alpha.46 of angular2_dart_router_demo'
+    published: '2015-11-27T18:13:43+00:00'
+    id: 'urn:uuid:320f39f8-95a0-5109-992f-57416f272671'
+    link: 'https://pub.dartlang.org/packages/angular2_dart_router_demo'
+    author:
+        - 'Rado Kirov <rkirov@gmail.com>'
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
