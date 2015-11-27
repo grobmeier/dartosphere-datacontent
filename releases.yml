@@ -44922,3 +44922,21 @@
     link: 'https://pub.dartlang.org/packages/dartivity_database'
     author:
         - 'Steve Hamblett<steve.hamblett@linux.com>'
+-
+    package_name: languagetools
+    package_version: v0.0.3
+    title: 'v0.0.3 of languagetools'
+    published: '2015-11-27T14:39:55+00:00'
+    id: 'urn:uuid:978237ac-8b8e-510d-a8dd-a2b2e420e8d5'
+    link: 'https://pub.dartlang.org/packages/languagetools'
+    author:
+        - 'Wael Boutglay <btwael@gmail.com>'
+-
+    package_name: process_run
+    package_version: v0.1.0
+    title: 'v0.1.0 of process_run'
+    published: '2015-11-27T14:32:01+00:00'
+    id: 'urn:uuid:0070abcb-6480-5bea-82e5-feed31d8ede4'
+    link: 'https://pub.dartlang.org/packages/process_run'
+    author:
+        - 'Tekartik <dev@tekartik.com>'
