@@ -45022,3 +45022,21 @@
     link: 'https://pub.dartlang.org/packages/languagetools'
     author:
         - 'Wael Boutglay <btwael@gmail.com>'
+-
+    package_name: dragula
+    package_version: v0.0.5
+    title: 'v0.0.5 of dragula'
+    published: '2015-11-28T18:27:18+00:00'
+    id: 'urn:uuid:ef3d8bed-e27e-5269-8607-5beb60e4c1e9'
+    link: 'https://pub.dartlang.org/packages/dragula'
+    author:
+        - 'Kasper Peulen <kasperpeulen@gmail.com>'
+-
+    package_name: ng2_dragula
+    package_version: v0.0.2
+    title: 'v0.0.2 of ng2_dragula'
+    published: '2015-11-28T18:26:13+00:00'
+    id: 'urn:uuid:75fd0da5-ac37-5495-96d4-84f4a4685bc4'
+    link: 'https://pub.dartlang.org/packages/ng2_dragula'
+    author:
+        - 'Kasper Peulen <kasperpeulen@gmail.com>'
