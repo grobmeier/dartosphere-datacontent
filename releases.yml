@@ -44995,3 +44995,12 @@
     link: 'https://pub.dartlang.org/packages/dragula'
     author:
         - 'Kasper Peulen <kasperpeulen@gmail.com>'
+-
+    package_name: dragula
+    package_version: v0.0.3
+    title: 'v0.0.3 of dragula'
+    published: '2015-11-28T06:07:17+00:00'
+    id: 'urn:uuid:57e62294-22de-5e67-86f9-8fbee4ad9c6d'
+    link: 'https://pub.dartlang.org/packages/dragula'
+    author:
+        - 'Kasper Peulen <kasperpeulen@gmail.com>'
