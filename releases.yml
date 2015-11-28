@@ -45013,3 +45013,12 @@
     link: 'https://pub.dartlang.org/packages/languagetools'
     author:
         - 'Wael Boutglay <btwael@gmail.com>'
+-
+    package_name: languagetools
+    package_version: v0.0.5
+    title: 'v0.0.5 of languagetools'
+    published: '2015-11-28T14:42:30+00:00'
+    id: 'urn:uuid:af2af3aa-3ec3-5f96-867d-b9f9234a107d'
+    link: 'https://pub.dartlang.org/packages/languagetools'
+    author:
+        - 'Wael Boutglay <btwael@gmail.com>'
