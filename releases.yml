@@ -45004,3 +45004,12 @@
     link: 'https://pub.dartlang.org/packages/dragula'
     author:
         - 'Kasper Peulen <kasperpeulen@gmail.com>'
+-
+    package_name: languagetools
+    package_version: v0.0.4
+    title: 'v0.0.4 of languagetools'
+    published: '2015-11-28T13:44:01+00:00'
+    id: 'urn:uuid:86a352aa-834f-51b5-882e-5837b1fb56cc'
+    link: 'https://pub.dartlang.org/packages/languagetools'
+    author:
+        - 'Wael Boutglay <btwael@gmail.com>'
