@@ -45079,3 +45079,21 @@
     link: 'https://pub.dartlang.org/packages/dragula'
     author:
         - 'Kasper Peulen <kasperpeulen@gmail.com>'
+-
+    package_name: json_schema
+    package_version: v1.0.2
+    title: 'v1.0.2 of json_schema'
+    published: '2015-11-29T21:52:33+00:00'
+    id: 'urn:uuid:14fc9aa8-0c49-51bd-8fae-335307e42709'
+    link: 'https://pub.dartlang.org/packages/json_schema'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: ebisu
+    package_version: v0.6.7
+    title: 'v0.6.7 of ebisu'
+    published: '2015-11-29T21:30:13+00:00'
+    id: 'urn:uuid:53de437b-bbe4-5f2b-a6f3-a1dde81b434a'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
