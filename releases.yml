@@ -45052,3 +45052,21 @@
         - 'Rick Zhou <z.zhou@dglogik.com>'
         - 'Michael Bullington <m.bullington@dglogik.com>'
         - 'Matthew Butler <m.butler@dglogik.com>'
+-
+    package_name: dragula
+    package_version: v0.0.11
+    title: 'v0.0.11 of dragula'
+    published: '2015-11-29T15:54:16+00:00'
+    id: 'urn:uuid:094514bc-5393-5593-a743-c001a7081a00'
+    link: 'https://pub.dartlang.org/packages/dragula'
+    author:
+        - 'Kasper Peulen <kasperpeulen@gmail.com>'
+-
+    package_name: csslib_transform
+    package_version: v0.0.4
+    title: 'v0.0.4 of csslib_transform'
+    published: '2015-11-29T15:45:08+00:00'
+    id: 'urn:uuid:3d180668-b5b8-574d-8298-38b5149a29d6'
+    link: 'https://pub.dartlang.org/packages/csslib_transform'
+    author:
+        - 'Valentyn Shybanov <olostan@gmail.com>'
