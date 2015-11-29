@@ -45040,3 +45040,15 @@
     link: 'https://pub.dartlang.org/packages/ng2_dragula'
     author:
         - 'Kasper Peulen <kasperpeulen@gmail.com>'
+-
+    package_name: dslink
+    package_version: v0.5.0+1
+    title: 'v0.5.0+1 of dslink'
+    published: '2015-11-29T08:49:23+00:00'
+    id: 'urn:uuid:d8e2b9f8-021b-5bf9-8df8-b80e02753d60'
+    link: 'https://pub.dartlang.org/packages/dslink'
+    author:
+        - 'Kenneth Endfinger <k.endfinger@dglogik.com>'
+        - 'Rick Zhou <z.zhou@dglogik.com>'
+        - 'Michael Bullington <m.bullington@dglogik.com>'
+        - 'Matthew Butler <m.butler@dglogik.com>'
