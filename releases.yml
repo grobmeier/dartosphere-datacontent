@@ -45184,3 +45184,12 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: squilder
+    package_version: v0.0.2
+    title: 'v0.0.2 of squilder'
+    published: '2015-11-30T15:58:29+00:00'
+    id: 'urn:uuid:d4a6a828-4276-549b-a627-2b99d2424bd8'
+    link: 'https://pub.dartlang.org/packages/squilder'
+    author:
+        - 'Anton Astashov <anton.astashov@gmail.com>'
