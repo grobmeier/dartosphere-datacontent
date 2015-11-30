@@ -45097,3 +45097,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu'
     author:
         - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: orientdb_server
+    package_version: v0.0.10
+    title: 'v0.0.10 of orientdb_server'
+    published: '2015-11-30T02:27:46+00:00'
+    id: 'urn:uuid:ebf1f762-26c1-572d-b2e6-95839733f0d1'
+    link: 'https://pub.dartlang.org/packages/orientdb_server'
+    author:
+        - 'Ross Albertson <magnusthegood@yahoo.com>'
