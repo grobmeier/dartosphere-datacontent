@@ -45106,3 +45106,12 @@
     link: 'https://pub.dartlang.org/packages/orientdb_server'
     author:
         - 'Ross Albertson <magnusthegood@yahoo.com>'
+-
+    package_name: orientdb_server
+    package_version: v0.0.14
+    title: 'v0.0.14 of orientdb_server'
+    published: '2015-11-30T03:42:06+00:00'
+    id: 'urn:uuid:758896dd-cf1c-5e93-b15d-2394501f7184'
+    link: 'https://pub.dartlang.org/packages/orientdb_server'
+    author:
+        - 'Ross Albertson <magnusthegood@yahoo.com>'
