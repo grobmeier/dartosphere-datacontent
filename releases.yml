@@ -45151,3 +45151,12 @@
     link: 'https://pub.dartlang.org/packages/reflectable'
     author:
         - 'The Dart Team <dart@google.com>'
+-
+    package_name: js_mimicry
+    package_version: v0.2.1+4
+    title: 'v0.2.1+4 of js_mimicry'
+    published: '2015-11-30T13:15:08+00:00'
+    id: 'urn:uuid:9d01617f-2658-5980-a405-965108e11b35'
+    link: 'https://pub.dartlang.org/packages/js_mimicry'
+    author:
+        - 'Igor Demyanov <igor.demyanov@gmail.com>'
