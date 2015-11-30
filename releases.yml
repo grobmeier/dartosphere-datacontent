@@ -45124,3 +45124,12 @@
     link: 'https://pub.dartlang.org/packages/orientdb_server'
     author:
         - 'Ross Albertson <magnusthegood@yahoo.com>'
+-
+    package_name: dapter
+    package_version: v0.0.1
+    title: 'v0.0.1 of dapter'
+    published: '2015-11-30T05:03:43+00:00'
+    id: 'urn:uuid:a5a75952-1d78-5fbc-a9ae-ce7de2de1817'
+    link: 'https://pub.dartlang.org/packages/dapter'
+    author:
+        - 'Anton Astashov <anton.astashov@gmail.com>'
