@@ -45133,3 +45133,12 @@
     link: 'https://pub.dartlang.org/packages/dapter'
     author:
         - 'Anton Astashov <anton.astashov@gmail.com>'
+-
+    package_name: orientdb_server
+    package_version: v0.0.20
+    title: 'v0.0.20 of orientdb_server'
+    published: '2015-11-30T06:19:55+00:00'
+    id: 'urn:uuid:5bb9b46d-775f-531c-8de3-bd980a5f9dbb'
+    link: 'https://pub.dartlang.org/packages/orientdb_server'
+    author:
+        - 'Ross Albertson <magnusthegood@yahoo.com>'
