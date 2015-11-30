@@ -45217,3 +45217,21 @@
     author:
         - 'Matias Meno <m@tias.me>'
         - 'Martin Flucka <martin.flucka@gmail.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.65
+    title: 'v0.0.65 of sky_services'
+    published: '2015-11-30T20:50:17+00:00'
+    id: 'urn:uuid:f1de4d37-7b98-5fcf-b9bf-009424375dba'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.65
+    title: 'v0.0.65 of sky_engine'
+    published: '2015-11-30T20:50:14+00:00'
+    id: 'urn:uuid:39be326a-a3fd-5cf0-83e3-09377f29e834'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
