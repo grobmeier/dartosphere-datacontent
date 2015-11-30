@@ -45193,3 +45193,17 @@
     link: 'https://pub.dartlang.org/packages/squilder'
     author:
         - 'Anton Astashov <anton.astashov@gmail.com>'
+-
+    package_name: w_transport
+    package_version: v2.0.1
+    title: 'v2.0.1 of w_transport'
+    published: '2015-11-30T16:00:53+00:00'
+    id: 'urn:uuid:4f3905dd-aa77-5fb3-bb79-c0b29eaaabe8'
+    link: 'https://pub.dartlang.org/packages/w_transport'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
