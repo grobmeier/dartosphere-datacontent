@@ -45160,3 +45160,27 @@
     link: 'https://pub.dartlang.org/packages/js_mimicry'
     author:
         - 'Igor Demyanov <igor.demyanov@gmail.com>'
+-
+    package_name: stripe
+    package_version: v1.1.4
+    title: 'v1.1.4 of stripe'
+    published: '2015-11-30T14:53:45+00:00'
+    id: 'urn:uuid:305c3eff-4f93-5c6a-9727-467366ed7f8b'
+    link: 'https://pub.dartlang.org/packages/stripe'
+    author:
+        - 'Matias Meno <m@tias.me>'
+        - 'Martin Flucka <martin.flucka@gmail.com>'
+-
+    package_name: dart_dev
+    package_version: v1.0.5
+    title: 'v1.0.5 of dart_dev'
+    published: '2015-11-30T14:25:24+00:00'
+    id: 'urn:uuid:1d80fc43-5f12-538f-9d61-81233e7ffaf0'
+    link: 'https://pub.dartlang.org/packages/dart_dev'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
