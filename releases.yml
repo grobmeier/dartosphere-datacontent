@@ -45271,3 +45271,12 @@
     link: 'https://pub.dartlang.org/packages/path'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: mdl
+    package_version: v1.11.0
+    title: 'v1.11.0 of mdl'
+    published: '2015-12-01T10:35:27+00:00'
+    id: 'urn:uuid:876a83a6-a7d0-578d-901c-dca51360f406'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
