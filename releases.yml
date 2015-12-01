@@ -45298,3 +45298,30 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: dartivity_database
+    package_version: v0.2.0
+    title: 'v0.2.0 of dartivity_database'
+    published: '2015-12-01T14:37:56+00:00'
+    id: 'urn:uuid:303045ae-3829-5165-8726-05088c06827f'
+    link: 'https://pub.dartlang.org/packages/dartivity_database'
+    author:
+        - 'Steve Hamblett<steve.hamblett@linux.com>'
+-
+    package_name: polymer_app_layout_template
+    package_version: v0.1.5
+    title: 'v0.1.5 of polymer_app_layout_template'
+    published: '2015-12-01T14:30:23+00:00'
+    id: 'urn:uuid:ee010c59-c041-57cd-a50e-54aae9d563d3'
+    link: 'https://pub.dartlang.org/packages/polymer_app_layout_template'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: dartivity_messaging
+    package_version: v0.1.0
+    title: 'v0.1.0 of dartivity_messaging'
+    published: '2015-12-01T14:07:12+00:00'
+    id: 'urn:uuid:6ba164d3-f455-5d99-a1e6-fefb614130f3'
+    link: 'https://pub.dartlang.org/packages/dartivity_messaging'
+    author:
+        - 'Steve Hamblett<steve.hamblett@linux.com>'
