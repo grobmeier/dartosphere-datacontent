@@ -45262,3 +45262,12 @@
     link: 'https://pub.dartlang.org/packages/json_schema'
     author:
         - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: path
+    package_version: v1.3.8
+    title: 'v1.3.8 of path'
+    published: '2015-12-01T04:19:31+00:00'
+    id: 'urn:uuid:6b8896ca-cbf2-54d4-b20d-cc37610035fd'
+    link: 'https://pub.dartlang.org/packages/path'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
