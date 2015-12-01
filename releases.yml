@@ -45424,3 +45424,21 @@
     link: 'https://pub.dartlang.org/packages/reflective'
     author:
         - 'Stijn Van Bael <stijn.van.bael@appify.be>'
+-
+    package_name: dart_switch
+    package_version: v0.1.0
+    title: 'v0.1.0 of dart_switch'
+    published: '2015-12-01T21:54:41+00:00'
+    id: 'urn:uuid:06e2515e-7bc7-5700-9a81-f372c56ab250'
+    link: 'https://pub.dartlang.org/packages/dart_switch'
+    author:
+        - 'Benjamin Jesuiter <bjesuiter@gmail.com>'
+-
+    package_name: crossbow
+    package_version: v0.0.10
+    title: 'v0.0.10 of crossbow'
+    published: '2015-12-01T21:15:54+00:00'
+    id: 'urn:uuid:4011b1bf-e42c-5e94-b507-880e8d68563f'
+    link: 'https://pub.dartlang.org/packages/crossbow'
+    author:
+        - 'Stijn Van Bael <stijn.van.bael@appify.be>'
