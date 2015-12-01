@@ -45325,3 +45325,12 @@
     link: 'https://pub.dartlang.org/packages/dartivity_messaging'
     author:
         - 'Steve Hamblett<steve.hamblett@linux.com>'
+-
+    package_name: ormapper
+    package_version: v0.0.1
+    title: 'v0.0.1 of ormapper'
+    published: '2015-12-01T15:50:31+00:00'
+    id: 'urn:uuid:59f5462f-a15b-5059-9a6c-2255fcdef50f'
+    link: 'https://pub.dartlang.org/packages/ormapper'
+    author:
+        - 'Anton Astashov <anton.astashov@gmail.com>'
