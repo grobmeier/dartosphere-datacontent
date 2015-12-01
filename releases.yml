@@ -45334,3 +45334,93 @@
     link: 'https://pub.dartlang.org/packages/ormapper'
     author:
         - 'Anton Astashov <anton.astashov@gmail.com>'
+-
+    package_name: angular2_material
+    package_version: v2.0.0-alpha.47
+    title: 'v2.0.0-alpha.47 of angular2_material'
+    published: '2015-12-01T20:30:59+00:00'
+    id: 'urn:uuid:6689d205-e862-5345-8795-66709c2a36ac'
+    link: 'https://pub.dartlang.org/packages/angular2_material'
+    author:
+        - 'Alex Eagle <alexeagle@google.com>'
+        - 'Chirayu Krishnappa <chirayu@google.com>'
+        - 'Jeff Cross <crossj@google.com>'
+        - 'Matias Niemela <matsko@google.com>'
+        - 'Misko Hevery <misko@google.com>'
+        - 'Rado Kirov <radokirov@google.com>'
+        - 'Tobias Bosch <tbosch@google.com>'
+        - 'Victor Savkin <vsavkin@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: angular2_benchmarks
+    package_version: v2.0.0-alpha.47
+    title: 'v2.0.0-alpha.47 of angular2_benchmarks'
+    published: '2015-12-01T20:30:56+00:00'
+    id: 'urn:uuid:aaead278-c726-5fa0-84c6-a5656769da3f'
+    link: 'https://pub.dartlang.org/packages/angular2_benchmarks'
+    author:
+        - 'Alex Eagle <alexeagle@google.com>'
+        - 'Chirayu Krishnappa <chirayu@google.com>'
+        - 'Jeff Cross <crossj@google.com>'
+        - 'Matias Niemela <matsko@google.com>'
+        - 'Misko Hevery <misko@google.com>'
+        - 'Rado Kirov <radokirov@google.com>'
+        - 'Tobias Bosch <tbosch@google.com>'
+        - 'Victor Savkin <vsavkin@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: benchpress
+    package_version: v2.0.0-alpha.47
+    title: 'v2.0.0-alpha.47 of benchpress'
+    published: '2015-12-01T20:30:53+00:00'
+    id: 'urn:uuid:7006e955-3c10-50bd-ba65-7083096bc2d5'
+    link: 'https://pub.dartlang.org/packages/benchpress'
+    author:
+        - 'Alex Eagle <alexeagle@google.com>'
+        - 'Chirayu Krishnappa <chirayu@google.com>'
+        - 'Jeff Cross <crossj@google.com>'
+        - 'Matias Niemela <matsko@google.com>'
+        - 'Misko Hevery <misko@google.com>'
+        - 'Rado Kirov <radokirov@google.com>'
+        - 'Tobias Bosch <tbosch@google.com>'
+        - 'Victor Savkin <vsavkin@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: angular2
+    package_version: v2.0.0-alpha.47
+    title: 'v2.0.0-alpha.47 of angular2'
+    published: '2015-12-01T20:30:50+00:00'
+    id: 'urn:uuid:c2a6a3c2-c53e-585d-ae56-82ddbce7e168'
+    link: 'https://pub.dartlang.org/packages/angular2'
+    author:
+        - 'Alex Eagle <alexeagle@google.com>'
+        - 'Chirayu Krishnappa <chirayu@google.com>'
+        - 'Jeff Cross <crossj@google.com>'
+        - 'Matias Niemela <matsko@google.com>'
+        - 'Misko Hevery <misko@google.com>'
+        - 'Rado Kirov <radokirov@google.com>'
+        - 'Tobias Bosch <tbosch@google.com>'
+        - 'Victor Savkin <vsavkin@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: box
+    package_version: v0.0.13
+    title: 'v0.0.13 of box'
+    published: '2015-12-01T20:28:42+00:00'
+    id: 'urn:uuid:7c0fc445-b1fa-5a2c-b948-002f0b61e2f2'
+    link: 'https://pub.dartlang.org/packages/box'
+    author:
+        - 'Stijn Van Bael <stijn.van.bael@appify.be>'
+-
+    package_name: reflective
+    package_version: v0.0.19
+    title: 'v0.0.19 of reflective'
+    published: '2015-12-01T20:03:03+00:00'
+    id: 'urn:uuid:041b7208-f993-5460-a9b2-d4deebfb8277'
+    link: 'https://pub.dartlang.org/packages/reflective'
+    author:
+        - 'Stijn Van Bael <stijn.van.bael@appify.be>'
