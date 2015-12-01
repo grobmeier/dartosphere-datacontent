@@ -45253,3 +45253,12 @@
     link: 'https://pub.dartlang.org/packages/syncbase'
     author:
         - 'Vanadium Authors'
+-
+    package_name: json_schema
+    package_version: v1.0.3
+    title: 'v1.0.3 of json_schema'
+    published: '2015-12-01T02:02:13+00:00'
+    id: 'urn:uuid:e8554907-a99a-5d31-a8d6-2a161e5aacdd'
+    link: 'https://pub.dartlang.org/packages/json_schema'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
