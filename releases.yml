@@ -45244,3 +45244,12 @@
     link: 'https://pub.dartlang.org/packages/syncbase'
     author:
         - 'Vanadium Authors'
+-
+    package_name: syncbase
+    package_version: v0.0.18
+    title: 'v0.0.18 of syncbase'
+    published: '2015-12-01T01:13:45+00:00'
+    id: 'urn:uuid:d590845a-f2b9-54d3-a953-726f564230a7'
+    link: 'https://pub.dartlang.org/packages/syncbase'
+    author:
+        - 'Vanadium Authors'
