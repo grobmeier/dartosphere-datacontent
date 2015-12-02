@@ -45551,3 +45551,21 @@
     link: 'https://pub.dartlang.org/packages/reflective'
     author:
         - 'Stijn Van Bael <stijn.van.bael@appify.be>'
+-
+    package_name: mojo_sdk
+    package_version: v0.2.5
+    title: 'v0.2.5 of mojo_sdk'
+    published: '2015-12-02T21:56:58+00:00'
+    id: 'urn:uuid:34ad177b-1867-5235-9627-7165d07c508d'
+    link: 'https://pub.dartlang.org/packages/mojo_sdk'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: reflective
+    package_version: v0.0.23
+    title: 'v0.0.23 of reflective'
+    published: '2015-12-02T21:15:19+00:00'
+    id: 'urn:uuid:49055ae9-99a5-5972-87b1-2d8dcfcad041'
+    link: 'https://pub.dartlang.org/packages/reflective'
+    author:
+        - 'Stijn Van Bael <stijn.van.bael@appify.be>'
