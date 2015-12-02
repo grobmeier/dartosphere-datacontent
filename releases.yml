@@ -45442,3 +45442,30 @@
     link: 'https://pub.dartlang.org/packages/crossbow'
     author:
         - 'Stijn Van Bael <stijn.van.bael@appify.be>'
+-
+    package_name: mojo_services
+    package_version: v0.4.8
+    title: 'v0.4.8 of mojo_services'
+    published: '2015-12-02T04:19:28+00:00'
+    id: 'urn:uuid:7c8bcc82-ba04-5044-b7fa-330cc12ad284'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojom
+    package_version: v0.2.10
+    title: 'v0.2.10 of mojom'
+    published: '2015-12-02T04:19:17+00:00'
+    id: 'urn:uuid:72443431-8e3b-5d05-bd9f-5893f5659616'
+    link: 'https://pub.dartlang.org/packages/mojom'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo
+    package_version: v0.4.6
+    title: 'v0.4.6 of mojo'
+    published: '2015-12-02T04:19:07+00:00'
+    id: 'urn:uuid:5650064a-ff09-5011-8fe0-c64776fe9ab0'
+    link: 'https://pub.dartlang.org/packages/mojo'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
