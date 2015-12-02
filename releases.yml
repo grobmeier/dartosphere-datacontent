@@ -45496,3 +45496,21 @@
     link: 'https://pub.dartlang.org/packages/nomirrorsmap'
     author:
         - jrote1<jrote1@me.com>
+-
+    package_name: dartivity_database
+    package_version: v0.3.0
+    title: 'v0.3.0 of dartivity_database'
+    published: '2015-12-02T11:56:56+00:00'
+    id: 'urn:uuid:d2914db6-ea02-53bd-9bc4-814488ecc7b4'
+    link: 'https://pub.dartlang.org/packages/dartivity_database'
+    author:
+        - 'Steve Hamblett<steve.hamblett@linux.com>'
+-
+    package_name: nomirrorsmap
+    package_version: v1.0.20
+    title: 'v1.0.20 of nomirrorsmap'
+    published: '2015-12-02T11:36:31+00:00'
+    id: 'urn:uuid:93922619-c1f0-588d-ac08-74b97d4ec995'
+    link: 'https://pub.dartlang.org/packages/nomirrorsmap'
+    author:
+        - jrote1<jrote1@me.com>
