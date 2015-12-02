@@ -45532,3 +45532,22 @@
     link: 'https://pub.dartlang.org/packages/linter'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: stagehand
+    package_version: v0.2.5
+    title: 'v0.2.5 of stagehand'
+    published: '2015-12-02T20:43:24+00:00'
+    id: 'urn:uuid:9a4a04b5-c738-596d-8e37-4fd121b8a111'
+    link: 'https://pub.dartlang.org/packages/stagehand'
+    author:
+        - 'Seth Ladd <sethladd@google.com>'
+        - 'Devon Carew <devoncarew@google.com>'
+-
+    package_name: reflective
+    package_version: v0.0.21
+    title: 'v0.0.21 of reflective'
+    published: '2015-12-02T20:13:02+00:00'
+    id: 'urn:uuid:bf4d06f6-e5c6-5965-9816-6723fbdc2ba9'
+    link: 'https://pub.dartlang.org/packages/reflective'
+    author:
+        - 'Stijn Van Bael <stijn.van.bael@appify.be>'
