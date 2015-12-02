@@ -45487,3 +45487,12 @@
     link: 'https://pub.dartlang.org/packages/dart_orm'
     author:
         - 'Ustimenko Sergey <ustims@gmail.com>'
+-
+    package_name: nomirrorsmap
+    package_version: v1.0.18
+    title: 'v1.0.18 of nomirrorsmap'
+    published: '2015-12-02T10:47:59+00:00'
+    id: 'urn:uuid:42a0f4d0-96de-5dd7-9ed7-4c9593f1aefb'
+    link: 'https://pub.dartlang.org/packages/nomirrorsmap'
+    author:
+        - jrote1<jrote1@me.com>
