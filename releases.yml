@@ -45469,3 +45469,12 @@
     link: 'https://pub.dartlang.org/packages/mojo'
     author:
         - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: lightning
+    package_version: v0.12.0
+    title: 'v0.12.0 of lightning'
+    published: '2015-12-02T05:53:58+00:00'
+    id: 'urn:uuid:03a7acb2-08db-5ee4-b29c-8efd65ff2eb5'
+    link: 'https://pub.dartlang.org/packages/lightning'
+    author:
+        - 'Accorto Lightning <lightning@accorto.com>'
