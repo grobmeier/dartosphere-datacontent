@@ -45569,3 +45569,21 @@
     link: 'https://pub.dartlang.org/packages/reflective'
     author:
         - 'Stijn Van Bael <stijn.van.bael@appify.be>'
+-
+    package_name: dart_switch
+    package_version: v0.2.0
+    title: 'v0.2.0 of dart_switch'
+    published: '2015-12-02T22:21:55+00:00'
+    id: 'urn:uuid:93356895-d1b3-5c77-b0b1-30600c2e051a'
+    link: 'https://pub.dartlang.org/packages/dart_switch'
+    author:
+        - 'Benjamin Jesuiter <bjesuiter@gmail.com>'
+-
+    package_name: path
+    package_version: v1.3.9
+    title: 'v1.3.9 of path'
+    published: '2015-12-02T22:10:35+00:00'
+    id: 'urn:uuid:af5745ce-50dd-585d-893c-2f5311b417fb'
+    link: 'https://pub.dartlang.org/packages/path'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
