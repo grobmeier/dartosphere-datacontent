@@ -45523,3 +45523,12 @@
     link: 'https://pub.dartlang.org/packages/bwu_polymer_routing'
     author:
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: linter
+    package_version: v0.1.9
+    title: 'v0.1.9 of linter'
+    published: '2015-12-02T19:28:30+00:00'
+    id: 'urn:uuid:244536bf-e149-581a-8229-d01c84dbd4f9'
+    link: 'https://pub.dartlang.org/packages/linter'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
