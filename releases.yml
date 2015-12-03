@@ -45650,3 +45650,12 @@
     link: 'https://pub.dartlang.org/packages/console_log_handler'
     author:
         - 'Mike Mitterer  <office@mikemitterer.at>'
+-
+    package_name: plotly
+    package_version: v0.0.3
+    title: 'v0.0.3 of plotly'
+    published: '2015-12-03T19:22:53+00:00'
+    id: 'urn:uuid:b6a3f8f5-9860-5aea-9fc8-b22af643f9e4'
+    link: 'https://pub.dartlang.org/packages/plotly'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
