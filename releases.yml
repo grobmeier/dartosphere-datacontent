@@ -45677,3 +45677,31 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: cargo
+    package_version: v0.8.0
+    title: 'v0.8.0 of cargo'
+    published: '2015-12-03T22:08:07+00:00'
+    id: 'urn:uuid:11010679-c5f1-5882-9c29-4f02d6369ecd'
+    link: 'https://pub.dartlang.org/packages/cargo'
+    author:
+        - 'Joris Hermans <hermansj@gmail.com>'
+-
+    package_name: tether
+    package_version: v0.1.5
+    title: 'v0.1.5 of tether'
+    published: '2015-12-03T22:05:51+00:00'
+    id: 'urn:uuid:5299790a-cacc-52a4-be69-0a72625404d9'
+    link: 'https://pub.dartlang.org/packages/tether'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: stagehand
+    package_version: v0.2.5+1
+    title: 'v0.2.5+1 of stagehand'
+    published: '2015-12-03T22:01:38+00:00'
+    id: 'urn:uuid:0b2d9213-a0a5-5455-93ac-eacd7cf03795'
+    link: 'https://pub.dartlang.org/packages/stagehand'
+    author:
+        - 'Seth Ladd <sethladd@google.com>'
+        - 'Devon Carew <devoncarew@google.com>'
