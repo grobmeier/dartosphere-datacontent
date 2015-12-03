@@ -45587,3 +45587,12 @@
     link: 'https://pub.dartlang.org/packages/path'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: orientdb_server
+    package_version: v0.0.21
+    title: 'v0.0.21 of orientdb_server'
+    published: '2015-12-03T04:28:42+00:00'
+    id: 'urn:uuid:e34e5db4-f4db-5d63-9ff8-6d640f806c14'
+    link: 'https://pub.dartlang.org/packages/orientdb_server'
+    author:
+        - 'Ross Albertson <magnusthegood@yahoo.com>'
