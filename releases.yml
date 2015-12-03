@@ -45596,3 +45596,12 @@
     link: 'https://pub.dartlang.org/packages/orientdb_server'
     author:
         - 'Ross Albertson <magnusthegood@yahoo.com>'
+-
+    package_name: nomirrorsmap
+    package_version: v1.0.22
+    title: 'v1.0.22 of nomirrorsmap'
+    published: '2015-12-03T09:32:06+00:00'
+    id: 'urn:uuid:c5be902b-8a7a-5031-a730-e1d0fb1b49d3'
+    link: 'https://pub.dartlang.org/packages/nomirrorsmap'
+    author:
+        - jrote1<jrote1@me.com>
