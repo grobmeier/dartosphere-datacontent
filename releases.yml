@@ -45632,3 +45632,12 @@
     link: 'https://pub.dartlang.org/packages/bwu_datagrid'
     author:
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: haystack
+    package_version: v0.4.17
+    title: 'v0.4.17 of haystack'
+    published: '2015-12-03T14:11:09+00:00'
+    id: 'urn:uuid:00730045-b5f1-50fe-8b3f-a1e7182c88df'
+    link: 'https://pub.dartlang.org/packages/haystack'
+    author:
+        - 'Dmitriy Vasilyev <dmitry@bassg.com>'
