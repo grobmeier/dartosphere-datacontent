@@ -45605,3 +45605,12 @@
     link: 'https://pub.dartlang.org/packages/nomirrorsmap'
     author:
         - jrote1<jrote1@me.com>
+-
+    package_name: polymer_datepicker
+    package_version: v0.3.0+1
+    title: 'v0.3.0+1 of polymer_datepicker'
+    published: '2015-12-03T11:33:16+00:00'
+    id: 'urn:uuid:57871159-ae37-5bf5-943d-7a5e17a9d346'
+    link: 'https://pub.dartlang.org/packages/polymer_datepicker'
+    author:
+        - 'Drafintech <info@drafintech.it>'
