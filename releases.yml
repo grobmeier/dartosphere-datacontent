@@ -45705,3 +45705,12 @@
     author:
         - 'Seth Ladd <sethladd@google.com>'
         - 'Devon Carew <devoncarew@google.com>'
+-
+    package_name: syncbase
+    package_version: v0.0.19
+    title: 'v0.0.19 of syncbase'
+    published: '2015-12-03T23:16:41+00:00'
+    id: 'urn:uuid:7e87cfc0-8c11-5068-8bfd-f8d9139e9194'
+    link: 'https://pub.dartlang.org/packages/syncbase'
+    author:
+        - 'Vanadium Authors'
