@@ -45641,3 +45641,12 @@
     link: 'https://pub.dartlang.org/packages/haystack'
     author:
         - 'Dmitriy Vasilyev <dmitry@bassg.com>'
+-
+    package_name: console_log_handler
+    package_version: v0.2.1
+    title: 'v0.2.1 of console_log_handler'
+    published: '2015-12-03T18:13:08+00:00'
+    id: 'urn:uuid:6a8f9ed2-2bb8-531c-bd07-9c3db0dc14d2'
+    link: 'https://pub.dartlang.org/packages/console_log_handler'
+    author:
+        - 'Mike Mitterer  <office@mikemitterer.at>'
