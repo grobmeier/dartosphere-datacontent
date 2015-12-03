@@ -45659,3 +45659,21 @@
     link: 'https://pub.dartlang.org/packages/plotly'
     author:
         - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.66
+    title: 'v0.0.66 of sky_services'
+    published: '2015-12-03T20:42:35+00:00'
+    id: 'urn:uuid:2568bd98-bde5-54c8-b31b-95cde4999348'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.66
+    title: 'v0.0.66 of sky_engine'
+    published: '2015-12-03T20:42:32+00:00'
+    id: 'urn:uuid:041f1d4b-d0a6-5f87-91d2-a417afedf1d4'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
