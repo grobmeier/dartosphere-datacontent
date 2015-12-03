@@ -45614,3 +45614,21 @@
     link: 'https://pub.dartlang.org/packages/polymer_datepicker'
     author:
         - 'Drafintech <info@drafintech.it>'
+-
+    package_name: haystack
+    package_version: v0.4.16
+    title: 'v0.4.16 of haystack'
+    published: '2015-12-03T13:54:42+00:00'
+    id: 'urn:uuid:27a70776-8cf3-526b-86ce-ff11fa3dff02'
+    link: 'https://pub.dartlang.org/packages/haystack'
+    author:
+        - 'Dmitriy Vasilyev <dmitry@bassg.com>'
+-
+    package_name: bwu_datagrid
+    package_version: v0.0.24
+    title: 'v0.0.24 of bwu_datagrid'
+    published: '2015-12-03T13:22:04+00:00'
+    id: 'urn:uuid:e4a2e8f7-6f39-5ede-a85e-ec985e21c76a'
+    link: 'https://pub.dartlang.org/packages/bwu_datagrid'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
