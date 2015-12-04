@@ -45768,3 +45768,12 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: vane
+    package_version: v0.8.0
+    title: 'v0.8.0 of vane'
+    published: '2015-12-04T14:26:27+00:00'
+    id: 'urn:uuid:00e03b55-83b1-5f54-b84c-9c3556fe04f8'
+    link: 'https://pub.dartlang.org/packages/vane'
+    author:
+        - 'Robert Åkerblom-Andersson <Robert.nr1@gmail.com>'
