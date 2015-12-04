@@ -45823,3 +45823,12 @@
     link: 'https://pub.dartlang.org/packages/material_icons'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: d3
+    package_version: v0.0.2
+    title: 'v0.0.2 of d3'
+    published: '2014-02-09T23:24:39+00:00'
+    id: 'urn:uuid:765fe550-2f99-530e-bd87-363afe810573'
+    link: 'https://pub.dartlang.org/packages/d3'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
