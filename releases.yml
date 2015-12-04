@@ -45714,3 +45714,21 @@
     link: 'https://pub.dartlang.org/packages/syncbase'
     author:
         - 'Vanadium Authors'
+-
+    package_name: sky_services
+    package_version: v0.0.67
+    title: 'v0.0.67 of sky_services'
+    published: '2015-12-04T00:21:16+00:00'
+    id: 'urn:uuid:5abd15df-a3b8-5996-8327-d3405c792df6'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.67
+    title: 'v0.0.67 of sky_engine'
+    published: '2015-12-04T00:21:13+00:00'
+    id: 'urn:uuid:025b4dbb-3607-5d97-902c-d7daf3eab5f9'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
