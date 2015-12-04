@@ -45732,3 +45732,12 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: syncbase
+    package_version: v0.0.20
+    title: 'v0.0.20 of syncbase'
+    published: '2015-12-04T04:51:14+00:00'
+    id: 'urn:uuid:ee43e4be-ade7-571e-a408-91bb25cbabfb'
+    link: 'https://pub.dartlang.org/packages/syncbase'
+    author:
+        - 'Vanadium Authors'
