@@ -45814,3 +45814,12 @@
     author:
         - 'Seth Ladd <sethladd@google.com>'
         - 'Devon Carew <devoncarew@google.com>'
+-
+    package_name: material_icons
+    package_version: v1.0.3
+    title: 'v1.0.3 of material_icons'
+    published: '2015-12-04T19:29:46+00:00'
+    id: 'urn:uuid:0aace204-b9d8-52f5-ac9e-31b65c83f92a'
+    link: 'https://pub.dartlang.org/packages/material_icons'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
