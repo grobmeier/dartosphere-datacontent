@@ -45759,3 +45759,12 @@
     link: 'https://pub.dartlang.org/packages/http_utils'
     author:
         - 'Mike Mitterer  <office@mikemitterer.at>'
+-
+    package_name: mdl
+    package_version: v1.12.3
+    title: 'v1.12.3 of mdl'
+    published: '2015-12-04T12:23:40+00:00'
+    id: 'urn:uuid:edd908bc-fd26-565c-b39f-7b335b8fd377'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
