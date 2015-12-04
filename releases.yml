@@ -45832,3 +45832,12 @@
     link: 'https://pub.dartlang.org/packages/d3'
     author:
         - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: github
+    package_version: v2.3.1
+    title: 'v2.3.1 of github'
+    published: '2015-12-04T23:02:49+00:00'
+    id: 'urn:uuid:7ef7f7a4-82ea-522d-ad04-e3e476b23ad5'
+    link: 'https://pub.dartlang.org/packages/github'
+    author:
+        - 'Kenneth Endfinger <kaendfinger@gmail.com>'
