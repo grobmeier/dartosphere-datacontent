@@ -45777,3 +45777,21 @@
     link: 'https://pub.dartlang.org/packages/vane'
     author:
         - 'Robert Åkerblom-Andersson <Robert.nr1@gmail.com>'
+-
+    package_name: plotly
+    package_version: v0.0.4
+    title: 'v0.0.4 of plotly'
+    published: '2015-12-04T15:37:00+00:00'
+    id: 'urn:uuid:36786c3f-95f8-50a9-93af-d9d74926fcbd'
+    link: 'https://pub.dartlang.org/packages/plotly'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: nomirrorsmap
+    package_version: v1.0.23
+    title: 'v1.0.23 of nomirrorsmap'
+    published: '2015-12-04T15:17:18+00:00'
+    id: 'urn:uuid:a7496b1c-5bcd-57d5-817b-0614670e757b'
+    link: 'https://pub.dartlang.org/packages/nomirrorsmap'
+    author:
+        - jrote1<jrote1@me.com>
