@@ -45804,3 +45804,13 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: stagehand
+    package_version: v0.2.5+2
+    title: 'v0.2.5+2 of stagehand'
+    published: '2015-12-04T18:25:36+00:00'
+    id: 'urn:uuid:00754ed3-2097-500c-b915-517d37a40ac6'
+    link: 'https://pub.dartlang.org/packages/stagehand'
+    author:
+        - 'Seth Ladd <sethladd@google.com>'
+        - 'Devon Carew <devoncarew@google.com>'
