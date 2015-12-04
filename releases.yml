@@ -45741,3 +45741,21 @@
     link: 'https://pub.dartlang.org/packages/syncbase'
     author:
         - 'Vanadium Authors'
+-
+    package_name: dart_barcode
+    package_version: v0.0.1
+    title: 'v0.0.1 of dart_barcode'
+    published: '2015-12-04T10:45:08+00:00'
+    id: 'urn:uuid:b658f1b6-670e-5f8d-9695-10c4bf0406e2'
+    link: 'https://pub.dartlang.org/packages/dart_barcode'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: http_utils
+    package_version: v1.4.0
+    title: 'v1.4.0 of http_utils'
+    published: '2015-12-04T10:02:47+00:00'
+    id: 'urn:uuid:7e596d68-171a-5b2f-b004-704558a07c40'
+    link: 'https://pub.dartlang.org/packages/http_utils'
+    author:
+        - 'Mike Mitterer  <office@mikemitterer.at>'
