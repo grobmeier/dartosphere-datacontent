@@ -45795,3 +45795,12 @@
     link: 'https://pub.dartlang.org/packages/nomirrorsmap'
     author:
         - jrote1<jrote1@me.com>
+-
+    package_name: dartdoc
+    package_version: v0.8.3
+    title: 'v0.8.3 of dartdoc'
+    published: '2015-12-04T17:27:24+00:00'
+    id: 'urn:uuid:56bf3d4f-b23e-5fa0-a5b8-04f4198c49ee'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
