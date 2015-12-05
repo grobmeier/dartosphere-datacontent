@@ -45913,3 +45913,12 @@
         - 'Victor Savkin <vsavkin@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: csv_code_generator
+    package_version: v0.1.0
+    title: 'v0.1.0 of csv_code_generator'
+    published: '2015-12-05T12:51:25+00:00'
+    id: 'urn:uuid:24baf5d8-b42a-59b8-a238-4b7390efa976'
+    link: 'https://pub.dartlang.org/packages/csv_code_generator'
+    author:
+        - 'sh4869 <nobuk4869@gmail.com>'
