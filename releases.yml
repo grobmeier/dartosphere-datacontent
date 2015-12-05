@@ -45922,3 +45922,21 @@
     link: 'https://pub.dartlang.org/packages/csv_code_generator'
     author:
         - 'sh4869 <nobuk4869@gmail.com>'
+-
+    package_name: science
+    package_version: v0.0.1
+    title: 'v0.0.1 of science'
+    published: '2015-12-05T14:00:08+00:00'
+    id: 'urn:uuid:292203e7-776f-533c-92e3-2fcea80891ed'
+    link: 'https://pub.dartlang.org/packages/science'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: tiny_queue
+    package_version: v0.0.1
+    title: 'v0.0.1 of tiny_queue'
+    published: '2015-12-05T13:51:40+00:00'
+    id: 'urn:uuid:162e09b0-2a36-52a2-a46d-01f57d16ccfa'
+    link: 'https://pub.dartlang.org/packages/tiny_queue'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
