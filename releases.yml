@@ -45940,3 +45940,12 @@
     link: 'https://pub.dartlang.org/packages/tiny_queue'
     author:
         - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: react
+    package_version: v0.8.4
+    title: 'v0.8.4 of react'
+    published: '2015-12-06T21:19:25+00:00'
+    id: 'urn:uuid:61691d64-124c-5527-beab-d770e58bf2aa'
+    link: 'https://pub.dartlang.org/packages/react'
+    author:
+        - 'Clean Team <clean@vacuumlabs.com>'
