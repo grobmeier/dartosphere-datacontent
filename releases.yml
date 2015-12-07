@@ -45985,3 +45985,21 @@
     link: 'https://pub.dartlang.org/packages/prettify'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: analyzer
+    package_version: v0.26.4
+    title: 'v0.26.4 of analyzer'
+    published: '2015-12-07T21:21:04+00:00'
+    id: 'urn:uuid:a371fc0d-abde-5a86-9479-deb55d46d324'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: vm_service_lib
+    package_version: v0.0.10
+    title: 'v0.0.10 of vm_service_lib'
+    published: '2015-12-07T21:10:54+00:00'
+    id: 'urn:uuid:b702605a-2c9b-5a71-8184-d3833ccd0935'
+    link: 'https://pub.dartlang.org/packages/vm_service_lib'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
