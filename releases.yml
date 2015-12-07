@@ -46003,3 +46003,30 @@
     link: 'https://pub.dartlang.org/packages/vm_service_lib'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dart_style
+    package_version: v0.2.1
+    title: 'v0.2.1 of dart_style'
+    published: '2015-12-07T22:51:21+00:00'
+    id: 'urn:uuid:d9188491-f59b-57b3-bce6-c5a8119eeea2'
+    link: 'https://pub.dartlang.org/packages/dart_style'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: code_transformers
+    package_version: v0.2.10
+    title: 'v0.2.10 of code_transformers'
+    published: '2015-12-07T22:28:30+00:00'
+    id: 'urn:uuid:474cb9c7-9bbd-5c81-9138-190fdf03cd56'
+    link: 'https://pub.dartlang.org/packages/code_transformers'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: codemirror
+    package_version: v0.4.0+5.8.0
+    title: 'v0.4.0+5.8.0 of codemirror'
+    published: '2015-12-07T22:00:19+00:00'
+    id: 'urn:uuid:da887604-960f-5798-b685-e32daf03fc36'
+    link: 'https://pub.dartlang.org/packages/codemirror'
+    author:
+        - 'Devon Carew <devoncarew@google.com>'
