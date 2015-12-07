@@ -45949,3 +45949,12 @@
     link: 'https://pub.dartlang.org/packages/react'
     author:
         - 'Clean Team <clean@vacuumlabs.com>'
+-
+    package_name: event_kit
+    package_version: v0.2.0
+    title: 'v0.2.0 of event_kit'
+    published: '2015-12-07T03:58:59+00:00'
+    id: 'urn:uuid:8eff2601-8b73-5de3-a996-a2a1a4156db8'
+    link: 'https://pub.dartlang.org/packages/event_kit'
+    author:
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
