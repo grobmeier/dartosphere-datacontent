@@ -45958,3 +45958,12 @@
     link: 'https://pub.dartlang.org/packages/event_kit'
     author:
         - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: polymer_datepicker
+    package_version: v0.3.0+2
+    title: 'v0.3.0+2 of polymer_datepicker'
+    published: '2015-12-07T17:00:29+00:00'
+    id: 'urn:uuid:1c5d8e92-221d-5705-8e0a-d146fff1b4bf'
+    link: 'https://pub.dartlang.org/packages/polymer_datepicker'
+    author:
+        - 'Drafintech <info@drafintech.it>'
