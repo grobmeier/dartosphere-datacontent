@@ -45967,3 +45967,21 @@
     link: 'https://pub.dartlang.org/packages/polymer_datepicker'
     author:
         - 'Drafintech <info@drafintech.it>'
+-
+    package_name: less_dart
+    package_version: v0.3.3
+    title: 'v0.3.3 of less_dart'
+    published: '2015-12-07T19:26:15+00:00'
+    id: 'urn:uuid:58a5de7a-0c74-538a-9502-b7bc1aebd22c'
+    link: 'https://pub.dartlang.org/packages/less_dart'
+    author:
+        - 'Adalberto Lacruz <adalberto.lacruz@gmail.com>'
+-
+    package_name: prettify
+    package_version: v0.2.0
+    title: 'v0.2.0 of prettify'
+    published: '2015-12-07T19:04:08+00:00'
+    id: 'urn:uuid:60476752-3546-5468-94a1-6d695ed166fd'
+    link: 'https://pub.dartlang.org/packages/prettify'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
