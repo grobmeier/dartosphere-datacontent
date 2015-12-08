@@ -46121,3 +46121,30 @@
     link: 'https://pub.dartlang.org/packages/polymer_datepicker'
     author:
         - 'Drafintech <info@drafintech.it>'
+-
+    package_name: ebisu
+    package_version: v0.6.8
+    title: 'v0.6.8 of ebisu'
+    published: '2015-12-08T11:51:48+00:00'
+    id: 'urn:uuid:55e08f54-5670-5a9c-89af-a953ad0f84ab'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: changelog
+    package_version: v1.4.0
+    title: 'v1.4.0 of changelog'
+    published: '2015-12-08T11:36:08+00:00'
+    id: 'urn:uuid:a54835cd-fee8-5b28-a724-6d0640620526'
+    link: 'https://pub.dartlang.org/packages/changelog'
+    author:
+        - office@mikemitterer.at
+-
+    package_name: validate
+    package_version: v1.5.1
+    title: 'v1.5.1 of validate'
+    published: '2015-12-08T11:03:24+00:00'
+    id: 'urn:uuid:5cfef784-e977-5e2c-80ef-4cf177bf3bd3'
+    link: 'https://pub.dartlang.org/packages/validate'
+    author:
+        - 'Mike Mitterer  <office@mikemitterer.at>'
