@@ -46175,3 +46175,12 @@
     link: 'https://pub.dartlang.org/packages/dasic'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: vm_service_lib
+    package_version: v0.0.11
+    title: 'v0.0.11 of vm_service_lib'
+    published: '2015-12-08T14:41:18+00:00'
+    id: 'urn:uuid:26ad4969-a4d5-58fa-a171-71197470dd8a'
+    link: 'https://pub.dartlang.org/packages/vm_service_lib'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
