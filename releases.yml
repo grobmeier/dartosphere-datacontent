@@ -46093,3 +46093,13 @@
     link: 'https://pub.dartlang.org/packages/orientdb_server'
     author:
         - 'Ross Albertson <magnusthegood@yahoo.com>'
+-
+    package_name: msgpack
+    package_version: v0.2.0
+    title: 'v0.2.0 of msgpack'
+    published: '2015-12-08T05:48:53+00:00'
+    id: 'urn:uuid:e4e88427-8cae-5a84-87db-2489604a1660'
+    link: 'https://pub.dartlang.org/packages/msgpack'
+    author:
+        - 'Kenneth Endfinger <kaendfinger@gmail.com>'
+        - 'Dan Ellis <dan@danellis.me>'
