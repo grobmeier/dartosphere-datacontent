@@ -46057,3 +46057,21 @@
         - 'Victor Savkin <vsavkin@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.68
+    title: 'v0.0.68 of sky_services'
+    published: '2015-12-08T01:23:42+00:00'
+    id: 'urn:uuid:e68a36c9-bea1-5bb2-a140-7802143d13ce'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.68
+    title: 'v0.0.68 of sky_engine'
+    published: '2015-12-08T01:23:39+00:00'
+    id: 'urn:uuid:8c21f0b0-9e71-59d4-bea4-1f3308333d22'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
