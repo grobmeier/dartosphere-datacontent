@@ -46220,3 +46220,21 @@
     link: 'https://pub.dartlang.org/packages/process_run'
     author:
         - 'Tekartik <dev@tekartik.com>'
+-
+    package_name: syncbase
+    package_version: v0.0.22
+    title: 'v0.0.22 of syncbase'
+    published: '2015-12-08T19:56:04+00:00'
+    id: 'urn:uuid:999cd9b0-8eb8-5975-ae10-65ec594f40e1'
+    link: 'https://pub.dartlang.org/packages/syncbase'
+    author:
+        - 'Vanadium Authors'
+-
+    package_name: analyzer
+    package_version: v0.27.0
+    title: 'v0.27.0 of analyzer'
+    published: '2015-12-08T19:08:49+00:00'
+    id: 'urn:uuid:069d32a1-3da3-559a-887f-f1c3a863b24b'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
