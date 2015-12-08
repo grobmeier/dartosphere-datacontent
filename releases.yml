@@ -46148,3 +46148,30 @@
     link: 'https://pub.dartlang.org/packages/validate'
     author:
         - 'Mike Mitterer  <office@mikemitterer.at>'
+-
+    package_name: stagedive
+    package_version: v0.3.3
+    title: 'v0.3.3 of stagedive'
+    published: '2015-12-08T12:29:05+00:00'
+    id: 'urn:uuid:99d6d033-2944-56bd-8c45-78cedd8b4d8d'
+    link: 'https://pub.dartlang.org/packages/stagedive'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: sitegen
+    package_version: v1.3.0
+    title: 'v1.3.0 of sitegen'
+    published: '2015-12-08T12:20:49+00:00'
+    id: 'urn:uuid:e9c7b27f-39a9-52e0-ab07-574e08d08e11'
+    link: 'https://pub.dartlang.org/packages/sitegen'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: dasic
+    package_version: v1.1.0
+    title: 'v1.1.0 of dasic'
+    published: '2015-12-08T12:04:40+00:00'
+    id: 'urn:uuid:78c953f5-321d-5c0c-a708-054939fb8f93'
+    link: 'https://pub.dartlang.org/packages/dasic'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
