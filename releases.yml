@@ -46103,3 +46103,21 @@
     author:
         - 'Kenneth Endfinger <kaendfinger@gmail.com>'
         - 'Dan Ellis <dan@danellis.me>'
+-
+    package_name: validate
+    package_version: v1.5.0
+    title: 'v1.5.0 of validate'
+    published: '2015-12-08T10:58:32+00:00'
+    id: 'urn:uuid:3f944f62-334c-5bc7-be2a-cdfaf2d30e3f'
+    link: 'https://pub.dartlang.org/packages/validate'
+    author:
+        - 'Mike Mitterer  <office@mikemitterer.at>'
+-
+    package_name: polymer_datepicker
+    package_version: v0.3.1
+    title: 'v0.3.1 of polymer_datepicker'
+    published: '2015-12-08T10:02:20+00:00'
+    id: 'urn:uuid:cd3924c0-73cc-567d-b4bf-9f41769176a3'
+    link: 'https://pub.dartlang.org/packages/polymer_datepicker'
+    author:
+        - 'Drafintech <info@drafintech.it>'
