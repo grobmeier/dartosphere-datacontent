@@ -46184,3 +46184,21 @@
     link: 'https://pub.dartlang.org/packages/vm_service_lib'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: built_json_generator
+    package_version: v0.0.2
+    title: 'v0.0.2 of built_json_generator'
+    published: '2015-12-08T16:55:13+00:00'
+    id: 'urn:uuid:85296fcb-ec73-5328-bed2-9928d24a4cad'
+    link: 'https://pub.dartlang.org/packages/built_json_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_json
+    package_version: v0.0.2
+    title: 'v0.0.2 of built_json'
+    published: '2015-12-08T16:52:35+00:00'
+    id: 'urn:uuid:9763a8b6-3a6f-52f5-9f65-fe174ac3ec41'
+    link: 'https://pub.dartlang.org/packages/built_json'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
