@@ -46292,3 +46292,21 @@
     link: 'https://pub.dartlang.org/packages/d3'
     author:
         - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: syncbase
+    package_version: v0.0.23
+    title: 'v0.0.23 of syncbase'
+    published: '2015-12-09T01:32:55+00:00'
+    id: 'urn:uuid:fcd16f7b-2545-5811-855e-4a1542a349dd'
+    link: 'https://pub.dartlang.org/packages/syncbase'
+    author:
+        - 'Vanadium Authors'
+-
+    package_name: dart_style
+    package_version: v0.2.2
+    title: 'v0.2.2 of dart_style'
+    published: '2015-12-09T01:06:59+00:00'
+    id: 'urn:uuid:e6b3da36-1c14-5818-aa28-2730d91b4d94'
+    link: 'https://pub.dartlang.org/packages/dart_style'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
