@@ -46499,3 +46499,12 @@
     link: 'https://pub.dartlang.org/packages/process_run'
     author:
         - 'Tekartik <dev@tekartik.com>'
+-
+    package_name: process_run
+    package_version: v0.3.1
+    title: 'v0.3.1 of process_run'
+    published: '2015-12-09T15:18:14+00:00'
+    id: 'urn:uuid:846fd07c-1969-5462-b0cd-145f2798fc39'
+    link: 'https://pub.dartlang.org/packages/process_run'
+    author:
+        - 'Tekartik <dev@tekartik.com>'
