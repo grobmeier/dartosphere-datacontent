@@ -46563,3 +46563,12 @@
     author:
         - 'Matias Meno <m@tias.me>'
         - 'Martin Flucka <martin.flucka@gmail.com>'
+-
+    package_name: dartdoc
+    package_version: v0.8.4
+    title: 'v0.8.4 of dartdoc'
+    published: '2015-12-09T18:25:30+00:00'
+    id: 'urn:uuid:8e00fb0c-1c76-593d-8fcd-7841c7bd85a8'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
