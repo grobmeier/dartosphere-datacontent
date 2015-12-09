@@ -46490,3 +46490,12 @@
     link: 'https://pub.dartlang.org/packages/outparam'
     author:
         - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: process_run
+    package_version: v0.3.0
+    title: 'v0.3.0 of process_run'
+    published: '2015-12-09T10:44:49+00:00'
+    id: 'urn:uuid:6609677c-d956-5c70-8a56-08c182b44c49'
+    link: 'https://pub.dartlang.org/packages/process_run'
+    author:
+        - 'Tekartik <dev@tekartik.com>'
