@@ -46472,3 +46472,21 @@
         - 'Victor Savkin <vsavkin@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: ebisu
+    package_version: v0.6.9
+    title: 'v0.6.9 of ebisu'
+    published: '2015-12-09T04:26:23+00:00'
+    id: 'urn:uuid:bd4944f4-5f4a-5de4-8483-7e5ce865d5d3'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: outparam
+    package_version: v0.1.0
+    title: 'v0.1.0 of outparam'
+    published: '2015-12-09T04:00:42+00:00'
+    id: 'urn:uuid:7a7dc6c1-c407-5daf-a391-f471400f4d38'
+    link: 'https://pub.dartlang.org/packages/outparam'
+    author:
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
