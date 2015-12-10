@@ -46831,3 +46831,12 @@
         - 'Prasad Sunkari <prsd@google.com>'
         - 'Michael Cheng <midoringo@google.com>'
         - 'Yan Qiao <yqiao@google.com>'
+-
+    package_name: stagedive
+    package_version: v0.4.1
+    title: 'v0.4.1 of stagedive'
+    published: '2015-12-10T13:52:31+00:00'
+    id: 'urn:uuid:06397a97-e80c-5a94-b0a5-219bbb9ec378'
+    link: 'https://pub.dartlang.org/packages/stagedive'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
