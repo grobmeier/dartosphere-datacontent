@@ -46721,3 +46721,12 @@
         - 'Victor Savkin <vsavkin@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: envy
+    package_version: v0.0.5
+    title: 'v0.0.5 of envy'
+    published: '2015-12-10T04:54:59+00:00'
+    id: 'urn:uuid:2f6c7af3-a9c5-577f-b454-fa14c409d9d2'
+    link: 'https://pub.dartlang.org/packages/envy'
+    author:
+        - 'Rob Bishop (cooler-king)'
