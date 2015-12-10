@@ -46586,3 +46586,30 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: source_gen
+    package_version: v0.4.7
+    title: 'v0.4.7 of source_gen'
+    published: '2015-12-09T23:25:25+00:00'
+    id: 'urn:uuid:669e8703-1395-511b-bc89-4efdf94a4b15'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: sky_services
+    package_version: v0.0.70
+    title: 'v0.0.70 of sky_services'
+    published: '2015-12-09T23:07:32+00:00'
+    id: 'urn:uuid:5b8d8d23-036c-5534-954d-c3721e9a1845'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.70
+    title: 'v0.0.70 of sky_engine'
+    published: '2015-12-09T23:07:25+00:00'
+    id: 'urn:uuid:21906fcf-60a0-5c2e-8fd0-9397cf85c243'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
