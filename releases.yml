@@ -46613,3 +46613,12 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: intl
+    package_version: v0.12.4+3
+    title: 'v0.12.4+3 of intl'
+    published: '2015-12-10T01:36:40+00:00'
+    id: 'urn:uuid:f45fd68b-7325-5bb4-837a-299b1410af0c'
+    link: 'https://pub.dartlang.org/packages/intl'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
