@@ -46867,3 +46867,12 @@
     link: 'https://pub.dartlang.org/packages/code_transformers'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: vm_service_lib
+    package_version: v0.0.12
+    title: 'v0.0.12 of vm_service_lib'
+    published: '2015-12-10T20:49:29+00:00'
+    id: 'urn:uuid:b9278d22-b369-5a6e-9277-1bf25c99c4af'
+    link: 'https://pub.dartlang.org/packages/vm_service_lib'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
