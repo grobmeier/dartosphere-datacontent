@@ -46858,3 +46858,12 @@
     link: 'https://pub.dartlang.org/packages/docker'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: code_transformers
+    package_version: v0.3.1
+    title: 'v0.3.1 of code_transformers'
+    published: '2015-12-10T18:46:21+00:00'
+    id: 'urn:uuid:32d2b4b2-a070-5621-926a-cfe63d585e1d'
+    link: 'https://pub.dartlang.org/packages/code_transformers'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
