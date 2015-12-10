@@ -46622,3 +46622,12 @@
     link: 'https://pub.dartlang.org/packages/intl'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: ebisu
+    package_version: v0.6.10
+    title: 'v0.6.10 of ebisu'
+    published: '2015-12-10T02:56:07+00:00'
+    id: 'urn:uuid:6e37c35d-4990-52bb-b5ce-d3ca00ac64dc'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
