@@ -46820,3 +46820,14 @@
         - 'Victor Savkin <vsavkin@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: charted
+    package_version: v0.3.0
+    title: 'v0.3.0 of charted'
+    published: '2015-12-10T10:21:54+00:00'
+    id: 'urn:uuid:260c8dc4-c332-5371-a1c9-15924411966f'
+    link: 'https://pub.dartlang.org/packages/charted'
+    author:
+        - 'Prasad Sunkari <prsd@google.com>'
+        - 'Michael Cheng <midoringo@google.com>'
+        - 'Yan Qiao <yqiao@google.com>'
