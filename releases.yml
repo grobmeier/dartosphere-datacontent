@@ -46966,3 +46966,12 @@
     link: 'https://pub.dartlang.org/packages/complex_matrix'
     author:
         - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: smoke
+    package_version: v0.3.6
+    title: 'v0.3.6 of smoke'
+    published: '2015-12-11T15:25:14+00:00'
+    id: 'urn:uuid:2d6da5c4-47eb-55b7-9a98-15e936985889'
+    link: 'https://pub.dartlang.org/packages/smoke'
+    author:
+        - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
