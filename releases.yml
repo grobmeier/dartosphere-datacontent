@@ -46984,3 +46984,30 @@
     link: 'https://pub.dartlang.org/packages/polymer_app_router'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: homedir
+    package_version: v0.0.4
+    title: 'v0.0.4 of homedir'
+    published: '2015-12-11T18:39:29+00:00'
+    id: 'urn:uuid:75dbd22c-a5b6-5c19-a926-7e0bfba76576'
+    link: 'https://pub.dartlang.org/packages/homedir'
+    author:
+        - 'Kasper Peulen <kasperpeulen@gmail.com>'
+-
+    package_name: ebisu_cpp
+    package_version: v0.3.8
+    title: 'v0.3.8 of ebisu_cpp'
+    published: '2015-12-11T18:17:45+00:00'
+    id: 'urn:uuid:5a750682-1556-53e5-802c-ee59902905df'
+    link: 'https://pub.dartlang.org/packages/ebisu_cpp'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: linter
+    package_version: v0.1.10
+    title: 'v0.1.10 of linter'
+    published: '2015-12-11T18:13:41+00:00'
+    id: 'urn:uuid:aa52fd37-8e49-53b2-8d52-d9e7bfc37ad5'
+    link: 'https://pub.dartlang.org/packages/linter'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
