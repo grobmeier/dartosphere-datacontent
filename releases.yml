@@ -46957,3 +46957,12 @@
     link: 'https://pub.dartlang.org/packages/cupid'
     author:
         - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: complex_matrix
+    package_version: v0.0.1
+    title: 'v0.0.1 of complex_matrix'
+    published: '2015-12-11T12:28:51+00:00'
+    id: 'urn:uuid:b6d86831-ca1a-5382-819a-e7213e9e3f96'
+    link: 'https://pub.dartlang.org/packages/complex_matrix'
+    author:
+        - 'Edouard Tavinor <edouardtavinor@gmail.com>'
