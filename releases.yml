@@ -46975,3 +46975,12 @@
     link: 'https://pub.dartlang.org/packages/smoke'
     author:
         - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: polymer_app_router
+    package_version: v0.0.1
+    title: 'v0.0.1 of polymer_app_router'
+    published: '2015-12-11T17:19:15+00:00'
+    id: 'urn:uuid:323bc820-ab7a-5fbb-aaf9-30214a8bdeea'
+    link: 'https://pub.dartlang.org/packages/polymer_app_router'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
