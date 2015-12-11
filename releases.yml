@@ -47011,3 +47011,21 @@
     link: 'https://pub.dartlang.org/packages/linter'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: expand_path
+    package_version: v0.0.2
+    title: 'v0.0.2 of expand_path'
+    published: '2015-12-11T19:36:36+00:00'
+    id: 'urn:uuid:1685f43a-a1a8-5d21-b516-1c9a147391b9'
+    link: 'https://pub.dartlang.org/packages/expand_path'
+    author:
+        - 'Kasper Peulen <kasperpeulen@gmail.com>'
+-
+    package_name: mdl
+    package_version: v1.12.4
+    title: 'v1.12.4 of mdl'
+    published: '2015-12-11T19:08:19+00:00'
+    id: 'urn:uuid:fe356f0a-e0ca-5146-983e-c20fc0a2173c'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
