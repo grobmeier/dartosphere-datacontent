@@ -46948,3 +46948,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu_cpp'
     author:
         - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: cupid
+    package_version: v0.9.10
+    title: 'v0.9.10 of cupid'
+    published: '2015-12-11T10:07:58+00:00'
+    id: 'urn:uuid:1825e0d1-a97e-5dbd-ab93-a3b8f5938d26'
+    link: 'https://pub.dartlang.org/packages/cupid'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
