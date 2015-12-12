@@ -47160,3 +47160,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_app_layout_template'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: bwu_polymer_routing
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of bwu_polymer_routing'
+    published: '2015-12-12T20:15:43+00:00'
+    id: 'urn:uuid:0845b541-b349-59ab-9799-81bc64456080'
+    link: 'https://pub.dartlang.org/packages/bwu_polymer_routing'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
