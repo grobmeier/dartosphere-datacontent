@@ -47115,3 +47115,21 @@
     link: 'https://pub.dartlang.org/packages/transformer_binding'
     author:
         - 'Man Hoang <jolleekin@outlook.com>'
+-
+    package_name: polymer_include_element
+    package_version: v0.0.6
+    title: 'v0.0.6 of polymer_include_element'
+    published: '2015-12-12T16:58:28+00:00'
+    id: 'urn:uuid:08a8371b-37fd-5639-9047-be812c4365a9'
+    link: 'https://pub.dartlang.org/packages/polymer_include_element'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: ebisu_cpp
+    package_version: v0.3.9
+    title: 'v0.3.9 of ebisu_cpp'
+    published: '2015-12-12T16:04:05+00:00'
+    id: 'urn:uuid:e19fe348-86e3-5e56-8c06-eec710ebac1b'
+    link: 'https://pub.dartlang.org/packages/ebisu_cpp'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
