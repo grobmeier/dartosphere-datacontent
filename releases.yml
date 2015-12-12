@@ -47133,3 +47133,30 @@
     link: 'https://pub.dartlang.org/packages/ebisu_cpp'
     author:
         - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: quagga_dart
+    package_version: v0.0.1
+    title: 'v0.0.1 of quagga_dart'
+    published: '2015-12-12T17:18:01+00:00'
+    id: 'urn:uuid:2bb56fb4-f3cc-5a81-95b1-22b62aa326a8'
+    link: 'https://pub.dartlang.org/packages/quagga_dart'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: dart_barcode
+    package_version: v0.0.2
+    title: 'v0.0.2 of dart_barcode'
+    published: '2015-12-12T17:16:07+00:00'
+    id: 'urn:uuid:de5cc6b3-3314-57db-aa5d-8aacefc8b536'
+    link: 'https://pub.dartlang.org/packages/dart_barcode'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: polymer_app_layout_template
+    package_version: v0.1.6
+    title: 'v0.1.6 of polymer_app_layout_template'
+    published: '2015-12-12T17:05:45+00:00'
+    id: 'urn:uuid:1b0f7947-0867-5e93-a424-e10cb2926fa4'
+    link: 'https://pub.dartlang.org/packages/polymer_app_layout_template'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
