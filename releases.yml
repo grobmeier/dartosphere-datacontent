@@ -47106,3 +47106,12 @@
     link: 'https://pub.dartlang.org/packages/bwu_polymer_routing'
     author:
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: transformer_binding
+    package_version: v0.0.3
+    title: 'v0.0.3 of transformer_binding'
+    published: '2015-12-12T15:38:25+00:00'
+    id: 'urn:uuid:750effb5-833f-55ef-af39-62ef00de4526'
+    link: 'https://pub.dartlang.org/packages/transformer_binding'
+    author:
+        - 'Man Hoang <jolleekin@outlook.com>'
