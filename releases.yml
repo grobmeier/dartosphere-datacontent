@@ -47043,3 +47043,12 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: expand_path
+    package_version: v0.0.5
+    title: 'v0.0.5 of expand_path'
+    published: '2015-12-11T23:59:11+00:00'
+    id: 'urn:uuid:7558b8fb-3729-59a2-906c-1cde264a3643'
+    link: 'https://pub.dartlang.org/packages/expand_path'
+    author:
+        - 'Kasper Peulen <kasperpeulen@gmail.com>'
