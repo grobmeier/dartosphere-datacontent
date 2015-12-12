@@ -47052,3 +47052,30 @@
     link: 'https://pub.dartlang.org/packages/expand_path'
     author:
         - 'Kasper Peulen <kasperpeulen@gmail.com>'
+-
+    package_name: expand_path
+    package_version: v0.0.10
+    title: 'v0.0.10 of expand_path'
+    published: '2015-12-12T00:37:25+00:00'
+    id: 'urn:uuid:e704c096-f5ac-55e6-a5fd-ef27ce4269ba'
+    link: 'https://pub.dartlang.org/packages/expand_path'
+    author:
+        - 'Kasper Peulen <kasperpeulen@gmail.com>'
+-
+    package_name: v23discovery
+    package_version: v0.0.7
+    title: 'v0.0.7 of v23discovery'
+    published: '2015-12-12T00:24:28+00:00'
+    id: 'urn:uuid:3b7ebffb-664c-5378-9279-5f7e039c6339'
+    link: 'https://pub.dartlang.org/packages/v23discovery'
+    author:
+        - 'Vanadium Authors'
+-
+    package_name: syncbase
+    package_version: v0.0.24
+    title: 'v0.0.24 of syncbase'
+    published: '2015-12-12T00:09:24+00:00'
+    id: 'urn:uuid:a30f7ed1-1481-5e18-b830-c35dce1b488f'
+    link: 'https://pub.dartlang.org/packages/syncbase'
+    author:
+        - 'Vanadium Authors'
