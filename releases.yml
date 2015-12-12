@@ -47097,3 +47097,12 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: bwu_polymer_routing
+    package_version: v0.2.0
+    title: 'v0.2.0 of bwu_polymer_routing'
+    published: '2015-12-12T12:47:56+00:00'
+    id: 'urn:uuid:0e991f2d-694e-5113-a687-98328cc7ff8b'
+    link: 'https://pub.dartlang.org/packages/bwu_polymer_routing'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
