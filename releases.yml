@@ -47268,3 +47268,12 @@
         - 'Victor Savkin <vsavkin@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: rl_matrix
+    package_version: v0.4.5
+    title: 'v0.4.5 of rl_matrix'
+    published: '2015-12-13T22:40:40+00:00'
+    id: 'urn:uuid:9583252b-f2e2-542d-b8ed-24a29e59810c'
+    link: 'https://pub.dartlang.org/packages/rl_matrix'
+    author:
+        - 'R.S. Schermer <roland0507@gmail.com>'
