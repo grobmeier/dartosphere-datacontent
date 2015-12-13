@@ -47169,3 +47169,12 @@
     link: 'https://pub.dartlang.org/packages/bwu_polymer_routing'
     author:
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: kp_directory
+    package_version: v0.0.1
+    title: 'v0.0.1 of kp_directory'
+    published: '2015-12-13T00:10:17+00:00'
+    id: 'urn:uuid:7b08e46b-d93f-5232-8114-5ae595f377b4'
+    link: 'https://pub.dartlang.org/packages/kp_directory'
+    author:
+        - 'Kasper Peulen <kasperpeulen@gmail.com>'
