@@ -47277,3 +47277,12 @@
     link: 'https://pub.dartlang.org/packages/rl_matrix'
     author:
         - 'R.S. Schermer <roland0507@gmail.com>'
+-
+    package_name: gcloud
+    package_version: v0.2.0+9
+    title: 'v0.2.0+9 of gcloud'
+    published: '2015-12-14T09:34:09+00:00'
+    id: 'urn:uuid:a219d348-f08c-51a5-b125-93431d41fdb4'
+    link: 'https://pub.dartlang.org/packages/gcloud'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
