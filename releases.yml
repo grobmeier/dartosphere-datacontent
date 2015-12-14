@@ -47331,3 +47331,12 @@
     link: 'https://pub.dartlang.org/packages/dev_test'
     author:
         - 'Alexandre Roux @ Tekartik <alex@tekartik.com>'
+-
+    package_name: reflective
+    package_version: v0.0.24
+    title: 'v0.0.24 of reflective'
+    published: '2015-12-14T17:06:14+00:00'
+    id: 'urn:uuid:359af798-8531-558c-9c5d-7e8b0b2b56c6'
+    link: 'https://pub.dartlang.org/packages/reflective'
+    author:
+        - 'Stijn Van Bael <stijn.van.bael@appify.be>'
