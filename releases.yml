@@ -47349,3 +47349,35 @@
     link: 'https://pub.dartlang.org/packages/dev_compiler'
     author:
         - 'Dart Dev Compiler team <dev-compiler@dartlang.org>'
+-
+    package_name: sky_services
+    package_version: v0.0.72
+    title: 'v0.0.72 of sky_services'
+    published: '2015-12-14T20:27:27+00:00'
+    id: 'urn:uuid:bfd4546a-e28f-51c2-9403-02b9a79f9f89'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.72
+    title: 'v0.0.72 of sky_engine'
+    published: '2015-12-14T20:27:24+00:00'
+    id: 'urn:uuid:35653c48-c95d-5549-8d24-3612ac713325'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: w_flux
+    package_version: v2.0.0
+    title: 'v2.0.0 of w_flux'
+    published: '2015-12-14T20:26:46+00:00'
+    id: 'urn:uuid:2e27bbab-023a-50fe-825e-07700c014fcd'
+    link: 'https://pub.dartlang.org/packages/w_flux'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
