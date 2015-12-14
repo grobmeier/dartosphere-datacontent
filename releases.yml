@@ -47381,3 +47381,12 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: async
+    package_version: v1.5.0
+    title: 'v1.5.0 of async'
+    published: '2015-12-14T21:11:03+00:00'
+    id: 'urn:uuid:a7456863-d31f-5a8c-bba8-d27f46862239'
+    link: 'https://pub.dartlang.org/packages/async'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
