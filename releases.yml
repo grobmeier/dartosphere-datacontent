@@ -47286,3 +47286,12 @@
     link: 'https://pub.dartlang.org/packages/gcloud'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: text_zipper
+    package_version: v0.1.0
+    title: 'v0.1.0 of text_zipper'
+    published: '2015-12-14T13:18:43+00:00'
+    id: 'urn:uuid:a20e3f02-246c-5865-bb9f-7bfec5fc36b8'
+    link: 'https://pub.dartlang.org/packages/text_zipper'
+    author:
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
