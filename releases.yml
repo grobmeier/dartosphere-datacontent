@@ -47295,3 +47295,21 @@
     link: 'https://pub.dartlang.org/packages/text_zipper'
     author:
         - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: scissors
+    package_version: v0.2.1
+    title: 'v0.2.1 of scissors'
+    published: '2015-12-14T15:27:10+00:00'
+    id: 'urn:uuid:16bac09b-0415-54ba-9875-f41b1a8e40e6'
+    link: 'https://pub.dartlang.org/packages/scissors'
+    author:
+        - 'Olivier Chafik <ochafik@google.com>'
+-
+    package_name: mdl
+    package_version: v1.13.1
+    title: 'v1.13.1 of mdl'
+    published: '2015-12-14T15:13:45+00:00'
+    id: 'urn:uuid:1f867cac-499f-5284-a497-690b6cd734aa'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
