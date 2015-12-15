@@ -47642,3 +47642,21 @@
     link: 'https://pub.dartlang.org/packages/retrace'
     author:
         - 'Björn Melinder <bjorn.melinder@gmail.com>'
+-
+    package_name: cryptoutils
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of cryptoutils'
+    published: '2015-12-15T15:03:03+00:00'
+    id: 'urn:uuid:21ff7ff6-998e-5709-8609-08b9351c51e2'
+    link: 'https://pub.dartlang.org/packages/cryptoutils'
+    author:
+        - 'Steven Roose <stevenroose@gmail.com>'
+-
+    package_name: zengen
+    package_version: v0.3.1
+    title: 'v0.3.1 of zengen'
+    published: '2015-12-15T15:02:10+00:00'
+    id: 'urn:uuid:f85e4e15-f869-5aa9-aa61-8a3cb12ebada'
+    link: 'https://pub.dartlang.org/packages/zengen'
+    author:
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
