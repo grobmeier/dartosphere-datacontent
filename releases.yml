@@ -47480,3 +47480,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu'
     author:
         - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: dartivity
+    package_version: v0.1.0
+    title: 'v0.1.0 of dartivity'
+    published: '2015-12-15T07:22:42+00:00'
+    id: 'urn:uuid:3bf47803-4567-5ec3-b57f-8c529b547f40'
+    link: 'https://pub.dartlang.org/packages/dartivity'
+    author:
+        - 'Steve Hamblett<steve.hamblett@linux.com>'
