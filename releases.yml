@@ -47489,3 +47489,21 @@
     link: 'https://pub.dartlang.org/packages/dartivity'
     author:
         - 'Steve Hamblett<steve.hamblett@linux.com>'
+-
+    package_name: idb_shim
+    package_version: v1.3.5
+    title: 'v1.3.5 of idb_shim'
+    published: '2015-12-15T08:27:54+00:00'
+    id: 'urn:uuid:920456aa-1664-51aa-8ebb-74af2949bc17'
+    link: 'https://pub.dartlang.org/packages/idb_shim'
+    author:
+        - 'Alexandre Roux Tekartik <alex.tekartik.pub@gmail.com>'
+-
+    package_name: sembast
+    package_version: v1.3.3
+    title: 'v1.3.3 of sembast'
+    published: '2015-12-15T08:22:06+00:00'
+    id: 'urn:uuid:7bd62e76-65a5-5df2-ba5a-fce99f2c20b3'
+    link: 'https://pub.dartlang.org/packages/sembast'
+    author:
+        - 'Alexandre Roux Tekartik <alex.tekartik.pub@gmail.com>'
