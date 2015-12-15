@@ -47615,3 +47615,12 @@
         - 'Victor Savkin <vsavkin@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: render_tests
+    package_version: v0.1.0
+    title: 'v0.1.0 of render_tests'
+    published: '2015-12-15T12:50:03+00:00'
+    id: 'urn:uuid:4b306915-5305-517c-b530-0db81305077f'
+    link: 'https://pub.dartlang.org/packages/render_tests'
+    author:
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
