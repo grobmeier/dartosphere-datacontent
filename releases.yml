@@ -47624,3 +47624,21 @@
     link: 'https://pub.dartlang.org/packages/render_tests'
     author:
         - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: cryptoutils
+    package_version: v0.2.0
+    title: 'v0.2.0 of cryptoutils'
+    published: '2015-12-15T14:59:12+00:00'
+    id: 'urn:uuid:a8d6b013-5926-598f-86ff-3be6511aab1c'
+    link: 'https://pub.dartlang.org/packages/cryptoutils'
+    author:
+        - 'Steven Roose <stevenroose@gmail.com>'
+-
+    package_name: retrace
+    package_version: v1.1.1
+    title: 'v1.1.1 of retrace'
+    published: '2015-12-15T14:15:23+00:00'
+    id: 'urn:uuid:16ee1d1b-c16a-5e43-80bd-7d6bed75ee4b'
+    link: 'https://pub.dartlang.org/packages/retrace'
+    author:
+        - 'Björn Melinder <bjorn.melinder@gmail.com>'
