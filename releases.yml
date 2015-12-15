@@ -47453,3 +47453,21 @@
     link: 'https://pub.dartlang.org/packages/http_parser'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: sky_services
+    package_version: v0.0.73
+    title: 'v0.0.73 of sky_services'
+    published: '2015-12-15T01:59:28+00:00'
+    id: 'urn:uuid:2e57c957-bfd4-5dd0-b958-3b239843fe81'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.73
+    title: 'v0.0.73 of sky_engine'
+    published: '2015-12-15T01:59:23+00:00'
+    id: 'urn:uuid:7c0bc573-4ef2-5dde-b94c-3a957b5bd17b'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
