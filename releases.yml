@@ -47660,3 +47660,21 @@
     link: 'https://pub.dartlang.org/packages/zengen'
     author:
         - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+-
+    package_name: observe
+    package_version: v0.13.2
+    title: 'v0.13.2 of observe'
+    published: '2015-12-15T16:57:45+00:00'
+    id: 'urn:uuid:633234f2-f8fd-5e3c-a69c-3b0834b3a51b'
+    link: 'https://pub.dartlang.org/packages/observe'
+    author:
+        - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: web_components
+    package_version: v0.12.1
+    title: 'v0.12.1 of web_components'
+    published: '2015-12-15T16:43:36+00:00'
+    id: 'urn:uuid:e0f919b0-0ef3-5b78-8318-5b5160783fcb'
+    link: 'https://pub.dartlang.org/packages/web_components'
+    author:
+        - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
