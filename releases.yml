@@ -47471,3 +47471,12 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: ebisu
+    package_version: v0.6.11
+    title: 'v0.6.11 of ebisu'
+    published: '2015-12-15T03:29:28+00:00'
+    id: 'urn:uuid:ffb77edb-d4bc-5ab3-80c5-c686788e6724'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
