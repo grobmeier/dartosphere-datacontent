@@ -47885,3 +47885,16 @@
         - 'Victor Savkin <vsavkin@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: redstone
+    package_version: v0.6.2
+    title: 'v0.6.2 of redstone'
+    published: '2015-12-15T23:04:13+00:00'
+    id: 'urn:uuid:2d140000-9e83-5b82-a024-8fbc5e95f8c9'
+    link: 'https://pub.dartlang.org/packages/redstone'
+    author:
+        - 'Luiz Mineo <luiz.mineo@gmail.com>'
+        - 'Kenneth Endfinger <kaendfinger@gmail.com>'
+        - 'Austin Cummings <austincummings95@gmail.com>'
+        - 'Cristian Garcia <cgarcia.e88@gmail.com>'
+        - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
