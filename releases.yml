@@ -48048,3 +48048,35 @@
     author:
         - 'Seth Ladd <sethladd@google.com>'
         - 'Devon Carew <devoncarew@google.com>'
+-
+    package_name: test
+    package_version: v0.12.6+2
+    title: 'v0.12.6+2 of test'
+    published: '2015-12-16T21:36:00+00:00'
+    id: 'urn:uuid:d304a053-0e35-5801-a457-1c66036e076b'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dart_dev
+    package_version: v1.0.6
+    title: 'v1.0.6 of dart_dev'
+    published: '2015-12-16T21:21:48+00:00'
+    id: 'urn:uuid:1e1d9804-da36-50ba-8688-590a45853ba5'
+    link: 'https://pub.dartlang.org/packages/dart_dev'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: analyzer
+    package_version: v0.27.1
+    title: 'v0.27.1 of analyzer'
+    published: '2015-12-16T21:13:28+00:00'
+    id: 'urn:uuid:f8ab63db-4639-5d16-8003-be71fec8e714'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
