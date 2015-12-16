@@ -48080,3 +48080,57 @@
     link: 'https://pub.dartlang.org/packages/analyzer'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: source_gen
+    package_version: v0.4.7+2
+    title: 'v0.4.7+2 of source_gen'
+    published: '2015-12-16T23:39:04+00:00'
+    id: 'urn:uuid:ac46ce0d-6184-540c-9544-a45d369a17d9'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: mojo_sdk
+    package_version: v0.2.8
+    title: 'v0.2.8 of mojo_sdk'
+    published: '2015-12-16T23:26:39+00:00'
+    id: 'urn:uuid:354ad6fd-a141-5d7f-b95b-f791671e0f00'
+    link: 'https://pub.dartlang.org/packages/mojo_sdk'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojom
+    package_version: v0.2.13
+    title: 'v0.2.13 of mojom'
+    published: '2015-12-16T23:09:18+00:00'
+    id: 'urn:uuid:9e42fd04-8fb9-5b41-96dc-7ce06372fa7c'
+    link: 'https://pub.dartlang.org/packages/mojom'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_apptest
+    package_version: v0.2.13
+    title: 'v0.2.13 of mojo_apptest'
+    published: '2015-12-16T23:09:06+00:00'
+    id: 'urn:uuid:9cc48b7a-53e9-5c88-a884-fe66842e12cf'
+    link: 'https://pub.dartlang.org/packages/mojo_apptest'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_services
+    package_version: v0.4.11
+    title: 'v0.4.11 of mojo_services'
+    published: '2015-12-16T23:08:57+00:00'
+    id: 'urn:uuid:73b21836-785a-511b-9b70-45e6ad83bdd4'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo
+    package_version: v0.4.9
+    title: 'v0.4.9 of mojo'
+    published: '2015-12-16T23:08:47+00:00'
+    id: 'urn:uuid:2418db4a-da0d-5877-a702-d93b72ddb35b'
+    link: 'https://pub.dartlang.org/packages/mojo'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
