@@ -47934,3 +47934,26 @@
     link: 'https://pub.dartlang.org/packages/fs_shim'
     author:
         - 'Tekartik <alex@tekartik.com>'
+-
+    package_name: redis_client
+    package_version: v0.1.16
+    title: 'v0.1.16 of redis_client'
+    published: '2015-12-16T14:42:29+00:00'
+    id: 'urn:uuid:72ee6d9a-f439-56e4-94b9-ba2d5321bcdd'
+    link: 'https://pub.dartlang.org/packages/redis_client'
+    author:
+        - 'Demis Bellot <demis.bellot@gmail.com>'
+        - 'Adam Singer <financeCoding@gmail.com>'
+        - 'Matias Meno <m@tias.me>'
+        - 'Baruch Berger <baruchberger@gmail.com>'
+        - 'Max Horstmann <max.horstmann@gmail.com>'
+        - 'Matthew Butler <butler.matthew@gmail.com>'
+-
+    package_name: l10n
+    package_version: v0.16.2
+    title: 'v0.16.2 of l10n'
+    published: '2015-12-16T14:36:31+00:00'
+    id: 'urn:uuid:0437c786-33f7-5848-81d5-116cb783efeb'
+    link: 'https://pub.dartlang.org/packages/l10n'
+    author:
+        - 'Mike Mitterer  <office@mikemitterer.at>'
