@@ -47975,3 +47975,39 @@
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
         - 'Sean Eagan <seaneagan1@gmail.com>'
         - 'Victor Berchet <victor@suumit.com>'
+-
+    package_name: fs_shim
+    package_version: v0.4.0
+    title: 'v0.4.0 of fs_shim'
+    published: '2015-12-16T18:35:35+00:00'
+    id: 'urn:uuid:66c790cd-284c-5a1f-95fc-1ede22e0a18e'
+    link: 'https://pub.dartlang.org/packages/fs_shim'
+    author:
+        - 'Tekartik <alex@tekartik.com>'
+-
+    package_name: vm_service_lib
+    package_version: v0.0.13
+    title: 'v0.0.13 of vm_service_lib'
+    published: '2015-12-16T18:21:29+00:00'
+    id: 'urn:uuid:3309190c-08b8-5344-b41f-0bf0ad46582f'
+    link: 'https://pub.dartlang.org/packages/vm_service_lib'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dev_test
+    package_version: v0.9.0
+    title: 'v0.9.0 of dev_test'
+    published: '2015-12-16T18:06:45+00:00'
+    id: 'urn:uuid:967fd6cc-a994-5721-8e15-15b88614e0d7'
+    link: 'https://pub.dartlang.org/packages/dev_test'
+    author:
+        - 'Tekartik <alex@tekartik.com>'
+-
+    package_name: observe
+    package_version: v0.13.3
+    title: 'v0.13.3 of observe'
+    published: '2015-12-16T18:02:47+00:00'
+    id: 'urn:uuid:65107337-e3b3-5e38-9e90-5f7797166455'
+    link: 'https://pub.dartlang.org/packages/observe'
+    author:
+        - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
