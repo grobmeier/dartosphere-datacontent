@@ -48020,3 +48020,31 @@
     link: 'https://pub.dartlang.org/packages/vm_service_lib'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: sky_services
+    package_version: v0.0.74
+    title: 'v0.0.74 of sky_services'
+    published: '2015-12-16T20:31:33+00:00'
+    id: 'urn:uuid:123fd6a9-738e-5ba1-835e-95bd0fecb007'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.74
+    title: 'v0.0.74 of sky_engine'
+    published: '2015-12-16T20:31:30+00:00'
+    id: 'urn:uuid:96e233f3-6491-5f52-ad20-30884515168e'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: stagehand
+    package_version: v0.2.5+3
+    title: 'v0.2.5+3 of stagehand'
+    published: '2015-12-16T20:31:28+00:00'
+    id: 'urn:uuid:e8f265c1-25fb-5cbd-b855-7416204be592'
+    link: 'https://pub.dartlang.org/packages/stagehand'
+    author:
+        - 'Seth Ladd <sethladd@google.com>'
+        - 'Devon Carew <devoncarew@google.com>'
