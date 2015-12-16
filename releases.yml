@@ -47898,3 +47898,12 @@
         - 'Austin Cummings <austincummings95@gmail.com>'
         - 'Cristian Garcia <cgarcia.e88@gmail.com>'
         - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
+-
+    package_name: access
+    package_version: v0.6.10
+    title: 'v0.6.10 of access'
+    published: '2015-12-16T09:04:51+00:00'
+    id: 'urn:uuid:b0f804ff-b559-5485-978b-a132bec49547'
+    link: 'https://pub.dartlang.org/packages/access'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
