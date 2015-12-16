@@ -47916,3 +47916,12 @@
     link: 'https://pub.dartlang.org/packages/fs_shim'
     author:
         - 'Tekartik <alex@tekartik.com>'
+-
+    package_name: ebisu_pod
+    package_version: v0.0.2
+    title: 'v0.0.2 of ebisu_pod'
+    published: '2015-12-16T11:56:27+00:00'
+    id: 'urn:uuid:4373efd1-f72f-54a4-ac40-079994e74f99'
+    link: 'https://pub.dartlang.org/packages/ebisu_pod'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
