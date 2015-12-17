@@ -48197,3 +48197,12 @@
     link: 'https://pub.dartlang.org/packages/reflectable'
     author:
         - 'The Dart Team <dart@google.com>'
+-
+    package_name: plotly
+    package_version: v0.0.5
+    title: 'v0.0.5 of plotly'
+    published: '2015-12-17T17:50:28+00:00'
+    id: 'urn:uuid:17d366d1-dd85-558e-8de2-746987f9802c'
+    link: 'https://pub.dartlang.org/packages/plotly'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
