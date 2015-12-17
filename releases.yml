@@ -48206,3 +48206,21 @@
     link: 'https://pub.dartlang.org/packages/plotly'
     author:
         - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: intl
+    package_version: v0.12.5
+    title: 'v0.12.5 of intl'
+    published: '2015-12-17T18:56:59+00:00'
+    id: 'urn:uuid:f708c721-c46f-5d63-8599-9ae628bcbead'
+    link: 'https://pub.dartlang.org/packages/intl'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: chartjs
+    package_version: v0.2.0
+    title: 'v0.2.0 of chartjs'
+    published: '2015-12-17T18:27:45+00:00'
+    id: 'urn:uuid:66a674b9-8320-52e3-8204-1d16dce1d4da'
+    link: 'https://pub.dartlang.org/packages/chartjs'
+    author:
+        - 'Kevin Moore <kevmoo+github@google.com>'
