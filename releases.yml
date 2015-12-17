@@ -48152,3 +48152,30 @@
     link: 'https://pub.dartlang.org/packages/polymer_datepicker'
     author:
         - 'Drafintech <info@drafintech.it>'
+-
+    package_name: dev_test
+    package_version: v0.9.1
+    title: 'v0.9.1 of dev_test'
+    published: '2015-12-17T11:45:44+00:00'
+    id: 'urn:uuid:30cfd0b4-7a00-529a-94cb-148638c7a83a'
+    link: 'https://pub.dartlang.org/packages/dev_test'
+    author:
+        - 'Tekartik <alex@tekartik.com>'
+-
+    package_name: fs_shim
+    package_version: v0.5.0
+    title: 'v0.5.0 of fs_shim'
+    published: '2015-12-17T11:24:07+00:00'
+    id: 'urn:uuid:f0b20d0d-9e37-5aff-8ccb-53e133e42295'
+    link: 'https://pub.dartlang.org/packages/fs_shim'
+    author:
+        - 'Tekartik <alex@tekartik.com>'
+-
+    package_name: shelf_mvc
+    package_version: v0.0.3
+    title: 'v0.0.3 of shelf_mvc'
+    published: '2015-12-17T11:14:52+00:00'
+    id: 'urn:uuid:c6cb1df7-9499-5f6d-bb27-4e948d67777c'
+    link: 'https://pub.dartlang.org/packages/shelf_mvc'
+    author:
+        - 'Joris Hermans <hermansj@gmail.com>'
