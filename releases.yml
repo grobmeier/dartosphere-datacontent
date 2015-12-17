@@ -48224,3 +48224,12 @@
     link: 'https://pub.dartlang.org/packages/chartjs'
     author:
         - 'Kevin Moore <kevmoo+github@google.com>'
+-
+    package_name: vm_service_lib
+    package_version: v0.1.1
+    title: 'v0.1.1 of vm_service_lib'
+    published: '2015-12-17T19:48:06+00:00'
+    id: 'urn:uuid:793e54f5-f5fa-57b1-9d38-68580fa200b5'
+    link: 'https://pub.dartlang.org/packages/vm_service_lib'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
