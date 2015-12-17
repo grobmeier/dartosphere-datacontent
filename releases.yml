@@ -48233,3 +48233,12 @@
     link: 'https://pub.dartlang.org/packages/vm_service_lib'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: google_maps
+    package_version: v3.1.0
+    title: 'v3.1.0 of google_maps'
+    published: '2015-12-17T21:32:50+00:00'
+    id: 'urn:uuid:6606e025-14c3-53c0-a5d5-d8ff4f0387d4'
+    link: 'https://pub.dartlang.org/packages/google_maps'
+    author:
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
