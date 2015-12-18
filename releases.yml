@@ -48260,3 +48260,12 @@
     link: 'https://pub.dartlang.org/packages/darpule'
     author:
         - 'Ray King <taipan.king@gmail.com>'
+-
+    package_name: entity
+    package_version: v0.8.6
+    title: 'v0.8.6 of entity'
+    published: '2015-12-18T10:33:08+00:00'
+    id: 'urn:uuid:0fa9875f-bc90-5228-9677-c0d61f9576b2'
+    link: 'https://pub.dartlang.org/packages/entity'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
