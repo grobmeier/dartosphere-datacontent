@@ -48269,3 +48269,21 @@
     link: 'https://pub.dartlang.org/packages/entity'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: tmdb
+    package_version: v0.0.1-alpha1
+    title: 'v0.0.1-alpha1 of tmdb'
+    published: '2015-12-18T17:56:01+00:00'
+    id: 'urn:uuid:febcf54a-9739-5fa7-93c3-0ac8fd8187f6'
+    link: 'https://pub.dartlang.org/packages/tmdb'
+    author:
+        - 'Josep Sayol <josep.sayol@gmail.com>'
+-
+    package_name: fs_shim
+    package_version: v0.6.0
+    title: 'v0.6.0 of fs_shim'
+    published: '2015-12-18T17:48:56+00:00'
+    id: 'urn:uuid:9703e599-1d0d-5638-94a7-300a8e9152b8'
+    link: 'https://pub.dartlang.org/packages/fs_shim'
+    author:
+        - 'Tekartik <alex@tekartik.com>'
