@@ -48305,3 +48305,30 @@
     link: 'https://pub.dartlang.org/packages/envy'
     author:
         - 'Rob Bishop <@robbishop65@gmail.com>'
+-
+    package_name: dart2js_info
+    package_version: v0.2.5
+    title: 'v0.2.5 of dart2js_info'
+    published: '2015-12-18T21:46:45+00:00'
+    id: 'urn:uuid:ebecf293-d4fc-5d31-998a-c235bbd8af24'
+    link: 'https://pub.dartlang.org/packages/dart2js_info'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: analyzer
+    package_version: v0.27.1+1
+    title: 'v0.27.1+1 of analyzer'
+    published: '2015-12-18T21:45:55+00:00'
+    id: 'urn:uuid:127113eb-02af-5d88-a7c2-fd9a5261b6ec'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: fs_shim
+    package_version: v0.6.1
+    title: 'v0.6.1 of fs_shim'
+    published: '2015-12-18T21:18:04+00:00'
+    id: 'urn:uuid:f3e74eea-86d5-57f5-976b-b31c9592fc3e'
+    link: 'https://pub.dartlang.org/packages/fs_shim'
+    author:
+        - 'Tekartik <alex@tekartik.com>'
