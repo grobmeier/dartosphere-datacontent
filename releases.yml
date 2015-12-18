@@ -48251,3 +48251,12 @@
     link: 'https://pub.dartlang.org/packages/reddit'
     author:
         - 'Steven Roose <stevenroose@gmail.com>'
+-
+    package_name: darpule
+    package_version: v0.2.0
+    title: 'v0.2.0 of darpule'
+    published: '2015-12-18T03:04:51+00:00'
+    id: 'urn:uuid:8af86371-7769-5526-9009-ed2756668924'
+    link: 'https://pub.dartlang.org/packages/darpule'
+    author:
+        - 'Ray King <taipan.king@gmail.com>'
