@@ -48296,3 +48296,12 @@
     link: 'https://pub.dartlang.org/packages/tmdb'
     author:
         - 'Josep Sayol <josep.sayol@gmail.com>'
+-
+    package_name: envy
+    package_version: v0.0.6
+    title: 'v0.0.6 of envy'
+    published: '2015-12-18T19:18:41+00:00'
+    id: 'urn:uuid:081260d1-54c8-503b-81ec-f1474eb14f08'
+    link: 'https://pub.dartlang.org/packages/envy'
+    author:
+        - 'Rob Bishop <@robbishop65@gmail.com>'
