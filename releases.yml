@@ -48242,3 +48242,12 @@
     link: 'https://pub.dartlang.org/packages/google_maps'
     author:
         - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+-
+    package_name: reddit
+    package_version: v0.3.3
+    title: 'v0.3.3 of reddit'
+    published: '2015-12-18T01:35:58+00:00'
+    id: 'urn:uuid:e45866eb-7d7e-5cb7-b940-7eff4debe6c6'
+    link: 'https://pub.dartlang.org/packages/reddit'
+    author:
+        - 'Steven Roose <stevenroose@gmail.com>'
