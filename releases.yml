@@ -48332,3 +48332,12 @@
     link: 'https://pub.dartlang.org/packages/fs_shim'
     author:
         - 'Tekartik <alex@tekartik.com>'
+-
+    package_name: mathjax
+    package_version: v0.0.0
+    title: 'v0.0.0 of mathjax'
+    published: '2015-12-19T23:03:29+00:00'
+    id: 'urn:uuid:864e624e-1a1b-5099-98f3-be6972dca8d5'
+    link: 'https://pub.dartlang.org/packages/mathjax'
+    author:
+        - 'Kasper Peulen <kasperpeulen@gmail.com>'
