@@ -48341,3 +48341,21 @@
     link: 'https://pub.dartlang.org/packages/mathjax'
     author:
         - 'Kasper Peulen <kasperpeulen@gmail.com>'
+-
+    package_name: dson
+    package_version: v0.3.0
+    title: 'v0.3.0 of dson'
+    published: '2015-12-21T01:56:49+00:00'
+    id: 'urn:uuid:8274797e-d2c1-542b-b129-83c5764720cd'
+    link: 'https://pub.dartlang.org/packages/dson'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: drails_commons
+    package_version: v0.0.6+2
+    title: 'v0.0.6+2 of drails_commons'
+    published: '2015-12-21T01:40:48+00:00'
+    id: 'urn:uuid:08e532cc-8193-5f6a-b450-daef2b878a39'
+    link: 'https://pub.dartlang.org/packages/drails_commons'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
