@@ -48359,3 +48359,12 @@
     link: 'https://pub.dartlang.org/packages/drails_commons'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: googleapis
+    package_version: v0.21.0
+    title: 'v0.21.0 of googleapis'
+    published: '2015-12-21T14:19:38+00:00'
+    id: 'urn:uuid:db31a653-51a6-5c9b-9098-54dd959e1e6f'
+    link: 'https://pub.dartlang.org/packages/googleapis'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
