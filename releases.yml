@@ -48377,3 +48377,12 @@
     link: 'https://pub.dartlang.org/packages/template_binding'
     author:
         - 'Polymer.dart Team <web-ui-dev@dartlang.org>'
+-
+    package_name: polymer_datepicker
+    package_version: v0.3.1+2
+    title: 'v0.3.1+2 of polymer_datepicker'
+    published: '2015-12-21T18:02:46+00:00'
+    id: 'urn:uuid:8f8c0fed-4c1f-5611-a667-157cdaa4c57c'
+    link: 'https://pub.dartlang.org/packages/polymer_datepicker'
+    author:
+        - 'Drafintech <info@drafintech.it>'
