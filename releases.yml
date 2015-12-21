@@ -48368,3 +48368,12 @@
     link: 'https://pub.dartlang.org/packages/googleapis'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: template_binding
+    package_version: v0.14.0+3
+    title: 'v0.14.0+3 of template_binding'
+    published: '2015-12-21T15:30:10+00:00'
+    id: 'urn:uuid:076942aa-d81a-5063-b801-02bedf83157e'
+    link: 'https://pub.dartlang.org/packages/template_binding'
+    author:
+        - 'Polymer.dart Team <web-ui-dev@dartlang.org>'
