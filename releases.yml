@@ -48407,3 +48407,12 @@
     link: 'https://pub.dartlang.org/packages/mathjax'
     author:
         - 'Kasper Peulen <kasperpeulen@gmail.com>'
+-
+    package_name: mathjax
+    package_version: v0.0.2
+    title: 'v0.0.2 of mathjax'
+    published: '2015-12-21T21:11:48+00:00'
+    id: 'urn:uuid:5ad4c952-f231-5ae8-ae3b-df6979ad3444'
+    link: 'https://pub.dartlang.org/packages/mathjax'
+    author:
+        - 'Kasper Peulen <kasperpeulen@gmail.com>'
