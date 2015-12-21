@@ -48386,3 +48386,24 @@
     link: 'https://pub.dartlang.org/packages/polymer_datepicker'
     author:
         - 'Drafintech <info@drafintech.it>'
+-
+    package_name: dslink
+    package_version: v0.5.1
+    title: 'v0.5.1 of dslink'
+    published: '2015-12-21T19:49:31+00:00'
+    id: 'urn:uuid:7097b9cc-0c24-527e-8dca-fc5b76451530'
+    link: 'https://pub.dartlang.org/packages/dslink'
+    author:
+        - 'Kenneth Endfinger <k.endfinger@dglogik.com>'
+        - 'Rick Zhou <z.zhou@dglogik.com>'
+        - 'Michael Bullington <m.bullington@dglogik.com>'
+        - 'Matthew Butler <m.butler@dglogik.com>'
+-
+    package_name: mathjax
+    package_version: v0.0.1
+    title: 'v0.0.1 of mathjax'
+    published: '2015-12-21T19:47:33+00:00'
+    id: 'urn:uuid:86565cf6-10ac-556d-b500-6cbccd384e99'
+    link: 'https://pub.dartlang.org/packages/mathjax'
+    author:
+        - 'Kasper Peulen <kasperpeulen@gmail.com>'
