@@ -48506,3 +48506,12 @@
     link: 'https://pub.dartlang.org/packages/zengen'
     author:
         - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+-
+    package_name: mathjax
+    package_version: v0.0.5
+    title: 'v0.0.5 of mathjax'
+    published: '2015-12-22T13:50:40+00:00'
+    id: 'urn:uuid:2e69fee0-f0d7-5b78-bd4c-2a936092e19c'
+    link: 'https://pub.dartlang.org/packages/mathjax'
+    author:
+        - 'Kasper Peulen <kasperpeulen@gmail.com>'
