@@ -48488,3 +48488,12 @@
     link: 'https://pub.dartlang.org/packages/lightning'
     author:
         - 'Accorto Lightning <lightning@accorto.com>'
+-
+    package_name: mathjax
+    package_version: v0.0.4
+    title: 'v0.0.4 of mathjax'
+    published: '2015-12-22T02:36:31+00:00'
+    id: 'urn:uuid:329e2413-31b4-5d36-bcdc-c35b8e0df75c'
+    link: 'https://pub.dartlang.org/packages/mathjax'
+    author:
+        - 'Kasper Peulen <kasperpeulen@gmail.com>'
