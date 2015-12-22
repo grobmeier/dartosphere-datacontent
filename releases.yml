@@ -48515,3 +48515,21 @@
     link: 'https://pub.dartlang.org/packages/mathjax'
     author:
         - 'Kasper Peulen <kasperpeulen@gmail.com>'
+-
+    package_name: reflectable
+    package_version: v0.5.1
+    title: 'v0.5.1 of reflectable'
+    published: '2015-12-22T15:18:31+00:00'
+    id: 'urn:uuid:0589a9cb-ab60-5dd2-8bc0-2df84c734718'
+    link: 'https://pub.dartlang.org/packages/reflectable'
+    author:
+        - 'The Dart Team <dart@google.com>'
+-
+    package_name: html_assembler
+    package_version: v0.0.1
+    title: 'v0.0.1 of html_assembler'
+    published: '2015-12-22T15:16:24+00:00'
+    id: 'urn:uuid:fe64c379-7b25-5403-9c3f-824f99b2e863'
+    link: 'https://pub.dartlang.org/packages/html_assembler'
+    author:
+        - 'Caleb Shingledecker <caleb@becomingmachinic.com>'
