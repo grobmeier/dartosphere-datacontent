@@ -48596,3 +48596,12 @@
     link: 'https://pub.dartlang.org/packages/elements'
     author:
         - 'Patrick Minogue <patrick.minogue@appfoundry.se>'
+-
+    package_name: polymer_app_router
+    package_version: v0.0.3
+    title: 'v0.0.3 of polymer_app_router'
+    published: '2015-12-23T14:22:59+00:00'
+    id: 'urn:uuid:33b2aa24-3933-5cda-8d60-40e670b09e1f'
+    link: 'https://pub.dartlang.org/packages/polymer_app_router'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
