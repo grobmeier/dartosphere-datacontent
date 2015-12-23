@@ -48605,3 +48605,13 @@
     link: 'https://pub.dartlang.org/packages/polymer_app_router'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: calzone
+    package_version: v0.1.3
+    title: 'v0.1.3 of calzone'
+    published: '2015-12-23T17:07:18+00:00'
+    id: 'urn:uuid:a6d341c9-64a5-5ae4-866b-38b6f83e0c97'
+    link: 'https://pub.dartlang.org/packages/calzone'
+    author:
+        - 'Michael Bullington <m.bullington@dglogik.com>'
+        - 'Kenneth Endfinger <k.endfinger@dglogik.com>'
