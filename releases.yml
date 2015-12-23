@@ -48578,3 +48578,12 @@
     link: 'https://pub.dartlang.org/packages/web_server'
     author:
         - 'Brandon White <jennexproject+webserver@gmail.com>'
+-
+    package_name: html_assembler
+    package_version: v0.0.2
+    title: 'v0.0.2 of html_assembler'
+    published: '2015-12-23T05:58:23+00:00'
+    id: 'urn:uuid:84f56c5b-22de-567e-bb65-7e686a262337'
+    link: 'https://pub.dartlang.org/packages/html_assembler'
+    author:
+        - 'Caleb Shingledecker <caleb@becomingmachinic.com>'
