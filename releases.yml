@@ -48587,3 +48587,12 @@
     link: 'https://pub.dartlang.org/packages/html_assembler'
     author:
         - 'Caleb Shingledecker <caleb@becomingmachinic.com>'
+-
+    package_name: elements
+    package_version: v0.9.63
+    title: 'v0.9.63 of elements'
+    published: '2015-12-23T12:59:15+00:00'
+    id: 'urn:uuid:8a044873-4339-53a4-960b-f67700d67629'
+    link: 'https://pub.dartlang.org/packages/elements'
+    author:
+        - 'Patrick Minogue <patrick.minogue@appfoundry.se>'
