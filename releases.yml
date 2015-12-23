@@ -48615,3 +48615,12 @@
     author:
         - 'Michael Bullington <m.bullington@dglogik.com>'
         - 'Kenneth Endfinger <k.endfinger@dglogik.com>'
+-
+    package_name: polymer_app
+    package_version: v0.0.3
+    title: 'v0.0.3 of polymer_app'
+    published: '2015-12-23T18:33:50+00:00'
+    id: 'urn:uuid:e25e2543-0984-55bd-a0ff-71bdad7bb3ae'
+    link: 'https://pub.dartlang.org/packages/polymer_app'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
