@@ -48560,3 +48560,21 @@
     link: 'https://pub.dartlang.org/packages/polymer_app_router'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: polymer_datepicker
+    package_version: v0.4.0
+    title: 'v0.4.0 of polymer_datepicker'
+    published: '2015-12-23T00:59:21+00:00'
+    id: 'urn:uuid:c026519a-c7ac-5c6c-bf98-931386cbb638'
+    link: 'https://pub.dartlang.org/packages/polymer_datepicker'
+    author:
+        - 'Drafintech <info@drafintech.it>'
+-
+    package_name: web_server
+    package_version: v2.0.0+1
+    title: 'v2.0.0+1 of web_server'
+    published: '2015-12-23T00:18:13+00:00'
+    id: 'urn:uuid:4fceea8b-b72b-556c-a3f6-61f9cdc9ff3e'
+    link: 'https://pub.dartlang.org/packages/web_server'
+    author:
+        - 'Brandon White <jennexproject+webserver@gmail.com>'
