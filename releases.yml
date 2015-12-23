@@ -48624,3 +48624,21 @@
     link: 'https://pub.dartlang.org/packages/polymer_app'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: polymer_include_element
+    package_version: v0.0.7
+    title: 'v0.0.7 of polymer_include_element'
+    published: '2015-12-23T21:26:21+00:00'
+    id: 'urn:uuid:ed60f060-f601-56f1-9cb8-09d89aab98bc'
+    link: 'https://pub.dartlang.org/packages/polymer_include_element'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: polymer_app
+    package_version: v0.0.4
+    title: 'v0.0.4 of polymer_app'
+    published: '2015-12-23T21:04:22+00:00'
+    id: 'urn:uuid:5c3570c7-37d8-5285-8586-430fc0a3fda9'
+    link: 'https://pub.dartlang.org/packages/polymer_app'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
