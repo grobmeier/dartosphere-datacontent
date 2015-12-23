@@ -48660,3 +48660,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_app_router'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: polymer_app
+    package_version: v0.0.5
+    title: 'v0.0.5 of polymer_app'
+    published: '2015-12-23T23:30:51+00:00'
+    id: 'urn:uuid:2ab4660a-07c6-5389-a82a-4fbc3308fec1'
+    link: 'https://pub.dartlang.org/packages/polymer_app'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
