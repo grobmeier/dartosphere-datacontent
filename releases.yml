@@ -48678,3 +48678,13 @@
     link: 'https://pub.dartlang.org/packages/polymer_datepicker'
     author:
         - 'Drafintech <info@drafintech.it>'
+-
+    package_name: calzone
+    package_version: v0.1.4
+    title: 'v0.1.4 of calzone'
+    published: '2015-12-24T05:29:38+00:00'
+    id: 'urn:uuid:4ba03495-0733-5614-aaba-5208385c2cd5'
+    link: 'https://pub.dartlang.org/packages/calzone'
+    author:
+        - 'Michael Bullington <m.bullington@dglogik.com>'
+        - 'Kenneth Endfinger <k.endfinger@dglogik.com>'
