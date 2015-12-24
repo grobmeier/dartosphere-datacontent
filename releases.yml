@@ -48688,3 +48688,12 @@
     author:
         - 'Michael Bullington <m.bullington@dglogik.com>'
         - 'Kenneth Endfinger <k.endfinger@dglogik.com>'
+-
+    package_name: access
+    package_version: v0.7.0
+    title: 'v0.7.0 of access'
+    published: '2015-12-24T10:39:30+00:00'
+    id: 'urn:uuid:5f6a639a-1425-579b-a1e3-3bd0976015da'
+    link: 'https://pub.dartlang.org/packages/access'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
