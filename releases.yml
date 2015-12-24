@@ -48669,3 +48669,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_app'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: polymer_datepicker
+    package_version: v0.4.0+2
+    title: 'v0.4.0+2 of polymer_datepicker'
+    published: '2015-12-24T00:25:47+00:00'
+    id: 'urn:uuid:38307a50-eb92-5271-bbc4-1210ef6648fe'
+    link: 'https://pub.dartlang.org/packages/polymer_datepicker'
+    author:
+        - 'Drafintech <info@drafintech.it>'
