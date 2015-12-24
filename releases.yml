@@ -48706,3 +48706,13 @@
     link: 'https://pub.dartlang.org/packages/polymer_app'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: calzone
+    package_version: v0.1.5
+    title: 'v0.1.5 of calzone'
+    published: '2015-12-24T21:11:47+00:00'
+    id: 'urn:uuid:27ba3f6c-4b05-540b-89de-287928185fe7'
+    link: 'https://pub.dartlang.org/packages/calzone'
+    author:
+        - 'Michael Bullington <m.bullington@dglogik.com>'
+        - 'Kenneth Endfinger <k.endfinger@dglogik.com>'
