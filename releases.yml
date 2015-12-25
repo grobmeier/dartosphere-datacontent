@@ -48734,3 +48734,12 @@
     link: 'https://pub.dartlang.org/packages/rpi_gpio'
     author:
         - 'Dan Rubel <danrubel@google.com>'
+-
+    package_name: access
+    package_version: v0.7.2
+    title: 'v0.7.2 of access'
+    published: '2015-12-25T04:22:24+00:00'
+    id: 'urn:uuid:ec7583ec-79c9-51ad-b7e6-362259451eb6'
+    link: 'https://pub.dartlang.org/packages/access'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
