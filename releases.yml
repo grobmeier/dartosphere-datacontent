@@ -48752,3 +48752,12 @@
     link: 'https://pub.dartlang.org/packages/access'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: polymer_app
+    package_version: v0.1.0
+    title: 'v0.1.0 of polymer_app'
+    published: '2015-12-25T17:56:31+00:00'
+    id: 'urn:uuid:cafa1e9a-41ae-5088-b18c-d086d62948be'
+    link: 'https://pub.dartlang.org/packages/polymer_app'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
