@@ -48725,3 +48725,12 @@
     link: 'https://pub.dartlang.org/packages/access'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: rpi_gpio
+    package_version: v0.2.2
+    title: 'v0.2.2 of rpi_gpio'
+    published: '2015-12-25T03:19:23+00:00'
+    id: 'urn:uuid:f2b275aa-dba6-5495-b33c-8d266d150d2f'
+    link: 'https://pub.dartlang.org/packages/rpi_gpio'
+    author:
+        - 'Dan Rubel <danrubel@google.com>'
