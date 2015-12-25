@@ -48770,3 +48770,12 @@
     link: 'https://pub.dartlang.org/packages/molviewfmt'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: molviewfmt
+    package_version: v0.2.2
+    title: 'v0.2.2 of molviewfmt'
+    published: '2015-12-25T19:01:57+00:00'
+    id: 'urn:uuid:c832d5d3-a421-5441-bc3b-d3354018b588'
+    link: 'https://pub.dartlang.org/packages/molviewfmt'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
