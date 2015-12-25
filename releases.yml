@@ -48761,3 +48761,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_app'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: molviewfmt
+    package_version: v0.2.1
+    title: 'v0.2.1 of molviewfmt'
+    published: '2015-12-25T18:43:50+00:00'
+    id: 'urn:uuid:69551f6a-5e4f-587a-97e8-2c4ea2e9df58'
+    link: 'https://pub.dartlang.org/packages/molviewfmt'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
