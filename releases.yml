@@ -48824,3 +48824,12 @@
     link: 'https://pub.dartlang.org/packages/ng2_strap'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: polymer_app
+    package_version: v0.1.1
+    title: 'v0.1.1 of polymer_app'
+    published: '2015-12-28T16:10:36+00:00'
+    id: 'urn:uuid:a0470880-f3b5-5525-a66b-139d66a56a8a'
+    link: 'https://pub.dartlang.org/packages/polymer_app'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
