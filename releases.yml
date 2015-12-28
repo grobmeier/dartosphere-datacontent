@@ -48815,3 +48815,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_include_element'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: ng2_strap
+    package_version: v0.0.2
+    title: 'v0.0.2 of ng2_strap'
+    published: '2015-12-28T05:33:55+00:00'
+    id: 'urn:uuid:ae4105af-b9f1-5d3e-bc97-ce373062075c'
+    link: 'https://pub.dartlang.org/packages/ng2_strap'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
