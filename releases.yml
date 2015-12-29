@@ -48887,3 +48887,12 @@
     link: 'https://pub.dartlang.org/packages/elements'
     author:
         - 'Patrick Minogue <patrick.minogue@appfoundry.se>'
+-
+    package_name: vector_math
+    package_version: v1.4.4
+    title: 'v1.4.4 of vector_math'
+    published: '2015-12-29T23:02:15+00:00'
+    id: 'urn:uuid:8a76d333-fd3e-5952-92ff-580cb3d6aa27'
+    link: 'https://pub.dartlang.org/packages/vector_math'
+    author:
+        - 'John McCutchan <john@johnmccutchan.com>'
