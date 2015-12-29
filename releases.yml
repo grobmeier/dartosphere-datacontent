@@ -48842,3 +48842,12 @@
     link: 'https://pub.dartlang.org/packages/quark'
     author:
         - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: polymer_app_router
+    package_version: v0.0.5
+    title: 'v0.0.5 of polymer_app_router'
+    published: '2015-12-29T15:55:23+00:00'
+    id: 'urn:uuid:6c15aff5-ebd4-57fa-8ad4-3489f95dc63c'
+    link: 'https://pub.dartlang.org/packages/polymer_app_router'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
