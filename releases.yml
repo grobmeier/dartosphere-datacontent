@@ -48932,3 +48932,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_app'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: elements
+    package_version: v0.9.67
+    title: 'v0.9.67 of elements'
+    published: '2015-12-30T14:18:14+00:00'
+    id: 'urn:uuid:a4723967-8507-5954-9425-f5ec78b97556'
+    link: 'https://pub.dartlang.org/packages/elements'
+    author:
+        - 'Patrick Minogue <patrick.minogue@appfoundry.se>'
