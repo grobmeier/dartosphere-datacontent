@@ -48905,3 +48905,12 @@
     link: 'https://pub.dartlang.org/packages/source_gen'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: math_expressions
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of math_expressions'
+    published: '2015-12-30T06:21:45+00:00'
+    id: 'urn:uuid:9cd9a854-6912-5e17-a2f0-7d0217a128ff'
+    link: 'https://pub.dartlang.org/packages/math_expressions'
+    author:
+        - 'Frederik Leonhardt <frederik.leonhardt@gmail.com>'
