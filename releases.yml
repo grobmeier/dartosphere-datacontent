@@ -48941,3 +48941,13 @@
     link: 'https://pub.dartlang.org/packages/elements'
     author:
         - 'Patrick Minogue <patrick.minogue@appfoundry.se>'
+-
+    package_name: stagehand
+    package_version: v0.2.5+4
+    title: 'v0.2.5+4 of stagehand'
+    published: '2015-12-30T21:03:44+00:00'
+    id: 'urn:uuid:ce74ef95-07c9-5fdb-af15-b7a4fd388d18'
+    link: 'https://pub.dartlang.org/packages/stagehand'
+    author:
+        - 'Seth Ladd <sethladd@google.com>'
+        - 'Devon Carew <devoncarew@google.com>'
