@@ -48914,3 +48914,21 @@
     link: 'https://pub.dartlang.org/packages/math_expressions'
     author:
         - 'Frederik Leonhardt <frederik.leonhardt@gmail.com>'
+-
+    package_name: quark
+    package_version: v0.2.1
+    title: 'v0.2.1 of quark'
+    published: '2015-12-30T13:58:29+00:00'
+    id: 'urn:uuid:9ceea729-3232-51b5-9c18-cbcf55280805'
+    link: 'https://pub.dartlang.org/packages/quark'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: polymer_app
+    package_version: v0.2.0
+    title: 'v0.2.0 of polymer_app'
+    published: '2015-12-30T13:00:43+00:00'
+    id: 'urn:uuid:bb3c93a1-446a-5308-92ad-990488365e0f'
+    link: 'https://pub.dartlang.org/packages/polymer_app'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
