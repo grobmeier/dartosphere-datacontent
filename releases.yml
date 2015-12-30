@@ -48896,3 +48896,12 @@
     link: 'https://pub.dartlang.org/packages/vector_math'
     author:
         - 'John McCutchan <john@johnmccutchan.com>'
+-
+    package_name: source_gen
+    package_version: v0.4.8
+    title: 'v0.4.8 of source_gen'
+    published: '2015-12-30T00:07:23+00:00'
+    id: 'urn:uuid:3e803930-c79f-54da-942b-26af3d118cc6'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
