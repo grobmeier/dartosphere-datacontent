@@ -48960,3 +48960,12 @@
     link: 'https://pub.dartlang.org/packages/access'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: crossdart
+    package_version: v0.1.4
+    title: 'v0.1.4 of crossdart'
+    published: '2015-12-31T03:26:58+00:00'
+    id: 'urn:uuid:cdec6d56-f708-5f93-bfbd-3e378d62063c'
+    link: 'https://pub.dartlang.org/packages/crossdart'
+    author:
+        - 'Anton Astashov <anton.astashov@gmail.com>'
