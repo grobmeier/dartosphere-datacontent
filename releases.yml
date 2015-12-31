@@ -49032,3 +49032,24 @@
     link: 'https://pub.dartlang.org/packages/drails_commons'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: dslink
+    package_version: v0.5.2
+    title: 'v0.5.2 of dslink'
+    published: '2015-12-31T22:44:39+00:00'
+    id: 'urn:uuid:cfefb418-635b-529c-9c23-83e475c76fda'
+    link: 'https://pub.dartlang.org/packages/dslink'
+    author:
+        - 'Kenneth Endfinger <k.endfinger@dglogik.com>'
+        - 'Rick Zhou <z.zhou@dglogik.com>'
+        - 'Michael Bullington <m.bullington@dglogik.com>'
+        - 'Matthew Butler <m.butler@dglogik.com>'
+-
+    package_name: drails_di
+    package_version: v0.0.7
+    title: 'v0.0.7 of drails_di'
+    published: '2015-12-31T22:04:24+00:00'
+    id: 'urn:uuid:a76e9993-cfa2-5a64-b540-3b632e7f9d0c'
+    link: 'https://pub.dartlang.org/packages/drails_di'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
