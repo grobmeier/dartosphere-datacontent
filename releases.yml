@@ -49014,3 +49014,21 @@
     link: 'https://pub.dartlang.org/packages/molviewfmt'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: dson
+    package_version: v0.3.0+1
+    title: 'v0.3.0+1 of dson'
+    published: '2015-12-31T21:33:40+00:00'
+    id: 'urn:uuid:a9b7d1e7-0c41-505f-a98c-a9d106f8b4f4'
+    link: 'https://pub.dartlang.org/packages/dson'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: drails_commons
+    package_version: v0.0.6+3
+    title: 'v0.0.6+3 of drails_commons'
+    published: '2015-12-31T21:00:31+00:00'
+    id: 'urn:uuid:8c75574a-6b8f-5611-9083-ddea0b96c5f0'
+    link: 'https://pub.dartlang.org/packages/drails_commons'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
