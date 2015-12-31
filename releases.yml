@@ -48951,3 +48951,12 @@
     author:
         - 'Seth Ladd <sethladd@google.com>'
         - 'Devon Carew <devoncarew@google.com>'
+-
+    package_name: access
+    package_version: v0.7.3
+    title: 'v0.7.3 of access'
+    published: '2015-12-31T01:46:28+00:00'
+    id: 'urn:uuid:43181905-40a0-5720-a78f-f8fcf4b637e0'
+    link: 'https://pub.dartlang.org/packages/access'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
