@@ -49005,3 +49005,12 @@
     link: 'https://pub.dartlang.org/packages/elements'
     author:
         - 'Patrick Minogue <patrick.minogue@appfoundry.se>'
+-
+    package_name: molviewfmt
+    package_version: v0.2.5
+    title: 'v0.2.5 of molviewfmt'
+    published: '2015-12-31T16:23:36+00:00'
+    id: 'urn:uuid:d4991f3c-8ea6-5b10-a709-69d4f90f4494'
+    link: 'https://pub.dartlang.org/packages/molviewfmt'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
