@@ -48978,3 +48978,21 @@
     link: 'https://pub.dartlang.org/packages/tldr'
     author:
         - 'Harry Terkelsen <harry@terkelsen.io>'
+-
+    package_name: built_value_generator
+    package_version: v0.0.5
+    title: 'v0.0.5 of built_value_generator'
+    published: '2015-12-31T11:14:23+00:00'
+    id: 'urn:uuid:18b69d54-8ee8-58a9-b3ed-2c1e53bb8e9b'
+    link: 'https://pub.dartlang.org/packages/built_value_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value
+    package_version: v0.0.5
+    title: 'v0.0.5 of built_value'
+    published: '2015-12-31T11:13:56+00:00'
+    id: 'urn:uuid:b9d883d3-8348-567f-bbab-697c4bf1d861'
+    link: 'https://pub.dartlang.org/packages/built_value'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
