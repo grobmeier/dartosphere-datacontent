@@ -49053,3 +49053,12 @@
     link: 'https://pub.dartlang.org/packages/drails_di'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: compiler_unsupported
+    package_version: v1.13.1
+    title: 'v1.13.1 of compiler_unsupported'
+    published: '2016-01-01T09:41:11+00:00'
+    id: 'urn:uuid:198196cb-46cc-5c12-af9f-eee2467bfe50'
+    link: 'https://pub.dartlang.org/packages/compiler_unsupported'
+    author:
+        - 'Dart2js Team <compiler-dev@dartlang.org>'
