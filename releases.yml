@@ -49080,3 +49080,12 @@
     link: 'https://pub.dartlang.org/packages/molviewfmt'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: ebisu
+    package_version: v0.6.12
+    title: 'v0.6.12 of ebisu'
+    published: '2016-01-01T21:25:31+00:00'
+    id: 'urn:uuid:a5623362-d41a-5f1d-8ddb-18a9163c9344'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
