@@ -49062,3 +49062,21 @@
     link: 'https://pub.dartlang.org/packages/compiler_unsupported'
     author:
         - 'Dart2js Team <compiler-dev@dartlang.org>'
+-
+    package_name: md_proc
+    package_version: v0.7.5
+    title: 'v0.7.5 of md_proc'
+    published: '2016-01-01T15:19:34+00:00'
+    id: 'urn:uuid:635d1f70-0e9b-5bc2-9e62-354e5b5b9926'
+    link: 'https://pub.dartlang.org/packages/md_proc'
+    author:
+        - 'Maxim Dikun <dikmax@gmail.com>'
+-
+    package_name: molviewfmt
+    package_version: v0.2.6
+    title: 'v0.2.6 of molviewfmt'
+    published: '2016-01-01T15:06:34+00:00'
+    id: 'urn:uuid:5565bbdd-147f-5ec9-a087-2b2d1fbb4ad8'
+    link: 'https://pub.dartlang.org/packages/molviewfmt'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
