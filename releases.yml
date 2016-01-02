@@ -49089,3 +49089,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu'
     author:
         - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: ddns_client
+    package_version: v0.8.2
+    title: 'v0.8.2 of ddns_client'
+    published: '2016-01-02T01:53:50+00:00'
+    id: 'urn:uuid:ec371794-23ee-50cc-bca2-92142b0f2b9d'
+    link: 'https://pub.dartlang.org/packages/ddns_client'
+    author:
+        - 'Dan Rubel <danrubel@google.com>'
