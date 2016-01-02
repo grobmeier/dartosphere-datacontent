@@ -49116,3 +49116,12 @@
     link: 'https://pub.dartlang.org/packages/quark'
     author:
         - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: ebisu_cpp
+    package_version: v0.3.11
+    title: 'v0.3.11 of ebisu_cpp'
+    published: '2016-01-02T21:28:42+00:00'
+    id: 'urn:uuid:ba67931b-4097-5599-91c1-976651b90cd8'
+    link: 'https://pub.dartlang.org/packages/ebisu_cpp'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
