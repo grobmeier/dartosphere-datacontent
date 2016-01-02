@@ -49107,3 +49107,12 @@
     link: 'https://pub.dartlang.org/packages/selectize'
     author:
         - 'CJKAO <kaopeter@gmail.com>'
+-
+    package_name: quark
+    package_version: v0.3.0
+    title: 'v0.3.0 of quark'
+    published: '2016-01-02T17:16:45+00:00'
+    id: 'urn:uuid:e026b232-9c35-58bb-bb06-fae9068f6e7c'
+    link: 'https://pub.dartlang.org/packages/quark'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
