@@ -49098,3 +49098,12 @@
     link: 'https://pub.dartlang.org/packages/ddns_client'
     author:
         - 'Dan Rubel <danrubel@google.com>'
+-
+    package_name: selectize
+    package_version: v0.1.0
+    title: 'v0.1.0 of selectize'
+    published: '2016-01-02T16:57:40+00:00'
+    id: 'urn:uuid:b339b69e-ce1c-5ff0-9ff1-8a106a0fadc4'
+    link: 'https://pub.dartlang.org/packages/selectize'
+    author:
+        - 'CJKAO <kaopeter@gmail.com>'
