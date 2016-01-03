@@ -49161,3 +49161,12 @@
     link: 'https://pub.dartlang.org/packages/angular2_rbi'
     author:
         - 'Jim Washington <washington.jim@gmail.com>'
+-
+    package_name: angular2_rbi
+    package_version: v0.0.1+1
+    title: 'v0.0.1+1 of angular2_rbi'
+    published: '2016-01-03T15:54:16+00:00'
+    id: 'urn:uuid:51b507af-85d9-5856-8be4-ac3515ae1e2f'
+    link: 'https://pub.dartlang.org/packages/angular2_rbi'
+    author:
+        - 'Jim Washington <washington.jim@gmail.com>'
