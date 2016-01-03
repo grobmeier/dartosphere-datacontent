@@ -49152,3 +49152,12 @@
     link: 'https://pub.dartlang.org/packages/selectize'
     author:
         - 'CJKAO <kaopeter@gmail.com>'
+-
+    package_name: angular2_rbi
+    package_version: v0.0.1
+    title: 'v0.0.1 of angular2_rbi'
+    published: '2016-01-03T14:14:14+00:00'
+    id: 'urn:uuid:f4e8a5ca-d05c-5f99-8a78-66586300ad6a'
+    link: 'https://pub.dartlang.org/packages/angular2_rbi'
+    author:
+        - 'Jim Washington <washington.jim@gmail.com>'
