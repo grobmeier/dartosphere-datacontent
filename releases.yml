@@ -49188,3 +49188,12 @@
     link: 'https://pub.dartlang.org/packages/verbose_regexp'
     author:
         - 'Philipp Schiffmann <philippschiffmann93@gmail.com>'
+-
+    package_name: polymer_app
+    package_version: v0.3.0
+    title: 'v0.3.0 of polymer_app'
+    published: '2016-01-03T23:22:30+00:00'
+    id: 'urn:uuid:2fb6941b-f500-5c71-ad9d-11a3a34cdd5e'
+    link: 'https://pub.dartlang.org/packages/polymer_app'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
