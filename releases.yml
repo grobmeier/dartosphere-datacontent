@@ -49170,3 +49170,21 @@
     link: 'https://pub.dartlang.org/packages/angular2_rbi'
     author:
         - 'Jim Washington <washington.jim@gmail.com>'
+-
+    package_name: ng2_autogrow_textarea
+    package_version: v0.0.1+1
+    title: 'v0.0.1+1 of ng2_autogrow_textarea'
+    published: '2016-01-03T17:45:07+00:00'
+    id: 'urn:uuid:13b88ada-5382-5736-a463-c29fb4974ff9'
+    link: 'https://pub.dartlang.org/packages/ng2_autogrow_textarea'
+    author:
+        - 'Kasper Peulen <kasperpeulen@gmail.com>'
+-
+    package_name: verbose_regexp
+    package_version: v0.1.0
+    title: 'v0.1.0 of verbose_regexp'
+    published: '2016-01-03T17:42:55+00:00'
+    id: 'urn:uuid:84fb5838-9293-59e5-b0ec-fb341ced4005'
+    link: 'https://pub.dartlang.org/packages/verbose_regexp'
+    author:
+        - 'Philipp Schiffmann <philippschiffmann93@gmail.com>'
