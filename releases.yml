@@ -49143,3 +49143,12 @@
     link: 'https://pub.dartlang.org/packages/spreadsheet_decoder'
     author:
         - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+-
+    package_name: selectize
+    package_version: v0.1.1
+    title: 'v0.1.1 of selectize'
+    published: '2016-01-03T04:06:23+00:00'
+    id: 'urn:uuid:28971cb3-8b99-5aef-bb19-c67a683dabb4'
+    link: 'https://pub.dartlang.org/packages/selectize'
+    author:
+        - 'CJKAO <kaopeter@gmail.com>'
