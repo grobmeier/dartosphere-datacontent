@@ -49325,3 +49325,39 @@
     link: 'https://pub.dartlang.org/packages/mojo'
     author:
         - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: vellum
+    package_version: v0.0.1
+    title: 'v0.0.1 of vellum'
+    published: '2016-01-04T23:47:02+00:00'
+    id: 'urn:uuid:db38fbd2-09ae-51ef-8947-21eef2223039'
+    link: 'https://pub.dartlang.org/packages/vellum'
+    author:
+        - 'R. Matt Barnett'
+-
+    package_name: sky_services
+    package_version: v0.0.75
+    title: 'v0.0.75 of sky_services'
+    published: '2016-01-04T23:14:53+00:00'
+    id: 'urn:uuid:655b4ee3-d97a-5227-8897-ef9dfdcce063'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.75
+    title: 'v0.0.75 of sky_engine'
+    published: '2016-01-04T23:14:50+00:00'
+    id: 'urn:uuid:6c7f6fb6-ab20-5027-a50d-7bba1d09341a'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: polymer_app
+    package_version: v0.4.0
+    title: 'v0.4.0 of polymer_app'
+    published: '2016-01-04T23:10:04+00:00'
+    id: 'urn:uuid:4b540b80-9b3b-5588-8c9e-d6b103a8785a'
+    link: 'https://pub.dartlang.org/packages/polymer_app'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
