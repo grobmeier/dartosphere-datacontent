@@ -49251,3 +49251,14 @@
     link: 'https://pub.dartlang.org/packages/pub_serve_rewrites'
     author:
         - 'Adao Junior <itsjunnior@gmail.com>'
+-
+    package_name: build
+    package_version: v0.0.1+1
+    title: 'v0.0.1+1 of build'
+    published: '2016-01-04T21:44:58+00:00'
+    id: 'urn:uuid:a0906bac-c563-508d-8223-91dcd3342ff8'
+    link: 'https://pub.dartlang.org/packages/build'
+    author:
+        - 'Tim Blasi <tjblasi@google.com>'
+        - 'Jacob Macdonald <jakemac@google.com>'
+        - 'Kevin Moore <kevmoo@google.com>'
