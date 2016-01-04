@@ -49206,3 +49206,12 @@
     link: 'https://pub.dartlang.org/packages/zhihu_daily'
     author:
         - 'Jaron Tai <jaroncn@gmail.com>'
+-
+    package_name: polymer_app
+    package_version: v0.3.0+1
+    title: 'v0.3.0+1 of polymer_app'
+    published: '2016-01-04T10:59:56+00:00'
+    id: 'urn:uuid:8af4b565-438a-5403-8da7-aa822325d5c5'
+    link: 'https://pub.dartlang.org/packages/polymer_app'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
