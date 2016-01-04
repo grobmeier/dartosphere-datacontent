@@ -49224,3 +49224,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_app'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: bwu_utils
+    package_version: v0.1.1
+    title: 'v0.1.1 of bwu_utils'
+    published: '2016-01-04T14:56:25+00:00'
+    id: 'urn:uuid:32e65c02-4377-5ab5-b7ad-cf72ff64b6dd'
+    link: 'https://pub.dartlang.org/packages/bwu_utils'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
