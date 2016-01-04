@@ -49215,3 +49215,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_app'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: polymer_app
+    package_version: v0.3.1
+    title: 'v0.3.1 of polymer_app'
+    published: '2016-01-04T13:41:36+00:00'
+    id: 'urn:uuid:924f168f-f084-5293-b9e7-ebb3a015a33f'
+    link: 'https://pub.dartlang.org/packages/polymer_app'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
