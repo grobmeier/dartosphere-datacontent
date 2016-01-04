@@ -49197,3 +49197,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_app'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: zhihu_daily
+    package_version: v0.3.0
+    title: 'v0.3.0 of zhihu_daily'
+    published: '2016-01-04T06:32:19+00:00'
+    id: 'urn:uuid:cca9ea22-0fb0-545e-aeae-a4b6472315b6'
+    link: 'https://pub.dartlang.org/packages/zhihu_daily'
+    author:
+        - 'Jaron Tai <jaroncn@gmail.com>'
