@@ -49397,3 +49397,21 @@
     link: 'https://pub.dartlang.org/packages/polymer_app'
     author:
         - 'Walletek <hadrien.lejard@gmail.com>'
+-
+    package_name: polymer_interop
+    package_version: v0.1.2
+    title: 'v0.1.2 of polymer_interop'
+    published: '2016-01-05T16:56:07+00:00'
+    id: 'urn:uuid:679152c0-ccfd-5232-a277-bb9bf5dfde57'
+    link: 'https://pub.dartlang.org/packages/polymer_interop'
+    author:
+        - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: polymer_app
+    package_version: v0.4.1+2
+    title: 'v0.4.1+2 of polymer_app'
+    published: '2016-01-05T16:45:16+00:00'
+    id: 'urn:uuid:ba1db2d1-55d1-55af-a153-2590ee536472'
+    link: 'https://pub.dartlang.org/packages/polymer_app'
+    author:
+        - 'Walletek <hadrien.lejard@gmail.com>'
