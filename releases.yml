@@ -49415,3 +49415,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_app'
     author:
         - 'Walletek <hadrien.lejard@gmail.com>'
+-
+    package_name: scissors
+    package_version: v0.2.2
+    title: 'v0.2.2 of scissors'
+    published: '2016-01-05T17:50:43+00:00'
+    id: 'urn:uuid:a89e07d1-fb55-5003-b837-3bd16da3760a'
+    link: 'https://pub.dartlang.org/packages/scissors'
+    author:
+        - 'Olivier Chafik <ochafik@google.com>'
