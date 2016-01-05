@@ -49454,3 +49454,12 @@
     link: 'https://pub.dartlang.org/packages/ng_mediaquery'
     author:
         - 'Adao Junior <itsjunnior@gmail.com>'
+-
+    package_name: analyzer
+    package_version: v0.27.1+2
+    title: 'v0.27.1+2 of analyzer'
+    published: '2016-01-05T22:25:01+00:00'
+    id: 'urn:uuid:1bbc2e09-70b9-5556-97c3-9717b5989b75'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
