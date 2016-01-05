@@ -49424,3 +49424,15 @@
     link: 'https://pub.dartlang.org/packages/scissors'
     author:
         - 'Olivier Chafik <ochafik@google.com>'
+-
+    package_name: state_machine
+    package_version: v2.0.0
+    title: 'v2.0.0 of state_machine'
+    published: '2016-01-05T18:53:58+00:00'
+    id: 'urn:uuid:dab1e57c-d96c-5563-8fa0-eaa4faf8fb30'
+    link: 'https://pub.dartlang.org/packages/state_machine'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
