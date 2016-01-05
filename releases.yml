@@ -49436,3 +49436,21 @@
         - 'Evan Weible <evan.weible@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: isolate_cluster
+    package_version: v0.4.0
+    title: 'v0.4.0 of isolate_cluster'
+    published: '2016-01-05T19:52:25+00:00'
+    id: 'urn:uuid:5c4882b7-d96b-50de-b3bd-e1d61421c74b'
+    link: 'https://pub.dartlang.org/packages/isolate_cluster'
+    author:
+        - 'Oliver Damm <oliver.damm@gmx.de>'
+-
+    package_name: ng_mediaquery
+    package_version: v0.1.2
+    title: 'v0.1.2 of ng_mediaquery'
+    published: '2016-01-05T19:46:19+00:00'
+    id: 'urn:uuid:3f0a7c11-8ea4-5cc1-841a-b74027c37050'
+    link: 'https://pub.dartlang.org/packages/ng_mediaquery'
+    author:
+        - 'Adao Junior <itsjunnior@gmail.com>'
