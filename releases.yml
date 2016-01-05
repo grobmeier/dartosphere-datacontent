@@ -49379,3 +49379,21 @@
     link: 'https://pub.dartlang.org/packages/polymer_include_element'
     author:
         - 'Walletek <hadrien.lejard@gmail.com>'
+-
+    package_name: ng_mediaquery
+    package_version: v0.1.0
+    title: 'v0.1.0 of ng_mediaquery'
+    published: '2016-01-05T15:49:01+00:00'
+    id: 'urn:uuid:f714e043-e5df-539a-a86d-de07d99c8209'
+    link: 'https://pub.dartlang.org/packages/ng_mediaquery'
+    author:
+        - 'Adao Junior <itsjunnior@gmail.com>'
+-
+    package_name: polymer_app
+    package_version: v0.4.1
+    title: 'v0.4.1 of polymer_app'
+    published: '2016-01-05T15:11:55+00:00'
+    id: 'urn:uuid:6f0a21a9-b6fd-5781-9b76-a1be538113a0'
+    link: 'https://pub.dartlang.org/packages/polymer_app'
+    author:
+        - 'Walletek <hadrien.lejard@gmail.com>'
