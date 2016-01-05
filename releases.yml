@@ -49361,3 +49361,21 @@
     link: 'https://pub.dartlang.org/packages/polymer_app'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: polymer_app_router
+    package_version: v0.0.6
+    title: 'v0.0.6 of polymer_app_router'
+    published: '2016-01-05T14:51:49+00:00'
+    id: 'urn:uuid:e804ad58-2846-5b78-b760-3c231f06cc18'
+    link: 'https://pub.dartlang.org/packages/polymer_app_router'
+    author:
+        - 'Walletek <hadrien.lejard@gmail.com>'
+-
+    package_name: polymer_include_element
+    package_version: v0.0.9
+    title: 'v0.0.9 of polymer_include_element'
+    published: '2016-01-05T14:49:00+00:00'
+    id: 'urn:uuid:cc722b28-f4e5-53b9-9120-97a9be7976bb'
+    link: 'https://pub.dartlang.org/packages/polymer_include_element'
+    author:
+        - 'Walletek <hadrien.lejard@gmail.com>'
