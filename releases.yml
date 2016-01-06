@@ -49562,3 +49562,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_route'
     author:
         - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: scissors
+    package_version: v0.2.2+1
+    title: 'v0.2.2+1 of scissors'
+    published: '2016-01-06T12:57:41+00:00'
+    id: 'urn:uuid:32102078-08cd-54c3-9cf3-41a23f7e0d9e'
+    link: 'https://pub.dartlang.org/packages/scissors'
+    author:
+        - 'Olivier Chafik <ochafik@google.com>'
