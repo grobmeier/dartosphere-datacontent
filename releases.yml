@@ -49639,3 +49639,12 @@
     link: 'https://pub.dartlang.org/packages/omnibus'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: polymer_app
+    package_version: v0.5.1
+    title: 'v0.5.1 of polymer_app'
+    published: '2016-01-06T23:06:42+00:00'
+    id: 'urn:uuid:b104396e-cb19-53ce-a4d1-e9c79adc46ff'
+    link: 'https://pub.dartlang.org/packages/polymer_app'
+    author:
+        - 'Walletek <hadrien.lejard@gmail.com>'
