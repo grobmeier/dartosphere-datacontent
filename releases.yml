@@ -49463,3 +49463,12 @@
     link: 'https://pub.dartlang.org/packages/analyzer'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: vellum
+    package_version: v0.0.2
+    title: 'v0.0.2 of vellum'
+    published: '2016-01-06T01:00:35+00:00'
+    id: 'urn:uuid:3e68ef17-bc61-5a53-ac74-cbcf9b6a8069'
+    link: 'https://pub.dartlang.org/packages/vellum'
+    author:
+        - 'R. Matt Barnett'
