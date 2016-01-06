@@ -49621,3 +49621,12 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: molviewfmt
+    package_version: v0.2.7
+    title: 'v0.2.7 of molviewfmt'
+    published: '2016-01-06T20:22:27+00:00'
+    id: 'urn:uuid:91de01f1-03b9-571b-9dee-b04b3dd544f4'
+    link: 'https://pub.dartlang.org/packages/molviewfmt'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
