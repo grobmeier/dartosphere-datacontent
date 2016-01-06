@@ -49472,3 +49472,93 @@
     link: 'https://pub.dartlang.org/packages/vellum'
     author:
         - 'R. Matt Barnett'
+-
+    package_name: mojito
+    package_version: v0.6.4
+    title: 'v0.6.4 of mojito'
+    published: '2016-01-06T06:54:11+00:00'
+    id: 'urn:uuid:a01c7c92-ce53-5585-bc64-5572a3178bcd'
+    link: 'https://pub.dartlang.org/packages/mojito'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: shelf_auth_session
+    package_version: v0.4.10
+    title: 'v0.4.10 of shelf_auth_session'
+    published: '2016-01-06T06:53:30+00:00'
+    id: 'urn:uuid:a3adb88c-0088-5453-9d43-719b6758c4fe'
+    link: 'https://pub.dartlang.org/packages/shelf_auth_session'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: shelf_rest
+    package_version: v0.3.3
+    title: 'v0.3.3 of shelf_rest'
+    published: '2016-01-06T06:52:55+00:00'
+    id: 'urn:uuid:98d5e9a7-b592-52a9-880c-615f316f033e'
+    link: 'https://pub.dartlang.org/packages/shelf_rest'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: hateoas_models
+    package_version: v0.1.7
+    title: 'v0.1.7 of hateoas_models'
+    published: '2016-01-06T06:52:19+00:00'
+    id: 'urn:uuid:e5af26dc-050e-5054-b904-4f6d4b645b45'
+    link: 'https://pub.dartlang.org/packages/hateoas_models'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: config
+    package_version: v0.0.4
+    title: 'v0.0.4 of config'
+    published: '2016-01-06T06:51:40+00:00'
+    id: 'urn:uuid:e9aadda4-0ac0-5394-b9ec-8ebd6813a6fe'
+    link: 'https://pub.dartlang.org/packages/config'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: shelf_auth
+    package_version: v0.7.1
+    title: 'v0.7.1 of shelf_auth'
+    published: '2016-01-06T06:50:42+00:00'
+    id: 'urn:uuid:a267ea6c-860a-54ed-b720-19c05c45ca27'
+    link: 'https://pub.dartlang.org/packages/shelf_auth'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: dart_jwt
+    package_version: v0.4.5
+    title: 'v0.4.5 of dart_jwt'
+    published: '2016-01-06T06:49:50+00:00'
+    id: 'urn:uuid:4bc45dd3-8ae8-5bf4-8cc6-888fef4f59d8'
+    link: 'https://pub.dartlang.org/packages/dart_jwt'
+    author:
+        - 'Anders Holmgren<aholmgren@atlassian.com>'
+-
+    package_name: shelf_bind
+    package_version: v0.9.2
+    title: 'v0.9.2 of shelf_bind'
+    published: '2016-01-06T06:49:17+00:00'
+    id: 'urn:uuid:1e0115d3-d23b-5055-878d-15bd119339f5'
+    link: 'https://pub.dartlang.org/packages/shelf_bind'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: converters
+    package_version: v0.0.2
+    title: 'v0.0.2 of converters'
+    published: '2016-01-06T06:48:42+00:00'
+    id: 'urn:uuid:482fcae9-b2b1-51d3-948f-d8a3228596fc'
+    link: 'https://pub.dartlang.org/packages/converters'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: shelf_route
+    package_version: v0.14.1
+    title: 'v0.14.1 of shelf_route'
+    published: '2016-01-06T06:48:13+00:00'
+    id: 'urn:uuid:263dc01d-a5e6-52ac-b334-77c7cb5091a5'
+    link: 'https://pub.dartlang.org/packages/shelf_route'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
