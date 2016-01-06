@@ -49589,3 +49589,12 @@
     link: 'https://pub.dartlang.org/packages/react'
     author:
         - 'Clean Team <clean@vacuumlabs.com>'
+-
+    package_name: polymer
+    package_version: v0.16.4
+    title: 'v0.16.4 of polymer'
+    published: '2016-01-06T17:03:49+00:00'
+    id: 'urn:uuid:7946cc1c-c38d-57d8-8b5b-a4deb549cee1'
+    link: 'https://pub.dartlang.org/packages/polymer'
+    author:
+        - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
