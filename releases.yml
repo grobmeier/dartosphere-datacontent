@@ -49571,3 +49571,21 @@
     link: 'https://pub.dartlang.org/packages/scissors'
     author:
         - 'Olivier Chafik <ochafik@google.com>'
+-
+    package_name: polymer_app
+    package_version: v0.5.0
+    title: 'v0.5.0 of polymer_app'
+    published: '2016-01-06T15:36:08+00:00'
+    id: 'urn:uuid:cc3a4de1-cde6-5cd9-9ece-4124dac079b7'
+    link: 'https://pub.dartlang.org/packages/polymer_app'
+    author:
+        - 'Walletek <hadrien.lejard@gmail.com>'
+-
+    package_name: react
+    package_version: v0.8.5
+    title: 'v0.8.5 of react'
+    published: '2016-01-06T15:30:03+00:00'
+    id: 'urn:uuid:5f0519c6-a855-5173-9620-1875c1b1b4ce'
+    link: 'https://pub.dartlang.org/packages/react'
+    author:
+        - 'Clean Team <clean@vacuumlabs.com>'
