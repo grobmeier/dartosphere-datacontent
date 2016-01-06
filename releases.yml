@@ -49598,3 +49598,26 @@
     link: 'https://pub.dartlang.org/packages/polymer'
     author:
         - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: dart_amqp
+    package_version: v0.0.4
+    title: 'v0.0.4 of dart_amqp'
+    published: '2016-01-06T19:58:09+00:00'
+    id: 'urn:uuid:f39c26ac-ea9c-5549-8a51-f393a33d0f95'
+    link: 'https://pub.dartlang.org/packages/dart_amqp'
+    author:
+        - 'Achilleas Anagnostopoulos'
+-
+    package_name: fluri
+    package_version: v1.1.1
+    title: 'v1.1.1 of fluri'
+    published: '2016-01-06T19:16:27+00:00'
+    id: 'urn:uuid:5d16c5e1-ea62-55f3-ab27-ce1c05e6514c'
+    link: 'https://pub.dartlang.org/packages/fluri'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <evan.weible@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
