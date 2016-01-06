@@ -49630,3 +49630,12 @@
     link: 'https://pub.dartlang.org/packages/molviewfmt'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: omnibus
+    package_version: v0.0.4
+    title: 'v0.0.4 of omnibus'
+    published: '2016-01-06T21:29:11+00:00'
+    id: 'urn:uuid:19525a6e-c33d-5d64-8502-d2d79db9fcf1'
+    link: 'https://pub.dartlang.org/packages/omnibus'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
