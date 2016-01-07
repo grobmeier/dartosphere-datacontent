@@ -49693,3 +49693,12 @@
     link: 'https://pub.dartlang.org/packages/complex_matrix'
     author:
         - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: spinkit
+    package_version: v0.0.2
+    title: 'v0.0.2 of spinkit'
+    published: '2016-01-07T17:17:36+00:00'
+    id: 'urn:uuid:0dc949b2-0f2f-5894-8555-795a781839fe'
+    link: 'https://pub.dartlang.org/packages/spinkit'
+    author:
+        - 'Kasper Peulen <kasperpeulen@gmail.com>'
