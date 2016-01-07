@@ -49725,3 +49725,21 @@
     link: 'https://pub.dartlang.org/packages/web_components'
     author:
         - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: v23discovery
+    package_version: v0.0.8
+    title: 'v0.0.8 of v23discovery'
+    published: '2016-01-07T23:22:55+00:00'
+    id: 'urn:uuid:a224c895-5684-5004-87d7-30a0d011dec5'
+    link: 'https://pub.dartlang.org/packages/v23discovery'
+    author:
+        - 'Vanadium Authors'
+-
+    package_name: syncbase
+    package_version: v0.0.26
+    title: 'v0.0.26 of syncbase'
+    published: '2016-01-07T23:22:31+00:00'
+    id: 'urn:uuid:6f531617-80ac-5cc7-a577-74d4919dce5a'
+    link: 'https://pub.dartlang.org/packages/syncbase'
+    author:
+        - 'Vanadium Authors'
