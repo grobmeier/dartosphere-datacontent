@@ -49702,3 +49702,17 @@
     link: 'https://pub.dartlang.org/packages/spinkit'
     author:
         - 'Kasper Peulen <kasperpeulen@gmail.com>'
+-
+    package_name: w_transport
+    package_version: v2.1.0
+    title: 'v2.1.0 of w_transport'
+    published: '2016-01-07T20:42:01+00:00'
+    id: 'urn:uuid:2cacbe69-b8e0-5c5b-8d59-aeb13f950523'
+    link: 'https://pub.dartlang.org/packages/w_transport'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
