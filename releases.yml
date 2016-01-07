@@ -49648,3 +49648,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_app'
     author:
         - 'Walletek <hadrien.lejard@gmail.com>'
+-
+    package_name: index_page
+    package_version: v0.0.1
+    title: 'v0.0.1 of index_page'
+    published: '2016-01-07T00:49:08+00:00'
+    id: 'urn:uuid:2940a1e9-7763-5e96-af67-3741bb40d890'
+    link: 'https://pub.dartlang.org/packages/index_page'
+    author:
+        - 'Jake MacDonald <jakemac53@gmail.com>'
