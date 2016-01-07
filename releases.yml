@@ -49675,3 +49675,12 @@
     link: 'https://pub.dartlang.org/packages/spinkit'
     author:
         - 'Kasper Peulen <kasperpeulen@gmail.com>'
+-
+    package_name: angular2_rbi
+    package_version: v0.0.2
+    title: 'v0.0.2 of angular2_rbi'
+    published: '2016-01-07T09:41:11+00:00'
+    id: 'urn:uuid:7b3a6bbd-f66e-564c-beb4-1eb5640494f4'
+    link: 'https://pub.dartlang.org/packages/angular2_rbi'
+    author:
+        - 'Jim Washington <washington.jim@gmail.com>'
