@@ -49684,3 +49684,12 @@
     link: 'https://pub.dartlang.org/packages/angular2_rbi'
     author:
         - 'Jim Washington <washington.jim@gmail.com>'
+-
+    package_name: complex_matrix
+    package_version: v0.0.2
+    title: 'v0.0.2 of complex_matrix'
+    published: '2016-01-07T15:16:24+00:00'
+    id: 'urn:uuid:067f239e-fb34-5aed-804e-6cb6ff9a4ca3'
+    link: 'https://pub.dartlang.org/packages/complex_matrix'
+    author:
+        - 'Edouard Tavinor <edouardtavinor@gmail.com>'
