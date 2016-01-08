@@ -49754,3 +49754,30 @@
         - 'Anant Narayanan <anant@kix.in>'
         - 'Seth Ladd <sethladd@gmail.com>'
         - 'Kevin Moore <github@j832.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.76
+    title: 'v0.0.76 of sky_services'
+    published: '2016-01-08T01:10:57+00:00'
+    id: 'urn:uuid:8c2c305c-c280-55d2-b73d-f07cb3c6b3fb'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.76
+    title: 'v0.0.76 of sky_engine'
+    published: '2016-01-08T01:10:55+00:00'
+    id: 'urn:uuid:5285dc31-6222-5cc3-9e90-087231565fb6'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: statsd
+    package_version: v0.1.0
+    title: 'v0.1.0 of statsd'
+    published: '2016-01-08T01:10:00+00:00'
+    id: 'urn:uuid:b26a8607-de99-531e-9bbb-396b38b3c542'
+    link: 'https://pub.dartlang.org/packages/statsd'
+    author:
+        - 'Anatoly Pulyaevskiy <anatoly.pulyaevskiy@gmail.com>'
