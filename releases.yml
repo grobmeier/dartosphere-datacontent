@@ -49743,3 +49743,14 @@
     link: 'https://pub.dartlang.org/packages/syncbase'
     author:
         - 'Vanadium Authors'
+-
+    package_name: firebase
+    package_version: v0.6.5+1
+    title: 'v0.6.5+1 of firebase'
+    published: '2016-01-08T00:26:08+00:00'
+    id: 'urn:uuid:4ec4c4e7-726b-581d-8461-af7733b32399'
+    link: 'https://pub.dartlang.org/packages/firebase'
+    author:
+        - 'Anant Narayanan <anant@kix.in>'
+        - 'Seth Ladd <sethladd@gmail.com>'
+        - 'Kevin Moore <github@j832.com>'
