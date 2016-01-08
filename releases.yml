@@ -49898,3 +49898,21 @@
     link: 'https://pub.dartlang.org/packages/dev_compiler'
     author:
         - 'Dart Dev Compiler team <dev-compiler@dartlang.org>'
+-
+    package_name: sky_services
+    package_version: v0.0.77
+    title: 'v0.0.77 of sky_services'
+    published: '2016-01-08T23:15:53+00:00'
+    id: 'urn:uuid:411be5df-89f0-535b-8939-3a0654cd1fcd'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.77
+    title: 'v0.0.77 of sky_engine'
+    published: '2016-01-08T23:15:50+00:00'
+    id: 'urn:uuid:c9589199-09ab-5d65-8d3b-1ee7b02998f4'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
