@@ -49970,3 +49970,21 @@
     link: 'https://pub.dartlang.org/packages/grapheen'
     author:
         - 'Tomas Rokos <tomas.rokos@gmail.com>'
+-
+    package_name: autonotify_observe
+    package_version: v1.0.0+2
+    title: 'v1.0.0+2 of autonotify_observe'
+    published: '2016-01-09T18:09:01+00:00'
+    id: 'urn:uuid:84025dae-6dc7-5704-8935-13c70a4a8477'
+    link: 'https://pub.dartlang.org/packages/autonotify_observe'
+    author:
+        - 'Vittorio Ballestra (Drafintech s.r.l.) <vittorio.ballestra@gmail.com>'
+-
+    package_name: polymer_autonotify
+    package_version: v0.9.9+99
+    title: 'v0.9.9+99 of polymer_autonotify'
+    published: '2016-01-09T18:01:58+00:00'
+    id: 'urn:uuid:5f553d45-2374-58a1-909e-cdd9c085aaf6'
+    link: 'https://pub.dartlang.org/packages/polymer_autonotify'
+    author:
+        - 'Vittorio Ballestra (Drafintech s.r.l.) <vittorio.ballestra@gmail.com>'
