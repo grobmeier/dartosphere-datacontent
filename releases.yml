@@ -49916,3 +49916,12 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: websockets
+    package_version: v0.2.0
+    title: 'v0.2.0 of websockets'
+    published: '2016-01-09T01:51:26+00:00'
+    id: 'urn:uuid:1562ff39-2d01-517a-9219-a67cd8ddcd41'
+    link: 'https://pub.dartlang.org/packages/websockets'
+    author:
+        - 'Steven Roose <stevenroose@gmail.com>'
