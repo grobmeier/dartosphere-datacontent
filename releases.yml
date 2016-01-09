@@ -49943,3 +49943,12 @@
     link: 'https://pub.dartlang.org/packages/websockets'
     author:
         - 'Steven Roose <stevenroose@gmail.com>'
+-
+    package_name: autonotify_observe
+    package_version: v1.0.0-rc.11
+    title: 'v1.0.0-rc.11 of autonotify_observe'
+    published: '2016-01-09T13:57:54+00:00'
+    id: 'urn:uuid:07874aeb-fb12-5439-bda6-49e98de37409'
+    link: 'https://pub.dartlang.org/packages/autonotify_observe'
+    author:
+        - 'Vittorio Ballestra (Drafintech s.r.l.) <vittorio.ballestra@gmail.com>'
