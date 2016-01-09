@@ -49925,3 +49925,21 @@
     link: 'https://pub.dartlang.org/packages/websockets'
     author:
         - 'Steven Roose <stevenroose@gmail.com>'
+-
+    package_name: access
+    package_version: v0.7.5+1
+    title: 'v0.7.5+1 of access'
+    published: '2016-01-09T02:56:06+00:00'
+    id: 'urn:uuid:382d43d7-c4cc-5155-a64a-c6a109aada97'
+    link: 'https://pub.dartlang.org/packages/access'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: websockets
+    package_version: v0.2.0+2
+    title: 'v0.2.0+2 of websockets'
+    published: '2016-01-09T02:28:28+00:00'
+    id: 'urn:uuid:6841656c-754b-59cc-8772-b9cdcae25ee6'
+    link: 'https://pub.dartlang.org/packages/websockets'
+    author:
+        - 'Steven Roose <stevenroose@gmail.com>'
