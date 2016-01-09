@@ -49961,3 +49961,12 @@
     link: 'https://pub.dartlang.org/packages/autonotify_observe'
     author:
         - 'Vittorio Ballestra (Drafintech s.r.l.) <vittorio.ballestra@gmail.com>'
+-
+    package_name: grapheen
+    package_version: v0.4.0
+    title: 'v0.4.0 of grapheen'
+    published: '2016-01-09T17:45:27+00:00'
+    id: 'urn:uuid:e132a383-f4ac-5d94-a84c-d9c7f1a86f13'
+    link: 'https://pub.dartlang.org/packages/grapheen'
+    author:
+        - 'Tomas Rokos <tomas.rokos@gmail.com>'
