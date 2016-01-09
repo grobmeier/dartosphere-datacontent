@@ -49988,3 +49988,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_autonotify'
     author:
         - 'Vittorio Ballestra (Drafintech s.r.l.) <vittorio.ballestra@gmail.com>'
+-
+    package_name: ng_mediaquery
+    package_version: v0.1.3
+    title: 'v0.1.3 of ng_mediaquery'
+    published: '2016-01-09T19:32:12+00:00'
+    id: 'urn:uuid:aea7dbf1-f3d8-5c7a-88e2-bee457840c14'
+    link: 'https://pub.dartlang.org/packages/ng_mediaquery'
+    author:
+        - 'Adao Junior <itsjunnior@gmail.com>'
