@@ -50051,3 +50051,12 @@
     link: 'https://pub.dartlang.org/packages/md_proc'
     author:
         - 'Maxim Dikun <dikmax@gmail.com>'
+-
+    package_name: poker_hands
+    package_version: v1.0.0
+    title: 'v1.0.0 of poker_hands'
+    published: '2016-01-10T20:53:16+00:00'
+    id: 'urn:uuid:10fa781c-0550-51cb-9cc8-49c6fe9b7796'
+    link: 'https://pub.dartlang.org/packages/poker_hands'
+    author:
+        - 'Slemgrim <slemgrim@gmail.com>'
