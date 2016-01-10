@@ -50033,3 +50033,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_autonotify'
     author:
         - 'Vittorio Ballestra (Drafintech s.r.l.) <vittorio.ballestra@gmail.com>'
+-
+    package_name: angular2_rbi
+    package_version: v0.0.3
+    title: 'v0.0.3 of angular2_rbi'
+    published: '2016-01-10T09:22:28+00:00'
+    id: 'urn:uuid:d820ffa3-1c34-5357-bfbe-9db39fd7717c'
+    link: 'https://pub.dartlang.org/packages/angular2_rbi'
+    author:
+        - 'Jim Washington <washington.jim@gmail.com>'
