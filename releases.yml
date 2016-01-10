@@ -50060,3 +50060,12 @@
     link: 'https://pub.dartlang.org/packages/poker_hands'
     author:
         - 'Slemgrim <slemgrim@gmail.com>'
+-
+    package_name: autonotify_observe
+    package_version: v1.0.0+4
+    title: 'v1.0.0+4 of autonotify_observe'
+    published: '2016-01-10T23:32:21+00:00'
+    id: 'urn:uuid:c99346c4-6217-5cef-8155-4b536a96f124'
+    link: 'https://pub.dartlang.org/packages/autonotify_observe'
+    author:
+        - 'Vittorio Ballestra (Drafintech s.r.l.) <vittorio.ballestra@gmail.com>'
