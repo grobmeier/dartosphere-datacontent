@@ -50042,3 +50042,12 @@
     link: 'https://pub.dartlang.org/packages/angular2_rbi'
     author:
         - 'Jim Washington <washington.jim@gmail.com>'
+-
+    package_name: md_proc
+    package_version: v0.8.1
+    title: 'v0.8.1 of md_proc'
+    published: '2016-01-10T15:44:51+00:00'
+    id: 'urn:uuid:9e6d344b-92fb-5d9c-94db-881ff93d5036'
+    link: 'https://pub.dartlang.org/packages/md_proc'
+    author:
+        - 'Maxim Dikun <dikmax@gmail.com>'
