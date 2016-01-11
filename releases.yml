@@ -50180,3 +50180,12 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: async
+    package_version: v1.6.0
+    title: 'v1.6.0 of async'
+    published: '2016-01-11T21:08:35+00:00'
+    id: 'urn:uuid:8c4cfbf6-a97a-5071-b0a5-70b06be5a745'
+    link: 'https://pub.dartlang.org/packages/async'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
