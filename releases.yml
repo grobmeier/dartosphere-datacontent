@@ -50117,3 +50117,12 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: http2
+    package_version: v0.1.1
+    title: 'v0.1.1 of http2'
+    published: '2016-01-11T15:18:54+00:00'
+    id: 'urn:uuid:49ec3f27-c1eb-5b82-aca6-c3949677803a'
+    link: 'https://pub.dartlang.org/packages/http2'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
