@@ -50189,3 +50189,12 @@
     link: 'https://pub.dartlang.org/packages/async'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: stack_trace
+    package_version: v1.5.1
+    title: 'v1.5.1 of stack_trace'
+    published: '2016-01-11T22:24:40+00:00'
+    id: 'urn:uuid:0e748bf9-5117-576c-bb4a-d952ff0e1649'
+    link: 'https://pub.dartlang.org/packages/stack_trace'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
