@@ -50135,3 +50135,21 @@
     link: 'https://pub.dartlang.org/packages/polymer_datepicker'
     author:
         - 'Drafintech <info@drafintech.it>'
+-
+    package_name: v23discovery
+    package_version: v0.0.9
+    title: 'v0.0.9 of v23discovery'
+    published: '2016-01-11T19:14:22+00:00'
+    id: 'urn:uuid:febecf12-0bac-56d6-8f31-2f46c078ba3d'
+    link: 'https://pub.dartlang.org/packages/v23discovery'
+    author:
+        - 'Vanadium Authors'
+-
+    package_name: syncbase
+    package_version: v0.0.27
+    title: 'v0.0.27 of syncbase'
+    published: '2016-01-11T19:12:46+00:00'
+    id: 'urn:uuid:0ad9a3d8-ff8e-5cdd-9b1b-0de94ad3d4df'
+    link: 'https://pub.dartlang.org/packages/syncbase'
+    author:
+        - 'Vanadium Authors'
