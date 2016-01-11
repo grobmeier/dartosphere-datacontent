@@ -50069,3 +50069,15 @@
     link: 'https://pub.dartlang.org/packages/autonotify_observe'
     author:
         - 'Vittorio Ballestra (Drafintech s.r.l.) <vittorio.ballestra@gmail.com>'
+-
+    package_name: dslink
+    package_version: v0.5.3
+    title: 'v0.5.3 of dslink'
+    published: '2016-01-11T05:18:10+00:00'
+    id: 'urn:uuid:b6688546-3668-5ea1-936d-7e6640fce943'
+    link: 'https://pub.dartlang.org/packages/dslink'
+    author:
+        - 'Kenneth Endfinger <k.endfinger@dglogik.com>'
+        - 'Rick Zhou <z.zhou@dglogik.com>'
+        - 'Michael Bullington <m.bullington@dglogik.com>'
+        - 'Matthew Butler <m.butler@dglogik.com>'
