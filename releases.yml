@@ -50153,3 +50153,30 @@
     link: 'https://pub.dartlang.org/packages/syncbase'
     author:
         - 'Vanadium Authors'
+-
+    package_name: smartcanvas
+    package_version: v0.2.0+8
+    title: 'v0.2.0+8 of smartcanvas'
+    published: '2016-01-11T20:55:38+00:00'
+    id: 'urn:uuid:622b31dd-1682-57f1-bc21-635846401267'
+    link: 'https://pub.dartlang.org/packages/smartcanvas'
+    author:
+        - 'Kun Zhao <kzhdev@gmail.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.79
+    title: 'v0.0.79 of sky_services'
+    published: '2016-01-11T20:04:58+00:00'
+    id: 'urn:uuid:c4e11b8e-1ee7-54c8-9438-880b0a93fabb'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.79
+    title: 'v0.0.79 of sky_engine'
+    published: '2016-01-11T20:04:54+00:00'
+    id: 'urn:uuid:d9f57348-c557-5d60-afc4-64993d419fbd'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
