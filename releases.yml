@@ -50081,3 +50081,39 @@
         - 'Rick Zhou <z.zhou@dglogik.com>'
         - 'Michael Bullington <m.bullington@dglogik.com>'
         - 'Matthew Butler <m.butler@dglogik.com>'
+-
+    package_name: dbconnection
+    package_version: v0.0.1
+    title: 'v0.0.1 of dbconnection'
+    published: '2016-01-11T08:58:51+00:00'
+    id: 'urn:uuid:99c30618-d67f-5391-99b1-d578b2c17bd6'
+    link: 'https://pub.dartlang.org/packages/dbconnection'
+    author:
+        - 'AIE team<nisr19@gmail.com>'
+-
+    package_name: googleapis_beta
+    package_version: v0.23.1
+    title: 'v0.23.1 of googleapis_beta'
+    published: '2016-01-11T08:51:58+00:00'
+    id: 'urn:uuid:b427cf26-553a-5f26-be23-9f135d4e64c5'
+    link: 'https://pub.dartlang.org/packages/googleapis_beta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: googleapis
+    package_version: v0.22.0
+    title: 'v0.22.0 of googleapis'
+    published: '2016-01-11T08:51:43+00:00'
+    id: 'urn:uuid:d969693f-e45f-51ee-bc6f-1e104140e349'
+    link: 'https://pub.dartlang.org/packages/googleapis'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: mdl
+    package_version: v1.14.0
+    title: 'v1.14.0 of mdl'
+    published: '2016-01-11T08:17:13+00:00'
+    id: 'urn:uuid:614be44b-77bc-5d54-bb4d-55de8d8cd503'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
