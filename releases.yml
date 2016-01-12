@@ -50297,3 +50297,12 @@
     link: 'https://pub.dartlang.org/packages/usage'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: web_components
+    package_version: v0.12.2+1
+    title: 'v0.12.2+1 of web_components'
+    published: '2016-01-12T22:33:59+00:00'
+    id: 'urn:uuid:32d4e263-d79e-5fc0-aa5c-1dcabc895811'
+    link: 'https://pub.dartlang.org/packages/web_components'
+    author:
+        - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
