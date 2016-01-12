@@ -50306,3 +50306,12 @@
     link: 'https://pub.dartlang.org/packages/web_components'
     author:
         - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: stack_trace
+    package_version: v1.6.0
+    title: 'v1.6.0 of stack_trace'
+    published: '2016-01-12T23:48:15+00:00'
+    id: 'urn:uuid:4ba377e7-1649-51cd-8849-1204cf6fb6e9'
+    link: 'https://pub.dartlang.org/packages/stack_trace'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
