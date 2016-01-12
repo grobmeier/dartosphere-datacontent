@@ -50288,3 +50288,12 @@
     link: 'https://pub.dartlang.org/packages/rxdart'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: usage
+    package_version: v1.1.0
+    title: 'v1.1.0 of usage'
+    published: '2016-01-12T21:38:00+00:00'
+    id: 'urn:uuid:623a04cf-f8be-5f2f-a697-c078d3b4243e'
+    link: 'https://pub.dartlang.org/packages/usage'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
