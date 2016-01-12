@@ -50216,3 +50216,21 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: polymer_datepicker
+    package_version: v0.4.0+4
+    title: 'v0.4.0+4 of polymer_datepicker'
+    published: '2016-01-12T09:53:32+00:00'
+    id: 'urn:uuid:6cb14236-3295-558c-8f2a-f6f0a441ef11'
+    link: 'https://pub.dartlang.org/packages/polymer_datepicker'
+    author:
+        - 'Drafintech <info@drafintech.it>'
+-
+    package_name: autonotify_observe
+    package_version: v1.0.0+5
+    title: 'v1.0.0+5 of autonotify_observe'
+    published: '2016-01-12T09:50:21+00:00'
+    id: 'urn:uuid:87160edf-96b2-5b16-adee-a502f5518af5'
+    link: 'https://pub.dartlang.org/packages/autonotify_observe'
+    author:
+        - 'Vittorio Ballestra (Drafintech s.r.l.) <vittorio.ballestra@gmail.com>'
