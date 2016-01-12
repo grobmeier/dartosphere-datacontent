@@ -50243,3 +50243,21 @@
     link: 'https://pub.dartlang.org/packages/rxdart'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: autonotify_observe
+    package_version: v1.0.0+6
+    title: 'v1.0.0+6 of autonotify_observe'
+    published: '2016-01-12T14:24:41+00:00'
+    id: 'urn:uuid:5f1f0913-d61a-5cc4-8fa0-e5eb333b6267'
+    link: 'https://pub.dartlang.org/packages/autonotify_observe'
+    author:
+        - 'Vittorio Ballestra (Drafintech s.r.l.) <vittorio.ballestra@gmail.com>'
+-
+    package_name: polymer_datepicker
+    package_version: v0.4.0+5
+    title: 'v0.4.0+5 of polymer_datepicker'
+    published: '2016-01-12T14:08:23+00:00'
+    id: 'urn:uuid:964ce31b-d13d-5985-b889-3805a42f04f9'
+    link: 'https://pub.dartlang.org/packages/polymer_datepicker'
+    author:
+        - 'Drafintech <info@drafintech.it>'
