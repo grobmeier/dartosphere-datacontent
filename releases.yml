@@ -50198,3 +50198,21 @@
     link: 'https://pub.dartlang.org/packages/stack_trace'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: sky_services
+    package_version: v0.0.80
+    title: 'v0.0.80 of sky_services'
+    published: '2016-01-12T05:54:43+00:00'
+    id: 'urn:uuid:ba76ae3b-c8c6-569b-8de9-fec2790441d5'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.80
+    title: 'v0.0.80 of sky_engine'
+    published: '2016-01-12T05:54:40+00:00'
+    id: 'urn:uuid:4c6dabdb-702d-58fa-9e6f-4bfe2373c857'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
