@@ -50234,3 +50234,12 @@
     link: 'https://pub.dartlang.org/packages/autonotify_observe'
     author:
         - 'Vittorio Ballestra (Drafintech s.r.l.) <vittorio.ballestra@gmail.com>'
+-
+    package_name: rxdart
+    package_version: v0.3.0
+    title: 'v0.3.0 of rxdart'
+    published: '2016-01-12T11:28:26+00:00'
+    id: 'urn:uuid:f3fb01b5-6f3b-500f-a585-e5ef557e99c7'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
