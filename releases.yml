@@ -50387,3 +50387,12 @@
     link: 'https://pub.dartlang.org/packages/rxdart'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: rxdart
+    package_version: v0.3.3
+    title: 'v0.3.3 of rxdart'
+    published: '2016-01-13T13:45:23+00:00'
+    id: 'urn:uuid:5174c907-b977-53e9-ac37-dfce6a46f5e9'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
