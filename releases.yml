@@ -50720,3 +50720,30 @@
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
         - 'Sean Eagan <seaneagan1@gmail.com>'
         - 'Victor Berchet <victor@suumit.com>'
+-
+    package_name: rxdart
+    package_version: v0.3.6
+    title: 'v0.3.6 of rxdart'
+    published: '2016-01-13T21:31:26+00:00'
+    id: 'urn:uuid:fde188c6-c0d1-5978-8980-d278065ff297'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: quiver_clock
+    package_version: v1.0.0-obsolete.1
+    title: 'v1.0.0-obsolete.1 of quiver_clock'
+    published: '2016-01-13T21:03:10+00:00'
+    id: 'urn:uuid:91bc7953-c49b-56c8-9d9c-eaff7ca98bab'
+    link: 'https://pub.dartlang.org/packages/quiver_clock'
+    author:
+        - 'Justin Fagnani <justinfagnani@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Chris Bracken <cbracken@google.com>'
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+        - 'David Morgan <davidmorgan@google.com>'
+        - 'John McDole <codefu@google.com>'
+        - 'Matan Lurey <matanl@google.com>'
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+        - 'Sean Eagan <seaneagan1@gmail.com>'
+        - 'Victor Berchet <victor@suumit.com>'
