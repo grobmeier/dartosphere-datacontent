@@ -50315,3 +50315,39 @@
     link: 'https://pub.dartlang.org/packages/stack_trace'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: scheduled_test
+    package_version: v0.12.4+3
+    title: 'v0.12.4+3 of scheduled_test'
+    published: '2016-01-13T01:44:50+00:00'
+    id: 'urn:uuid:3b8283d2-3cd5-5cf0-8cc4-e389f1218c8d'
+    link: 'https://pub.dartlang.org/packages/scheduled_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: glob
+    package_version: v1.1.0
+    title: 'v1.1.0 of glob'
+    published: '2016-01-13T01:41:29+00:00'
+    id: 'urn:uuid:c1fdcb1d-b67c-57f5-841f-46fca5a1b03a'
+    link: 'https://pub.dartlang.org/packages/glob'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: test
+    package_version: v0.12.7
+    title: 'v0.12.7 of test'
+    published: '2016-01-13T01:06:06+00:00'
+    id: 'urn:uuid:1f04b07e-8118-5402-95b8-0fcce4c6392a'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: vm_service_client
+    package_version: v0.1.0
+    title: 'v0.1.0 of vm_service_client'
+    published: '2016-01-13T01:04:24+00:00'
+    id: 'urn:uuid:9b2e43ed-9830-51d4-a585-09761afbbf13'
+    link: 'https://pub.dartlang.org/packages/vm_service_client'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
