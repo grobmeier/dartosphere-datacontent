@@ -50360,3 +50360,21 @@
     link: 'https://pub.dartlang.org/packages/bootstrap_less'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: vm_service_lib
+    package_version: v0.1.2
+    title: 'v0.1.2 of vm_service_lib'
+    published: '2016-01-13T06:31:40+00:00'
+    id: 'urn:uuid:c2d34a4b-f15f-55ad-b99b-4471a242b3e0'
+    link: 'https://pub.dartlang.org/packages/vm_service_lib'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: github
+    package_version: v2.3.1+1
+    title: 'v2.3.1+1 of github'
+    published: '2016-01-13T06:29:34+00:00'
+    id: 'urn:uuid:69530d54-8c07-5e35-8a07-fa4e15e0b04d'
+    link: 'https://pub.dartlang.org/packages/github'
+    author:
+        - 'Kenneth Endfinger <kaendfinger@gmail.com>'
