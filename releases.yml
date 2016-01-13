@@ -50432,3 +50432,102 @@
     link: 'https://pub.dartlang.org/packages/rxdart'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: quiver_cache
+    package_version: v1.0.0-dev.1
+    title: 'v1.0.0-dev.1 of quiver_cache'
+    published: '2016-01-13T17:53:04+00:00'
+    id: 'urn:uuid:ff0b1277-6f77-578d-ac22-bec60359ca56'
+    link: 'https://pub.dartlang.org/packages/quiver_cache'
+    author:
+        - 'Justin Fagnani <justinfagnani@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Chris Bracken <cbracken@google.com>'
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+        - 'David Morgan <davidmorgan@google.com>'
+        - 'John McDole <codefu@google.com>'
+        - 'Matan Lurey <matanl@google.com>'
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+        - 'Sean Eagan <seaneagan1@gmail.com>'
+        - 'Victor Berchet <victor@suumit.com>'
+-
+    package_name: quiver_io
+    package_version: v1.0.0-dev.1
+    title: 'v1.0.0-dev.1 of quiver_io'
+    published: '2016-01-13T17:49:16+00:00'
+    id: 'urn:uuid:b90804b9-74ca-58d8-b109-1a0b0282d9b5'
+    link: 'https://pub.dartlang.org/packages/quiver_io'
+    author:
+        - 'Justin Fagnani <justinfagnani@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Chris Bracken <cbracken@google.com>'
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+        - 'David Morgan <davidmorgan@google.com>'
+        - 'John McDole <codefu@google.com>'
+        - 'Matan Lurey <matanl@google.com>'
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+        - 'Sean Eagan <seaneagan1@gmail.com>'
+        - 'Victor Berchet <victor@suumit.com>'
+-
+    package_name: scissors
+    package_version: v0.3.0
+    title: 'v0.3.0 of scissors'
+    published: '2016-01-13T17:46:33+00:00'
+    id: 'urn:uuid:5d11937d-b2f8-51a1-8433-1ba345c919f6'
+    link: 'https://pub.dartlang.org/packages/scissors'
+    author:
+        - 'Olivier Chafik <ochafik@google.com>'
+-
+    package_name: quiver_strings
+    package_version: v1.0.0-dev.2
+    title: 'v1.0.0-dev.2 of quiver_strings'
+    published: '2016-01-13T17:42:48+00:00'
+    id: 'urn:uuid:4cc4ea3f-7310-57f3-85a3-4d325821215c'
+    link: 'https://pub.dartlang.org/packages/quiver_strings'
+    author:
+        - 'Justin Fagnani <justinfagnani@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Chris Bracken <cbracken@google.com>'
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+        - 'David Morgan <davidmorgan@google.com>'
+        - 'John McDole <codefu@google.com>'
+        - 'Matan Lurey <matanl@google.com>'
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+        - 'Sean Eagan <seaneagan1@gmail.com>'
+        - 'Victor Berchet <victor@suumit.com>'
+-
+    package_name: quiver_async
+    package_version: v1.0.0-dev.1
+    title: 'v1.0.0-dev.1 of quiver_async'
+    published: '2016-01-13T17:37:22+00:00'
+    id: 'urn:uuid:90f64d56-785e-5390-87b7-1bd50ad814b3'
+    link: 'https://pub.dartlang.org/packages/quiver_async'
+    author:
+        - 'Justin Fagnani <justinfagnani@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Chris Bracken <cbracken@google.com>'
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+        - 'David Morgan <davidmorgan@google.com>'
+        - 'John McDole <codefu@google.com>'
+        - 'Matan Lurey <matanl@google.com>'
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+        - 'Sean Eagan <seaneagan1@gmail.com>'
+        - 'Victor Berchet <victor@suumit.com>'
+-
+    package_name: quiver_time
+    package_version: v1.0.0-dev.3
+    title: 'v1.0.0-dev.3 of quiver_time'
+    published: '2016-01-13T17:36:22+00:00'
+    id: 'urn:uuid:74330058-2b69-585d-9bd2-4c347d486d03'
+    link: 'https://pub.dartlang.org/packages/quiver_time'
+    author:
+        - 'Justin Fagnani <justinfagnani@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Chris Bracken <cbracken@google.com>'
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+        - 'David Morgan <davidmorgan@google.com>'
+        - 'John McDole <codefu@google.com>'
+        - 'Matan Lurey <matanl@google.com>'
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+        - 'Sean Eagan <seaneagan1@gmail.com>'
+        - 'Victor Berchet <victor@suumit.com>'
