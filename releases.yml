@@ -50747,3 +50747,12 @@
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
         - 'Sean Eagan <seaneagan1@gmail.com>'
         - 'Victor Berchet <victor@suumit.com>'
+-
+    package_name: rxdart
+    package_version: v0.3.7
+    title: 'v0.3.7 of rxdart'
+    published: '2016-01-13T22:04:01+00:00'
+    id: 'urn:uuid:1112ebfc-7d36-5057-b9c2-3e9f07c6e592'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
