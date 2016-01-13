@@ -50378,3 +50378,12 @@
     link: 'https://pub.dartlang.org/packages/github'
     author:
         - 'Kenneth Endfinger <kaendfinger@gmail.com>'
+-
+    package_name: rxdart
+    package_version: v0.3.2
+    title: 'v0.3.2 of rxdart'
+    published: '2016-01-13T09:13:35+00:00'
+    id: 'urn:uuid:091338c7-bc23-5033-abbc-7ff9bacadc26'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
