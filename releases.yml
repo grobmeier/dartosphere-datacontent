@@ -50351,3 +50351,12 @@
     link: 'https://pub.dartlang.org/packages/vm_service_client'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: bootstrap_less
+    package_version: v0.0.1
+    title: 'v0.0.1 of bootstrap_less'
+    published: '2016-01-13T02:09:23+00:00'
+    id: 'urn:uuid:c71a1dd7-e3a3-5bec-adee-1c7968e99244'
+    link: 'https://pub.dartlang.org/packages/bootstrap_less'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
