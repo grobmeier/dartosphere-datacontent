@@ -50756,3 +50756,21 @@
     link: 'https://pub.dartlang.org/packages/rxdart'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.82
+    title: 'v0.0.82 of sky_services'
+    published: '2016-01-14T00:00:52+00:00'
+    id: 'urn:uuid:1075bfed-8b16-5a3e-9da2-0350af1867cc'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.82
+    title: 'v0.0.82 of sky_engine'
+    published: '2016-01-14T00:00:49+00:00'
+    id: 'urn:uuid:223c3ff2-7aed-5a95-aab1-3c81c812c7fa'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
