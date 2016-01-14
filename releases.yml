@@ -50774,3 +50774,12 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: bitcoin
+    package_version: v0.0.0
+    title: 'v0.0.0 of bitcoin'
+    published: '2016-01-14T02:28:57+00:00'
+    id: 'urn:uuid:88bc547f-b77d-5589-bf70-ccb0cc5a1558'
+    link: 'https://pub.dartlang.org/packages/bitcoin'
+    author:
+        - 'Steven Roose <stevenroose@gmail.com>'
