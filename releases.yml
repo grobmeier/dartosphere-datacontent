@@ -50792,3 +50792,12 @@
     link: 'https://pub.dartlang.org/packages/rxdart'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: autonotify_observe
+    package_version: v1.0.0+7
+    title: 'v1.0.0+7 of autonotify_observe'
+    published: '2016-01-14T10:25:34+00:00'
+    id: 'urn:uuid:f9cca63c-9630-5eef-a367-a2cb302526df'
+    link: 'https://pub.dartlang.org/packages/autonotify_observe'
+    author:
+        - 'Vittorio Ballestra (Drafintech s.r.l.) <vittorio.ballestra@gmail.com>'
