@@ -50783,3 +50783,12 @@
     link: 'https://pub.dartlang.org/packages/bitcoin'
     author:
         - 'Steven Roose <stevenroose@gmail.com>'
+-
+    package_name: rxdart
+    package_version: v0.3.8+1
+    title: 'v0.3.8+1 of rxdart'
+    published: '2016-01-14T09:27:54+00:00'
+    id: 'urn:uuid:5bb9e61f-c9ad-512e-a494-8346bdc18cdc'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
