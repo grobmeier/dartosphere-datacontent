@@ -50876,3 +50876,48 @@
     link: 'https://pub.dartlang.org/packages/v23discovery'
     author:
         - 'Vanadium Authors'
+-
+    package_name: mojo_sdk
+    package_version: v0.2.10
+    title: 'v0.2.10 of mojo_sdk'
+    published: '2016-01-14T23:32:36+00:00'
+    id: 'urn:uuid:83c9a047-da43-5bb3-b5d9-f334e134aaed'
+    link: 'https://pub.dartlang.org/packages/mojo_sdk'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojom
+    package_version: v0.2.15
+    title: 'v0.2.15 of mojom'
+    published: '2016-01-14T23:01:14+00:00'
+    id: 'urn:uuid:23c0c09a-9b10-59ce-b35d-874f4af28f21'
+    link: 'https://pub.dartlang.org/packages/mojom'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_apptest
+    package_version: v0.2.15
+    title: 'v0.2.15 of mojo_apptest'
+    published: '2016-01-14T23:01:08+00:00'
+    id: 'urn:uuid:bb240317-6998-5e5b-adb2-2a922e7abb09'
+    link: 'https://pub.dartlang.org/packages/mojo_apptest'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_services
+    package_version: v0.4.13
+    title: 'v0.4.13 of mojo_services'
+    published: '2016-01-14T23:01:01+00:00'
+    id: 'urn:uuid:393bc0a3-813e-5686-8901-c14bf1065cbf'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo
+    package_version: v0.4.11
+    title: 'v0.4.11 of mojo'
+    published: '2016-01-14T23:00:51+00:00'
+    id: 'urn:uuid:7e08f1e8-4cb5-5643-9fe7-f019f6f83b80'
+    link: 'https://pub.dartlang.org/packages/mojo'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
