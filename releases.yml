@@ -50810,3 +50810,15 @@
     link: 'https://pub.dartlang.org/packages/plot_window'
     author:
         - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: dslink
+    package_version: v0.5.4
+    title: 'v0.5.4 of dslink'
+    published: '2016-01-14T19:00:04+00:00'
+    id: 'urn:uuid:d99ae660-f71e-5261-b258-02b671d3b250'
+    link: 'https://pub.dartlang.org/packages/dslink'
+    author:
+        - 'Kenneth Endfinger <k.endfinger@dglogik.com>'
+        - 'Rick Zhou <z.zhou@dglogik.com>'
+        - 'Michael Bullington <m.bullington@dglogik.com>'
+        - 'Matthew Butler <m.butler@dglogik.com>'
