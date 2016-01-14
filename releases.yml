@@ -50858,3 +50858,21 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: plot_window
+    package_version: v0.0.15
+    title: 'v0.0.15 of plot_window'
+    published: '2016-01-14T21:44:35+00:00'
+    id: 'urn:uuid:e7b31072-47dc-5944-9430-7128ef402a53'
+    link: 'https://pub.dartlang.org/packages/plot_window'
+    author:
+        - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: v23discovery
+    package_version: v0.0.10
+    title: 'v0.0.10 of v23discovery'
+    published: '2016-01-14T21:10:23+00:00'
+    id: 'urn:uuid:fb87c3a0-253e-564a-ac9c-db6834044c16'
+    link: 'https://pub.dartlang.org/packages/v23discovery'
+    author:
+        - 'Vanadium Authors'
