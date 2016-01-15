@@ -50921,3 +50921,12 @@
     link: 'https://pub.dartlang.org/packages/mojo'
     author:
         - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: string_scanner
+    package_version: v0.1.4+1
+    title: 'v0.1.4+1 of string_scanner'
+    published: '2016-01-15T00:34:16+00:00'
+    id: 'urn:uuid:7b48bb86-298d-5faf-8ca2-cc002cebada9'
+    link: 'https://pub.dartlang.org/packages/string_scanner'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
