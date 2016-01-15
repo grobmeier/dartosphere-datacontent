@@ -50930,3 +50930,39 @@
     link: 'https://pub.dartlang.org/packages/string_scanner'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: polymer_app
+    package_version: v0.6.0
+    title: 'v0.6.0 of polymer_app'
+    published: '2016-01-15T01:37:27+00:00'
+    id: 'urn:uuid:45080d67-4cc1-5b2c-af22-1afed9dac6da'
+    link: 'https://pub.dartlang.org/packages/polymer_app'
+    author:
+        - 'Walletek <hadrien.lejard@gmail.com>'
+-
+    package_name: dart_style
+    package_version: v0.2.3
+    title: 'v0.2.3 of dart_style'
+    published: '2016-01-15T01:28:13+00:00'
+    id: 'urn:uuid:0b609890-5d16-5aaa-a1e4-73b1af62850f'
+    link: 'https://pub.dartlang.org/packages/dart_style'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: polymer_app_router
+    package_version: v0.1.0
+    title: 'v0.1.0 of polymer_app_router'
+    published: '2016-01-15T01:00:30+00:00'
+    id: 'urn:uuid:e406c3bd-6d1c-5b61-9f2b-bd5a3411f41f'
+    link: 'https://pub.dartlang.org/packages/polymer_app_router'
+    author:
+        - 'Walletek <hadrien.lejard@gmail.com>'
+-
+    package_name: intl
+    package_version: v0.12.6
+    title: 'v0.12.6 of intl'
+    published: '2016-01-15T01:00:07+00:00'
+    id: 'urn:uuid:7e0e731f-7417-52bb-b2da-992f6906801b'
+    link: 'https://pub.dartlang.org/packages/intl'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
