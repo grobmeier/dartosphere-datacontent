@@ -50975,3 +50975,21 @@
     link: 'https://pub.dartlang.org/packages/plot_window'
     author:
         - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: resource
+    package_version: v1.0.0
+    title: 'v1.0.0 of resource'
+    published: '2016-01-15T09:39:23+00:00'
+    id: 'urn:uuid:fa034e1b-2937-5524-8bf8-ccb7cf4daef6'
+    link: 'https://pub.dartlang.org/packages/resource'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: rxdart
+    package_version: v0.3.9
+    title: 'v0.3.9 of rxdart'
+    published: '2016-01-15T09:21:43+00:00'
+    id: 'urn:uuid:c26f68ed-9940-5e05-b06a-984ce506b17a'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
