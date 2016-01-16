@@ -51020,3 +51020,30 @@
     link: 'https://pub.dartlang.org/packages/peanut'
     author:
         - 'Kevin Moore <github@j832.com>'
+-
+    package_name: dart_style
+    package_version: v0.2.4
+    title: 'v0.2.4 of dart_style'
+    published: '2016-01-16T00:51:37+00:00'
+    id: 'urn:uuid:5573fad7-d390-5691-ac2b-a4abe9087091'
+    link: 'https://pub.dartlang.org/packages/dart_style'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: sky_services
+    package_version: v0.0.84
+    title: 'v0.0.84 of sky_services'
+    published: '2016-01-16T00:34:37+00:00'
+    id: 'urn:uuid:97f6d294-d187-5eda-a30d-f4ad072e2748'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.84
+    title: 'v0.0.84 of sky_engine'
+    published: '2016-01-16T00:34:34+00:00'
+    id: 'urn:uuid:dd344bcc-3083-50c2-b973-2441691a8306'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
