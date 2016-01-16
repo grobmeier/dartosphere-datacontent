@@ -51065,3 +51065,12 @@
     link: 'https://pub.dartlang.org/packages/bootstrap_less'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: verbal_expressions
+    package_version: v0.1.0
+    title: 'v0.1.0 of verbal_expressions'
+    published: '2016-01-16T20:39:44+00:00'
+    id: 'urn:uuid:0d9b2073-4911-5394-9bf6-f7b30acd8021'
+    link: 'https://pub.dartlang.org/packages/verbal_expressions'
+    author:
+        - 'Ne4istb <anechytailov@gmail.com>'
