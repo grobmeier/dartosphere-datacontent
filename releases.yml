@@ -51047,3 +51047,12 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: bootstrap_sass
+    package_version: v3.3.6
+    title: 'v3.3.6 of bootstrap_sass'
+    published: '2016-01-16T17:46:24+00:00'
+    id: 'urn:uuid:c17de998-564f-5e57-bbab-a2b518adb306'
+    link: 'https://pub.dartlang.org/packages/bootstrap_sass'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
