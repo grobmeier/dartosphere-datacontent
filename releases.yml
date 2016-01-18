@@ -51128,3 +51128,12 @@
     link: 'https://pub.dartlang.org/packages/mathjax'
     author:
         - 'Kasper Peulen <kasperpeulen@gmail.com>'
+-
+    package_name: mdl
+    package_version: v1.15.0
+    title: 'v1.15.0 of mdl'
+    published: '2016-01-18T14:24:34+00:00'
+    id: 'urn:uuid:d107cffd-e075-593a-b2a6-6a77c50ccc15'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
