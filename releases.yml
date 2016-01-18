@@ -51146,3 +51146,12 @@
     link: 'https://pub.dartlang.org/packages/react'
     author:
         - 'Clean Team <clean@vacuumlabs.com>'
+-
+    package_name: mdl
+    package_version: v1.15.1
+    title: 'v1.15.1 of mdl'
+    published: '2016-01-18T18:57:01+00:00'
+    id: 'urn:uuid:5db911c2-7705-5e7a-ae80-0fb4297ac561'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
