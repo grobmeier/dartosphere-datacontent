@@ -51110,3 +51110,12 @@
     link: 'https://pub.dartlang.org/packages/elements'
     author:
         - 'Patrick Minogue <patrick.minogue@appfoundry.se>'
+-
+    package_name: polymer_app
+    package_version: v0.7.1
+    title: 'v0.7.1 of polymer_app'
+    published: '2016-01-18T02:24:41+00:00'
+    id: 'urn:uuid:a65f75e1-ee16-5480-a85a-7881283aedc0'
+    link: 'https://pub.dartlang.org/packages/polymer_app'
+    author:
+        - 'Walletek <hadrien.lejard@gmail.com>'
