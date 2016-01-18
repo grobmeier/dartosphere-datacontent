@@ -51119,3 +51119,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_app'
     author:
         - 'Walletek <hadrien.lejard@gmail.com>'
+-
+    package_name: mathjax
+    package_version: v0.0.6
+    title: 'v0.0.6 of mathjax'
+    published: '2016-01-18T13:46:24+00:00'
+    id: 'urn:uuid:d48a3cb1-c5a1-5497-92f1-f5eba6c7d5f5'
+    link: 'https://pub.dartlang.org/packages/mathjax'
+    author:
+        - 'Kasper Peulen <kasperpeulen@gmail.com>'
