@@ -51155,3 +51155,12 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: react
+    package_version: v0.8.7
+    title: 'v0.8.7 of react'
+    published: '2016-01-18T22:51:41+00:00'
+    id: 'urn:uuid:a67edf24-35a5-5f9d-8074-529ca0d76e1a'
+    link: 'https://pub.dartlang.org/packages/react'
+    author:
+        - 'Clean Team <clean@vacuumlabs.com>'
