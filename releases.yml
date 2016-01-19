@@ -51173,3 +51173,21 @@
     link: 'https://pub.dartlang.org/packages/scissors'
     author:
         - 'Olivier Chafik <ochafik@google.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.85
+    title: 'v0.0.85 of sky_services'
+    published: '2016-01-19T18:46:09+00:00'
+    id: 'urn:uuid:0c6edead-6fbd-549b-a088-1d0dfbca5464'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.85
+    title: 'v0.0.85 of sky_engine'
+    published: '2016-01-19T18:46:06+00:00'
+    id: 'urn:uuid:65b1c9a3-3a69-51f3-b859-e187b0c709f3'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
