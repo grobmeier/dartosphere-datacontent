@@ -51245,3 +51245,12 @@
     link: 'https://pub.dartlang.org/packages/transformer_test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: yaml
+    package_version: v2.1.8
+    title: 'v2.1.8 of yaml'
+    published: '2016-01-19T23:40:37+00:00'
+    id: 'urn:uuid:751f25c3-3792-5506-b64d-f32d1255b371'
+    link: 'https://pub.dartlang.org/packages/yaml'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
