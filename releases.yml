@@ -51200,3 +51200,12 @@
     link: 'https://pub.dartlang.org/packages/websockets'
     author:
         - 'Steven Roose <stevenroose@gmail.com>'
+-
+    package_name: constrain
+    package_version: v0.2.7
+    title: 'v0.2.7 of constrain'
+    published: '2016-01-19T20:39:36+00:00'
+    id: 'urn:uuid:c6a83816-7f2d-50f3-b8cd-e6c0a4699610'
+    link: 'https://pub.dartlang.org/packages/constrain'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
