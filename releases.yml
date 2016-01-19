@@ -51209,3 +51209,21 @@
     link: 'https://pub.dartlang.org/packages/constrain'
     author:
         - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: async
+    package_version: v1.7.0
+    title: 'v1.7.0 of async'
+    published: '2016-01-19T21:48:34+00:00'
+    id: 'urn:uuid:ac35356e-468a-5646-b7fd-03a612a5be6c'
+    link: 'https://pub.dartlang.org/packages/async'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: verbal_expressions
+    package_version: v0.2.0
+    title: 'v0.2.0 of verbal_expressions'
+    published: '2016-01-19T21:36:31+00:00'
+    id: 'urn:uuid:360ec87e-2592-50fd-94fd-1d2b1001159f'
+    link: 'https://pub.dartlang.org/packages/verbal_expressions'
+    author:
+        - 'Ne4istb <anechytailov@gmail.com>'
