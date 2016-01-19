@@ -51164,3 +51164,12 @@
     link: 'https://pub.dartlang.org/packages/react'
     author:
         - 'Clean Team <clean@vacuumlabs.com>'
+-
+    package_name: scissors
+    package_version: v0.4.0
+    title: 'v0.4.0 of scissors'
+    published: '2016-01-19T10:20:39+00:00'
+    id: 'urn:uuid:a07ab571-6103-5b46-890a-ba898a1e349a'
+    link: 'https://pub.dartlang.org/packages/scissors'
+    author:
+        - 'Olivier Chafik <ochafik@google.com>'
