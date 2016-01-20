@@ -51254,3 +51254,25 @@
     link: 'https://pub.dartlang.org/packages/yaml'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: args
+    package_version: v0.13.3+1
+    title: 'v0.13.3+1 of args'
+    published: '2016-01-20T00:44:50+00:00'
+    id: 'urn:uuid:3e3c2b00-4a5f-5a54-9a7f-96c3a338fd1a'
+    link: 'https://pub.dartlang.org/packages/args'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: di
+    package_version: v3.3.6
+    title: 'v3.3.6 of di'
+    published: '2016-01-20T00:11:35+00:00'
+    id: 'urn:uuid:1d1e6e95-7917-55d0-8291-5a9e8e5471a6'
+    link: 'https://pub.dartlang.org/packages/di'
+    author:
+        - 'Vojta Jina <vojta.jina@gmail.com>'
+        - 'Pavel Jbanov <pavelgj@gmail.com>'
+        - 'Anting Shen <shenantingtt@gmail.com>'
+        - 'Misko Hevery <misko@hevery.com>'
+        - 'Victor Berchet <victor@suumit.com>'
