@@ -51366,3 +51366,12 @@
     link: 'https://pub.dartlang.org/packages/initialize'
     author:
         - 'Polymer.dart Authors <web@dartlang.org>'
+-
+    package_name: json_interop
+    package_version: v0.0.1+2
+    title: 'v0.0.1+2 of json_interop'
+    published: '2016-01-20T17:21:34+00:00'
+    id: 'urn:uuid:8bd4bbd1-5741-5c5c-8f47-5146d9da3089'
+    link: 'https://pub.dartlang.org/packages/json_interop'
+    author:
+        - 'Kasper Peulen <kasperpeulen@gmail.com>'
