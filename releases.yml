@@ -51384,3 +51384,30 @@
     link: 'https://pub.dartlang.org/packages/lambert'
     author:
         - 'Yannick Heinrich <yannick.heinrich@gmail.com>'
+-
+    package_name: usage
+    package_version: v1.2.0
+    title: 'v1.2.0 of usage'
+    published: '2016-01-20T20:49:52+00:00'
+    id: 'urn:uuid:d2d86f40-8748-5784-94ed-3e41c0c44368'
+    link: 'https://pub.dartlang.org/packages/usage'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: envy
+    package_version: v0.0.7
+    title: 'v0.0.7 of envy'
+    published: '2016-01-20T20:47:46+00:00'
+    id: 'urn:uuid:1ea27486-098a-55a4-aedd-083f8739c70e'
+    link: 'https://pub.dartlang.org/packages/envy'
+    author:
+        - 'Rob Bishop <@robbishop65@gmail.com>'
+-
+    package_name: core_elements
+    package_version: v0.7.1+6
+    title: 'v0.7.1+6 of core_elements'
+    published: '2016-01-20T20:16:10+00:00'
+    id: 'urn:uuid:8ac19f4b-149c-5d44-a06b-885f9617d0bc'
+    link: 'https://pub.dartlang.org/packages/core_elements'
+    author:
+        - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
