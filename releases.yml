@@ -51411,3 +51411,12 @@
     link: 'https://pub.dartlang.org/packages/core_elements'
     author:
         - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: envy
+    package_version: v0.0.7+1
+    title: 'v0.0.7+1 of envy'
+    published: '2016-01-20T22:16:27+00:00'
+    id: 'urn:uuid:308dd336-38c5-519b-abef-89d3bc041843'
+    link: 'https://pub.dartlang.org/packages/envy'
+    author:
+        - 'Rob Bishop <@robbishop65@gmail.com>'
