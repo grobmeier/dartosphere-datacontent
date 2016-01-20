@@ -51276,3 +51276,12 @@
         - 'Anting Shen <shenantingtt@gmail.com>'
         - 'Misko Hevery <misko@hevery.com>'
         - 'Victor Berchet <victor@suumit.com>'
+-
+    package_name: scissors
+    package_version: v0.4.1
+    title: 'v0.4.1 of scissors'
+    published: '2016-01-20T01:29:43+00:00'
+    id: 'urn:uuid:c36fe32f-0d7d-5db9-9619-8db07d1ed0c8'
+    link: 'https://pub.dartlang.org/packages/scissors'
+    author:
+        - 'Olivier Chafik <ochafik@google.com>'
