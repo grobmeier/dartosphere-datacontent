@@ -51375,3 +51375,12 @@
     link: 'https://pub.dartlang.org/packages/json_interop'
     author:
         - 'Kasper Peulen <kasperpeulen@gmail.com>'
+-
+    package_name: lambert
+    package_version: v0.0.1
+    title: 'v0.0.1 of lambert'
+    published: '2016-01-20T19:07:42+00:00'
+    id: 'urn:uuid:f93c6324-12d5-5acf-82fe-71c3798e811a'
+    link: 'https://pub.dartlang.org/packages/lambert'
+    author:
+        - 'Yannick Heinrich <yannick.heinrich@gmail.com>'
