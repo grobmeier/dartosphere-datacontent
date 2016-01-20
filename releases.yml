@@ -51285,3 +51285,21 @@
     link: 'https://pub.dartlang.org/packages/scissors'
     author:
         - 'Olivier Chafik <ochafik@google.com>'
+-
+    package_name: polymer_app
+    package_version: v0.7.2
+    title: 'v0.7.2 of polymer_app'
+    published: '2016-01-20T02:21:02+00:00'
+    id: 'urn:uuid:8949d8ca-ea04-5510-a1cc-d0394af3ebb0'
+    link: 'https://pub.dartlang.org/packages/polymer_app'
+    author:
+        - 'Walletek <hadrien.lejard@gmail.com>'
+-
+    package_name: ebisu
+    package_version: v0.6.13
+    title: 'v0.6.13 of ebisu'
+    published: '2016-01-20T02:06:02+00:00'
+    id: 'urn:uuid:c6be6d69-faf6-52a5-88e7-07fa642b1c3a'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
