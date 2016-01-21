@@ -51519,3 +51519,12 @@
     link: 'https://pub.dartlang.org/packages/dockerfile'
     author:
         - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: resource
+    package_version: v1.0.1
+    title: 'v1.0.1 of resource'
+    published: '2016-01-21T13:31:19+00:00'
+    id: 'urn:uuid:1aacffb7-6d2d-54eb-978e-ca29e0731a1a'
+    link: 'https://pub.dartlang.org/packages/resource'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
