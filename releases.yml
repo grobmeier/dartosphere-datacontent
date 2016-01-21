@@ -51474,3 +51474,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_app'
     author:
         - 'Walletek <hadrien.lejard@gmail.com>'
+-
+    package_name: dye
+    package_version: v0.0.2
+    title: 'v0.0.2 of dye'
+    published: '2016-01-21T04:56:57+00:00'
+    id: 'urn:uuid:6ccd93d3-e486-51cc-9fee-ca7c663519b9'
+    link: 'https://pub.dartlang.org/packages/dye'
+    author:
+        - 'Andrew Peterson <andrewwaynepeterson@gmail.com>'
