@@ -51465,3 +51465,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu_cpp'
     author:
         - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: polymer_app
+    package_version: v0.7.4
+    title: 'v0.7.4 of polymer_app'
+    published: '2016-01-21T03:51:05+00:00'
+    id: 'urn:uuid:58ad353e-7ee0-5687-b39a-78dc5533495d'
+    link: 'https://pub.dartlang.org/packages/polymer_app'
+    author:
+        - 'Walletek <hadrien.lejard@gmail.com>'
