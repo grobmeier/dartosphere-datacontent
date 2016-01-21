@@ -51438,3 +51438,21 @@
     link: 'https://pub.dartlang.org/packages/polymer_app_router'
     author:
         - 'Walletek <hadrien.lejard@gmail.com>'
+-
+    package_name: log
+    package_version: v0.0.1
+    title: 'v0.0.1 of log'
+    published: '2016-01-21T01:21:12+00:00'
+    id: 'urn:uuid:e3a49623-0c88-5c22-9825-a28e1b7ad1a6'
+    link: 'https://pub.dartlang.org/packages/log'
+    author:
+        - 'Andrew Peterson <andrewwaynepeterson@gmail.com>'
+-
+    package_name: dye
+    package_version: v0.0.1
+    title: 'v0.0.1 of dye'
+    published: '2016-01-21T01:06:14+00:00'
+    id: 'urn:uuid:a3b643eb-892d-5d13-9a94-58c5bb96a229'
+    link: 'https://pub.dartlang.org/packages/dye'
+    author:
+        - 'Andrew Peterson <andrewwaynepeterson@gmail.com>'
