@@ -51483,3 +51483,12 @@
     link: 'https://pub.dartlang.org/packages/dye'
     author:
         - 'Andrew Peterson <andrewwaynepeterson@gmail.com>'
+-
+    package_name: yamlicious
+    package_version: v0.0.4
+    title: 'v0.0.4 of yamlicious'
+    published: '2016-01-21T08:53:00+00:00'
+    id: 'urn:uuid:107d792f-cb13-5883-b0f7-211ca1fe65b2'
+    link: 'https://pub.dartlang.org/packages/yamlicious'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
