@@ -51492,3 +51492,30 @@
     link: 'https://pub.dartlang.org/packages/yamlicious'
     author:
         - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: jefe
+    package_version: v0.2.7
+    title: 'v0.2.7 of jefe'
+    published: '2016-01-21T11:15:59+00:00'
+    id: 'urn:uuid:335de8fa-579d-5945-bb46-ec4656583700'
+    link: 'https://pub.dartlang.org/packages/jefe'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: pubspec
+    package_version: v0.0.6
+    title: 'v0.0.6 of pubspec'
+    published: '2016-01-21T11:15:30+00:00'
+    id: 'urn:uuid:74e2356e-577d-5eb7-ba37-200d71457661'
+    link: 'https://pub.dartlang.org/packages/pubspec'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: dockerfile
+    package_version: v0.0.2
+    title: 'v0.0.2 of dockerfile'
+    published: '2016-01-21T11:15:03+00:00'
+    id: 'urn:uuid:ff9e8677-8ac6-559f-b247-bf259f6ceee6'
+    link: 'https://pub.dartlang.org/packages/dockerfile'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
