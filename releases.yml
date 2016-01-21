@@ -51528,3 +51528,30 @@
     link: 'https://pub.dartlang.org/packages/resource'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: jefe
+    package_version: v0.2.8
+    title: 'v0.2.8 of jefe'
+    published: '2016-01-21T21:27:54+00:00'
+    id: 'urn:uuid:06dc6fe0-6569-51ee-a20d-32d0913ed198'
+    link: 'https://pub.dartlang.org/packages/jefe'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: pubspec
+    package_version: v0.0.7
+    title: 'v0.0.7 of pubspec'
+    published: '2016-01-21T21:27:29+00:00'
+    id: 'urn:uuid:d5eadf63-4dbb-5c1a-9489-d68413be90c8'
+    link: 'https://pub.dartlang.org/packages/pubspec'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: stuff
+    package_version: v0.0.4
+    title: 'v0.0.4 of stuff'
+    published: '2016-01-21T21:26:54+00:00'
+    id: 'urn:uuid:2039cbc8-5603-58f7-b762-c63443ecf0df'
+    link: 'https://pub.dartlang.org/packages/stuff'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
