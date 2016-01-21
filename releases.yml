@@ -51555,3 +51555,21 @@
     link: 'https://pub.dartlang.org/packages/stuff'
     author:
         - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: polymer_app
+    package_version: v0.7.4+1
+    title: 'v0.7.4+1 of polymer_app'
+    published: '2016-01-21T23:39:45+00:00'
+    id: 'urn:uuid:f9e6020b-d516-500b-82bf-75a177c18e78'
+    link: 'https://pub.dartlang.org/packages/polymer_app'
+    author:
+        - 'Walletek <hadrien.lejard@gmail.com>'
+-
+    package_name: log
+    package_version: v0.0.2
+    title: 'v0.0.2 of log'
+    published: '2016-01-21T23:22:23+00:00'
+    id: 'urn:uuid:d4cde078-3722-5baf-be16-f57b66173a43'
+    link: 'https://pub.dartlang.org/packages/log'
+    author:
+        - 'Andrew Peterson <andrewwaynepeterson@gmail.com>'
