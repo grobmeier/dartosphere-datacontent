@@ -51600,3 +51600,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_app'
     author:
         - 'Walletek <hadrien.lejard@gmail.com>'
+-
+    package_name: web_server
+    package_version: v2.0.0+2
+    title: 'v2.0.0+2 of web_server'
+    published: '2016-01-22T01:21:30+00:00'
+    id: 'urn:uuid:5a6eba68-d8fd-5e4b-a5bd-c894055fda32'
+    link: 'https://pub.dartlang.org/packages/web_server'
+    author:
+        - 'Brandon White <jennexproject+webserver@gmail.com>'
