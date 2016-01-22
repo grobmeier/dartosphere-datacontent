@@ -51654,3 +51654,21 @@
     link: 'https://pub.dartlang.org/packages/ebisu_pod'
     author:
         - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.86
+    title: 'v0.0.86 of sky_services'
+    published: '2016-01-22T17:08:42+00:00'
+    id: 'urn:uuid:9fd9a648-fb45-5842-bd8d-aefe1fb26e28'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.86
+    title: 'v0.0.86 of sky_engine'
+    published: '2016-01-22T17:08:38+00:00'
+    id: 'urn:uuid:1b4284b2-afa6-515a-b22c-139a824b3d98'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
