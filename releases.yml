@@ -51684,3 +51684,12 @@
         - 'Rick Zhou <z.zhou@dglogik.com>'
         - 'Michael Bullington <m.bullington@dglogik.com>'
         - 'Matthew Butler <m.butler@dglogik.com>'
+-
+    package_name: observe
+    package_version: v0.13.4
+    title: 'v0.13.4 of observe'
+    published: '2016-01-22T21:28:07+00:00'
+    id: 'urn:uuid:070a35ff-46db-51c0-b4e1-a6b250a22f50'
+    link: 'https://pub.dartlang.org/packages/observe'
+    author:
+        - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
