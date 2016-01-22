@@ -51672,3 +51672,15 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: dslink
+    package_version: v0.5.4+1
+    title: 'v0.5.4+1 of dslink'
+    published: '2016-01-22T20:02:24+00:00'
+    id: 'urn:uuid:9e088b91-b175-58fa-9347-df58b6ac30fb'
+    link: 'https://pub.dartlang.org/packages/dslink'
+    author:
+        - 'Kenneth Endfinger <k.endfinger@dglogik.com>'
+        - 'Rick Zhou <z.zhou@dglogik.com>'
+        - 'Michael Bullington <m.bullington@dglogik.com>'
+        - 'Matthew Butler <m.butler@dglogik.com>'
