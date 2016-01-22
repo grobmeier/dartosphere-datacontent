@@ -51627,3 +51627,12 @@
     link: 'https://pub.dartlang.org/packages/complex_matrix'
     author:
         - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: ebisu_pod
+    package_version: v0.0.5
+    title: 'v0.0.5 of ebisu_pod'
+    published: '2016-01-22T11:38:47+00:00'
+    id: 'urn:uuid:9b2c567e-bc9f-5d79-9101-78f4512767fb'
+    link: 'https://pub.dartlang.org/packages/ebisu_pod'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
