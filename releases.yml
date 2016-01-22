@@ -51573,3 +51573,30 @@
     link: 'https://pub.dartlang.org/packages/log'
     author:
         - 'Andrew Peterson <andrewwaynepeterson@gmail.com>'
+-
+    package_name: ebisu_pod
+    package_version: v0.0.4
+    title: 'v0.0.4 of ebisu_pod'
+    published: '2016-01-22T00:58:37+00:00'
+    id: 'urn:uuid:ac5eae2b-6305-5e96-b281-01d7207cce01'
+    link: 'https://pub.dartlang.org/packages/ebisu_pod'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: ebisu
+    package_version: v0.6.14
+    title: 'v0.6.14 of ebisu'
+    published: '2016-01-22T00:54:21+00:00'
+    id: 'urn:uuid:45209ed8-caab-53af-84ef-965d8f3a66fc'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: polymer_app
+    package_version: v0.7.4+2
+    title: 'v0.7.4+2 of polymer_app'
+    published: '2016-01-22T00:13:45+00:00'
+    id: 'urn:uuid:6ad37971-fc8a-5ef6-b898-7959ea951125'
+    link: 'https://pub.dartlang.org/packages/polymer_app'
+    author:
+        - 'Walletek <hadrien.lejard@gmail.com>'
