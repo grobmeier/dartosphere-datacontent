@@ -51618,3 +51618,12 @@
     link: 'https://pub.dartlang.org/packages/process_run'
     author:
         - 'Tekartik <dev@tekartik.com>'
+-
+    package_name: complex_matrix
+    package_version: v0.0.3
+    title: 'v0.0.3 of complex_matrix'
+    published: '2016-01-22T10:15:06+00:00'
+    id: 'urn:uuid:1c03afcc-4bc3-5ee5-9886-363a573b4191'
+    link: 'https://pub.dartlang.org/packages/complex_matrix'
+    author:
+        - 'Edouard Tavinor <edouardtavinor@gmail.com>'
