@@ -51636,3 +51636,21 @@
     link: 'https://pub.dartlang.org/packages/ebisu_pod'
     author:
         - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: complex_matrix
+    package_version: v0.0.4
+    title: 'v0.0.4 of complex_matrix'
+    published: '2016-01-22T12:39:15+00:00'
+    id: 'urn:uuid:d120875b-b4f2-5d43-bf85-12b1c9e36b14'
+    link: 'https://pub.dartlang.org/packages/complex_matrix'
+    author:
+        - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: ebisu_pod
+    package_version: v0.0.6
+    title: 'v0.0.6 of ebisu_pod'
+    published: '2016-01-22T12:12:10+00:00'
+    id: 'urn:uuid:6469a67a-c2d2-5fcc-9958-e7fb75ee5e5a'
+    link: 'https://pub.dartlang.org/packages/ebisu_pod'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
