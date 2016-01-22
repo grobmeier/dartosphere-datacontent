@@ -51609,3 +51609,12 @@
     link: 'https://pub.dartlang.org/packages/web_server'
     author:
         - 'Brandon White <jennexproject+webserver@gmail.com>'
+-
+    package_name: process_run
+    package_version: v0.3.2
+    title: 'v0.3.2 of process_run'
+    published: '2016-01-22T09:33:36+00:00'
+    id: 'urn:uuid:bffa7ce0-21b7-5f94-ac60-ff85c1a22d76'
+    link: 'https://pub.dartlang.org/packages/process_run'
+    author:
+        - 'Tekartik <dev@tekartik.com>'
