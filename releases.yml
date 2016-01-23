@@ -51732,3 +51732,12 @@
     link: 'https://pub.dartlang.org/packages/angular2_rbi'
     author:
         - 'Jim Washington <washington.jim@gmail.com>'
+-
+    package_name: dogma_codegen
+    package_version: v0.0.1
+    title: 'v0.0.1 of dogma_codegen'
+    published: '2016-01-23T16:56:36+00:00'
+    id: 'urn:uuid:fbd51c62-0e65-50a6-80ee-245903fc9552'
+    link: 'https://pub.dartlang.org/packages/dogma_codegen'
+    author:
+        - 'Don Olmstead <don.j.olmstead@gmail.com>'
