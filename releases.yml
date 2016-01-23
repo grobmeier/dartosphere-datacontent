@@ -51750,3 +51750,12 @@
     link: 'https://pub.dartlang.org/packages/dogma_json_schema'
     author:
         - 'Don Olmstead <don.j.olmstead@gmail.com>'
+-
+    package_name: md_proc
+    package_version: v0.8.2
+    title: 'v0.8.2 of md_proc'
+    published: '2016-01-23T21:55:52+00:00'
+    id: 'urn:uuid:e37d087c-9800-5abf-822d-77173c6925ad'
+    link: 'https://pub.dartlang.org/packages/md_proc'
+    author:
+        - 'Maxim Dikun <dikmax@gmail.com>'
