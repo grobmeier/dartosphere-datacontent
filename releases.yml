@@ -51693,3 +51693,15 @@
     link: 'https://pub.dartlang.org/packages/observe'
     author:
         - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: dslink
+    package_version: v0.5.5
+    title: 'v0.5.5 of dslink'
+    published: '2016-01-23T00:02:57+00:00'
+    id: 'urn:uuid:4a3c7d3c-ece7-52a2-a31d-daeaa6d3fbc1'
+    link: 'https://pub.dartlang.org/packages/dslink'
+    author:
+        - 'Kenneth Endfinger <k.endfinger@dglogik.com>'
+        - 'Rick Zhou <z.zhou@dglogik.com>'
+        - 'Michael Bullington <m.bullington@dglogik.com>'
+        - 'Matthew Butler <m.butler@dglogik.com>'
