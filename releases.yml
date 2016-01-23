@@ -51705,3 +51705,12 @@
         - 'Rick Zhou <z.zhou@dglogik.com>'
         - 'Michael Bullington <m.bullington@dglogik.com>'
         - 'Matthew Butler <m.butler@dglogik.com>'
+-
+    package_name: smartcanvas
+    package_version: v0.2.1
+    title: 'v0.2.1 of smartcanvas'
+    published: '2016-01-23T03:08:41+00:00'
+    id: 'urn:uuid:dc9e5d0e-8c21-5878-b4d4-753455c2787e'
+    link: 'https://pub.dartlang.org/packages/smartcanvas'
+    author:
+        - 'Kun Zhao <kzhdev@gmail.com>'
