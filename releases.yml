@@ -51759,3 +51759,30 @@
     link: 'https://pub.dartlang.org/packages/md_proc'
     author:
         - 'Maxim Dikun <dikmax@gmail.com>'
+-
+    package_name: jefe
+    package_version: v0.2.9
+    title: 'v0.2.9 of jefe'
+    published: '2016-01-23T23:28:28+00:00'
+    id: 'urn:uuid:77482af9-b663-5e1e-bbdd-ddb2738cb480'
+    link: 'https://pub.dartlang.org/packages/jefe'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: pubspec
+    package_version: v0.0.8
+    title: 'v0.0.8 of pubspec'
+    published: '2016-01-23T23:28:00+00:00'
+    id: 'urn:uuid:eed7c2f0-46a3-5630-8b0c-c81a4d23f0f3'
+    link: 'https://pub.dartlang.org/packages/pubspec'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: dockerfile
+    package_version: v0.0.3
+    title: 'v0.0.3 of dockerfile'
+    published: '2016-01-23T23:27:35+00:00'
+    id: 'urn:uuid:acc50936-f973-5df8-a2d0-a3f62d3bf3a6'
+    link: 'https://pub.dartlang.org/packages/dockerfile'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
