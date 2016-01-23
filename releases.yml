@@ -51714,3 +51714,21 @@
     link: 'https://pub.dartlang.org/packages/smartcanvas'
     author:
         - 'Kun Zhao <kzhdev@gmail.com>'
+-
+    package_name: bliss
+    package_version: v0.1.1
+    title: 'v0.1.1 of bliss'
+    published: '2016-01-23T14:39:26+00:00'
+    id: 'urn:uuid:8e0c1154-2b53-5d11-8e3e-fdfc9d0b80a6'
+    link: 'https://pub.dartlang.org/packages/bliss'
+    author:
+        - 'Steven Upton <steven.upton@indecks.co>'
+-
+    package_name: angular2_rbi
+    package_version: v0.0.4
+    title: 'v0.0.4 of angular2_rbi'
+    published: '2016-01-23T14:22:28+00:00'
+    id: 'urn:uuid:bb0ae082-e033-57d1-93de-ae0365079579'
+    link: 'https://pub.dartlang.org/packages/angular2_rbi'
+    author:
+        - 'Jim Washington <washington.jim@gmail.com>'
