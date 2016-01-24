@@ -51804,3 +51804,25 @@
     link: 'https://pub.dartlang.org/packages/pubspec'
     author:
         - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: dslink
+    package_version: v0.5.6
+    title: 'v0.5.6 of dslink'
+    published: '2016-01-24T06:55:52+00:00'
+    id: 'urn:uuid:b87e39a3-d545-5be3-9779-973e9351b050'
+    link: 'https://pub.dartlang.org/packages/dslink'
+    author:
+        - 'Kenneth Endfinger <k.endfinger@dglogik.com>'
+        - 'Rick Zhou <z.zhou@dglogik.com>'
+        - 'Michael Bullington <m.bullington@dglogik.com>'
+        - 'Matthew Butler <m.butler@dglogik.com>'
+-
+    package_name: msgpack
+    package_version: v0.3.0
+    title: 'v0.3.0 of msgpack'
+    published: '2016-01-24T06:52:41+00:00'
+    id: 'urn:uuid:d7bb78d8-7200-51ae-a1a5-33588dcf433e'
+    link: 'https://pub.dartlang.org/packages/msgpack'
+    author:
+        - 'Kenneth Endfinger <kaendfinger@gmail.com>'
+        - 'Dan Ellis <dan@danellis.me>'
