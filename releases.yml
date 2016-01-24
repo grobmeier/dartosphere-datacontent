@@ -51854,3 +51854,12 @@
     link: 'https://pub.dartlang.org/packages/security'
     author:
         - 'Roman Shamritskiy <roman@litgroup.ru>'
+-
+    package_name: polymer_app_router
+    package_version: v0.2.0
+    title: 'v0.2.0 of polymer_app_router'
+    published: '2016-01-24T19:08:47+00:00'
+    id: 'urn:uuid:85cec99e-2f31-5933-afc1-44132bec02f7'
+    link: 'https://pub.dartlang.org/packages/polymer_app_router'
+    author:
+        - 'Walletek <hadrien.lejard@gmail.com>'
