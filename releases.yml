@@ -51845,3 +51845,12 @@
     link: 'https://pub.dartlang.org/packages/stagexl'
     author:
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: security
+    package_version: v0.0.1
+    title: 'v0.0.1 of security'
+    published: '2016-01-24T13:09:24+00:00'
+    id: 'urn:uuid:99254476-5c53-5a6c-968e-c8c92991a958'
+    link: 'https://pub.dartlang.org/packages/security'
+    author:
+        - 'Roman Shamritskiy <roman@litgroup.ru>'
