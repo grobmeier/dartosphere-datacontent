@@ -51826,3 +51826,22 @@
     author:
         - 'Kenneth Endfinger <kaendfinger@gmail.com>'
         - 'Dan Ellis <dan@danellis.me>'
+-
+    package_name: stagexl_richtextfield
+    package_version: v0.1.3+3
+    title: 'v0.1.3+3 of stagexl_richtextfield'
+    published: '2016-01-24T07:37:05+00:00'
+    id: 'urn:uuid:28689bf4-ccf1-51f1-a2f0-779f4cc1ab58'
+    link: 'https://pub.dartlang.org/packages/stagexl_richtextfield'
+    author:
+        - 'Alex Gann <k.alexgann@gmail.com>'
+        - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: stagexl
+    package_version: v0.13.1
+    title: 'v0.13.1 of stagexl'
+    published: '2016-01-24T07:21:39+00:00'
+    id: 'urn:uuid:d57911d8-e191-5130-af37-19e096680865'
+    link: 'https://pub.dartlang.org/packages/stagexl'
+    author:
+        - 'Bernhard Pichler <support@stagexl.org>'
