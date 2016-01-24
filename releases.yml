@@ -51786,3 +51786,21 @@
     link: 'https://pub.dartlang.org/packages/dockerfile'
     author:
         - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: jefe
+    package_version: v0.2.10
+    title: 'v0.2.10 of jefe'
+    published: '2016-01-24T00:25:31+00:00'
+    id: 'urn:uuid:381739b6-06a7-5bb6-848f-39d4fadc34f7'
+    link: 'https://pub.dartlang.org/packages/jefe'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: pubspec
+    package_version: v0.0.9
+    title: 'v0.0.9 of pubspec'
+    published: '2016-01-24T00:25:03+00:00'
+    id: 'urn:uuid:ad8eca98-fdb3-58e3-8640-bc40621e4dd5'
+    link: 'https://pub.dartlang.org/packages/pubspec'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
