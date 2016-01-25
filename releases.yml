@@ -51948,3 +51948,12 @@
     link: 'https://pub.dartlang.org/packages/elements'
     author:
         - 'Patrick Minogue <patrick.minogue@appfoundry.se>'
+-
+    package_name: omnibus
+    package_version: v0.1.0
+    title: 'v0.1.0 of omnibus'
+    published: '2016-01-25T19:49:59+00:00'
+    id: 'urn:uuid:163901f9-d329-5103-8093-1361f30ca307'
+    link: 'https://pub.dartlang.org/packages/omnibus'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
