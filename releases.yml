@@ -51908,3 +51908,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_datepicker'
     author:
         - 'Drafintech <info@drafintech.it>'
+-
+    package_name: latlong
+    package_version: v0.1.2
+    title: 'v0.1.2 of latlong'
+    published: '2016-01-25T14:30:52+00:00'
+    id: 'urn:uuid:d5db7c66-cc3d-5b3c-994d-9ca3c4a0db18'
+    link: 'https://pub.dartlang.org/packages/latlong'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
