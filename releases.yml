@@ -51984,3 +51984,21 @@
     link: 'https://pub.dartlang.org/packages/v23discovery'
     author:
         - 'Vanadium Authors'
+-
+    package_name: async
+    package_version: v1.8.0
+    title: 'v1.8.0 of async'
+    published: '2016-01-25T22:40:48+00:00'
+    id: 'urn:uuid:f9f083ed-80f0-5d4f-b005-d2598e4e75c9'
+    link: 'https://pub.dartlang.org/packages/async'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: omnibus
+    package_version: v0.2.0
+    title: 'v0.2.0 of omnibus'
+    published: '2016-01-25T22:30:18+00:00'
+    id: 'urn:uuid:43ac33e2-70fb-584a-9c8a-03fae354d76f'
+    link: 'https://pub.dartlang.org/packages/omnibus'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
