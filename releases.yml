@@ -51863,3 +51863,21 @@
     link: 'https://pub.dartlang.org/packages/polymer_app_router'
     author:
         - 'Walletek <hadrien.lejard@gmail.com>'
+-
+    package_name: project_builder
+    package_version: v1.0.1
+    title: 'v1.0.1 of project_builder'
+    published: '2016-01-25T00:54:38+00:00'
+    id: 'urn:uuid:20264804-0ada-5286-a258-d756fa9e767e'
+    link: 'https://pub.dartlang.org/packages/project_builder'
+    author:
+        - 'Borut Jegrisnik <borut@medianova.hr>'
+-
+    package_name: ebisu_cpp
+    package_version: v0.3.14
+    title: 'v0.3.14 of ebisu_cpp'
+    published: '2016-01-25T00:16:38+00:00'
+    id: 'urn:uuid:46de34e1-2cc7-5c6c-826c-652f3ba6968c'
+    link: 'https://pub.dartlang.org/packages/ebisu_cpp'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
