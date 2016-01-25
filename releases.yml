@@ -51917,3 +51917,34 @@
     link: 'https://pub.dartlang.org/packages/latlong'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: redstone
+    package_version: v0.6.4
+    title: 'v0.6.4 of redstone'
+    published: '2016-01-25T15:59:36+00:00'
+    id: 'urn:uuid:b74a1fca-b24c-527b-9374-87c5e9eba7b5'
+    link: 'https://pub.dartlang.org/packages/redstone'
+    author:
+        - 'Luiz Mineo <luiz.mineo@gmail.com>'
+        - 'Kenneth Endfinger <kaendfinger@gmail.com>'
+        - 'Austin Cummings <austincummings95@gmail.com>'
+        - 'Cristian Garcia <cgarcia.e88@gmail.com>'
+        - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
+-
+    package_name: selectize
+    package_version: v0.1.2
+    title: 'v0.1.2 of selectize'
+    published: '2016-01-25T15:41:07+00:00'
+    id: 'urn:uuid:74f5ab60-fb5d-5db5-86e1-de7037415793'
+    link: 'https://pub.dartlang.org/packages/selectize'
+    author:
+        - 'CJKAO <kaopeter@gmail.com>'
+-
+    package_name: elements
+    package_version: v0.9.74
+    title: 'v0.9.74 of elements'
+    published: '2016-01-25T15:25:10+00:00'
+    id: 'urn:uuid:ed0ca874-80ce-5dad-a5ab-2ebe8af5f416'
+    link: 'https://pub.dartlang.org/packages/elements'
+    author:
+        - 'Patrick Minogue <patrick.minogue@appfoundry.se>'
