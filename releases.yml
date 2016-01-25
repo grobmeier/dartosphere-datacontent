@@ -51899,3 +51899,12 @@
     link: 'https://pub.dartlang.org/packages/blowgun'
     author:
         - 'Alexander Haslam <champhaggy@gmail.com>'
+-
+    package_name: polymer_datepicker
+    package_version: v0.9.2+1
+    title: 'v0.9.2+1 of polymer_datepicker'
+    published: '2016-01-25T09:15:16+00:00'
+    id: 'urn:uuid:dbedcf03-a145-57b6-883c-c6613021dd4f'
+    link: 'https://pub.dartlang.org/packages/polymer_datepicker'
+    author:
+        - 'Drafintech <info@drafintech.it>'
