@@ -51881,3 +51881,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu_cpp'
     author:
         - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: postgresql
+    package_version: v0.3.3
+    title: 'v0.3.3 of postgresql'
+    published: '2016-01-25T04:18:48+00:00'
+    id: 'urn:uuid:2bc1fd5e-ca37-55c6-8c1f-4fae374a301f'
+    link: 'https://pub.dartlang.org/packages/postgresql'
+    author:
+        - 'Greg Lowe <greg@vis.net.nz>'
