@@ -51975,3 +51975,12 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: v23discovery
+    package_version: v0.0.11
+    title: 'v0.0.11 of v23discovery'
+    published: '2016-01-25T21:32:09+00:00'
+    id: 'urn:uuid:c1ea1b35-99e5-5986-a83f-3feae887d400'
+    link: 'https://pub.dartlang.org/packages/v23discovery'
+    author:
+        - 'Vanadium Authors'
