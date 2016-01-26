@@ -52020,3 +52020,12 @@
     link: 'https://pub.dartlang.org/packages/base58check'
     author:
         - 'Steven Roose <stevenroose@gmail.com>'
+-
+    package_name: resource
+    package_version: v1.1.0
+    title: 'v1.1.0 of resource'
+    published: '2016-01-26T12:29:03+00:00'
+    id: 'urn:uuid:f77fed23-aca4-5db7-a2c5-367ddff7a7b8'
+    link: 'https://pub.dartlang.org/packages/resource'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
