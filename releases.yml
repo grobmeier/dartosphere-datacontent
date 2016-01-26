@@ -52137,3 +52137,21 @@
     link: 'https://pub.dartlang.org/packages/collection'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: scheduled_test
+    package_version: v0.12.4+4
+    title: 'v0.12.4+4 of scheduled_test'
+    published: '2016-01-26T23:22:27+00:00'
+    id: 'urn:uuid:dc89de2b-158f-5228-ac27-f2f1c9f25127'
+    link: 'https://pub.dartlang.org/packages/scheduled_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: test
+    package_version: v0.12.8
+    title: 'v0.12.8 of test'
+    published: '2016-01-26T23:16:24+00:00'
+    id: 'urn:uuid:7eeb0394-2416-57fb-94a2-70f82e5c0911'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
