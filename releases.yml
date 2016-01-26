@@ -52119,3 +52119,12 @@
     link: 'https://pub.dartlang.org/packages/bliss'
     author:
         - 'Steven Upton <steven.upton@indecks.co>'
+-
+    package_name: log
+    package_version: v0.0.3
+    title: 'v0.0.3 of log'
+    published: '2016-01-26T21:38:01+00:00'
+    id: 'urn:uuid:1e809d3b-548d-5a01-81bc-b58cc33b1759'
+    link: 'https://pub.dartlang.org/packages/log'
+    author:
+        - 'Andrew Peterson <andrewwaynepeterson@gmail.com>'
