@@ -52047,3 +52047,57 @@
     link: 'https://pub.dartlang.org/packages/pointycastle'
     author:
         - 'The Pointy Castle team'
+-
+    package_name: latlong
+    package_version: v0.2.1
+    title: 'v0.2.1 of latlong'
+    published: '2016-01-26T16:58:39+00:00'
+    id: 'urn:uuid:84bb9c7e-606c-56ab-b24c-bacda6d2d2ec'
+    link: 'https://pub.dartlang.org/packages/latlong'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: mojo_sdk
+    package_version: v0.2.11
+    title: 'v0.2.11 of mojo_sdk'
+    published: '2016-01-26T16:43:02+00:00'
+    id: 'urn:uuid:55564bb6-f49b-5acf-b8d9-309761258eef'
+    link: 'https://pub.dartlang.org/packages/mojo_sdk'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojom
+    package_version: v0.2.16
+    title: 'v0.2.16 of mojom'
+    published: '2016-01-26T16:38:43+00:00'
+    id: 'urn:uuid:3941b30a-7dc5-59b0-8af9-2355ca4fbe11'
+    link: 'https://pub.dartlang.org/packages/mojom'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_apptest
+    package_version: v0.2.16
+    title: 'v0.2.16 of mojo_apptest'
+    published: '2016-01-26T16:38:35+00:00'
+    id: 'urn:uuid:c5c3f867-abfd-567e-ab13-ef71513fa3da'
+    link: 'https://pub.dartlang.org/packages/mojo_apptest'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_services
+    package_version: v0.4.14
+    title: 'v0.4.14 of mojo_services'
+    published: '2016-01-26T16:38:27+00:00'
+    id: 'urn:uuid:aaeb729f-c59f-5a49-b9d5-e7489fc8337f'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo
+    package_version: v0.4.12
+    title: 'v0.4.12 of mojo'
+    published: '2016-01-26T16:38:01+00:00'
+    id: 'urn:uuid:6e46c3f8-691e-57ae-8dc7-76cfec29aa85'
+    link: 'https://pub.dartlang.org/packages/mojo'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
