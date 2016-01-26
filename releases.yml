@@ -52101,3 +52101,12 @@
     link: 'https://pub.dartlang.org/packages/mojo'
     author:
         - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: vector_math
+    package_version: v1.4.6
+    title: 'v1.4.6 of vector_math'
+    published: '2016-01-26T18:32:00+00:00'
+    id: 'urn:uuid:5952bd2b-635b-5514-9c75-5e534017a747'
+    link: 'https://pub.dartlang.org/packages/vector_math'
+    author:
+        - 'John McCutchan <john@johnmccutchan.com>'
