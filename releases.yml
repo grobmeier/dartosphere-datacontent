@@ -52011,3 +52011,12 @@
     link: 'https://pub.dartlang.org/packages/embla'
     author:
         - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: base58check
+    package_version: v0.1.0
+    title: 'v0.1.0 of base58check'
+    published: '2016-01-26T01:35:58+00:00'
+    id: 'urn:uuid:7d8a7828-4a1b-5c69-9362-41f5b096d6e4'
+    link: 'https://pub.dartlang.org/packages/base58check'
+    author:
+        - 'Steven Roose <stevenroose@gmail.com>'
