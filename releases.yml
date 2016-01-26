@@ -52110,3 +52110,12 @@
     link: 'https://pub.dartlang.org/packages/vector_math'
     author:
         - 'John McCutchan <john@johnmccutchan.com>'
+-
+    package_name: bliss
+    package_version: v0.1.2
+    title: 'v0.1.2 of bliss'
+    published: '2016-01-26T19:42:23+00:00'
+    id: 'urn:uuid:30ba972e-196f-5f1f-9d0c-7682328e1518'
+    link: 'https://pub.dartlang.org/packages/bliss'
+    author:
+        - 'Steven Upton <steven.upton@indecks.co>'
