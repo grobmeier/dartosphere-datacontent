@@ -52002,3 +52002,12 @@
     link: 'https://pub.dartlang.org/packages/omnibus'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: embla
+    package_version: v0.1.3
+    title: 'v0.1.3 of embla'
+    published: '2016-01-25T23:28:55+00:00'
+    id: 'urn:uuid:775d4e9e-9bce-561b-96fb-8f46be9d1a69'
+    link: 'https://pub.dartlang.org/packages/embla'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
