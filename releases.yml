@@ -52038,3 +52038,12 @@
     link: 'https://pub.dartlang.org/packages/embla'
     author:
         - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: pointycastle
+    package_version: v0.10.0-dev
+    title: 'v0.10.0-dev of pointycastle'
+    published: '2016-01-26T15:47:08+00:00'
+    id: 'urn:uuid:61a100ce-524e-59a3-bdc1-f59af41b9206'
+    link: 'https://pub.dartlang.org/packages/pointycastle'
+    author:
+        - 'The Pointy Castle team'
