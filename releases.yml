@@ -52029,3 +52029,12 @@
     link: 'https://pub.dartlang.org/packages/resource'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: embla
+    package_version: v0.1.4
+    title: 'v0.1.4 of embla'
+    published: '2016-01-26T14:09:01+00:00'
+    id: 'urn:uuid:8c5ed283-91e5-5288-8f15-981bcfc38181'
+    link: 'https://pub.dartlang.org/packages/embla'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
