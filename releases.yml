@@ -52219,3 +52219,21 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: vellum
+    package_version: v0.0.3
+    title: 'v0.0.3 of vellum'
+    published: '2016-01-27T23:48:07+00:00'
+    id: 'urn:uuid:47697135-7a24-5295-8d57-4839033b122b'
+    link: 'https://pub.dartlang.org/packages/vellum'
+    author:
+        - 'R. Matt Barnett'
+-
+    package_name: collection
+    package_version: v1.4.0
+    title: 'v1.4.0 of collection'
+    published: '2016-01-27T23:45:22+00:00'
+    id: 'urn:uuid:1ce06051-4a32-5a02-b042-bab3c37d4913'
+    link: 'https://pub.dartlang.org/packages/collection'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
