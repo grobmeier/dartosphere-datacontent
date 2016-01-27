@@ -52201,3 +52201,21 @@
     link: 'https://pub.dartlang.org/packages/smartcanvas'
     author:
         - 'Kun Zhao <kzhdev@gmail.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.88
+    title: 'v0.0.88 of sky_services'
+    published: '2016-01-27T20:05:52+00:00'
+    id: 'urn:uuid:38e9dfc2-92e0-5095-b7ea-f0945066be48'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.88
+    title: 'v0.0.88 of sky_engine'
+    published: '2016-01-27T20:05:47+00:00'
+    id: 'urn:uuid:902c040e-4045-5846-9237-b1e8b978682c'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
