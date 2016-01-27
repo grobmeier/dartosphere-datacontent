@@ -52192,3 +52192,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_app_router'
     author:
         - 'Walletek <hadrien.lejard@gmail.com>'
+-
+    package_name: smartcanvas
+    package_version: v0.2.1+1
+    title: 'v0.2.1+1 of smartcanvas'
+    published: '2016-01-27T05:02:52+00:00'
+    id: 'urn:uuid:0b52543d-4d3a-58ab-bbb7-87776183a1cd'
+    link: 'https://pub.dartlang.org/packages/smartcanvas'
+    author:
+        - 'Kun Zhao <kzhdev@gmail.com>'
