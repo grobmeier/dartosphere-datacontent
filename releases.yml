@@ -52155,3 +52155,13 @@
     link: 'https://pub.dartlang.org/packages/test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: grinder
+    package_version: v0.8.0+2
+    title: 'v0.8.0+2 of grinder'
+    published: '2016-01-27T00:45:44+00:00'
+    id: 'urn:uuid:594e003a-0122-5c62-a13c-86ff478cb2ed'
+    link: 'https://pub.dartlang.org/packages/grinder'
+    author:
+        - 'Devon Carew <devoncarew@google.com>'
+        - 'Sean Eagan <seaneagan1@gmail.com>'
