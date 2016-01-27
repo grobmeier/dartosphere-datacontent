@@ -52165,3 +52165,21 @@
     author:
         - 'Devon Carew <devoncarew@google.com>'
         - 'Sean Eagan <seaneagan1@gmail.com>'
+-
+    package_name: polymer_app
+    package_version: v0.8.0
+    title: 'v0.8.0 of polymer_app'
+    published: '2016-01-27T02:47:31+00:00'
+    id: 'urn:uuid:3ce99fe7-464a-511e-b994-a5016c765c6d'
+    link: 'https://pub.dartlang.org/packages/polymer_app'
+    author:
+        - 'Walletek <hadrien.lejard@gmail.com>'
+-
+    package_name: polymer_app_router
+    package_version: v0.2.1
+    title: 'v0.2.1 of polymer_app_router'
+    published: '2016-01-27T02:45:49+00:00'
+    id: 'urn:uuid:3e0cf6ee-a44f-5e91-aa15-1f62b9fa583e'
+    link: 'https://pub.dartlang.org/packages/polymer_app_router'
+    author:
+        - 'Walletek <hadrien.lejard@gmail.com>'
