@@ -52183,3 +52183,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_app_router'
     author:
         - 'Walletek <hadrien.lejard@gmail.com>'
+-
+    package_name: polymer_app_router
+    package_version: v0.2.2
+    title: 'v0.2.2 of polymer_app_router'
+    published: '2016-01-27T03:20:25+00:00'
+    id: 'urn:uuid:313f7b13-dbd5-59bf-bf1d-926406c782e6'
+    link: 'https://pub.dartlang.org/packages/polymer_app_router'
+    author:
+        - 'Walletek <hadrien.lejard@gmail.com>'
