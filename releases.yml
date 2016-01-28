@@ -52246,3 +52246,12 @@
     link: 'https://pub.dartlang.org/packages/terminal'
     author:
         - 'Mike Lewis <mike@updroid.com>'
+-
+    package_name: appengine
+    package_version: v0.3.3
+    title: 'v0.3.3 of appengine'
+    published: '2016-01-28T09:48:14+00:00'
+    id: 'urn:uuid:8bf829bb-7e02-5aa3-a7e8-66090cc82f4e'
+    link: 'https://pub.dartlang.org/packages/appengine'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
