@@ -52411,3 +52411,30 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: shelf
+    package_version: v0.6.5
+    title: 'v0.6.5 of shelf'
+    published: '2016-01-28T22:37:40+00:00'
+    id: 'urn:uuid:a2a0ec50-2756-57c1-b70c-bc0ccec80c09'
+    link: 'https://pub.dartlang.org/packages/shelf'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: stream_channel
+    package_version: v1.0.1
+    title: 'v1.0.1 of stream_channel'
+    published: '2016-01-28T22:10:33+00:00'
+    id: 'urn:uuid:ed7aefdb-17b6-572c-869f-6b5b5966e499'
+    link: 'https://pub.dartlang.org/packages/stream_channel'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: syncbase
+    package_version: v0.0.28
+    title: 'v0.0.28 of syncbase'
+    published: '2016-01-28T22:01:43+00:00'
+    id: 'urn:uuid:4b10c064-7cdc-559e-aebe-4edc90164585'
+    link: 'https://pub.dartlang.org/packages/syncbase'
+    author:
+        - 'Vanadium Authors'
