@@ -52255,3 +52255,93 @@
     link: 'https://pub.dartlang.org/packages/appengine'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angular2_testing
+    package_version: v2.0.0-beta.2
+    title: 'v2.0.0-beta.2 of angular2_testing'
+    published: '2016-01-28T19:51:31+00:00'
+    id: 'urn:uuid:f2b90638-1fb6-55c6-aef9-469b9abf81c1'
+    link: 'https://pub.dartlang.org/packages/angular2_testing'
+    author:
+        - 'Alex Eagle <alexeagle@google.com>'
+        - 'Chirayu Krishnappa <chirayu@google.com>'
+        - 'Jeff Cross <crossj@google.com>'
+        - 'Matias Niemela <matsko@google.com>'
+        - 'Misko Hevery <misko@google.com>'
+        - 'Rado Kirov <radokirov@google.com>'
+        - 'Tobias Bosch <tbosch@google.com>'
+        - 'Victor Savkin <vsavkin@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: angular2_material
+    package_version: v2.0.0-beta.2
+    title: 'v2.0.0-beta.2 of angular2_material'
+    published: '2016-01-28T19:47:56+00:00'
+    id: 'urn:uuid:2d036389-01d2-51cc-9a59-1857aae3bc19'
+    link: 'https://pub.dartlang.org/packages/angular2_material'
+    author:
+        - 'Alex Eagle <alexeagle@google.com>'
+        - 'Chirayu Krishnappa <chirayu@google.com>'
+        - 'Jeff Cross <crossj@google.com>'
+        - 'Matias Niemela <matsko@google.com>'
+        - 'Misko Hevery <misko@google.com>'
+        - 'Rado Kirov <radokirov@google.com>'
+        - 'Tobias Bosch <tbosch@google.com>'
+        - 'Victor Savkin <vsavkin@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: angular2_benchmarks
+    package_version: v2.0.0-beta.2
+    title: 'v2.0.0-beta.2 of angular2_benchmarks'
+    published: '2016-01-28T19:47:53+00:00'
+    id: 'urn:uuid:5cb57383-738a-5547-baf7-153de9e544b8'
+    link: 'https://pub.dartlang.org/packages/angular2_benchmarks'
+    author:
+        - 'Alex Eagle <alexeagle@google.com>'
+        - 'Chirayu Krishnappa <chirayu@google.com>'
+        - 'Jeff Cross <crossj@google.com>'
+        - 'Matias Niemela <matsko@google.com>'
+        - 'Misko Hevery <misko@google.com>'
+        - 'Rado Kirov <radokirov@google.com>'
+        - 'Tobias Bosch <tbosch@google.com>'
+        - 'Victor Savkin <vsavkin@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: benchpress
+    package_version: v2.0.0-beta.2
+    title: 'v2.0.0-beta.2 of benchpress'
+    published: '2016-01-28T19:47:50+00:00'
+    id: 'urn:uuid:9ae29d41-7ddc-5ee6-8997-0cea4dc7e28f'
+    link: 'https://pub.dartlang.org/packages/benchpress'
+    author:
+        - 'Alex Eagle <alexeagle@google.com>'
+        - 'Chirayu Krishnappa <chirayu@google.com>'
+        - 'Jeff Cross <crossj@google.com>'
+        - 'Matias Niemela <matsko@google.com>'
+        - 'Misko Hevery <misko@google.com>'
+        - 'Rado Kirov <radokirov@google.com>'
+        - 'Tobias Bosch <tbosch@google.com>'
+        - 'Victor Savkin <vsavkin@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: angular2
+    package_version: v2.0.0-beta.2
+    title: 'v2.0.0-beta.2 of angular2'
+    published: '2016-01-28T19:47:46+00:00'
+    id: 'urn:uuid:fa910531-1666-5eb2-8d8f-6190a8c27771'
+    link: 'https://pub.dartlang.org/packages/angular2'
+    author:
+        - 'Alex Eagle <alexeagle@google.com>'
+        - 'Chirayu Krishnappa <chirayu@google.com>'
+        - 'Jeff Cross <crossj@google.com>'
+        - 'Matias Niemela <matsko@google.com>'
+        - 'Misko Hevery <misko@google.com>'
+        - 'Rado Kirov <radokirov@google.com>'
+        - 'Tobias Bosch <tbosch@google.com>'
+        - 'Victor Savkin <vsavkin@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Jeremy Elbourn <jelbourn@google.com>'
