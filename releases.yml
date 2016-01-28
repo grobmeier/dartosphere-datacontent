@@ -52237,3 +52237,12 @@
     link: 'https://pub.dartlang.org/packages/collection'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: terminal
+    package_version: v0.1.3
+    title: 'v0.1.3 of terminal'
+    published: '2016-01-28T03:47:31+00:00'
+    id: 'urn:uuid:00ba4df0-a665-531b-8c69-e41f6be0d45c'
+    link: 'https://pub.dartlang.org/packages/terminal'
+    author:
+        - 'Mike Lewis <mike@updroid.com>'
