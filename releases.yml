@@ -52363,3 +52363,51 @@
     link: 'https://pub.dartlang.org/packages/v23discovery'
     author:
         - 'Vanadium Authors'
+-
+    package_name: dslink
+    package_version: v0.5.6+1
+    title: 'v0.5.6+1 of dslink'
+    published: '2016-01-28T21:49:52+00:00'
+    id: 'urn:uuid:2e1033c5-ce03-5791-a416-6b8213a304eb'
+    link: 'https://pub.dartlang.org/packages/dslink'
+    author:
+        - 'Kenneth Endfinger <k.endfinger@dglogik.com>'
+        - 'Rick Zhou <z.zhou@dglogik.com>'
+        - 'Michael Bullington <m.bullington@dglogik.com>'
+        - 'Matthew Butler <m.butler@dglogik.com>'
+-
+    package_name: http_parser
+    package_version: v2.1.0
+    title: 'v2.1.0 of http_parser'
+    published: '2016-01-28T21:40:28+00:00'
+    id: 'urn:uuid:ffb8f965-1629-51ed-8fd5-71bd80ac9638'
+    link: 'https://pub.dartlang.org/packages/http_parser'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: stream_channel
+    package_version: v1.0.0
+    title: 'v1.0.0 of stream_channel'
+    published: '2016-01-28T21:04:43+00:00'
+    id: 'urn:uuid:5958bf54-75ea-5f09-abb7-3c97bb38a698'
+    link: 'https://pub.dartlang.org/packages/stream_channel'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: sky_services
+    package_version: v0.0.89
+    title: 'v0.0.89 of sky_services'
+    published: '2016-01-28T21:00:36+00:00'
+    id: 'urn:uuid:52d7ca73-7374-5971-b4e7-2be9dd11591c'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.89
+    title: 'v0.0.89 of sky_engine'
+    published: '2016-01-28T21:00:33+00:00'
+    id: 'urn:uuid:d948ac79-b5bd-5517-b7f4-bc2799fe5d53'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
