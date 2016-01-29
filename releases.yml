@@ -52510,3 +52510,57 @@
     link: 'https://pub.dartlang.org/packages/dev_compiler'
     author:
         - 'Dart Dev Compiler team <dev-compiler@dartlang.org>'
+-
+    package_name: sky_services
+    package_version: v0.0.90
+    title: 'v0.0.90 of sky_services'
+    published: '2016-01-29T22:50:19+00:00'
+    id: 'urn:uuid:233543a4-9ef6-53c5-bf82-c9ab7ca0ba52'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.90
+    title: 'v0.0.90 of sky_engine'
+    published: '2016-01-29T22:50:15+00:00'
+    id: 'urn:uuid:48c84565-7258-53de-8a49-073f39f133b1'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: polymer_app
+    package_version: v0.8.1
+    title: 'v0.8.1 of polymer_app'
+    published: '2016-01-29T22:41:59+00:00'
+    id: 'urn:uuid:58f8fbf4-02f3-5b5f-b073-36f016bb170b'
+    link: 'https://pub.dartlang.org/packages/polymer_app'
+    author:
+        - 'Walletek <hadrien.lejard@gmail.com>'
+-
+    package_name: serializer
+    package_version: v0.1.0
+    title: 'v0.1.0 of serializer'
+    published: '2016-01-29T22:39:47+00:00'
+    id: 'urn:uuid:755b00e3-9831-5c53-85f7-4769e896da3e'
+    link: 'https://pub.dartlang.org/packages/serializer'
+    author:
+        - 'Walletek <hadrien.lejard@gmail.com>'
+-
+    package_name: flutter_gallery_assets
+    package_version: v0.0.1
+    title: 'v0.0.1 of flutter_gallery_assets'
+    published: '2016-01-29T22:32:55+00:00'
+    id: 'urn:uuid:e74ce115-dc9e-5494-9a86-8c67a1480ae7'
+    link: 'https://pub.dartlang.org/packages/flutter_gallery_assets'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: serialization
+    package_version: v0.10.4+3
+    title: 'v0.10.4+3 of serialization'
+    published: '2016-01-29T22:06:18+00:00'
+    id: 'urn:uuid:b20cbd29-e229-5552-bea3-6ed105cd558c'
+    link: 'https://pub.dartlang.org/packages/serialization'
+    author:
+        - 'Alan Knight <alanknight@google.com>'
