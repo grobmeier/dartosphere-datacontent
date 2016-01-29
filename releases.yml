@@ -52465,3 +52465,21 @@
     link: 'https://pub.dartlang.org/packages/mojo_services'
     author:
         - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: ebisu_pod
+    package_version: v0.0.7
+    title: 'v0.0.7 of ebisu_pod'
+    published: '2016-01-29T03:25:22+00:00'
+    id: 'urn:uuid:f6146f1e-e48b-545f-babf-10983ce98f8b'
+    link: 'https://pub.dartlang.org/packages/ebisu_pod'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: ebisu_cpp_db
+    package_version: v0.0.10
+    title: 'v0.0.10 of ebisu_cpp_db'
+    published: '2016-01-29T03:06:40+00:00'
+    id: 'urn:uuid:ad2c74a4-7bcd-5a9f-bbe3-7746382442b3'
+    link: 'https://pub.dartlang.org/packages/ebisu_cpp_db'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
