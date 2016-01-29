@@ -52564,3 +52564,12 @@
     link: 'https://pub.dartlang.org/packages/serialization'
     author:
         - 'Alan Knight <alanknight@google.com>'
+-
+    package_name: flutter_gallery_assets
+    package_version: v0.0.2
+    title: 'v0.0.2 of flutter_gallery_assets'
+    published: '2016-01-29T23:37:39+00:00'
+    id: 'urn:uuid:4e8b5894-fa73-594e-8139-3b4a6bcf8d28'
+    link: 'https://pub.dartlang.org/packages/flutter_gallery_assets'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
