@@ -52483,3 +52483,21 @@
     link: 'https://pub.dartlang.org/packages/ebisu_cpp_db'
     author:
         - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: generic_vector_tools
+    package_version: v1.0.0
+    title: 'v1.0.0 of generic_vector_tools'
+    published: '2016-01-29T11:56:33+00:00'
+    id: 'urn:uuid:a467f14f-6d23-578d-9cf6-c646cf9aa93a'
+    link: 'https://pub.dartlang.org/packages/generic_vector_tools'
+    author:
+        - 'Ben Sheron <benmosheron@gmail.com>'
+-
+    package_name: latlong
+    package_version: v0.3.0
+    title: 'v0.3.0 of latlong'
+    published: '2016-01-29T11:19:27+00:00'
+    id: 'urn:uuid:d9463c8f-1f9f-5c4b-9f38-ad1c848d2b61'
+    link: 'https://pub.dartlang.org/packages/latlong'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
