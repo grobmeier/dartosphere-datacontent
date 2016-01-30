@@ -52609,3 +52609,13 @@
     link: 'https://pub.dartlang.org/packages/ng2gen'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: timezone
+    package_version: v0.4.1
+    title: 'v0.4.1 of timezone'
+    published: '2016-01-30T15:38:02+00:00'
+    id: 'urn:uuid:15475cc9-f6d2-58b3-b2c1-d189c226cdee'
+    link: 'https://pub.dartlang.org/packages/timezone'
+    author:
+        - 'Boris Kaul <localvoid@gmail.com>'
+        - 'Sam Rawlins <sam.rawlins@gmail.com>'
