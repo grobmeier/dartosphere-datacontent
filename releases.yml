@@ -52600,3 +52600,12 @@
     link: 'https://pub.dartlang.org/packages/ng2gen'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: ng2gen
+    package_version: v0.0.1+1
+    title: 'v0.0.1+1 of ng2gen'
+    published: '2016-01-30T07:06:59+00:00'
+    id: 'urn:uuid:adb9fe9f-eb32-5e6a-b04d-2344a890f443'
+    link: 'https://pub.dartlang.org/packages/ng2gen'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
