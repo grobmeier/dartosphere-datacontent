@@ -52619,3 +52619,15 @@
     author:
         - 'Boris Kaul <localvoid@gmail.com>'
         - 'Sam Rawlins <sam.rawlins@gmail.com>'
+-
+    package_name: dslink
+    package_version: v0.5.7+1
+    title: 'v0.5.7+1 of dslink'
+    published: '2016-01-30T17:58:32+00:00'
+    id: 'urn:uuid:f8fa11db-6670-52e3-beae-51175dfb62ab'
+    link: 'https://pub.dartlang.org/packages/dslink'
+    author:
+        - 'Kenneth Endfinger <k.endfinger@dglogik.com>'
+        - 'Rick Zhou <z.zhou@dglogik.com>'
+        - 'Michael Bullington <m.bullington@dglogik.com>'
+        - 'Matthew Butler <m.butler@dglogik.com>'
