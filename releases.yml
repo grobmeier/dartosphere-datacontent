@@ -52640,3 +52640,21 @@
     link: 'https://pub.dartlang.org/packages/ng2gen'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: ng2gen
+    package_version: v0.0.3
+    title: 'v0.0.3 of ng2gen'
+    published: '2016-01-30T20:30:51+00:00'
+    id: 'urn:uuid:93b7d8af-8e5f-5d7f-b35a-d1304e5b2c89'
+    link: 'https://pub.dartlang.org/packages/ng2gen'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: dogma_codegen
+    package_version: v0.0.2
+    title: 'v0.0.2 of dogma_codegen'
+    published: '2016-01-30T20:10:23+00:00'
+    id: 'urn:uuid:01ddcb2d-8fd8-5e94-9da8-3a106c15cac7'
+    link: 'https://pub.dartlang.org/packages/dogma_codegen'
+    author:
+        - 'Don Olmstead <don.j.olmstead@gmail.com>'
