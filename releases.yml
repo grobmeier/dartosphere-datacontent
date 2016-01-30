@@ -52591,3 +52591,12 @@
     link: 'https://pub.dartlang.org/packages/smartcanvas'
     author:
         - 'Kun Zhao <kzhdev@gmail.com>'
+-
+    package_name: ng2gen
+    package_version: v0.0.1
+    title: 'v0.0.1 of ng2gen'
+    published: '2016-01-30T06:54:26+00:00'
+    id: 'urn:uuid:225430e4-a07e-5c30-a352-dc69d78bd716'
+    link: 'https://pub.dartlang.org/packages/ng2gen'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
