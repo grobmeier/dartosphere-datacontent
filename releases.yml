@@ -52582,3 +52582,12 @@
     link: 'https://pub.dartlang.org/packages/serializer'
     author:
         - 'Walletek <hadrien.lejard@gmail.com>'
+-
+    package_name: smartcanvas
+    package_version: v0.2.1+2
+    title: 'v0.2.1+2 of smartcanvas'
+    published: '2016-01-30T04:55:27+00:00'
+    id: 'urn:uuid:97d75af2-3822-5358-b20a-b77128aa2442'
+    link: 'https://pub.dartlang.org/packages/smartcanvas'
+    author:
+        - 'Kun Zhao <kzhdev@gmail.com>'
