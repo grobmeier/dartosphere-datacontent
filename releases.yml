@@ -52573,3 +52573,12 @@
     link: 'https://pub.dartlang.org/packages/flutter_gallery_assets'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: serializer
+    package_version: v0.1.1
+    title: 'v0.1.1 of serializer'
+    published: '2016-01-30T00:45:43+00:00'
+    id: 'urn:uuid:771ed605-5a02-5b16-9a3d-08bb4ee6067f'
+    link: 'https://pub.dartlang.org/packages/serializer'
+    author:
+        - 'Walletek <hadrien.lejard@gmail.com>'
