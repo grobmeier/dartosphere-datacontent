@@ -52694,3 +52694,13 @@
     link: 'https://pub.dartlang.org/packages/angular2_rbi'
     author:
         - 'Jim Washington <washington.jim@gmail.com>'
+-
+    package_name: stagehand
+    package_version: v0.2.6
+    title: 'v0.2.6 of stagehand'
+    published: '2016-01-31T21:10:07+00:00'
+    id: 'urn:uuid:240f7e4f-837b-5a91-80af-3506292b553d'
+    link: 'https://pub.dartlang.org/packages/stagehand'
+    author:
+        - 'Seth Ladd <sethladd@google.com>'
+        - 'Devon Carew <devoncarew@google.com>'
