@@ -52676,3 +52676,12 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: angular2_rbi
+    package_version: v0.0.5
+    title: 'v0.0.5 of angular2_rbi'
+    published: '2016-01-31T12:18:09+00:00'
+    id: 'urn:uuid:aec17d21-5ab5-57aa-ac26-3278abb49887'
+    link: 'https://pub.dartlang.org/packages/angular2_rbi'
+    author:
+        - 'Jim Washington <washington.jim@gmail.com>'
