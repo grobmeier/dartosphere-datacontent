@@ -52848,3 +52848,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_web_socket'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: stack_trace
+    package_version: v1.6.1
+    title: 'v1.6.1 of stack_trace'
+    published: '2016-02-01T22:22:06+00:00'
+    id: 'urn:uuid:fbb0e81c-9d0a-57b5-bc61-80bdad44454d'
+    link: 'https://pub.dartlang.org/packages/stack_trace'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
