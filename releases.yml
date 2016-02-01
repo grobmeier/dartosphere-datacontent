@@ -52839,3 +52839,12 @@
     link: 'https://pub.dartlang.org/packages/serializer'
     author:
         - 'Walletek <hadrien.lejard@gmail.com>'
+-
+    package_name: shelf_web_socket
+    package_version: v0.1.0
+    title: 'v0.1.0 of shelf_web_socket'
+    published: '2016-02-01T19:52:14+00:00'
+    id: 'urn:uuid:292490a0-ede3-59d5-9b79-06b9e87c85fb'
+    link: 'https://pub.dartlang.org/packages/shelf_web_socket'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
