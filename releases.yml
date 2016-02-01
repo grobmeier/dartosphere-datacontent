@@ -52749,3 +52749,12 @@
     link: 'https://pub.dartlang.org/packages/googleapis'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: log4dart
+    package_version: v1.4.17
+    title: 'v1.4.17 of log4dart'
+    published: '2016-02-01T11:06:20+00:00'
+    id: 'urn:uuid:25d2d13b-9c60-534c-99ef-fd044e90a37a'
+    link: 'https://pub.dartlang.org/packages/log4dart'
+    author:
+        - 'Lars Tackmann <lars@solvr.io>'
