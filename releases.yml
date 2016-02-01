@@ -52830,3 +52830,12 @@
     link: 'https://pub.dartlang.org/packages/vector_math'
     author:
         - 'John McCutchan <john@johnmccutchan.com>'
+-
+    package_name: serializer
+    package_version: v0.1.2
+    title: 'v0.1.2 of serializer'
+    published: '2016-02-01T18:19:02+00:00'
+    id: 'urn:uuid:276f45a6-b61a-5b60-b701-6afa829a6b31'
+    link: 'https://pub.dartlang.org/packages/serializer'
+    author:
+        - 'Walletek <hadrien.lejard@gmail.com>'
