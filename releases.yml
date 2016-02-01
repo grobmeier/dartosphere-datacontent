@@ -52812,3 +52812,21 @@
     link: 'https://pub.dartlang.org/packages/harvest'
     author:
         - 'Lars Tackmann <lars@solvr.io>'
+-
+    package_name: mdl
+    package_version: v1.15.2
+    title: 'v1.15.2 of mdl'
+    published: '2016-02-01T15:50:51+00:00'
+    id: 'urn:uuid:f28cbe41-31d3-5e9b-a1f6-81ee2b7060d0'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: vector_math
+    package_version: v1.4.7
+    title: 'v1.4.7 of vector_math'
+    published: '2016-02-01T15:01:05+00:00'
+    id: 'urn:uuid:4daaf3b3-5def-502d-a108-86144fab75e9'
+    link: 'https://pub.dartlang.org/packages/vector_math'
+    author:
+        - 'John McCutchan <john@johnmccutchan.com>'
