@@ -52767,3 +52767,12 @@
     link: 'https://pub.dartlang.org/packages/harvest'
     author:
         - 'Lars Tackmann <lars@solvr.io>'
+-
+    package_name: dice
+    package_version: v1.6.3
+    title: 'v1.6.3 of dice'
+    published: '2016-02-01T13:29:09+00:00'
+    id: 'urn:uuid:09770014-a176-5100-80ff-d812ecd637e7'
+    link: 'https://pub.dartlang.org/packages/dice'
+    author:
+        - 'Lars Tackmann <lars@solvr.io>'
