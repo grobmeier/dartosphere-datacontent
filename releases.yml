@@ -52997,3 +52997,30 @@
     author:
         - 'Chris Buckett <chrisbuckett@gmail.com>'
         - 'Steven Roose <stevenroose@gmail.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.92
+    title: 'v0.0.92 of sky_services'
+    published: '2016-02-02T19:32:26+00:00'
+    id: 'urn:uuid:072fadd0-f428-5730-b649-3a2e52c43b64'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.92
+    title: 'v0.0.92 of sky_engine'
+    published: '2016-02-02T19:32:24+00:00'
+    id: 'urn:uuid:e2dfaae9-d41b-5517-b65a-d50273fef8b2'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: args
+    package_version: v0.13.3+2
+    title: 'v0.13.3+2 of args'
+    published: '2016-02-02T19:24:36+00:00'
+    id: 'urn:uuid:43d5dddd-28c0-5696-9d0e-c156b41c2dc1'
+    link: 'https://pub.dartlang.org/packages/args'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
