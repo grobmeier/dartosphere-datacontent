@@ -52969,3 +52969,12 @@
     link: 'https://pub.dartlang.org/packages/csslib_transform'
     author:
         - 'Valentyn Shybanov <olostan@gmail.com>'
+-
+    package_name: ardknob
+    package_version: v0.9.0
+    title: 'v0.9.0 of ardknob'
+    published: '2016-02-02T07:14:05+00:00'
+    id: 'urn:uuid:e30ef45f-9e45-5b15-8500-58430f05ef8e'
+    link: 'https://pub.dartlang.org/packages/ardknob'
+    author:
+        - 'John McDole <john@mcdole.org>'
