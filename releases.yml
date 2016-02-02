@@ -52933,3 +52933,12 @@
     link: 'https://pub.dartlang.org/packages/dacsslide'
     author:
         - 'Valentyn Shybanov <olostan@gmail.com>'
+-
+    package_name: stream_channel
+    package_version: v1.1.1
+    title: 'v1.1.1 of stream_channel'
+    published: '2016-02-02T01:30:13+00:00'
+    id: 'urn:uuid:a954a998-1cf8-5505-b97e-2741eded861c'
+    link: 'https://pub.dartlang.org/packages/stream_channel'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
