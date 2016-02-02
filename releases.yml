@@ -52951,3 +52951,21 @@
     link: 'https://pub.dartlang.org/packages/dacsslide'
     author:
         - 'Valentyn Shybanov <olostan@gmail.com>'
+-
+    package_name: dacsslide
+    package_version: v0.0.15+2
+    title: 'v0.0.15+2 of dacsslide'
+    published: '2016-02-02T03:39:56+00:00'
+    id: 'urn:uuid:31ef99e5-09cd-5f8c-8296-8b717dbd0d9d'
+    link: 'https://pub.dartlang.org/packages/dacsslide'
+    author:
+        - 'Valentyn Shybanov <olostan@gmail.com>'
+-
+    package_name: csslib_transform
+    package_version: v0.0.4+1
+    title: 'v0.0.4+1 of csslib_transform'
+    published: '2016-02-02T03:34:30+00:00'
+    id: 'urn:uuid:0c4b4f10-7353-50e8-8455-5912971ba925'
+    link: 'https://pub.dartlang.org/packages/csslib_transform'
+    author:
+        - 'Valentyn Shybanov <olostan@gmail.com>'
