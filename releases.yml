@@ -53033,3 +53033,21 @@
     link: 'https://pub.dartlang.org/packages/json_rpc_2'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: shelf_static
+    package_version: v0.2.3+3
+    title: 'v0.2.3+3 of shelf_static'
+    published: '2016-02-02T21:34:49+00:00'
+    id: 'urn:uuid:7507136b-d8ab-567a-8620-b7ca9ae02964'
+    link: 'https://pub.dartlang.org/packages/shelf_static'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: shelf_proxy
+    package_version: v0.1.0+3
+    title: 'v0.1.0+3 of shelf_proxy'
+    published: '2016-02-02T21:34:04+00:00'
+    id: 'urn:uuid:bbe3b8ad-a4fb-52e6-b565-22081b3539ce'
+    link: 'https://pub.dartlang.org/packages/shelf_proxy'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
