@@ -52978,3 +52978,22 @@
     link: 'https://pub.dartlang.org/packages/ardknob'
     author:
         - 'John McDole <john@mcdole.org>'
+-
+    package_name: http2
+    package_version: v0.1.1+1
+    title: 'v0.1.1+1 of http2'
+    published: '2016-02-02T17:45:43+00:00'
+    id: 'urn:uuid:298efbc8-8410-5c5f-a27f-d15e7455ccc7'
+    link: 'https://pub.dartlang.org/packages/http2'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: json_object
+    package_version: v1.0.19+1
+    title: 'v1.0.19+1 of json_object'
+    published: '2016-02-02T17:12:14+00:00'
+    id: 'urn:uuid:7f2e8eea-96dc-554a-b5a4-fd745c76d550'
+    link: 'https://pub.dartlang.org/packages/json_object'
+    author:
+        - 'Chris Buckett <chrisbuckett@gmail.com>'
+        - 'Steven Roose <stevenroose@gmail.com>'
