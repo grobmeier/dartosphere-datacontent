@@ -52924,3 +52924,12 @@
     link: 'https://pub.dartlang.org/packages/mojo'
     author:
         - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: dacsslide
+    package_version: v0.0.14
+    title: 'v0.0.14 of dacsslide'
+    published: '2016-02-02T00:39:05+00:00'
+    id: 'urn:uuid:cc09c75f-1134-588c-af9a-473c78f368ea'
+    link: 'https://pub.dartlang.org/packages/dacsslide'
+    author:
+        - 'Valentyn Shybanov <olostan@gmail.com>'
