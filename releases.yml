@@ -53024,3 +53024,12 @@
     link: 'https://pub.dartlang.org/packages/args'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: json_rpc_2
+    package_version: v2.0.0
+    title: 'v2.0.0 of json_rpc_2'
+    published: '2016-02-02T20:22:28+00:00'
+    id: 'urn:uuid:c9d10550-79cd-5142-8a2f-2e90b8a00d6e'
+    link: 'https://pub.dartlang.org/packages/json_rpc_2'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
