@@ -52942,3 +52942,12 @@
     link: 'https://pub.dartlang.org/packages/stream_channel'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dacsslide
+    package_version: v0.0.15
+    title: 'v0.0.15 of dacsslide'
+    published: '2016-02-02T02:05:37+00:00'
+    id: 'urn:uuid:9360c946-7c3d-54f0-982e-3e28425ca332'
+    link: 'https://pub.dartlang.org/packages/dacsslide'
+    author:
+        - 'Valentyn Shybanov <olostan@gmail.com>'
