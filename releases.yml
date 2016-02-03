@@ -53078,3 +53078,12 @@
     link: 'https://pub.dartlang.org/packages/test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: darwin
+    package_version: v0.2.5
+    title: 'v0.2.5 of darwin'
+    published: '2016-02-03T09:16:46+00:00'
+    id: 'urn:uuid:b369ea3a-e33d-5cbd-ae55-4c6140371a7b'
+    link: 'https://pub.dartlang.org/packages/darwin'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
