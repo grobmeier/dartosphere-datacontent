@@ -53213,3 +53213,21 @@
         - 'Victor Savkin <vsavkin@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.93
+    title: 'v0.0.93 of sky_services'
+    published: '2016-02-03T19:35:05+00:00'
+    id: 'urn:uuid:05bc11bd-1219-5c7c-aeca-f71f3cdb7894'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.93
+    title: 'v0.0.93 of sky_engine'
+    published: '2016-02-03T19:35:02+00:00'
+    id: 'urn:uuid:957dc794-6260-5d58-84ce-253939871d40'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
