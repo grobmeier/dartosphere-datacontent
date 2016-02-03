@@ -53231,3 +53231,12 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: generic_vector_tools
+    package_version: v1.0.2
+    title: 'v1.0.2 of generic_vector_tools'
+    published: '2016-02-03T20:34:50+00:00'
+    id: 'urn:uuid:0214a32a-18af-5d1c-9b63-9da1f93bed34'
+    link: 'https://pub.dartlang.org/packages/generic_vector_tools'
+    author:
+        - 'Ben Sheron <benmosheron@gmail.com>'
