@@ -53105,3 +53105,12 @@
     link: 'https://pub.dartlang.org/packages/latlong'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: serialization
+    package_version: v0.10.4+4
+    title: 'v0.10.4+4 of serialization'
+    published: '2016-02-03T17:55:08+00:00'
+    id: 'urn:uuid:a3dbed61-539f-5c77-82be-73eedb9f5857'
+    link: 'https://pub.dartlang.org/packages/serialization'
+    author:
+        - 'Alan Knight <alanknight@google.com>'
