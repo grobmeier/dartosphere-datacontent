@@ -53249,3 +53249,12 @@
     link: 'https://pub.dartlang.org/packages/bignum'
     author:
         - 'Adam Singer <financeCoding@gmail.com>'
+-
+    package_name: pointycastle
+    package_version: v0.10.0
+    title: 'v0.10.0 of pointycastle'
+    published: '2016-02-03T23:34:47+00:00'
+    id: 'urn:uuid:99b40e6c-6fec-5efc-a430-0042f23ac015'
+    link: 'https://pub.dartlang.org/packages/pointycastle'
+    author:
+        - 'The Pointy Castle team'
