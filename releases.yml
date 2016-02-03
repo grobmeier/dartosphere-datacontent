@@ -53240,3 +53240,12 @@
     link: 'https://pub.dartlang.org/packages/generic_vector_tools'
     author:
         - 'Ben Sheron <benmosheron@gmail.com>'
+-
+    package_name: bignum
+    package_version: v0.1.0
+    title: 'v0.1.0 of bignum'
+    published: '2016-02-03T22:25:04+00:00'
+    id: 'urn:uuid:ebf28d9c-32fb-558a-92ad-f48141fe78dd'
+    link: 'https://pub.dartlang.org/packages/bignum'
+    author:
+        - 'Adam Singer <financeCoding@gmail.com>'
