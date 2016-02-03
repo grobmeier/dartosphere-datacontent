@@ -53087,3 +53087,12 @@
     link: 'https://pub.dartlang.org/packages/darwin'
     author:
         - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: dacsslide_remote
+    package_version: v0.0.1
+    title: 'v0.0.1 of dacsslide_remote'
+    published: '2016-02-03T11:08:44+00:00'
+    id: 'urn:uuid:9506b061-6f45-548b-8623-6ce14a34eac4'
+    link: 'https://pub.dartlang.org/packages/dacsslide_remote'
+    author:
+        - 'Valentyn Shybanov <olostan@gmail.com>'
