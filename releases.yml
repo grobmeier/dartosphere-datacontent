@@ -53258,3 +53258,13 @@
     link: 'https://pub.dartlang.org/packages/pointycastle'
     author:
         - 'The Pointy Castle team'
+-
+    package_name: calzone
+    package_version: v0.1.6
+    title: 'v0.1.6 of calzone'
+    published: '2016-02-04T04:14:20+00:00'
+    id: 'urn:uuid:8637c979-349f-5c21-8bd9-0206147f1d92'
+    link: 'https://pub.dartlang.org/packages/calzone'
+    author:
+        - 'Michael Bullington <m.bullington@dglogik.com>'
+        - 'Kenneth Endfinger <k.endfinger@dglogik.com>'
