@@ -53277,3 +53277,12 @@
     link: 'https://pub.dartlang.org/packages/angular2_rbi'
     author:
         - 'Jim Washington <washington.jim@gmail.com>'
+-
+    package_name: latlong
+    package_version: v0.3.2
+    title: 'v0.3.2 of latlong'
+    published: '2016-02-04T11:42:52+00:00'
+    id: 'urn:uuid:3a7ef6a2-9100-5474-8caa-ddd8214cd90b'
+    link: 'https://pub.dartlang.org/packages/latlong'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
