@@ -53268,3 +53268,12 @@
     author:
         - 'Michael Bullington <m.bullington@dglogik.com>'
         - 'Kenneth Endfinger <k.endfinger@dglogik.com>'
+-
+    package_name: angular2_rbi
+    package_version: v0.0.7
+    title: 'v0.0.7 of angular2_rbi'
+    published: '2016-02-04T10:00:05+00:00'
+    id: 'urn:uuid:e7133d47-9a94-51cb-97fe-43be7d28e817'
+    link: 'https://pub.dartlang.org/packages/angular2_rbi'
+    author:
+        - 'Jim Washington <washington.jim@gmail.com>'
