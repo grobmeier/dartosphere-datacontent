@@ -53323,3 +53323,12 @@
     author:
         - 'Drafintech <info@drafintech.it>'
         - 'Chris Barfitt <barfittc@gmail.com>'
+-
+    package_name: sync_pageloader
+    package_version: v2.0.0-pre.14
+    title: 'v2.0.0-pre.14 of sync_pageloader'
+    published: '2016-02-05T14:41:14+00:00'
+    id: 'urn:uuid:10dc2559-db88-550f-9fbb-5570ade1376f'
+    link: 'https://pub.dartlang.org/packages/sync_pageloader'
+    author:
+        - 'Marc Fisher II <fisherii@google.com>'
