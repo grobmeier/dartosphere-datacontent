@@ -53304,3 +53304,12 @@
     link: 'https://pub.dartlang.org/packages/access'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: serializer
+    package_version: v0.1.4
+    title: 'v0.1.4 of serializer'
+    published: '2016-02-05T03:29:17+00:00'
+    id: 'urn:uuid:8fcfee57-2f91-53e9-b475-3c47b8b98777'
+    link: 'https://pub.dartlang.org/packages/serializer'
+    author:
+        - 'Walletek <hadrien.lejard@gmail.com>'
