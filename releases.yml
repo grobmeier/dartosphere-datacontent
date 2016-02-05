@@ -53332,3 +53332,12 @@
     link: 'https://pub.dartlang.org/packages/sync_pageloader'
     author:
         - 'Marc Fisher II <fisherii@google.com>'
+-
+    package_name: scheduled_test
+    package_version: v0.12.4+6
+    title: 'v0.12.4+6 of scheduled_test'
+    published: '2016-02-05T19:59:59+00:00'
+    id: 'urn:uuid:9e1550a2-38e2-570e-9aac-04582f96bfb6'
+    link: 'https://pub.dartlang.org/packages/scheduled_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
