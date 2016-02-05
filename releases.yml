@@ -53313,3 +53313,13 @@
     link: 'https://pub.dartlang.org/packages/serializer'
     author:
         - 'Walletek <hadrien.lejard@gmail.com>'
+-
+    package_name: polymer_datepicker
+    package_version: v0.10.0+1
+    title: 'v0.10.0+1 of polymer_datepicker'
+    published: '2016-02-05T12:05:52+00:00'
+    id: 'urn:uuid:c8430c60-4b45-5249-af7e-45268b97883b'
+    link: 'https://pub.dartlang.org/packages/polymer_datepicker'
+    author:
+        - 'Drafintech <info@drafintech.it>'
+        - 'Chris Barfitt <barfittc@gmail.com>'
