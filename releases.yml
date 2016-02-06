@@ -53417,3 +53417,21 @@
     link: 'https://pub.dartlang.org/packages/alphanum_sort'
     author:
         - 'Rick Zhou'
+-
+    package_name: kp_directory
+    package_version: v0.0.2
+    title: 'v0.0.2 of kp_directory'
+    published: '2016-02-06T13:32:39+00:00'
+    id: 'urn:uuid:9f8bac52-eb8f-58f8-bcd7-bb7460cb4666'
+    link: 'https://pub.dartlang.org/packages/kp_directory'
+    author:
+        - 'Kasper Peulen <kasperpeulen@gmail.com>'
+-
+    package_name: ebisu_pod
+    package_version: v0.0.8
+    title: 'v0.0.8 of ebisu_pod'
+    published: '2016-02-06T13:27:05+00:00'
+    id: 'urn:uuid:524deacb-26f2-5f05-a34c-387023be1539'
+    link: 'https://pub.dartlang.org/packages/ebisu_pod'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
