@@ -53399,3 +53399,12 @@
     link: 'https://pub.dartlang.org/packages/flutter_gallery_assets'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: telegram_bot
+    package_version: v0.0.5
+    title: 'v0.0.5 of telegram_bot'
+    published: '2016-02-06T02:55:32+00:00'
+    id: 'urn:uuid:3ab980a0-2ea6-5c18-ae01-1648005edc2a'
+    link: 'https://pub.dartlang.org/packages/telegram_bot'
+    author:
+        - 'Kendal Harland <kendaljharland@gmail.com>'
