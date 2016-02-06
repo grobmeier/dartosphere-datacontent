@@ -53408,3 +53408,12 @@
     link: 'https://pub.dartlang.org/packages/telegram_bot'
     author:
         - 'Kendal Harland <kendaljharland@gmail.com>'
+-
+    package_name: alphanum_sort
+    package_version: v0.1.0
+    title: 'v0.1.0 of alphanum_sort'
+    published: '2016-02-06T08:39:13+00:00'
+    id: 'urn:uuid:5636fd54-3ef5-5768-9146-948e0ddc6654'
+    link: 'https://pub.dartlang.org/packages/alphanum_sort'
+    author:
+        - 'Rick Zhou'
