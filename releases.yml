@@ -53390,3 +53390,12 @@
     author:
         - 'Seth Ladd <sethladd@google.com>'
         - 'Devon Carew <devoncarew@google.com>'
+-
+    package_name: flutter_gallery_assets
+    package_version: v0.0.4
+    title: 'v0.0.4 of flutter_gallery_assets'
+    published: '2016-02-06T01:03:57+00:00'
+    id: 'urn:uuid:462393d2-2541-58a6-9569-63ef5987c4f2'
+    link: 'https://pub.dartlang.org/packages/flutter_gallery_assets'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
