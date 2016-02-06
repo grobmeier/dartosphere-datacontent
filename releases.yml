@@ -53435,3 +53435,21 @@
     link: 'https://pub.dartlang.org/packages/ebisu_pod'
     author:
         - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: struct
+    package_version: v1.0.0
+    title: 'v1.0.0 of struct'
+    published: '2016-02-06T17:46:28+00:00'
+    id: 'urn:uuid:10e9272a-e34a-53ca-969e-c1f2c85d90e3'
+    link: 'https://pub.dartlang.org/packages/struct'
+    author:
+        - 'Austin Cummings <austincummings95@gmail.com>'
+-
+    package_name: aop
+    package_version: v0.0.1
+    title: 'v0.0.1 of aop'
+    published: '2016-02-06T17:40:48+00:00'
+    id: 'urn:uuid:9509d7b1-8bf6-556c-bf52-1639b7331b25'
+    link: 'https://pub.dartlang.org/packages/aop'
+    author:
+        - 'vittorio ballestra <vittorio.ballestra@gmail.com>'
