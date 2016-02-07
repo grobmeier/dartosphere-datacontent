@@ -53462,3 +53462,21 @@
     link: 'https://pub.dartlang.org/packages/generic_vector_tools'
     author:
         - 'Ben Sheron <benmosheron@gmail.com>'
+-
+    package_name: ebisu
+    package_version: v0.6.15
+    title: 'v0.6.15 of ebisu'
+    published: '2016-02-07T18:51:36+00:00'
+    id: 'urn:uuid:2958f053-ca35-5b72-844a-44798427c70f'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: id
+    package_version: v1.0.13
+    title: 'v1.0.13 of id'
+    published: '2016-02-07T18:25:11+00:00'
+    id: 'urn:uuid:8be30a1d-5e08-5daa-99e4-11da330fb983'
+    link: 'https://pub.dartlang.org/packages/id'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
