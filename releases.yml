@@ -53453,3 +53453,12 @@
     link: 'https://pub.dartlang.org/packages/aop'
     author:
         - 'vittorio ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: generic_vector_tools
+    package_version: v1.0.3
+    title: 'v1.0.3 of generic_vector_tools'
+    published: '2016-02-07T16:05:41+00:00'
+    id: 'urn:uuid:82189fff-4360-585d-9385-d87c98e46c96'
+    link: 'https://pub.dartlang.org/packages/generic_vector_tools'
+    author:
+        - 'Ben Sheron <benmosheron@gmail.com>'
