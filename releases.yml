@@ -53534,3 +53534,26 @@
     link: 'https://pub.dartlang.org/packages/aop'
     author:
         - 'vittorio ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: args
+    package_version: v0.13.3+3
+    title: 'v0.13.3+3 of args'
+    published: '2016-02-08T20:56:58+00:00'
+    id: 'urn:uuid:0d796878-b0d9-5165-93f7-758a29db94fa'
+    link: 'https://pub.dartlang.org/packages/args'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: w_transport
+    package_version: v2.2.0
+    title: 'v2.2.0 of w_transport'
+    published: '2016-02-08T20:14:21+00:00'
+    id: 'urn:uuid:78503efe-0a03-57fc-9e71-834345050fe5'
+    link: 'https://pub.dartlang.org/packages/w_transport'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
