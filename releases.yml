@@ -53498,3 +53498,12 @@
     link: 'https://pub.dartlang.org/packages/forcemvc'
     author:
         - 'Joris Hermans <hermansj@gmail.com>'
+-
+    package_name: aop
+    package_version: v0.9.0
+    title: 'v0.9.0 of aop'
+    published: '2016-02-08T01:34:55+00:00'
+    id: 'urn:uuid:5b6ba891-0bfd-51a1-a47d-edbc10dd6537'
+    link: 'https://pub.dartlang.org/packages/aop'
+    author:
+        - 'vittorio ballestra <vittorio.ballestra@gmail.com>'
