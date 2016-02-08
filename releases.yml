@@ -53516,3 +53516,21 @@
     link: 'https://pub.dartlang.org/packages/aop'
     author:
         - 'vittorio ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: trotter
+    package_version: v0.8.0
+    title: 'v0.8.0 of trotter'
+    published: '2016-02-08T12:48:25+00:00'
+    id: 'urn:uuid:d6d99e4c-d24c-50aa-bac1-165f0a6b0a73'
+    link: 'https://pub.dartlang.org/packages/trotter'
+    author:
+        - 'Richard Ambler <richthepanda@gmail.com>'
+-
+    package_name: aop
+    package_version: v0.9.1
+    title: 'v0.9.1 of aop'
+    published: '2016-02-08T12:12:55+00:00'
+    id: 'urn:uuid:58a2119e-358c-5994-8aee-9493d3068472'
+    link: 'https://pub.dartlang.org/packages/aop'
+    author:
+        - 'vittorio ballestra <vittorio.ballestra@gmail.com>'
