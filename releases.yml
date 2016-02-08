@@ -53507,3 +53507,12 @@
     link: 'https://pub.dartlang.org/packages/aop'
     author:
         - 'vittorio ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: aop
+    package_version: v0.9.0+1
+    title: 'v0.9.0+1 of aop'
+    published: '2016-02-08T08:34:24+00:00'
+    id: 'urn:uuid:cc89f3f4-d0be-54ff-b9be-699c12b39091'
+    link: 'https://pub.dartlang.org/packages/aop'
+    author:
+        - 'vittorio ballestra <vittorio.ballestra@gmail.com>'
