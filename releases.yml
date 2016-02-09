@@ -53557,3 +53557,21 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: stream_channel
+    package_version: v1.2.0
+    title: 'v1.2.0 of stream_channel'
+    published: '2016-02-09T00:12:15+00:00'
+    id: 'urn:uuid:8755cff6-1082-580d-8670-4e6365914685'
+    link: 'https://pub.dartlang.org/packages/stream_channel'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: http_in_memory_web_api
+    package_version: v0.0.1
+    title: 'v0.0.1 of http_in_memory_web_api'
+    published: '2016-02-09T00:00:42+00:00'
+    id: 'urn:uuid:bce9590d-3935-5dc0-b631-833cf3587d90'
+    link: 'https://pub.dartlang.org/packages/http_in_memory_web_api'
+    author:
+        - 'Adao Junior <itsjunnior@gmail.com>'
