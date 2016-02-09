@@ -53665,3 +53665,12 @@
     link: 'https://pub.dartlang.org/packages/stream_channel'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: quickdialogs
+    package_version: v1.0.0
+    title: 'v1.0.0 of quickdialogs'
+    published: '2016-02-09T21:55:13+00:00'
+    id: 'urn:uuid:b1613ca6-5540-5e50-8394-17a035ffc121'
+    link: 'https://pub.dartlang.org/packages/quickdialogs'
+    author:
+        - 'Adrián Avila <adrian.avila.mtz@gmail.com>'
