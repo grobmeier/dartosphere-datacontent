@@ -53629,3 +53629,12 @@
     link: 'https://pub.dartlang.org/packages/irctweet'
     author:
         - 'sh4869 <nobuk4869@gmail.com>'
+-
+    package_name: dacsslide_remote
+    package_version: v0.0.2+5
+    title: 'v0.0.2+5 of dacsslide_remote'
+    published: '2016-02-09T14:11:01+00:00'
+    id: 'urn:uuid:fe754ffe-de86-5ec5-ba67-61aebc9df30e'
+    link: 'https://pub.dartlang.org/packages/dacsslide_remote'
+    author:
+        - 'Valentyn Shybanov <olostan@gmail.com>'
