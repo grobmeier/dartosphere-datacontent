@@ -53674,3 +53674,48 @@
     link: 'https://pub.dartlang.org/packages/quickdialogs'
     author:
         - 'Adrián Avila <adrian.avila.mtz@gmail.com>'
+-
+    package_name: mojo_sdk
+    package_version: v0.2.14
+    title: 'v0.2.14 of mojo_sdk'
+    published: '2016-02-09T22:23:59+00:00'
+    id: 'urn:uuid:92f7d595-fa8b-5d13-9fa9-f25b66bfb4c5'
+    link: 'https://pub.dartlang.org/packages/mojo_sdk'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojom
+    package_version: v0.2.18
+    title: 'v0.2.18 of mojom'
+    published: '2016-02-09T22:20:22+00:00'
+    id: 'urn:uuid:454e9f54-f6cf-579c-aa34-035f82dcd79d'
+    link: 'https://pub.dartlang.org/packages/mojom'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_apptest
+    package_version: v0.2.18
+    title: 'v0.2.18 of mojo_apptest'
+    published: '2016-02-09T22:20:16+00:00'
+    id: 'urn:uuid:bdb5472f-7161-54f0-b29f-281a96999a66'
+    link: 'https://pub.dartlang.org/packages/mojo_apptest'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_services
+    package_version: v0.4.17
+    title: 'v0.4.17 of mojo_services'
+    published: '2016-02-09T22:20:09+00:00'
+    id: 'urn:uuid:291dfa01-ca06-5e8a-bb9e-c491529500b1'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo
+    package_version: v0.4.14
+    title: 'v0.4.14 of mojo'
+    published: '2016-02-09T22:20:00+00:00'
+    id: 'urn:uuid:9b5fab39-8ca9-5132-812e-6a9590543e5e'
+    link: 'https://pub.dartlang.org/packages/mojo'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
