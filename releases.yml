@@ -53575,3 +53575,30 @@
     link: 'https://pub.dartlang.org/packages/http_in_memory_web_api'
     author:
         - 'Adao Junior <itsjunnior@gmail.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.94
+    title: 'v0.0.94 of sky_services'
+    published: '2016-02-09T01:29:00+00:00'
+    id: 'urn:uuid:c9c870a7-85e2-5e7e-bea5-2a63aba903a9'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.94
+    title: 'v0.0.94 of sky_engine'
+    published: '2016-02-09T01:28:57+00:00'
+    id: 'urn:uuid:26d38291-6d36-5e04-8608-16d8ae7a2026'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: log
+    package_version: v0.0.4
+    title: 'v0.0.4 of log'
+    published: '2016-02-09T01:08:45+00:00'
+    id: 'urn:uuid:c91d0df3-f576-59c0-a14a-f1ccdf489ce0'
+    link: 'https://pub.dartlang.org/packages/log'
+    author:
+        - 'Andrew Peterson <andrewwaynepeterson@gmail.com>'
