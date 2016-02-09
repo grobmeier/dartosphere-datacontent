@@ -53602,3 +53602,12 @@
     link: 'https://pub.dartlang.org/packages/log'
     author:
         - 'Andrew Peterson <andrewwaynepeterson@gmail.com>'
+-
+    package_name: slickdart
+    package_version: v0.1.5+3
+    title: 'v0.1.5+3 of slickdart'
+    published: '2016-02-09T07:24:56+00:00'
+    id: 'urn:uuid:77e5b330-6f1c-5a9f-9f3a-339b39a9e9b0'
+    link: 'https://pub.dartlang.org/packages/slickdart'
+    author:
+        - 'CJKAO <kaopeter@gmail.com>, tonosama-atlacatl'
