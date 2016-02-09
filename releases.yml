@@ -53656,3 +53656,12 @@
     link: 'https://pub.dartlang.org/packages/plotly'
     author:
         - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: stream_channel
+    package_version: v1.3.0
+    title: 'v1.3.0 of stream_channel'
+    published: '2016-02-09T19:12:04+00:00'
+    id: 'urn:uuid:9c395dad-4589-5ce1-800f-88eb7e0d254f'
+    link: 'https://pub.dartlang.org/packages/stream_channel'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
