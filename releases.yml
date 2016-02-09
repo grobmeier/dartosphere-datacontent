@@ -53638,3 +53638,21 @@
     link: 'https://pub.dartlang.org/packages/dacsslide_remote'
     author:
         - 'Valentyn Shybanov <olostan@gmail.com>'
+-
+    package_name: omnibus
+    package_version: v0.3.0
+    title: 'v0.3.0 of omnibus'
+    published: '2016-02-09T17:02:54+00:00'
+    id: 'urn:uuid:a2c36098-ad90-5b37-bd9c-dff3ebb470b8'
+    link: 'https://pub.dartlang.org/packages/omnibus'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: plotly
+    package_version: v0.0.6
+    title: 'v0.0.6 of plotly'
+    published: '2016-02-09T17:02:46+00:00'
+    id: 'urn:uuid:eed4fd2d-a937-5654-aa34-a4c8571b3a20'
+    link: 'https://pub.dartlang.org/packages/plotly'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
