@@ -53611,3 +53611,21 @@
     link: 'https://pub.dartlang.org/packages/slickdart'
     author:
         - 'CJKAO <kaopeter@gmail.com>, tonosama-atlacatl'
+-
+    package_name: dacsslide_remote
+    package_version: v0.0.2+3
+    title: 'v0.0.2+3 of dacsslide_remote'
+    published: '2016-02-09T13:58:10+00:00'
+    id: 'urn:uuid:9fb2c4d5-0582-5c5c-b6b0-51afbdb31740'
+    link: 'https://pub.dartlang.org/packages/dacsslide_remote'
+    author:
+        - 'Valentyn Shybanov <olostan@gmail.com>'
+-
+    package_name: irctweet
+    package_version: v0.3.0
+    title: 'v0.3.0 of irctweet'
+    published: '2016-02-09T13:14:50+00:00'
+    id: 'urn:uuid:ac89ba86-6b0b-5cbc-a1df-77df8f279dd6'
+    link: 'https://pub.dartlang.org/packages/irctweet'
+    author:
+        - 'sh4869 <nobuk4869@gmail.com>'
