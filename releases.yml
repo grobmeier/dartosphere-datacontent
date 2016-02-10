@@ -53764,3 +53764,12 @@
     link: 'https://pub.dartlang.org/packages/webdriver'
     author:
         - 'Marc Fisher II <fisherii@google.com>'
+-
+    package_name: jsonpadding
+    package_version: v0.1.0
+    title: 'v0.1.0 of jsonpadding'
+    published: '2016-02-10T17:57:52+00:00'
+    id: 'urn:uuid:57772164-1ca6-5508-98a2-e76e20bac512'
+    link: 'https://pub.dartlang.org/packages/jsonpadding'
+    author:
+        - 'Adao Junior <itsjunnior@gmail.com>'
