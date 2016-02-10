@@ -53746,3 +53746,12 @@
     link: 'https://pub.dartlang.org/packages/intl'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: trotter
+    package_version: v0.8.1
+    title: 'v0.8.1 of trotter'
+    published: '2016-02-10T07:38:26+00:00'
+    id: 'urn:uuid:4a484bcd-dfcd-5aab-9e44-cd3d954f05ad'
+    link: 'https://pub.dartlang.org/packages/trotter'
+    author:
+        - 'Richard Ambler <richthepanda@gmail.com>'
