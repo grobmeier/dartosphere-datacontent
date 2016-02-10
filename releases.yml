@@ -53737,3 +53737,12 @@
     link: 'https://pub.dartlang.org/packages/vm_service_lib'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: intl
+    package_version: v0.12.7
+    title: 'v0.12.7 of intl'
+    published: '2016-02-10T01:03:45+00:00'
+    id: 'urn:uuid:ed689590-ba6d-5c67-894f-15b1ac72d307'
+    link: 'https://pub.dartlang.org/packages/intl'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
