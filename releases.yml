@@ -53782,3 +53782,21 @@
     link: 'https://pub.dartlang.org/packages/pageloader'
     author:
         - 'Marc Fisher II <fisherii@google.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.95
+    title: 'v0.0.95 of sky_services'
+    published: '2016-02-10T21:49:41+00:00'
+    id: 'urn:uuid:bcba5e6e-4d90-550e-8528-f1c7fda5736d'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.95
+    title: 'v0.0.95 of sky_engine'
+    published: '2016-02-10T21:49:38+00:00'
+    id: 'urn:uuid:45dd6d90-0a32-5a3d-9d0a-4b96317edd0e'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
