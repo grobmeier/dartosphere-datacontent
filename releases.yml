@@ -53800,3 +53800,30 @@
     link: 'https://pub.dartlang.org/packages/sky_engine'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: stream_channel
+    package_version: v1.3.1
+    title: 'v1.3.1 of stream_channel'
+    published: '2016-02-10T22:26:55+00:00'
+    id: 'urn:uuid:d44e4a73-2608-54d6-b87d-ce635808f010'
+    link: 'https://pub.dartlang.org/packages/stream_channel'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: test
+    package_version: v0.12.10+2
+    title: 'v0.12.10+2 of test'
+    published: '2016-02-10T22:17:51+00:00'
+    id: 'urn:uuid:1590056f-e23a-50b6-bab7-1e18b4f847e0'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: react
+    package_version: v0.8.8
+    title: 'v0.8.8 of react'
+    published: '2016-02-10T22:08:41+00:00'
+    id: 'urn:uuid:64346618-c326-507d-a4e3-f0b76a74c916'
+    link: 'https://pub.dartlang.org/packages/react'
+    author:
+        - 'Clean Team <clean@vacuumlabs.com>'
