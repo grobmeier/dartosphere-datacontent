@@ -53773,3 +53773,12 @@
     link: 'https://pub.dartlang.org/packages/jsonpadding'
     author:
         - 'Adao Junior <itsjunnior@gmail.com>'
+-
+    package_name: pageloader
+    package_version: v2.0.0
+    title: 'v2.0.0 of pageloader'
+    published: '2016-02-10T18:18:18+00:00'
+    id: 'urn:uuid:12c89a12-c55a-55cb-9d8b-a62992086c0f'
+    link: 'https://pub.dartlang.org/packages/pageloader'
+    author:
+        - 'Marc Fisher II <fisherii@google.com>'
