@@ -53719,3 +53719,21 @@
     link: 'https://pub.dartlang.org/packages/mojo'
     author:
         - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: flutter_gallery_assets
+    package_version: v0.0.5
+    title: 'v0.0.5 of flutter_gallery_assets'
+    published: '2016-02-09T23:36:36+00:00'
+    id: 'urn:uuid:64231c53-927d-52da-9a7d-368f9f7843ca'
+    link: 'https://pub.dartlang.org/packages/flutter_gallery_assets'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: vm_service_lib
+    package_version: v0.2.0
+    title: 'v0.2.0 of vm_service_lib'
+    published: '2016-02-09T23:32:25+00:00'
+    id: 'urn:uuid:7d50a97a-7332-5abe-8777-eda6682da498'
+    link: 'https://pub.dartlang.org/packages/vm_service_lib'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
