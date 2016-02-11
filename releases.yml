@@ -54120,3 +54120,12 @@
     link: 'https://pub.dartlang.org/packages/mojo'
     author:
         - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: jsonp
+    package_version: v2.0.1
+    title: 'v2.0.1 of jsonp'
+    published: '2016-02-11T22:28:05+00:00'
+    id: 'urn:uuid:60cc6b3c-74b6-5948-90b5-5842e7738f52'
+    link: 'https://pub.dartlang.org/packages/jsonp'
+    author:
+        - 'Matthew Franglen <matthew.franglen@gmail.com>'
