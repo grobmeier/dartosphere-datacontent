@@ -54039,3 +54039,12 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: guinness2
+    package_version: v0.0.4
+    title: 'v0.0.4 of guinness2'
+    published: '2016-02-11T18:15:54+00:00'
+    id: 'urn:uuid:bc6d6483-f9ba-5025-b24d-3ea384749f26'
+    link: 'https://pub.dartlang.org/packages/guinness2'
+    author:
+        - 'Julie Ralph <ju.ralph@gmail.com>'
