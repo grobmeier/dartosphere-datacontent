@@ -54066,3 +54066,57 @@
     link: 'https://pub.dartlang.org/packages/task'
     author:
         - 'Kasper Peulen <kasperpeulen@gmail.com>'
+-
+    package_name: mojom
+    package_version: v0.2.19
+    title: 'v0.2.19 of mojom'
+    published: '2016-02-11T21:48:19+00:00'
+    id: 'urn:uuid:a32f4586-ff7a-5a0c-8629-01a0fddf9107'
+    link: 'https://pub.dartlang.org/packages/mojom'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_apptest
+    package_version: v0.2.19
+    title: 'v0.2.19 of mojo_apptest'
+    published: '2016-02-11T21:48:12+00:00'
+    id: 'urn:uuid:299a6227-fec1-5ebe-a18f-687b5e6100d8'
+    link: 'https://pub.dartlang.org/packages/mojo_apptest'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: pubviz
+    package_version: v2.3.6
+    title: 'v2.3.6 of pubviz'
+    published: '2016-02-11T21:43:23+00:00'
+    id: 'urn:uuid:b8b47d05-280f-5783-b035-68d9a558d610'
+    link: 'https://pub.dartlang.org/packages/pubviz'
+    author:
+        - 'Kevin Moore <kevmoo@google.com>'
+-
+    package_name: mojo_sdk
+    package_version: v0.2.15
+    title: 'v0.2.15 of mojo_sdk'
+    published: '2016-02-11T21:42:14+00:00'
+    id: 'urn:uuid:481108de-b4a9-5b48-b019-30c99063e092'
+    link: 'https://pub.dartlang.org/packages/mojo_sdk'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_services
+    package_version: v0.4.18
+    title: 'v0.4.18 of mojo_services'
+    published: '2016-02-11T21:38:46+00:00'
+    id: 'urn:uuid:dbea16fc-5be1-52d0-97ae-8c0d9b9ecdbf'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo
+    package_version: v0.4.15
+    title: 'v0.4.15 of mojo'
+    published: '2016-02-11T21:38:29+00:00'
+    id: 'urn:uuid:429a7953-9496-5158-a3b0-9eb98c39ce1c'
+    link: 'https://pub.dartlang.org/packages/mojo'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
