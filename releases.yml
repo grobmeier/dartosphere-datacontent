@@ -54048,3 +54048,12 @@
     link: 'https://pub.dartlang.org/packages/guinness2'
     author:
         - 'Julie Ralph <ju.ralph@gmail.com>'
+-
+    package_name: dartz
+    package_version: v0.0.1
+    title: 'v0.0.1 of dartz'
+    published: '2016-02-11T19:13:29+00:00'
+    id: 'urn:uuid:b09a2858-b634-5c22-b453-4f5a47a8f406'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <dartz@sperber.se>'
