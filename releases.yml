@@ -54057,3 +54057,12 @@
     link: 'https://pub.dartlang.org/packages/dartz'
     author:
         - 'Björn Sperber <dartz@sperber.se>'
+-
+    package_name: task
+    package_version: v0.0.0
+    title: 'v0.0.0 of task'
+    published: '2016-02-11T20:56:00+00:00'
+    id: 'urn:uuid:28215ff5-afe4-51d0-bc83-10ee9b843925'
+    link: 'https://pub.dartlang.org/packages/task'
+    author:
+        - 'Kasper Peulen <kasperpeulen@gmail.com>'
