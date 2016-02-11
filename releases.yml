@@ -54129,3 +54129,12 @@
     link: 'https://pub.dartlang.org/packages/jsonp'
     author:
         - 'Matthew Franglen <matthew.franglen@gmail.com>'
+-
+    package_name: flutter_gallery_assets
+    package_version: v0.0.6
+    title: 'v0.0.6 of flutter_gallery_assets'
+    published: '2016-02-11T23:14:42+00:00'
+    id: 'urn:uuid:acd74911-e755-5f1b-bfd0-1ca3c36e2a70'
+    link: 'https://pub.dartlang.org/packages/flutter_gallery_assets'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
