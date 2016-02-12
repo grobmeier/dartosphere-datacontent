@@ -54342,3 +54342,12 @@
     link: 'https://pub.dartlang.org/packages/firebase_flutter'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: flutter_gallery_assets
+    package_version: v0.0.7
+    title: 'v0.0.7 of flutter_gallery_assets'
+    published: '2016-02-12T22:48:07+00:00'
+    id: 'urn:uuid:a504bb3d-f34f-55a8-aa59-18ddae602f39'
+    link: 'https://pub.dartlang.org/packages/flutter_gallery_assets'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
