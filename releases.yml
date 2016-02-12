@@ -54288,3 +54288,12 @@
         - 'Paul Evans <pevans@sonardesign.com>'
         - 'Stéphane Este-Gracias <sestegra@gmail.com>'
         - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
+-
+    package_name: pointycastle
+    package_version: v0.10.0+1
+    title: 'v0.10.0+1 of pointycastle'
+    published: '2016-02-12T14:22:16+00:00'
+    id: 'urn:uuid:0b1696ab-2375-5c54-aee1-7f656fa15e65'
+    link: 'https://pub.dartlang.org/packages/pointycastle'
+    author:
+        - 'The Pointy Castle team'
