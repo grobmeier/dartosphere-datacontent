@@ -54275,3 +54275,16 @@
     author:
         - 'Vadim Tsushko <vadimtsushko@gmail.com>'
         - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
+-
+    package_name: mongo_dart
+    package_version: v0.2.5+1
+    title: 'v0.2.5+1 of mongo_dart'
+    published: '2016-02-12T13:25:32+00:00'
+    id: 'urn:uuid:b4438798-c300-5a64-8759-a646403ff27a'
+    link: 'https://pub.dartlang.org/packages/mongo_dart'
+    author:
+        - 'Vadim Tsushko <vadimtsushko@gmail.com>'
+        - 'Ted Sander <ted@tedsander.com>'
+        - 'Paul Evans <pevans@sonardesign.com>'
+        - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+        - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
