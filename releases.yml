@@ -54306,3 +54306,21 @@
     link: 'https://pub.dartlang.org/packages/twitter'
     author:
         - 'sh4869 <nobuk4869@gmail.com>'
+-
+    package_name: firebase_flutter
+    package_version: v0.0.1
+    title: 'v0.0.1 of firebase_flutter'
+    published: '2016-02-12T19:44:38+00:00'
+    id: 'urn:uuid:c96a8099-3435-5f74-bd86-e4a8b69b660c'
+    link: 'https://pub.dartlang.org/packages/firebase_flutter'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: realtime_data_model
+    package_version: v0.0.21
+    title: 'v0.0.21 of realtime_data_model'
+    published: '2016-02-12T19:28:56+00:00'
+    id: 'urn:uuid:ea0295ca-613c-5fd9-b320-7a84cb102654'
+    link: 'https://pub.dartlang.org/packages/realtime_data_model'
+    author:
+        - 'Christopher Best <bestchris@gmail.com>'
