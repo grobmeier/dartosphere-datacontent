@@ -54265,3 +54265,13 @@
     author:
         - 'Kenneth Endfinger <kaendfinger@gmail.com>'
         - 'Dan Ellis <dan@danellis.me>'
+-
+    package_name: mongo_dart_query
+    package_version: v0.2.2
+    title: 'v0.2.2 of mongo_dart_query'
+    published: '2016-02-12T12:59:39+00:00'
+    id: 'urn:uuid:8e458a44-fc16-53eb-9ad9-bed32265fce0'
+    link: 'https://pub.dartlang.org/packages/mongo_dart_query'
+    author:
+        - 'Vadim Tsushko <vadimtsushko@gmail.com>'
+        - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
