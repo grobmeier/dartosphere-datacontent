@@ -54351,3 +54351,12 @@
     link: 'https://pub.dartlang.org/packages/flutter_gallery_assets'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: firebase_flutter
+    package_version: v0.0.4
+    title: 'v0.0.4 of firebase_flutter'
+    published: '2016-02-12T23:32:50+00:00'
+    id: 'urn:uuid:83e581bd-13d3-5a33-a835-1ab08a634bed'
+    link: 'https://pub.dartlang.org/packages/firebase_flutter'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
