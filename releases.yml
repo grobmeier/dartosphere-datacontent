@@ -54297,3 +54297,12 @@
     link: 'https://pub.dartlang.org/packages/pointycastle'
     author:
         - 'The Pointy Castle team'
+-
+    package_name: twitter
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of twitter'
+    published: '2016-02-12T15:10:45+00:00'
+    id: 'urn:uuid:8e7fccec-fa42-54a9-a29e-e5adc5eb1d9e'
+    link: 'https://pub.dartlang.org/packages/twitter'
+    author:
+        - 'sh4869 <nobuk4869@gmail.com>'
