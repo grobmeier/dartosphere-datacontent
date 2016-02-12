@@ -54246,3 +54246,22 @@
         - 'Victor Savkin <vsavkin@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: ardknob
+    package_version: v0.9.1
+    title: 'v0.9.1 of ardknob'
+    published: '2016-02-12T03:55:40+00:00'
+    id: 'urn:uuid:8ae57023-9903-5eff-8575-b48f97e60ce0'
+    link: 'https://pub.dartlang.org/packages/ardknob'
+    author:
+        - 'John McDole <john@mcdole.org>'
+-
+    package_name: msgpack
+    package_version: v0.4.0
+    title: 'v0.4.0 of msgpack'
+    published: '2016-02-12T03:45:39+00:00'
+    id: 'urn:uuid:7ec1274c-b227-51d0-b367-5f96c28fce78'
+    link: 'https://pub.dartlang.org/packages/msgpack'
+    author:
+        - 'Kenneth Endfinger <kaendfinger@gmail.com>'
+        - 'Dan Ellis <dan@danellis.me>'
