@@ -54360,3 +54360,12 @@
     link: 'https://pub.dartlang.org/packages/firebase_flutter'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: task
+    package_version: v0.0.0+1
+    title: 'v0.0.0+1 of task'
+    published: '2016-02-13T00:15:10+00:00'
+    id: 'urn:uuid:5fb16ddf-a82b-52c6-8509-b6b36e6579db'
+    link: 'https://pub.dartlang.org/packages/task'
+    author:
+        - 'Kasper Peulen <kasperpeulen@gmail.com>'
