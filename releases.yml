@@ -54378,3 +54378,21 @@
     link: 'https://pub.dartlang.org/packages/xxtea'
     author:
         - 'Ma Bingyao <mabingyao@gmail.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.98
+    title: 'v0.0.98 of sky_services'
+    published: '2016-02-13T21:08:57+00:00'
+    id: 'urn:uuid:2abab55b-6e69-5103-812e-7fa2fd7e7b38'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.98
+    title: 'v0.0.98 of sky_engine'
+    published: '2016-02-13T21:08:54+00:00'
+    id: 'urn:uuid:69a7f7a1-1624-5e38-a23c-29b08e52e95a'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
