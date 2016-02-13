@@ -54369,3 +54369,12 @@
     link: 'https://pub.dartlang.org/packages/task'
     author:
         - 'Kasper Peulen <kasperpeulen@gmail.com>'
+-
+    package_name: xxtea
+    package_version: v1.0.0
+    title: 'v1.0.0 of xxtea'
+    published: '2016-02-13T09:36:07+00:00'
+    id: 'urn:uuid:3a5a2cf9-7ef0-5acd-90d0-e569955f22d1'
+    link: 'https://pub.dartlang.org/packages/xxtea'
+    author:
+        - 'Ma Bingyao <mabingyao@gmail.com>'
