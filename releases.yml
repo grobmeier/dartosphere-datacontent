@@ -54414,3 +54414,21 @@
     link: 'https://pub.dartlang.org/packages/ardknob'
     author:
         - 'John McDole <john@mcdole.org>'
+-
+    package_name: json_god
+    package_version: v1.0.0-beta.1
+    title: 'v1.0.0-beta.1 of json_god'
+    published: '2016-02-14T15:58:27+00:00'
+    id: 'urn:uuid:a0374a58-5809-58fb-b93f-a2cdc430f87a'
+    link: 'https://pub.dartlang.org/packages/json_god'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: unicode
+    package_version: v0.0.10
+    title: 'v0.0.10 of unicode'
+    published: '2016-02-14T15:16:48+00:00'
+    id: 'urn:uuid:e0bf2a6a-96b5-52cd-ae1b-d1bb57ab7b91'
+    link: 'https://pub.dartlang.org/packages/unicode'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
