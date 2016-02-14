@@ -54405,3 +54405,12 @@
     link: 'https://pub.dartlang.org/packages/smartcanvas'
     author:
         - 'Kun Zhao <kzhdev@gmail.com>'
+-
+    package_name: ardknob
+    package_version: v1.0.0
+    title: 'v1.0.0 of ardknob'
+    published: '2016-02-14T04:52:28+00:00'
+    id: 'urn:uuid:1fa87af6-f187-56f1-9ccc-949cf4c06074'
+    link: 'https://pub.dartlang.org/packages/ardknob'
+    author:
+        - 'John McDole <john@mcdole.org>'
