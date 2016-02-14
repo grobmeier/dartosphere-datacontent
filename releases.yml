@@ -54432,3 +54432,12 @@
     link: 'https://pub.dartlang.org/packages/unicode'
     author:
         - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: json_god
+    package_version: v1.0.0-beta.2
+    title: 'v1.0.0-beta.2 of json_god'
+    published: '2016-02-14T16:00:26+00:00'
+    id: 'urn:uuid:428117fc-6a4b-52cb-8d9e-d3868d56dbd0'
+    link: 'https://pub.dartlang.org/packages/json_god'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
