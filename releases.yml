@@ -54441,3 +54441,12 @@
     link: 'https://pub.dartlang.org/packages/json_god'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: generic_vector_tools
+    package_version: v1.0.4
+    title: 'v1.0.4 of generic_vector_tools'
+    published: '2016-02-14T17:14:16+00:00'
+    id: 'urn:uuid:ebdbcdbd-2a1f-53ab-9865-bc0cc2375a59'
+    link: 'https://pub.dartlang.org/packages/generic_vector_tools'
+    author:
+        - 'Ben Sheron <benmosheron@gmail.com>'
