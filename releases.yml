@@ -54468,3 +54468,12 @@
     link: 'https://pub.dartlang.org/packages/angular2_rbi'
     author:
         - 'Jim Washington <washington.jim@gmail.com>'
+-
+    package_name: hprose
+    package_version: v0.5.0-dev+2.25.2016
+    title: 'v0.5.0-dev+2.25.2016 of hprose'
+    published: '2016-02-15T02:26:58+00:00'
+    id: 'urn:uuid:5c837a26-c487-5302-82a8-b547c90e0e47'
+    link: 'https://pub.dartlang.org/packages/hprose'
+    author:
+        - 'Ma Bingyao <mabingyao@gmail.com>'
