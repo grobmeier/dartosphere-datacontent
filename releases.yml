@@ -54486,3 +54486,12 @@
     link: 'https://pub.dartlang.org/packages/json_god'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: mdl
+    package_version: v1.15.3
+    title: 'v1.15.3 of mdl'
+    published: '2016-02-15T10:36:21+00:00'
+    id: 'urn:uuid:1428ae2a-1c84-504f-89ea-99eec6f83356'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
