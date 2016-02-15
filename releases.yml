@@ -54495,3 +54495,12 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: dartregistry
+    package_version: v1.3.0
+    title: 'v1.3.0 of dartregistry'
+    published: '2016-02-15T16:49:21+00:00'
+    id: 'urn:uuid:8d0ae18d-f3cd-56fc-bfed-2ab42028c2ac'
+    link: 'https://pub.dartlang.org/packages/dartregistry'
+    author:
+        - 'Roberto Tassi <roberto.tassi@fromlabs.org>'
