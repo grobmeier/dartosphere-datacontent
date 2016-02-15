@@ -54477,3 +54477,12 @@
     link: 'https://pub.dartlang.org/packages/hprose'
     author:
         - 'Ma Bingyao <mabingyao@gmail.com>'
+-
+    package_name: json_god
+    package_version: v1.0.0-beta.5
+    title: 'v1.0.0-beta.5 of json_god'
+    published: '2016-02-15T05:45:57+00:00'
+    id: 'urn:uuid:e09a233c-5320-522d-98a3-37a21902ab48'
+    link: 'https://pub.dartlang.org/packages/json_god'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
