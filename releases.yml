@@ -54522,3 +54522,12 @@
     link: 'https://pub.dartlang.org/packages/vm_service_client'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: analyzer
+    package_version: v0.27.2
+    title: 'v0.27.2 of analyzer'
+    published: '2016-02-16T22:32:12+00:00'
+    id: 'urn:uuid:a394425f-913a-5543-b0cd-83f3cb798d69'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
