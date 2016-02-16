@@ -54513,3 +54513,12 @@
     link: 'https://pub.dartlang.org/packages/http_in_memory_web_api'
     author:
         - 'Adao Junior <itsjunnior@gmail.com>'
+-
+    package_name: vm_service_client
+    package_version: v0.1.1+1
+    title: 'v0.1.1+1 of vm_service_client'
+    published: '2016-02-16T21:32:07+00:00'
+    id: 'urn:uuid:3bca23da-c210-5749-ae9a-54b4fa2b0211'
+    link: 'https://pub.dartlang.org/packages/vm_service_client'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
