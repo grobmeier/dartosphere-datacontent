@@ -54504,3 +54504,12 @@
     link: 'https://pub.dartlang.org/packages/dartregistry'
     author:
         - 'Roberto Tassi <roberto.tassi@fromlabs.org>'
+-
+    package_name: http_in_memory_web_api
+    package_version: v0.1.0
+    title: 'v0.1.0 of http_in_memory_web_api'
+    published: '2016-02-16T15:38:04+00:00'
+    id: 'urn:uuid:b5d75a81-9444-54f1-90e5-0269d155d3b9'
+    link: 'https://pub.dartlang.org/packages/http_in_memory_web_api'
+    author:
+        - 'Adao Junior <itsjunnior@gmail.com>'
