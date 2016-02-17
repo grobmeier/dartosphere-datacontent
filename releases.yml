@@ -54612,3 +54612,12 @@
     link: 'https://pub.dartlang.org/packages/tw_pub_proxy_server'
     author:
         - 'Eric Snorteland <esnorteland@trustwave.com>'
+-
+    package_name: v23discovery
+    package_version: v0.0.13
+    title: 'v0.0.13 of v23discovery'
+    published: '2016-02-17T20:01:13+00:00'
+    id: 'urn:uuid:6f833f7a-8f96-5243-9092-990ea9694f30'
+    link: 'https://pub.dartlang.org/packages/v23discovery'
+    author:
+        - 'Vanadium Authors'
