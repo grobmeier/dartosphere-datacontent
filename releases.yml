@@ -54585,3 +54585,12 @@
     link: 'https://pub.dartlang.org/packages/reflectable'
     author:
         - 'The Dart Team <dart@google.com>'
+-
+    package_name: tw_pub_proxy_server
+    package_version: v0.0.1
+    title: 'v0.0.1 of tw_pub_proxy_server'
+    published: '2016-02-17T18:08:56+00:00'
+    id: 'urn:uuid:d67889e3-1235-52cd-967f-9abe5d07ceb6'
+    link: 'https://pub.dartlang.org/packages/tw_pub_proxy_server'
+    author:
+        - 'Eric Snorteland <esnortel@gmail.com>'
