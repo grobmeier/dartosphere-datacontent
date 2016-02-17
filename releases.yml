@@ -54576,3 +54576,12 @@
     link: 'https://pub.dartlang.org/packages/mistletoe'
     author:
         - 'Hiroyuki Notomi <tastydart@gmail.com>'
+-
+    package_name: reflectable
+    package_version: v0.5.2
+    title: 'v0.5.2 of reflectable'
+    published: '2016-02-17T17:44:09+00:00'
+    id: 'urn:uuid:1629d376-6bd5-58d9-ae7b-964808d91f06'
+    link: 'https://pub.dartlang.org/packages/reflectable'
+    author:
+        - 'The Dart Team <dart@google.com>'
