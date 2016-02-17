@@ -54621,3 +54621,21 @@
     link: 'https://pub.dartlang.org/packages/v23discovery'
     author:
         - 'Vanadium Authors'
+-
+    package_name: dartdoc
+    package_version: v0.9.0
+    title: 'v0.9.0 of dartdoc'
+    published: '2016-02-17T22:00:35+00:00'
+    id: 'urn:uuid:d634054d-bc4f-5be2-bd33-d2eee55ad95e'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: vm_service_lib
+    package_version: v0.2.1
+    title: 'v0.2.1 of vm_service_lib'
+    published: '2016-02-17T21:57:53+00:00'
+    id: 'urn:uuid:26b53365-f1ed-5739-8f14-156bc287dc02'
+    link: 'https://pub.dartlang.org/packages/vm_service_lib'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
