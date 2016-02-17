@@ -54567,3 +54567,12 @@
     link: 'https://pub.dartlang.org/packages/mitstletoe'
     author:
         - 'Hiroyuki Notomi <tastydart@gmail.com>'
+-
+    package_name: mistletoe
+    package_version: v0.0.2
+    title: 'v0.0.2 of mistletoe'
+    published: '2016-02-17T16:12:55+00:00'
+    id: 'urn:uuid:e6a48e68-23d4-5663-bfd7-16cf596500dd'
+    link: 'https://pub.dartlang.org/packages/mistletoe'
+    author:
+        - 'Hiroyuki Notomi <tastydart@gmail.com>'
