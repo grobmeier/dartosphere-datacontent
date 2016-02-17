@@ -54531,3 +54531,12 @@
     link: 'https://pub.dartlang.org/packages/analyzer'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: flutter_gallery_assets
+    package_version: v0.0.9
+    title: 'v0.0.9 of flutter_gallery_assets'
+    published: '2016-02-17T01:45:19+00:00'
+    id: 'urn:uuid:1576be9b-6dbf-5ae4-ac28-9befd2e6308d'
+    link: 'https://pub.dartlang.org/packages/flutter_gallery_assets'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
