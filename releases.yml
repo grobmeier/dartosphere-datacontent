@@ -54657,3 +54657,12 @@
     link: 'https://pub.dartlang.org/packages/vm_service_client'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dart_cassandra_cql
+    package_version: v0.1.5
+    title: 'v0.1.5 of dart_cassandra_cql'
+    published: '2016-02-18T07:13:28+00:00'
+    id: 'urn:uuid:5dca9d3e-fe84-54dd-8c7e-ab97563ab04a'
+    link: 'https://pub.dartlang.org/packages/dart_cassandra_cql'
+    author:
+        - 'Achilleas Anagnostopoulos'
