@@ -54675,3 +54675,12 @@
     link: 'https://pub.dartlang.org/packages/mistletoe'
     author:
         - 'Hiroyuki Notomi <tastydart@gmail.com>'
+-
+    package_name: mdl
+    package_version: v1.15.4
+    title: 'v1.15.4 of mdl'
+    published: '2016-02-18T14:34:52+00:00'
+    id: 'urn:uuid:c31256ee-e805-5af0-af41-d04763b3513d'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
