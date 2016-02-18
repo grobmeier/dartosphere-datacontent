@@ -54639,3 +54639,12 @@
     link: 'https://pub.dartlang.org/packages/vm_service_lib'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: scheduled_test
+    package_version: v0.12.5
+    title: 'v0.12.5 of scheduled_test'
+    published: '2016-02-17T23:15:18+00:00'
+    id: 'urn:uuid:d53e406c-4a13-5c60-b5e7-2d67a1f1a377'
+    link: 'https://pub.dartlang.org/packages/scheduled_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
