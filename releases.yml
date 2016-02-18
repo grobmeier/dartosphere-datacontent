@@ -54648,3 +54648,12 @@
     link: 'https://pub.dartlang.org/packages/scheduled_test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: vm_service_client
+    package_version: v0.1.2
+    title: 'v0.1.2 of vm_service_client'
+    published: '2016-02-18T01:48:21+00:00'
+    id: 'urn:uuid:28db93f0-c841-51d8-a688-6ec2562b938b'
+    link: 'https://pub.dartlang.org/packages/vm_service_client'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
