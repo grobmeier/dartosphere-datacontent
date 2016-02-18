@@ -54698,3 +54698,12 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: log
+    package_version: v0.0.6
+    title: 'v0.0.6 of log'
+    published: '2016-02-18T21:57:07+00:00'
+    id: 'urn:uuid:198e34f2-c7f5-57df-84c6-8dd4c81db28c'
+    link: 'https://pub.dartlang.org/packages/log'
+    author:
+        - 'Andrew Peterson <andrewwaynepeterson@gmail.com>'
