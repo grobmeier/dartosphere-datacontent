@@ -54935,3 +54935,12 @@
     link: 'https://pub.dartlang.org/packages/gamee'
     author:
         - 'Mlčoch Zdeněk <mlcoch.zdenek@gmail.com>'
+-
+    package_name: template_binding
+    package_version: v0.14.0+4
+    title: 'v0.14.0+4 of template_binding'
+    published: '2016-02-19T18:47:49+00:00'
+    id: 'urn:uuid:96db91c8-be13-5356-88c9-7590d69e237f'
+    link: 'https://pub.dartlang.org/packages/template_binding'
+    author:
+        - 'Polymer.dart Team <web-ui-dev@dartlang.org>'
