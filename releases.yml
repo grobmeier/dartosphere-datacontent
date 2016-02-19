@@ -54866,3 +54866,21 @@
     link: 'https://pub.dartlang.org/packages/statsd'
     author:
         - 'Anatoly Pulyaevskiy <anatoly.pulyaevskiy@gmail.com>'
+-
+    package_name: sky_services
+    package_version: v0.0.99
+    title: 'v0.0.99 of sky_services'
+    published: '2016-02-19T03:40:00+00:00'
+    id: 'urn:uuid:2143e099-073a-565d-b9eb-f13f992533d3'
+    link: 'https://pub.dartlang.org/packages/sky_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: sky_engine
+    package_version: v0.0.99
+    title: 'v0.0.99 of sky_engine'
+    published: '2016-02-19T03:39:58+00:00'
+    id: 'urn:uuid:4e9050f3-d4c6-5813-b225-f4b57815ce23'
+    link: 'https://pub.dartlang.org/packages/sky_engine'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
