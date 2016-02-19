@@ -54926,3 +54926,12 @@
         - 'Warren Strange <warren.strange@gmail.com>'
         - 'Chris Ridd <chrisridd@mac.com>'
         - 'Hoylen Sue <hoylen@hoylen.com>'
+-
+    package_name: gamee
+    package_version: v0.0.2
+    title: 'v0.0.2 of gamee'
+    published: '2016-02-19T15:48:35+00:00'
+    id: 'urn:uuid:6511acf2-007f-5f02-bc3d-93d05be25443'
+    link: 'https://pub.dartlang.org/packages/gamee'
+    author:
+        - 'Mlčoch Zdeněk <mlcoch.zdenek@gmail.com>'
