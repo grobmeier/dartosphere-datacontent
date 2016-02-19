@@ -54817,3 +54817,24 @@
         - 'Victor Savkin <vsavkin@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: dslink
+    package_version: v0.5.8
+    title: 'v0.5.8 of dslink'
+    published: '2016-02-18T23:17:35+00:00'
+    id: 'urn:uuid:be9b8e9e-5dd2-51ae-9f36-a7a4626fbecd'
+    link: 'https://pub.dartlang.org/packages/dslink'
+    author:
+        - 'Kenneth Endfinger <k.endfinger@dglogik.com>'
+        - 'Rick Zhou <z.zhou@dglogik.com>'
+        - 'Michael Bullington <m.bullington@dglogik.com>'
+        - 'Matthew Butler <m.butler@dglogik.com>'
+-
+    package_name: mdl
+    package_version: v1.15.5
+    title: 'v1.15.5 of mdl'
+    published: '2016-02-18T23:04:34+00:00'
+    id: 'urn:uuid:6fad1593-c325-5d4e-b860-11a1359a1c2b'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
