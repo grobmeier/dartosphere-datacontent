@@ -54915,3 +54915,14 @@
     link: 'https://pub.dartlang.org/packages/harvest'
     author:
         - 'Lars Tackmann <lars@solvr.io>'
+-
+    package_name: dartdap
+    package_version: v0.0.9
+    title: 'v0.0.9 of dartdap'
+    published: '2016-02-19T12:27:29+00:00'
+    id: 'urn:uuid:845a3688-106b-5c78-84e9-1bb83c48705a'
+    link: 'https://pub.dartlang.org/packages/dartdap'
+    author:
+        - 'Warren Strange <warren.strange@gmail.com>'
+        - 'Chris Ridd <chrisridd@mac.com>'
+        - 'Hoylen Sue <hoylen@hoylen.com>'
