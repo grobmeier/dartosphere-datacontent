@@ -54906,3 +54906,12 @@
         - 'Tom Yeh <tomyeh@rikulo.org>'
         - 'Henri Chen <henrichen@rikulo.org>'
         - 'Simon Pai <simonpai@rikulo.org>'
+-
+    package_name: harvest
+    package_version: v2.0.12
+    title: 'v2.0.12 of harvest'
+    published: '2016-02-19T08:59:17+00:00'
+    id: 'urn:uuid:7d4c0496-eed7-5f8e-b14c-a289aec0bfa7'
+    link: 'https://pub.dartlang.org/packages/harvest'
+    author:
+        - 'Lars Tackmann <lars@solvr.io>'
