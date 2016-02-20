@@ -54999,3 +54999,21 @@
     link: 'https://pub.dartlang.org/packages/stagexl_spine'
     author:
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: stagexl_toolkit
+    package_version: v0.1.0
+    title: 'v0.1.0 of stagexl_toolkit'
+    published: '2016-02-20T15:07:27+00:00'
+    id: 'urn:uuid:479b6d0a-ec65-5b86-bccb-797db2a30440'
+    link: 'https://pub.dartlang.org/packages/stagexl_toolkit'
+    author:
+        - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: stagexl
+    package_version: v0.13.3
+    title: 'v0.13.3 of stagexl'
+    published: '2016-02-20T15:00:49+00:00'
+    id: 'urn:uuid:3d40920b-f50e-50ee-aab6-9ea95ad83986'
+    link: 'https://pub.dartlang.org/packages/stagexl'
+    author:
+        - 'Bernhard Pichler <support@stagexl.org>'
