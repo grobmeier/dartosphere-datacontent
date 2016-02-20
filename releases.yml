@@ -54962,3 +54962,13 @@
     link: 'https://pub.dartlang.org/packages/dev_compiler'
     author:
         - 'Dart Dev Compiler team <dev-compiler@dartlang.org>'
+-
+    package_name: file
+    package_version: v0.1.0
+    title: 'v0.1.0 of file'
+    published: '2016-02-20T01:47:26+00:00'
+    id: 'urn:uuid:01679a0e-72e0-5958-b63c-d91424f46988'
+    link: 'https://pub.dartlang.org/packages/file'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
