@@ -54972,3 +54972,12 @@
     author:
         - 'Matan Lurey <matanl@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
+-
+    package_name: mistletoe
+    package_version: v1.0.0
+    title: 'v1.0.0 of mistletoe'
+    published: '2016-02-20T07:30:02+00:00'
+    id: 'urn:uuid:db2ca4b8-1335-537d-be11-d9e2944d3623'
+    link: 'https://pub.dartlang.org/packages/mistletoe'
+    author:
+        - 'Hiroyuki Notomi <tastydart@gmail.com>'
