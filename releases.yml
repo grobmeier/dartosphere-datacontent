@@ -54990,3 +54990,12 @@
     link: 'https://pub.dartlang.org/packages/stagexl_spine'
     author:
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: stagexl_spine
+    package_version: v0.5.0+1
+    title: 'v0.5.0+1 of stagexl_spine'
+    published: '2016-02-20T12:32:54+00:00'
+    id: 'urn:uuid:22a2ba82-c054-5d09-a2fe-0dee596a413e'
+    link: 'https://pub.dartlang.org/packages/stagexl_spine'
+    author:
+        - 'Bernhard Pichler <support@stagexl.org>'
