@@ -55017,3 +55017,12 @@
     link: 'https://pub.dartlang.org/packages/stagexl'
     author:
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: linter
+    package_version: v0.1.12
+    title: 'v0.1.12 of linter'
+    published: '2016-02-21T05:48:44+00:00'
+    id: 'urn:uuid:9a8668b5-8ac3-5417-9336-f515e3fec73b'
+    link: 'https://pub.dartlang.org/packages/linter'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
