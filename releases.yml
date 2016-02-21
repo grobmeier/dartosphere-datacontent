@@ -55026,3 +55026,12 @@
     link: 'https://pub.dartlang.org/packages/linter'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dartz
+    package_version: v0.0.2
+    title: 'v0.0.2 of dartz'
+    published: '2016-02-21T14:18:51+00:00'
+    id: 'urn:uuid:2f3827ef-001e-5dc9-95c2-93254dfaf41b'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
