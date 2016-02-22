@@ -55062,3 +55062,12 @@
     link: 'https://pub.dartlang.org/packages/complex_matrix'
     author:
         - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: plot_window
+    package_version: v0.0.27
+    title: 'v0.0.27 of plot_window'
+    published: '2016-02-22T14:59:02+00:00'
+    id: 'urn:uuid:a800b44e-2dae-5be1-88b4-5a834778f020'
+    link: 'https://pub.dartlang.org/packages/plot_window'
+    author:
+        - 'Edouard Tavinor <edouardtavinor@gmail.com>'
