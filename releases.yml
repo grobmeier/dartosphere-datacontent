@@ -55044,3 +55044,21 @@
     link: 'https://pub.dartlang.org/packages/revolver'
     author:
         - 'Keith Elliott <keith.b.elliott@gmail.com>'
+-
+    package_name: fft
+    package_version: v0.0.9
+    title: 'v0.0.9 of fft'
+    published: '2016-02-22T13:37:53+00:00'
+    id: 'urn:uuid:05ddf885-1fd0-598e-8991-554d701b3af2'
+    link: 'https://pub.dartlang.org/packages/fft'
+    author:
+        - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: complex_matrix
+    package_version: v0.0.5
+    title: 'v0.0.5 of complex_matrix'
+    published: '2016-02-22T13:34:00+00:00'
+    id: 'urn:uuid:621f5d08-0530-52b4-aaf8-0594f95940b0'
+    link: 'https://pub.dartlang.org/packages/complex_matrix'
+    author:
+        - 'Edouard Tavinor <edouardtavinor@gmail.com>'
