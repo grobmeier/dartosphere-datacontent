@@ -55035,3 +55035,12 @@
     link: 'https://pub.dartlang.org/packages/dartz'
     author:
         - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: revolver
+    package_version: v1.0.0
+    title: 'v1.0.0 of revolver'
+    published: '2016-02-22T00:40:13+00:00'
+    id: 'urn:uuid:06773d04-0218-5a33-9978-3f5f3bfeda2e'
+    link: 'https://pub.dartlang.org/packages/revolver'
+    author:
+        - 'Keith Elliott <keith.b.elliott@gmail.com>'
