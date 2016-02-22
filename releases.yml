@@ -55071,3 +55071,12 @@
     link: 'https://pub.dartlang.org/packages/plot_window'
     author:
         - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: utf
+    package_version: v0.9.0+3
+    title: 'v0.9.0+3 of utf'
+    published: '2016-02-22T18:00:33+00:00'
+    id: 'urn:uuid:a72bdcc5-23b9-5c6f-9566-5d86cabc8177'
+    link: 'https://pub.dartlang.org/packages/utf'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
