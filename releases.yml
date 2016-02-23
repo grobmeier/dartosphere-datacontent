@@ -55117,3 +55117,21 @@
     link: 'https://pub.dartlang.org/packages/revolver'
     author:
         - 'Keith Elliott <keith.b.elliott@gmail.com>'
+-
+    package_name: built_json_generator
+    package_version: v0.0.3
+    title: 'v0.0.3 of built_json_generator'
+    published: '2016-02-23T13:04:44+00:00'
+    id: 'urn:uuid:64105ab5-638c-5cd6-8a58-ef8deded1200'
+    link: 'https://pub.dartlang.org/packages/built_json_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_json
+    package_version: v0.0.3
+    title: 'v0.0.3 of built_json'
+    published: '2016-02-23T13:02:47+00:00'
+    id: 'urn:uuid:ebae0d5a-6dbf-56ed-b30a-6a3abf51a8e8'
+    link: 'https://pub.dartlang.org/packages/built_json'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
