@@ -55180,3 +55180,12 @@
     link: 'https://pub.dartlang.org/packages/built_value_generator'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_collection
+    package_version: v1.0.1
+    title: 'v1.0.1 of built_collection'
+    published: '2016-02-23T18:22:48+00:00'
+    id: 'urn:uuid:632f995a-d0a6-53cb-8ab4-85b4668a12ed'
+    link: 'https://pub.dartlang.org/packages/built_collection'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
