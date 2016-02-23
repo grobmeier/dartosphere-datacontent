@@ -55144,3 +55144,39 @@
     link: 'https://pub.dartlang.org/packages/built_value'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: vm_service_lib
+    package_version: v0.2.2
+    title: 'v0.2.2 of vm_service_lib'
+    published: '2016-02-23T17:49:20+00:00'
+    id: 'urn:uuid:fc620d64-fbc2-550b-bfda-4a1659424c16'
+    link: 'https://pub.dartlang.org/packages/vm_service_lib'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: built_json_generator
+    package_version: v0.0.4
+    title: 'v0.0.4 of built_json_generator'
+    published: '2016-02-23T17:49:14+00:00'
+    id: 'urn:uuid:3f76f1ed-d6cc-555c-ac1e-88d22b4ce3c7'
+    link: 'https://pub.dartlang.org/packages/built_json_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_json
+    package_version: v0.0.4
+    title: 'v0.0.4 of built_json'
+    published: '2016-02-23T17:05:31+00:00'
+    id: 'urn:uuid:5b83d356-bf50-5cbe-b452-ee67fd1d7c87'
+    link: 'https://pub.dartlang.org/packages/built_json'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value_generator
+    package_version: v0.0.6
+    title: 'v0.0.6 of built_value_generator'
+    published: '2016-02-23T17:00:13+00:00'
+    id: 'urn:uuid:1f245bee-76e5-5a30-bfec-7907939137f0'
+    link: 'https://pub.dartlang.org/packages/built_value_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
