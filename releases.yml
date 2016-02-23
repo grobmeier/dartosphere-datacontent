@@ -55108,3 +55108,12 @@
     link: 'https://pub.dartlang.org/packages/dev_compiler'
     author:
         - 'Dart Dev Compiler team <dev-compiler@dartlang.org>'
+-
+    package_name: revolver
+    package_version: v1.0.1
+    title: 'v1.0.1 of revolver'
+    published: '2016-02-23T04:06:22+00:00'
+    id: 'urn:uuid:b2b57189-b229-5b86-8736-78268c75aae4'
+    link: 'https://pub.dartlang.org/packages/revolver'
+    author:
+        - 'Keith Elliott <keith.b.elliott@gmail.com>'
