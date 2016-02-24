@@ -55317,3 +55317,12 @@
     link: 'https://pub.dartlang.org/packages/assortment'
     author:
         - 'Christopher Best <bestchris@gmail.com>'
+-
+    package_name: embla
+    package_version: v0.1.10
+    title: 'v0.1.10 of embla'
+    published: '2016-02-24T22:27:16+00:00'
+    id: 'urn:uuid:fb6802b4-7653-5ef5-85cb-d57d4ead684a'
+    link: 'https://pub.dartlang.org/packages/embla'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
