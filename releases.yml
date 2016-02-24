@@ -55272,3 +55272,48 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: embla
+    package_version: v0.1.9
+    title: 'v0.1.9 of embla'
+    published: '2016-02-24T21:31:20+00:00'
+    id: 'urn:uuid:f19c7faa-6215-5948-a177-5ef61a30972c'
+    link: 'https://pub.dartlang.org/packages/embla'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: embla_templates
+    package_version: v0.1.2
+    title: 'v0.1.2 of embla_templates'
+    published: '2016-02-24T21:31:19+00:00'
+    id: 'urn:uuid:2572d7e8-109e-58a8-aec3-a3d9220e0063'
+    link: 'https://pub.dartlang.org/packages/embla_templates'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: realtime_data_model
+    package_version: v0.0.22
+    title: 'v0.0.22 of realtime_data_model'
+    published: '2016-02-24T21:27:53+00:00'
+    id: 'urn:uuid:c76f3ac9-bb87-5b00-8ff1-51aefcb53e4b'
+    link: 'https://pub.dartlang.org/packages/realtime_data_model'
+    author:
+        - 'Christopher Best <bestchris@gmail.com>'
+-
+    package_name: overwrite
+    package_version: v0.2.10
+    title: 'v0.2.10 of overwrite'
+    published: '2016-02-24T21:22:07+00:00'
+    id: 'urn:uuid:aa96332f-2f84-55bc-adf3-77858af0139c'
+    link: 'https://pub.dartlang.org/packages/overwrite'
+    author:
+        - 'Christopher Best <bestchris@gmail.com>'
+-
+    package_name: assortment
+    package_version: v0.1.3
+    title: 'v0.1.3 of assortment'
+    published: '2016-02-24T21:13:02+00:00'
+    id: 'urn:uuid:96d17d0f-ee89-5685-81fd-aa1a2f152f84'
+    link: 'https://pub.dartlang.org/packages/assortment'
+    author:
+        - 'Christopher Best <bestchris@gmail.com>'
