@@ -55254,3 +55254,21 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: typed_data
+    package_version: v1.1.2
+    title: 'v1.1.2 of typed_data'
+    published: '2016-02-24T18:45:39+00:00'
+    id: 'urn:uuid:df591fc2-7f59-5f7d-9eef-0b11f5221081'
+    link: 'https://pub.dartlang.org/packages/typed_data'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: mdl
+    package_version: v1.16.1
+    title: 'v1.16.1 of mdl'
+    published: '2016-02-24T18:08:07+00:00'
+    id: 'urn:uuid:273994e7-efb2-547d-8ee2-f89081949b00'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
