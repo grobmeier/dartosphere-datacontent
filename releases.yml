@@ -55335,3 +55335,18 @@
     link: 'https://pub.dartlang.org/packages/embla'
     author:
         - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: dart_to_js_script_rewriter
+    package_version: v1.0.1
+    title: 'v1.0.1 of dart_to_js_script_rewriter'
+    published: '2016-02-25T16:43:32+00:00'
+    id: 'urn:uuid:9f242cc4-2274-558d-9e4a-4eb5e6f7744f'
+    link: 'https://pub.dartlang.org/packages/dart_to_js_script_rewriter'
+    author:
+        - 'Seth Ladd <sethladd@gmail.com>'
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
