@@ -55368,3 +55368,12 @@
     link: 'https://pub.dartlang.org/packages/v23discovery'
     author:
         - 'Vanadium Authors'
+-
+    package_name: flutter_gallery_assets
+    package_version: v0.0.10
+    title: 'v0.0.10 of flutter_gallery_assets'
+    published: '2016-02-25T22:38:53+00:00'
+    id: 'urn:uuid:af2471b7-69f6-5644-b86d-d5bdf8dc70e0'
+    link: 'https://pub.dartlang.org/packages/flutter_gallery_assets'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
