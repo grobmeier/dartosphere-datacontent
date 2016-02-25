@@ -55326,3 +55326,12 @@
     link: 'https://pub.dartlang.org/packages/embla'
     author:
         - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: embla
+    package_version: v0.1.11
+    title: 'v0.1.11 of embla'
+    published: '2016-02-25T14:18:03+00:00'
+    id: 'urn:uuid:0a788ad4-417f-5b3d-a583-1466e426f9e0'
+    link: 'https://pub.dartlang.org/packages/embla'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
