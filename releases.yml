@@ -55395,3 +55395,12 @@
     link: 'https://pub.dartlang.org/packages/meta'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dartdoc
+    package_version: v0.9.1
+    title: 'v0.9.1 of dartdoc'
+    published: '2016-02-26T22:53:43+00:00'
+    id: 'urn:uuid:29fbf366-9410-593b-866e-8179969625c1'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
