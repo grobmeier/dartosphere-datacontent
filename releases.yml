@@ -55386,3 +55386,12 @@
     link: 'https://pub.dartlang.org/packages/syncbase'
     author:
         - 'Vanadium Authors'
+-
+    package_name: meta
+    package_version: v0.9.0
+    title: 'v0.9.0 of meta'
+    published: '2016-02-26T17:19:26+00:00'
+    id: 'urn:uuid:8de0ccf3-5136-544e-b329-3cfb5ac71731'
+    link: 'https://pub.dartlang.org/packages/meta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
