@@ -55453,3 +55453,12 @@
     link: 'https://pub.dartlang.org/packages/omnibus'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: omnibus
+    package_version: v0.5.1
+    title: 'v0.5.1 of omnibus'
+    published: '2016-02-27T19:30:17+00:00'
+    id: 'urn:uuid:a7d8d75d-5355-5ef5-86d5-94a78731b01b'
+    link: 'https://pub.dartlang.org/packages/omnibus'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
