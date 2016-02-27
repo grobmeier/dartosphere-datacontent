@@ -55417,3 +55417,12 @@
         - 'Austin Cummings <austincummings95@gmail.com>'
         - 'Cristian Garcia <cgarcia.e88@gmail.com>'
         - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
+-
+    package_name: vm_service_lib
+    package_version: v0.2.3
+    title: 'v0.2.3 of vm_service_lib'
+    published: '2016-02-27T05:49:15+00:00'
+    id: 'urn:uuid:261303cd-6360-51b7-8bd1-cf8210c788c5'
+    link: 'https://pub.dartlang.org/packages/vm_service_lib'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
