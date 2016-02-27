@@ -55404,3 +55404,16 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: redstone
+    package_version: v0.6.5
+    title: 'v0.6.5 of redstone'
+    published: '2016-02-27T00:48:12+00:00'
+    id: 'urn:uuid:06db0496-9bc7-58a5-8d8a-909827ab812f'
+    link: 'https://pub.dartlang.org/packages/redstone'
+    author:
+        - 'Luiz Mineo <luiz.mineo@gmail.com>'
+        - 'Kenneth Endfinger <kaendfinger@gmail.com>'
+        - 'Austin Cummings <austincummings95@gmail.com>'
+        - 'Cristian Garcia <cgarcia.e88@gmail.com>'
+        - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
