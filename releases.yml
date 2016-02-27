@@ -55435,3 +55435,12 @@
     link: 'https://pub.dartlang.org/packages/stagexl_spine'
     author:
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: bliss
+    package_version: v0.1.5
+    title: 'v0.1.5 of bliss'
+    published: '2016-02-27T14:17:05+00:00'
+    id: 'urn:uuid:a3558776-f5e7-545e-bfe8-398f6bde0737'
+    link: 'https://pub.dartlang.org/packages/bliss'
+    author:
+        - 'Steven Upton <steven.upton@indecks.co>'
