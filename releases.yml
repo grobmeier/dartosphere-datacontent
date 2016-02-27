@@ -55426,3 +55426,12 @@
     link: 'https://pub.dartlang.org/packages/vm_service_lib'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: stagexl_spine
+    package_version: v0.5.1
+    title: 'v0.5.1 of stagexl_spine'
+    published: '2016-02-27T09:55:21+00:00'
+    id: 'urn:uuid:ad7b0d42-79b6-5be7-abec-606ace47f541'
+    link: 'https://pub.dartlang.org/packages/stagexl_spine'
+    author:
+        - 'Bernhard Pichler <support@stagexl.org>'
