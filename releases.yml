@@ -55471,3 +55471,12 @@
     link: 'https://pub.dartlang.org/packages/twitter'
     author:
         - 'sh4869 <nobuk4869@gmail.com>'
+-
+    package_name: twitter
+    package_version: v0.4.0
+    title: 'v0.4.0 of twitter'
+    published: '2016-02-28T08:02:52+00:00'
+    id: 'urn:uuid:828ce34b-729b-542e-88ff-9ad8e5a5d873'
+    link: 'https://pub.dartlang.org/packages/twitter'
+    author:
+        - 'sh4869 <nobuk4869@gmail.com>'
