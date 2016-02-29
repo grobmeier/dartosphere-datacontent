@@ -55552,3 +55552,12 @@
     link: 'https://pub.dartlang.org/packages/coverage'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: react
+    package_version: v0.9.0
+    title: 'v0.9.0 of react'
+    published: '2016-02-29T19:28:47+00:00'
+    id: 'urn:uuid:7c875d28-ebf8-5104-8af0-e1ff3b1e9720'
+    link: 'https://pub.dartlang.org/packages/react'
+    author:
+        - 'Clean Team <clean@vacuumlabs.com>'
