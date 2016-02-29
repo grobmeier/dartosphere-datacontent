@@ -55525,3 +55525,21 @@
     link: 'https://pub.dartlang.org/packages/rpc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: code_mobility
+    package_version: v1.0.0
+    title: 'v1.0.0 of code_mobility'
+    published: '2016-02-29T13:42:05+00:00'
+    id: 'urn:uuid:96cc6a89-c788-54b1-8c00-47acdda3c497'
+    link: 'https://pub.dartlang.org/packages/code_mobility'
+    author:
+        - 'Daniel Bälz <me@dbaelz.de>'
+-
+    package_name: adaptify
+    package_version: v1.0.0
+    title: 'v1.0.0 of adaptify'
+    published: '2016-02-29T13:41:46+00:00'
+    id: 'urn:uuid:3bada12d-afc5-535f-af6c-1e11dd4cb5d2'
+    link: 'https://pub.dartlang.org/packages/adaptify'
+    author:
+        - 'Daniel Bälz <me@dbaelz.de>'
