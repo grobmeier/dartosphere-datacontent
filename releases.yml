@@ -55489,3 +55489,21 @@
     link: 'https://pub.dartlang.org/packages/dartz'
     author:
         - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: ebisu_cpp
+    package_version: v0.3.18
+    title: 'v0.3.18 of ebisu_cpp'
+    published: '2016-02-29T02:59:37+00:00'
+    id: 'urn:uuid:f9a76c64-2310-5424-a54a-90d81bf306ed'
+    link: 'https://pub.dartlang.org/packages/ebisu_cpp'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: ebisu
+    package_version: v0.6.16
+    title: 'v0.6.16 of ebisu'
+    published: '2016-02-29T02:50:18+00:00'
+    id: 'urn:uuid:79c77947-cdc4-5f27-a059-b3d8681bac52'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
