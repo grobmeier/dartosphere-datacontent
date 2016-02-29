@@ -55507,3 +55507,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu'
     author:
         - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: rxdart
+    package_version: v0.3.13
+    title: 'v0.3.13 of rxdart'
+    published: '2016-02-29T06:53:29+00:00'
+    id: 'urn:uuid:c8de9c5b-0c05-5183-b1cd-ac3aa83e3223'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
