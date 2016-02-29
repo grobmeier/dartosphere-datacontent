@@ -55543,3 +55543,12 @@
     link: 'https://pub.dartlang.org/packages/adaptify'
     author:
         - 'Daniel Bälz <me@dbaelz.de>'
+-
+    package_name: coverage
+    package_version: v0.7.3
+    title: 'v0.7.3 of coverage'
+    published: '2016-02-29T18:58:32+00:00'
+    id: 'urn:uuid:b88eaf28-08d0-571c-a0bb-e3d3982db060'
+    link: 'https://pub.dartlang.org/packages/coverage'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
