@@ -55516,3 +55516,12 @@
     link: 'https://pub.dartlang.org/packages/rxdart'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: rpc
+    package_version: v0.5.6
+    title: 'v0.5.6 of rpc'
+    published: '2016-02-29T07:58:31+00:00'
+    id: 'urn:uuid:6380e28c-b3e8-520c-ba95-1f06976e6b54'
+    link: 'https://pub.dartlang.org/packages/rpc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
