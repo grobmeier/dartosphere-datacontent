@@ -55670,3 +55670,12 @@
     author:
         - 'Drafintech <info@drafintech.it>'
         - 'Chris Barfitt <barfittc@gmail.com>'
+-
+    package_name: omnibus
+    package_version: v0.6.1
+    title: 'v0.6.1 of omnibus'
+    published: '2016-03-01T19:55:18+00:00'
+    id: 'urn:uuid:1e488960-2b28-52ab-9d10-87de48f84c75'
+    link: 'https://pub.dartlang.org/packages/omnibus'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
