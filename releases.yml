@@ -55633,3 +55633,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu'
     author:
         - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: mdl
+    package_version: v1.17.0
+    title: 'v1.17.0 of mdl'
+    published: '2016-03-01T07:35:20+00:00'
+    id: 'urn:uuid:f42ef9f1-0990-59d8-9e00-efd49020a233'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
