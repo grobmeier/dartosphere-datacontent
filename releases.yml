@@ -55624,3 +55624,12 @@
     link: 'https://pub.dartlang.org/packages/tw_pub_proxy_server'
     author:
         - 'Eric Snorteland <esnorteland@trustwave.com>'
+-
+    package_name: ebisu
+    package_version: v0.6.17
+    title: 'v0.6.17 of ebisu'
+    published: '2016-03-01T02:39:50+00:00'
+    id: 'urn:uuid:1848f64e-17c7-5138-93bf-cac8ba49fb24'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
