@@ -55688,3 +55688,12 @@
     link: 'https://pub.dartlang.org/packages/test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: rxdart
+    package_version: v0.3.14
+    title: 'v0.3.14 of rxdart'
+    published: '2016-03-01T23:15:38+00:00'
+    id: 'urn:uuid:61b5b2b5-40fd-5d56-b9b8-8cda88ddeb75'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
