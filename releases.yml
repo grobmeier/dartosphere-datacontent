@@ -55660,3 +55660,13 @@
     link: 'https://pub.dartlang.org/packages/webgl_helper'
     author:
         - 'Oliver Damm <oliver.damm@gmx.de>'
+-
+    package_name: polymer_datepicker
+    package_version: v0.10.1
+    title: 'v0.10.1 of polymer_datepicker'
+    published: '2016-03-01T18:19:36+00:00'
+    id: 'urn:uuid:014ad6d4-b7a9-53dc-82c1-12b1dc01e144'
+    link: 'https://pub.dartlang.org/packages/polymer_datepicker'
+    author:
+        - 'Drafintech <info@drafintech.it>'
+        - 'Chris Barfitt <barfittc@gmail.com>'
