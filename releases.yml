@@ -55733,3 +55733,17 @@
     link: 'https://pub.dartlang.org/packages/fnx_config'
     author:
         - 'Tomas Zverina <tomucha@gmail.com>'
+-
+    package_name: w_transport
+    package_version: v2.3.2
+    title: 'v2.3.2 of w_transport'
+    published: '2016-03-02T18:02:04+00:00'
+    id: 'urn:uuid:82b19eef-60f6-5b86-8b35-3506a1179706'
+    link: 'https://pub.dartlang.org/packages/w_transport'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
