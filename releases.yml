@@ -55697,3 +55697,30 @@
     link: 'https://pub.dartlang.org/packages/rxdart'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: ebisu_cpp
+    package_version: v0.3.19
+    title: 'v0.3.19 of ebisu_cpp'
+    published: '2016-03-02T02:53:54+00:00'
+    id: 'urn:uuid:8034e123-94fa-58d3-83b2-3015ebaa66a3'
+    link: 'https://pub.dartlang.org/packages/ebisu_cpp'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: ebisu
+    package_version: v0.6.18
+    title: 'v0.6.18 of ebisu'
+    published: '2016-03-02T02:40:33+00:00'
+    id: 'urn:uuid:93fb591f-eb61-5abc-8154-8878260c2d91'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: browser_detect
+    package_version: v1.0.4
+    title: 'v1.0.4 of browser_detect'
+    published: '2016-03-02T02:37:00+00:00'
+    id: 'urn:uuid:b212aa13-2be2-5419-99ea-3d6269d22756'
+    link: 'https://pub.dartlang.org/packages/browser_detect'
+    author:
+        - 'Dan Schultz <dan@mixbook.com>'
