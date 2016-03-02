@@ -55724,3 +55724,12 @@
     link: 'https://pub.dartlang.org/packages/browser_detect'
     author:
         - 'Dan Schultz <dan@mixbook.com>'
+-
+    package_name: fnx_config
+    package_version: v1.0.1
+    title: 'v1.0.1 of fnx_config'
+    published: '2016-03-02T12:19:41+00:00'
+    id: 'urn:uuid:ed504a13-2ccc-5251-93d0-8862588f0adf'
+    link: 'https://pub.dartlang.org/packages/fnx_config'
+    author:
+        - 'Tomas Zverina <tomucha@gmail.com>'
