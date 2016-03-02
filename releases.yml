@@ -55891,3 +55891,12 @@
     link: 'https://pub.dartlang.org/packages/serializer'
     author:
         - 'Walletek <hadrien.lejard@gmail.com>'
+-
+    package_name: guinness2
+    package_version: v0.0.5
+    title: 'v0.0.5 of guinness2'
+    published: '2016-03-02T21:20:19+00:00'
+    id: 'urn:uuid:0c159a3c-ac23-5ca7-b720-0caf27d06983'
+    link: 'https://pub.dartlang.org/packages/guinness2'
+    author:
+        - 'Julie Ralph <ju.ralph@gmail.com>'
