@@ -55783,3 +55783,111 @@
     link: 'https://pub.dartlang.org/packages/mojo_services'
     author:
         - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: angular2_testing
+    package_version: v2.0.0-beta.8
+    title: 'v2.0.0-beta.8 of angular2_testing'
+    published: '2016-03-02T20:58:31+00:00'
+    id: 'urn:uuid:153732cc-088d-515f-9e39-8118dac526a1'
+    link: 'https://pub.dartlang.org/packages/angular2_testing'
+    author:
+        - 'Alex Eagle <alexeagle@google.com>'
+        - 'Chirayu Krishnappa <chirayu@google.com>'
+        - 'Jeff Cross <crossj@google.com>'
+        - 'Matias Niemela <matsko@google.com>'
+        - 'Misko Hevery <misko@google.com>'
+        - 'Rado Kirov <radokirov@google.com>'
+        - 'Tobias Bosch <tbosch@google.com>'
+        - 'Victor Savkin <vsavkin@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: angular2_material
+    package_version: v2.0.0-beta.8
+    title: 'v2.0.0-beta.8 of angular2_material'
+    published: '2016-03-02T20:58:28+00:00'
+    id: 'urn:uuid:1c0436a2-b6dc-592a-b101-5a180bf17dfc'
+    link: 'https://pub.dartlang.org/packages/angular2_material'
+    author:
+        - 'Alex Eagle <alexeagle@google.com>'
+        - 'Chirayu Krishnappa <chirayu@google.com>'
+        - 'Jeff Cross <crossj@google.com>'
+        - 'Matias Niemela <matsko@google.com>'
+        - 'Misko Hevery <misko@google.com>'
+        - 'Rado Kirov <radokirov@google.com>'
+        - 'Tobias Bosch <tbosch@google.com>'
+        - 'Victor Savkin <vsavkin@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: angular2_benchmarks
+    package_version: v2.0.0-beta.8
+    title: 'v2.0.0-beta.8 of angular2_benchmarks'
+    published: '2016-03-02T20:58:25+00:00'
+    id: 'urn:uuid:9f8176c8-c311-5b4b-84fc-40cea455eb76'
+    link: 'https://pub.dartlang.org/packages/angular2_benchmarks'
+    author:
+        - 'Alex Eagle <alexeagle@google.com>'
+        - 'Chirayu Krishnappa <chirayu@google.com>'
+        - 'Jeff Cross <crossj@google.com>'
+        - 'Matias Niemela <matsko@google.com>'
+        - 'Misko Hevery <misko@google.com>'
+        - 'Rado Kirov <radokirov@google.com>'
+        - 'Tobias Bosch <tbosch@google.com>'
+        - 'Victor Savkin <vsavkin@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: benchpress
+    package_version: v2.0.0-beta.8
+    title: 'v2.0.0-beta.8 of benchpress'
+    published: '2016-03-02T20:58:22+00:00'
+    id: 'urn:uuid:cdbdda83-c7c7-5cee-9734-6111d1922ec0'
+    link: 'https://pub.dartlang.org/packages/benchpress'
+    author:
+        - 'Alex Eagle <alexeagle@google.com>'
+        - 'Chirayu Krishnappa <chirayu@google.com>'
+        - 'Jeff Cross <crossj@google.com>'
+        - 'Matias Niemela <matsko@google.com>'
+        - 'Misko Hevery <misko@google.com>'
+        - 'Rado Kirov <radokirov@google.com>'
+        - 'Tobias Bosch <tbosch@google.com>'
+        - 'Victor Savkin <vsavkin@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: angular2
+    package_version: v2.0.0-beta.8
+    title: 'v2.0.0-beta.8 of angular2'
+    published: '2016-03-02T20:58:19+00:00'
+    id: 'urn:uuid:c0b0414e-6ffd-57f6-ad41-b7f4689234ed'
+    link: 'https://pub.dartlang.org/packages/angular2'
+    author:
+        - 'Alex Eagle <alexeagle@google.com>'
+        - 'Chirayu Krishnappa <chirayu@google.com>'
+        - 'Jeff Cross <crossj@google.com>'
+        - 'Matias Niemela <matsko@google.com>'
+        - 'Misko Hevery <misko@google.com>'
+        - 'Rado Kirov <radokirov@google.com>'
+        - 'Tobias Bosch <tbosch@google.com>'
+        - 'Victor Savkin <vsavkin@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: source_span
+    package_version: v1.2.2
+    title: 'v1.2.2 of source_span'
+    published: '2016-03-02T20:46:37+00:00'
+    id: 'urn:uuid:4a7a65b7-7a2b-5b8d-913d-4e4c3a622cb0'
+    link: 'https://pub.dartlang.org/packages/source_span'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: serializer
+    package_version: v0.1.5
+    title: 'v0.1.5 of serializer'
+    published: '2016-03-02T20:39:51+00:00'
+    id: 'urn:uuid:3b7afd65-fbef-5bcb-9dbf-0a6b25395dc2'
+    link: 'https://pub.dartlang.org/packages/serializer'
+    author:
+        - 'Walletek <hadrien.lejard@gmail.com>'
