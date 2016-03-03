@@ -55927,3 +55927,21 @@
     link: 'https://pub.dartlang.org/packages/meta'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: http_parser
+    package_version: v2.2.0
+    title: 'v2.2.0 of http_parser'
+    published: '2016-03-03T20:09:16+00:00'
+    id: 'urn:uuid:d388d427-8619-53b8-8ef8-eaa26d9779b4'
+    link: 'https://pub.dartlang.org/packages/http_parser'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: shelf_web_socket
+    package_version: v0.2.0
+    title: 'v0.2.0 of shelf_web_socket'
+    published: '2016-03-03T20:08:48+00:00'
+    id: 'urn:uuid:3e8f4f7e-e885-5ab7-b091-97e7c8ea4492'
+    link: 'https://pub.dartlang.org/packages/shelf_web_socket'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
