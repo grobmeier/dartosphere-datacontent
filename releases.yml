@@ -55918,3 +55918,12 @@
     link: 'https://pub.dartlang.org/packages/ng2_strap'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: meta
+    package_version: v0.10.0
+    title: 'v0.10.0 of meta'
+    published: '2016-03-03T18:53:46+00:00'
+    id: 'urn:uuid:27797671-a39a-56cc-83c6-888e40063bfe'
+    link: 'https://pub.dartlang.org/packages/meta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
