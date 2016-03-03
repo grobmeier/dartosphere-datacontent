@@ -55909,3 +55909,12 @@
     link: 'https://pub.dartlang.org/packages/web_socket_channel'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: ng2_strap
+    package_version: v0.0.3+1
+    title: 'v0.0.3+1 of ng2_strap'
+    published: '2016-03-03T06:23:33+00:00'
+    id: 'urn:uuid:32667278-0782-56d9-8685-ef78e30c82c0'
+    link: 'https://pub.dartlang.org/packages/ng2_strap'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
