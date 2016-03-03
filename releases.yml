@@ -55900,3 +55900,12 @@
     link: 'https://pub.dartlang.org/packages/guinness2'
     author:
         - 'Julie Ralph <ju.ralph@gmail.com>'
+-
+    package_name: web_socket_channel
+    package_version: v1.0.0
+    title: 'v1.0.0 of web_socket_channel'
+    published: '2016-03-03T00:17:36+00:00'
+    id: 'urn:uuid:67e03636-1183-5d7d-9030-e5e82bd324b6'
+    link: 'https://pub.dartlang.org/packages/web_socket_channel'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
