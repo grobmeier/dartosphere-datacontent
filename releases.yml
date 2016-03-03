@@ -55954,3 +55954,21 @@
     link: 'https://pub.dartlang.org/packages/test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: signal_dart
+    package_version: v0.0.4
+    title: 'v0.0.4 of signal_dart'
+    published: '2016-03-03T23:30:36+00:00'
+    id: 'urn:uuid:fc513a83-5578-5d98-8c1b-f441f262eb8c'
+    link: 'https://pub.dartlang.org/packages/signal_dart'
+    author:
+        - 'Darren Reid <layoric@gmail.com>'
+-
+    package_name: scissors
+    package_version: v0.4.2
+    title: 'v0.4.2 of scissors'
+    published: '2016-03-03T23:27:47+00:00'
+    id: 'urn:uuid:9cf4721a-246c-50d2-a346-4fa3aa35b418'
+    link: 'https://pub.dartlang.org/packages/scissors'
+    author:
+        - 'Olivier Chafik <ochafik@google.com>'
