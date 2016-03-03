@@ -55945,3 +55945,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_web_socket'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: test
+    package_version: v0.12.11+2
+    title: 'v0.12.11+2 of test'
+    published: '2016-03-03T21:33:20+00:00'
+    id: 'urn:uuid:5cab3563-ed91-5bc9-a851-928f6a04741c'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
