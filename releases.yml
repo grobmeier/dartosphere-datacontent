@@ -56008,3 +56008,17 @@
     link: 'https://pub.dartlang.org/packages/embla'
     author:
         - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: w_flux
+    package_version: v2.1.0
+    title: 'v2.1.0 of w_flux'
+    published: '2016-03-04T13:08:22+00:00'
+    id: 'urn:uuid:831a6cb9-b1d4-5a9e-a8af-c9346f1ac7d9'
+    link: 'https://pub.dartlang.org/packages/w_flux'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
