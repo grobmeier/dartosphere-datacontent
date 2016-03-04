@@ -56067,3 +56067,12 @@
     link: 'https://pub.dartlang.org/packages/embla_trestle'
     author:
         - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: embla_trestle
+    package_version: v0.1.1
+    title: 'v0.1.1 of embla_trestle'
+    published: '2016-03-04T18:17:27+00:00'
+    id: 'urn:uuid:24a6a49c-06e3-58a1-8c0f-90045581b05f'
+    link: 'https://pub.dartlang.org/packages/embla_trestle'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
