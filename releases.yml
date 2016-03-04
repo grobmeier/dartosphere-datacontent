@@ -55972,3 +55972,12 @@
     link: 'https://pub.dartlang.org/packages/scissors'
     author:
         - 'Olivier Chafik <ochafik@google.com>'
+-
+    package_name: json_god
+    package_version: v1.0.0
+    title: 'v1.0.0 of json_god'
+    published: '2016-03-04T04:42:56+00:00'
+    id: 'urn:uuid:dc335c4b-ad23-5aa2-a47e-89c3304e2f6a'
+    link: 'https://pub.dartlang.org/packages/json_god'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
