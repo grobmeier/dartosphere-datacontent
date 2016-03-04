@@ -55981,3 +55981,12 @@
     link: 'https://pub.dartlang.org/packages/json_god'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: slownie
+    package_version: v0.2.0
+    title: 'v0.2.0 of slownie'
+    published: '2016-03-04T08:37:46+00:00'
+    id: 'urn:uuid:05eba4d4-3ba2-5e44-ab48-0fa0912ab1d8'
+    link: 'https://pub.dartlang.org/packages/slownie'
+    author:
+        - 'Tomasz Kubacki <tomasz.kubacki@gmail.com>'
