@@ -55990,3 +55990,21 @@
     link: 'https://pub.dartlang.org/packages/slownie'
     author:
         - 'Tomasz Kubacki <tomasz.kubacki@gmail.com>'
+-
+    package_name: embla_templates
+    package_version: v0.1.3
+    title: 'v0.1.3 of embla_templates'
+    published: '2016-03-04T12:20:51+00:00'
+    id: 'urn:uuid:18164d36-e169-5780-af2c-1d7c5c2a5654'
+    link: 'https://pub.dartlang.org/packages/embla_templates'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: embla
+    package_version: v0.1.12
+    title: 'v0.1.12 of embla'
+    published: '2016-03-04T12:20:18+00:00'
+    id: 'urn:uuid:71390bf6-d5c0-540b-918d-6f9e2508480b'
+    link: 'https://pub.dartlang.org/packages/embla'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
