@@ -56094,3 +56094,12 @@
     link: 'https://pub.dartlang.org/packages/scissors'
     author:
         - 'Olivier Chafik <ochafik@google.com>'
+-
+    package_name: omnibus
+    package_version: v0.7.0
+    title: 'v0.7.0 of omnibus'
+    published: '2016-03-05T11:35:45+00:00'
+    id: 'urn:uuid:6a1aca8e-fcad-5764-a389-971e784e9087'
+    link: 'https://pub.dartlang.org/packages/omnibus'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
