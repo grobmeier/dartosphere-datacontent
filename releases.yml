@@ -56085,3 +56085,12 @@
     link: 'https://pub.dartlang.org/packages/args'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: scissors
+    package_version: v0.4.3
+    title: 'v0.4.3 of scissors'
+    published: '2016-03-05T03:57:51+00:00'
+    id: 'urn:uuid:9b959773-25a1-54c4-ba0f-43624f0d78d2'
+    link: 'https://pub.dartlang.org/packages/scissors'
+    author:
+        - 'Olivier Chafik <ochafik@google.com>'
