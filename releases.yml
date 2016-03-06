@@ -56157,3 +56157,21 @@
     link: 'https://pub.dartlang.org/packages/stagexl'
     author:
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: dartz
+    package_version: v0.0.4
+    title: 'v0.0.4 of dartz'
+    published: '2016-03-06T11:43:34+00:00'
+    id: 'urn:uuid:ed946ce4-d8ef-5f15-9aa0-82fc38766c74'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: omnibus
+    package_version: v0.9.0
+    title: 'v0.9.0 of omnibus'
+    published: '2016-03-06T11:31:57+00:00'
+    id: 'urn:uuid:1301bb01-6634-5b62-9e09-6abd73c92d38'
+    link: 'https://pub.dartlang.org/packages/omnibus'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
