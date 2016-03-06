@@ -56130,3 +56130,21 @@
     link: 'https://pub.dartlang.org/packages/web_server'
     author:
         - 'Brandon White <jennexproject+webserver@gmail.com>'
+-
+    package_name: slickdart
+    package_version: v0.1.5+4
+    title: 'v0.1.5+4 of slickdart'
+    published: '2016-03-06T02:42:47+00:00'
+    id: 'urn:uuid:063f99a2-efde-584c-a533-26b7128c4399'
+    link: 'https://pub.dartlang.org/packages/slickdart'
+    author:
+        - 'CJKAO <kaopeter@gmail.com>, tonosama-atlacatl'
+-
+    package_name: custom_elements
+    package_version: v0.0.3+1
+    title: 'v0.0.3+1 of custom_elements'
+    published: '2016-03-06T02:39:56+00:00'
+    id: 'urn:uuid:70c11e18-493e-5da9-a9b0-07e8e89a9e1f'
+    link: 'https://pub.dartlang.org/packages/custom_elements'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@drafintech.it>'
