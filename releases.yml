@@ -56202,3 +56202,13 @@
     link: 'https://pub.dartlang.org/packages/orientdb1'
     author:
         - 'Ross Albertson <magnusthegood@yahoo.com>'
+-
+    package_name: range_fix
+    package_version: v0.1.2+1
+    title: 'v0.1.2+1 of range_fix'
+    published: '2016-03-07T05:45:22+00:00'
+    id: 'urn:uuid:d4c8273c-3700-5f47-b8a6-29edb058152b'
+    link: 'https://pub.dartlang.org/packages/range_fix'
+    author:
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+        - 'Fluidic Team <dev@fluidic.io>'
