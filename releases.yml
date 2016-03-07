@@ -56266,3 +56266,12 @@
     link: 'https://pub.dartlang.org/packages/custom_elements'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@drafintech.it>'
+-
+    package_name: xml
+    package_version: v2.4.2
+    title: 'v2.4.2 of xml'
+    published: '2016-03-07T15:50:26+00:00'
+    id: 'urn:uuid:c899a93f-5314-5ab8-b5d3-d6113608c8d5'
+    link: 'https://pub.dartlang.org/packages/xml'
+    author:
+        - 'Lukas Renggli <renggli@gmail.com>'
