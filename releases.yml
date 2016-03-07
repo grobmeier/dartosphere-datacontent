@@ -56230,3 +56230,21 @@
     link: 'https://pub.dartlang.org/packages/custom_elements'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@drafintech.it>'
+-
+    package_name: ebisu_cpp
+    package_version: v0.3.20
+    title: 'v0.3.20 of ebisu_cpp'
+    published: '2016-03-07T11:27:05+00:00'
+    id: 'urn:uuid:f903fece-b7b7-5fbe-9fca-c0cf5c633ffc'
+    link: 'https://pub.dartlang.org/packages/ebisu_cpp'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: ebisu
+    package_version: v0.6.19
+    title: 'v0.6.19 of ebisu'
+    published: '2016-03-07T11:23:31+00:00'
+    id: 'urn:uuid:3e2aaa2f-3e8b-5546-8d3c-66d93c4acaa9'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
