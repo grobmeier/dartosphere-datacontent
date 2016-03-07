@@ -56248,3 +56248,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu'
     author:
         - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: custom_elements
+    package_version: v0.0.5
+    title: 'v0.0.5 of custom_elements'
+    published: '2016-03-07T12:45:31+00:00'
+    id: 'urn:uuid:22cb7f94-8b56-550d-ad4e-91408010bcca'
+    link: 'https://pub.dartlang.org/packages/custom_elements'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@drafintech.it>'
