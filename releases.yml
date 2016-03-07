@@ -56221,3 +56221,12 @@
     link: 'https://pub.dartlang.org/packages/access'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: custom_elements
+    package_version: v0.0.4
+    title: 'v0.0.4 of custom_elements'
+    published: '2016-03-07T10:32:06+00:00'
+    id: 'urn:uuid:e9998eb0-55a5-5932-9558-d6b69ebcff0d'
+    link: 'https://pub.dartlang.org/packages/custom_elements'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@drafintech.it>'
