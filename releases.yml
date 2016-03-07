@@ -56193,3 +56193,12 @@
     link: 'https://pub.dartlang.org/packages/orientdb1'
     author:
         - 'Ross Albertson <magnusthegood@yahoo.com>'
+-
+    package_name: orientdb1
+    package_version: v0.0.4
+    title: 'v0.0.4 of orientdb1'
+    published: '2016-03-07T03:00:08+00:00'
+    id: 'urn:uuid:59ad6469-849e-5794-97f6-3867febe618f'
+    link: 'https://pub.dartlang.org/packages/orientdb1'
+    author:
+        - 'Ross Albertson <magnusthegood@yahoo.com>'
