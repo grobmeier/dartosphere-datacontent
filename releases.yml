@@ -56212,3 +56212,12 @@
     author:
         - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
         - 'Fluidic Team <dev@fluidic.io>'
+-
+    package_name: access
+    package_version: v0.7.7
+    title: 'v0.7.7 of access'
+    published: '2016-03-07T06:55:59+00:00'
+    id: 'urn:uuid:271c03a2-f14a-5c59-9a6c-248d42f62916'
+    link: 'https://pub.dartlang.org/packages/access'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
