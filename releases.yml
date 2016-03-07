@@ -56275,3 +56275,12 @@
     link: 'https://pub.dartlang.org/packages/xml'
     author:
         - 'Lukas Renggli <renggli@gmail.com>'
+-
+    package_name: orientdb1
+    package_version: v0.0.5
+    title: 'v0.0.5 of orientdb1'
+    published: '2016-03-07T21:04:48+00:00'
+    id: 'urn:uuid:f570144d-9073-5664-8a83-9a8f01077b92'
+    link: 'https://pub.dartlang.org/packages/orientdb1'
+    author:
+        - 'Ross Albertson <magnusthegood@yahoo.com>'
