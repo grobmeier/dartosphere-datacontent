@@ -56184,3 +56184,12 @@
     link: 'https://pub.dartlang.org/packages/omnibus'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: orientdb1
+    package_version: v0.0.3
+    title: 'v0.0.3 of orientdb1'
+    published: '2016-03-07T02:58:06+00:00'
+    id: 'urn:uuid:94ce400a-7a98-5518-b874-5d92d3db7f57'
+    link: 'https://pub.dartlang.org/packages/orientdb1'
+    author:
+        - 'Ross Albertson <magnusthegood@yahoo.com>'
