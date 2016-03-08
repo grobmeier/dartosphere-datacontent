@@ -56284,3 +56284,12 @@
     link: 'https://pub.dartlang.org/packages/orientdb1'
     author:
         - 'Ross Albertson <magnusthegood@yahoo.com>'
+-
+    package_name: reflectable
+    package_version: v0.5.3
+    title: 'v0.5.3 of reflectable'
+    published: '2016-03-08T09:46:39+00:00'
+    id: 'urn:uuid:aa1ec7e4-f44f-5cb0-8d7d-9ddcd4917854'
+    link: 'https://pub.dartlang.org/packages/reflectable'
+    author:
+        - 'The Dart Team <dart@google.com>'
