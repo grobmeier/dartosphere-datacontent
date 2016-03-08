@@ -56293,3 +56293,21 @@
     link: 'https://pub.dartlang.org/packages/reflectable'
     author:
         - 'The Dart Team <dart@google.com>'
+-
+    package_name: custom_elements
+    package_version: v0.0.5+2
+    title: 'v0.0.5+2 of custom_elements'
+    published: '2016-03-08T15:14:27+00:00'
+    id: 'urn:uuid:a9755177-17b2-5030-80af-f90017994b60'
+    link: 'https://pub.dartlang.org/packages/custom_elements'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@drafintech.it>'
+-
+    package_name: custom_element_apigen
+    package_version: v0.2.2
+    title: 'v0.2.2 of custom_element_apigen'
+    published: '2016-03-08T15:06:11+00:00'
+    id: 'urn:uuid:99465a41-2fc0-5a47-a4e0-376cd8ecea4b'
+    link: 'https://pub.dartlang.org/packages/custom_element_apigen'
+    author:
+        - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
