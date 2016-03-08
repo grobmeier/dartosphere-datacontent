@@ -56338,3 +56338,21 @@
     link: 'https://pub.dartlang.org/packages/embla'
     author:
         - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: gcloud
+    package_version: v0.2.0+11
+    title: 'v0.2.0+11 of gcloud'
+    published: '2016-03-08T17:40:56+00:00'
+    id: 'urn:uuid:ffb36f42-f980-5761-b007-6e8d80cf4ae0'
+    link: 'https://pub.dartlang.org/packages/gcloud'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: omnibus
+    package_version: v0.10.1
+    title: 'v0.10.1 of omnibus'
+    published: '2016-03-08T17:12:25+00:00'
+    id: 'urn:uuid:236b74a2-72e5-5448-9507-f629fa7f74d6'
+    link: 'https://pub.dartlang.org/packages/omnibus'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
