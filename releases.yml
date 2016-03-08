@@ -56365,3 +56365,21 @@
     link: 'https://pub.dartlang.org/packages/markov'
     author:
         - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: async
+    package_version: v1.9.0
+    title: 'v1.9.0 of async'
+    published: '2016-03-08T20:24:44+00:00'
+    id: 'urn:uuid:3c15d862-71aa-5a27-a9e4-3566e82b6268'
+    link: 'https://pub.dartlang.org/packages/async'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: core_mvc
+    package_version: v0.1.0
+    title: 'v0.1.0 of core_mvc'
+    published: '2016-03-08T20:02:43+00:00'
+    id: 'urn:uuid:f9bb3a1c-0534-5159-9cb0-9de9dbc839ec'
+    link: 'https://pub.dartlang.org/packages/core_mvc'
+    author:
+        - 'thetrompf, resem.pl <bkc@resem.pl>'
