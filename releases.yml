@@ -56356,3 +56356,12 @@
     link: 'https://pub.dartlang.org/packages/omnibus'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: markov
+    package_version: v0.0.2
+    title: 'v0.0.2 of markov'
+    published: '2016-03-08T19:33:01+00:00'
+    id: 'urn:uuid:7ffcdb95-7018-5783-a004-0ddb58990a3f'
+    link: 'https://pub.dartlang.org/packages/markov'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
