@@ -56428,3 +56428,12 @@
     link: 'https://pub.dartlang.org/packages/mojo'
     author:
         - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: glob
+    package_version: v1.1.1
+    title: 'v1.1.1 of glob'
+    published: '2016-03-08T23:58:36+00:00'
+    id: 'urn:uuid:b3b1d304-348b-5dab-8ee7-c0a3d5dc416b'
+    link: 'https://pub.dartlang.org/packages/glob'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
