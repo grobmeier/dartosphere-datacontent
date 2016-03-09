@@ -56446,3 +56446,12 @@
     link: 'https://pub.dartlang.org/packages/lightning'
     author:
         - 'Accorto Lightning <lightning@accorto.com>'
+-
+    package_name: custom_elements
+    package_version: v0.0.5+3
+    title: 'v0.0.5+3 of custom_elements'
+    published: '2016-03-09T11:35:48+00:00'
+    id: 'urn:uuid:b16417d5-3b17-5a83-82eb-1b73747559b2'
+    link: 'https://pub.dartlang.org/packages/custom_elements'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@drafintech.it>'
