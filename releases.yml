@@ -56482,3 +56482,12 @@
     link: 'https://pub.dartlang.org/packages/markov'
     author:
         - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: markov
+    package_version: v1.0.0
+    title: 'v1.0.0 of markov'
+    published: '2016-03-09T17:55:39+00:00'
+    id: 'urn:uuid:e583b72e-ee03-510d-b285-56ec4e74fca9'
+    link: 'https://pub.dartlang.org/packages/markov'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
