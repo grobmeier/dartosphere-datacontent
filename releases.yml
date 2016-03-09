@@ -56464,3 +56464,12 @@
     link: 'https://pub.dartlang.org/packages/highcharts'
     author:
         - 'Gonzalo Pezzi <gonzalopezzi@gmail.com>'
+-
+    package_name: custom_elements
+    package_version: v0.0.6
+    title: 'v0.0.6 of custom_elements'
+    published: '2016-03-09T15:49:59+00:00'
+    id: 'urn:uuid:3db76a7d-fa05-5440-aebe-55090c2864f2'
+    link: 'https://pub.dartlang.org/packages/custom_elements'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@drafintech.it>'
