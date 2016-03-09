@@ -56437,3 +56437,12 @@
     link: 'https://pub.dartlang.org/packages/glob'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: lightning
+    package_version: v1.0.0
+    title: 'v1.0.0 of lightning'
+    published: '2016-03-09T07:11:07+00:00'
+    id: 'urn:uuid:da5e3c9e-ec67-5640-bf3a-bcd8009cc974'
+    link: 'https://pub.dartlang.org/packages/lightning'
+    author:
+        - 'Accorto Lightning <lightning@accorto.com>'
