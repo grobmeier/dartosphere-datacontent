@@ -56473,3 +56473,12 @@
     link: 'https://pub.dartlang.org/packages/custom_elements'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@drafintech.it>'
+-
+    package_name: markov
+    package_version: v0.1.0
+    title: 'v0.1.0 of markov'
+    published: '2016-03-09T16:58:25+00:00'
+    id: 'urn:uuid:923c8a8e-3019-5f3f-9dbf-4fd3c20bda10'
+    link: 'https://pub.dartlang.org/packages/markov'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
