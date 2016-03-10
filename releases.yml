@@ -56725,3 +56725,21 @@
     link: 'https://pub.dartlang.org/packages/verbal_expressions'
     author:
         - 'Ne4istb <anechytailov@gmail.com>'
+-
+    package_name: code_mobility
+    package_version: v1.1.0
+    title: 'v1.1.0 of code_mobility'
+    published: '2016-03-10T21:04:17+00:00'
+    id: 'urn:uuid:5888ac78-d9fc-5fdf-897d-482b3c874821'
+    link: 'https://pub.dartlang.org/packages/code_mobility'
+    author:
+        - 'Daniel Bälz <me@dbaelz.de>'
+-
+    package_name: test
+    package_version: v0.12.12
+    title: 'v0.12.12 of test'
+    published: '2016-03-10T21:00:52+00:00'
+    id: 'urn:uuid:ee0d5f5e-68b7-5172-9b5e-b644a32d234f'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
