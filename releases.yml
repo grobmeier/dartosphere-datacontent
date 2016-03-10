@@ -56716,3 +56716,12 @@
     link: 'https://pub.dartlang.org/packages/markov'
     author:
         - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: verbal_expressions
+    package_version: v0.3.0
+    title: 'v0.3.0 of verbal_expressions'
+    published: '2016-03-10T20:42:13+00:00'
+    id: 'urn:uuid:31a536a3-84eb-5a45-b3ed-6387b05132f0'
+    link: 'https://pub.dartlang.org/packages/verbal_expressions'
+    author:
+        - 'Ne4istb <anechytailov@gmail.com>'
