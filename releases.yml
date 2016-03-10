@@ -56590,3 +56590,21 @@
     link: 'https://pub.dartlang.org/packages/linter'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dson
+    package_version: v0.3.1
+    title: 'v0.3.1 of dson'
+    published: '2016-03-10T03:50:16+00:00'
+    id: 'urn:uuid:796076ba-a55b-5bdc-b9bc-ce45ad83a53f'
+    link: 'https://pub.dartlang.org/packages/dson'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: drails_commons
+    package_version: v0.0.7
+    title: 'v0.0.7 of drails_commons'
+    published: '2016-03-10T03:23:27+00:00'
+    id: 'urn:uuid:6e540148-8fd7-54c6-ae08-9e9d4b5a18f0'
+    link: 'https://pub.dartlang.org/packages/drails_commons'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
