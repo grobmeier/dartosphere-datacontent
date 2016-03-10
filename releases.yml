@@ -56581,3 +56581,12 @@
         - 'Victor Savkin <vsavkin@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: linter
+    package_version: v0.1.13
+    title: 'v0.1.13 of linter'
+    published: '2016-03-10T00:06:23+00:00'
+    id: 'urn:uuid:bd1669d3-2506-52b2-ba69-6f0e63a3e9d4'
+    link: 'https://pub.dartlang.org/packages/linter'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
