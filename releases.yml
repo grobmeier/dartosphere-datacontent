@@ -56707,3 +56707,12 @@
     link: 'https://pub.dartlang.org/packages/grapheen'
     author:
         - 'Tomas Rokos <tomas.rokos@gmail.com>'
+-
+    package_name: markov
+    package_version: v1.0.1
+    title: 'v1.0.1 of markov'
+    published: '2016-03-10T19:50:20+00:00'
+    id: 'urn:uuid:4c79c0a6-0d3a-541d-8541-57fe3ae335a1'
+    link: 'https://pub.dartlang.org/packages/markov'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
