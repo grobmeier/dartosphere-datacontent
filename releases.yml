@@ -56806,3 +56806,30 @@
     link: 'https://pub.dartlang.org/packages/custom_elements'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@drafintech.it>'
+-
+    package_name: atlassian_connect_shelf
+    package_version: v0.11.6
+    title: 'v0.11.6 of atlassian_connect_shelf'
+    published: '2016-03-11T23:51:52+00:00'
+    id: 'urn:uuid:b56c6e62-6c22-57fb-863b-55bc3ac7f4f3'
+    link: 'https://pub.dartlang.org/packages/atlassian_connect_shelf'
+    author:
+        - 'Anders Holmgren <aholmgren@atlassian.com>'
+-
+    package_name: atlassian_connect_host
+    package_version: v0.5.6
+    title: 'v0.5.6 of atlassian_connect_host'
+    published: '2016-03-11T23:49:44+00:00'
+    id: 'urn:uuid:30c465f1-c179-57dc-b75d-cea994678324'
+    link: 'https://pub.dartlang.org/packages/atlassian_connect_host'
+    author:
+        - 'Anders Holmgren <aholmgren@atlassian.com>'
+-
+    package_name: atlassian_connect_models
+    package_version: v0.0.2
+    title: 'v0.0.2 of atlassian_connect_models'
+    published: '2016-03-11T23:49:15+00:00'
+    id: 'urn:uuid:c4fd5b2e-699f-51c6-9f68-c84d28f2ad29'
+    link: 'https://pub.dartlang.org/packages/atlassian_connect_models'
+    author:
+        - 'Anders Holmgren <aholmgren@atlassian.com>'
