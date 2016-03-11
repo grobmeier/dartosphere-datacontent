@@ -56743,3 +56743,12 @@
     link: 'https://pub.dartlang.org/packages/test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: scheduled_test
+    package_version: v0.12.5+2
+    title: 'v0.12.5+2 of scheduled_test'
+    published: '2016-03-10T23:08:47+00:00'
+    id: 'urn:uuid:fc2d6810-808f-54f6-b589-027bb8e8192e'
+    link: 'https://pub.dartlang.org/packages/scheduled_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
