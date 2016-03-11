@@ -56788,3 +56788,12 @@
     link: 'https://pub.dartlang.org/packages/atlassian_connect_models'
     author:
         - 'Anders Holmgren <aholmgren@atlassian.com>'
+-
+    package_name: embla_templates
+    package_version: v0.1.4
+    title: 'v0.1.4 of embla_templates'
+    published: '2016-03-11T08:45:21+00:00'
+    id: 'urn:uuid:af1be985-cac0-59dc-a9e6-0defcb040e41'
+    link: 'https://pub.dartlang.org/packages/embla_templates'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
