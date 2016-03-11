@@ -56797,3 +56797,12 @@
     link: 'https://pub.dartlang.org/packages/embla_templates'
     author:
         - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: custom_elements
+    package_version: v0.0.7
+    title: 'v0.0.7 of custom_elements'
+    published: '2016-03-11T17:24:39+00:00'
+    id: 'urn:uuid:99e7ea44-a2fd-5702-ad42-f76e772a9ed2'
+    link: 'https://pub.dartlang.org/packages/custom_elements'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@drafintech.it>'
