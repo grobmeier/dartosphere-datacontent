@@ -56853,3 +56853,12 @@
     link: 'https://pub.dartlang.org/packages/omnibuild'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: dorm
+    package_version: v1.0.14
+    title: 'v1.0.14 of dorm'
+    published: '2016-03-12T22:02:45+00:00'
+    id: 'urn:uuid:25c6e286-203c-5228-90a8-d54aedec4847'
+    link: 'https://pub.dartlang.org/packages/dorm'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
