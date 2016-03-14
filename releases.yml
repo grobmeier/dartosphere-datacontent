@@ -56862,3 +56862,12 @@
     link: 'https://pub.dartlang.org/packages/dorm'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: stream
+    package_version: v1.5.3
+    title: 'v1.5.3 of stream'
+    published: '2016-03-14T03:41:18+00:00'
+    id: 'urn:uuid:ecb8635d-9047-5a39-8b3c-bdc97fe21589'
+    link: 'https://pub.dartlang.org/packages/stream'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
