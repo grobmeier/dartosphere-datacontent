@@ -56871,3 +56871,12 @@
     link: 'https://pub.dartlang.org/packages/stream'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: scissors
+    package_version: v0.5.0
+    title: 'v0.5.0 of scissors'
+    published: '2016-03-14T12:56:56+00:00'
+    id: 'urn:uuid:0faa89f7-0bc8-508c-a73f-5d73ccc29213'
+    link: 'https://pub.dartlang.org/packages/scissors'
+    author:
+        - 'Olivier Chafik <ochafik@google.com>'
