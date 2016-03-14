@@ -56880,3 +56880,30 @@
     link: 'https://pub.dartlang.org/packages/scissors'
     author:
         - 'Olivier Chafik <ochafik@google.com>'
+-
+    package_name: scissors
+    package_version: v0.5.0+1
+    title: 'v0.5.0+1 of scissors'
+    published: '2016-03-14T13:43:50+00:00'
+    id: 'urn:uuid:ff2210f1-d9f1-5ade-8d22-c62b0fe51ca8'
+    link: 'https://pub.dartlang.org/packages/scissors'
+    author:
+        - 'Olivier Chafik <ochafik@google.com>'
+-
+    package_name: googleapis_beta
+    package_version: v0.24.0
+    title: 'v0.24.0 of googleapis_beta'
+    published: '2016-03-14T13:26:24+00:00'
+    id: 'urn:uuid:21e25739-4440-5aa1-b4dd-7989d7dbf96c'
+    link: 'https://pub.dartlang.org/packages/googleapis_beta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: googleapis
+    package_version: v0.24.0
+    title: 'v0.24.0 of googleapis'
+    published: '2016-03-14T13:26:13+00:00'
+    id: 'urn:uuid:1ee2f16a-3414-50c1-9997-ee68ba788ea2'
+    link: 'https://pub.dartlang.org/packages/googleapis'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
