@@ -56972,3 +56972,21 @@
     link: 'https://pub.dartlang.org/packages/source_gen'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: omnibuild
+    package_version: v0.1.0+1
+    title: 'v0.1.0+1 of omnibuild'
+    published: '2016-03-15T19:39:39+00:00'
+    id: 'urn:uuid:dc72954b-79e1-51bc-878a-671402da3b60'
+    link: 'https://pub.dartlang.org/packages/omnibuild'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: omnibus
+    package_version: v0.11.1
+    title: 'v0.11.1 of omnibus'
+    published: '2016-03-15T19:32:39+00:00'
+    id: 'urn:uuid:5c7db6d4-576a-5799-bcad-db73d406f8ca'
+    link: 'https://pub.dartlang.org/packages/omnibus'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
