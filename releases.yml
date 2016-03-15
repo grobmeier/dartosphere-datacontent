@@ -56907,3 +56907,12 @@
     link: 'https://pub.dartlang.org/packages/googleapis'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: gmusic_proxy_helper
+    package_version: v0.0.2
+    title: 'v0.0.2 of gmusic_proxy_helper'
+    published: '2016-03-15T01:58:59+00:00'
+    id: 'urn:uuid:e5b61ee0-363c-5e2e-84ce-db08c726f671'
+    link: 'https://pub.dartlang.org/packages/gmusic_proxy_helper'
+    author:
+        - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
