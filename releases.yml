@@ -56936,3 +56936,21 @@
     link: 'https://pub.dartlang.org/packages/gmusic_proxy_helper'
     author:
         - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
+-
+    package_name: build
+    package_version: v0.2.1
+    title: 'v0.2.1 of build'
+    published: '2016-03-15T16:28:01+00:00'
+    id: 'urn:uuid:dab5b208-48f7-5de4-bde3-e05714adb212'
+    link: 'https://pub.dartlang.org/packages/build'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: vector_math
+    package_version: v2.0.0
+    title: 'v2.0.0 of vector_math'
+    published: '2016-03-15T16:11:13+00:00'
+    id: 'urn:uuid:bd56cce4-4c3f-5af5-a8f0-5d455062cccb'
+    link: 'https://pub.dartlang.org/packages/vector_math'
+    author:
+        - 'John McCutchan <john@johnmccutchan.com>'
