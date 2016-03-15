@@ -56916,3 +56916,14 @@
     link: 'https://pub.dartlang.org/packages/gmusic_proxy_helper'
     author:
         - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
+-
+    package_name: rikulo_commons
+    package_version: v2.1.1
+    title: 'v2.1.1 of rikulo_commons'
+    published: '2016-03-15T07:37:25+00:00'
+    id: 'urn:uuid:a54f1493-ce1e-571f-8158-2465bc25dd9c'
+    link: 'https://pub.dartlang.org/packages/rikulo_commons'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+        - 'Henri Chen <henrichen@rikulo.org>'
+        - 'Simon Pai <simonpai@rikulo.org>'
