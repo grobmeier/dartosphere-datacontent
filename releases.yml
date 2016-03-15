@@ -56963,3 +56963,12 @@
     link: 'https://pub.dartlang.org/packages/dev_compiler'
     author:
         - 'Dart Dev Compiler team <dev-compiler@dartlang.org>'
+-
+    package_name: source_gen
+    package_version: v0.5.0
+    title: 'v0.5.0 of source_gen'
+    published: '2016-03-15T18:14:53+00:00'
+    id: 'urn:uuid:51eb69bd-01e8-5434-ba47-a55d34b91651'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
