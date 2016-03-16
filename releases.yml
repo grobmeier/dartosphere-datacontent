@@ -57064,3 +57064,12 @@
     link: 'https://pub.dartlang.org/packages/molviewfmt'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: molviewfmt
+    package_version: v0.2.8
+    title: 'v0.2.8 of molviewfmt'
+    published: '2016-03-16T16:59:23+00:00'
+    id: 'urn:uuid:d26e8925-6501-52ab-b9dd-359df4eb3f16'
+    link: 'https://pub.dartlang.org/packages/molviewfmt'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
