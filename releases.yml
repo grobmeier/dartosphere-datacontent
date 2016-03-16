@@ -57008,3 +57008,12 @@
     link: 'https://pub.dartlang.org/packages/gmusic_proxy_helper'
     author:
         - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
+-
+    package_name: gmusic_proxy_helper
+    package_version: v0.0.9
+    title: 'v0.0.9 of gmusic_proxy_helper'
+    published: '2016-03-16T04:25:12+00:00'
+    id: 'urn:uuid:a9004ea8-9957-5f4c-aa8c-e12d0c3a0ec6'
+    link: 'https://pub.dartlang.org/packages/gmusic_proxy_helper'
+    author:
+        - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
