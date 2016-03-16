@@ -57100,3 +57100,12 @@
     link: 'https://pub.dartlang.org/packages/scissors'
     author:
         - 'Olivier Chafik <ochafik@google.com>'
+-
+    package_name: polymer
+    package_version: v0.16.4+2
+    title: 'v0.16.4+2 of polymer'
+    published: '2016-03-16T20:27:48+00:00'
+    id: 'urn:uuid:1aaceb3a-fe2a-5c78-90ae-520a80435f0a'
+    link: 'https://pub.dartlang.org/packages/polymer'
+    author:
+        - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
