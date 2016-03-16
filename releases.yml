@@ -56999,3 +56999,12 @@
     link: 'https://pub.dartlang.org/packages/omnibus'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: gmusic_proxy_helper
+    package_version: v0.0.7
+    title: 'v0.0.7 of gmusic_proxy_helper'
+    published: '2016-03-16T03:57:24+00:00'
+    id: 'urn:uuid:f96bd8ab-b8f9-5e31-876c-588db4b508e5'
+    link: 'https://pub.dartlang.org/packages/gmusic_proxy_helper'
+    author:
+        - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
