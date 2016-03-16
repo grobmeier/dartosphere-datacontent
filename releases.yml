@@ -57028,3 +57028,12 @@
         - 'Seth Ladd <sethladd@google.com>'
         - 'Devon Carew <devoncarew@google.com>'
         - 'Kathy Walrath <kathyw@google.com>'
+-
+    package_name: dorm
+    package_version: v1.0.15
+    title: 'v1.0.15 of dorm'
+    published: '2016-03-16T09:05:34+00:00'
+    id: 'urn:uuid:161c61a3-4f82-5d5f-b56c-e707edf0c2c8'
+    link: 'https://pub.dartlang.org/packages/dorm'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
