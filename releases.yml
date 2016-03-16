@@ -57073,3 +57073,21 @@
     link: 'https://pub.dartlang.org/packages/molviewfmt'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: omnitest
+    package_version: v0.1.0+1
+    title: 'v0.1.0+1 of omnitest'
+    published: '2016-03-16T18:52:58+00:00'
+    id: 'urn:uuid:02b75135-f55e-558a-ab9d-002b7c7003d1'
+    link: 'https://pub.dartlang.org/packages/omnitest'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: quickdialogs
+    package_version: v1.0.1
+    title: 'v1.0.1 of quickdialogs'
+    published: '2016-03-16T18:51:26+00:00'
+    id: 'urn:uuid:bdb44195-172e-5b8a-ba7f-9c4c8767cb46'
+    link: 'https://pub.dartlang.org/packages/quickdialogs'
+    author:
+        - 'Adrián Avila <adrian.avila.mtz@gmail.com>'
