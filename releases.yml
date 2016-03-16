@@ -57091,3 +57091,12 @@
     link: 'https://pub.dartlang.org/packages/quickdialogs'
     author:
         - 'Adrián Avila <adrian.avila.mtz@gmail.com>'
+-
+    package_name: scissors
+    package_version: v0.6.0
+    title: 'v0.6.0 of scissors'
+    published: '2016-03-16T19:09:57+00:00'
+    id: 'urn:uuid:34983efc-30a2-5da0-9e59-e5f86f1dd4d7'
+    link: 'https://pub.dartlang.org/packages/scissors'
+    author:
+        - 'Olivier Chafik <ochafik@google.com>'
