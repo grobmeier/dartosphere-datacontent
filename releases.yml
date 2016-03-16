@@ -57037,3 +57037,30 @@
     link: 'https://pub.dartlang.org/packages/dorm'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: omnibuild
+    package_version: v0.1.0+2
+    title: 'v0.1.0+2 of omnibuild'
+    published: '2016-03-16T16:00:07+00:00'
+    id: 'urn:uuid:83007670-d4fd-53f3-aada-3285432edf5b'
+    link: 'https://pub.dartlang.org/packages/omnibuild'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: omnibus
+    package_version: v0.11.2+1
+    title: 'v0.11.2+1 of omnibus'
+    published: '2016-03-16T15:51:03+00:00'
+    id: 'urn:uuid:2011ccea-017e-57d9-8892-d11cfdf4c33a'
+    link: 'https://pub.dartlang.org/packages/omnibus'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: molviewfmt
+    package_version: v0.2.7+1
+    title: 'v0.2.7+1 of molviewfmt'
+    published: '2016-03-16T15:36:28+00:00'
+    id: 'urn:uuid:142ed153-d15d-502d-ada1-c8218601b75d'
+    link: 'https://pub.dartlang.org/packages/molviewfmt'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
