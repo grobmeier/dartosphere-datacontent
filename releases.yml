@@ -57017,3 +57017,14 @@
     link: 'https://pub.dartlang.org/packages/gmusic_proxy_helper'
     author:
         - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
+-
+    package_name: stagehand
+    package_version: v1.0.3
+    title: 'v1.0.3 of stagehand'
+    published: '2016-03-16T05:03:32+00:00'
+    id: 'urn:uuid:b166d249-d052-5468-8986-250def7be88b'
+    link: 'https://pub.dartlang.org/packages/stagehand'
+    author:
+        - 'Seth Ladd <sethladd@google.com>'
+        - 'Devon Carew <devoncarew@google.com>'
+        - 'Kathy Walrath <kathyw@google.com>'
