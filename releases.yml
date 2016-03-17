@@ -57109,3 +57109,12 @@
     link: 'https://pub.dartlang.org/packages/polymer'
     author:
         - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: stagexl
+    package_version: v0.13.5
+    title: 'v0.13.5 of stagexl'
+    published: '2016-03-17T07:56:36+00:00'
+    id: 'urn:uuid:ae1178c6-87e3-5497-a83c-03926cf7ae21'
+    link: 'https://pub.dartlang.org/packages/stagexl'
+    author:
+        - 'Bernhard Pichler <support@stagexl.org>'
