@@ -57138,3 +57138,14 @@
         - 'Tom Yeh <tomyeh@rikulo.org>'
         - 'Henri Chen <henrichen@rikulo.org>'
         - 'Simon Pai <simonpai@rikulo.org>'
+-
+    package_name: rikulo_commons
+    package_version: v2.1.1+2
+    title: 'v2.1.1+2 of rikulo_commons'
+    published: '2016-03-17T14:59:18+00:00'
+    id: 'urn:uuid:a55fe745-0a22-5ef9-b5c9-1af2a56cb96c'
+    link: 'https://pub.dartlang.org/packages/rikulo_commons'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+        - 'Henri Chen <henrichen@rikulo.org>'
+        - 'Simon Pai <simonpai@rikulo.org>'
