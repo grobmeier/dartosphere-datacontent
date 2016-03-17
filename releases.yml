@@ -57149,3 +57149,30 @@
         - 'Tom Yeh <tomyeh@rikulo.org>'
         - 'Henri Chen <henrichen@rikulo.org>'
         - 'Simon Pai <simonpai@rikulo.org>'
+-
+    package_name: web_components
+    package_version: v0.12.2+3
+    title: 'v0.12.2+3 of web_components'
+    published: '2016-03-17T15:53:17+00:00'
+    id: 'urn:uuid:8da92bc3-36b5-540a-9ded-a46e6a67e09f'
+    link: 'https://pub.dartlang.org/packages/web_components'
+    author:
+        - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: initialize
+    package_version: v0.6.2+2
+    title: 'v0.6.2+2 of initialize'
+    published: '2016-03-17T15:53:00+00:00'
+    id: 'urn:uuid:37725d23-f36c-5f73-95a6-d84e77e7b618'
+    link: 'https://pub.dartlang.org/packages/initialize'
+    author:
+        - 'Polymer.dart Authors <web@dartlang.org>'
+-
+    package_name: dorm
+    package_version: v1.0.17
+    title: 'v1.0.17 of dorm'
+    published: '2016-03-17T15:16:47+00:00'
+    id: 'urn:uuid:15b7c34b-fdf5-56f0-a20d-a5e1fe1f7aaf'
+    link: 'https://pub.dartlang.org/packages/dorm'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
