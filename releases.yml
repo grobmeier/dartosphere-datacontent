@@ -57185,3 +57185,12 @@
     link: 'https://pub.dartlang.org/packages/custom_elements'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@drafintech.it>'
+-
+    package_name: gmusic_proxy_helper
+    package_version: v0.0.14
+    title: 'v0.0.14 of gmusic_proxy_helper'
+    published: '2016-03-17T18:00:17+00:00'
+    id: 'urn:uuid:385464e7-df64-5d9e-a568-9ff038ca8b00'
+    link: 'https://pub.dartlang.org/packages/gmusic_proxy_helper'
+    author:
+        - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
