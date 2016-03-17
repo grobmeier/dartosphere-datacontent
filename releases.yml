@@ -57194,3 +57194,12 @@
     link: 'https://pub.dartlang.org/packages/gmusic_proxy_helper'
     author:
         - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
+-
+    package_name: args
+    package_version: v0.13.4
+    title: 'v0.13.4 of args'
+    published: '2016-03-17T22:53:29+00:00'
+    id: 'urn:uuid:39c6b7fd-8587-5f6f-9954-d142eb1ccac3'
+    link: 'https://pub.dartlang.org/packages/args'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
