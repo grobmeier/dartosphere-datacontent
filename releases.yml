@@ -57118,3 +57118,12 @@
     link: 'https://pub.dartlang.org/packages/stagexl'
     author:
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: stagexl
+    package_version: v0.13.5+1
+    title: 'v0.13.5+1 of stagexl'
+    published: '2016-03-17T08:58:51+00:00'
+    id: 'urn:uuid:a9130da8-05f0-593d-bb7a-0e9f2311e8c7'
+    link: 'https://pub.dartlang.org/packages/stagexl'
+    author:
+        - 'Bernhard Pichler <support@stagexl.org>'
