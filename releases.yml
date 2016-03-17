@@ -57127,3 +57127,14 @@
     link: 'https://pub.dartlang.org/packages/stagexl'
     author:
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: rikulo_commons
+    package_version: v2.1.1+1
+    title: 'v2.1.1+1 of rikulo_commons'
+    published: '2016-03-17T09:59:39+00:00'
+    id: 'urn:uuid:9b5b83a4-502b-5eb8-9ac1-1472efb06acc'
+    link: 'https://pub.dartlang.org/packages/rikulo_commons'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+        - 'Henri Chen <henrichen@rikulo.org>'
+        - 'Simon Pai <simonpai@rikulo.org>'
