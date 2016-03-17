@@ -57176,3 +57176,12 @@
     link: 'https://pub.dartlang.org/packages/dorm'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: custom_elements
+    package_version: v0.0.7+1
+    title: 'v0.0.7+1 of custom_elements'
+    published: '2016-03-17T16:08:06+00:00'
+    id: 'urn:uuid:709cf0c7-b6a8-53ff-ac56-4c3ee25ad452'
+    link: 'https://pub.dartlang.org/packages/custom_elements'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@drafintech.it>'
