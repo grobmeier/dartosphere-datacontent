@@ -57427,3 +57427,12 @@
     link: 'https://pub.dartlang.org/packages/smoke'
     author:
         - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: cssembed
+    package_version: v0.2.0+5
+    title: 'v0.2.0+5 of cssembed'
+    published: '2016-03-18T20:40:55+00:00'
+    id: 'urn:uuid:6f43ad13-10b7-5a19-8610-d74b836cb940'
+    link: 'https://pub.dartlang.org/packages/cssembed'
+    author:
+        - 'Andrea Cantafio <kk4r.1m@gmail.com>'
