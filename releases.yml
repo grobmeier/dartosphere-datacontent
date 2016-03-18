@@ -57386,3 +57386,25 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: bootjack
+    package_version: v0.6.5+4
+    title: 'v0.6.5+4 of bootjack'
+    published: '2016-03-18T15:35:47+00:00'
+    id: 'urn:uuid:5010e456-df81-5060-9175-a8230486d168'
+    link: 'https://pub.dartlang.org/packages/bootjack'
+    author:
+        - 'Simon Pai <simonpai@rikulo.org>'
+        - 'Jimmy Shiau <jimmyshiau@potix.com>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: dquery
+    package_version: v0.8.0
+    title: 'v0.8.0 of dquery'
+    published: '2016-03-18T15:34:32+00:00'
+    id: 'urn:uuid:328712a4-448a-5a2e-a933-f4d4fac384ae'
+    link: 'https://pub.dartlang.org/packages/dquery'
+    author:
+        - 'Simon Pai <simonpai@rikulo.org>'
+        - 'Jimmy Shiau <jimmyshiau@rikulo.org>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
