@@ -57408,3 +57408,22 @@
         - 'Simon Pai <simonpai@rikulo.org>'
         - 'Jimmy Shiau <jimmyshiau@rikulo.org>'
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: postgresql2
+    package_version: v0.3.3+1
+    title: 'v0.3.3+1 of postgresql2'
+    published: '2016-03-18T16:46:13+00:00'
+    id: 'urn:uuid:070c8d2f-86f4-5b44-a523-67a6ee56bae0'
+    link: 'https://pub.dartlang.org/packages/postgresql2'
+    author:
+        - 'Greg Lowe <greg@vis.net.nz>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: smoke
+    package_version: v0.3.6+1
+    title: 'v0.3.6+1 of smoke'
+    published: '2016-03-18T16:09:47+00:00'
+    id: 'urn:uuid:4f41c0d7-cce6-5114-971d-8b9dc201570f'
+    link: 'https://pub.dartlang.org/packages/smoke'
+    author:
+        - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
