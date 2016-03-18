@@ -57368,3 +57368,21 @@
     link: 'https://pub.dartlang.org/packages/stagexl_gaf'
     author:
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: spaceinvaders
+    package_version: v1.0.1
+    title: 'v1.0.1 of spaceinvaders'
+    published: '2016-03-18T14:55:10+00:00'
+    id: 'urn:uuid:272c33fe-8a76-5900-865f-8a02400bf620'
+    link: 'https://pub.dartlang.org/packages/spaceinvaders'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: mdl
+    package_version: v1.17.1
+    title: 'v1.17.1 of mdl'
+    published: '2016-03-18T14:17:19+00:00'
+    id: 'urn:uuid:430dc58b-62c3-5aba-82e4-af32de51d4fc'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
