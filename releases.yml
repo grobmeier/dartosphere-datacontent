@@ -57313,3 +57313,12 @@
         - 'Tom Yeh <tomyeh@rikulo.org>'
         - 'Henri Chen <henrichen@rikulo.org>'
         - 'Simon Pai <simonpai@rikulo.org>'
+-
+    package_name: gmusic_proxy_helper
+    package_version: v0.0.15
+    title: 'v0.0.15 of gmusic_proxy_helper'
+    published: '2016-03-18T06:12:27+00:00'
+    id: 'urn:uuid:7ac4f8b5-3fff-5937-9fa9-c2402eeeac53'
+    link: 'https://pub.dartlang.org/packages/gmusic_proxy_helper'
+    author:
+        - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
