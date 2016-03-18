@@ -57302,3 +57302,14 @@
     link: 'https://pub.dartlang.org/packages/angular2_google_signin'
     author:
         - 'ntaoo <ntaoo.g@gmail.com>'
+-
+    package_name: rikulo_commons
+    package_version: v2.1.2
+    title: 'v2.1.2 of rikulo_commons'
+    published: '2016-03-18T05:12:41+00:00'
+    id: 'urn:uuid:974028b7-f5d0-51d8-a8b6-0e590019c320'
+    link: 'https://pub.dartlang.org/packages/rikulo_commons'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+        - 'Henri Chen <henrichen@rikulo.org>'
+        - 'Simon Pai <simonpai@rikulo.org>'
