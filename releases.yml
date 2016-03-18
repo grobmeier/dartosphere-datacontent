@@ -57322,3 +57322,13 @@
     link: 'https://pub.dartlang.org/packages/gmusic_proxy_helper'
     author:
         - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
+-
+    package_name: postgresql2
+    package_version: v0.3.3
+    title: 'v0.3.3 of postgresql2'
+    published: '2016-03-18T07:24:35+00:00'
+    id: 'urn:uuid:abc87e79-a484-5dfd-977c-d60f32c8808d'
+    link: 'https://pub.dartlang.org/packages/postgresql2'
+    author:
+        - 'Greg Lowe <greg@vis.net.nz>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
