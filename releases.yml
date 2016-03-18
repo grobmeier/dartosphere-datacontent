@@ -57332,3 +57332,30 @@
     author:
         - 'Greg Lowe <greg@vis.net.nz>'
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: built_collection
+    package_version: v1.0.2
+    title: 'v1.0.2 of built_collection'
+    published: '2016-03-18T09:33:18+00:00'
+    id: 'urn:uuid:9d5ede59-8963-5e88-975c-92cfcef26db1'
+    link: 'https://pub.dartlang.org/packages/built_collection'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_json_generator
+    package_version: v0.0.5
+    title: 'v0.0.5 of built_json_generator'
+    published: '2016-03-18T09:23:22+00:00'
+    id: 'urn:uuid:5a489207-5808-5a13-9d9f-40fe80e1ef33'
+    link: 'https://pub.dartlang.org/packages/built_json_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_json
+    package_version: v0.0.5
+    title: 'v0.0.5 of built_json'
+    published: '2016-03-18T09:12:04+00:00'
+    id: 'urn:uuid:05ee24ff-b0a0-510d-8fb9-472fb96208ae'
+    link: 'https://pub.dartlang.org/packages/built_json'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
