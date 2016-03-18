@@ -57293,3 +57293,12 @@
         - 'Victor Savkin <vsavkin@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: angular2_google_signin
+    package_version: v0.1.0
+    title: 'v0.1.0 of angular2_google_signin'
+    published: '2016-03-18T04:59:47+00:00'
+    id: 'urn:uuid:e75300ee-bbb2-5ff2-a2fd-a4dfb6a204a0'
+    link: 'https://pub.dartlang.org/packages/angular2_google_signin'
+    author:
+        - 'ntaoo <ntaoo.g@gmail.com>'
