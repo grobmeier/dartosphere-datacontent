@@ -57517,3 +57517,12 @@
     link: 'https://pub.dartlang.org/packages/dorm'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: molview_messages
+    package_version: v0.2.1+1
+    title: 'v0.2.1+1 of molview_messages'
+    published: '2016-03-19T17:44:13+00:00'
+    id: 'urn:uuid:5e1bbbcd-46cf-5665-9c54-e8e4814d67a8'
+    link: 'https://pub.dartlang.org/packages/molview_messages'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
