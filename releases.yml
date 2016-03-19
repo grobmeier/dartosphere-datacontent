@@ -57508,3 +57508,12 @@
         - 'Victor Savkin <vsavkin@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: dorm
+    package_version: v1.0.18
+    title: 'v1.0.18 of dorm'
+    published: '2016-03-19T09:49:18+00:00'
+    id: 'urn:uuid:8fb94773-d3a4-5c82-ae48-4f4f8ac3769c'
+    link: 'https://pub.dartlang.org/packages/dorm'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
