@@ -57526,3 +57526,12 @@
     link: 'https://pub.dartlang.org/packages/molview_messages'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: dorm
+    package_version: v1.0.19
+    title: 'v1.0.19 of dorm'
+    published: '2016-03-20T12:03:21+00:00'
+    id: 'urn:uuid:c7401841-0738-52d8-b7a0-6d4112e4db1b'
+    link: 'https://pub.dartlang.org/packages/dorm'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
