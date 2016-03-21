@@ -57535,3 +57535,14 @@
     link: 'https://pub.dartlang.org/packages/dorm'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: dquery
+    package_version: v0.8.1
+    title: 'v0.8.1 of dquery'
+    published: '2016-03-21T03:17:24+00:00'
+    id: 'urn:uuid:24295e78-b789-58fc-9e41-43e71459d7d4'
+    link: 'https://pub.dartlang.org/packages/dquery'
+    author:
+        - 'Simon Pai <simonpai@rikulo.org>'
+        - 'Jimmy Shiau <jimmyshiau@rikulo.org>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
