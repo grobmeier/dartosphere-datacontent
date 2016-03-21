@@ -57555,3 +57555,21 @@
     link: 'https://pub.dartlang.org/packages/angular2_google_signin'
     author:
         - 'ntaoo <ntaoo.g@gmail.com>'
+-
+    package_name: bot_io
+    package_version: v0.26.4
+    title: 'v0.26.4 of bot_io'
+    published: '2016-03-21T14:09:27+00:00'
+    id: 'urn:uuid:96278611-0c27-5310-b7e7-0ee99f1f6b4c'
+    link: 'https://pub.dartlang.org/packages/bot_io'
+    author:
+        - 'Kevin Moore <github@j832.com>'
+-
+    package_name: mdl
+    package_version: v1.17.2
+    title: 'v1.17.2 of mdl'
+    published: '2016-03-21T14:01:24+00:00'
+    id: 'urn:uuid:c8e24a69-0faf-5ed3-8d79-4afd34a7fd14'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
