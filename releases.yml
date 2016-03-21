@@ -57591,3 +57591,21 @@
     link: 'https://pub.dartlang.org/packages/v23discovery'
     author:
         - 'Vanadium Authors'
+-
+    package_name: mojo_services
+    package_version: v0.4.23
+    title: 'v0.4.23 of mojo_services'
+    published: '2016-03-21T21:56:59+00:00'
+    id: 'urn:uuid:0ce4f128-0f33-5ad5-8672-2bf679b05955'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: dictapi
+    package_version: v0.1.1
+    title: 'v0.1.1 of dictapi'
+    published: '2016-03-21T21:35:56+00:00'
+    id: 'urn:uuid:6a284009-16c3-557d-95d1-0de78d8c0572'
+    link: 'https://pub.dartlang.org/packages/dictapi'
+    author:
+        - 'Justin Andresen <jan.dresen.95@gmail.com>'
