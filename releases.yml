@@ -57582,3 +57582,12 @@
     link: 'https://pub.dartlang.org/packages/syncbase'
     author:
         - 'Vanadium Authors'
+-
+    package_name: v23discovery
+    package_version: v0.0.16
+    title: 'v0.0.16 of v23discovery'
+    published: '2016-03-21T20:04:03+00:00'
+    id: 'urn:uuid:12bdb2a7-5e75-5b15-87e5-b6c0d2cded41'
+    link: 'https://pub.dartlang.org/packages/v23discovery'
+    author:
+        - 'Vanadium Authors'
