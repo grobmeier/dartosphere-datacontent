@@ -57573,3 +57573,12 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: syncbase
+    package_version: v0.0.33
+    title: 'v0.0.33 of syncbase'
+    published: '2016-03-21T18:38:22+00:00'
+    id: 'urn:uuid:245ef839-c7f2-5443-87f8-9db22ef354d5'
+    link: 'https://pub.dartlang.org/packages/syncbase'
+    author:
+        - 'Vanadium Authors'
