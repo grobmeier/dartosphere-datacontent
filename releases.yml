@@ -57546,3 +57546,12 @@
         - 'Simon Pai <simonpai@rikulo.org>'
         - 'Jimmy Shiau <jimmyshiau@rikulo.org>'
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: angular2_google_signin
+    package_version: v0.1.0+1
+    title: 'v0.1.0+1 of angular2_google_signin'
+    published: '2016-03-21T05:48:16+00:00'
+    id: 'urn:uuid:51a83d37-6303-5d1b-92fe-f9ffd5f014a5'
+    link: 'https://pub.dartlang.org/packages/angular2_google_signin'
+    author:
+        - 'ntaoo <ntaoo.g@gmail.com>'
