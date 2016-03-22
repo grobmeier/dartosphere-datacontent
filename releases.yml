@@ -57672,3 +57672,21 @@
     link: 'https://pub.dartlang.org/packages/ng2_g_signin'
     author:
         - 'ntaoo <ntaoo.g@gmail.com>'
+-
+    package_name: angular2_google_signin
+    package_version: v0.1.0+2
+    title: 'v0.1.0+2 of angular2_google_signin'
+    published: '2016-03-22T05:04:07+00:00'
+    id: 'urn:uuid:d19593e7-3bad-5684-9015-22217d7aea75'
+    link: 'https://pub.dartlang.org/packages/angular2_google_signin'
+    author:
+        - 'ntaoo <ntaoo.g@gmail.com>'
+-
+    package_name: compiler_unsupported
+    package_version: v1.15.0
+    title: 'v1.15.0 of compiler_unsupported'
+    published: '2016-03-22T05:00:11+00:00'
+    id: 'urn:uuid:bac7f479-4804-54bb-a443-a03fd4983f60'
+    link: 'https://pub.dartlang.org/packages/compiler_unsupported'
+    author:
+        - 'Dart2js Team <compiler-dev@dartlang.org>'
