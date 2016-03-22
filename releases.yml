@@ -57726,3 +57726,12 @@
     link: 'https://pub.dartlang.org/packages/web_components'
     author:
         - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: flutter_gallery_assets
+    package_version: v0.0.11
+    title: 'v0.0.11 of flutter_gallery_assets'
+    published: '2016-03-22T22:29:55+00:00'
+    id: 'urn:uuid:9f9b57f2-6e20-5932-af4d-fcfe005fa21e'
+    link: 'https://pub.dartlang.org/packages/flutter_gallery_assets'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
