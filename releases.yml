@@ -57699,3 +57699,12 @@
     link: 'https://pub.dartlang.org/packages/ng2_g_signin'
     author:
         - 'ntaoo <ntaoo.g@gmail.com>'
+-
+    package_name: molview_messages
+    package_version: v0.2.3
+    title: 'v0.2.3 of molview_messages'
+    published: '2016-03-22T09:14:57+00:00'
+    id: 'urn:uuid:fb9b3d36-9360-5663-a601-b0b0df258a7c'
+    link: 'https://pub.dartlang.org/packages/molview_messages'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
