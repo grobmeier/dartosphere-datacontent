@@ -57690,3 +57690,12 @@
     link: 'https://pub.dartlang.org/packages/compiler_unsupported'
     author:
         - 'Dart2js Team <compiler-dev@dartlang.org>'
+-
+    package_name: ng2_g_signin
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of ng2_g_signin'
+    published: '2016-03-22T07:49:37+00:00'
+    id: 'urn:uuid:2a780508-dbde-52fb-81cf-db1d0413a272'
+    link: 'https://pub.dartlang.org/packages/ng2_g_signin'
+    author:
+        - 'ntaoo <ntaoo.g@gmail.com>'
