@@ -57654,3 +57654,12 @@
     link: 'https://pub.dartlang.org/packages/mojo_sdk'
     author:
         - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: ebisu_cpp
+    package_version: v0.3.22
+    title: 'v0.3.22 of ebisu_cpp'
+    published: '2016-03-22T01:09:17+00:00'
+    id: 'urn:uuid:acf3091b-efa6-5623-97ec-451f8c1bb721'
+    link: 'https://pub.dartlang.org/packages/ebisu_cpp'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
