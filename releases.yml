@@ -57717,3 +57717,12 @@
     link: 'https://pub.dartlang.org/packages/stagexl_gaf'
     author:
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: web_components
+    package_version: v0.12.3
+    title: 'v0.12.3 of web_components'
+    published: '2016-03-22T19:11:45+00:00'
+    id: 'urn:uuid:115bc87a-e122-5498-a56c-9b59f256f149'
+    link: 'https://pub.dartlang.org/packages/web_components'
+    author:
+        - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
