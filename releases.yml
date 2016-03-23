@@ -57771,3 +57771,21 @@
     link: 'https://pub.dartlang.org/packages/omnibuild'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: omnibus
+    package_version: v0.11.3
+    title: 'v0.11.3 of omnibus'
+    published: '2016-03-23T15:42:51+00:00'
+    id: 'urn:uuid:2835f943-cf2b-500f-a3ce-0fa01493b613'
+    link: 'https://pub.dartlang.org/packages/omnibus'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: omnitest
+    package_version: v0.1.0+2
+    title: 'v0.1.0+2 of omnitest'
+    published: '2016-03-23T15:22:55+00:00'
+    id: 'urn:uuid:5d895a80-31f6-5353-abd9-8f680cbcf1bd'
+    link: 'https://pub.dartlang.org/packages/omnitest'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
