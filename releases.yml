@@ -57744,3 +57744,12 @@
     link: 'https://pub.dartlang.org/packages/crypto'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: omnibus
+    package_version: v0.11.2+2
+    title: 'v0.11.2+2 of omnibus'
+    published: '2016-03-23T13:56:06+00:00'
+    id: 'urn:uuid:ab3cbe38-2795-5734-9dca-2083f7a02ff4'
+    link: 'https://pub.dartlang.org/packages/omnibus'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
