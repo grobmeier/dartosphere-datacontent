@@ -57807,3 +57807,12 @@
     link: 'https://pub.dartlang.org/packages/molview_messages'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: molview_messages
+    package_version: v0.3.0+1
+    title: 'v0.3.0+1 of molview_messages'
+    published: '2016-03-23T19:27:30+00:00'
+    id: 'urn:uuid:dd7525b5-074a-5494-80cc-83c59bb1da22'
+    link: 'https://pub.dartlang.org/packages/molview_messages'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
