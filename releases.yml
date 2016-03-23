@@ -57789,3 +57789,12 @@
     link: 'https://pub.dartlang.org/packages/omnitest'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: omnibuild
+    package_version: v0.2.2
+    title: 'v0.2.2 of omnibuild'
+    published: '2016-03-23T16:44:00+00:00'
+    id: 'urn:uuid:626dd8b8-f4ca-5b3f-93da-87cd4c4737c2'
+    link: 'https://pub.dartlang.org/packages/omnibuild'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
