@@ -57798,3 +57798,12 @@
     link: 'https://pub.dartlang.org/packages/omnibuild'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: molview_messages
+    package_version: v0.3.0
+    title: 'v0.3.0 of molview_messages'
+    published: '2016-03-23T18:41:45+00:00'
+    id: 'urn:uuid:90f40ec6-fc25-5c06-8049-ec21b06c3109'
+    link: 'https://pub.dartlang.org/packages/molview_messages'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
