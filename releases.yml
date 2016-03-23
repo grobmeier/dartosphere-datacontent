@@ -57852,3 +57852,30 @@
     link: 'https://pub.dartlang.org/packages/crypto'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: syncbase
+    package_version: v0.0.34
+    title: 'v0.0.34 of syncbase'
+    published: '2016-03-23T21:45:03+00:00'
+    id: 'urn:uuid:c2e7ed46-e772-58b7-be08-6f82198fa299'
+    link: 'https://pub.dartlang.org/packages/syncbase'
+    author:
+        - 'Vanadium Authors'
+-
+    package_name: molview_messages
+    package_version: v0.3.1
+    title: 'v0.3.1 of molview_messages'
+    published: '2016-03-23T21:36:10+00:00'
+    id: 'urn:uuid:5ef70f1f-6fcc-5fe0-8d2e-a10924c6ad04'
+    link: 'https://pub.dartlang.org/packages/molview_messages'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: omnitest
+    package_version: v0.1.0+3
+    title: 'v0.1.0+3 of omnitest'
+    published: '2016-03-23T21:19:10+00:00'
+    id: 'urn:uuid:b775f60c-1efd-5d8a-ada9-2943cd939dbd'
+    link: 'https://pub.dartlang.org/packages/omnitest'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
