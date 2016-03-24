@@ -58041,3 +58041,21 @@
     link: 'https://pub.dartlang.org/packages/mojo'
     author:
         - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: matcher
+    package_version: v0.12.0+2
+    title: 'v0.12.0+2 of matcher'
+    published: '2016-03-24T20:41:13+00:00'
+    id: 'urn:uuid:8bcd891a-3ef5-5663-8b9a-920ab4798177'
+    link: 'https://pub.dartlang.org/packages/matcher'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: source_maps
+    package_version: v0.10.1+1
+    title: 'v0.10.1+1 of source_maps'
+    published: '2016-03-24T20:23:11+00:00'
+    id: 'urn:uuid:907c9355-f030-5e05-a63c-984ac73ff73a'
+    link: 'https://pub.dartlang.org/packages/source_maps'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
