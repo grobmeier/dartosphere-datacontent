@@ -57996,3 +57996,12 @@
     link: 'https://pub.dartlang.org/packages/polyce'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: mojo_services
+    package_version: v0.4.24
+    title: 'v0.4.24 of mojo_services'
+    published: '2016-03-24T02:01:31+00:00'
+    id: 'urn:uuid:0ddc634c-bc31-5226-85ab-c0374a1df078'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
