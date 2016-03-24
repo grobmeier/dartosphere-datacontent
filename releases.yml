@@ -57987,3 +57987,12 @@
         - 'Victor Savkin <vsavkin@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: polyce
+    package_version: v0.0.1
+    title: 'v0.0.1 of polyce'
+    published: '2016-03-24T01:43:30+00:00'
+    id: 'urn:uuid:0c713a32-10e6-5e21-8fe6-16ef89efec35'
+    link: 'https://pub.dartlang.org/packages/polyce'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
