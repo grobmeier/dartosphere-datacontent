@@ -58113,3 +58113,12 @@
     link: 'https://pub.dartlang.org/packages/dartz'
     author:
         - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: observe
+    package_version: v0.13.5
+    title: 'v0.13.5 of observe'
+    published: '2016-03-25T19:13:08+00:00'
+    id: 'urn:uuid:bb27680b-702f-5825-9340-bb39e41c1274'
+    link: 'https://pub.dartlang.org/packages/observe'
+    author:
+        - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
