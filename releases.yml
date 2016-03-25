@@ -58068,3 +58068,12 @@
     link: 'https://pub.dartlang.org/packages/flutter_gallery_assets'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: code_transformers
+    package_version: v0.4.2
+    title: 'v0.4.2 of code_transformers'
+    published: '2016-03-25T00:49:56+00:00'
+    id: 'urn:uuid:4fbd328c-ac51-5e62-8ae0-113f0d008c3b'
+    link: 'https://pub.dartlang.org/packages/code_transformers'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
