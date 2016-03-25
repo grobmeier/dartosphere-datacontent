@@ -58104,3 +58104,12 @@
     link: 'https://pub.dartlang.org/packages/dockerfile'
     author:
         - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: dartz
+    package_version: v0.0.5
+    title: 'v0.0.5 of dartz'
+    published: '2016-03-25T17:01:56+00:00'
+    id: 'urn:uuid:b0690ebf-bce6-59db-9fe0-b22dad3c955c'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
