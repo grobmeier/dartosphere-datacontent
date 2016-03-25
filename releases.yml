@@ -58077,3 +58077,30 @@
     link: 'https://pub.dartlang.org/packages/code_transformers'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: pubspec
+    package_version: v0.0.10
+    title: 'v0.0.10 of pubspec'
+    published: '2016-03-25T02:09:09+00:00'
+    id: 'urn:uuid:f5ab348c-834b-5443-909a-3d5871ca1281'
+    link: 'https://pub.dartlang.org/packages/pubspec'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: stuff
+    package_version: v0.0.5
+    title: 'v0.0.5 of stuff'
+    published: '2016-03-25T02:08:42+00:00'
+    id: 'urn:uuid:51349c01-c486-560c-a7c1-37c30d8a8d60'
+    link: 'https://pub.dartlang.org/packages/stuff'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: dockerfile
+    package_version: v0.0.4
+    title: 'v0.0.4 of dockerfile'
+    published: '2016-03-25T02:08:21+00:00'
+    id: 'urn:uuid:0e8ddcb3-f28e-5003-a048-0a5b761e6014'
+    link: 'https://pub.dartlang.org/packages/dockerfile'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
