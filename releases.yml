@@ -58158,3 +58158,12 @@
     link: 'https://pub.dartlang.org/packages/slickdart'
     author:
         - 'CJKAO <kaopeter@gmail.com>, tonosama-atlacatl'
+-
+    package_name: reflective
+    package_version: v0.0.25
+    title: 'v0.0.25 of reflective'
+    published: '2016-03-26T19:10:19+00:00'
+    id: 'urn:uuid:cf4cf674-9061-5a8a-a3bf-de44b127c455'
+    link: 'https://pub.dartlang.org/packages/reflective'
+    author:
+        - 'Stijn Van Bael <stijn.van.bael@appify.be>'
