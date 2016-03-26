@@ -58122,3 +58122,12 @@
     link: 'https://pub.dartlang.org/packages/observe'
     author:
         - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: collection
+    package_version: v1.4.1
+    title: 'v1.4.1 of collection'
+    published: '2016-03-26T00:00:33+00:00'
+    id: 'urn:uuid:7d4008c7-49a0-57f8-96f3-1703d15db818'
+    link: 'https://pub.dartlang.org/packages/collection'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
