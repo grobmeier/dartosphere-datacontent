@@ -58131,3 +58131,12 @@
     link: 'https://pub.dartlang.org/packages/collection'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: pubspec
+    package_version: v0.0.11
+    title: 'v0.0.11 of pubspec'
+    published: '2016-03-26T05:39:38+00:00'
+    id: 'urn:uuid:f04ca944-1f08-572a-a97f-c6462237eb4d'
+    link: 'https://pub.dartlang.org/packages/pubspec'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
