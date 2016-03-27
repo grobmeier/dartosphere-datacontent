@@ -58176,3 +58176,39 @@
     link: 'https://pub.dartlang.org/packages/passive_data'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: crossbow
+    package_version: v0.0.11
+    title: 'v0.0.11 of crossbow'
+    published: '2016-03-27T14:33:23+00:00'
+    id: 'urn:uuid:383ce0d7-dc76-5e3b-a8a4-057788d58d53'
+    link: 'https://pub.dartlang.org/packages/crossbow'
+    author:
+        - 'Stijn Van Bael <stijn.van.bael@appify.be>'
+-
+    package_name: box
+    package_version: v0.0.14
+    title: 'v0.0.14 of box'
+    published: '2016-03-27T14:30:35+00:00'
+    id: 'urn:uuid:7020a2f1-1239-5db3-88a7-9e5d4ce1731f'
+    link: 'https://pub.dartlang.org/packages/box'
+    author:
+        - 'Stijn Van Bael <stijn.van.bael@appify.be>'
+-
+    package_name: reflective
+    package_version: v0.0.26
+    title: 'v0.0.26 of reflective'
+    published: '2016-03-27T14:20:18+00:00'
+    id: 'urn:uuid:8db57db9-e98a-533d-b141-56b8187db1db'
+    link: 'https://pub.dartlang.org/packages/reflective'
+    author:
+        - 'Stijn Van Bael <stijn.van.bael@appify.be>'
+-
+    package_name: dartz
+    package_version: v0.0.6
+    title: 'v0.0.6 of dartz'
+    published: '2016-03-27T14:15:02+00:00'
+    id: 'urn:uuid:7a562799-43e0-5424-910b-cbef7f74912d'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
