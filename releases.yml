@@ -58167,3 +58167,12 @@
     link: 'https://pub.dartlang.org/packages/reflective'
     author:
         - 'Stijn Van Bael <stijn.van.bael@appify.be>'
+-
+    package_name: passive_data
+    package_version: v0.1.0
+    title: 'v0.1.0 of passive_data'
+    published: '2016-03-27T11:58:21+00:00'
+    id: 'urn:uuid:f9d668cd-7af9-5592-94db-d05ad9ff5234'
+    link: 'https://pub.dartlang.org/packages/passive_data'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
