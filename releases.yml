@@ -58212,3 +58212,12 @@
     link: 'https://pub.dartlang.org/packages/dartz'
     author:
         - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: passive_data
+    package_version: v0.1.1
+    title: 'v0.1.1 of passive_data'
+    published: '2016-03-27T18:33:11+00:00'
+    id: 'urn:uuid:454785ca-e745-5b18-a36f-3b92019ad472'
+    link: 'https://pub.dartlang.org/packages/passive_data'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
