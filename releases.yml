@@ -58248,3 +58248,35 @@
     link: 'https://pub.dartlang.org/packages/webgl_helper'
     author:
         - 'Oliver Damm <oliver.damm@gmx.de>'
+-
+    package_name: crypto
+    package_version: v1.0.0
+    title: 'v1.0.0 of crypto'
+    published: '2016-03-28T20:59:50+00:00'
+    id: 'urn:uuid:7f1acf03-a498-53ce-a09c-d6b587a9d985'
+    link: 'https://pub.dartlang.org/packages/crypto'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dart_dev
+    package_version: v1.1.2
+    title: 'v1.1.2 of dart_dev'
+    published: '2016-03-28T20:33:14+00:00'
+    id: 'urn:uuid:030ab51f-7a9e-5ed7-9815-a9b8abe0e47c'
+    link: 'https://pub.dartlang.org/packages/dart_dev'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: dartz
+    package_version: v0.0.7
+    title: 'v0.0.7 of dartz'
+    published: '2016-03-28T20:28:34+00:00'
+    id: 'urn:uuid:74ebf3bf-cad7-5a86-993f-026c5a648b9a'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
