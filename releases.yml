@@ -58280,3 +58280,57 @@
     link: 'https://pub.dartlang.org/packages/dartz'
     author:
         - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: mojom
+    package_version: v0.2.26
+    title: 'v0.2.26 of mojom'
+    published: '2016-03-28T21:52:22+00:00'
+    id: 'urn:uuid:3aadf24a-3ecf-52a3-8471-17ec880db7a1'
+    link: 'https://pub.dartlang.org/packages/mojom'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_apptest
+    package_version: v0.2.26
+    title: 'v0.2.26 of mojo_apptest'
+    published: '2016-03-28T21:52:07+00:00'
+    id: 'urn:uuid:18ae444d-a834-5ab0-b6b8-2cf1ce4aece4'
+    link: 'https://pub.dartlang.org/packages/mojo_apptest'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_sdk
+    package_version: v0.2.22
+    title: 'v0.2.22 of mojo_sdk'
+    published: '2016-03-28T21:49:51+00:00'
+    id: 'urn:uuid:4e50ea84-d29b-5255-b8bc-eab354a20292'
+    link: 'https://pub.dartlang.org/packages/mojo_sdk'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_services
+    package_version: v0.4.25
+    title: 'v0.4.25 of mojo_services'
+    published: '2016-03-28T21:47:14+00:00'
+    id: 'urn:uuid:1cee0df3-b93b-5952-b3d1-0dc4f463b565'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: stack_trace
+    package_version: v1.6.4
+    title: 'v1.6.4 of stack_trace'
+    published: '2016-03-28T21:46:02+00:00'
+    id: 'urn:uuid:375123bd-01b4-5739-a253-751b26215f8b'
+    link: 'https://pub.dartlang.org/packages/stack_trace'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dummy_package_for_ssl_bug
+    package_version: v0.0.1
+    title: 'v0.0.1 of dummy_package_for_ssl_bug'
+    published: '2016-03-28T21:09:38+00:00'
+    id: 'urn:uuid:206c4a17-e6a6-523b-8d58-aad6cd865f81'
+    link: 'https://pub.dartlang.org/packages/dummy_package_for_ssl_bug'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
