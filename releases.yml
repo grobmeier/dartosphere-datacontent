@@ -58334,3 +58334,30 @@
     link: 'https://pub.dartlang.org/packages/dummy_package_for_ssl_bug'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: polyce
+    package_version: v0.0.3
+    title: 'v0.0.3 of polyce'
+    published: '2016-03-28T23:36:03+00:00'
+    id: 'urn:uuid:51a25cf7-4b6b-502d-8318-af88a46761e3'
+    link: 'https://pub.dartlang.org/packages/polyce'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: web_socket_channel
+    package_version: v1.0.2
+    title: 'v1.0.2 of web_socket_channel'
+    published: '2016-03-28T23:34:05+00:00'
+    id: 'urn:uuid:fb564c22-c7a3-5413-89c5-6b5f0bf8c9a9'
+    link: 'https://pub.dartlang.org/packages/web_socket_channel'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dummy_package_for_ssl_bug
+    package_version: v0.0.2
+    title: 'v0.0.2 of dummy_package_for_ssl_bug'
+    published: '2016-03-28T23:01:35+00:00'
+    id: 'urn:uuid:da559954-2246-5033-8d8a-6ce6059c55d6'
+    link: 'https://pub.dartlang.org/packages/dummy_package_for_ssl_bug'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
