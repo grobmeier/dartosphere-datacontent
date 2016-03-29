@@ -58390,3 +58390,12 @@
     link: 'https://pub.dartlang.org/packages/dummy_package_for_ssl_bug'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dummy_package_for_ssl_bug
+    package_version: v0.0.8
+    title: 'v0.0.8 of dummy_package_for_ssl_bug'
+    published: '2016-03-29T15:57:01+00:00'
+    id: 'urn:uuid:0310bf45-173e-588f-abbc-70b7a002871c'
+    link: 'https://pub.dartlang.org/packages/dummy_package_for_ssl_bug'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
