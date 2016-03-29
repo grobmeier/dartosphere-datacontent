@@ -58399,3 +58399,21 @@
     link: 'https://pub.dartlang.org/packages/dummy_package_for_ssl_bug'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: highcharts
+    package_version: v0.5.0+1
+    title: 'v0.5.0+1 of highcharts'
+    published: '2016-03-29T16:37:00+00:00'
+    id: 'urn:uuid:560c1b54-0f12-5df7-bd4d-e51a6b6c1a14'
+    link: 'https://pub.dartlang.org/packages/highcharts'
+    author:
+        - 'Gonzalo Pezzi <gonzalopezzi@gmail.com>'
+-
+    package_name: dummy_package_for_ssl_bug
+    package_version: v0.0.10
+    title: 'v0.0.10 of dummy_package_for_ssl_bug'
+    published: '2016-03-29T16:16:07+00:00'
+    id: 'urn:uuid:dd9212b0-080c-561f-8777-f008825894a2'
+    link: 'https://pub.dartlang.org/packages/dummy_package_for_ssl_bug'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
