@@ -58417,3 +58417,12 @@
     link: 'https://pub.dartlang.org/packages/dummy_package_for_ssl_bug'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: alphanum_sort
+    package_version: v0.1.1
+    title: 'v0.1.1 of alphanum_sort'
+    published: '2016-03-29T18:15:35+00:00'
+    id: 'urn:uuid:38de4a31-929f-503e-994a-c1e3a54973f3'
+    link: 'https://pub.dartlang.org/packages/alphanum_sort'
+    author:
+        - 'Rick Zhou'
