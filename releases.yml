@@ -58462,3 +58462,12 @@
     link: 'https://pub.dartlang.org/packages/collection'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: smoke
+    package_version: v0.3.6+2
+    title: 'v0.3.6+2 of smoke'
+    published: '2016-03-29T21:34:58+00:00'
+    id: 'urn:uuid:3f97779d-83eb-5a1b-9c06-2c1d4e5e8395'
+    link: 'https://pub.dartlang.org/packages/smoke'
+    author:
+        - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
