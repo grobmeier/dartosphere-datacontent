@@ -58471,3 +58471,21 @@
     link: 'https://pub.dartlang.org/packages/smoke'
     author:
         - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: opentype
+    package_version: v0.1.0
+    title: 'v0.1.0 of opentype'
+    published: '2016-03-30T01:27:30+00:00'
+    id: 'urn:uuid:bdd51b83-d633-5d3f-90ab-c091ea5cd51c'
+    link: 'https://pub.dartlang.org/packages/opentype'
+    author:
+        - 'José Luis Cruz <joseluis@andamira.net>'
+-
+    package_name: polyce
+    package_version: v0.1.2
+    title: 'v0.1.2 of polyce'
+    published: '2016-03-30T01:08:59+00:00'
+    id: 'urn:uuid:ea7dff28-4e08-5a6c-b594-9b9d5985da91'
+    link: 'https://pub.dartlang.org/packages/polyce'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
