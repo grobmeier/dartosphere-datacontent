@@ -58516,3 +58516,21 @@
     link: 'https://pub.dartlang.org/packages/tuneup'
     author:
         - 'Devon Carew <devoncarew@google.com>'
+-
+    package_name: dorm
+    package_version: v1.0.22
+    title: 'v1.0.22 of dorm'
+    published: '2016-03-30T13:42:03+00:00'
+    id: 'urn:uuid:6e95f10a-d59d-5113-b516-0633aefb69ff'
+    link: 'https://pub.dartlang.org/packages/dorm'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: js_util
+    package_version: v0.1.0
+    title: 'v0.1.0 of js_util'
+    published: '2016-03-30T13:06:34+00:00'
+    id: 'urn:uuid:4674bde9-ff86-53ed-85b0-1f0db3e83af4'
+    link: 'https://pub.dartlang.org/packages/js_util'
+    author:
+        - 'Fluidic Team <dev@fluidic.io>'
