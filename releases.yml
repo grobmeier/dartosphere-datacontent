@@ -58489,3 +58489,12 @@
     link: 'https://pub.dartlang.org/packages/polyce'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: range_map
+    package_version: v0.1.0
+    title: 'v0.1.0 of range_map'
+    published: '2016-03-30T02:38:23+00:00'
+    id: 'urn:uuid:8b88bae9-1cd5-587b-ae82-3dfb3ae0c2dd'
+    link: 'https://pub.dartlang.org/packages/range_map'
+    author:
+        - 'Fluidic Team <dev@fluidic.io>'
