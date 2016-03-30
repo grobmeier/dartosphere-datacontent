@@ -58534,3 +58534,12 @@
     link: 'https://pub.dartlang.org/packages/js_util'
     author:
         - 'Fluidic Team <dev@fluidic.io>'
+-
+    package_name: usage
+    package_version: v2.0.0
+    title: 'v2.0.0 of usage'
+    published: '2016-03-30T18:41:07+00:00'
+    id: 'urn:uuid:4e2257ff-11a9-5278-bb05-060499b784b4'
+    link: 'https://pub.dartlang.org/packages/usage'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
