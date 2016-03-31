@@ -58660,3 +58660,12 @@
     link: 'https://pub.dartlang.org/packages/lazy'
     author:
         - 'Fluidic Team <dev@fluidic.io>'
+-
+    package_name: vm_service_lib
+    package_version: v0.2.4
+    title: 'v0.2.4 of vm_service_lib'
+    published: '2016-03-31T14:13:00+00:00'
+    id: 'urn:uuid:d4664313-6c88-51f8-992b-3f93be28b4de'
+    link: 'https://pub.dartlang.org/packages/vm_service_lib'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
