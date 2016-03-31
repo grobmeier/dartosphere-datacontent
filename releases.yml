@@ -58669,3 +58669,21 @@
     link: 'https://pub.dartlang.org/packages/vm_service_lib'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: retry
+    package_version: v1.0.0
+    title: 'v1.0.0 of retry'
+    published: '2016-03-31T16:47:45+00:00'
+    id: 'urn:uuid:bcf6816c-22ca-50a4-84f5-25efd6996106'
+    link: 'https://pub.dartlang.org/packages/retry'
+    author:
+        - 'Tim Kluge <timklge@gmail.com>'
+-
+    package_name: syncbase
+    package_version: v0.0.35
+    title: 'v0.0.35 of syncbase'
+    published: '2016-03-31T16:03:23+00:00'
+    id: 'urn:uuid:e3bd6772-6ff8-5103-845f-1ad28c9f872e'
+    link: 'https://pub.dartlang.org/packages/syncbase'
+    author:
+        - 'Vanadium Authors'
