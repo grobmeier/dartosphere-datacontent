@@ -58736,3 +58736,12 @@
         - 'Anting Shen <shenantingtt@gmail.com>'
         - 'Misko Hevery <misko@hevery.com>'
         - 'Victor Berchet <victor@suumit.com>'
+-
+    package_name: debug_grid
+    package_version: v0.3.0
+    title: 'v0.3.0 of debug_grid'
+    published: '2016-03-31T21:50:40+00:00'
+    id: 'urn:uuid:1fff9cab-6d1e-58dd-9c2a-e3baa2e25ac9'
+    link: 'https://pub.dartlang.org/packages/debug_grid'
+    author:
+        - 'Matias Meno <m@tias.me>'
