@@ -58642,3 +58642,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_app_router'
     author:
         - 'Walletek <hadrien.lejard@gmail.com>'
+-
+    package_name: uuid
+    package_version: v0.5.1
+    title: 'v0.5.1 of uuid'
+    published: '2016-03-31T06:19:36+00:00'
+    id: 'urn:uuid:eb983ba0-8d47-5875-a8fd-40940605b1aa'
+    link: 'https://pub.dartlang.org/packages/uuid'
+    author:
+        - 'Yulian Kuncheff <yulian@kuncheff.com>'
