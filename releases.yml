@@ -58745,3 +58745,21 @@
     link: 'https://pub.dartlang.org/packages/debug_grid'
     author:
         - 'Matias Meno <m@tias.me>'
+-
+    package_name: dev_compiler
+    package_version: v0.1.23
+    title: 'v0.1.23 of dev_compiler'
+    published: '2016-03-31T22:35:14+00:00'
+    id: 'urn:uuid:9f220d0a-8bd8-599f-8622-f1629ffa09e7'
+    link: 'https://pub.dartlang.org/packages/dev_compiler'
+    author:
+        - 'Dart Dev Compiler team <dev-compiler@dartlang.org>'
+-
+    package_name: passive_data
+    package_version: v0.3.0+1
+    title: 'v0.3.0+1 of passive_data'
+    published: '2016-03-31T22:26:25+00:00'
+    id: 'urn:uuid:022e2f2c-dfea-56de-b545-7327342588a7'
+    link: 'https://pub.dartlang.org/packages/passive_data'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
