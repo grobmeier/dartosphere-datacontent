@@ -58687,3 +58687,12 @@
     link: 'https://pub.dartlang.org/packages/syncbase'
     author:
         - 'Vanadium Authors'
+-
+    package_name: anim2
+    package_version: v1.0.0
+    title: 'v1.0.0 of anim2'
+    published: '2016-03-31T19:35:08+00:00'
+    id: 'urn:uuid:91083f34-5f2c-5914-8052-01c2b6a4a513'
+    link: 'https://pub.dartlang.org/packages/anim2'
+    author:
+        - 'Ben Sheron <benmosheron@gmail.com>'
