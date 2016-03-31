@@ -58651,3 +58651,12 @@
     link: 'https://pub.dartlang.org/packages/uuid'
     author:
         - 'Yulian Kuncheff <yulian@kuncheff.com>'
+-
+    package_name: lazy
+    package_version: v0.1.0
+    title: 'v0.1.0 of lazy'
+    published: '2016-03-31T09:01:59+00:00'
+    id: 'urn:uuid:9043db06-e40a-583c-8b3b-da31fd7d0ce6'
+    link: 'https://pub.dartlang.org/packages/lazy'
+    author:
+        - 'Fluidic Team <dev@fluidic.io>'
