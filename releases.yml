@@ -58763,3 +58763,12 @@
     link: 'https://pub.dartlang.org/packages/passive_data'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: pool
+    package_version: v1.2.2
+    title: 'v1.2.2 of pool'
+    published: '2016-03-31T23:48:56+00:00'
+    id: 'urn:uuid:371198eb-b3b4-5e12-b46f-f7a9b7ba5d9f'
+    link: 'https://pub.dartlang.org/packages/pool'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
