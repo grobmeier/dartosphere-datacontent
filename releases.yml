@@ -58844,3 +58844,12 @@
     link: 'https://pub.dartlang.org/packages/flutter_gallery_assets'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: js_mimicry
+    package_version: v0.2.2
+    title: 'v0.2.2 of js_mimicry'
+    published: '2016-04-01T22:04:28+00:00'
+    id: 'urn:uuid:281b5444-0241-5aa3-aba9-ae368c850bac'
+    link: 'https://pub.dartlang.org/packages/js_mimicry'
+    author:
+        - 'Igor Demyanov <igor.demyanov@gmail.com>'
