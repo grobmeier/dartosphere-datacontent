@@ -58853,3 +58853,12 @@
     link: 'https://pub.dartlang.org/packages/js_mimicry'
     author:
         - 'Igor Demyanov <igor.demyanov@gmail.com>'
+-
+    package_name: quickdialogs
+    package_version: v1.2.0
+    title: 'v1.2.0 of quickdialogs'
+    published: '2016-04-01T23:49:07+00:00'
+    id: 'urn:uuid:ccd2b6d9-67ce-5409-bff1-e3d81e09cb98'
+    link: 'https://pub.dartlang.org/packages/quickdialogs'
+    author:
+        - 'Adrián Avila <adrian.avila.mtz@gmail.com>'
