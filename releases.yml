@@ -58826,3 +58826,21 @@
     link: 'https://pub.dartlang.org/packages/dev_compiler'
     author:
         - 'Dart Dev Compiler team <dev-compiler@dartlang.org>'
+-
+    package_name: dom_stub
+    package_version: v0.0.4
+    title: 'v0.0.4 of dom_stub'
+    published: '2016-04-01T21:26:30+00:00'
+    id: 'urn:uuid:c3b5a0c1-057d-5605-ad1f-e9c0386f437c'
+    link: 'https://pub.dartlang.org/packages/dom_stub'
+    author:
+        - 'Igor Demyanov <igor.demyanov@gmail.com>'
+-
+    package_name: flutter_gallery_assets
+    package_version: v0.0.14
+    title: 'v0.0.14 of flutter_gallery_assets'
+    published: '2016-04-01T21:16:48+00:00'
+    id: 'urn:uuid:818b0ec0-be83-5f8d-a348-005dc86cbd6e'
+    link: 'https://pub.dartlang.org/packages/flutter_gallery_assets'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
