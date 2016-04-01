@@ -58817,3 +58817,12 @@
     link: 'https://pub.dartlang.org/packages/reflectable'
     author:
         - 'The Dart Team <dart@google.com>'
+-
+    package_name: dev_compiler
+    package_version: v0.1.24
+    title: 'v0.1.24 of dev_compiler'
+    published: '2016-04-01T16:12:08+00:00'
+    id: 'urn:uuid:8c4ddba5-ccda-5f66-b302-5ed62f2c4060'
+    link: 'https://pub.dartlang.org/packages/dev_compiler'
+    author:
+        - 'Dart Dev Compiler team <dev-compiler@dartlang.org>'
