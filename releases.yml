@@ -58808,3 +58808,12 @@
     link: 'https://pub.dartlang.org/packages/http_multi_server'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: reflectable
+    package_version: v0.5.4
+    title: 'v0.5.4 of reflectable'
+    published: '2016-04-01T07:16:30+00:00'
+    id: 'urn:uuid:4f4e54eb-1485-5024-8261-a414d2323d91'
+    link: 'https://pub.dartlang.org/packages/reflectable'
+    author:
+        - 'The Dart Team <dart@google.com>'
