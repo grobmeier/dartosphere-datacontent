@@ -58889,3 +58889,12 @@
     link: 'https://pub.dartlang.org/packages/stagexl'
     author:
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: anim2
+    package_version: v1.0.1
+    title: 'v1.0.1 of anim2'
+    published: '2016-04-02T10:39:45+00:00'
+    id: 'urn:uuid:8651d4cb-bcf6-5deb-af0a-b336c24e53e9'
+    link: 'https://pub.dartlang.org/packages/anim2'
+    author:
+        - 'Ben Sheron <benmosheron@gmail.com>'
