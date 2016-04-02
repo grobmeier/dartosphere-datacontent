@@ -58880,3 +58880,12 @@
     link: 'https://pub.dartlang.org/packages/pubspec'
     author:
         - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: stagexl
+    package_version: v0.13.6
+    title: 'v0.13.6 of stagexl'
+    published: '2016-04-02T07:08:56+00:00'
+    id: 'urn:uuid:ef64496d-9fcd-5fc4-9332-485b33e0f196'
+    link: 'https://pub.dartlang.org/packages/stagexl'
+    author:
+        - 'Bernhard Pichler <support@stagexl.org>'
