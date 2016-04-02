@@ -58862,3 +58862,21 @@
     link: 'https://pub.dartlang.org/packages/quickdialogs'
     author:
         - 'Adrián Avila <adrian.avila.mtz@gmail.com>'
+-
+    package_name: jefe
+    package_version: v0.3.0
+    title: 'v0.3.0 of jefe'
+    published: '2016-04-02T01:48:28+00:00'
+    id: 'urn:uuid:5be0735d-8ba9-5944-99f1-f0a097034da0'
+    link: 'https://pub.dartlang.org/packages/jefe'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: pubspec
+    package_version: v0.0.12
+    title: 'v0.0.12 of pubspec'
+    published: '2016-04-02T01:47:36+00:00'
+    id: 'urn:uuid:f601ce64-f824-5d0e-bb70-8ca69fa3bed8'
+    link: 'https://pub.dartlang.org/packages/pubspec'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
