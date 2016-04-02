@@ -58898,3 +58898,12 @@
     link: 'https://pub.dartlang.org/packages/anim2'
     author:
         - 'Ben Sheron <benmosheron@gmail.com>'
+-
+    package_name: webapper
+    package_version: v0.0.1
+    title: 'v0.0.1 of webapper'
+    published: '2016-04-02T12:14:00+00:00'
+    id: 'urn:uuid:73dcf96b-92af-52d8-94bc-2d86ee29b882'
+    link: 'https://pub.dartlang.org/packages/webapper'
+    author:
+        - 'Wael Boutglay <btwael@gmail.com>'
