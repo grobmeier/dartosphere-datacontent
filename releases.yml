@@ -58907,3 +58907,12 @@
     link: 'https://pub.dartlang.org/packages/webapper'
     author:
         - 'Wael Boutglay <btwael@gmail.com>'
+-
+    package_name: generic_vector_tools
+    package_version: v1.0.5
+    title: 'v1.0.5 of generic_vector_tools'
+    published: '2016-04-02T14:25:51+00:00'
+    id: 'urn:uuid:a59e14f1-fe51-5f79-bf41-5701d5b8d3d0'
+    link: 'https://pub.dartlang.org/packages/generic_vector_tools'
+    author:
+        - 'Ben Sheron <benmosheron@gmail.com>'
