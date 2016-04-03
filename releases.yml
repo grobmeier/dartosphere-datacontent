@@ -58925,3 +58925,12 @@
     link: 'https://pub.dartlang.org/packages/butterfly'
     author:
         - 'Yegor Jbanov <yjbanov@google.com>'
+-
+    package_name: generic_vector_tools
+    package_version: v1.0.6
+    title: 'v1.0.6 of generic_vector_tools'
+    published: '2016-04-03T12:38:08+00:00'
+    id: 'urn:uuid:75a8fe70-5824-53e3-97f7-e9681da457f4'
+    link: 'https://pub.dartlang.org/packages/generic_vector_tools'
+    author:
+        - 'Ben Sheron <benmosheron@gmail.com>'
