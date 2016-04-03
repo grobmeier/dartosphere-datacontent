@@ -58934,3 +58934,12 @@
     link: 'https://pub.dartlang.org/packages/generic_vector_tools'
     author:
         - 'Ben Sheron <benmosheron@gmail.com>'
+-
+    package_name: liner_serializer
+    package_version: v0.1.0
+    title: 'v0.1.0 of liner_serializer'
+    published: '2016-04-03T15:33:07+00:00'
+    id: 'urn:uuid:b3e82c18-3994-57e3-83db-324a29ea16e1'
+    link: 'https://pub.dartlang.org/packages/liner_serializer'
+    author:
+        - 'Stéphane Seguin <contact@stephane-seguin.com>'
