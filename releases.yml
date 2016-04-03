@@ -58961,3 +58961,12 @@
     link: 'https://pub.dartlang.org/packages/fuzzylogic'
     author:
         - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: highstock
+    package_version: v0.0.1
+    title: 'v0.0.1 of highstock'
+    published: '2016-04-03T22:46:56+00:00'
+    id: 'urn:uuid:1e8e1d55-d937-5f41-ad35-29bc6b0e68d0'
+    link: 'https://pub.dartlang.org/packages/highstock'
+    author:
+        - 'Eloy Pastor <eloy.pastor.agullo@gmail.com>'
