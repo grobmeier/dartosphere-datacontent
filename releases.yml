@@ -58952,3 +58952,12 @@
     link: 'https://pub.dartlang.org/packages/dartz'
     author:
         - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: fuzzylogic
+    package_version: v0.2.0
+    title: 'v0.2.0 of fuzzylogic'
+    published: '2016-04-03T21:52:35+00:00'
+    id: 'urn:uuid:0ae9184b-e805-5b3c-ac5d-8b889484698c'
+    link: 'https://pub.dartlang.org/packages/fuzzylogic'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
