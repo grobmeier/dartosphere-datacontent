@@ -58943,3 +58943,12 @@
     link: 'https://pub.dartlang.org/packages/liner_serializer'
     author:
         - 'Stéphane Seguin <contact@stephane-seguin.com>'
+-
+    package_name: dartz
+    package_version: v0.0.8
+    title: 'v0.0.8 of dartz'
+    published: '2016-04-03T17:03:54+00:00'
+    id: 'urn:uuid:98373b85-962d-5d0d-b05b-d0ed72936346'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
