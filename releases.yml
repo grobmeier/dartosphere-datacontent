@@ -58970,3 +58970,12 @@
     link: 'https://pub.dartlang.org/packages/highstock'
     author:
         - 'Eloy Pastor <eloy.pastor.agullo@gmail.com>'
+-
+    package_name: fft
+    package_version: v0.0.10
+    title: 'v0.0.10 of fft'
+    published: '2016-04-04T09:55:29+00:00'
+    id: 'urn:uuid:e093f157-9955-505a-b35f-9c8b4940ff58'
+    link: 'https://pub.dartlang.org/packages/fft'
+    author:
+        - 'Edouard Tavinor <edouardtavinor@gmail.com>'
