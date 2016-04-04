@@ -58997,3 +58997,12 @@
     link: 'https://pub.dartlang.org/packages/googleapis'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: fft
+    package_version: v0.0.11
+    title: 'v0.0.11 of fft'
+    published: '2016-04-04T13:25:22+00:00'
+    id: 'urn:uuid:7f66fb58-7649-576a-9255-c5ad13d52234'
+    link: 'https://pub.dartlang.org/packages/fft'
+    author:
+        - 'Edouard Tavinor <edouardtavinor@gmail.com>'
