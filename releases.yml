@@ -59006,3 +59006,12 @@
     link: 'https://pub.dartlang.org/packages/fft'
     author:
         - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: complex_matrix
+    package_version: v0.0.6
+    title: 'v0.0.6 of complex_matrix'
+    published: '2016-04-04T14:18:50+00:00'
+    id: 'urn:uuid:ace89164-2590-5b03-8c19-91cf03526c78'
+    link: 'https://pub.dartlang.org/packages/complex_matrix'
+    author:
+        - 'Edouard Tavinor <edouardtavinor@gmail.com>'
