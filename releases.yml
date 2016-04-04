@@ -59015,3 +59015,14 @@
     link: 'https://pub.dartlang.org/packages/complex_matrix'
     author:
         - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: firebase
+    package_version: v0.6.6
+    title: 'v0.6.6 of firebase'
+    published: '2016-04-04T17:38:49+00:00'
+    id: 'urn:uuid:45e2d1e5-e1c6-5c39-bece-97ac1d915ba8'
+    link: 'https://pub.dartlang.org/packages/firebase'
+    author:
+        - 'Anant Narayanan <anant@kix.in>'
+        - 'Seth Ladd <sethladd@gmail.com>'
+        - 'Kevin Moore <github@j832.com>'
