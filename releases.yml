@@ -59026,3 +59026,12 @@
         - 'Anant Narayanan <anant@kix.in>'
         - 'Seth Ladd <sethladd@gmail.com>'
         - 'Kevin Moore <github@j832.com>'
+-
+    package_name: syncbase
+    package_version: v0.0.36
+    title: 'v0.0.36 of syncbase'
+    published: '2016-04-04T19:05:39+00:00'
+    id: 'urn:uuid:85bb86ba-8fe1-501e-950f-cf2525eb0caa'
+    link: 'https://pub.dartlang.org/packages/syncbase'
+    author:
+        - 'Vanadium Authors'
