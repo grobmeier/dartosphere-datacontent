@@ -59152,3 +59152,30 @@
     link: 'https://pub.dartlang.org/packages/core_mvc'
     author:
         - 'thetrompf, resem.pl <bkc@resem.pl>'
+-
+    package_name: omnibus
+    package_version: v0.12.0+1
+    title: 'v0.12.0+1 of omnibus'
+    published: '2016-04-05T15:48:24+00:00'
+    id: 'urn:uuid:e78b3f5f-5955-5a57-bf09-f4a01d2c43cd'
+    link: 'https://pub.dartlang.org/packages/omnibus'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: omnibuild
+    package_version: v0.3.0
+    title: 'v0.3.0 of omnibuild'
+    published: '2016-04-05T15:46:02+00:00'
+    id: 'urn:uuid:7ee7fead-a369-5017-9dea-01f735f31e6b'
+    link: 'https://pub.dartlang.org/packages/omnibuild'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: passive_data
+    package_version: v0.4.0
+    title: 'v0.4.0 of passive_data'
+    published: '2016-04-05T15:21:34+00:00'
+    id: 'urn:uuid:bf57ada1-3c47-5ee1-bcea-dcc9ef6eb6a3'
+    link: 'https://pub.dartlang.org/packages/passive_data'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
