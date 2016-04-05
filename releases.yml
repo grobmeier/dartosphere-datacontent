@@ -59179,3 +59179,12 @@
     link: 'https://pub.dartlang.org/packages/passive_data'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: dartdoc
+    package_version: v0.9.3
+    title: 'v0.9.3 of dartdoc'
+    published: '2016-04-05T18:44:31+00:00'
+    id: 'urn:uuid:4da76a03-b67e-517b-8c4d-663d847bc1d5'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
