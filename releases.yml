@@ -59206,3 +59206,12 @@
     link: 'https://pub.dartlang.org/packages/omnibus'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: quickdialogs
+    package_version: v1.2.1
+    title: 'v1.2.1 of quickdialogs'
+    published: '2016-04-05T23:59:48+00:00'
+    id: 'urn:uuid:713f64aa-dc71-5220-8821-3685c2885d88'
+    link: 'https://pub.dartlang.org/packages/quickdialogs'
+    author:
+        - 'Adrián Avila'
