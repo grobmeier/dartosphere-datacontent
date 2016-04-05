@@ -59197,3 +59197,12 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: omnibus
+    package_version: v0.13.0
+    title: 'v0.13.0 of omnibus'
+    published: '2016-04-05T21:05:38+00:00'
+    id: 'urn:uuid:0b2d2897-186e-5f40-862d-4758b407bcd5'
+    link: 'https://pub.dartlang.org/packages/omnibus'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
