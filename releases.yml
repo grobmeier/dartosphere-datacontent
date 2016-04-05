@@ -59143,3 +59143,12 @@
     link: 'https://pub.dartlang.org/packages/petitparser'
     author:
         - 'Lukas Renggli <renggli@gmail.com>'
+-
+    package_name: core_mvc
+    package_version: v0.1.1
+    title: 'v0.1.1 of core_mvc'
+    published: '2016-04-05T13:35:24+00:00'
+    id: 'urn:uuid:b2809c33-a479-5a13-8ef0-89a16cfb5bd6'
+    link: 'https://pub.dartlang.org/packages/core_mvc'
+    author:
+        - 'thetrompf, resem.pl <bkc@resem.pl>'
