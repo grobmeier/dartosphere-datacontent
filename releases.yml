@@ -59116,3 +59116,21 @@
     link: 'https://pub.dartlang.org/packages/omnibus'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: dorm
+    package_version: v1.0.25
+    title: 'v1.0.25 of dorm'
+    published: '2016-04-05T09:58:00+00:00'
+    id: 'urn:uuid:af8e270d-a6b1-58f2-b96a-c084f5a12d2e'
+    link: 'https://pub.dartlang.org/packages/dorm'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: xml
+    package_version: v2.4.3
+    title: 'v2.4.3 of xml'
+    published: '2016-04-05T09:23:39+00:00'
+    id: 'urn:uuid:79c8a058-6728-5fc9-98a8-3f7729eef216'
+    link: 'https://pub.dartlang.org/packages/xml'
+    author:
+        - 'Lukas Renggli <renggli@gmail.com>'
