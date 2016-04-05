@@ -59134,3 +59134,12 @@
     link: 'https://pub.dartlang.org/packages/xml'
     author:
         - 'Lukas Renggli <renggli@gmail.com>'
+-
+    package_name: petitparser
+    package_version: v1.5.3
+    title: 'v1.5.3 of petitparser'
+    published: '2016-04-05T10:34:18+00:00'
+    id: 'urn:uuid:4eddf169-2a23-521c-9e29-b0b081e9a26d'
+    link: 'https://pub.dartlang.org/packages/petitparser'
+    author:
+        - 'Lukas Renggli <renggli@gmail.com>'
