@@ -59271,3 +59271,12 @@
     link: 'https://pub.dartlang.org/packages/molview_messages'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: syncbase
+    package_version: v0.0.37
+    title: 'v0.0.37 of syncbase'
+    published: '2016-04-06T18:59:35+00:00'
+    id: 'urn:uuid:8dd63698-ee3c-5f61-8d2a-563cb585fc83'
+    link: 'https://pub.dartlang.org/packages/syncbase'
+    author:
+        - 'Vanadium Authors'
