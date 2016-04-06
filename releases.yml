@@ -59226,3 +59226,12 @@
         - 'Seth Ladd'
         - 'Devon Carew'
         - 'Kathy Walrath'
+-
+    package_name: omnibuild
+    package_version: v0.4.0
+    title: 'v0.4.0 of omnibuild'
+    published: '2016-04-06T07:52:00+00:00'
+    id: 'urn:uuid:a7e991f3-e171-5b43-80ad-ad7d630afbc9'
+    link: 'https://pub.dartlang.org/packages/omnibuild'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
