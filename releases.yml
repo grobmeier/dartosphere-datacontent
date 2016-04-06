@@ -59280,3 +59280,21 @@
     link: 'https://pub.dartlang.org/packages/syncbase'
     author:
         - 'Vanadium Authors'
+-
+    package_name: meta
+    package_version: v0.11.0
+    title: 'v0.11.0 of meta'
+    published: '2016-04-06T21:58:15+00:00'
+    id: 'urn:uuid:e2c4b409-f4d2-5ba9-8943-520c29152784'
+    link: 'https://pub.dartlang.org/packages/meta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: omnibuild
+    package_version: v0.5.1
+    title: 'v0.5.1 of omnibuild'
+    published: '2016-04-06T21:05:59+00:00'
+    id: 'urn:uuid:f44b1f3c-a3f0-51b8-ab4d-1be00b1d7eab'
+    link: 'https://pub.dartlang.org/packages/omnibuild'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
