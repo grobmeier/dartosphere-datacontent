@@ -59253,3 +59253,12 @@
     link: 'https://pub.dartlang.org/packages/omnibus'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: omnitest
+    package_version: v0.2.0
+    title: 'v0.2.0 of omnitest'
+    published: '2016-04-06T15:54:19+00:00'
+    id: 'urn:uuid:7ebcbb18-a0b9-55da-8309-112811da0307'
+    link: 'https://pub.dartlang.org/packages/omnitest'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
