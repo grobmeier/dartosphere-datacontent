@@ -59215,3 +59215,14 @@
     link: 'https://pub.dartlang.org/packages/quickdialogs'
     author:
         - 'Adrián Avila'
+-
+    package_name: stagehand
+    package_version: v1.0.5
+    title: 'v1.0.5 of stagehand'
+    published: '2016-04-06T01:00:31+00:00'
+    id: 'urn:uuid:d410df60-534b-5171-aee2-a26e0d6a4db9'
+    link: 'https://pub.dartlang.org/packages/stagehand'
+    author:
+        - 'Seth Ladd'
+        - 'Devon Carew'
+        - 'Kathy Walrath'
