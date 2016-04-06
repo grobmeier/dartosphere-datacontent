@@ -59262,3 +59262,12 @@
     link: 'https://pub.dartlang.org/packages/omnitest'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: molview_messages
+    package_version: v0.4.0
+    title: 'v0.4.0 of molview_messages'
+    published: '2016-04-06T16:03:43+00:00'
+    id: 'urn:uuid:13c3b052-bcf7-5991-9d0c-4b82a24bd5a5'
+    link: 'https://pub.dartlang.org/packages/molview_messages'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
