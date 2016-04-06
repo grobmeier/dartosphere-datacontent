@@ -59235,3 +59235,21 @@
     link: 'https://pub.dartlang.org/packages/omnibuild'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: omnibuild
+    package_version: v0.5.0
+    title: 'v0.5.0 of omnibuild'
+    published: '2016-04-06T08:28:45+00:00'
+    id: 'urn:uuid:4e35c036-33bd-53e5-8016-702af58fab1b'
+    link: 'https://pub.dartlang.org/packages/omnibuild'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: omnibus
+    package_version: v0.14.0
+    title: 'v0.14.0 of omnibus'
+    published: '2016-04-06T08:27:21+00:00'
+    id: 'urn:uuid:35d12868-b368-5fac-a72c-b2c55d77e121'
+    link: 'https://pub.dartlang.org/packages/omnibus'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
