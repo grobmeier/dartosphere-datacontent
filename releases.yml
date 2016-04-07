@@ -59442,3 +59442,48 @@
     link: 'https://pub.dartlang.org/packages/anim2'
     author:
         - 'Ben Sheron <benmosheron@gmail.com>'
+-
+    package_name: mojom
+    package_version: v0.2.27
+    title: 'v0.2.27 of mojom'
+    published: '2016-04-07T20:40:23+00:00'
+    id: 'urn:uuid:89371fd9-5cab-5141-be16-41eff8238c1a'
+    link: 'https://pub.dartlang.org/packages/mojom'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_apptest
+    package_version: v0.2.27
+    title: 'v0.2.27 of mojo_apptest'
+    published: '2016-04-07T20:40:15+00:00'
+    id: 'urn:uuid:bb7158df-0f93-52e1-87e8-00ab56b7a9b6'
+    link: 'https://pub.dartlang.org/packages/mojo_apptest'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_sdk
+    package_version: v0.2.23
+    title: 'v0.2.23 of mojo_sdk'
+    published: '2016-04-07T20:36:55+00:00'
+    id: 'urn:uuid:21587616-fe5d-582c-b708-07894da0c807'
+    link: 'https://pub.dartlang.org/packages/mojo_sdk'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_services
+    package_version: v0.4.26
+    title: 'v0.4.26 of mojo_services'
+    published: '2016-04-07T20:33:36+00:00'
+    id: 'urn:uuid:45b6724d-86f8-583d-bc13-139d274d6483'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo
+    package_version: v0.4.19
+    title: 'v0.4.19 of mojo'
+    published: '2016-04-07T20:33:27+00:00'
+    id: 'urn:uuid:7e871b75-7c22-5139-8ec7-e760be32a973'
+    link: 'https://pub.dartlang.org/packages/mojo'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
