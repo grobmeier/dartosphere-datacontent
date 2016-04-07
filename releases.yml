@@ -59505,3 +59505,12 @@
     link: 'https://pub.dartlang.org/packages/katex_js'
     author:
         - 'José Luis Cruz <joseluis@andamira.net>'
+-
+    package_name: vm_service_client
+    package_version: v0.1.3
+    title: 'v0.1.3 of vm_service_client'
+    published: '2016-04-07T22:49:15+00:00'
+    id: 'urn:uuid:538ebbf2-5e41-5706-b491-bdfbfc2824fc'
+    link: 'https://pub.dartlang.org/packages/vm_service_client'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
