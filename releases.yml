@@ -59298,3 +59298,21 @@
     link: 'https://pub.dartlang.org/packages/omnibuild'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: passive_data
+    package_version: v0.5.0
+    title: 'v0.5.0 of passive_data'
+    published: '2016-04-07T08:25:13+00:00'
+    id: 'urn:uuid:1da1ee0f-7d55-5dd4-bb78-1348de684899'
+    link: 'https://pub.dartlang.org/packages/passive_data'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: molview_messages
+    package_version: v0.4.1
+    title: 'v0.4.1 of molview_messages'
+    published: '2016-04-07T08:01:50+00:00'
+    id: 'urn:uuid:36009bc7-f083-5ed2-b4f3-7406699a8b7c'
+    link: 'https://pub.dartlang.org/packages/molview_messages'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
