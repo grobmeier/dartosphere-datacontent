@@ -59325,3 +59325,21 @@
     link: 'https://pub.dartlang.org/packages/katex_js'
     author:
         - 'José Luis Cruz <joseluis@andamira.net>'
+-
+    package_name: molview_messages
+    package_version: v0.4.2
+    title: 'v0.4.2 of molview_messages'
+    published: '2016-04-07T15:53:53+00:00'
+    id: 'urn:uuid:a60c7609-4b56-5a0c-9634-6a423158e280'
+    link: 'https://pub.dartlang.org/packages/molview_messages'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: passive_data
+    package_version: v0.5.1
+    title: 'v0.5.1 of passive_data'
+    published: '2016-04-07T15:38:46+00:00'
+    id: 'urn:uuid:8aacccf3-9d2d-542d-8e5a-93388409f0f6'
+    link: 'https://pub.dartlang.org/packages/passive_data'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
