@@ -59487,3 +59487,21 @@
     link: 'https://pub.dartlang.org/packages/mojo'
     author:
         - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: react
+    package_version: v1.0.0
+    title: 'v1.0.0 of react'
+    published: '2016-04-07T21:09:06+00:00'
+    id: 'urn:uuid:3356915e-4d7c-5d6f-a037-a33fc5e1a9b0'
+    link: 'https://pub.dartlang.org/packages/react'
+    author:
+        - 'Clean Team <clean@vacuumlabs.com>'
+-
+    package_name: katex_js
+    package_version: v0.1.0+1
+    title: 'v0.1.0+1 of katex_js'
+    published: '2016-04-07T21:05:45+00:00'
+    id: 'urn:uuid:2a00d646-98d4-5636-ae89-24b92fbdf968'
+    link: 'https://pub.dartlang.org/packages/katex_js'
+    author:
+        - 'José Luis Cruz <joseluis@andamira.net>'
