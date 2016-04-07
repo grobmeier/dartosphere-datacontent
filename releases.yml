@@ -59316,3 +59316,12 @@
     link: 'https://pub.dartlang.org/packages/molview_messages'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: katex_js
+    package_version: v0.1.0
+    title: 'v0.1.0 of katex_js'
+    published: '2016-04-07T14:12:50+00:00'
+    id: 'urn:uuid:3fb1920a-b365-54f1-b6ec-81e93a3f4ba6'
+    link: 'https://pub.dartlang.org/packages/katex_js'
+    author:
+        - 'José Luis Cruz <joseluis@andamira.net>'
