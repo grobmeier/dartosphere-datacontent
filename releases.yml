@@ -59532,3 +59532,12 @@
     link: 'https://pub.dartlang.org/packages/tiles'
     author:
         - 'Jakuub Uhrik <jakuub@mail.com>'
+-
+    package_name: code_transformers
+    package_version: v0.4.2+2
+    title: 'v0.4.2+2 of code_transformers'
+    published: '2016-04-08T15:47:08+00:00'
+    id: 'urn:uuid:db4b6aaf-6c62-5c0e-8bb0-3e14f0a444fc'
+    link: 'https://pub.dartlang.org/packages/code_transformers'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
