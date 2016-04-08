@@ -59523,3 +59523,12 @@
     link: 'https://pub.dartlang.org/packages/stack_trace'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: tiles
+    package_version: v0.2.3
+    title: 'v0.2.3 of tiles'
+    published: '2016-04-08T14:17:35+00:00'
+    id: 'urn:uuid:c56c15b8-d067-5dba-a6f6-e719692d629b'
+    link: 'https://pub.dartlang.org/packages/tiles'
+    author:
+        - 'Jakuub Uhrik <jakuub@mail.com>'
