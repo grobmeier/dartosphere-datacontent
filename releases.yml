@@ -59541,3 +59541,17 @@
     link: 'https://pub.dartlang.org/packages/code_transformers'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: w_flux
+    package_version: v2.2.0
+    title: 'v2.2.0 of w_flux'
+    published: '2016-04-08T21:37:03+00:00'
+    id: 'urn:uuid:8f6b2985-d7a9-5166-9a46-5f553d4fa6a0'
+    link: 'https://pub.dartlang.org/packages/w_flux'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
