@@ -59514,3 +59514,12 @@
     link: 'https://pub.dartlang.org/packages/vm_service_client'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: stack_trace
+    package_version: v1.6.5
+    title: 'v1.6.5 of stack_trace'
+    published: '2016-04-08T00:26:33+00:00'
+    id: 'urn:uuid:dfbf3768-a3a2-5170-af4e-8fd2b8dc763f'
+    link: 'https://pub.dartlang.org/packages/stack_trace'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
