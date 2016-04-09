@@ -59573,3 +59573,21 @@
     link: 'https://pub.dartlang.org/packages/passive_data'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: omnibuild
+    package_version: v0.5.1+2
+    title: 'v0.5.1+2 of omnibuild'
+    published: '2016-04-09T17:16:35+00:00'
+    id: 'urn:uuid:c65dc5ab-ec1f-558c-b648-1c95a7c08837'
+    link: 'https://pub.dartlang.org/packages/omnibuild'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: passive_data
+    package_version: v0.7.1
+    title: 'v0.7.1 of passive_data'
+    published: '2016-04-09T17:03:44+00:00'
+    id: 'urn:uuid:45d783ec-ccc3-5b84-9629-2d9608756a73'
+    link: 'https://pub.dartlang.org/packages/passive_data'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
