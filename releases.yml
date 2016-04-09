@@ -59555,3 +59555,12 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: passive_data
+    package_version: v0.6.0
+    title: 'v0.6.0 of passive_data'
+    published: '2016-04-09T13:59:09+00:00'
+    id: 'urn:uuid:4e9a5fbe-f0f3-5a8f-aab0-9dac36a5e3fc'
+    link: 'https://pub.dartlang.org/packages/passive_data'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
