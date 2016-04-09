@@ -59564,3 +59564,12 @@
     link: 'https://pub.dartlang.org/packages/passive_data'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: passive_data
+    package_version: v0.7.0
+    title: 'v0.7.0 of passive_data'
+    published: '2016-04-09T16:30:55+00:00'
+    id: 'urn:uuid:682ffd90-b0c1-5e9b-8ce4-ea7bdc7169a5'
+    link: 'https://pub.dartlang.org/packages/passive_data'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
