@@ -59780,3 +59780,12 @@
     link: 'https://pub.dartlang.org/packages/atlassian_connect_models'
     author:
         - 'Anders Holmgren <aholmgren@atlassian.com>'
+-
+    package_name: atlassian_connect_shelf
+    package_version: v0.11.7
+    title: 'v0.11.7 of atlassian_connect_shelf'
+    published: '2016-04-10T05:07:01+00:00'
+    id: 'urn:uuid:5b85a787-1004-532b-b87d-6ea594d15fda'
+    link: 'https://pub.dartlang.org/packages/atlassian_connect_shelf'
+    author:
+        - 'Anders Holmgren <aholmgren@atlassian.com>'
