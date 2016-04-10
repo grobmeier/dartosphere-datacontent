@@ -59789,3 +59789,12 @@
     link: 'https://pub.dartlang.org/packages/atlassian_connect_shelf'
     author:
         - 'Anders Holmgren <aholmgren@atlassian.com>'
+-
+    package_name: molview_pubchem
+    package_version: v0.1.0
+    title: 'v0.1.0 of molview_pubchem'
+    published: '2016-04-10T10:39:45+00:00'
+    id: 'urn:uuid:eef3a1f2-de3d-5cd1-9dc3-8ea3e0ad6cba'
+    link: 'https://pub.dartlang.org/packages/molview_pubchem'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
