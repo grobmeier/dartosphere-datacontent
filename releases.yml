@@ -59807,3 +59807,12 @@
     link: 'https://pub.dartlang.org/packages/gcloud'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: access
+    package_version: v0.8.0
+    title: 'v0.8.0 of access'
+    published: '2016-04-11T09:38:41+00:00'
+    id: 'urn:uuid:f287ea43-4fde-5cd3-b470-d0145d31b8bf'
+    link: 'https://pub.dartlang.org/packages/access'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
