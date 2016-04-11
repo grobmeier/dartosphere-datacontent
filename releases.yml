@@ -59853,3 +59853,12 @@
     link: 'https://pub.dartlang.org/packages/flutter_gallery_assets'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: protobuf
+    package_version: v0.5.1
+    title: 'v0.5.1 of protobuf'
+    published: '2016-04-11T22:31:34+00:00'
+    id: 'urn:uuid:1bc80484-f792-5d4a-9b41-d2fd63b08a1b'
+    link: 'https://pub.dartlang.org/packages/protobuf'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
