@@ -59862,3 +59862,22 @@
     link: 'https://pub.dartlang.org/packages/protobuf'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: intl
+    package_version: v0.12.7+1
+    title: 'v0.12.7+1 of intl'
+    published: '2016-04-11T23:53:15+00:00'
+    id: 'urn:uuid:faaffea1-2da0-5148-88a5-67b05914fa62'
+    link: 'https://pub.dartlang.org/packages/intl'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: sqlite
+    package_version: v0.3.0
+    title: 'v0.3.0 of sqlite'
+    published: '2016-04-11T23:43:54+00:00'
+    id: 'urn:uuid:bf46d621-004e-5e65-9dda-276ec0caaa41'
+    link: 'https://pub.dartlang.org/packages/sqlite'
+    author:
+        - 'Sam McCall'
+        - 'P.Y. Laligand'
