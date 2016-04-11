@@ -59816,3 +59816,13 @@
     link: 'https://pub.dartlang.org/packages/access'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: bwu_log
+    package_version: v0.1.0
+    title: 'v0.1.0 of bwu_log'
+    published: '2016-04-11T10:13:36+00:00'
+    id: 'urn:uuid:3b97ab86-88c3-5a47-9e39-a9fc0c03e2c5'
+    link: 'https://pub.dartlang.org/packages/bwu_log'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+        - 'Adam Bender <bendera@google.com>'
