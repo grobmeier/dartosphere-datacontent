@@ -59844,3 +59844,12 @@
     link: 'https://pub.dartlang.org/packages/uuid'
     author:
         - 'Yulian Kuncheff <yulian@kuncheff.com>'
+-
+    package_name: flutter_gallery_assets
+    package_version: v0.0.15
+    title: 'v0.0.15 of flutter_gallery_assets'
+    published: '2016-04-11T18:19:39+00:00'
+    id: 'urn:uuid:59d7dae9-581b-53a5-bcf8-a6e5b0ddc12a'
+    link: 'https://pub.dartlang.org/packages/flutter_gallery_assets'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
