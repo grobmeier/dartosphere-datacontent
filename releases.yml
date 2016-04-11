@@ -59835,3 +59835,12 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: uuid
+    package_version: v0.5.2
+    title: 'v0.5.2 of uuid'
+    published: '2016-04-11T17:04:37+00:00'
+    id: 'urn:uuid:11e2e23e-b897-55cf-a701-3c5ec0bf2109'
+    link: 'https://pub.dartlang.org/packages/uuid'
+    author:
+        - 'Yulian Kuncheff <yulian@kuncheff.com>'
