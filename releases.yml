@@ -59826,3 +59826,12 @@
     author:
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
         - 'Adam Bender <bendera@google.com>'
+-
+    package_name: mdl
+    package_version: v1.17.3
+    title: 'v1.17.3 of mdl'
+    published: '2016-04-11T12:25:53+00:00'
+    id: 'urn:uuid:0ad1088c-6b10-5698-886a-df661da4b3a1'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
