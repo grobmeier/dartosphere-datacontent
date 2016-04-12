@@ -59899,3 +59899,12 @@
     link: 'https://pub.dartlang.org/packages/meta'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: crypt
+    package_version: v1.0.1
+    title: 'v1.0.1 of crypt'
+    published: '2016-04-12T01:01:03+00:00'
+    id: 'urn:uuid:3f958942-952a-51af-881c-a25581cc52cb'
+    link: 'https://pub.dartlang.org/packages/crypt'
+    author:
+        - 'Hoylen Sue <hoylen@hoylen.com>'
