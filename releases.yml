@@ -59917,3 +59917,14 @@
     link: 'https://pub.dartlang.org/packages/crypt'
     author:
         - 'Hoylen Sue <hoylen@hoylen.com>'
+-
+    package_name: dquery
+    package_version: v0.8.1+1
+    title: 'v0.8.1+1 of dquery'
+    published: '2016-04-12T07:46:48+00:00'
+    id: 'urn:uuid:6caed1e4-8f4a-535d-976d-bbc6057e4904'
+    link: 'https://pub.dartlang.org/packages/dquery'
+    author:
+        - 'Simon Pai <simonpai@rikulo.org>'
+        - 'Jimmy Shiau <jimmyshiau@rikulo.org>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
