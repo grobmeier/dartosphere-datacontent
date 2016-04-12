@@ -59955,3 +59955,12 @@
     link: 'https://pub.dartlang.org/packages/async'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: serializer
+    package_version: v0.1.6
+    title: 'v0.1.6 of serializer'
+    published: '2016-04-12T23:22:54+00:00'
+    id: 'urn:uuid:a3d09b07-e630-5ca4-9767-cb5855b04962'
+    link: 'https://pub.dartlang.org/packages/serializer'
+    author:
+        - 'Walletek <hadrien.lejard@gmail.com>'
