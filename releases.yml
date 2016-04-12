@@ -59908,3 +59908,12 @@
     link: 'https://pub.dartlang.org/packages/crypt'
     author:
         - 'Hoylen Sue <hoylen@hoylen.com>'
+-
+    package_name: crypt
+    package_version: v1.0.2
+    title: 'v1.0.2 of crypt'
+    published: '2016-04-12T02:32:09+00:00'
+    id: 'urn:uuid:b2310079-5d66-5b3a-ac82-e7551b4d1602'
+    link: 'https://pub.dartlang.org/packages/crypt'
+    author:
+        - 'Hoylen Sue <hoylen@hoylen.com>'
