@@ -59881,3 +59881,21 @@
     author:
         - 'Sam McCall'
         - 'P.Y. Laligand'
+-
+    package_name: crypt
+    package_version: v1.0.0
+    title: 'v1.0.0 of crypt'
+    published: '2016-04-12T00:13:06+00:00'
+    id: 'urn:uuid:69571240-0d73-510d-b8ab-06aa8447acc7'
+    link: 'https://pub.dartlang.org/packages/crypt'
+    author:
+        - 'Hoylen Sue <hoylen@hoylen.com>'
+-
+    package_name: meta
+    package_version: v0.12.0
+    title: 'v0.12.0 of meta'
+    published: '2016-04-12T00:06:50+00:00'
+    id: 'urn:uuid:c10b12cb-9bf3-5eba-abba-fd9ab7945e2b'
+    link: 'https://pub.dartlang.org/packages/meta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
