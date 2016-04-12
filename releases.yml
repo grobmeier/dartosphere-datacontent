@@ -59937,3 +59937,12 @@
     link: 'https://pub.dartlang.org/packages/cryptoutils'
     author:
         - 'Steven Roose <stevenroose@gmail.com>'
+-
+    package_name: dartdoc
+    package_version: v0.9.4
+    title: 'v0.9.4 of dartdoc'
+    published: '2016-04-12T18:13:29+00:00'
+    id: 'urn:uuid:59860b87-2d3a-5af7-be9e-af5b64f63afa'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
