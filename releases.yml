@@ -59946,3 +59946,12 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: async
+    package_version: v1.10.0
+    title: 'v1.10.0 of async'
+    published: '2016-04-12T20:43:48+00:00'
+    id: 'urn:uuid:01e2082e-0ba5-5d24-980d-1481cd399aa4'
+    link: 'https://pub.dartlang.org/packages/async'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
