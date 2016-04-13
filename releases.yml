@@ -59964,3 +59964,14 @@
     link: 'https://pub.dartlang.org/packages/serializer'
     author:
         - 'Walletek <hadrien.lejard@gmail.com>'
+-
+    package_name: dquery
+    package_version: v0.8.1+2
+    title: 'v0.8.1+2 of dquery'
+    published: '2016-04-13T02:25:53+00:00'
+    id: 'urn:uuid:aec74805-522a-5baa-89af-909688b9bc19'
+    link: 'https://pub.dartlang.org/packages/dquery'
+    author:
+        - 'Simon Pai <simonpai@rikulo.org>'
+        - 'Jimmy Shiau <jimmyshiau@rikulo.org>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
