@@ -59984,3 +59984,12 @@
     link: 'https://pub.dartlang.org/packages/random_string'
     author:
         - 'Damon Douglas <douglas.damon@gmail.com>'
+-
+    package_name: wrike_dal
+    package_version: v0.3.27
+    title: 'v0.3.27 of wrike_dal'
+    published: '2016-04-13T10:45:42+00:00'
+    id: 'urn:uuid:2e8904f4-9da4-5f3d-acb9-6d67cbac2eb3'
+    link: 'https://pub.dartlang.org/packages/wrike_dal'
+    author:
+        - Valera
