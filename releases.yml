@@ -60011,3 +60011,12 @@
     link: 'https://pub.dartlang.org/packages/analyzer'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: bazel_worker
+    package_version: v0.1.0
+    title: 'v0.1.0 of bazel_worker'
+    published: '2016-04-13T16:46:28+00:00'
+    id: 'urn:uuid:c9260bfd-d2a9-5366-a57a-d82260730794'
+    link: 'https://pub.dartlang.org/packages/bazel_worker'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
