@@ -59993,3 +59993,12 @@
     link: 'https://pub.dartlang.org/packages/wrike_dal'
     author:
         - Valera
+-
+    package_name: wrike_dal
+    package_version: v0.3.28
+    title: 'v0.3.28 of wrike_dal'
+    published: '2016-04-13T14:44:15+00:00'
+    id: 'urn:uuid:294dc4a7-231f-5930-b610-3d204a9b73bf'
+    link: 'https://pub.dartlang.org/packages/wrike_dal'
+    author:
+        - Valera
