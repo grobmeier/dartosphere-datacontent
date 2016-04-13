@@ -59975,3 +59975,12 @@
         - 'Simon Pai <simonpai@rikulo.org>'
         - 'Jimmy Shiau <jimmyshiau@rikulo.org>'
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: random_string
+    package_version: v0.0.1
+    title: 'v0.0.1 of random_string'
+    published: '2016-04-13T06:28:15+00:00'
+    id: 'urn:uuid:e0e35a06-37e0-53f4-839d-2ad44f266f11'
+    link: 'https://pub.dartlang.org/packages/random_string'
+    author:
+        - 'Damon Douglas <douglas.damon@gmail.com>'
