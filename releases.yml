@@ -60002,3 +60002,12 @@
     link: 'https://pub.dartlang.org/packages/wrike_dal'
     author:
         - Valera
+-
+    package_name: analyzer
+    package_version: v0.27.3
+    title: 'v0.27.3 of analyzer'
+    published: '2016-04-13T15:53:24+00:00'
+    id: 'urn:uuid:59527251-8bac-5bc6-be79-96c7d1fac4c7'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
