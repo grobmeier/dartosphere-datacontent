@@ -60112,3 +60112,12 @@
     link: 'https://pub.dartlang.org/packages/slickdart'
     author:
         - 'CJKAO <kaopeter@gmail.com>, tonosama-atlacatl'
+-
+    package_name: crypto
+    package_version: v1.1.0
+    title: 'v1.1.0 of crypto'
+    published: '2016-04-14T19:36:03+00:00'
+    id: 'urn:uuid:5165bba7-24e1-57f3-970e-d229967d0192'
+    link: 'https://pub.dartlang.org/packages/crypto'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
