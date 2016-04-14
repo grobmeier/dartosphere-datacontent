@@ -60130,3 +60130,32 @@
     link: 'https://pub.dartlang.org/packages/force'
     author:
         - 'Joris Hermans <hermansj@gmail.com>'
+-
+    package_name: vm_service_client
+    package_version: v0.2.0
+    title: 'v0.2.0 of vm_service_client'
+    published: '2016-04-14T22:31:15+00:00'
+    id: 'urn:uuid:aaf19dbf-49fb-5bf9-a30f-71036076a362'
+    link: 'https://pub.dartlang.org/packages/vm_service_client'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: stagehand
+    package_version: v1.0.6
+    title: 'v1.0.6 of stagehand'
+    published: '2016-04-14T22:26:33+00:00'
+    id: 'urn:uuid:96b102e7-f8bf-5b0f-bb9b-51486799cb96'
+    link: 'https://pub.dartlang.org/packages/stagehand'
+    author:
+        - 'Seth Ladd <sethladd@google.com>'
+        - 'Devon Carew <devoncarew@google.com>'
+        - 'Kathy Walrath <kathyw@google.com>'
+-
+    package_name: json_rpc_2
+    package_version: v2.0.1
+    title: 'v2.0.1 of json_rpc_2'
+    published: '2016-04-14T22:19:15+00:00'
+    id: 'urn:uuid:eefb64e1-b3c7-5cf9-913d-7edb43ef2f77'
+    link: 'https://pub.dartlang.org/packages/json_rpc_2'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
