@@ -60159,3 +60159,12 @@
     link: 'https://pub.dartlang.org/packages/json_rpc_2'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: perf_api
+    package_version: v0.1.0
+    title: 'v0.1.0 of perf_api'
+    published: '2016-04-14T23:56:10+00:00'
+    id: 'urn:uuid:24f57193-15c3-5e8c-9ecd-4004596a36e0'
+    link: 'https://pub.dartlang.org/packages/perf_api'
+    author:
+        - 'Pavel Jbanov <pavelgj@gmail.com>'
