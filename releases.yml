@@ -60103,3 +60103,12 @@
         - 'Anant Narayanan <anant@kix.in>'
         - 'Seth Ladd <sethladd@gmail.com>'
         - 'Kevin Moore <github@j832.com>'
+-
+    package_name: slickdart
+    package_version: v0.1.6+1
+    title: 'v0.1.6+1 of slickdart'
+    published: '2016-04-14T15:58:45+00:00'
+    id: 'urn:uuid:39e89985-d69a-5897-8f87-5f82e0577300'
+    link: 'https://pub.dartlang.org/packages/slickdart'
+    author:
+        - 'CJKAO <kaopeter@gmail.com>, tonosama-atlacatl'
