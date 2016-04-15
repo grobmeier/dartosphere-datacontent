@@ -60196,3 +60196,12 @@
     link: 'https://pub.dartlang.org/packages/protobuf'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: bazel_worker
+    package_version: v0.1.1
+    title: 'v0.1.1 of bazel_worker'
+    published: '2016-04-15T19:15:42+00:00'
+    id: 'urn:uuid:ca483ae9-3ca2-5665-9745-252b2064cfc2'
+    link: 'https://pub.dartlang.org/packages/bazel_worker'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
