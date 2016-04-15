@@ -60187,3 +60187,12 @@
     link: 'https://pub.dartlang.org/packages/rxdart'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: protobuf
+    package_version: v0.5.1+1
+    title: 'v0.5.1+1 of protobuf'
+    published: '2016-04-15T18:25:25+00:00'
+    id: 'urn:uuid:4b2eb22d-3049-5429-99c6-bb76991b77ec'
+    link: 'https://pub.dartlang.org/packages/protobuf'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
