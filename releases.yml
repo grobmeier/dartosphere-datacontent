@@ -60241,3 +60241,12 @@
     link: 'https://pub.dartlang.org/packages/dartz'
     author:
         - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: rad_textures
+    package_version: v1.0.16
+    title: 'v1.0.16 of rad_textures'
+    published: '2016-04-16T20:14:35+00:00'
+    id: 'urn:uuid:aa18dfd5-65e6-5715-9f13-f526d202b5ed'
+    link: 'https://pub.dartlang.org/packages/rad_textures'
+    author:
+        - 'John Davis <jdavis@pcprogramming.com>'
