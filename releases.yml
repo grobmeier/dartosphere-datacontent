@@ -60250,3 +60250,12 @@
     link: 'https://pub.dartlang.org/packages/rad_textures'
     author:
         - 'John Davis <jdavis@pcprogramming.com>'
+-
+    package_name: rxdart
+    package_version: v0.3.17
+    title: 'v0.3.17 of rxdart'
+    published: '2016-04-16T21:47:28+00:00'
+    id: 'urn:uuid:11e1701f-6ae5-53bb-bfeb-d2b712f2885d'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
