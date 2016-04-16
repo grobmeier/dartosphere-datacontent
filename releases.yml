@@ -60214,3 +60214,12 @@
     link: 'https://pub.dartlang.org/packages/malison'
     author:
         - 'Bob Nystrom <robert@stuffwithstuff.com>'
+-
+    package_name: mutator
+    package_version: v0.0.2
+    title: 'v0.0.2 of mutator'
+    published: '2016-04-16T07:52:53+00:00'
+    id: 'urn:uuid:8cb95db2-63f8-55cb-bc7c-c23b8f230e28'
+    link: 'https://pub.dartlang.org/packages/mutator'
+    author:
+        - 'Tasty Dart <tastydart@gmail.com>'
