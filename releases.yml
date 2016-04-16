@@ -60232,3 +60232,12 @@
     link: 'https://pub.dartlang.org/packages/stagexl_spine'
     author:
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: dartz
+    package_version: v0.0.9
+    title: 'v0.0.9 of dartz'
+    published: '2016-04-16T17:44:39+00:00'
+    id: 'urn:uuid:b5762610-6c22-53ef-b072-d05b81dd4714'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
