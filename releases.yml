@@ -60259,3 +60259,21 @@
     link: 'https://pub.dartlang.org/packages/rxdart'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: discoveryapis_generator
+    package_version: v0.8.0
+    title: 'v0.8.0 of discoveryapis_generator'
+    published: '2016-04-17T02:51:42+00:00'
+    id: 'urn:uuid:e932f282-2fee-5fb3-a482-93ccf9c7c08c'
+    link: 'https://pub.dartlang.org/packages/discoveryapis_generator'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: _discoveryapis_commons
+    package_version: v0.1.3+1
+    title: 'v0.1.3+1 of _discoveryapis_commons'
+    published: '2016-04-17T02:23:00+00:00'
+    id: 'urn:uuid:85ab1dd4-3425-516a-ba81-b7a7f99ae573'
+    link: 'https://pub.dartlang.org/packages/_discoveryapis_commons'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
