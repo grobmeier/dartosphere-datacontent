@@ -60277,3 +60277,12 @@
     link: 'https://pub.dartlang.org/packages/_discoveryapis_commons'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dartz
+    package_version: v0.0.10
+    title: 'v0.0.10 of dartz'
+    published: '2016-04-17T11:21:36+00:00'
+    id: 'urn:uuid:0716b8ab-e3c3-59cd-afca-21e82a0f0cb6'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
