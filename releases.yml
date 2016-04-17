@@ -60295,3 +60295,12 @@
     link: 'https://pub.dartlang.org/packages/body_parser'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: jsonrpc2
+    package_version: v0.9.9
+    title: 'v0.9.9 of jsonrpc2'
+    published: '2016-04-17T22:52:47+00:00'
+    id: 'urn:uuid:f682ab05-8e03-5a69-8d07-31ec8165b8d3'
+    link: 'https://pub.dartlang.org/packages/jsonrpc2'
+    author:
+        - 'Jim Washington <washington.jim@gmail.com>'
