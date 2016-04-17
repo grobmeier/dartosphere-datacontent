@@ -60286,3 +60286,12 @@
     link: 'https://pub.dartlang.org/packages/dartz'
     author:
         - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: body_parser
+    package_version: v1.0.0-dev
+    title: 'v1.0.0-dev of body_parser'
+    published: '2016-04-17T19:49:55+00:00'
+    id: 'urn:uuid:5cc504f9-afe8-53d9-a2f4-b0b0e6b31ece'
+    link: 'https://pub.dartlang.org/packages/body_parser'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
