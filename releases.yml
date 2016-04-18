@@ -60324,3 +60324,15 @@
     link: 'https://pub.dartlang.org/packages/rxdart'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: xcvbnm
+    package_version: v0.5.2
+    title: 'v0.5.2 of xcvbnm'
+    published: '2016-04-18T15:08:22+00:00'
+    id: 'urn:uuid:f23c0ed6-a033-5e9b-9c25-f2bcf530eabe'
+    link: 'https://pub.dartlang.org/packages/xcvbnm'
+    author:
+        - 'Werner Gaisbauer <werner.gaisbauer@exitlive.io>'
+        - 'Alex Tekartik <alex@tekartik.com>'
+        - 'Matias Meno <matias.meno@exitlive.io>'
+        - 'Martin Flucka <martin.flucka@gmail.com>'
