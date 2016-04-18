@@ -60345,3 +60345,12 @@
     link: 'https://pub.dartlang.org/packages/react'
     author:
         - 'Clean Team <clean@vacuumlabs.com>'
+-
+    package_name: meta
+    package_version: v0.12.1
+    title: 'v0.12.1 of meta'
+    published: '2016-04-18T21:30:06+00:00'
+    id: 'urn:uuid:46f8e3f5-aa54-545c-873d-2dfbd74d9cb1'
+    link: 'https://pub.dartlang.org/packages/meta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
