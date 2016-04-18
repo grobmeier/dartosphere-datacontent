@@ -60304,3 +60304,23 @@
     link: 'https://pub.dartlang.org/packages/jsonrpc2'
     author:
         - 'Jim Washington <washington.jim@gmail.com>'
+-
+    package_name: xcvbnm
+    package_version: v0.5.1
+    title: 'v0.5.1 of xcvbnm'
+    published: '2016-04-18T14:53:39+00:00'
+    id: 'urn:uuid:1473ee2b-7253-510f-a9eb-6d45c8bfa9eb'
+    link: 'https://pub.dartlang.org/packages/xcvbnm'
+    author:
+        - 'Werner Gaisbauer <werner.gaisbauer@exitlive.io>'
+        - 'Alex Tekartik <alex@tekartik.com>'
+        - 'Matias Meno <matias.meno@exitlive.io>'
+-
+    package_name: rxdart
+    package_version: v0.3.20
+    title: 'v0.3.20 of rxdart'
+    published: '2016-04-18T14:47:45+00:00'
+    id: 'urn:uuid:5bd1cc09-10ea-538e-b336-11a964a3bb9d'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
