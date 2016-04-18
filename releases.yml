@@ -60336,3 +60336,12 @@
         - 'Alex Tekartik <alex@tekartik.com>'
         - 'Matias Meno <matias.meno@exitlive.io>'
         - 'Martin Flucka <martin.flucka@gmail.com>'
+-
+    package_name: react
+    package_version: v1.1.0
+    title: 'v1.1.0 of react'
+    published: '2016-04-18T20:43:43+00:00'
+    id: 'urn:uuid:f10faeac-18b7-515e-8749-00e80977f8b4'
+    link: 'https://pub.dartlang.org/packages/react'
+    author:
+        - 'Clean Team <clean@vacuumlabs.com>'
