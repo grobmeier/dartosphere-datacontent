@@ -60354,3 +60354,21 @@
     link: 'https://pub.dartlang.org/packages/meta'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: harvest
+    package_version: v2.0.13
+    title: 'v2.0.13 of harvest'
+    published: '2016-04-19T08:15:08+00:00'
+    id: 'urn:uuid:628c7460-e342-50bb-ab67-c153b2f94142'
+    link: 'https://pub.dartlang.org/packages/harvest'
+    author:
+        - 'Lars Tackmann <lars@solvr.io>'
+-
+    package_name: log4dart
+    package_version: v1.4.19
+    title: 'v1.4.19 of log4dart'
+    published: '2016-04-19T08:10:52+00:00'
+    id: 'urn:uuid:92c90f7d-48dc-57e7-aaf2-f02283b18740'
+    link: 'https://pub.dartlang.org/packages/log4dart'
+    author:
+        - 'Lars Tackmann <lars@solvr.io>'
