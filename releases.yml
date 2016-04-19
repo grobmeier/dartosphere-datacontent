@@ -60372,3 +60372,12 @@
     link: 'https://pub.dartlang.org/packages/log4dart'
     author:
         - 'Lars Tackmann <lars@solvr.io>'
+-
+    package_name: vm_service_lib
+    package_version: v0.3.0
+    title: 'v0.3.0 of vm_service_lib'
+    published: '2016-04-19T17:52:40+00:00'
+    id: 'urn:uuid:2ac87c45-35e4-5cf8-9715-7dc35e32f082'
+    link: 'https://pub.dartlang.org/packages/vm_service_lib'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
