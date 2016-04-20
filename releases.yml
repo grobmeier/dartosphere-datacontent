@@ -60399,3 +60399,12 @@
     link: 'https://pub.dartlang.org/packages/molview_messages'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: molview_pubchem
+    package_version: v0.1.1
+    title: 'v0.1.1 of molview_pubchem'
+    published: '2016-04-20T14:44:17+00:00'
+    id: 'urn:uuid:675db0a1-93c9-50c2-b8c6-881d3e325c80'
+    link: 'https://pub.dartlang.org/packages/molview_pubchem'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
