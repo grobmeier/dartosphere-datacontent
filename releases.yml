@@ -60444,3 +60444,12 @@
     link: 'https://pub.dartlang.org/packages/flutter_gallery_assets'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: omnitest
+    package_version: v0.2.3
+    title: 'v0.2.3 of omnitest'
+    published: '2016-04-20T21:11:32+00:00'
+    id: 'urn:uuid:a74ffa21-1e69-5927-a1d5-0bd2307317c4'
+    link: 'https://pub.dartlang.org/packages/omnitest'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
