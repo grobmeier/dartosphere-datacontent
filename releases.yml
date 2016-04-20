@@ -60435,3 +60435,12 @@
     link: 'https://pub.dartlang.org/packages/molview_pubchem'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: flutter_gallery_assets
+    package_version: v0.0.16
+    title: 'v0.0.16 of flutter_gallery_assets'
+    published: '2016-04-20T20:56:32+00:00'
+    id: 'urn:uuid:639f63da-68e8-57cd-9720-f528be91f5ca'
+    link: 'https://pub.dartlang.org/packages/flutter_gallery_assets'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
