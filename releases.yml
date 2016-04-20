@@ -60408,3 +60408,21 @@
     link: 'https://pub.dartlang.org/packages/molview_pubchem'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: flutter
+    package_version: v0.0.20
+    title: 'v0.0.20 of flutter'
+    published: '2016-04-20T16:40:20+00:00'
+    id: 'urn:uuid:6d233acb-8d3e-533c-a502-9cda55f623c5'
+    link: 'https://pub.dartlang.org/packages/flutter'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: logging
+    package_version: v0.11.3
+    title: 'v0.11.3 of logging'
+    published: '2016-04-20T16:21:50+00:00'
+    id: 'urn:uuid:e6b2a885-f6aa-5aee-a4ab-c042b1c8b71d'
+    link: 'https://pub.dartlang.org/packages/logging'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
