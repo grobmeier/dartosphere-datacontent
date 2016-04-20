@@ -60426,3 +60426,12 @@
     link: 'https://pub.dartlang.org/packages/logging'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: molview_pubchem
+    package_version: v0.1.1+1
+    title: 'v0.1.1+1 of molview_pubchem'
+    published: '2016-04-20T17:52:55+00:00'
+    id: 'urn:uuid:835e75e3-2a46-56b0-a5f5-a8949bf66579'
+    link: 'https://pub.dartlang.org/packages/molview_pubchem'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
