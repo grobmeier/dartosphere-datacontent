@@ -60471,3 +60471,12 @@
     link: 'https://pub.dartlang.org/packages/startr'
     author:
         - 'Damon Douglas <douglas.damon@gmail.com>'
+-
+    package_name: startr
+    package_version: v0.0.2
+    title: 'v0.0.2 of startr'
+    published: '2016-04-21T05:40:02+00:00'
+    id: 'urn:uuid:d15620e5-9a32-506d-b7d5-df6a565e101e'
+    link: 'https://pub.dartlang.org/packages/startr'
+    author:
+        - 'Damon Douglas <douglas.damon@gmail.com>'
