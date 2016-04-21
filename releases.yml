@@ -60489,3 +60489,12 @@
     link: 'https://pub.dartlang.org/packages/csslib'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: fixnum
+    package_version: v0.10.4
+    title: 'v0.10.4 of fixnum'
+    published: '2016-04-21T17:17:56+00:00'
+    id: 'urn:uuid:93a7ad38-ea75-5389-9113-baad53a4e332'
+    link: 'https://pub.dartlang.org/packages/fixnum'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
