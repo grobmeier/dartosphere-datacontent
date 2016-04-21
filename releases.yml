@@ -60534,3 +60534,12 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_static
+    package_version: v1.0.0-beta
+    title: 'v1.0.0-beta of angel_static'
+    published: '2016-04-21T21:35:20+00:00'
+    id: 'urn:uuid:cc4c9a9f-2131-578d-95f9-977489815b80'
+    link: 'https://pub.dartlang.org/packages/angel_static'
+    author:
+        - 'thosakwe <thosakwe@gmail.com>'
