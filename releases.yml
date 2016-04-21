@@ -60543,3 +60543,21 @@
     link: 'https://pub.dartlang.org/packages/angel_static'
     author:
         - 'thosakwe <thosakwe@gmail.com>'
+-
+    package_name: angel_static
+    package_version: v1.0.0-beta.1
+    title: 'v1.0.0-beta.1 of angel_static'
+    published: '2016-04-21T22:47:45+00:00'
+    id: 'urn:uuid:e4f1f2d8-aea0-5a36-a56d-1e214c9e901c'
+    link: 'https://pub.dartlang.org/packages/angel_static'
+    author:
+        - 'thosakwe <thosakwe@gmail.com>'
+-
+    package_name: html
+    package_version: v0.12.2+2
+    title: 'v0.12.2+2 of html'
+    published: '2016-04-21T22:26:01+00:00'
+    id: 'urn:uuid:abc2839e-1cf8-56fe-896a-28b4f09e8668'
+    link: 'https://pub.dartlang.org/packages/html'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
