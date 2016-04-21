@@ -60507,3 +60507,12 @@
     link: 'https://pub.dartlang.org/packages/csslib'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dart_amqp
+    package_version: v0.0.5
+    title: 'v0.0.5 of dart_amqp'
+    published: '2016-04-21T19:08:45+00:00'
+    id: 'urn:uuid:09f19d3b-b53b-59ba-9597-232fc6939499'
+    link: 'https://pub.dartlang.org/packages/dart_amqp'
+    author:
+        - 'Achilleas Anagnostopoulos'
