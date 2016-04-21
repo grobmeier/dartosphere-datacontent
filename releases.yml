@@ -60516,3 +60516,21 @@
     link: 'https://pub.dartlang.org/packages/dart_amqp'
     author:
         - 'Achilleas Anagnostopoulos'
+-
+    package_name: crypto
+    package_version: v1.1.1
+    title: 'v1.1.1 of crypto'
+    published: '2016-04-21T20:41:01+00:00'
+    id: 'urn:uuid:39535b9f-b6be-5a49-acc2-8ee7db66ee94'
+    link: 'https://pub.dartlang.org/packages/crypto'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angel_framework
+    package_version: v0.0.0-dev
+    title: 'v0.0.0-dev of angel_framework'
+    published: '2016-04-21T20:38:18+00:00'
+    id: 'urn:uuid:529da372-0191-516b-bdd3-cc9645a0c48c'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
