@@ -60588,3 +60588,21 @@
     link: 'https://pub.dartlang.org/packages/safe_config'
     author:
         - 'Joe Conway <joe.conway@stablekernel.com>'
+-
+    package_name: angel_framework
+    package_version: v0.0.0-dev.3
+    title: 'v0.0.0-dev.3 of angel_framework'
+    published: '2016-04-22T01:44:47+00:00'
+    id: 'urn:uuid:5703ab82-c4f4-54eb-b167-1815ef4ba515'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_configuration
+    package_version: v1.0.0-dev
+    title: 'v1.0.0-dev of angel_configuration'
+    published: '2016-04-22T01:21:17+00:00'
+    id: 'urn:uuid:429f7b84-b050-5200-8e07-fc277a8af413'
+    link: 'https://pub.dartlang.org/packages/angel_configuration'
+    author:
+        - 'thosakwe <thosakwe@gmail.com>'
