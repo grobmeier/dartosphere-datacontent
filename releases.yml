@@ -60678,3 +60678,12 @@
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
         - 'Sean Eagan <seaneagan1@gmail.com>'
         - 'Victor Berchet <victor@suumit.com>'
+-
+    package_name: convert
+    package_version: v1.1.0
+    title: 'v1.1.0 of convert'
+    published: '2016-04-22T21:20:44+00:00'
+    id: 'urn:uuid:3195ee6e-0ac4-5688-943b-e56c198a8871'
+    link: 'https://pub.dartlang.org/packages/convert'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
