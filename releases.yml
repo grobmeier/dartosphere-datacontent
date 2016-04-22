@@ -60651,3 +60651,30 @@
     link: 'https://pub.dartlang.org/packages/tuneup'
     author:
         - 'Devon Carew <devoncarew@google.com>'
+-
+    package_name: protobuf
+    package_version: v0.5.1+2
+    title: 'v0.5.1+2 of protobuf'
+    published: '2016-04-22T18:53:19+00:00'
+    id: 'urn:uuid:75618943-90f0-57d1-859f-1c3faf01a0b7'
+    link: 'https://pub.dartlang.org/packages/protobuf'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: quiver
+    package_version: v0.22.0
+    title: 'v0.22.0 of quiver'
+    published: '2016-04-22T18:22:04+00:00'
+    id: 'urn:uuid:137c2d64-8999-5b0c-85f9-74eb3bc27e50'
+    link: 'https://pub.dartlang.org/packages/quiver'
+    author:
+        - 'Justin Fagnani <justinfagnani@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Chris Bracken <cbracken@google.com>'
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+        - 'David Morgan <davidmorgan@google.com>'
+        - 'John McDole <codefu@google.com>'
+        - 'Matan Lurey <matanl@google.com>'
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+        - 'Sean Eagan <seaneagan1@gmail.com>'
+        - 'Victor Berchet <victor@suumit.com>'
