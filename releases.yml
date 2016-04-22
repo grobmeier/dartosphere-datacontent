@@ -60579,3 +60579,12 @@
     link: 'https://pub.dartlang.org/packages/dart_jwt'
     author:
         - 'Anders Holmgren<aholmgren@atlassian.com>'
+-
+    package_name: safe_config
+    package_version: v1.0.2
+    title: 'v1.0.2 of safe_config'
+    published: '2016-04-22T00:02:57+00:00'
+    id: 'urn:uuid:4b934c53-8e29-5e3e-b014-0fe7f7cbb59e'
+    link: 'https://pub.dartlang.org/packages/safe_config'
+    author:
+        - 'Joe Conway <joe.conway@stablekernel.com>'
