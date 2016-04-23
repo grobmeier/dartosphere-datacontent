@@ -60696,3 +60696,12 @@
     link: 'https://pub.dartlang.org/packages/woomera'
     author:
         - 'Hoylen Sue <hoylen@hoylen.com>'
+-
+    package_name: option
+    package_version: v1.2.0
+    title: 'v1.2.0 of option'
+    published: '2016-04-23T17:38:25+00:00'
+    id: 'urn:uuid:ac5dada1-14d8-556d-be23-4aaaa2441729'
+    link: 'https://pub.dartlang.org/packages/option'
+    author:
+        - 'Joseph Moniz <joseph.moniz@gmail.com>'
