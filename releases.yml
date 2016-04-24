@@ -60717,3 +60717,13 @@
         - 'Rick Zhou <z.zhou@dglogik.com>'
         - 'Michael Bullington <m.bullington@dglogik.com>'
         - 'Matthew Butler <m.butler@dglogik.com>'
+-
+    package_name: taiga_api
+    package_version: v0.0.1
+    title: 'v0.0.1 of taiga_api'
+    published: '2016-04-24T18:27:24+00:00'
+    id: 'urn:uuid:1badb330-6e76-5645-91f1-658308a6fd07'
+    link: 'https://pub.dartlang.org/packages/taiga_api'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+        - 'Antoine Guittet <antoine.epitech@gmail.com>'
