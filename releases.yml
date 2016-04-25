@@ -60755,3 +60755,13 @@
     link: 'https://pub.dartlang.org/packages/googleapis_beta'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: bwu_log
+    package_version: v0.1.2
+    title: 'v0.1.2 of bwu_log'
+    published: '2016-04-25T11:17:16+00:00'
+    id: 'urn:uuid:7efdf1d9-f01e-5b89-9a83-ec6b42cdad68'
+    link: 'https://pub.dartlang.org/packages/bwu_log'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+        - 'Adam Bender <bendera@google.com>'
