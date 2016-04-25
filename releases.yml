@@ -60737,3 +60737,21 @@
     author:
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
         - 'Adam Bender <bendera@google.com>'
+-
+    package_name: googleapis
+    package_version: v0.26.0
+    title: 'v0.26.0 of googleapis'
+    published: '2016-04-25T08:51:11+00:00'
+    id: 'urn:uuid:7821d62c-2087-5aa6-9ee1-b02b692c52b4'
+    link: 'https://pub.dartlang.org/packages/googleapis'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: googleapis_beta
+    package_version: v0.26.0
+    title: 'v0.26.0 of googleapis_beta'
+    published: '2016-04-25T08:51:01+00:00'
+    id: 'urn:uuid:7c988b32-936f-5801-a7df-5346cca017e6'
+    link: 'https://pub.dartlang.org/packages/googleapis_beta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
