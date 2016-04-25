@@ -60727,3 +60727,13 @@
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
         - 'Antoine Guittet <antoine.epitech@gmail.com>'
+-
+    package_name: bwu_log
+    package_version: v0.1.1
+    title: 'v0.1.1 of bwu_log'
+    published: '2016-04-25T06:58:58+00:00'
+    id: 'urn:uuid:caa45c07-be43-52f5-81ba-66304ece61e0'
+    link: 'https://pub.dartlang.org/packages/bwu_log'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+        - 'Adam Bender <bendera@google.com>'
