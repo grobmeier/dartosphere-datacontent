@@ -60765,3 +60765,12 @@
     author:
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
         - 'Adam Bender <bendera@google.com>'
+-
+    package_name: vector_math
+    package_version: v2.0.1
+    title: 'v2.0.1 of vector_math'
+    published: '2016-04-25T20:08:01+00:00'
+    id: 'urn:uuid:fe4ddf6c-1eb9-50ae-9aea-8bdc29c8be28'
+    link: 'https://pub.dartlang.org/packages/vector_math'
+    author:
+        - 'John McCutchan <john@johnmccutchan.com>'
