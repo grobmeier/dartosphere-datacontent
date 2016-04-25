@@ -60792,3 +60792,12 @@
     link: 'https://pub.dartlang.org/packages/chartjs'
     author:
         - 'Kevin Moore <kevmoo+github@google.com>'
+-
+    package_name: usage
+    package_version: v2.1.0
+    title: 'v2.1.0 of usage'
+    published: '2016-04-25T23:27:07+00:00'
+    id: 'urn:uuid:67ac4dcc-fc0f-5111-a95b-2366a2d7053c'
+    link: 'https://pub.dartlang.org/packages/usage'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
