@@ -60783,3 +60783,12 @@
     link: 'https://pub.dartlang.org/packages/http'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: chartjs
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of chartjs'
+    published: '2016-04-25T22:03:36+00:00'
+    id: 'urn:uuid:9072e7c3-6e70-579c-8924-8c05e3efa2e5'
+    link: 'https://pub.dartlang.org/packages/chartjs'
+    author:
+        - 'Kevin Moore <kevmoo+github@google.com>'
