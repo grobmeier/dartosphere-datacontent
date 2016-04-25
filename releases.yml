@@ -60774,3 +60774,12 @@
     link: 'https://pub.dartlang.org/packages/vector_math'
     author:
         - 'John McCutchan <john@johnmccutchan.com>'
+-
+    package_name: http
+    package_version: v0.11.3+4
+    title: 'v0.11.3+4 of http'
+    published: '2016-04-25T21:37:37+00:00'
+    id: 'urn:uuid:6ea44a3c-2a44-5a9f-bfab-30a0f8973942'
+    link: 'https://pub.dartlang.org/packages/http'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
