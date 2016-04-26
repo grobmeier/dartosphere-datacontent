@@ -60900,3 +60900,12 @@
     link: 'https://pub.dartlang.org/packages/mutator'
     author:
         - 'Tasty Dart <tastydart@gmail.com>'
+-
+    package_name: discoveryapis_generator
+    package_version: v0.8.0+1
+    title: 'v0.8.0+1 of discoveryapis_generator'
+    published: '2016-04-26T16:24:01+00:00'
+    id: 'urn:uuid:b496a8d7-51ee-5906-97bf-ca5441347dd8'
+    link: 'https://pub.dartlang.org/packages/discoveryapis_generator'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
