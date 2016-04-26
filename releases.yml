@@ -60801,3 +60801,93 @@
     link: 'https://pub.dartlang.org/packages/usage'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angular2_testing
+    package_version: v2.0.0-beta.16
+    title: 'v2.0.0-beta.16 of angular2_testing'
+    published: '2016-04-26T05:28:33+00:00'
+    id: 'urn:uuid:93151bec-f62b-50ea-9d90-8e4372f2b675'
+    link: 'https://pub.dartlang.org/packages/angular2_testing'
+    author:
+        - 'Alex Eagle <alexeagle@google.com>'
+        - 'Chirayu Krishnappa <chirayu@google.com>'
+        - 'Jeff Cross <crossj@google.com>'
+        - 'Matias Niemela <matsko@google.com>'
+        - 'Misko Hevery <misko@google.com>'
+        - 'Rado Kirov <radokirov@google.com>'
+        - 'Tobias Bosch <tbosch@google.com>'
+        - 'Victor Savkin <vsavkin@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: angular2_benchmarks
+    package_version: v2.0.0-beta.16
+    title: 'v2.0.0-beta.16 of angular2_benchmarks'
+    published: '2016-04-26T05:28:30+00:00'
+    id: 'urn:uuid:f63d03e7-f14c-516d-a45f-f0ac7cb14888'
+    link: 'https://pub.dartlang.org/packages/angular2_benchmarks'
+    author:
+        - 'Alex Eagle <alexeagle@google.com>'
+        - 'Chirayu Krishnappa <chirayu@google.com>'
+        - 'Jeff Cross <crossj@google.com>'
+        - 'Matias Niemela <matsko@google.com>'
+        - 'Misko Hevery <misko@google.com>'
+        - 'Rado Kirov <radokirov@google.com>'
+        - 'Tobias Bosch <tbosch@google.com>'
+        - 'Victor Savkin <vsavkin@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: benchpress
+    package_version: v2.0.0-beta.16
+    title: 'v2.0.0-beta.16 of benchpress'
+    published: '2016-04-26T05:28:27+00:00'
+    id: 'urn:uuid:abbb273d-51e3-5b85-bf2e-b55dc22737ed'
+    link: 'https://pub.dartlang.org/packages/benchpress'
+    author:
+        - 'Alex Eagle <alexeagle@google.com>'
+        - 'Chirayu Krishnappa <chirayu@google.com>'
+        - 'Jeff Cross <crossj@google.com>'
+        - 'Matias Niemela <matsko@google.com>'
+        - 'Misko Hevery <misko@google.com>'
+        - 'Rado Kirov <radokirov@google.com>'
+        - 'Tobias Bosch <tbosch@google.com>'
+        - 'Victor Savkin <vsavkin@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: angular2
+    package_version: v2.0.0-beta.16
+    title: 'v2.0.0-beta.16 of angular2'
+    published: '2016-04-26T05:28:23+00:00'
+    id: 'urn:uuid:ca5a47f2-50c3-5f6d-bc70-a292b065dbf6'
+    link: 'https://pub.dartlang.org/packages/angular2'
+    author:
+        - 'Alex Eagle <alexeagle@google.com>'
+        - 'Chirayu Krishnappa <chirayu@google.com>'
+        - 'Jeff Cross <crossj@google.com>'
+        - 'Matias Niemela <matsko@google.com>'
+        - 'Misko Hevery <misko@google.com>'
+        - 'Rado Kirov <radokirov@google.com>'
+        - 'Tobias Bosch <tbosch@google.com>'
+        - 'Victor Savkin <vsavkin@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: usage
+    package_version: v2.2.0
+    title: 'v2.2.0 of usage'
+    published: '2016-04-26T05:23:47+00:00'
+    id: 'urn:uuid:cbb91dcc-9693-511c-bb09-e8ee194f6e1e'
+    link: 'https://pub.dartlang.org/packages/usage'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: coffee_http
+    package_version: v0.1.0
+    title: 'v0.1.0 of coffee_http'
+    published: '2016-04-26T05:18:21+00:00'
+    id: 'urn:uuid:d7edf2e7-46c1-5fc0-b039-de46aab8d00b'
+    link: 'https://pub.dartlang.org/packages/coffee_http'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
