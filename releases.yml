@@ -60949,3 +60949,12 @@
     link: 'https://pub.dartlang.org/packages/coffee_http'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: http
+    package_version: v0.11.3+5
+    title: 'v0.11.3+5 of http'
+    published: '2016-04-26T22:52:28+00:00'
+    id: 'urn:uuid:d29bdad3-0197-5f67-b03e-375567147127'
+    link: 'https://pub.dartlang.org/packages/http'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
