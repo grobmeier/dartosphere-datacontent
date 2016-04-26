@@ -60891,3 +60891,12 @@
     link: 'https://pub.dartlang.org/packages/coffee_http'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: mutator
+    package_version: v0.0.3
+    title: 'v0.0.3 of mutator'
+    published: '2016-04-26T09:45:29+00:00'
+    id: 'urn:uuid:c69c593f-cb9c-5d7c-8ad0-fd80067e1fd7'
+    link: 'https://pub.dartlang.org/packages/mutator'
+    author:
+        - 'Tasty Dart <tastydart@gmail.com>'
