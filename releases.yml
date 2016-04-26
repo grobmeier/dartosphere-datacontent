@@ -60940,3 +60940,12 @@
     link: 'https://pub.dartlang.org/packages/compiler_unsupported'
     author:
         - 'Dart2js Team <compiler-dev@dartlang.org>'
+-
+    package_name: coffee_http
+    package_version: v0.2.0
+    title: 'v0.2.0 of coffee_http'
+    published: '2016-04-26T20:02:55+00:00'
+    id: 'urn:uuid:d670dc8a-989e-52bc-b7bd-beced1b1ed50'
+    link: 'https://pub.dartlang.org/packages/coffee_http'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
