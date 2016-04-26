@@ -60909,3 +60909,25 @@
     link: 'https://pub.dartlang.org/packages/discoveryapis_generator'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: sqlite
+    package_version: v0.4.0
+    title: 'v0.4.0 of sqlite'
+    published: '2016-04-26T17:56:40+00:00'
+    id: 'urn:uuid:5111478b-4405-564f-91db-095de446074a'
+    link: 'https://pub.dartlang.org/packages/sqlite'
+    author:
+        - 'Sam McCall'
+        - 'P.Y. Laligand'
+-
+    package_name: xcvbnm
+    package_version: v0.5.3
+    title: 'v0.5.3 of xcvbnm'
+    published: '2016-04-26T17:09:19+00:00'
+    id: 'urn:uuid:d0396f00-efa5-5b29-ae3f-87dcc3a7227b'
+    link: 'https://pub.dartlang.org/packages/xcvbnm'
+    author:
+        - 'Werner Gaisbauer <werner.gaisbauer@exitlive.io>'
+        - 'Alex Tekartik <alex@tekartik.com>'
+        - 'Matias Meno <matias.meno@exitlive.io>'
+        - 'Martin Flucka <martin.flucka@gmail.com>'
