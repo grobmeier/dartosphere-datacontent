@@ -61025,3 +61025,14 @@
         - 'Simon Pai <simonpai@rikulo.org>'
         - 'Jimmy Shiau <jimmyshiau@rikulo.org>'
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: dquery
+    package_version: v0.8.3
+    title: 'v0.8.3 of dquery'
+    published: '2016-04-27T05:46:24+00:00'
+    id: 'urn:uuid:42107930-53fc-5d21-8dee-dda95dbe7f71'
+    link: 'https://pub.dartlang.org/packages/dquery'
+    author:
+        - 'Simon Pai <simonpai@rikulo.org>'
+        - 'Jimmy Shiau <jimmyshiau@rikulo.org>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
