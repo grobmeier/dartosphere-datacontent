@@ -61056,3 +61056,12 @@
     link: 'https://pub.dartlang.org/packages/syncbase'
     author:
         - 'Vanadium Authors'
+-
+    package_name: omnitest
+    package_version: v0.2.4
+    title: 'v0.2.4 of omnitest'
+    published: '2016-04-27T10:01:14+00:00'
+    id: 'urn:uuid:f4c35e45-7603-5266-b709-8a01dd4c95aa'
+    link: 'https://pub.dartlang.org/packages/omnitest'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
