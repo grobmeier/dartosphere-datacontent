@@ -61092,3 +61092,32 @@
     link: 'https://pub.dartlang.org/packages/slickdart'
     author:
         - 'CJKAO <kaopeter@gmail.com>, tonosama-atlacatl'
+-
+    package_name: react
+    package_version: v1.1.1
+    title: 'v1.1.1 of react'
+    published: '2016-04-27T16:52:22+00:00'
+    id: 'urn:uuid:a4c7753b-1d3a-55f8-8934-72f88b54a954'
+    link: 'https://pub.dartlang.org/packages/react'
+    author:
+        - 'Clean Team <clean@vacuumlabs.com>'
+-
+    package_name: stagexl
+    package_version: v0.13.7
+    title: 'v0.13.7 of stagexl'
+    published: '2016-04-27T16:45:31+00:00'
+    id: 'urn:uuid:77886312-3449-5638-9b40-dba139ba1f58'
+    link: 'https://pub.dartlang.org/packages/stagexl'
+    author:
+        - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: stagehand
+    package_version: v1.0.7
+    title: 'v1.0.7 of stagehand'
+    published: '2016-04-27T16:06:51+00:00'
+    id: 'urn:uuid:88f5eb61-41e6-5b4f-baa9-bbece56ec333'
+    link: 'https://pub.dartlang.org/packages/stagehand'
+    author:
+        - 'Seth Ladd <sethladd@google.com>'
+        - 'Devon Carew <devoncarew@google.com>'
+        - 'Kathy Walrath <kathyw@google.com>'
