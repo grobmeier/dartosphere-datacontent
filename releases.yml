@@ -61134,3 +61134,12 @@
         - 'Anting Shen <shenantingtt@gmail.com>'
         - 'Misko Hevery <misko@hevery.com>'
         - 'Victor Berchet <victor@suumit.com>'
+-
+    package_name: omnibuild
+    package_version: v0.5.2
+    title: 'v0.5.2 of omnibuild'
+    published: '2016-04-27T20:08:45+00:00'
+    id: 'urn:uuid:11750b72-413f-5115-b7cc-0c200f4c91d1'
+    link: 'https://pub.dartlang.org/packages/omnibuild'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
