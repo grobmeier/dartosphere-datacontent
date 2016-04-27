@@ -61047,3 +61047,12 @@
         - 'Simon Pai <simonpai@rikulo.org>'
         - 'Jimmy Shiau <jimmyshiau@rikulo.org>'
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: syncbase
+    package_version: v0.0.40
+    title: 'v0.0.40 of syncbase'
+    published: '2016-04-27T07:52:23+00:00'
+    id: 'urn:uuid:8d3e70d6-bb99-5e88-bc99-f8443693839b'
+    link: 'https://pub.dartlang.org/packages/syncbase'
+    author:
+        - 'Vanadium Authors'
