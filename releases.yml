@@ -61083,3 +61083,12 @@
     link: 'https://pub.dartlang.org/packages/omnitest'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: slickdart
+    package_version: v0.1.6+2
+    title: 'v0.1.6+2 of slickdart'
+    published: '2016-04-27T14:38:43+00:00'
+    id: 'urn:uuid:4d84cb80-24aa-51ba-99fd-a70d66211641'
+    link: 'https://pub.dartlang.org/packages/slickdart'
+    author:
+        - 'CJKAO <kaopeter@gmail.com>, tonosama-atlacatl'
