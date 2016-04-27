@@ -61121,3 +61121,16 @@
         - 'Seth Ladd <sethladd@google.com>'
         - 'Devon Carew <devoncarew@google.com>'
         - 'Kathy Walrath <kathyw@google.com>'
+-
+    package_name: di
+    package_version: v3.3.9
+    title: 'v3.3.9 of di'
+    published: '2016-04-27T18:13:23+00:00'
+    id: 'urn:uuid:23be4f9f-a09c-5ea6-bec6-e3e2f2d68906'
+    link: 'https://pub.dartlang.org/packages/di'
+    author:
+        - 'Vojta Jina <vojta.jina@gmail.com>'
+        - 'Pavel Jbanov <pavelgj@gmail.com>'
+        - 'Anting Shen <shenantingtt@gmail.com>'
+        - 'Misko Hevery <misko@hevery.com>'
+        - 'Victor Berchet <victor@suumit.com>'
