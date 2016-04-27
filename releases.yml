@@ -61003,3 +61003,25 @@
     link: 'https://pub.dartlang.org/packages/test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: bootjack
+    package_version: v0.6.5+5
+    title: 'v0.6.5+5 of bootjack'
+    published: '2016-04-27T04:53:05+00:00'
+    id: 'urn:uuid:fa0f1002-6569-5418-b0e8-a46edf474cbb'
+    link: 'https://pub.dartlang.org/packages/bootjack'
+    author:
+        - 'Simon Pai <simonpai@rikulo.org>'
+        - 'Jimmy Shiau <jimmyshiau@potix.com>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: dquery
+    package_version: v0.8.2
+    title: 'v0.8.2 of dquery'
+    published: '2016-04-27T04:42:10+00:00'
+    id: 'urn:uuid:118a220b-8eee-5f71-8d86-161b02286cbd'
+    link: 'https://pub.dartlang.org/packages/dquery'
+    author:
+        - 'Simon Pai <simonpai@rikulo.org>'
+        - 'Jimmy Shiau <jimmyshiau@rikulo.org>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
