@@ -61143,3 +61143,12 @@
     link: 'https://pub.dartlang.org/packages/omnibuild'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: woomera
+    package_version: v1.0.1
+    title: 'v1.0.1 of woomera'
+    published: '2016-04-28T04:13:02+00:00'
+    id: 'urn:uuid:4a1fd29a-c1c1-5871-b6f8-1db62c9c4115'
+    link: 'https://pub.dartlang.org/packages/woomera'
+    author:
+        - 'Hoylen Sue <hoylen@hoylen.com>'
