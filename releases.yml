@@ -61172,3 +61172,23 @@
         - 'Simon Pai <simonpai@rikulo.org>'
         - 'Jimmy Shiau <jimmyshiau@rikulo.org>'
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: dquery
+    package_version: v0.8.4+1
+    title: 'v0.8.4+1 of dquery'
+    published: '2016-04-28T07:49:19+00:00'
+    id: 'urn:uuid:e218d33c-faf1-5f45-850b-fe0b44ed9534'
+    link: 'https://pub.dartlang.org/packages/dquery'
+    author:
+        - 'Simon Pai <simonpai@rikulo.org>'
+        - 'Jimmy Shiau <jimmyshiau@rikulo.org>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: mistletoe
+    package_version: v1.0.1
+    title: 'v1.0.1 of mistletoe'
+    published: '2016-04-28T07:14:57+00:00'
+    id: 'urn:uuid:c5f80075-90e7-5016-b7bb-db8f793bdab8'
+    link: 'https://pub.dartlang.org/packages/mistletoe'
+    author:
+        - 'Hiroyuki Notomi <tastydart@gmail.com>'
