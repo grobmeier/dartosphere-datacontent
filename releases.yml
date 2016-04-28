@@ -61291,3 +61291,45 @@
         - 'Victor Savkin <vsavkin@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Jeremy Elbourn <jelbourn@google.com>'
+-
+    package_name: omnibuild
+    package_version: v0.5.2+1
+    title: 'v0.5.2+1 of omnibuild'
+    published: '2016-04-28T20:46:59+00:00'
+    id: 'urn:uuid:5302ece7-0575-5a17-8db6-b14f2dc479bf'
+    link: 'https://pub.dartlang.org/packages/omnibuild'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: omnibus
+    package_version: v0.15.0
+    title: 'v0.15.0 of omnibus'
+    published: '2016-04-28T20:44:59+00:00'
+    id: 'urn:uuid:15ab6a40-efa9-5dad-a347-97bf64f2ab57'
+    link: 'https://pub.dartlang.org/packages/omnibus'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: google_oauth2_client
+    package_version: v0.4.2
+    title: 'v0.4.2 of google_oauth2_client'
+    published: '2016-04-28T20:29:13+00:00'
+    id: 'urn:uuid:117abe1a-5fff-5766-98b3-4b3c4b628e68'
+    link: 'https://pub.dartlang.org/packages/google_oauth2_client'
+    author:
+        - 'Gerwin Sturm <scarygami@gmail.com>'
+        - 'Adam Singer <financeCoding@gmail.com>'
+        - 'Kevin Moore <kevmoo@google.com>'
+-
+    package_name: di
+    package_version: v3.3.10
+    title: 'v3.3.10 of di'
+    published: '2016-04-28T20:27:00+00:00'
+    id: 'urn:uuid:f3f84e44-06b8-5341-8f78-1e1a0764b540'
+    link: 'https://pub.dartlang.org/packages/di'
+    author:
+        - 'Vojta Jina <vojta.jina@gmail.com>'
+        - 'Pavel Jbanov <pavelgj@gmail.com>'
+        - 'Anting Shen <shenantingtt@gmail.com>'
+        - 'Misko Hevery <misko@hevery.com>'
+        - 'Victor Berchet <victor@suumit.com>'
