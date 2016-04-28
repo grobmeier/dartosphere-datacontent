@@ -61378,3 +61378,12 @@
     link: 'https://pub.dartlang.org/packages/build'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: merge_map
+    package_version: v1.0.0
+    title: 'v1.0.0 of merge_map'
+    published: '2016-04-28T22:53:29+00:00'
+    id: 'urn:uuid:edc626d3-f82d-5370-abfe-8ed09c4b98e3'
+    link: 'https://pub.dartlang.org/packages/merge_map'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
