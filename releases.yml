@@ -61210,3 +61210,12 @@
     link: 'https://pub.dartlang.org/packages/nomirrorsmap'
     author:
         - jrote1<jrote1@me.com>
+-
+    package_name: startr
+    package_version: v0.1.0
+    title: 'v0.1.0 of startr'
+    published: '2016-04-28T18:14:11+00:00'
+    id: 'urn:uuid:6dec92e9-481e-54d5-94a6-7ed898c94f68'
+    link: 'https://pub.dartlang.org/packages/startr'
+    author:
+        - 'Damon Douglas <douglas.damon@gmail.com>'
