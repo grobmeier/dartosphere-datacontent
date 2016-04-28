@@ -61152,3 +61152,23 @@
     link: 'https://pub.dartlang.org/packages/woomera'
     author:
         - 'Hoylen Sue <hoylen@hoylen.com>'
+-
+    package_name: mutator
+    package_version: v0.0.4
+    title: 'v0.0.4 of mutator'
+    published: '2016-04-28T06:56:13+00:00'
+    id: 'urn:uuid:71e5fa1b-bd5f-5430-91fd-dc973fc4e008'
+    link: 'https://pub.dartlang.org/packages/mutator'
+    author:
+        - 'Tasty Dart <tastydart@gmail.com>'
+-
+    package_name: dquery
+    package_version: v0.8.4
+    title: 'v0.8.4 of dquery'
+    published: '2016-04-28T06:32:09+00:00'
+    id: 'urn:uuid:0a3e9ae4-7fef-5939-800e-dc7cd16f14e6'
+    link: 'https://pub.dartlang.org/packages/dquery'
+    author:
+        - 'Simon Pai <simonpai@rikulo.org>'
+        - 'Jimmy Shiau <jimmyshiau@rikulo.org>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
