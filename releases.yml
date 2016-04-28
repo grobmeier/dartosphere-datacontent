@@ -61201,3 +61201,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_app_layout'
     author:
         - 'Mike Hoolehan <mike@hoolehan.com>'
+-
+    package_name: nomirrorsmap
+    package_version: v1.0.24
+    title: 'v1.0.24 of nomirrorsmap'
+    published: '2016-04-28T13:15:36+00:00'
+    id: 'urn:uuid:377a3b51-64e5-575f-9db1-9bf836f827bc'
+    link: 'https://pub.dartlang.org/packages/nomirrorsmap'
+    author:
+        - jrote1<jrote1@me.com>
