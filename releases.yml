@@ -61192,3 +61192,12 @@
     link: 'https://pub.dartlang.org/packages/mistletoe'
     author:
         - 'Hiroyuki Notomi <tastydart@gmail.com>'
+-
+    package_name: polymer_app_layout
+    package_version: v0.0.1
+    title: 'v0.0.1 of polymer_app_layout'
+    published: '2016-04-28T10:06:26+00:00'
+    id: 'urn:uuid:aa5a8940-6c84-59ea-9e5a-1815bbf3240e'
+    link: 'https://pub.dartlang.org/packages/polymer_app_layout'
+    author:
+        - 'Mike Hoolehan <mike@hoolehan.com>'
