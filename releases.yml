@@ -61450,3 +61450,12 @@
     link: 'https://pub.dartlang.org/packages/coffee_http'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: molview_pubchem
+    package_version: v0.1.2
+    title: 'v0.1.2 of molview_pubchem'
+    published: '2016-04-29T19:09:00+00:00'
+    id: 'urn:uuid:72056bbf-bfbe-55fa-a33d-baa5ce26caff'
+    link: 'https://pub.dartlang.org/packages/molview_pubchem'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
