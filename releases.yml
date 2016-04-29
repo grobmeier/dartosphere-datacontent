@@ -61396,3 +61396,12 @@
     link: 'https://pub.dartlang.org/packages/highcharts'
     author:
         - 'Gonzalo Pezzi <gonzalopezzi@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v0.0.0-dev.7
+    title: 'v0.0.0-dev.7 of angel_framework'
+    published: '2016-04-29T00:13:16+00:00'
+    id: 'urn:uuid:5b5e093b-c3d0-58dd-9a11-a00394a8f053'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
