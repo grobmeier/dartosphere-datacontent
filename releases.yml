@@ -61468,3 +61468,12 @@
     link: 'https://pub.dartlang.org/packages/usage'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: linter
+    package_version: v0.1.15
+    title: 'v0.1.15 of linter'
+    published: '2016-04-29T22:25:24+00:00'
+    id: 'urn:uuid:187d912b-c919-53b2-964f-eb3b9c6d2537'
+    link: 'https://pub.dartlang.org/packages/linter'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
