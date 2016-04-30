@@ -61477,3 +61477,12 @@
     link: 'https://pub.dartlang.org/packages/linter'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: butterfly
+    package_version: v0.0.2
+    title: 'v0.0.2 of butterfly'
+    published: '2016-04-30T03:35:01+00:00'
+    id: 'urn:uuid:dbbcd4a4-e6a9-50e2-9ed7-059dabdfc55f'
+    link: 'https://pub.dartlang.org/packages/butterfly'
+    author:
+        - 'Yegor Jbanov <yjbanov@google.com>'
