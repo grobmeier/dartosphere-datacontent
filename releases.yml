@@ -61504,3 +61504,12 @@
     link: 'https://pub.dartlang.org/packages/julian'
     author:
         - 'Christian Stewart'
+-
+    package_name: julian
+    package_version: v0.0.2
+    title: 'v0.0.2 of julian'
+    published: '2016-04-30T15:21:52+00:00'
+    id: 'urn:uuid:688fac82-9467-5645-ac0a-7d7f33983c63'
+    link: 'https://pub.dartlang.org/packages/julian'
+    author:
+        - 'Christian Stewart'
