@@ -61495,3 +61495,12 @@
     link: 'https://pub.dartlang.org/packages/startr'
     author:
         - 'Damon Douglas <douglas.damon@gmail.com>'
+-
+    package_name: julian
+    package_version: v0.0.1
+    title: 'v0.0.1 of julian'
+    published: '2016-04-30T14:04:14+00:00'
+    id: 'urn:uuid:fbd2494e-66fa-586b-bb58-3ea7764417e9'
+    link: 'https://pub.dartlang.org/packages/julian'
+    author:
+        - 'Christian Stewart'
