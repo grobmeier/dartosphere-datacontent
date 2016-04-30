@@ -61486,3 +61486,12 @@
     link: 'https://pub.dartlang.org/packages/butterfly'
     author:
         - 'Yegor Jbanov <yjbanov@google.com>'
+-
+    package_name: startr
+    package_version: v0.1.1
+    title: 'v0.1.1 of startr'
+    published: '2016-04-30T06:45:40+00:00'
+    id: 'urn:uuid:3bf21d3b-e7f6-528b-9153-ac666866ad71'
+    link: 'https://pub.dartlang.org/packages/startr'
+    author:
+        - 'Damon Douglas <douglas.damon@gmail.com>'
