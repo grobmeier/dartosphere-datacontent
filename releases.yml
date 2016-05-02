@@ -61551,3 +61551,12 @@
         - 'Seth Ladd <sethladd@google.com>'
         - 'Devon Carew <devoncarew@google.com>'
         - 'Kathy Walrath <kathyw@google.com>'
+-
+    package_name: polymer_app_layout
+    package_version: v0.0.2
+    title: 'v0.0.2 of polymer_app_layout'
+    published: '2016-05-02T16:45:47+00:00'
+    id: 'urn:uuid:1d3d57af-e452-5a4a-a44b-74b3af04d145'
+    link: 'https://pub.dartlang.org/packages/polymer_app_layout'
+    author:
+        - 'Mike Hoolehan <mike@hoolehan.com>'
