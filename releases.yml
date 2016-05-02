@@ -61531,3 +61531,12 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: js_util
+    package_version: v0.2.0
+    title: 'v0.2.0 of js_util'
+    published: '2016-05-02T09:21:04+00:00'
+    id: 'urn:uuid:5d910d8a-4f0f-540e-89a3-4f430e02c75e'
+    link: 'https://pub.dartlang.org/packages/js_util'
+    author:
+        - 'Fluidic Team <dev@fluidic.io>'
