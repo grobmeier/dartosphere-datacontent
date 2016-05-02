@@ -61578,3 +61578,30 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_configuration
+    package_version: v1.0.0
+    title: 'v1.0.0 of angel_configuration'
+    published: '2016-05-02T23:35:09+00:00'
+    id: 'urn:uuid:cb10346e-eec8-57ca-bb38-40222a32dbdb'
+    link: 'https://pub.dartlang.org/packages/angel_configuration'
+    author:
+        - 'thosakwe <thosakwe@gmail.com>'
+-
+    package_name: angel_mustache
+    package_version: v1.0.1
+    title: 'v1.0.1 of angel_mustache'
+    published: '2016-05-02T23:28:24+00:00'
+    id: 'urn:uuid:22ff4581-5a51-5d39-a926-92fdb2603e32'
+    link: 'https://pub.dartlang.org/packages/angel_mustache'
+    author:
+        - 'thosakwe <thosakwe@gmail.com>'
+-
+    package_name: angel_static
+    package_version: v1.0.0
+    title: 'v1.0.0 of angel_static'
+    published: '2016-05-02T23:10:56+00:00'
+    id: 'urn:uuid:3a0c9c66-f8d4-5b73-be2e-2fc182bcdbff'
+    link: 'https://pub.dartlang.org/packages/angel_static'
+    author:
+        - 'thosakwe <thosakwe@gmail.com>'
