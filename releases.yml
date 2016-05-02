@@ -61560,3 +61560,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_app_layout'
     author:
         - 'Mike Hoolehan <mike@hoolehan.com>'
+-
+    package_name: watcher
+    package_version: v0.9.7+1
+    title: 'v0.9.7+1 of watcher'
+    published: '2016-05-02T21:59:28+00:00'
+    id: 'urn:uuid:c4cd6fdd-b3ac-52fa-85ec-cf44afe7a811'
+    link: 'https://pub.dartlang.org/packages/watcher'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
