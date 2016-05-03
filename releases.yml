@@ -61677,3 +61677,30 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: collection
+    package_version: v1.6.0
+    title: 'v1.6.0 of collection'
+    published: '2016-05-03T17:56:02+00:00'
+    id: 'urn:uuid:d18eb4c1-07a0-53f6-977d-4015fd8cb9b6'
+    link: 'https://pub.dartlang.org/packages/collection'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: quiver_log
+    package_version: v1.0.4
+    title: 'v1.0.4 of quiver_log'
+    published: '2016-05-03T17:34:39+00:00'
+    id: 'urn:uuid:bf39b5da-3384-5605-8878-f6fa64d82229'
+    link: 'https://pub.dartlang.org/packages/quiver_log'
+    author:
+        - 'Adam Bender <bendera@google.com>'
+-
+    package_name: jsproxy
+    package_version: v0.0.6
+    title: 'v0.0.6 of jsproxy'
+    published: '2016-05-03T17:09:06+00:00'
+    id: 'urn:uuid:ffd0e918-fb83-5e4c-8991-c6181c1ff75c'
+    link: 'https://pub.dartlang.org/packages/jsproxy'
+    author:
+        - 'Kun Zhao <kunzhao77@gmail.com>'
