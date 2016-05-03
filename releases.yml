@@ -61641,3 +61641,12 @@
     link: 'https://pub.dartlang.org/packages/rl_matrix'
     author:
         - 'R.S. Schermer <roland0507@gmail.com>'
+-
+    package_name: slickdart
+    package_version: v0.1.7
+    title: 'v0.1.7 of slickdart'
+    published: '2016-05-03T14:44:23+00:00'
+    id: 'urn:uuid:abc3b0da-e398-536a-b0d1-ae9e43eb6128'
+    link: 'https://pub.dartlang.org/packages/slickdart'
+    author:
+        - 'CJKAO <kaopeter@gmail.com>, tonosama-atlacatl'
