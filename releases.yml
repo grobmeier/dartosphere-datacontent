@@ -61713,3 +61713,12 @@
     link: 'https://pub.dartlang.org/packages/vm_service_client'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: watcher
+    package_version: v0.9.7+2
+    title: 'v0.9.7+2 of watcher'
+    published: '2016-05-03T22:30:04+00:00'
+    id: 'urn:uuid:cae08fd6-897b-55c6-a232-0d060fae78d1'
+    link: 'https://pub.dartlang.org/packages/watcher'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
