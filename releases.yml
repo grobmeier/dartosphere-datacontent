@@ -61623,3 +61623,12 @@
     link: 'https://pub.dartlang.org/packages/scheduled_test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: rl_matrix
+    package_version: v0.5.0
+    title: 'v0.5.0 of rl_matrix'
+    published: '2016-05-03T09:52:18+00:00'
+    id: 'urn:uuid:fd7af78a-7af3-56a0-96b2-d8d390713cff'
+    link: 'https://pub.dartlang.org/packages/rl_matrix'
+    author:
+        - 'R.S. Schermer <roland0507@gmail.com>'
