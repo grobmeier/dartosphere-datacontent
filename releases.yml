@@ -61650,3 +61650,21 @@
     link: 'https://pub.dartlang.org/packages/slickdart'
     author:
         - 'CJKAO <kaopeter@gmail.com>, tonosama-atlacatl'
+-
+    package_name: plot_window
+    package_version: v0.0.30
+    title: 'v0.0.30 of plot_window'
+    published: '2016-05-03T15:52:58+00:00'
+    id: 'urn:uuid:8f7ca930-d14c-5d7e-9b6e-46ba0f6bccd6'
+    link: 'https://pub.dartlang.org/packages/plot_window'
+    author:
+        - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: polymer_autonotify
+    package_version: v1.0.0+1
+    title: 'v1.0.0+1 of polymer_autonotify'
+    published: '2016-05-03T15:32:03+00:00'
+    id: 'urn:uuid:c19a34d7-032e-541e-977e-333e50dc8b66'
+    link: 'https://pub.dartlang.org/packages/polymer_autonotify'
+    author:
+        - 'Vittorio Ballestra (Drafintech s.r.l.) <vittorio.ballestra@gmail.com>'
