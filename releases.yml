@@ -61722,3 +61722,12 @@
     link: 'https://pub.dartlang.org/packages/watcher'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: pool
+    package_version: v1.2.4
+    title: 'v1.2.4 of pool'
+    published: '2016-05-03T23:28:03+00:00'
+    id: 'urn:uuid:707f09db-cba5-56ac-bb45-e1af021e2ccd'
+    link: 'https://pub.dartlang.org/packages/pool'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
