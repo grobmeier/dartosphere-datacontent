@@ -61614,3 +61614,12 @@
     link: 'https://pub.dartlang.org/packages/webdriver'
     author:
         - 'Marc Fisher II <fisherii@google.com>'
+-
+    package_name: scheduled_test
+    package_version: v0.12.5+5
+    title: 'v0.12.5+5 of scheduled_test'
+    published: '2016-05-03T01:10:59+00:00'
+    id: 'urn:uuid:90baf978-a2d5-5831-892c-d2dc8b785511'
+    link: 'https://pub.dartlang.org/packages/scheduled_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
