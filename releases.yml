@@ -61668,3 +61668,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_autonotify'
     author:
         - 'Vittorio Ballestra (Drafintech s.r.l.) <vittorio.ballestra@gmail.com>'
+-
+    package_name: dartdoc
+    package_version: v0.9.5
+    title: 'v0.9.5 of dartdoc'
+    published: '2016-05-03T16:04:56+00:00'
+    id: 'urn:uuid:ec80e322-b0f0-5352-855c-040241d09227'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
