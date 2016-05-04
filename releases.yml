@@ -61785,3 +61785,12 @@
     link: 'https://pub.dartlang.org/packages/shellstone'
     author:
         - 'Hugo Armstrong <@lessonteacher>'
+-
+    package_name: metatest
+    package_version: v0.2.2+2
+    title: 'v0.2.2+2 of metatest'
+    published: '2016-05-04T17:55:05+00:00'
+    id: 'urn:uuid:6e77cbbc-6df8-5fde-bb1f-2f13d7662060'
+    link: 'https://pub.dartlang.org/packages/metatest'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
