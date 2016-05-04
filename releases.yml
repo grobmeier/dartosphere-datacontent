@@ -61758,3 +61758,12 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: molviewfmt
+    package_version: v0.2.9
+    title: 'v0.2.9 of molviewfmt'
+    published: '2016-05-04T11:49:15+00:00'
+    id: 'urn:uuid:14fd4450-393b-540f-a252-d0a7092c9111'
+    link: 'https://pub.dartlang.org/packages/molviewfmt'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
