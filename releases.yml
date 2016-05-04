@@ -61749,3 +61749,12 @@
     link: 'https://pub.dartlang.org/packages/http'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angel_framework
+    package_version: v0.0.0-dev.17
+    title: 'v0.0.0-dev.17 of angel_framework'
+    published: '2016-05-04T01:01:17+00:00'
+    id: 'urn:uuid:9f422d0a-ac70-5876-a4ec-0e4738267b4e'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
