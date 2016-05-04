@@ -61767,3 +61767,12 @@
     link: 'https://pub.dartlang.org/packages/molviewfmt'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: shellstone
+    package_version: v0.1.1
+    title: 'v0.1.1 of shellstone'
+    published: '2016-05-04T13:06:52+00:00'
+    id: 'urn:uuid:18968b47-27e2-507e-b716-22ae3bd422de'
+    link: 'https://pub.dartlang.org/packages/shellstone'
+    author:
+        - 'Hugo Armstrong <@lessonteacher>'
