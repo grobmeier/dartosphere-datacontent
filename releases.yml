@@ -61826,3 +61826,12 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: yaml
+    package_version: v2.1.9
+    title: 'v2.1.9 of yaml'
+    published: '2016-05-04T23:53:06+00:00'
+    id: 'urn:uuid:7456d756-64e1-5035-b622-4fcce12ff364'
+    link: 'https://pub.dartlang.org/packages/yaml'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
