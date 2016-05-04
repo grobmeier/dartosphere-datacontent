@@ -61803,3 +61803,12 @@
     link: 'https://pub.dartlang.org/packages/shelf'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: less_dart
+    package_version: v0.3.4
+    title: 'v0.3.4 of less_dart'
+    published: '2016-05-04T20:51:39+00:00'
+    id: 'urn:uuid:00731d94-ba7f-5e30-b147-0493c687a249'
+    link: 'https://pub.dartlang.org/packages/less_dart'
+    author:
+        - 'Adalberto Lacruz <adalberto.lacruz@gmail.com>'
