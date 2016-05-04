@@ -61731,3 +61731,21 @@
     link: 'https://pub.dartlang.org/packages/pool'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angel_framework
+    package_version: v0.0.0-dev.16
+    title: 'v0.0.0-dev.16 of angel_framework'
+    published: '2016-05-04T00:58:16+00:00'
+    id: 'urn:uuid:f80ecc16-5f23-5023-84ef-6744d6b24623'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: http
+    package_version: v0.11.3+6
+    title: 'v0.11.3+6 of http'
+    published: '2016-05-04T00:48:11+00:00'
+    id: 'urn:uuid:9289393b-f2f8-57e6-9316-a3eeea69726a'
+    link: 'https://pub.dartlang.org/packages/http'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
