@@ -61844,3 +61844,21 @@
     link: 'https://pub.dartlang.org/packages/http_parser'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: built_json_generator
+    package_version: v0.0.6
+    title: 'v0.0.6 of built_json_generator'
+    published: '2016-05-05T11:14:48+00:00'
+    id: 'urn:uuid:a2957c7b-6619-5b9b-b356-dc84b4b7a74c'
+    link: 'https://pub.dartlang.org/packages/built_json_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_json
+    package_version: v0.0.6
+    title: 'v0.0.6 of built_json'
+    published: '2016-05-05T11:09:24+00:00'
+    id: 'urn:uuid:67fbec48-8b9c-5985-8c2b-8884c107d91a'
+    link: 'https://pub.dartlang.org/packages/built_json'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
