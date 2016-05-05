@@ -61898,3 +61898,12 @@
     link: 'https://pub.dartlang.org/packages/shelf'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: polymer_app_router
+    package_version: v0.2.4
+    title: 'v0.2.4 of polymer_app_router'
+    published: '2016-05-05T20:56:12+00:00'
+    id: 'urn:uuid:40f1d45c-dbae-58fc-8870-f0b3a11755bf'
+    link: 'https://pub.dartlang.org/packages/polymer_app_router'
+    author:
+        - 'Walletek <hadrien.lejard@gmail.com>'
