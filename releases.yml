@@ -61862,3 +61862,39 @@
     link: 'https://pub.dartlang.org/packages/built_json'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: oauth2
+    package_version: v1.0.2
+    title: 'v1.0.2 of oauth2'
+    published: '2016-05-05T17:27:29+00:00'
+    id: 'urn:uuid:d6ad5c1b-e1de-5511-8f23-4806ae1ab816'
+    link: 'https://pub.dartlang.org/packages/oauth2'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: http
+    package_version: v0.11.3+7
+    title: 'v0.11.3+7 of http'
+    published: '2016-05-05T17:24:33+00:00'
+    id: 'urn:uuid:1fc55c55-df4e-52e9-9acd-9e4c21144bf3'
+    link: 'https://pub.dartlang.org/packages/http'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: shelf_static
+    package_version: v0.2.3+4
+    title: 'v0.2.3+4 of shelf_static'
+    published: '2016-05-05T17:23:22+00:00'
+    id: 'urn:uuid:64961631-709f-58c7-ac43-f80773399d00'
+    link: 'https://pub.dartlang.org/packages/shelf_static'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: shelf
+    package_version: v0.6.5+2
+    title: 'v0.6.5+2 of shelf'
+    published: '2016-05-05T17:21:08+00:00'
+    id: 'urn:uuid:a4a682c1-e532-521f-8fce-d8beb5e2dbd1'
+    link: 'https://pub.dartlang.org/packages/shelf'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
