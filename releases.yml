@@ -61835,3 +61835,12 @@
     link: 'https://pub.dartlang.org/packages/yaml'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: http_parser
+    package_version: v3.0.0
+    title: 'v3.0.0 of http_parser'
+    published: '2016-05-05T00:46:47+00:00'
+    id: 'urn:uuid:8e54e9dd-81c0-5522-9a3e-6ac97914d3c6'
+    link: 'https://pub.dartlang.org/packages/http_parser'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
