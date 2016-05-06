@@ -61925,3 +61925,21 @@
     link: 'https://pub.dartlang.org/packages/woomera'
     author:
         - 'Hoylen Sue <hoylen@hoylen.com>'
+-
+    package_name: mojo_services
+    package_version: v0.4.27
+    title: 'v0.4.27 of mojo_services'
+    published: '2016-05-06T20:52:31+00:00'
+    id: 'urn:uuid:0b051f62-de6a-561b-9c01-8cad60c16ef0'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo
+    package_version: v0.4.20
+    title: 'v0.4.20 of mojo'
+    published: '2016-05-06T20:52:23+00:00'
+    id: 'urn:uuid:864bd0ab-3390-5441-8236-c2f435b4a422'
+    link: 'https://pub.dartlang.org/packages/mojo'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
