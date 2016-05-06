@@ -61916,3 +61916,12 @@
     link: 'https://pub.dartlang.org/packages/args'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: woomera
+    package_version: v1.0.2
+    title: 'v1.0.2 of woomera'
+    published: '2016-05-06T03:43:31+00:00'
+    id: 'urn:uuid:edb27160-ed7c-56bf-baf5-6845be2b9928'
+    link: 'https://pub.dartlang.org/packages/woomera'
+    author:
+        - 'Hoylen Sue <hoylen@hoylen.com>'
