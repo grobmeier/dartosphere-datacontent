@@ -61979,3 +61979,12 @@
     link: 'https://pub.dartlang.org/packages/rl_matrix'
     author:
         - 'R.S. Schermer <roland0507@gmail.com>'
+-
+    package_name: simplegamelib
+    package_version: v0.0.13
+    title: 'v0.0.13 of simplegamelib'
+    published: '2016-05-07T19:53:37+00:00'
+    id: 'urn:uuid:235c65f0-3cc2-54e5-b35a-b154676dfde0'
+    link: 'https://pub.dartlang.org/packages/simplegamelib'
+    author:
+        - 'Davy Mitchell <daftspaniel@gmail.com>'
