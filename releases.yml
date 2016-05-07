@@ -61970,3 +61970,12 @@
     link: 'https://pub.dartlang.org/packages/mojo_sdk'
     author:
         - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: rl_matrix
+    package_version: v0.5.2
+    title: 'v0.5.2 of rl_matrix'
+    published: '2016-05-07T09:03:26+00:00'
+    id: 'urn:uuid:32fd7e2b-f3b5-5a48-ad4e-b82e8eba0f99'
+    link: 'https://pub.dartlang.org/packages/rl_matrix'
+    author:
+        - 'R.S. Schermer <roland0507@gmail.com>'
