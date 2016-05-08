@@ -62033,3 +62033,12 @@
     link: 'https://pub.dartlang.org/packages/molview_messages'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: molview_messages
+    package_version: v0.8.1
+    title: 'v0.8.1 of molview_messages'
+    published: '2016-05-08T20:40:59+00:00'
+    id: 'urn:uuid:ad280ccc-fd4f-53f1-9de9-6adfb38727e5'
+    link: 'https://pub.dartlang.org/packages/molview_messages'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
