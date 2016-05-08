@@ -62015,3 +62015,12 @@
     link: 'https://pub.dartlang.org/packages/molview_messages'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: dartz
+    package_version: v0.1.0
+    title: 'v0.1.0 of dartz'
+    published: '2016-05-08T17:07:29+00:00'
+    id: 'urn:uuid:dc30dcef-e83f-5a4a-990f-7b34bddcd7e5'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
