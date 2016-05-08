@@ -62024,3 +62024,12 @@
     link: 'https://pub.dartlang.org/packages/dartz'
     author:
         - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: molview_messages
+    package_version: v0.7.2
+    title: 'v0.7.2 of molview_messages'
+    published: '2016-05-08T19:15:20+00:00'
+    id: 'urn:uuid:7b314309-0837-57f5-987e-25cb994eb77e'
+    link: 'https://pub.dartlang.org/packages/molview_messages'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
