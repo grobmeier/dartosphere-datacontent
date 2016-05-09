@@ -62042,3 +62042,21 @@
     link: 'https://pub.dartlang.org/packages/molview_messages'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: molview_wikidata
+    package_version: v0.0.2
+    title: 'v0.0.2 of molview_wikidata'
+    published: '2016-05-09T06:13:38+00:00'
+    id: 'urn:uuid:b7ec63b7-6fe4-505e-8c24-1eb3eb94cd3e'
+    link: 'https://pub.dartlang.org/packages/molview_wikidata'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: molview_pubchem
+    package_version: v0.2.0
+    title: 'v0.2.0 of molview_pubchem'
+    published: '2016-05-09T06:08:22+00:00'
+    id: 'urn:uuid:12ad0d72-f8e5-5337-ba59-6ca647e1598a'
+    link: 'https://pub.dartlang.org/packages/molview_pubchem'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
