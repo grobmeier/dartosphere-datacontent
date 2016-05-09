@@ -62060,3 +62060,21 @@
     link: 'https://pub.dartlang.org/packages/molview_pubchem'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: built_json_generator
+    package_version: v0.0.7
+    title: 'v0.0.7 of built_json_generator'
+    published: '2016-05-09T11:41:29+00:00'
+    id: 'urn:uuid:29ebaaae-11b2-585b-b1a6-013d6ee9bc88'
+    link: 'https://pub.dartlang.org/packages/built_json_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_json
+    package_version: v0.0.7
+    title: 'v0.0.7 of built_json'
+    published: '2016-05-09T11:40:54+00:00'
+    id: 'urn:uuid:fc253118-864b-5216-ad0c-9fa84cc13c8f'
+    link: 'https://pub.dartlang.org/packages/built_json'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
