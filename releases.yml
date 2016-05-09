@@ -62160,3 +62160,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_app_layout'
     author:
         - 'Mike Hoolehan <mike@hoolehan.com>'
+-
+    package_name: angel_auth
+    package_version: v1.0.0-dev
+    title: 'v1.0.0-dev of angel_auth'
+    published: '2016-05-09T20:48:22+00:00'
+    id: 'urn:uuid:8c02f0d1-4b5a-56c4-bd27-9a29dd7fa668'
+    link: 'https://pub.dartlang.org/packages/angel_auth'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
