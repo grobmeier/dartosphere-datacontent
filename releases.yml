@@ -62178,3 +62178,12 @@
     link: 'https://pub.dartlang.org/packages/build'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: quiver_log
+    package_version: v1.0.5
+    title: 'v1.0.5 of quiver_log'
+    published: '2016-05-09T23:25:03+00:00'
+    id: 'urn:uuid:fa247749-b625-5a15-b386-2a70e3b248a3'
+    link: 'https://pub.dartlang.org/packages/quiver_log'
+    author:
+        - 'Adam Bender <bendera@google.com>'
