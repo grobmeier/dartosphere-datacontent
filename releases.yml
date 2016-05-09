@@ -62169,3 +62169,12 @@
     link: 'https://pub.dartlang.org/packages/angel_auth'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: build
+    package_version: v0.3.0+2
+    title: 'v0.3.0+2 of build'
+    published: '2016-05-09T21:48:59+00:00'
+    id: 'urn:uuid:37eddb2b-1663-51a1-aacd-488efe77aa87'
+    link: 'https://pub.dartlang.org/packages/build'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
