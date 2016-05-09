@@ -62114,3 +62114,22 @@
     link: 'https://pub.dartlang.org/packages/omnitest'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: typed_data
+    package_version: v1.1.3
+    title: 'v1.1.3 of typed_data'
+    published: '2016-05-09T18:29:50+00:00'
+    id: 'urn:uuid:be67270f-b03e-5dc4-9bf3-38235b8c92f9'
+    link: 'https://pub.dartlang.org/packages/typed_data'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: box2d
+    package_version: v0.3.0
+    title: 'v0.3.0 of box2d'
+    published: '2016-05-09T18:02:31+00:00'
+    id: 'urn:uuid:963e7879-f5ff-58c0-b978-0a63bdc6e9e0'
+    link: 'https://pub.dartlang.org/packages/box2d'
+    author:
+        - 'Kevin Moore <kevmoo@google.com>'
+        - 'Srdjan Mitrovic <srdjan@google.com>'
