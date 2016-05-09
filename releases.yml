@@ -62087,3 +62087,12 @@
     link: 'https://pub.dartlang.org/packages/shellstone'
     author:
         - 'Hugo Armstrong <@lessonteacher>'
+-
+    package_name: plot_window
+    package_version: v0.0.31
+    title: 'v0.0.31 of plot_window'
+    published: '2016-05-09T15:56:33+00:00'
+    id: 'urn:uuid:2a9ffe9a-7d79-574e-83c9-d11d2be98435'
+    link: 'https://pub.dartlang.org/packages/plot_window'
+    author:
+        - 'Edouard Tavinor <edouardtavinor@gmail.com>'
