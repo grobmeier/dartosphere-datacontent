@@ -62133,3 +62133,30 @@
     author:
         - 'Kevin Moore <kevmoo@google.com>'
         - 'Srdjan Mitrovic <srdjan@google.com>'
+-
+    package_name: async
+    package_version: v1.11.0
+    title: 'v1.11.0 of async'
+    published: '2016-05-09T19:32:19+00:00'
+    id: 'urn:uuid:ec049ad6-caef-5bb4-81f5-38885864767e'
+    link: 'https://pub.dartlang.org/packages/async'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: web_socket_channel
+    package_version: v1.0.3
+    title: 'v1.0.3 of web_socket_channel'
+    published: '2016-05-09T19:10:53+00:00'
+    id: 'urn:uuid:f7322d41-8e35-528b-87c9-0aa2e83c4706'
+    link: 'https://pub.dartlang.org/packages/web_socket_channel'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: polymer_app_layout
+    package_version: v0.0.3
+    title: 'v0.0.3 of polymer_app_layout'
+    published: '2016-05-09T19:08:57+00:00'
+    id: 'urn:uuid:f4fe7f9b-708f-53f4-9f17-4bbfc99ca265'
+    link: 'https://pub.dartlang.org/packages/polymer_app_layout'
+    author:
+        - 'Mike Hoolehan <mike@hoolehan.com>'
