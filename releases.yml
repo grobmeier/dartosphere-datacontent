@@ -62227,3 +62227,12 @@
     link: 'https://pub.dartlang.org/packages/julian'
     author:
         - 'Christian Stewart <csstewa@gmail.com>'
+-
+    package_name: syncbase
+    package_version: v0.0.41
+    title: 'v0.0.41 of syncbase'
+    published: '2016-05-10T17:22:45+00:00'
+    id: 'urn:uuid:06138cfa-a309-500b-8e4b-22ef01af2074'
+    link: 'https://pub.dartlang.org/packages/syncbase'
+    author:
+        - 'Vanadium Authors'
