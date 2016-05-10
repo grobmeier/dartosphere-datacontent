@@ -62236,3 +62236,17 @@
     link: 'https://pub.dartlang.org/packages/syncbase'
     author:
         - 'Vanadium Authors'
+-
+    package_name: w_flux
+    package_version: v2.3.0
+    title: 'v2.3.0 of w_flux'
+    published: '2016-05-10T19:30:57+00:00'
+    id: 'urn:uuid:5f21724e-eb8d-5531-8d85-3e85a6c07228'
+    link: 'https://pub.dartlang.org/packages/w_flux'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
