@@ -62187,3 +62187,14 @@
     link: 'https://pub.dartlang.org/packages/quiver_log'
     author:
         - 'Adam Bender <bendera@google.com>'
+-
+    package_name: legit
+    package_version: v0.1.0
+    title: 'v0.1.0 of legit'
+    published: '2016-05-10T04:25:35+00:00'
+    id: 'urn:uuid:673f9ed1-f70e-5eca-a8f2-36a94fb34394'
+    link: 'https://pub.dartlang.org/packages/legit'
+    author:
+        - 'Kenneth Endfinger <kaendfinger@gmail.com>'
+        - 'samrg472 <samrg472@gmail.com>'
+        - 'TheMike <zeusintraining@gmail.com>'
