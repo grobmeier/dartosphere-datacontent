@@ -62198,3 +62198,32 @@
         - 'Kenneth Endfinger <kaendfinger@gmail.com>'
         - 'samrg472 <samrg472@gmail.com>'
         - 'TheMike <zeusintraining@gmail.com>'
+-
+    package_name: charted
+    package_version: v0.4.0
+    title: 'v0.4.0 of charted'
+    published: '2016-05-10T16:59:36+00:00'
+    id: 'urn:uuid:ed0e2015-a5d4-5a96-84c9-3e7161af5552'
+    link: 'https://pub.dartlang.org/packages/charted'
+    author:
+        - 'Prasad Sunkari <prsd@google.com>'
+        - 'Michael Cheng <midoringo@google.com>'
+        - 'Yan Qiao <yqiao@google.com>'
+-
+    package_name: plugin
+    package_version: v0.2.0
+    title: 'v0.2.0 of plugin'
+    published: '2016-05-10T16:15:24+00:00'
+    id: 'urn:uuid:d1054f65-682f-5a78-958e-2296f0d015bf'
+    link: 'https://pub.dartlang.org/packages/plugin'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: julian
+    package_version: v0.1.0
+    title: 'v0.1.0 of julian'
+    published: '2016-05-10T16:09:29+00:00'
+    id: 'urn:uuid:7372ce9f-ebca-58cd-aa87-179e745f0cb3'
+    link: 'https://pub.dartlang.org/packages/julian'
+    author:
+        - 'Christian Stewart <csstewa@gmail.com>'
