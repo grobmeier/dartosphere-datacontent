@@ -62288,3 +62288,30 @@
     link: 'https://pub.dartlang.org/packages/stream_channel'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: json_god
+    package_version: v1.0.1
+    title: 'v1.0.1 of json_god'
+    published: '2016-05-10T23:28:53+00:00'
+    id: 'urn:uuid:59bb174a-998f-558c-ab76-b0af8db7ce65'
+    link: 'https://pub.dartlang.org/packages/json_god'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: fixnum
+    package_version: v0.10.5
+    title: 'v0.10.5 of fixnum'
+    published: '2016-05-10T23:16:54+00:00'
+    id: 'urn:uuid:ef58c4f8-02b8-54de-b1e6-b81a9e153aa7'
+    link: 'https://pub.dartlang.org/packages/fixnum'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angel_framework
+    package_version: v0.0.0-dev.18
+    title: 'v0.0.0-dev.18 of angel_framework'
+    published: '2016-05-10T23:06:57+00:00'
+    id: 'urn:uuid:d34c898d-7a6d-59c7-9b9c-4629f098498d'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
