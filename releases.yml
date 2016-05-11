@@ -62315,3 +62315,12 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: atlassian_connect_shelf
+    package_version: v0.11.9
+    title: 'v0.11.9 of atlassian_connect_shelf'
+    published: '2016-05-11T00:38:33+00:00'
+    id: 'urn:uuid:55621da3-9c37-582e-bb3f-64df5269b7d2'
+    link: 'https://pub.dartlang.org/packages/atlassian_connect_shelf'
+    author:
+        - 'Anders Holmgren <aholmgren@atlassian.com>'
