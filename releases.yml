@@ -62396,3 +62396,49 @@
     link: 'https://pub.dartlang.org/packages/routes'
     author:
         - 'Hannes Rammer <Hannes.Rammer@gmail.com>'
+-
+    package_name: dart_barcode
+    package_version: v0.0.5+1
+    title: 'v0.0.5+1 of dart_barcode'
+    published: '2016-05-11T23:38:19+00:00'
+    id: 'urn:uuid:d3135f98-df29-5bba-b778-9005ac8775f6'
+    link: 'https://pub.dartlang.org/packages/dart_barcode'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: serializer
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of serializer'
+    published: '2016-05-11T23:36:22+00:00'
+    id: 'urn:uuid:d40f2582-73b6-588c-aa24-2b0aa2dd8fa3'
+    link: 'https://pub.dartlang.org/packages/serializer'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+        - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+-
+    package_name: html
+    package_version: v0.13.0
+    title: 'v0.13.0 of html'
+    published: '2016-05-11T23:17:21+00:00'
+    id: 'urn:uuid:d50b038a-914b-57d5-81bb-bb4b3f33f011'
+    link: 'https://pub.dartlang.org/packages/html'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: csslib
+    package_version: v0.13.2
+    title: 'v0.13.2 of csslib'
+    published: '2016-05-11T23:09:04+00:00'
+    id: 'urn:uuid:7dfca6e8-9035-5c8e-9cd3-2b47f250b939'
+    link: 'https://pub.dartlang.org/packages/csslib'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: shelf_web_socket
+    package_version: v0.2.1
+    title: 'v0.2.1 of shelf_web_socket'
+    published: '2016-05-11T23:04:31+00:00'
+    id: 'urn:uuid:1bcee46d-263b-5815-943d-fa6663e5f823'
+    link: 'https://pub.dartlang.org/packages/shelf_web_socket'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
