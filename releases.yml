@@ -62387,3 +62387,12 @@
     link: 'https://pub.dartlang.org/packages/params'
     author:
         - 'Hannes Rammer <Hannes.Rammer@gmail.com>'
+-
+    package_name: routes
+    package_version: v0.1.4
+    title: 'v0.1.4 of routes'
+    published: '2016-05-11T22:07:48+00:00'
+    id: 'urn:uuid:3be88004-122c-5dcf-9ad3-35091f89d415'
+    link: 'https://pub.dartlang.org/packages/routes'
+    author:
+        - 'Hannes Rammer <Hannes.Rammer@gmail.com>'
