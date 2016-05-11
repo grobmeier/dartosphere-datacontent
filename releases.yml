@@ -62351,3 +62351,30 @@
     link: 'https://pub.dartlang.org/packages/coffee_http'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: dart_barcode
+    package_version: v0.0.4
+    title: 'v0.0.4 of dart_barcode'
+    published: '2016-05-11T20:43:07+00:00'
+    id: 'urn:uuid:ca0b9dc3-4bb6-5935-b1ec-471383965ea3'
+    link: 'https://pub.dartlang.org/packages/dart_barcode'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: quagga_dart
+    package_version: v0.0.2
+    title: 'v0.0.2 of quagga_dart'
+    published: '2016-05-11T20:35:14+00:00'
+    id: 'urn:uuid:b4baa578-1d61-54fe-8e99-5aacd4260b9e'
+    link: 'https://pub.dartlang.org/packages/quagga_dart'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: vane
+    package_version: v0.8.1
+    title: 'v0.8.1 of vane'
+    published: '2016-05-11T20:23:13+00:00'
+    id: 'urn:uuid:7040cb34-5945-5939-9b8c-6e67e14bef8a'
+    link: 'https://pub.dartlang.org/packages/vane'
+    author:
+        - 'Robert Åkerblom-Andersson <Robert.nr1@gmail.com>'
