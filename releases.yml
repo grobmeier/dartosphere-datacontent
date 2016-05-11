@@ -62324,3 +62324,12 @@
     link: 'https://pub.dartlang.org/packages/atlassian_connect_shelf'
     author:
         - 'Anders Holmgren <aholmgren@atlassian.com>'
+-
+    package_name: woomera
+    package_version: v1.0.3
+    title: 'v1.0.3 of woomera'
+    published: '2016-05-11T02:54:16+00:00'
+    id: 'urn:uuid:e6781387-6f3e-52ef-8ba6-d7adcede018d'
+    link: 'https://pub.dartlang.org/packages/woomera'
+    author:
+        - 'Hoylen Sue <hoylen@hoylen.com>'
