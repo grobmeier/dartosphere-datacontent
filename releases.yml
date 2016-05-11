@@ -62333,3 +62333,12 @@
     link: 'https://pub.dartlang.org/packages/woomera'
     author:
         - 'Hoylen Sue <hoylen@hoylen.com>'
+-
+    package_name: hashcash
+    package_version: v1.0.0
+    title: 'v1.0.0 of hashcash'
+    published: '2016-05-11T14:05:36+00:00'
+    id: 'urn:uuid:5909c963-1d6e-5c83-8a80-0395594c2079'
+    link: 'https://pub.dartlang.org/packages/hashcash'
+    author:
+        - 'Kevin Segaud<segaud.kevin@gmail.com>'
