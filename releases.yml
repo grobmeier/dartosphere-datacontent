@@ -62342,3 +62342,12 @@
     link: 'https://pub.dartlang.org/packages/hashcash'
     author:
         - 'Kevin Segaud<segaud.kevin@gmail.com>'
+-
+    package_name: coffee_http
+    package_version: v0.2.4
+    title: 'v0.2.4 of coffee_http'
+    published: '2016-05-11T18:52:16+00:00'
+    id: 'urn:uuid:41298219-47cf-53e3-affd-8b8139965c18'
+    link: 'https://pub.dartlang.org/packages/coffee_http'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
