@@ -62478,3 +62478,12 @@
     link: 'https://pub.dartlang.org/packages/linter'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dartz
+    package_version: v0.1.1
+    title: 'v0.1.1 of dartz'
+    published: '2016-05-12T19:31:07+00:00'
+    id: 'urn:uuid:2f6f065a-2a3d-5f3d-8f61-14bd93a38d26'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
