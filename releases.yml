@@ -62487,3 +62487,12 @@
     link: 'https://pub.dartlang.org/packages/dartz'
     author:
         - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: syncbase
+    package_version: v0.0.42
+    title: 'v0.0.42 of syncbase'
+    published: '2016-05-12T23:57:59+00:00'
+    id: 'urn:uuid:f759bcee-3156-57b0-b3ae-cc732838959d'
+    link: 'https://pub.dartlang.org/packages/syncbase'
+    author:
+        - 'Vanadium Authors'
