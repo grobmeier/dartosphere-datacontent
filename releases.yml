@@ -62460,3 +62460,12 @@
     link: 'https://pub.dartlang.org/packages/polyce'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: websockets
+    package_version: v0.2.1+1
+    title: 'v0.2.1+1 of websockets'
+    published: '2016-05-12T09:28:45+00:00'
+    id: 'urn:uuid:aecb945e-48c1-5f2c-aee9-61f2128193db'
+    link: 'https://pub.dartlang.org/packages/websockets'
+    author:
+        - 'Steven Roose <stevenroose@gmail.com>'
