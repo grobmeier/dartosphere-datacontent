@@ -62469,3 +62469,12 @@
     link: 'https://pub.dartlang.org/packages/websockets'
     author:
         - 'Steven Roose <stevenroose@gmail.com>'
+-
+    package_name: linter
+    package_version: v0.1.16
+    title: 'v0.1.16 of linter'
+    published: '2016-05-12T13:15:57+00:00'
+    id: 'urn:uuid:d60e0057-6369-522a-b3ef-5278f795a4e5'
+    link: 'https://pub.dartlang.org/packages/linter'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
