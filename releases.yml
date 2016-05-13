@@ -62532,3 +62532,12 @@
     link: 'https://pub.dartlang.org/packages/plot_window'
     author:
         - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: plot_window
+    package_version: v0.0.36
+    title: 'v0.0.36 of plot_window'
+    published: '2016-05-13T12:21:10+00:00'
+    id: 'urn:uuid:cda117de-9730-5f75-a99d-5eda252a8903'
+    link: 'https://pub.dartlang.org/packages/plot_window'
+    author:
+        - 'Edouard Tavinor <edouardtavinor@gmail.com>'
