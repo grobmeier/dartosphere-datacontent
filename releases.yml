@@ -62595,3 +62595,12 @@
     link: 'https://pub.dartlang.org/packages/shellstone'
     author:
         - 'Hugo Armstrong <@lteacher>'
+-
+    package_name: archive
+    package_version: v1.0.21
+    title: 'v1.0.21 of archive'
+    published: '2016-05-13T23:43:35+00:00'
+    id: 'urn:uuid:14bdce04-18f6-54d6-bf62-4ad2167525f6'
+    link: 'https://pub.dartlang.org/packages/archive'
+    author:
+        - 'Brendan Duncan <brendanduncan@gmail.com>'
