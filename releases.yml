@@ -62505,3 +62505,21 @@
     link: 'https://pub.dartlang.org/packages/collection'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: plot_window
+    package_version: v0.0.32
+    title: 'v0.0.32 of plot_window'
+    published: '2016-05-13T08:57:07+00:00'
+    id: 'urn:uuid:2315f6d1-2f8f-52b8-89d9-ee7817efd310'
+    link: 'https://pub.dartlang.org/packages/plot_window'
+    author:
+        - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: route_provider
+    package_version: v0.3.6
+    title: 'v0.3.6 of route_provider'
+    published: '2016-05-13T08:21:01+00:00'
+    id: 'urn:uuid:04358315-3f8d-5f87-9f3f-fc3c811b3b3c'
+    link: 'https://pub.dartlang.org/packages/route_provider'
+    author:
+        - 'Robert Beyer <4sternrb@googlemail.com>'
