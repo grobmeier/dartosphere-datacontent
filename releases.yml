@@ -62496,3 +62496,12 @@
     link: 'https://pub.dartlang.org/packages/syncbase'
     author:
         - 'Vanadium Authors'
+-
+    package_name: collection
+    package_version: v1.7.0
+    title: 'v1.7.0 of collection'
+    published: '2016-05-13T00:03:35+00:00'
+    id: 'urn:uuid:3d9efaa7-a7a7-507a-ada8-59063fc23c5f'
+    link: 'https://pub.dartlang.org/packages/collection'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
