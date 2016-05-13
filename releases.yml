@@ -62541,3 +62541,57 @@
     link: 'https://pub.dartlang.org/packages/plot_window'
     author:
         - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: mojo_apptest
+    package_version: v0.2.29
+    title: 'v0.2.29 of mojo_apptest'
+    published: '2016-05-13T16:28:19+00:00'
+    id: 'urn:uuid:007ea2b3-ae24-561d-aa72-409c827ca069'
+    link: 'https://pub.dartlang.org/packages/mojo_apptest'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojom
+    package_version: v0.2.29
+    title: 'v0.2.29 of mojom'
+    published: '2016-05-13T16:28:12+00:00'
+    id: 'urn:uuid:86136191-9a56-5982-923e-47329e7620bb'
+    link: 'https://pub.dartlang.org/packages/mojom'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_sdk
+    package_version: v0.2.25
+    title: 'v0.2.25 of mojo_sdk'
+    published: '2016-05-13T16:22:33+00:00'
+    id: 'urn:uuid:acad826a-fdc7-5ceb-8a01-b2666f0b972e'
+    link: 'https://pub.dartlang.org/packages/mojo_sdk'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_services
+    package_version: v0.4.28
+    title: 'v0.4.28 of mojo_services'
+    published: '2016-05-13T16:04:56+00:00'
+    id: 'urn:uuid:2ff53941-b8a3-50db-b7f1-1299bd53758b'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo
+    package_version: v0.4.21
+    title: 'v0.4.21 of mojo'
+    published: '2016-05-13T16:04:44+00:00'
+    id: 'urn:uuid:7bcab452-c3b1-57b3-b3fd-9d905e746619'
+    link: 'https://pub.dartlang.org/packages/mojo'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: shellstone
+    package_version: v0.1.4
+    title: 'v0.1.4 of shellstone'
+    published: '2016-05-13T16:01:16+00:00'
+    id: 'urn:uuid:c01a2337-9b60-59f9-8048-a51f45078f82'
+    link: 'https://pub.dartlang.org/packages/shellstone'
+    author:
+        - 'Hugo Armstrong <@lteacher>'
