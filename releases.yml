@@ -62622,3 +62622,12 @@
     link: 'https://pub.dartlang.org/packages/shellstone'
     author:
         - 'Hugo Armstrong <@lteacher>'
+-
+    package_name: belt
+    package_version: v0.1.0
+    title: 'v0.1.0 of belt'
+    published: '2016-05-14T23:31:24+00:00'
+    id: 'urn:uuid:d852fb85-001d-5f9e-99e2-a1dd3a0a0491'
+    link: 'https://pub.dartlang.org/packages/belt'
+    author:
+        - 'Kenneth Endfinger <kaendfinger@gmail.com>'
