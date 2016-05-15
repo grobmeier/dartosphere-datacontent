@@ -62640,3 +62640,12 @@
     link: 'https://pub.dartlang.org/packages/pub_cache_clean'
     author:
         - '王者河马 <348052704@qq.com>'
+-
+    package_name: dartz
+    package_version: v0.1.2
+    title: 'v0.1.2 of dartz'
+    published: '2016-05-15T11:16:09+00:00'
+    id: 'urn:uuid:9bcfac02-3c94-541a-8a2f-a0b1fa6070fb'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
