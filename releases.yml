@@ -62631,3 +62631,12 @@
     link: 'https://pub.dartlang.org/packages/belt'
     author:
         - 'Kenneth Endfinger <kaendfinger@gmail.com>'
+-
+    package_name: pub_cache_clean
+    package_version: v0.1.0
+    title: 'v0.1.0 of pub_cache_clean'
+    published: '2016-05-15T08:10:44+00:00'
+    id: 'urn:uuid:0eb2557e-6010-5559-b5c1-ee47ec80d0a2'
+    link: 'https://pub.dartlang.org/packages/pub_cache_clean'
+    author:
+        - '王者河马 <348052704@qq.com>'
