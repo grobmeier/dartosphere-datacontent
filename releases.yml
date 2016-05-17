@@ -62721,3 +62721,12 @@
     link: 'https://pub.dartlang.org/packages/archive'
     author:
         - 'Brendan Duncan <brendanduncan@gmail.com>'
+-
+    package_name: code_generators
+    package_version: v0.0.1
+    title: 'v0.0.1 of code_generators'
+    published: '2016-05-17T19:13:10+00:00'
+    id: 'urn:uuid:1d602b25-aa88-5286-b5c9-5eed89de41a6'
+    link: 'https://pub.dartlang.org/packages/code_generators'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
