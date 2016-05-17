@@ -62676,3 +62676,12 @@
     link: 'https://pub.dartlang.org/packages/redux'
     author:
         - 'John Ryan <john.p.ryan4@gmail.com>'
+-
+    package_name: build_test
+    package_version: v0.1.0
+    title: 'v0.1.0 of build_test'
+    published: '2016-05-17T14:38:04+00:00'
+    id: 'urn:uuid:1d2065ea-1ec5-5f0c-ad22-28bf2b838c08'
+    link: 'https://pub.dartlang.org/packages/build_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
