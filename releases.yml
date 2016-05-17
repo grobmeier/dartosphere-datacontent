@@ -62667,3 +62667,12 @@
     link: 'https://pub.dartlang.org/packages/args'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: redux
+    package_version: v1.0.0
+    title: 'v1.0.0 of redux'
+    published: '2016-05-17T05:15:51+00:00'
+    id: 'urn:uuid:87696d9f-5f76-53bf-b1ec-cd60f8f705fd'
+    link: 'https://pub.dartlang.org/packages/redux'
+    author:
+        - 'John Ryan <john.p.ryan4@gmail.com>'
