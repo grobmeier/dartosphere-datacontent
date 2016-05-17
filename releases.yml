@@ -62712,3 +62712,12 @@
     link: 'https://pub.dartlang.org/packages/barback'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: archive
+    package_version: v1.0.22
+    title: 'v1.0.22 of archive'
+    published: '2016-05-17T18:30:24+00:00'
+    id: 'urn:uuid:98d9da10-ebb6-5a9d-8116-d8e9f071c6ed'
+    link: 'https://pub.dartlang.org/packages/archive'
+    author:
+        - 'Brendan Duncan <brendanduncan@gmail.com>'
