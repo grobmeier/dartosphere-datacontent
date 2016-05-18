@@ -62766,3 +62766,12 @@
     link: 'https://pub.dartlang.org/packages/shellstone'
     author:
         - 'Hugo Armstrong <@lteacher>'
+-
+    package_name: nuxeo_client
+    package_version: v0.3.0
+    title: 'v0.3.0 of nuxeo_client'
+    published: '2016-05-18T11:07:27+00:00'
+    id: 'urn:uuid:0c4e1588-b32c-5d00-b738-fef29a9331bf'
+    link: 'https://pub.dartlang.org/packages/nuxeo_client'
+    author:
+        - 'Nelson Silva <nsilva@nuxeo.com>'
