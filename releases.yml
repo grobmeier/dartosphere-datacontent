@@ -62757,3 +62757,12 @@
     link: 'https://pub.dartlang.org/packages/google_charts'
     author:
         - 'Robert Hartung <robert.w.hartung@gmail.com>'
+-
+    package_name: shellstone
+    package_version: v0.1.6
+    title: 'v0.1.6 of shellstone'
+    published: '2016-05-18T10:52:25+00:00'
+    id: 'urn:uuid:86c1bdb8-d9bc-5048-ba17-209e352a5fa2'
+    link: 'https://pub.dartlang.org/packages/shellstone'
+    author:
+        - 'Hugo Armstrong <@lteacher>'
