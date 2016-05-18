@@ -62838,3 +62838,12 @@
     link: 'https://pub.dartlang.org/packages/linter'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: usage
+    package_version: v2.2.2
+    title: 'v2.2.2 of usage'
+    published: '2016-05-18T20:16:16+00:00'
+    id: 'urn:uuid:dce097ed-fb9a-5597-aa79-5d015346d52c'
+    link: 'https://pub.dartlang.org/packages/usage'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
