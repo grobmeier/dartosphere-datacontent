@@ -62775,3 +62775,48 @@
     link: 'https://pub.dartlang.org/packages/nuxeo_client'
     author:
         - 'Nelson Silva <nsilva@nuxeo.com>'
+-
+    package_name: mojo_apptest
+    package_version: v0.2.30
+    title: 'v0.2.30 of mojo_apptest'
+    published: '2016-05-18T15:44:33+00:00'
+    id: 'urn:uuid:965410ae-b82f-5697-b07f-665ce3ad1b54'
+    link: 'https://pub.dartlang.org/packages/mojo_apptest'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojom
+    package_version: v0.2.30
+    title: 'v0.2.30 of mojom'
+    published: '2016-05-18T15:44:25+00:00'
+    id: 'urn:uuid:98cbb4af-2583-59fd-8db2-517e306ded0f'
+    link: 'https://pub.dartlang.org/packages/mojom'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_sdk
+    package_version: v0.2.26
+    title: 'v0.2.26 of mojo_sdk'
+    published: '2016-05-18T15:40:41+00:00'
+    id: 'urn:uuid:2ebf12d8-2295-59a0-833b-7f269540b367'
+    link: 'https://pub.dartlang.org/packages/mojo_sdk'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_services
+    package_version: v0.4.29
+    title: 'v0.4.29 of mojo_services'
+    published: '2016-05-18T15:35:50+00:00'
+    id: 'urn:uuid:e186c0b8-b6f6-520c-bd23-1956ec1c0b40'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo
+    package_version: v0.4.22
+    title: 'v0.4.22 of mojo'
+    published: '2016-05-18T15:35:43+00:00'
+    id: 'urn:uuid:a1912f34-3708-58b0-9ccd-062b0ea62ee8'
+    link: 'https://pub.dartlang.org/packages/mojo'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
