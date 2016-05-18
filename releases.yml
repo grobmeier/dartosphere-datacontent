@@ -62730,3 +62730,21 @@
     link: 'https://pub.dartlang.org/packages/code_generators'
     author:
         - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: google_charts
+    package_version: v0.2.0
+    title: 'v0.2.0 of google_charts'
+    published: '2016-05-18T07:45:15+00:00'
+    id: 'urn:uuid:b011d2ac-a4ee-525d-bbb5-0a5ce8248c44'
+    link: 'https://pub.dartlang.org/packages/google_charts'
+    author:
+        - 'Robert Hartung <robert.w.hartung@gmail.com>'
+-
+    package_name: built_collection
+    package_version: v1.0.3
+    title: 'v1.0.3 of built_collection'
+    published: '2016-05-18T07:37:19+00:00'
+    id: 'urn:uuid:c7a13dee-a1ec-5965-b684-6679c45a9a40'
+    link: 'https://pub.dartlang.org/packages/built_collection'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
