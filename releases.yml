@@ -62866,3 +62866,21 @@
     link: 'https://pub.dartlang.org/packages/jsonx'
     author:
         - 'Man Hoang <jolleekin@outlook.com>'
+-
+    package_name: googleapis_beta
+    package_version: v0.27.0
+    title: 'v0.27.0 of googleapis_beta'
+    published: '2016-05-19T12:44:53+00:00'
+    id: 'urn:uuid:1ff6f351-a114-5bdb-9352-ad28a9f07985'
+    link: 'https://pub.dartlang.org/packages/googleapis_beta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: googleapis
+    package_version: v0.27.0
+    title: 'v0.27.0 of googleapis'
+    published: '2016-05-19T12:44:36+00:00'
+    id: 'urn:uuid:6fecf7e1-ab56-5f29-9b4a-3b4de4cc1917'
+    link: 'https://pub.dartlang.org/packages/googleapis'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
