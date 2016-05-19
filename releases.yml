@@ -62857,3 +62857,12 @@
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
         - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+-
+    package_name: jsonx
+    package_version: v2.0.2
+    title: 'v2.0.2 of jsonx'
+    published: '2016-05-19T05:45:51+00:00'
+    id: 'urn:uuid:ff80f42d-b5f6-59e7-9d47-09b3914d63f6'
+    link: 'https://pub.dartlang.org/packages/jsonx'
+    author:
+        - 'Man Hoang <jolleekin@outlook.com>'
