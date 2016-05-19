@@ -62979,3 +62979,21 @@
     link: 'https://pub.dartlang.org/packages/omnibus'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: archive
+    package_version: v1.0.23
+    title: 'v1.0.23 of archive'
+    published: '2016-05-19T21:49:12+00:00'
+    id: 'urn:uuid:6e474707-01b6-5def-ba7f-594920f37a62'
+    link: 'https://pub.dartlang.org/packages/archive'
+    author:
+        - 'Brendan Duncan <brendanduncan@gmail.com>'
+-
+    package_name: image
+    package_version: v1.1.26
+    title: 'v1.1.26 of image'
+    published: '2016-05-19T21:40:56+00:00'
+    id: 'urn:uuid:85274f58-5e00-5768-8ed1-4900d626165e'
+    link: 'https://pub.dartlang.org/packages/image'
+    author:
+        - 'Brendan Duncan <brendanduncan@gmail.com>'
