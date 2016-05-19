@@ -62929,3 +62929,35 @@
     link: 'https://pub.dartlang.org/packages/plot_window'
     author:
         - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: dart_dev
+    package_version: v1.2.0
+    title: 'v1.2.0 of dart_dev'
+    published: '2016-05-19T19:42:02+00:00'
+    id: 'urn:uuid:90ed5695-c6ca-5b98-afb8-8bf02b4fa3d5'
+    link: 'https://pub.dartlang.org/packages/dart_dev'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: http_parser
+    package_version: v3.0.1
+    title: 'v3.0.1 of http_parser'
+    published: '2016-05-19T19:15:29+00:00'
+    id: 'urn:uuid:46d8bf13-c0b8-52b2-8893-8540c5757951'
+    link: 'https://pub.dartlang.org/packages/http_parser'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: test
+    package_version: v0.12.13+4
+    title: 'v0.12.13+4 of test'
+    published: '2016-05-19T19:14:30+00:00'
+    id: 'urn:uuid:3949d968-2af8-53a2-858c-05599871a569'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
