@@ -62902,3 +62902,21 @@
     link: 'https://pub.dartlang.org/packages/plot_window'
     author:
         - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: plot_window
+    package_version: v0.0.40
+    title: 'v0.0.40 of plot_window'
+    published: '2016-05-19T15:45:49+00:00'
+    id: 'urn:uuid:a6050a2a-1c04-5931-9a5a-5a0c73a079a7'
+    link: 'https://pub.dartlang.org/packages/plot_window'
+    author:
+        - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: ng2_strap
+    package_version: v0.0.4+1
+    title: 'v0.0.4+1 of ng2_strap'
+    published: '2016-05-19T15:10:52+00:00'
+    id: 'urn:uuid:4e582cf3-f2eb-59b6-a058-f903895a9996'
+    link: 'https://pub.dartlang.org/packages/ng2_strap'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
