@@ -62961,3 +62961,21 @@
     link: 'https://pub.dartlang.org/packages/test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: omnitest
+    package_version: v0.2.6
+    title: 'v0.2.6 of omnitest'
+    published: '2016-05-19T20:57:16+00:00'
+    id: 'urn:uuid:8096285a-5fdf-5b6b-a78d-732a93b27f38'
+    link: 'https://pub.dartlang.org/packages/omnitest'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: omnibus
+    package_version: v0.15.3
+    title: 'v0.15.3 of omnibus'
+    published: '2016-05-19T20:53:24+00:00'
+    id: 'urn:uuid:05d7d520-2609-572b-ae9c-8a84436325b6'
+    link: 'https://pub.dartlang.org/packages/omnibus'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
