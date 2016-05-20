@@ -62997,3 +62997,12 @@
     link: 'https://pub.dartlang.org/packages/image'
     author:
         - 'Brendan Duncan <brendanduncan@gmail.com>'
+-
+    package_name: vm_service_client
+    package_version: v0.2.2+1
+    title: 'v0.2.2+1 of vm_service_client'
+    published: '2016-05-20T00:38:55+00:00'
+    id: 'urn:uuid:b79b8268-f351-5925-806b-636cf8255c1e'
+    link: 'https://pub.dartlang.org/packages/vm_service_client'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
