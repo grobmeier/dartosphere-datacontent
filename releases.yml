@@ -63106,3 +63106,12 @@
     link: 'https://pub.dartlang.org/packages/ng2_strap'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: rxdart
+    package_version: v0.3.21
+    title: 'v0.3.21 of rxdart'
+    published: '2016-05-24T08:35:58+00:00'
+    id: 'urn:uuid:cb90051b-35f4-5a13-a885-0cd64013ecbf'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
