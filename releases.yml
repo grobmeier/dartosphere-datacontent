@@ -63087,3 +63087,22 @@
     link: 'https://pub.dartlang.org/packages/molview_messages'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: serializer
+    package_version: v0.3.0
+    title: 'v0.3.0 of serializer'
+    published: '2016-05-24T01:20:05+00:00'
+    id: 'urn:uuid:e0d63084-44ac-5c2e-9f56-b8d2269587bd'
+    link: 'https://pub.dartlang.org/packages/serializer'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+        - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+-
+    package_name: ng2_strap
+    package_version: v0.0.6+1
+    title: 'v0.0.6+1 of ng2_strap'
+    published: '2016-05-24T01:11:23+00:00'
+    id: 'urn:uuid:22a1705c-57c4-5438-bba4-15328e49f897'
+    link: 'https://pub.dartlang.org/packages/ng2_strap'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
