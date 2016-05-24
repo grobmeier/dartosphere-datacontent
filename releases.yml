@@ -63124,3 +63124,12 @@
     link: 'https://pub.dartlang.org/packages/rxdart'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: crossdart
+    package_version: v0.2.0
+    title: 'v0.2.0 of crossdart'
+    published: '2016-05-24T16:33:28+00:00'
+    id: 'urn:uuid:54e515af-a85b-5b36-954d-05faaa2583db'
+    link: 'https://pub.dartlang.org/packages/crossdart'
+    author:
+        - 'Anton Astashov <anton.astashov@gmail.com>'
