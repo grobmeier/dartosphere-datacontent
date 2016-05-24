@@ -63142,3 +63142,12 @@
     link: 'https://pub.dartlang.org/packages/markdown'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: tiles
+    package_version: v0.3.1
+    title: 'v0.3.1 of tiles'
+    published: '2016-05-24T19:34:04+00:00'
+    id: 'urn:uuid:57ecd5bb-df5b-5fd9-af50-e0c9bae7143e'
+    link: 'https://pub.dartlang.org/packages/tiles'
+    author:
+        - 'Jakuub Uhrik <jakuub@mail.com>'
