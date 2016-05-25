@@ -63151,3 +63151,12 @@
     link: 'https://pub.dartlang.org/packages/tiles'
     author:
         - 'Jakuub Uhrik <jakuub@mail.com>'
+-
+    package_name: html_unescape
+    package_version: v0.1.2
+    title: 'v0.1.2 of html_unescape'
+    published: '2016-05-25T00:40:21+00:00'
+    id: 'urn:uuid:5a55f904-ab73-56c4-8684-a1124a8dd1b8'
+    link: 'https://pub.dartlang.org/packages/html_unescape'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
