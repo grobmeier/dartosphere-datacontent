@@ -63241,3 +63241,12 @@
     link: 'https://pub.dartlang.org/packages/built_json_generator'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: collection
+    package_version: v1.8.0
+    title: 'v1.8.0 of collection'
+    published: '2016-05-25T21:46:44+00:00'
+    id: 'urn:uuid:936bc48d-85d2-5607-9b42-b4594f2e4b02'
+    link: 'https://pub.dartlang.org/packages/collection'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
