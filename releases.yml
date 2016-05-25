@@ -63196,3 +63196,30 @@
     link: 'https://pub.dartlang.org/packages/enum_class'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value_generator
+    package_version: v0.1.0
+    title: 'v0.1.0 of built_value_generator'
+    published: '2016-05-25T12:42:59+00:00'
+    id: 'urn:uuid:d1629909-cb92-5482-8e3a-3fdf53408a04'
+    link: 'https://pub.dartlang.org/packages/built_value_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value
+    package_version: v0.1.0
+    title: 'v0.1.0 of built_value'
+    published: '2016-05-25T12:41:39+00:00'
+    id: 'urn:uuid:5e557ff9-e574-5b07-ae32-ecff400f88f0'
+    link: 'https://pub.dartlang.org/packages/built_value'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: plot_window
+    package_version: v0.0.43
+    title: 'v0.0.43 of plot_window'
+    published: '2016-05-25T12:36:03+00:00'
+    id: 'urn:uuid:32d95078-1b2d-50a0-9e90-6acd36621922'
+    link: 'https://pub.dartlang.org/packages/plot_window'
+    author:
+        - 'Edouard Tavinor <edouardtavinor@gmail.com>'
