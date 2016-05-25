@@ -63178,3 +63178,21 @@
     link: 'https://pub.dartlang.org/packages/html_unescape'
     author:
         - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: enum_class_generator
+    package_version: v0.1.0
+    title: 'v0.1.0 of enum_class_generator'
+    published: '2016-05-25T11:56:45+00:00'
+    id: 'urn:uuid:306a9280-ae79-5ebe-baf0-f9130ba095e4'
+    link: 'https://pub.dartlang.org/packages/enum_class_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: enum_class
+    package_version: v0.1.0
+    title: 'v0.1.0 of enum_class'
+    published: '2016-05-25T11:54:04+00:00'
+    id: 'urn:uuid:31835a61-a2ed-5cd6-9f03-b9326ea6a4b5'
+    link: 'https://pub.dartlang.org/packages/enum_class'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
