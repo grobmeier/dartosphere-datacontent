@@ -63160,3 +63160,12 @@
     link: 'https://pub.dartlang.org/packages/html_unescape'
     author:
         - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: html_unescape
+    package_version: v0.1.3
+    title: 'v0.1.3 of html_unescape'
+    published: '2016-05-25T04:33:04+00:00'
+    id: 'urn:uuid:7830e5be-f7fb-5bbb-9621-471ed05af37f'
+    link: 'https://pub.dartlang.org/packages/html_unescape'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
