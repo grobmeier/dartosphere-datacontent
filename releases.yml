@@ -63250,3 +63250,12 @@
     link: 'https://pub.dartlang.org/packages/collection'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: protobuf
+    package_version: v0.5.1+3
+    title: 'v0.5.1+3 of protobuf'
+    published: '2016-05-25T23:36:40+00:00'
+    id: 'urn:uuid:0958baf5-5275-5046-b514-1904805e6812'
+    link: 'https://pub.dartlang.org/packages/protobuf'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
