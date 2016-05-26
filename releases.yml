@@ -63268,3 +63268,12 @@
     link: 'https://pub.dartlang.org/packages/crossdart'
     author:
         - 'Anton Astashov <anton.astashov@gmail.com>'
+-
+    package_name: code_generators
+    package_version: v0.0.3
+    title: 'v0.0.3 of code_generators'
+    published: '2016-05-26T09:30:28+00:00'
+    id: 'urn:uuid:121416a3-40c7-57dd-be51-e9f2de421b2b'
+    link: 'https://pub.dartlang.org/packages/code_generators'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
