@@ -63259,3 +63259,12 @@
     link: 'https://pub.dartlang.org/packages/protobuf'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: crossdart
+    package_version: v0.2.1
+    title: 'v0.2.1 of crossdart'
+    published: '2016-05-26T00:26:00+00:00'
+    id: 'urn:uuid:2db99300-e2ea-5397-8fdb-0b2631cb2d1a'
+    link: 'https://pub.dartlang.org/packages/crossdart'
+    author:
+        - 'Anton Astashov <anton.astashov@gmail.com>'
