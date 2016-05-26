@@ -63286,3 +63286,12 @@
     link: 'https://pub.dartlang.org/packages/scissors'
     author:
         - 'Olivier Chafik <ochafik@google.com>'
+-
+    package_name: empty_collections
+    package_version: v1.0.0
+    title: 'v1.0.0 of empty_collections'
+    published: '2016-05-26T13:51:29+00:00'
+    id: 'urn:uuid:5f9d910c-abc2-5c37-98b7-12e2678f0469'
+    link: 'https://pub.dartlang.org/packages/empty_collections'
+    author:
+        - 'Stephan Schröder <simon.void+github@gmail.com>'
