@@ -63295,3 +63295,12 @@
     link: 'https://pub.dartlang.org/packages/empty_collections'
     author:
         - 'Stephan Schröder <simon.void+github@gmail.com>'
+-
+    package_name: scissors
+    package_version: v0.6.1+1
+    title: 'v0.6.1+1 of scissors'
+    published: '2016-05-26T16:15:21+00:00'
+    id: 'urn:uuid:5b6e7bc1-7bdf-5e29-ba7b-f8e8e9dc8846'
+    link: 'https://pub.dartlang.org/packages/scissors'
+    author:
+        - 'Olivier Chafik <ochafik@google.com>'
