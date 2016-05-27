@@ -63331,3 +63331,12 @@
     link: 'https://pub.dartlang.org/packages/pretty_samples'
     author:
         - 'Valentyn Shybanov <olostan@gmail.com>'
+-
+    package_name: rethinkdb_driver
+    package_version: v2.2.0
+    title: 'v2.2.0 of rethinkdb_driver'
+    published: '2016-05-27T21:53:53+00:00'
+    id: 'urn:uuid:ee1f896b-5cf8-5842-85d5-19eb67625fd0'
+    link: 'https://pub.dartlang.org/packages/rethinkdb_driver'
+    author:
+        - 'William Welch <billywelch@gmail.com>'
