@@ -63322,3 +63322,12 @@
     link: 'https://pub.dartlang.org/packages/flutter_firebase'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: pretty_samples
+    package_version: v0.0.5
+    title: 'v0.0.5 of pretty_samples'
+    published: '2016-05-27T11:40:21+00:00'
+    id: 'urn:uuid:974e176f-c89e-53f7-8f63-52a83c00c56a'
+    link: 'https://pub.dartlang.org/packages/pretty_samples'
+    author:
+        - 'Valentyn Shybanov <olostan@gmail.com>'
