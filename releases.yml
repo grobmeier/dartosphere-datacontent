@@ -63359,3 +63359,12 @@
     link: 'https://pub.dartlang.org/packages/dirty'
     author:
         - 'Chris Strom <chris@eeecomputes.com>'
+-
+    package_name: bliss
+    package_version: v0.2.0
+    title: 'v0.2.0 of bliss'
+    published: '2016-05-28T19:12:55+00:00'
+    id: 'urn:uuid:a88db640-cc70-5711-bc95-6db93acde338'
+    link: 'https://pub.dartlang.org/packages/bliss'
+    author:
+        - 'Steven Upton <steven.upton@indecks.co>'
