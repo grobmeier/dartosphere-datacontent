@@ -63368,3 +63368,12 @@
     link: 'https://pub.dartlang.org/packages/bliss'
     author:
         - 'Steven Upton <steven.upton@indecks.co>'
+-
+    package_name: resource_demo
+    package_version: v0.0.1
+    title: 'v0.0.1 of resource_demo'
+    published: '2016-05-28T21:06:17+00:00'
+    id: 'urn:uuid:4c04ba41-0fa8-59f0-bc18-cb7edf683c3b'
+    link: 'https://pub.dartlang.org/packages/resource_demo'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
