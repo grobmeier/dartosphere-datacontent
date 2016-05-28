@@ -63350,3 +63350,12 @@
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: dirty
+    package_version: v0.1.5
+    title: 'v0.1.5 of dirty'
+    published: '2016-05-28T17:42:31+00:00'
+    id: 'urn:uuid:ebc7b04e-237a-59e4-8827-c691e4785b7e'
+    link: 'https://pub.dartlang.org/packages/dirty'
+    author:
+        - 'Chris Strom <chris@eeecomputes.com>'
