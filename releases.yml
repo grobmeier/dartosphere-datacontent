@@ -63395,3 +63395,12 @@
     link: 'https://pub.dartlang.org/packages/dartz'
     author:
         - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: crossdart
+    package_version: v0.2.4
+    title: 'v0.2.4 of crossdart'
+    published: '2016-05-29T14:07:19+00:00'
+    id: 'urn:uuid:de91f6d5-777a-5d82-a116-f7ac3b99e829'
+    link: 'https://pub.dartlang.org/packages/crossdart'
+    author:
+        - 'Anton Astashov <anton.astashov@gmail.com>'
