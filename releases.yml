@@ -63377,3 +63377,12 @@
     link: 'https://pub.dartlang.org/packages/resource_demo'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: crossdart
+    package_version: v0.2.3
+    title: 'v0.2.3 of crossdart'
+    published: '2016-05-29T02:36:00+00:00'
+    id: 'urn:uuid:89c6cfa3-9eaf-5e0b-9c4b-e6ba9059fe0b'
+    link: 'https://pub.dartlang.org/packages/crossdart'
+    author:
+        - 'Anton Astashov <anton.astashov@gmail.com>'
