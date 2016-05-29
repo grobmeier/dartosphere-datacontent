@@ -63386,3 +63386,12 @@
     link: 'https://pub.dartlang.org/packages/crossdart'
     author:
         - 'Anton Astashov <anton.astashov@gmail.com>'
+-
+    package_name: dartz
+    package_version: v0.2.0
+    title: 'v0.2.0 of dartz'
+    published: '2016-05-29T11:59:48+00:00'
+    id: 'urn:uuid:04ed6210-6227-55db-ade1-d0793d2cc842'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
