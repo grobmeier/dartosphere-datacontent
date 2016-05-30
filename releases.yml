@@ -63413,3 +63413,12 @@
     link: 'https://pub.dartlang.org/packages/dartabase_model'
     author:
         - 'Hannes Rammer <Hannes.Rammer@gmail.com>'
+-
+    package_name: reflective
+    package_version: v0.0.28
+    title: 'v0.0.28 of reflective'
+    published: '2016-05-30T09:08:41+00:00'
+    id: 'urn:uuid:572f1236-aec2-528a-b7b8-d3b08c123370'
+    link: 'https://pub.dartlang.org/packages/reflective'
+    author:
+        - 'Stijn Van Bael <stijn.van.bael@appify.be>'
