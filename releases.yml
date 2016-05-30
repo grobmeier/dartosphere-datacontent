@@ -63467,3 +63467,21 @@
     link: 'https://pub.dartlang.org/packages/molview_messages'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: access
+    package_version: v0.9.0+1
+    title: 'v0.9.0+1 of access'
+    published: '2016-05-30T14:32:12+00:00'
+    id: 'urn:uuid:0f0fd944-cffa-5ccb-9de7-cc3970db9115'
+    link: 'https://pub.dartlang.org/packages/access'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: slickdart
+    package_version: v0.1.7+1
+    title: 'v0.1.7+1 of slickdart'
+    published: '2016-05-30T14:21:29+00:00'
+    id: 'urn:uuid:e5336a1e-03ad-53dc-9396-a5a3fbb8d3fd'
+    link: 'https://pub.dartlang.org/packages/slickdart'
+    author:
+        - 'CJKAO <kaopeter@gmail.com>, tonosama-atlacatl'
