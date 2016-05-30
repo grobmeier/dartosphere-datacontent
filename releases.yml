@@ -63485,3 +63485,21 @@
     link: 'https://pub.dartlang.org/packages/slickdart'
     author:
         - 'CJKAO <kaopeter@gmail.com>, tonosama-atlacatl'
+-
+    package_name: enum_class_generator
+    package_version: v0.2.0
+    title: 'v0.2.0 of enum_class_generator'
+    published: '2016-05-30T15:20:54+00:00'
+    id: 'urn:uuid:bd29d7ae-0295-5ff9-830d-d4f75fe582bb'
+    link: 'https://pub.dartlang.org/packages/enum_class_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: enum_class
+    package_version: v0.2.0
+    title: 'v0.2.0 of enum_class'
+    published: '2016-05-30T15:20:28+00:00'
+    id: 'urn:uuid:c173ebbe-33fe-51a4-9866-38cb0120ff7b'
+    link: 'https://pub.dartlang.org/packages/enum_class'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
