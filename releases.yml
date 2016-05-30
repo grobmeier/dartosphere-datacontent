@@ -63503,3 +63503,12 @@
     link: 'https://pub.dartlang.org/packages/enum_class'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: dataset
+    package_version: v0.0.1
+    title: 'v0.0.1 of dataset'
+    published: '2016-05-30T17:53:04+00:00'
+    id: 'urn:uuid:5e376df5-a54e-59e9-8556-a16542df3e5f'
+    link: 'https://pub.dartlang.org/packages/dataset'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
