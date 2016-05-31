@@ -63530,3 +63530,12 @@
     link: 'https://pub.dartlang.org/packages/zwave'
     author:
         - 'Dan Rubel <danrubel@google.com>'
+-
+    package_name: react
+    package_version: v1.2.0
+    title: 'v1.2.0 of react'
+    published: '2016-05-31T05:00:27+00:00'
+    id: 'urn:uuid:d93d2421-a577-5a4f-85b7-dc2f2f043456'
+    link: 'https://pub.dartlang.org/packages/react'
+    author:
+        - 'Clean Team <clean@vacuumlabs.com>'
