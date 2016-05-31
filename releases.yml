@@ -63512,3 +63512,12 @@
     link: 'https://pub.dartlang.org/packages/dataset'
     author:
         - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: rethinkdb_driver
+    package_version: v2.3.0
+    title: 'v2.3.0 of rethinkdb_driver'
+    published: '2016-05-31T02:52:18+00:00'
+    id: 'urn:uuid:d800ed77-9e22-557b-80ea-9ffbff302f07'
+    link: 'https://pub.dartlang.org/packages/rethinkdb_driver'
+    author:
+        - 'William Welch <billywelch@gmail.com>'
