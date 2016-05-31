@@ -63548,3 +63548,12 @@
     link: 'https://pub.dartlang.org/packages/dart_webcrypto'
     author:
         - 'Andreas Reiter <andreas.reiter@iaik.tugraz.at>'
+-
+    package_name: build
+    package_version: v0.3.0+3
+    title: 'v0.3.0+3 of build'
+    published: '2016-05-31T16:51:10+00:00'
+    id: 'urn:uuid:44a5168e-71c5-5b6d-9739-2e723173a18f'
+    link: 'https://pub.dartlang.org/packages/build'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
