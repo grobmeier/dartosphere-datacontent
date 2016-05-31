@@ -63539,3 +63539,12 @@
     link: 'https://pub.dartlang.org/packages/react'
     author:
         - 'Clean Team <clean@vacuumlabs.com>'
+-
+    package_name: dart_webcrypto
+    package_version: v0.0.2
+    title: 'v0.0.2 of dart_webcrypto'
+    published: '2016-05-31T09:49:39+00:00'
+    id: 'urn:uuid:0028a652-c6df-5111-a613-00922820c336'
+    link: 'https://pub.dartlang.org/packages/dart_webcrypto'
+    author:
+        - 'Andreas Reiter <andreas.reiter@iaik.tugraz.at>'
