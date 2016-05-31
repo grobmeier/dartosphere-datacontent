@@ -63557,3 +63557,12 @@
     link: 'https://pub.dartlang.org/packages/build'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dartabase_core
+    package_version: v0.4.1
+    title: 'v0.4.1 of dartabase_core'
+    published: '2016-05-31T17:48:01+00:00'
+    id: 'urn:uuid:9655fb07-a5a4-5f27-ba64-a5bf9e684518'
+    link: 'https://pub.dartlang.org/packages/dartabase_core'
+    author:
+        - 'Hannes Rammer <Hannes.Rammer@gmail.com>'
