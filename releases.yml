@@ -63521,3 +63521,12 @@
     link: 'https://pub.dartlang.org/packages/rethinkdb_driver'
     author:
         - 'William Welch <billywelch@gmail.com>'
+-
+    package_name: zwave
+    package_version: v0.1.1
+    title: 'v0.1.1 of zwave'
+    published: '2016-05-31T03:10:28+00:00'
+    id: 'urn:uuid:10453581-ff73-5c21-937e-d63e1161f848'
+    link: 'https://pub.dartlang.org/packages/zwave'
+    author:
+        - 'Dan Rubel <danrubel@google.com>'
