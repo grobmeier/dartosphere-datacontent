@@ -63595,3 +63595,93 @@
     link: 'https://pub.dartlang.org/packages/stream'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: flutter_gallery_assets
+    package_version: v0.0.19
+    title: 'v0.0.19 of flutter_gallery_assets'
+    published: '2016-06-02T18:53:15+00:00'
+    id: 'urn:uuid:85b1373e-6e6a-53a4-9fe1-4b81eb779620'
+    link: 'https://pub.dartlang.org/packages/flutter_gallery_assets'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: coverage
+    package_version: v0.7.4
+    title: 'v0.7.4 of coverage'
+    published: '2016-06-02T18:30:07+00:00'
+    id: 'urn:uuid:e591507d-2a74-5f35-962b-c9c4b064df5b'
+    link: 'https://pub.dartlang.org/packages/coverage'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: mojo_sdk
+    package_version: v0.2.28
+    title: 'v0.2.28 of mojo_sdk'
+    published: '2016-06-02T18:29:37+00:00'
+    id: 'urn:uuid:c729153b-11ff-5eb5-9a48-cdd8b17778cd'
+    link: 'https://pub.dartlang.org/packages/mojo_sdk'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_services
+    package_version: v0.4.31
+    title: 'v0.4.31 of mojo_services'
+    published: '2016-06-02T18:26:25+00:00'
+    id: 'urn:uuid:8524cffe-f179-52dc-a5db-97eff77f9d2a'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo
+    package_version: v0.4.24
+    title: 'v0.4.24 of mojo'
+    published: '2016-06-02T18:26:16+00:00'
+    id: 'urn:uuid:0cf71560-4996-5b78-a890-03dd31eb15d3'
+    link: 'https://pub.dartlang.org/packages/mojo'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: crossdart
+    package_version: v0.2.7
+    title: 'v0.2.7 of crossdart'
+    published: '2016-06-02T17:43:39+00:00'
+    id: 'urn:uuid:1a80f847-353e-54a9-a5ad-2f6134759b8e'
+    link: 'https://pub.dartlang.org/packages/crossdart'
+    author:
+        - 'Anton Astashov <anton.astashov@gmail.com>'
+-
+    package_name: linter
+    package_version: v0.1.18
+    title: 'v0.1.18 of linter'
+    published: '2016-06-02T16:32:05+00:00'
+    id: 'urn:uuid:627d65ac-e90f-5201-9ad3-2c757ac5c7b8'
+    link: 'https://pub.dartlang.org/packages/linter'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: scissors
+    package_version: v0.6.2
+    title: 'v0.6.2 of scissors'
+    published: '2016-06-02T15:25:51+00:00'
+    id: 'urn:uuid:b2eb1268-62a0-55da-8289-fb23e2b14c3f'
+    link: 'https://pub.dartlang.org/packages/scissors'
+    author:
+        - 'Olivier Chafik <ochafik@google.com>'
+-
+    package_name: picsou_simulation
+    package_version: v0.0.2
+    title: 'v0.0.2 of picsou_simulation'
+    published: '2016-06-02T12:06:17+00:00'
+    id: 'urn:uuid:4196c434-903c-52ac-95e7-8b377616ad3e'
+    link: 'https://pub.dartlang.org/packages/picsou_simulation'
+    author:
+        - 'Matthieu MAQUEVICE <matthieu.maquevice@imoteq.com>'
+-
+    package_name: coffee_cli
+    package_version: v0.1.1
+    title: 'v0.1.1 of coffee_cli'
+    published: '2016-06-02T05:05:16+00:00'
+    id: 'urn:uuid:156894e3-8ba8-5916-a449-b636d74afea3'
+    link: 'https://pub.dartlang.org/packages/coffee_cli'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
