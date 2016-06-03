@@ -63813,3 +63813,12 @@
     link: 'https://pub.dartlang.org/packages/build'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: source_gen
+    package_version: v0.5.0+2
+    title: 'v0.5.0+2 of source_gen'
+    published: '2016-06-03T20:23:29+00:00'
+    id: 'urn:uuid:32187bc9-69b2-5026-a92c-cca90a193776'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
