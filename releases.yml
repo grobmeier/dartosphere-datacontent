@@ -63822,3 +63822,21 @@
     link: 'https://pub.dartlang.org/packages/source_gen'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: crypto
+    package_version: v2.0.1
+    title: 'v2.0.1 of crypto'
+    published: '2016-06-03T22:57:17+00:00'
+    id: 'urn:uuid:112e71fd-f476-5f56-9683-5d10f67afb4d'
+    link: 'https://pub.dartlang.org/packages/crypto'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: convert
+    package_version: v2.0.0
+    title: 'v2.0.0 of convert'
+    published: '2016-06-03T22:29:01+00:00'
+    id: 'urn:uuid:d2f9d8fd-d2b5-5968-96b9-9a37b51f655c'
+    link: 'https://pub.dartlang.org/packages/convert'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
