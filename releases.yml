@@ -63685,3 +63685,95 @@
     link: 'https://pub.dartlang.org/packages/coffee_cli'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: firebase_rest
+    package_version: v0.1.5
+    title: 'v0.1.5 of firebase_rest'
+    published: '2016-06-03T14:27:02+00:00'
+    id: 'urn:uuid:f1621839-07e0-5d6b-9e5a-1a277851c5cd'
+    link: 'https://pub.dartlang.org/packages/firebase_rest'
+    author:
+        - 'Rik Bellens <rik.bellens@appsup.be>'
+-
+    package_name: picsou_simulation
+    package_version: v0.0.3
+    title: 'v0.0.3 of picsou_simulation'
+    published: '2016-06-03T13:46:33+00:00'
+    id: 'urn:uuid:45ed6623-8305-5f08-b4bc-4fcb315e2242'
+    link: 'https://pub.dartlang.org/packages/picsou_simulation'
+    author:
+        - 'Matthieu MAQUEVICE <matthieu.maquevice@imoteq.com>'
+-
+    package_name: wired
+    package_version: v0.4.5
+    title: 'v0.4.5 of wired'
+    published: '2016-06-03T10:56:51+00:00'
+    id: 'urn:uuid:8c29b4e7-60eb-55fb-9944-e675b609733f'
+    link: 'https://pub.dartlang.org/packages/wired'
+    author:
+        - 'Joris Hermans <hermansj@gmail.com>'
+-
+    package_name: money
+    package_version: v0.1.4
+    title: 'v0.1.4 of money'
+    published: '2016-06-03T09:07:52+00:00'
+    id: 'urn:uuid:36cd1d3d-b432-58bf-a89b-7bb994434a14'
+    link: 'https://pub.dartlang.org/packages/money'
+    author:
+        - 'Roman Shamritskiy <roman@litgroup.ru>'
+-
+    package_name: coffee_cli
+    package_version: v0.2.1
+    title: 'v0.2.1 of coffee_cli'
+    published: '2016-06-03T04:56:55+00:00'
+    id: 'urn:uuid:4a96c9d8-dc6d-55a5-88db-e8d48b112940'
+    link: 'https://pub.dartlang.org/packages/coffee_cli'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: crossdart
+    package_version: v0.3.0
+    title: 'v0.3.0 of crossdart'
+    published: '2016-06-03T04:44:24+00:00'
+    id: 'urn:uuid:e2c12d20-be82-57b7-9d00-8615920b2475'
+    link: 'https://pub.dartlang.org/packages/crossdart'
+    author:
+        - 'Anton Astashov <anton.astashov@gmail.com>'
+-
+    package_name: firebase
+    package_version: v0.6.6+2
+    title: 'v0.6.6+2 of firebase'
+    published: '2016-06-02T23:47:46+00:00'
+    id: 'urn:uuid:b61974cf-6e91-5f92-bb2b-690d282ae3ae'
+    link: 'https://pub.dartlang.org/packages/firebase'
+    author:
+        - 'Anant Narayanan <anant@kix.in>'
+        - 'Seth Ladd <sethladd@gmail.com>'
+        - 'Kevin Moore <github@j832.com>'
+-
+    package_name: junitreport
+    package_version: v0.2.0
+    title: 'v0.2.0 of junitreport'
+    published: '2016-06-02T19:52:33+00:00'
+    id: 'urn:uuid:84221b4a-acff-5dfb-95ca-a68140d8784b'
+    link: 'https://pub.dartlang.org/packages/junitreport'
+    author:
+        - 'Roel Spilker <r.spilker@gmail.com>'
+-
+    package_name: build_test
+    package_version: v0.1.1
+    title: 'v0.1.1 of build_test'
+    published: '2016-06-02T19:50:21+00:00'
+    id: 'urn:uuid:07530740-0d84-58fd-a6be-b8e1676a87b3'
+    link: 'https://pub.dartlang.org/packages/build_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: testreport
+    package_version: v0.2.0
+    title: 'v0.2.0 of testreport'
+    published: '2016-06-02T19:37:50+00:00'
+    id: 'urn:uuid:8390e099-bd50-5348-ab7b-f074d2bf3359'
+    link: 'https://pub.dartlang.org/packages/testreport'
+    author:
+        - 'Roel Spilker <r.spilker@gmail.com>'
