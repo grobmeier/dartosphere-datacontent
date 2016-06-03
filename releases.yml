@@ -63777,3 +63777,12 @@
     link: 'https://pub.dartlang.org/packages/testreport'
     author:
         - 'Roel Spilker <r.spilker@gmail.com>'
+-
+    package_name: firebase_rest
+    package_version: v0.1.6
+    title: 'v0.1.6 of firebase_rest'
+    published: '2016-06-03T15:00:16+00:00'
+    id: 'urn:uuid:4685b274-e8af-5699-a7ba-3326c771084b'
+    link: 'https://pub.dartlang.org/packages/firebase_rest'
+    author:
+        - 'Rik Bellens <rik.bellens@appsup.be>'
