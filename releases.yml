@@ -63887,3 +63887,12 @@
     link: 'https://pub.dartlang.org/packages/uuid'
     author:
         - 'Yulian Kuncheff <yulian@kuncheff.com>'
+-
+    package_name: coverage
+    package_version: v0.7.5
+    title: 'v0.7.5 of coverage'
+    published: '2016-06-04T20:23:39+00:00'
+    id: 'urn:uuid:c2d9ebe5-e5d3-5724-af49-a54e27b32d1a'
+    link: 'https://pub.dartlang.org/packages/coverage'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
