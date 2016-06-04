@@ -63869,3 +63869,12 @@
         - 'Anant Narayanan <anant@kix.in>'
         - 'Seth Ladd <sethladd@gmail.com>'
         - 'Kevin Moore <github@j832.com>'
+-
+    package_name: ng2_g_signin
+    package_version: v0.2.0+3
+    title: 'v0.2.0+3 of ng2_g_signin'
+    published: '2016-06-04T03:20:15+00:00'
+    id: 'urn:uuid:b93c381f-85c4-5147-afb0-c18c00f738b2'
+    link: 'https://pub.dartlang.org/packages/ng2_g_signin'
+    author:
+        - 'ntaoo <ntaoo.g@gmail.com>'
