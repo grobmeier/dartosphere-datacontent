@@ -63878,3 +63878,12 @@
     link: 'https://pub.dartlang.org/packages/ng2_g_signin'
     author:
         - 'ntaoo <ntaoo.g@gmail.com>'
+-
+    package_name: uuid
+    package_version: v0.5.3
+    title: 'v0.5.3 of uuid'
+    published: '2016-06-04T04:59:34+00:00'
+    id: 'urn:uuid:6e918d9b-15d6-51fc-8277-3bc18dd6bbb9'
+    link: 'https://pub.dartlang.org/packages/uuid'
+    author:
+        - 'Yulian Kuncheff <yulian@kuncheff.com>'
