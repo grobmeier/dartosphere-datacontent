@@ -63896,3 +63896,12 @@
     link: 'https://pub.dartlang.org/packages/coverage'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: coverage
+    package_version: v0.7.6
+    title: 'v0.7.6 of coverage'
+    published: '2016-06-04T22:06:28+00:00'
+    id: 'urn:uuid:4a7392aa-691f-5861-bf6e-70e8852fbf98'
+    link: 'https://pub.dartlang.org/packages/coverage'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
