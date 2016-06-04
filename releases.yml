@@ -63858,3 +63858,14 @@
     link: 'https://pub.dartlang.org/packages/ng2_g_signin'
     author:
         - 'ntaoo <ntaoo.g@gmail.com>'
+-
+    package_name: firebase
+    package_version: v0.6.6+3
+    title: 'v0.6.6+3 of firebase'
+    published: '2016-06-04T02:40:26+00:00'
+    id: 'urn:uuid:d7b98da6-7976-52cf-9620-1633ad88b86f'
+    link: 'https://pub.dartlang.org/packages/firebase'
+    author:
+        - 'Anant Narayanan <anant@kix.in>'
+        - 'Seth Ladd <sethladd@gmail.com>'
+        - 'Kevin Moore <github@j832.com>'
