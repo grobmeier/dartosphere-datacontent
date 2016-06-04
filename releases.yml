@@ -63840,3 +63840,21 @@
     link: 'https://pub.dartlang.org/packages/convert'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: polyce
+    package_version: v0.1.4
+    title: 'v0.1.4 of polyce'
+    published: '2016-06-04T01:49:40+00:00'
+    id: 'urn:uuid:46885ff3-eb80-5fa0-b232-370cbf3b3ce6'
+    link: 'https://pub.dartlang.org/packages/polyce'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: ng2_g_signin
+    package_version: v0.2.0+2
+    title: 'v0.2.0+2 of ng2_g_signin'
+    published: '2016-06-04T01:22:18+00:00'
+    id: 'urn:uuid:c6077a45-9411-530c-809d-ea07b0c86f11'
+    link: 'https://pub.dartlang.org/packages/ng2_g_signin'
+    author:
+        - 'ntaoo <ntaoo.g@gmail.com>'
