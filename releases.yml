@@ -63914,3 +63914,12 @@
     link: 'https://pub.dartlang.org/packages/polyce'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: dartz
+    package_version: v0.2.1
+    title: 'v0.2.1 of dartz'
+    published: '2016-06-05T19:07:51+00:00'
+    id: 'urn:uuid:f45ae30e-439d-5248-a176-fbc8084b2123'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
