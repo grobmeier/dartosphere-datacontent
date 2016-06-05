@@ -63905,3 +63905,12 @@
     link: 'https://pub.dartlang.org/packages/coverage'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: polyce
+    package_version: v0.1.5+1
+    title: 'v0.1.5+1 of polyce'
+    published: '2016-06-05T18:03:29+00:00'
+    id: 'urn:uuid:7e043582-0dcd-5eb1-a2ed-4cf8940cd216'
+    link: 'https://pub.dartlang.org/packages/polyce'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
