@@ -63959,3 +63959,12 @@
     link: 'https://pub.dartlang.org/packages/osx'
     author:
         - 'Kenneth Endfinger <kaendfinger@gmail.com>'
+-
+    package_name: react
+    package_version: v2.0.0
+    title: 'v2.0.0 of react'
+    published: '2016-06-06T07:26:30+00:00'
+    id: 'urn:uuid:dfe8fdf2-822b-5b23-a1f9-be1ba088c3f3'
+    link: 'https://pub.dartlang.org/packages/react'
+    author:
+        - 'Clean Team <clean@vacuumlabs.com>'
