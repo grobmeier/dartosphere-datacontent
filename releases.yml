@@ -64098,3 +64098,21 @@
     link: 'https://pub.dartlang.org/packages/build'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: string_scanner
+    package_version: v0.1.5
+    title: 'v0.1.5 of string_scanner'
+    published: '2016-06-06T23:52:28+00:00'
+    id: 'urn:uuid:aaaf1249-139e-5a91-bd87-b96e93341543'
+    link: 'https://pub.dartlang.org/packages/string_scanner'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: stream_channel
+    package_version: v1.5.0
+    title: 'v1.5.0 of stream_channel'
+    published: '2016-06-06T23:35:31+00:00'
+    id: 'urn:uuid:0dfb5f5b-3ebe-54d9-8458-5e6339908f92'
+    link: 'https://pub.dartlang.org/packages/stream_channel'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
