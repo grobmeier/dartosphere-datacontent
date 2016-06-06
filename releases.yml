@@ -63950,3 +63950,12 @@
     link: 'https://pub.dartlang.org/packages/crossdart'
     author:
         - 'Anton Astashov <anton.astashov@gmail.com>'
+-
+    package_name: osx
+    package_version: v1.2.0
+    title: 'v1.2.0 of osx'
+    published: '2016-06-06T05:24:42+00:00'
+    id: 'urn:uuid:f849424d-aef6-5925-801e-fd06efde1395'
+    link: 'https://pub.dartlang.org/packages/osx'
+    author:
+        - 'Kenneth Endfinger <kaendfinger@gmail.com>'
