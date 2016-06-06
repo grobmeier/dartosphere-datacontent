@@ -64089,3 +64089,12 @@
     link: 'https://pub.dartlang.org/packages/coverage'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build
+    package_version: v0.3.0+5
+    title: 'v0.3.0+5 of build'
+    published: '2016-06-06T20:11:34+00:00'
+    id: 'urn:uuid:7c276d42-527c-5761-a776-99d3cb53966a'
+    link: 'https://pub.dartlang.org/packages/build'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
