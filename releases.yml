@@ -64004,3 +64004,21 @@
     link: 'https://pub.dartlang.org/packages/googleapis'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: plot_window
+    package_version: v0.0.46
+    title: 'v0.0.46 of plot_window'
+    published: '2016-06-06T12:47:00+00:00'
+    id: 'urn:uuid:0b4ccb3d-946d-5110-b471-aecc281c8674'
+    link: 'https://pub.dartlang.org/packages/plot_window'
+    author:
+        - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: ebisu
+    package_version: v0.7.0
+    title: 'v0.7.0 of ebisu'
+    published: '2016-06-06T12:03:33+00:00'
+    id: 'urn:uuid:f7cb23c8-79c0-55b3-969f-884b782521f1'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
