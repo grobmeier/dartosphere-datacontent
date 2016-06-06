@@ -63941,3 +63941,12 @@
     link: 'https://pub.dartlang.org/packages/dartabase_migration'
     author:
         - 'Hannes Rammer <Hannes.Rammer@gmail.com>'
+-
+    package_name: crossdart
+    package_version: v0.4.0
+    title: 'v0.4.0 of crossdart'
+    published: '2016-06-06T02:41:06+00:00'
+    id: 'urn:uuid:9c0e0ae0-bc5f-5bf0-bb14-4e360fe649bb'
+    link: 'https://pub.dartlang.org/packages/crossdart'
+    author:
+        - 'Anton Astashov <anton.astashov@gmail.com>'
