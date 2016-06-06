@@ -64062,3 +64062,30 @@
     link: 'https://pub.dartlang.org/packages/source_gen'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: archive
+    package_version: v1.0.24
+    title: 'v1.0.24 of archive'
+    published: '2016-06-06T19:54:20+00:00'
+    id: 'urn:uuid:33267810-0dfb-508a-8c6f-8f4f4b7ec125'
+    link: 'https://pub.dartlang.org/packages/archive'
+    author:
+        - 'Brendan Duncan <brendanduncan@gmail.com>'
+-
+    package_name: web_socket_channel
+    package_version: v1.0.4
+    title: 'v1.0.4 of web_socket_channel'
+    published: '2016-06-06T19:51:42+00:00'
+    id: 'urn:uuid:19e864f0-8459-5f3a-8ffb-2bf711064370'
+    link: 'https://pub.dartlang.org/packages/web_socket_channel'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: coverage
+    package_version: v0.7.7
+    title: 'v0.7.7 of coverage'
+    published: '2016-06-06T19:40:30+00:00'
+    id: 'urn:uuid:959da7cf-82fa-5c1b-9628-8ed54cc8d102'
+    link: 'https://pub.dartlang.org/packages/coverage'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
