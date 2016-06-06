@@ -64053,3 +64053,12 @@
         - 'Paul Evans <pevans@sonardesign.com>'
         - 'Stéphane Este-Gracias <sestegra@gmail.com>'
         - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
+-
+    package_name: source_gen
+    package_version: v0.5.0+3
+    title: 'v0.5.0+3 of source_gen'
+    published: '2016-06-06T17:17:34+00:00'
+    id: 'urn:uuid:b8682278-b0ad-5d38-a2ef-0da56a232a9d'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
