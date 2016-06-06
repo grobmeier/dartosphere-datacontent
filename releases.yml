@@ -63932,3 +63932,12 @@
     link: 'https://pub.dartlang.org/packages/dartabase_model'
     author:
         - 'Hannes Rammer <Hannes.Rammer@gmail.com>'
+-
+    package_name: dartabase_migration
+    package_version: v1.0.0
+    title: 'v1.0.0 of dartabase_migration'
+    published: '2016-06-06T01:58:51+00:00'
+    id: 'urn:uuid:c7a3260b-c1e4-5dbd-9d64-91e42625b997'
+    link: 'https://pub.dartlang.org/packages/dartabase_migration'
+    author:
+        - 'Hannes Rammer <Hannes.Rammer@gmail.com>'
