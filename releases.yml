@@ -64031,3 +64031,25 @@
     link: 'https://pub.dartlang.org/packages/dartz'
     author:
         - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: crossdart
+    package_version: v0.4.1
+    title: 'v0.4.1 of crossdart'
+    published: '2016-06-06T16:13:02+00:00'
+    id: 'urn:uuid:59e95b74-2719-55ce-91b7-27c59f7fccd3'
+    link: 'https://pub.dartlang.org/packages/crossdart'
+    author:
+        - 'Anton Astashov <anton.astashov@gmail.com>'
+-
+    package_name: mongo_dart
+    package_version: v0.2.6
+    title: 'v0.2.6 of mongo_dart'
+    published: '2016-06-06T16:07:17+00:00'
+    id: 'urn:uuid:3ddd592b-5cc4-5ce5-ab7d-346c1d573125'
+    link: 'https://pub.dartlang.org/packages/mongo_dart'
+    author:
+        - 'Vadim Tsushko <vadimtsushko@gmail.com>'
+        - 'Ted Sander <ted@tedsander.com>'
+        - 'Paul Evans <pevans@sonardesign.com>'
+        - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+        - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
