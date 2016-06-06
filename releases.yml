@@ -63968,3 +63968,21 @@
     link: 'https://pub.dartlang.org/packages/react'
     author:
         - 'Clean Team <clean@vacuumlabs.com>'
+-
+    package_name: enum_class_generator
+    package_version: v0.2.1
+    title: 'v0.2.1 of enum_class_generator'
+    published: '2016-06-06T08:52:27+00:00'
+    id: 'urn:uuid:37c2f287-5851-5dcb-90e6-85bd7de26c75'
+    link: 'https://pub.dartlang.org/packages/enum_class_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: enum_class
+    package_version: v0.2.1
+    title: 'v0.2.1 of enum_class'
+    published: '2016-06-06T08:51:48+00:00'
+    id: 'urn:uuid:30220b74-35f9-5547-9d10-129ffaf74cf4'
+    link: 'https://pub.dartlang.org/packages/enum_class'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
