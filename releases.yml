@@ -63923,3 +63923,12 @@
     link: 'https://pub.dartlang.org/packages/dartz'
     author:
         - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: dartabase_model
+    package_version: v1.0.0
+    title: 'v1.0.0 of dartabase_model'
+    published: '2016-06-06T00:52:02+00:00'
+    id: 'urn:uuid:b4c98046-4a13-530f-9426-612a90bb3ba2'
+    link: 'https://pub.dartlang.org/packages/dartabase_model'
+    author:
+        - 'Hannes Rammer <Hannes.Rammer@gmail.com>'
