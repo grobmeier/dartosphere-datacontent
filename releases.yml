@@ -64022,3 +64022,12 @@
     link: 'https://pub.dartlang.org/packages/ebisu'
     author:
         - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: dartz
+    package_version: v0.2.2
+    title: 'v0.2.2 of dartz'
+    published: '2016-06-06T15:21:35+00:00'
+    id: 'urn:uuid:366b0699-a94a-58ff-930b-81fd96330a7e'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
