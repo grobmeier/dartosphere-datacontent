@@ -64170,3 +64170,21 @@
     link: 'https://pub.dartlang.org/packages/crossdart'
     author:
         - 'Anton Astashov <anton.astashov@gmail.com>'
+-
+    package_name: enum_class_generator
+    package_version: v0.2.2
+    title: 'v0.2.2 of enum_class_generator'
+    published: '2016-06-07T15:03:28+00:00'
+    id: 'urn:uuid:8ec15104-5918-5189-9cb9-23176d807362'
+    link: 'https://pub.dartlang.org/packages/enum_class_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: enum_class
+    package_version: v0.2.2
+    title: 'v0.2.2 of enum_class'
+    published: '2016-06-07T15:03:04+00:00'
+    id: 'urn:uuid:17cbfb2c-d4c5-52c5-958b-3b6a204985d5'
+    link: 'https://pub.dartlang.org/packages/enum_class'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
