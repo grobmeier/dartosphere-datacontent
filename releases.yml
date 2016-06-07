@@ -64188,3 +64188,15 @@
     link: 'https://pub.dartlang.org/packages/enum_class'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: dslink
+    package_version: v0.6.1
+    title: 'v0.6.1 of dslink'
+    published: '2016-06-07T16:53:11+00:00'
+    id: 'urn:uuid:085b7b21-2072-5422-a3be-834246312036'
+    link: 'https://pub.dartlang.org/packages/dslink'
+    author:
+        - 'Kenneth Endfinger <k.endfinger@dglogik.com>'
+        - 'Rick Zhou <z.zhou@dglogik.com>'
+        - 'Michael Bullington <m.bullington@dglogik.com>'
+        - 'Matthew Butler <m.butler@dglogik.com>'
