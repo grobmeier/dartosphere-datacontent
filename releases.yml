@@ -64200,3 +64200,12 @@
         - 'Rick Zhou <z.zhou@dglogik.com>'
         - 'Michael Bullington <m.bullington@dglogik.com>'
         - 'Matthew Butler <m.butler@dglogik.com>'
+-
+    package_name: custom_elements
+    package_version: v0.0.7+2
+    title: 'v0.0.7+2 of custom_elements'
+    published: '2016-06-07T17:22:58+00:00'
+    id: 'urn:uuid:c852bf53-4634-5326-8d3d-949c694ec98d'
+    link: 'https://pub.dartlang.org/packages/custom_elements'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@drafintech.it>'
