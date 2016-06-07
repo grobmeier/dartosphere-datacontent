@@ -64161,3 +64161,12 @@
     link: 'https://pub.dartlang.org/packages/firebase_dart'
     author:
         - 'Rik Bellens <rik.bellens@appsup.be>'
+-
+    package_name: crossdart
+    package_version: v0.4.2
+    title: 'v0.4.2 of crossdart'
+    published: '2016-06-07T13:47:37+00:00'
+    id: 'urn:uuid:11608d13-b96d-5d8c-908a-b90ba3972743'
+    link: 'https://pub.dartlang.org/packages/crossdart'
+    author:
+        - 'Anton Astashov <anton.astashov@gmail.com>'
