@@ -64134,3 +64134,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_app_layout'
     author:
         - 'Mike Hoolehan <mike@hoolehan.com>'
+-
+    package_name: picsou_simulation
+    package_version: v0.0.4
+    title: 'v0.0.4 of picsou_simulation'
+    published: '2016-06-07T09:25:55+00:00'
+    id: 'urn:uuid:6ebdc09b-8c01-5bb5-85b0-90ce824cb0ed'
+    link: 'https://pub.dartlang.org/packages/picsou_simulation'
+    author:
+        - 'Matthieu MAQUEVICE <matthieu.maquevice@imoteq.com>'
