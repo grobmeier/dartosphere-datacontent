@@ -64143,3 +64143,12 @@
     link: 'https://pub.dartlang.org/packages/picsou_simulation'
     author:
         - 'Matthieu MAQUEVICE <matthieu.maquevice@imoteq.com>'
+-
+    package_name: sortedmap
+    package_version: v0.1.0
+    title: 'v0.1.0 of sortedmap'
+    published: '2016-06-07T10:32:11+00:00'
+    id: 'urn:uuid:08cf9442-d047-586f-8c60-70c6057f026c'
+    link: 'https://pub.dartlang.org/packages/sortedmap'
+    author:
+        - 'Rik Bellens <rik.bellens@appsup.be>'
