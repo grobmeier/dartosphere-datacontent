@@ -64237,3 +64237,12 @@
     link: 'https://pub.dartlang.org/packages/simulator_eurl_sasu'
     author:
         - 'Matthieu MAQUEVICE <matthieu.maquevice@imoteq.com>'
+-
+    package_name: firebase_rest
+    package_version: v0.1.7
+    title: 'v0.1.7 of firebase_rest'
+    published: '2016-06-08T10:53:54+00:00'
+    id: 'urn:uuid:75edc9b5-a000-5c9e-8cd2-6cc0a0aec269'
+    link: 'https://pub.dartlang.org/packages/firebase_rest'
+    author:
+        - 'Rik Bellens <rik.bellens@appsup.be>'
