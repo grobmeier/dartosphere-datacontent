@@ -64246,3 +64246,12 @@
     link: 'https://pub.dartlang.org/packages/firebase_rest'
     author:
         - 'Rik Bellens <rik.bellens@appsup.be>'
+-
+    package_name: simulator_eurl_sasu
+    package_version: v0.0.3
+    title: 'v0.0.3 of simulator_eurl_sasu'
+    published: '2016-06-08T12:13:21+00:00'
+    id: 'urn:uuid:f16aa6a5-9d4f-5f62-be26-44da646850e6'
+    link: 'https://pub.dartlang.org/packages/simulator_eurl_sasu'
+    author:
+        - 'Matthieu MAQUEVICE <matthieu.maquevice@imoteq.com>'
