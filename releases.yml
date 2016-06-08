@@ -64291,3 +64291,12 @@
     link: 'https://pub.dartlang.org/packages/flutter_gallery_assets'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: ebisu
+    package_version: v0.7.2
+    title: 'v0.7.2 of ebisu'
+    published: '2016-06-08T20:07:22+00:00'
+    id: 'urn:uuid:c5e78603-c0c5-52c3-ba2b-013ba0069e25'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
