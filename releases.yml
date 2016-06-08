@@ -64228,3 +64228,12 @@
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
         - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+-
+    package_name: simulator_eurl_sasu
+    package_version: v0.0.1
+    title: 'v0.0.1 of simulator_eurl_sasu'
+    published: '2016-06-08T09:52:35+00:00'
+    id: 'urn:uuid:c406ad04-d526-5482-9e63-0319904b28b7'
+    link: 'https://pub.dartlang.org/packages/simulator_eurl_sasu'
+    author:
+        - 'Matthieu MAQUEVICE <matthieu.maquevice@imoteq.com>'
