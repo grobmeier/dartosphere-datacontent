@@ -64318,3 +64318,12 @@
     link: 'https://pub.dartlang.org/packages/webdriver'
     author:
         - 'Marc Fisher II <fisherii@google.com>'
+-
+    package_name: pub_semver
+    package_version: v1.3.0
+    title: 'v1.3.0 of pub_semver'
+    published: '2016-06-08T23:42:57+00:00'
+    id: 'urn:uuid:dc28a0c8-c343-5206-9d6e-3910eb770fd5'
+    link: 'https://pub.dartlang.org/packages/pub_semver'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
