@@ -64273,3 +64273,21 @@
     link: 'https://pub.dartlang.org/packages/gcloud'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: ebisu
+    package_version: v0.7.1
+    title: 'v0.7.1 of ebisu'
+    published: '2016-06-08T19:14:53+00:00'
+    id: 'urn:uuid:7fa4a671-7261-5a56-be54-e653966d3648'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: flutter_gallery_assets
+    package_version: v0.0.21
+    title: 'v0.0.21 of flutter_gallery_assets'
+    published: '2016-06-08T19:03:38+00:00'
+    id: 'urn:uuid:702738c8-4055-57a4-864e-e4ea33949f7d'
+    link: 'https://pub.dartlang.org/packages/flutter_gallery_assets'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
