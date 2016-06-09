@@ -64336,3 +64336,30 @@
     link: 'https://pub.dartlang.org/packages/googleapis_auth'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: json_schema
+    package_version: v1.0.4
+    title: 'v1.0.4 of json_schema'
+    published: '2016-06-09T16:16:12+00:00'
+    id: 'urn:uuid:e6915f0f-9fa7-5329-b5ad-c2a6dbde0824'
+    link: 'https://pub.dartlang.org/packages/json_schema'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: ebisu
+    package_version: v0.7.3
+    title: 'v0.7.3 of ebisu'
+    published: '2016-06-09T16:05:14+00:00'
+    id: 'urn:uuid:3954fc5d-34d8-58af-88c6-2d50307ee973'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: package_config
+    package_version: v0.1.5
+    title: 'v0.1.5 of package_config'
+    published: '2016-06-09T16:04:30+00:00'
+    id: 'urn:uuid:8f7b134f-3827-5496-98e1-bf0cd7c6ff0d'
+    link: 'https://pub.dartlang.org/packages/package_config'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
