@@ -64327,3 +64327,12 @@
     link: 'https://pub.dartlang.org/packages/pub_semver'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: googleapis_auth
+    package_version: v0.2.3+4
+    title: 'v0.2.3+4 of googleapis_auth'
+    published: '2016-06-09T09:07:27+00:00'
+    id: 'urn:uuid:68fa8f50-2bb6-5fb1-9454-885524dbb1de'
+    link: 'https://pub.dartlang.org/packages/googleapis_auth'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
