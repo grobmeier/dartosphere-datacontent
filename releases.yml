@@ -64391,3 +64391,16 @@
     link: 'https://pub.dartlang.org/packages/sockfile'
     author:
         - 'Dwayne Slater <ds84182@gmail.com>'
+-
+    package_name: mongo_dart
+    package_version: v0.2.7
+    title: 'v0.2.7 of mongo_dart'
+    published: '2016-06-10T06:37:04+00:00'
+    id: 'urn:uuid:6b198bc1-8512-55f3-aa2d-2f9d8e67b69a'
+    link: 'https://pub.dartlang.org/packages/mongo_dart'
+    author:
+        - 'Vadim Tsushko <vadimtsushko@gmail.com>'
+        - 'Ted Sander <ted@tedsander.com>'
+        - 'Paul Evans <pevans@sonardesign.com>'
+        - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+        - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
