@@ -64440,3 +64440,12 @@
     link: 'https://pub.dartlang.org/packages/rational'
     author:
         - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+-
+    package_name: stagexl_gaf
+    package_version: v0.1.2+2
+    title: 'v0.1.2+2 of stagexl_gaf'
+    published: '2016-06-10T17:49:50+00:00'
+    id: 'urn:uuid:2100b118-2991-57e3-a852-df02e740b7da'
+    link: 'https://pub.dartlang.org/packages/stagexl_gaf'
+    author:
+        - 'Bernhard Pichler <support@stagexl.org>'
