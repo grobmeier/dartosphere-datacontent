@@ -64449,3 +64449,21 @@
     link: 'https://pub.dartlang.org/packages/stagexl_gaf'
     author:
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: stagexl_gaf
+    package_version: v0.1.2+3
+    title: 'v0.1.2+3 of stagexl_gaf'
+    published: '2016-06-11T05:28:23+00:00'
+    id: 'urn:uuid:e760526d-282c-53d7-9c2b-cc84b0f2e643'
+    link: 'https://pub.dartlang.org/packages/stagexl_gaf'
+    author:
+        - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: stagexl
+    package_version: v0.13.8
+    title: 'v0.13.8 of stagexl'
+    published: '2016-06-11T05:19:57+00:00'
+    id: 'urn:uuid:b2f4cf7b-52e8-546a-be6a-ce172d1079f0'
+    link: 'https://pub.dartlang.org/packages/stagexl'
+    author:
+        - 'Bernhard Pichler <support@stagexl.org>'
