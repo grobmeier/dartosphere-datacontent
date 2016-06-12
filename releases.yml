@@ -64467,3 +64467,12 @@
     link: 'https://pub.dartlang.org/packages/stagexl'
     author:
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: dartemporal
+    package_version: v0.0.5
+    title: 'v0.0.5 of dartemporal'
+    published: '2016-06-12T16:15:58+00:00'
+    id: 'urn:uuid:a3a595c8-ecb9-53e7-bea9-f49f382eb96e'
+    link: 'https://pub.dartlang.org/packages/dartemporal'
+    author:
+        - 'Ira Burton <ira.burton@gmail.com>'
