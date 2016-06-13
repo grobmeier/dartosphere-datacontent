@@ -64530,3 +64530,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_autonotify'
     author:
         - 'Vittorio Ballestra (Drafintech s.r.l.) <vittorio.ballestra@gmail.com>'
+-
+    package_name: material2_dart
+    package_version: v0.0.4+1
+    title: 'v0.0.4+1 of material2_dart'
+    published: '2016-06-13T21:08:15+00:00'
+    id: 'urn:uuid:93ea7c23-78da-5c88-8c13-5c3b66f56d20'
+    link: 'https://pub.dartlang.org/packages/material2_dart'
+    author:
+        - 'ntaoo <ntaoo.g@gmail.com>'
