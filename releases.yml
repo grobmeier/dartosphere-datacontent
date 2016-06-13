@@ -64512,3 +64512,21 @@
     link: 'https://pub.dartlang.org/packages/material2_dart'
     author:
         - 'ntaoo <ntaoo.g@gmail.com>'
+-
+    package_name: autonotify_observe
+    package_version: v1.0.0+8
+    title: 'v1.0.0+8 of autonotify_observe'
+    published: '2016-06-13T16:51:09+00:00'
+    id: 'urn:uuid:c5040d0f-cf41-5b15-a857-bcd073b13c99'
+    link: 'https://pub.dartlang.org/packages/autonotify_observe'
+    author:
+        - 'Vittorio Ballestra (Drafintech s.r.l.) <vittorio.ballestra@gmail.com>'
+-
+    package_name: polymer_autonotify
+    package_version: v1.0.0+2
+    title: 'v1.0.0+2 of polymer_autonotify'
+    published: '2016-06-13T16:50:54+00:00'
+    id: 'urn:uuid:d8767337-a69a-55e8-8e87-4de0c9b06b18'
+    link: 'https://pub.dartlang.org/packages/polymer_autonotify'
+    author:
+        - 'Vittorio Ballestra (Drafintech s.r.l.) <vittorio.ballestra@gmail.com>'
