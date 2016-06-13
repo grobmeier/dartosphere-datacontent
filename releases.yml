@@ -64503,3 +64503,12 @@
     link: 'https://pub.dartlang.org/packages/ng2_g_signin'
     author:
         - 'ntaoo <ntaoo.g@gmail.com>'
+-
+    package_name: material2_dart
+    package_version: v0.0.4
+    title: 'v0.0.4 of material2_dart'
+    published: '2016-06-13T14:47:17+00:00'
+    id: 'urn:uuid:19fa9c2a-59aa-5d8b-b42b-477888ad269e'
+    link: 'https://pub.dartlang.org/packages/material2_dart'
+    author:
+        - 'ntaoo <ntaoo.g@gmail.com>'
