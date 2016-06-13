@@ -64593,3 +64593,12 @@
     link: 'https://pub.dartlang.org/packages/mojo'
     author:
         - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: coffee_cli
+    package_version: v0.3.0
+    title: 'v0.3.0 of coffee_cli'
+    published: '2016-06-13T23:25:37+00:00'
+    id: 'urn:uuid:8f5e66ea-e9d1-516e-8892-18f4779bec73'
+    link: 'https://pub.dartlang.org/packages/coffee_cli'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
