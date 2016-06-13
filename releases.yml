@@ -64539,3 +64539,57 @@
     link: 'https://pub.dartlang.org/packages/material2_dart'
     author:
         - 'ntaoo <ntaoo.g@gmail.com>'
+-
+    package_name: linter
+    package_version: v0.1.20
+    title: 'v0.1.20 of linter'
+    published: '2016-06-13T22:50:16+00:00'
+    id: 'urn:uuid:e4ff4f56-c2db-5e17-8283-5a9144b1ac65'
+    link: 'https://pub.dartlang.org/packages/linter'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: mojom
+    package_version: v0.2.33
+    title: 'v0.2.33 of mojom'
+    published: '2016-06-13T22:38:10+00:00'
+    id: 'urn:uuid:c8e83c8b-bc63-5fa8-8519-15f6d89402cd'
+    link: 'https://pub.dartlang.org/packages/mojom'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_apptest
+    package_version: v0.2.33
+    title: 'v0.2.33 of mojo_apptest'
+    published: '2016-06-13T22:37:56+00:00'
+    id: 'urn:uuid:edb729d9-d127-59cc-9586-94d66fbeeea3'
+    link: 'https://pub.dartlang.org/packages/mojo_apptest'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_sdk
+    package_version: v0.2.29
+    title: 'v0.2.29 of mojo_sdk'
+    published: '2016-06-13T22:34:34+00:00'
+    id: 'urn:uuid:fec5df10-4835-565d-9ee1-7d0a1c595133'
+    link: 'https://pub.dartlang.org/packages/mojo_sdk'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_services
+    package_version: v0.4.32
+    title: 'v0.4.32 of mojo_services'
+    published: '2016-06-13T22:31:10+00:00'
+    id: 'urn:uuid:d940af6f-7331-579d-b486-792167f5416d'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo
+    package_version: v0.4.25
+    title: 'v0.4.25 of mojo'
+    published: '2016-06-13T22:31:03+00:00'
+    id: 'urn:uuid:0c5dfb36-f5e5-55f0-8647-910ccfb3263c'
+    link: 'https://pub.dartlang.org/packages/mojo'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
