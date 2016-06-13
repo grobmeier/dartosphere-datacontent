@@ -64485,3 +64485,12 @@
     link: 'https://pub.dartlang.org/packages/material2_dart'
     author:
         - 'ntaoo <ntaoo.g@gmail.com>'
+-
+    package_name: firebase_dart
+    package_version: v0.2.1
+    title: 'v0.2.1 of firebase_dart'
+    published: '2016-06-13T06:01:54+00:00'
+    id: 'urn:uuid:b8470093-1c0b-5a93-a3e0-d81fcc4d0534'
+    link: 'https://pub.dartlang.org/packages/firebase_dart'
+    author:
+        - 'Rik Bellens <rik.bellens@appsup.be>'
