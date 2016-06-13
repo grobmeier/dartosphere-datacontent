@@ -64494,3 +64494,12 @@
     link: 'https://pub.dartlang.org/packages/firebase_dart'
     author:
         - 'Rik Bellens <rik.bellens@appsup.be>'
+-
+    package_name: ng2_g_signin
+    package_version: v0.3.0
+    title: 'v0.3.0 of ng2_g_signin'
+    published: '2016-06-13T09:48:17+00:00'
+    id: 'urn:uuid:386b5f8d-faa9-585f-a2ce-6ec9a32f6114'
+    link: 'https://pub.dartlang.org/packages/ng2_g_signin'
+    author:
+        - 'ntaoo <ntaoo.g@gmail.com>'
