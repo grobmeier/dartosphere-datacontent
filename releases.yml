@@ -64602,3 +64602,21 @@
     link: 'https://pub.dartlang.org/packages/coffee_cli'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: dson
+    package_version: v0.3.3
+    title: 'v0.3.3 of dson'
+    published: '2016-06-14T04:52:06+00:00'
+    id: 'urn:uuid:d5cb8526-da63-5e78-a86d-d8bb2c50a703'
+    link: 'https://pub.dartlang.org/packages/dson'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: drails_commons
+    package_version: v0.0.8
+    title: 'v0.0.8 of drails_commons'
+    published: '2016-06-14T04:42:21+00:00'
+    id: 'urn:uuid:acff4062-de98-508d-8a28-dec9cbeb89bf'
+    link: 'https://pub.dartlang.org/packages/drails_commons'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
