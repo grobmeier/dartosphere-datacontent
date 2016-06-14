@@ -64620,3 +64620,12 @@
     link: 'https://pub.dartlang.org/packages/drails_commons'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: bwu_utils
+    package_version: v0.1.2
+    title: 'v0.1.2 of bwu_utils'
+    published: '2016-06-14T05:52:50+00:00'
+    id: 'urn:uuid:c83fba17-8d32-5edd-993c-4ae122cb1f80'
+    link: 'https://pub.dartlang.org/packages/bwu_utils'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
