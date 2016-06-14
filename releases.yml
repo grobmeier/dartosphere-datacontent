@@ -64683,3 +64683,30 @@
     link: 'https://pub.dartlang.org/packages/sqltree'
     author:
         - 'Roberto Tassi <roberto.tassi@fromlabs.org>'
+-
+    package_name: scissors
+    package_version: v0.6.3+1
+    title: 'v0.6.3+1 of scissors'
+    published: '2016-06-14T13:46:46+00:00'
+    id: 'urn:uuid:b0871a86-894f-5358-855b-d91800376063'
+    link: 'https://pub.dartlang.org/packages/scissors'
+    author:
+        - 'Olivier Chafik <ochafik@google.com>'
+-
+    package_name: sqltree_schema
+    package_version: v0.0.1+1
+    title: 'v0.0.1+1 of sqltree_schema'
+    published: '2016-06-14T13:29:01+00:00'
+    id: 'urn:uuid:20b2e141-c7bf-5b7e-b0e7-d30260d0ebde'
+    link: 'https://pub.dartlang.org/packages/sqltree_schema'
+    author:
+        - 'Roberto Tassi <roberto.tassi@fromlabs.org>'
+-
+    package_name: sqltree
+    package_version: v0.0.1+1
+    title: 'v0.0.1+1 of sqltree'
+    published: '2016-06-14T13:27:12+00:00'
+    id: 'urn:uuid:40f4c10c-758f-50c9-bb66-6c36182ad95e'
+    link: 'https://pub.dartlang.org/packages/sqltree'
+    author:
+        - 'Roberto Tassi <roberto.tassi@fromlabs.org>'
