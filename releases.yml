@@ -64674,3 +64674,12 @@
     link: 'https://pub.dartlang.org/packages/material2_dart'
     author:
         - 'ntaoo <ntaoo.g@gmail.com>'
+-
+    package_name: sqltree
+    package_version: v0.0.1
+    title: 'v0.0.1 of sqltree'
+    published: '2016-06-14T12:54:33+00:00'
+    id: 'urn:uuid:58bd3a74-1d9a-5e13-b00b-584a4a1bfee4'
+    link: 'https://pub.dartlang.org/packages/sqltree'
+    author:
+        - 'Roberto Tassi <roberto.tassi@fromlabs.org>'
