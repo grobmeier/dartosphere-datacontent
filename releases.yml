@@ -64656,3 +64656,12 @@
     link: 'https://pub.dartlang.org/packages/t_stats'
     author:
         - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: scissors
+    package_version: v0.6.3
+    title: 'v0.6.3 of scissors'
+    published: '2016-06-14T09:39:11+00:00'
+    id: 'urn:uuid:ef3442de-df25-5482-9940-51c26b9d4c42'
+    link: 'https://pub.dartlang.org/packages/scissors'
+    author:
+        - 'Olivier Chafik <ochafik@google.com>'
