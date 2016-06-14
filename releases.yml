@@ -64728,3 +64728,31 @@
     link: 'https://pub.dartlang.org/packages/package_config'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: stack_trace
+    package_version: v1.6.6
+    title: 'v1.6.6 of stack_trace'
+    published: '2016-06-14T23:23:43+00:00'
+    id: 'urn:uuid:51014ae4-2632-558a-8db5-5007a7944cf7'
+    link: 'https://pub.dartlang.org/packages/stack_trace'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: string_scanner
+    package_version: v1.0.0
+    title: 'v1.0.0 of string_scanner'
+    published: '2016-06-14T23:21:48+00:00'
+    id: 'urn:uuid:a92a59c1-8bea-5ba1-8495-5785e134a4a3'
+    link: 'https://pub.dartlang.org/packages/string_scanner'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: taiga_api
+    package_version: v0.0.2
+    title: 'v0.0.2 of taiga_api'
+    published: '2016-06-14T23:07:06+00:00'
+    id: 'urn:uuid:ddf2214c-117f-5df4-8c95-3445e0501d6d'
+    link: 'https://pub.dartlang.org/packages/taiga_api'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+        - 'Antoine Guittet <antoine.epitech@gmail.com>'
