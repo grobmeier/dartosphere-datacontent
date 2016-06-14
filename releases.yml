@@ -64710,3 +64710,21 @@
     link: 'https://pub.dartlang.org/packages/sqltree'
     author:
         - 'Roberto Tassi <roberto.tassi@fromlabs.org>'
+-
+    package_name: sqltree_schema
+    package_version: v0.1.0
+    title: 'v0.1.0 of sqltree_schema'
+    published: '2016-06-14T16:59:28+00:00'
+    id: 'urn:uuid:36589f8c-6d8f-52c0-b4f4-b2c71757de4a'
+    link: 'https://pub.dartlang.org/packages/sqltree_schema'
+    author:
+        - 'Roberto Tassi <roberto.tassi@fromlabs.org>'
+-
+    package_name: package_config
+    package_version: v1.0.0
+    title: 'v1.0.0 of package_config'
+    published: '2016-06-14T16:37:24+00:00'
+    id: 'urn:uuid:4426e623-29ed-5362-8c53-6ddd221631f2'
+    link: 'https://pub.dartlang.org/packages/package_config'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
