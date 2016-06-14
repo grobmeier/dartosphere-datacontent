@@ -64629,3 +64629,12 @@
     link: 'https://pub.dartlang.org/packages/bwu_utils'
     author:
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: t_stats
+    package_version: v0.0.1
+    title: 'v0.0.1 of t_stats'
+    published: '2016-06-14T06:56:18+00:00'
+    id: 'urn:uuid:0f34b227-acf5-526e-926d-15ba7356d2ee'
+    link: 'https://pub.dartlang.org/packages/t_stats'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
