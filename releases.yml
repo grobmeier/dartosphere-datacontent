@@ -64638,3 +64638,12 @@
     link: 'https://pub.dartlang.org/packages/t_stats'
     author:
         - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: t_stats
+    package_version: v0.0.2
+    title: 'v0.0.2 of t_stats'
+    published: '2016-06-14T07:15:53+00:00'
+    id: 'urn:uuid:e7a6d638-f635-5495-a1ce-07dec2a4322d'
+    link: 'https://pub.dartlang.org/packages/t_stats'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
