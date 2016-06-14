@@ -64665,3 +64665,12 @@
     link: 'https://pub.dartlang.org/packages/scissors'
     author:
         - 'Olivier Chafik <ochafik@google.com>'
+-
+    package_name: material2_dart
+    package_version: v0.0.5
+    title: 'v0.0.5 of material2_dart'
+    published: '2016-06-14T10:49:31+00:00'
+    id: 'urn:uuid:edb51a4d-95c3-5794-b370-0e8e2dcebe8a'
+    link: 'https://pub.dartlang.org/packages/material2_dart'
+    author:
+        - 'ntaoo <ntaoo.g@gmail.com>'
