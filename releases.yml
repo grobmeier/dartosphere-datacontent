@@ -64756,3 +64756,12 @@
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
         - 'Antoine Guittet <antoine.epitech@gmail.com>'
+-
+    package_name: t_stats
+    package_version: v0.0.4
+    title: 'v0.0.4 of t_stats'
+    published: '2016-06-15T00:07:37+00:00'
+    id: 'urn:uuid:cd80dd63-3224-5f8a-b07e-7bc282cb820d'
+    link: 'https://pub.dartlang.org/packages/t_stats'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
