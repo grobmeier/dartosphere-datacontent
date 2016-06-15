@@ -64774,3 +64774,12 @@
     link: 'https://pub.dartlang.org/packages/dson'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: csv
+    package_version: v3.1.1
+    title: 'v3.1.1 of csv'
+    published: '2016-06-15T10:18:00+00:00'
+    id: 'urn:uuid:94cea47e-39f3-55ed-9aba-c4d0c295a828'
+    link: 'https://pub.dartlang.org/packages/csv'
+    author:
+        - 'Christian Loitsch <christian@loitsch.com>'
