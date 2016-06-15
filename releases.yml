@@ -64765,3 +64765,12 @@
     link: 'https://pub.dartlang.org/packages/t_stats'
     author:
         - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: dson
+    package_version: v0.3.4
+    title: 'v0.3.4 of dson'
+    published: '2016-06-15T06:33:19+00:00'
+    id: 'urn:uuid:2d529c7b-22b1-5359-901a-a08d0f1c18dc'
+    link: 'https://pub.dartlang.org/packages/dson'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
