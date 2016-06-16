@@ -64824,3 +64824,12 @@
     link: 'https://pub.dartlang.org/packages/bootjack_datepicker'
     author:
         - 'Jimmy Shiau <jimmyshiau@potix.com>'
+-
+    package_name: trestle
+    package_version: v0.8.0
+    title: 'v0.8.0 of trestle'
+    published: '2016-06-16T11:21:18+00:00'
+    id: 'urn:uuid:504a40a8-3305-5c72-8cae-01d24a9ad677'
+    link: 'https://pub.dartlang.org/packages/trestle'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
