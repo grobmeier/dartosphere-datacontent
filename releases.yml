@@ -64842,3 +64842,17 @@
     link: 'https://pub.dartlang.org/packages/http_in_memory_web_api'
     author:
         - 'Adao Junior <itsjunnior@gmail.com>'
+-
+    package_name: w_transport
+    package_version: v2.5.1
+    title: 'v2.5.1 of w_transport'
+    published: '2016-06-16T21:22:35+00:00'
+    id: 'urn:uuid:0b70f899-7326-5ed6-aa28-5bb118f73d15'
+    link: 'https://pub.dartlang.org/packages/w_transport'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
