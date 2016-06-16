@@ -64833,3 +64833,12 @@
     link: 'https://pub.dartlang.org/packages/trestle'
     author:
         - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: http_in_memory_web_api
+    package_version: v0.2.0
+    title: 'v0.2.0 of http_in_memory_web_api'
+    published: '2016-06-16T15:06:29+00:00'
+    id: 'urn:uuid:875cd96b-ad0c-5843-a911-1816e5e1f760'
+    link: 'https://pub.dartlang.org/packages/http_in_memory_web_api'
+    author:
+        - 'Adao Junior <itsjunnior@gmail.com>'
