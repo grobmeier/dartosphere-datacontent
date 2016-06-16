@@ -64806,3 +64806,12 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: dev_test
+    package_version: v0.9.3
+    title: 'v0.9.3 of dev_test'
+    published: '2016-06-16T06:05:32+00:00'
+    id: 'urn:uuid:a315b908-2fa1-56a2-939a-1a629227848a'
+    link: 'https://pub.dartlang.org/packages/dev_test'
+    author:
+        - 'Tekartik <alex@tekartik.com>'
