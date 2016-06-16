@@ -64815,3 +64815,12 @@
     link: 'https://pub.dartlang.org/packages/dev_test'
     author:
         - 'Tekartik <alex@tekartik.com>'
+-
+    package_name: bootjack_datepicker
+    package_version: v0.5.6+3
+    title: 'v0.5.6+3 of bootjack_datepicker'
+    published: '2016-06-16T10:30:00+00:00'
+    id: 'urn:uuid:34004fcc-1f3a-51d4-8005-0f4f5eba5b34'
+    link: 'https://pub.dartlang.org/packages/bootjack_datepicker'
+    author:
+        - 'Jimmy Shiau <jimmyshiau@potix.com>'
