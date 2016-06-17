@@ -64892,3 +64892,12 @@
     link: 'https://pub.dartlang.org/packages/viewport_checker'
     author:
         - 'Ioan Cristea <ioan.cristea@krioft.com>'
+-
+    package_name: sortedmap
+    package_version: v0.1.1
+    title: 'v0.1.1 of sortedmap'
+    published: '2016-06-17T14:44:16+00:00'
+    id: 'urn:uuid:53366d01-c888-5dd8-8b4e-1577a1dd46c9'
+    link: 'https://pub.dartlang.org/packages/sortedmap'
+    author:
+        - 'Rik Bellens <rik.bellens@appsup.be>'
