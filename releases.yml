@@ -64865,3 +64865,21 @@
     link: 'https://pub.dartlang.org/packages/bootjack_datepicker'
     author:
         - 'Jimmy Shiau <jimmyshiau@potix.com>'
+-
+    package_name: firebase_dart
+    package_version: v0.3.0
+    title: 'v0.3.0 of firebase_dart'
+    published: '2016-06-17T10:36:10+00:00'
+    id: 'urn:uuid:8d50483f-d82d-54f7-8c5f-882784393707'
+    link: 'https://pub.dartlang.org/packages/firebase_dart'
+    author:
+        - 'Rik Bellens <rik.bellens@appsup.be>'
+-
+    package_name: viewport_checker
+    package_version: v0.0.1
+    title: 'v0.0.1 of viewport_checker'
+    published: '2016-06-17T10:32:24+00:00'
+    id: 'urn:uuid:c414686e-c61a-5eed-9d94-35d61dfa8f89'
+    link: 'https://pub.dartlang.org/packages/viewport_checker'
+    author:
+        - 'Ioan Cristea <ioan.cristea@krioft.com>'
