@@ -64856,3 +64856,12 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: bootjack_datepicker
+    package_version: v0.5.6+5
+    title: 'v0.5.6+5 of bootjack_datepicker'
+    published: '2016-06-17T01:40:45+00:00'
+    id: 'urn:uuid:07ba37cc-cb8b-5053-8540-3d5046adec24'
+    link: 'https://pub.dartlang.org/packages/bootjack_datepicker'
+    author:
+        - 'Jimmy Shiau <jimmyshiau@potix.com>'
