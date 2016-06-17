@@ -64883,3 +64883,12 @@
     link: 'https://pub.dartlang.org/packages/viewport_checker'
     author:
         - 'Ioan Cristea <ioan.cristea@krioft.com>'
+-
+    package_name: viewport_checker
+    package_version: v0.0.2
+    title: 'v0.0.2 of viewport_checker'
+    published: '2016-06-17T11:18:19+00:00'
+    id: 'urn:uuid:f598886b-1773-50f0-8c9b-d4227845be3e'
+    link: 'https://pub.dartlang.org/packages/viewport_checker'
+    author:
+        - 'Ioan Cristea <ioan.cristea@krioft.com>'
