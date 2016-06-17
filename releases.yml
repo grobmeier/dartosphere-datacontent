@@ -64924,3 +64924,30 @@
     link: 'https://pub.dartlang.org/packages/firebase_dart'
     author:
         - 'Rik Bellens <rik.bellens@appsup.be>'
+-
+    package_name: document_db
+    package_version: v0.0.1
+    title: 'v0.0.1 of document_db'
+    published: '2016-06-17T21:29:47+00:00'
+    id: 'urn:uuid:3aa7308f-3d72-54f8-bb39-742fc7dbc7cf'
+    link: 'https://pub.dartlang.org/packages/document_db'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: heaven
+    package_version: v0.0.0-dev
+    title: 'v0.0.0-dev of heaven'
+    published: '2016-06-17T21:29:14+00:00'
+    id: 'urn:uuid:6197dbd5-f85f-5caa-93e1-deef686b11ae'
+    link: 'https://pub.dartlang.org/packages/heaven'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: coffee_cli
+    package_version: v0.3.1
+    title: 'v0.3.1 of coffee_cli'
+    published: '2016-06-17T21:26:15+00:00'
+    id: 'urn:uuid:b7f53a06-a2f4-5189-9276-272a71b4c37e'
+    link: 'https://pub.dartlang.org/packages/coffee_cli'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
