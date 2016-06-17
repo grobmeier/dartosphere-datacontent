@@ -64951,3 +64951,12 @@
     link: 'https://pub.dartlang.org/packages/coffee_cli'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: stagexl
+    package_version: v0.13.9+2
+    title: 'v0.13.9+2 of stagexl'
+    published: '2016-06-17T23:42:10+00:00'
+    id: 'urn:uuid:99007a4d-81e2-5867-bb08-7e467bdf939b'
+    link: 'https://pub.dartlang.org/packages/stagexl'
+    author:
+        - 'Bernhard Pichler <support@stagexl.org>'
