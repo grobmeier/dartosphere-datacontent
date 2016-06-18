@@ -64997,3 +64997,12 @@
     author:
         - 'Jamis Buck <jamis@jamisbuck.org>'
         - 'Igor Demyanov <igor.demyanov@gmail.com>'
+-
+    package_name: tuneup
+    package_version: v0.2.3
+    title: 'v0.2.3 of tuneup'
+    published: '2016-06-18T22:12:23+00:00'
+    id: 'urn:uuid:20fc6a1c-371d-5e99-a104-7b3b1c1170cd'
+    link: 'https://pub.dartlang.org/packages/tuneup'
+    author:
+        - 'Devon Carew <devoncarew@google.com>'
