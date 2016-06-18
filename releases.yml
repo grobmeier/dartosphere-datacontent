@@ -64987,3 +64987,13 @@
     link: 'https://pub.dartlang.org/packages/message_bus'
     author:
         - 'Robert McDermot <me@robertmcdermot.com>'
+-
+    package_name: theseus
+    package_version: v1.0.3
+    title: 'v1.0.3 of theseus'
+    published: '2016-06-18T20:41:07+00:00'
+    id: 'urn:uuid:34df7974-5b9d-5330-b2a0-fa84fbccee33'
+    link: 'https://pub.dartlang.org/packages/theseus'
+    author:
+        - 'Jamis Buck <jamis@jamisbuck.org>'
+        - 'Igor Demyanov <igor.demyanov@gmail.com>'
