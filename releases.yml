@@ -64960,3 +64960,12 @@
     link: 'https://pub.dartlang.org/packages/stagexl'
     author:
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: heaven
+    package_version: v0.0.0-dev.1
+    title: 'v0.0.0-dev.1 of heaven'
+    published: '2016-06-18T09:53:19+00:00'
+    id: 'urn:uuid:249cfad8-0631-5c86-8715-2f10d17e7c70'
+    link: 'https://pub.dartlang.org/packages/heaven'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
