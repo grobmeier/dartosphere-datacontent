@@ -64969,3 +64969,12 @@
     link: 'https://pub.dartlang.org/packages/heaven'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: message_bus
+    package_version: v0.0.1
+    title: 'v0.0.1 of message_bus'
+    published: '2016-06-18T17:49:02+00:00'
+    id: 'urn:uuid:9d935eba-0275-59c4-ad77-4de4653bdb9d'
+    link: 'https://pub.dartlang.org/packages/message_bus'
+    author:
+        - 'Robert McDermot <me@robertmcdermot.com>'
