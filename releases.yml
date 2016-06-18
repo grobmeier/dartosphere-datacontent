@@ -64978,3 +64978,12 @@
     link: 'https://pub.dartlang.org/packages/message_bus'
     author:
         - 'Robert McDermot <me@robertmcdermot.com>'
+-
+    package_name: message_bus
+    package_version: v0.0.4
+    title: 'v0.0.4 of message_bus'
+    published: '2016-06-18T19:10:14+00:00'
+    id: 'urn:uuid:b38e3332-8add-54e6-a793-ab67d5eda910'
+    link: 'https://pub.dartlang.org/packages/message_bus'
+    author:
+        - 'Robert McDermot <me@robertmcdermot.com>'
