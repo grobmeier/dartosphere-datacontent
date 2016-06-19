@@ -65033,3 +65033,13 @@
     link: 'https://pub.dartlang.org/packages/zwave'
     author:
         - 'Dan Rubel <danrubel@google.com>'
+-
+    package_name: theseus
+    package_version: v1.0.3+1
+    title: 'v1.0.3+1 of theseus'
+    published: '2016-06-19T21:29:16+00:00'
+    id: 'urn:uuid:d6081aed-95d5-52ee-b93f-239e3842748e'
+    link: 'https://pub.dartlang.org/packages/theseus'
+    author:
+        - 'Jamis Buck <jamis@jamisbuck.org>'
+        - 'Igor Demyanov <igor.demyanov@gmail.com>'
