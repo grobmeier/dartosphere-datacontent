@@ -65062,3 +65062,12 @@
     link: 'https://pub.dartlang.org/packages/domquery'
     author:
         - 'Gonzalo Chumillas <gchumillas@email.com>'
+-
+    package_name: domnode
+    package_version: v0.0.1
+    title: 'v0.0.1 of domnode'
+    published: '2016-06-19T23:28:46+00:00'
+    id: 'urn:uuid:7228c0a6-2b4c-591d-adc2-aa842b733102'
+    link: 'https://pub.dartlang.org/packages/domnode'
+    author:
+        - 'Gonzalo Chumillas <gchumillas@email.com>'
