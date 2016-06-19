@@ -65043,3 +65043,22 @@
     author:
         - 'Jamis Buck <jamis@jamisbuck.org>'
         - 'Igor Demyanov <igor.demyanov@gmail.com>'
+-
+    package_name: theseus
+    package_version: v1.0.3+2
+    title: 'v1.0.3+2 of theseus'
+    published: '2016-06-19T22:52:59+00:00'
+    id: 'urn:uuid:65ffd064-361c-52bd-8dd6-cca7a013ee8a'
+    link: 'https://pub.dartlang.org/packages/theseus'
+    author:
+        - 'Jamis Buck <jamis@jamisbuck.org>'
+        - 'Igor Demyanov <igor.demyanov@gmail.com>'
+-
+    package_name: domquery
+    package_version: v1.1.4
+    title: 'v1.1.4 of domquery'
+    published: '2016-06-19T22:13:24+00:00'
+    id: 'urn:uuid:474b5f05-1af9-5cad-ac05-e4a9f5abcf32'
+    link: 'https://pub.dartlang.org/packages/domquery'
+    author:
+        - 'Gonzalo Chumillas <gchumillas@email.com>'
