@@ -65071,3 +65071,32 @@
     link: 'https://pub.dartlang.org/packages/domnode'
     author:
         - 'Gonzalo Chumillas <gchumillas@email.com>'
+-
+    package_name: rikulo_commons
+    package_version: v2.2.0
+    title: 'v2.2.0 of rikulo_commons'
+    published: '2016-06-20T09:34:22+00:00'
+    id: 'urn:uuid:bc4cbc8a-c3b3-5b10-b6c7-314ca65dc3a0'
+    link: 'https://pub.dartlang.org/packages/rikulo_commons'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+        - 'Henri Chen <henrichen@rikulo.org>'
+        - 'Simon Pai <simonpai@rikulo.org>'
+-
+    package_name: built_value_generator
+    package_version: v0.1.1
+    title: 'v0.1.1 of built_value_generator'
+    published: '2016-06-20T09:17:35+00:00'
+    id: 'urn:uuid:1df62e74-8c91-53cb-92ac-c8902f14237a'
+    link: 'https://pub.dartlang.org/packages/built_value_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value
+    package_version: v0.1.1
+    title: 'v0.1.1 of built_value'
+    published: '2016-06-20T09:16:41+00:00'
+    id: 'urn:uuid:cf0266c5-d1ef-5fba-b65f-b8c1a5fc4fc5'
+    link: 'https://pub.dartlang.org/packages/built_value'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
