@@ -65118,3 +65118,12 @@
     link: 'https://pub.dartlang.org/packages/forcemvc'
     author:
         - 'Joris Hermans <hermansj@gmail.com>'
+-
+    package_name: forcemvc
+    package_version: v0.8.5
+    title: 'v0.8.5 of forcemvc'
+    published: '2016-06-20T12:03:24+00:00'
+    id: 'urn:uuid:2c63a191-9484-5ad0-ac3f-b05058839e0c'
+    link: 'https://pub.dartlang.org/packages/forcemvc'
+    author:
+        - 'Joris Hermans <hermansj@gmail.com>'
