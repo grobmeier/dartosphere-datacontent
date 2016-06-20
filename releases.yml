@@ -65127,3 +65127,12 @@
     link: 'https://pub.dartlang.org/packages/forcemvc'
     author:
         - 'Joris Hermans <hermansj@gmail.com>'
+-
+    package_name: dartdoc
+    package_version: v0.9.6
+    title: 'v0.9.6 of dartdoc'
+    published: '2016-06-20T18:18:35+00:00'
+    id: 'urn:uuid:9ce10aab-f438-5edf-b6c6-1142c335c635'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
