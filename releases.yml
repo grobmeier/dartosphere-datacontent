@@ -65136,3 +65136,12 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: http_multi_server
+    package_version: v2.0.2
+    title: 'v2.0.2 of http_multi_server'
+    published: '2016-06-20T21:21:15+00:00'
+    id: 'urn:uuid:f0ff3362-08e2-5821-a33f-4f7df59293d6'
+    link: 'https://pub.dartlang.org/packages/http_multi_server'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
