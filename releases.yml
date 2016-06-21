@@ -65145,3 +65145,21 @@
     link: 'https://pub.dartlang.org/packages/http_multi_server'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: http_parser
+    package_version: v3.0.2
+    title: 'v3.0.2 of http_parser'
+    published: '2016-06-20T23:25:51+00:00'
+    id: 'urn:uuid:111d2484-c5b9-5b98-a0dc-d0eb5f40aee1'
+    link: 'https://pub.dartlang.org/packages/http_parser'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: glob
+    package_version: v1.1.3
+    title: 'v1.1.3 of glob'
+    published: '2016-06-20T23:25:09+00:00'
+    id: 'urn:uuid:d0a5887a-e888-5021-b597-bb5653431ce9'
+    link: 'https://pub.dartlang.org/packages/glob'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
