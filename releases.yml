@@ -65208,3 +65208,12 @@
     link: 'https://pub.dartlang.org/packages/esl'
     author:
         - 'Kim Rostgaard Christensen <krc@retrospekt.dk>'
+-
+    package_name: firebase_dart
+    package_version: v0.4.1
+    title: 'v0.4.1 of firebase_dart'
+    published: '2016-06-21T14:59:49+00:00'
+    id: 'urn:uuid:2f754f2b-84b8-5744-8887-e1017e0fd253'
+    link: 'https://pub.dartlang.org/packages/firebase_dart'
+    author:
+        - 'Rik Bellens <rik.bellens@appsup.be>'
