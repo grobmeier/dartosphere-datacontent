@@ -65172,3 +65172,12 @@
     link: 'https://pub.dartlang.org/packages/material2_dart'
     author:
         - 'ntaoo <ntaoo.g@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v0.0.0-dev.19
+    title: 'v0.0.0-dev.19 of angel_framework'
+    published: '2016-06-21T04:20:28+00:00'
+    id: 'urn:uuid:01e2b59b-4fa6-5143-848e-ee36a39809ce'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
