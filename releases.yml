@@ -65163,3 +65163,12 @@
     link: 'https://pub.dartlang.org/packages/glob'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: material2_dart
+    package_version: v0.0.9
+    title: 'v0.0.9 of material2_dart'
+    published: '2016-06-21T03:52:41+00:00'
+    id: 'urn:uuid:52a932fa-3a8f-563a-80cd-dfbc24815c0a'
+    link: 'https://pub.dartlang.org/packages/material2_dart'
+    author:
+        - 'ntaoo <ntaoo.g@gmail.com>'
