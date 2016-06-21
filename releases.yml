@@ -65286,3 +65286,12 @@
     link: 'https://pub.dartlang.org/packages/scheduled_test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev
+    title: 'v1.0.0-dev of angel_framework'
+    published: '2016-06-21T22:56:31+00:00'
+    id: 'urn:uuid:621f40b0-c72a-5896-89fc-3c43f39cdcc2'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
