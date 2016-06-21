@@ -65241,3 +65241,30 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: test
+    package_version: v0.12.14
+    title: 'v0.12.14 of test'
+    published: '2016-06-21T20:56:27+00:00'
+    id: 'urn:uuid:9c97b5a6-fc54-5382-8453-904081f66ac7'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: boolean_selector
+    package_version: v1.0.2
+    title: 'v1.0.2 of boolean_selector'
+    published: '2016-06-21T20:55:02+00:00'
+    id: 'urn:uuid:f23eb3fa-0604-5e57-ae7d-b3e713d71cfc'
+    link: 'https://pub.dartlang.org/packages/boolean_selector'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: domnode
+    package_version: v1.0.1
+    title: 'v1.0.1 of domnode'
+    published: '2016-06-21T20:26:28+00:00'
+    id: 'urn:uuid:df01606a-e834-5e5c-ab17-0f7e42e6397c'
+    link: 'https://pub.dartlang.org/packages/domnode'
+    author:
+        - 'Gonzalo Chumillas <gchumillas@email.com>'
