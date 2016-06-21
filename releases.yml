@@ -65181,3 +65181,21 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: sqltree_schema
+    package_version: v0.2.0
+    title: 'v0.2.0 of sqltree_schema'
+    published: '2016-06-21T06:39:10+00:00'
+    id: 'urn:uuid:5c9449a2-557d-5a05-bb4c-f662abc6e265'
+    link: 'https://pub.dartlang.org/packages/sqltree_schema'
+    author:
+        - 'Roberto Tassi <roberto.tassi@fromlabs.org>'
+-
+    package_name: sqltree
+    package_version: v0.1.0
+    title: 'v0.1.0 of sqltree'
+    published: '2016-06-21T06:33:53+00:00'
+    id: 'urn:uuid:8bcf6145-d4ae-506a-b027-3b06b6bb58a9'
+    link: 'https://pub.dartlang.org/packages/sqltree'
+    author:
+        - 'Roberto Tassi <roberto.tassi@fromlabs.org>'
