@@ -65412,3 +65412,12 @@
     link: 'https://pub.dartlang.org/packages/domnode'
     author:
         - 'Gonzalo Chumillas <gchumillas@email.com>'
+-
+    package_name: protobuf
+    package_version: v0.5.2
+    title: 'v0.5.2 of protobuf'
+    published: '2016-06-22T19:43:19+00:00'
+    id: 'urn:uuid:60a5cd10-3a3f-520f-9801-c338544c6861'
+    link: 'https://pub.dartlang.org/packages/protobuf'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
