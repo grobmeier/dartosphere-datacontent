@@ -65421,3 +65421,12 @@
     link: 'https://pub.dartlang.org/packages/protobuf'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: vm_service_client
+    package_version: v0.2.2+2
+    title: 'v0.2.2+2 of vm_service_client'
+    published: '2016-06-22T20:36:26+00:00'
+    id: 'urn:uuid:9d181511-80c4-5016-af65-4346927d6587'
+    link: 'https://pub.dartlang.org/packages/vm_service_client'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
