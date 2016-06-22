@@ -65439,3 +65439,21 @@
     link: 'https://pub.dartlang.org/packages/firebase_dart'
     author:
         - 'Rik Bellens <rik.bellens@appsup.be>'
+-
+    package_name: coverage
+    package_version: v0.7.8+2
+    title: 'v0.7.8+2 of coverage'
+    published: '2016-06-22T23:58:14+00:00'
+    id: 'urn:uuid:c5b6c94c-b688-51f3-bb1d-12662efd005f'
+    link: 'https://pub.dartlang.org/packages/coverage'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dartdoc
+    package_version: v0.9.6+1
+    title: 'v0.9.6+1 of dartdoc'
+    published: '2016-06-22T23:32:19+00:00'
+    id: 'urn:uuid:a250ca16-81cc-520b-9f6a-1808aacfface'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
