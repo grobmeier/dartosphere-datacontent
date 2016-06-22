@@ -65322,3 +65322,12 @@
     link: 'https://pub.dartlang.org/packages/angel_configuration'
     author:
         - 'thosakwe <thosakwe@gmail.com>'
+-
+    package_name: domnode
+    package_version: v1.1.0
+    title: 'v1.1.0 of domnode'
+    published: '2016-06-22T00:25:43+00:00'
+    id: 'urn:uuid:f4fce81f-48a8-5d03-91ea-43b3c1f564d3'
+    link: 'https://pub.dartlang.org/packages/domnode'
+    author:
+        - 'Gonzalo Chumillas <gchumillas@email.com>'
