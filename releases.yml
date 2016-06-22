@@ -65385,3 +65385,12 @@
     link: 'https://pub.dartlang.org/packages/domnode'
     author:
         - 'Gonzalo Chumillas <gchumillas@email.com>'
+-
+    package_name: coverage
+    package_version: v0.7.8+1
+    title: 'v0.7.8+1 of coverage'
+    published: '2016-06-22T17:18:00+00:00'
+    id: 'urn:uuid:45379205-9728-5eea-b3c3-99441ae22d4e'
+    link: 'https://pub.dartlang.org/packages/coverage'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
