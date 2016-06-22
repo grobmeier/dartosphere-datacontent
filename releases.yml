@@ -65394,3 +65394,21 @@
     link: 'https://pub.dartlang.org/packages/coverage'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: test
+    package_version: v0.12.14+1
+    title: 'v0.12.14+1 of test'
+    published: '2016-06-22T18:38:43+00:00'
+    id: 'urn:uuid:feb34d5a-29db-593a-a871-7dae1bec6a17'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: domnode
+    package_version: v1.1.2
+    title: 'v1.1.2 of domnode'
+    published: '2016-06-22T18:12:47+00:00'
+    id: 'urn:uuid:ce47f15b-4771-5c02-a19f-e3ae8ec7073b'
+    link: 'https://pub.dartlang.org/packages/domnode'
+    author:
+        - 'Gonzalo Chumillas <gchumillas@email.com>'
