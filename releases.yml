@@ -65358,3 +65358,12 @@
     link: 'https://pub.dartlang.org/packages/code_postaux'
     author:
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: code_postaux
+    package_version: v0.0.4
+    title: 'v0.0.4 of code_postaux'
+    published: '2016-06-22T14:46:19+00:00'
+    id: 'urn:uuid:1cfa2634-8260-5f29-a87d-d87560a62b9b'
+    link: 'https://pub.dartlang.org/packages/code_postaux'
+    author:
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
