@@ -65457,3 +65457,13 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: taiga_api
+    package_version: v0.0.2+1
+    title: 'v0.0.2+1 of taiga_api'
+    published: '2016-06-23T00:47:11+00:00'
+    id: 'urn:uuid:c4f831cd-0d7a-5d8a-9252-892e2d48f3f2'
+    link: 'https://pub.dartlang.org/packages/taiga_api'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+        - 'Antoine Guittet <antoine.epitech@gmail.com>'
