@@ -65467,3 +65467,12 @@
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
         - 'Antoine Guittet <antoine.epitech@gmail.com>'
+-
+    package_name: rsa_pkcs
+    package_version: v0.1.2
+    title: 'v0.1.2 of rsa_pkcs'
+    published: '2016-06-23T05:33:28+00:00'
+    id: 'urn:uuid:149375f3-44d8-5095-9185-feb31fd5957b'
+    link: 'https://pub.dartlang.org/packages/rsa_pkcs'
+    author:
+        - 'Alexandre Maurel <alexandre.maurel@gmail.com>'
