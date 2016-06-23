@@ -65505,3 +65505,21 @@
     link: 'https://pub.dartlang.org/packages/domnode'
     author:
         - 'Gonzalo Chumillas <gchumillas@email.com>'
+-
+    package_name: domnode
+    package_version: v1.2.1
+    title: 'v1.2.1 of domnode'
+    published: '2016-06-23T19:39:43+00:00'
+    id: 'urn:uuid:9bb45fba-f098-5b31-a4b7-0659b473fb23'
+    link: 'https://pub.dartlang.org/packages/domnode'
+    author:
+        - 'Gonzalo Chumillas <gchumillas@email.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev+1
+    title: 'v1.0.0-dev+1 of angel_framework'
+    published: '2016-06-23T19:11:21+00:00'
+    id: 'urn:uuid:cc973e70-fdf9-5055-8958-38823ee3eb6e'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
