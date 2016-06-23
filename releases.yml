@@ -65496,3 +65496,12 @@
     link: 'https://pub.dartlang.org/packages/material2_dart'
     author:
         - 'ntaoo <ntaoo.g@gmail.com>'
+-
+    package_name: domnode
+    package_version: v1.2.0
+    title: 'v1.2.0 of domnode'
+    published: '2016-06-23T13:50:43+00:00'
+    id: 'urn:uuid:a07588bd-a219-5304-b4a6-e7e151b7056c'
+    link: 'https://pub.dartlang.org/packages/domnode'
+    author:
+        - 'Gonzalo Chumillas <gchumillas@email.com>'
