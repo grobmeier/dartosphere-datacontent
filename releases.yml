@@ -65523,3 +65523,53 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: collection
+    package_version: v1.9.0
+    title: 'v1.9.0 of collection'
+    published: '2016-06-23T20:53:36+00:00'
+    id: 'urn:uuid:87cebb7b-2a1a-5116-a9ad-1e8ab35fce82'
+    link: 'https://pub.dartlang.org/packages/collection'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: material2_dart
+    package_version: v0.0.11
+    title: 'v0.0.11 of material2_dart'
+    published: '2016-06-23T20:20:26+00:00'
+    id: 'urn:uuid:ed78e8b1-e8ed-5d43-bdd6-c1e7778492b5'
+    link: 'https://pub.dartlang.org/packages/material2_dart'
+    author:
+        - 'ntaoo <ntaoo.g@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev+2
+    title: 'v1.0.0-dev+2 of angel_framework'
+    published: '2016-06-23T20:12:14+00:00'
+    id: 'urn:uuid:05448ef1-7c35-5702-b756-aad1d639c9ee'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_mongo
+    package_version: v1.0.0-dev+1
+    title: 'v1.0.0-dev+1 of angel_mongo'
+    published: '2016-06-23T20:04:06+00:00'
+    id: 'urn:uuid:42ec4c34-ae21-587a-8649-45201af3d8c7'
+    link: 'https://pub.dartlang.org/packages/angel_mongo'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: w_transport
+    package_version: v2.7.0
+    title: 'v2.7.0 of w_transport'
+    published: '2016-06-23T20:03:56+00:00'
+    id: 'urn:uuid:70853d41-2c38-5fa0-b3f8-36a18276d2be'
+    link: 'https://pub.dartlang.org/packages/w_transport'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
