@@ -65649,3 +65649,22 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: taiga_api
+    package_version: v0.0.3
+    title: 'v0.0.3 of taiga_api'
+    published: '2016-06-24T21:15:47+00:00'
+    id: 'urn:uuid:b334cc4b-0f7d-538d-8859-e07fb9100ca4'
+    link: 'https://pub.dartlang.org/packages/taiga_api'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+        - 'Antoine Guittet <antoine.epitech@gmail.com>'
+-
+    package_name: angel_client
+    package_version: v1.0.0-dev
+    title: 'v1.0.0-dev of angel_client'
+    published: '2016-06-24T21:07:25+00:00'
+    id: 'urn:uuid:bcdcef36-8ee1-540c-a7c3-3195b4cab99a'
+    link: 'https://pub.dartlang.org/packages/angel_client'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
