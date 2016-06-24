@@ -65631,3 +65631,12 @@
     link: 'https://pub.dartlang.org/packages/code_postaux'
     author:
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev+3
+    title: 'v1.0.0-dev+3 of angel_framework'
+    published: '2016-06-24T19:41:47+00:00'
+    id: 'urn:uuid:66b27ee7-2e08-58ee-a10a-399bbad94009'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
