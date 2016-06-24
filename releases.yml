@@ -65600,3 +65600,12 @@
     link: 'https://pub.dartlang.org/packages/coverage'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: firebase_rest
+    package_version: v0.1.8
+    title: 'v0.1.8 of firebase_rest'
+    published: '2016-06-24T06:38:06+00:00'
+    id: 'urn:uuid:bddec4ae-46c3-5d09-99f4-bcaee87371a6'
+    link: 'https://pub.dartlang.org/packages/firebase_rest'
+    author:
+        - 'Rik Bellens <rik.bellens@appsup.be>'
