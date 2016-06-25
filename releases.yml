@@ -65677,3 +65677,30 @@
     link: 'https://pub.dartlang.org/packages/angel_client'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: jefe
+    package_version: v0.4.0
+    title: 'v0.4.0 of jefe'
+    published: '2016-06-25T01:35:47+00:00'
+    id: 'urn:uuid:9c4f04d9-f4a7-5e53-89de-ca0611b912e8'
+    link: 'https://pub.dartlang.org/packages/jefe'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: pubspec
+    package_version: v0.0.14
+    title: 'v0.0.14 of pubspec'
+    published: '2016-06-25T01:34:57+00:00'
+    id: 'urn:uuid:e9277d42-d246-5fd2-8cd8-48e31dfb4656'
+    link: 'https://pub.dartlang.org/packages/pubspec'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: stuff
+    package_version: v0.0.7
+    title: 'v0.0.7 of stuff'
+    published: '2016-06-25T01:34:33+00:00'
+    id: 'urn:uuid:8ebc88b8-abd5-535b-8576-a405fdae7bdf'
+    link: 'https://pub.dartlang.org/packages/stuff'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
