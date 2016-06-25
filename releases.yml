@@ -65704,3 +65704,13 @@
     link: 'https://pub.dartlang.org/packages/stuff'
     author:
         - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: msgpack
+    package_version: v0.6.0
+    title: 'v0.6.0 of msgpack'
+    published: '2016-06-25T03:36:43+00:00'
+    id: 'urn:uuid:26846193-585b-5cf3-a7d5-0ce4ceb88137'
+    link: 'https://pub.dartlang.org/packages/msgpack'
+    author:
+        - 'Kenneth Endfinger <kaendfinger@gmail.com>'
+        - 'Dan Ellis <dan@danellis.me>'
