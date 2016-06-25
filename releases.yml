@@ -65714,3 +65714,13 @@
     author:
         - 'Kenneth Endfinger <kaendfinger@gmail.com>'
         - 'Dan Ellis <dan@danellis.me>'
+-
+    package_name: msgpack
+    package_version: v0.7.1
+    title: 'v0.7.1 of msgpack'
+    published: '2016-06-25T04:54:48+00:00'
+    id: 'urn:uuid:125b37c6-b781-5023-9ae0-d5021586c8fe'
+    link: 'https://pub.dartlang.org/packages/msgpack'
+    author:
+        - 'Kenneth Endfinger <kaendfinger@gmail.com>'
+        - 'Dan Ellis <dan@danellis.me>'
