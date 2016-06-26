@@ -65752,3 +65752,21 @@
     link: 'https://pub.dartlang.org/packages/material2_dart'
     author:
         - 'ntaoo <ntaoo.g@gmail.com>'
+-
+    package_name: scribe
+    package_version: v0.1.0+1
+    title: 'v0.1.0+1 of scribe'
+    published: '2016-06-26T02:58:52+00:00'
+    id: 'urn:uuid:478fbc48-24c2-548c-b1ec-b77f4ca07afc'
+    link: 'https://pub.dartlang.org/packages/scribe'
+    author:
+        - 'stable|kernel <http://stablekernel.com>'
+-
+    package_name: aqueduct
+    package_version: v0.9.0
+    title: 'v0.9.0 of aqueduct'
+    published: '2016-06-26T02:14:20+00:00'
+    id: 'urn:uuid:744408dc-f69f-528f-b772-d82762b814a9'
+    link: 'https://pub.dartlang.org/packages/aqueduct'
+    author:
+        - 'stable|kernel <http://stablekernel.com>'
