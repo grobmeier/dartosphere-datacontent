@@ -65770,3 +65770,12 @@
     link: 'https://pub.dartlang.org/packages/aqueduct'
     author:
         - 'stable|kernel <http://stablekernel.com>'
+-
+    package_name: leafletjs
+    package_version: v0.0.0+1
+    title: 'v0.0.0+1 of leafletjs'
+    published: '2016-06-26T11:18:27+00:00'
+    id: 'urn:uuid:6299356d-a658-523d-bdab-ae7c247772df'
+    link: 'https://pub.dartlang.org/packages/leafletjs'
+    author:
+        - 'Renat Valeev <renat.valeev@gmail.com>'
