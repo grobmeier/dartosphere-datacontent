@@ -65851,3 +65851,12 @@
     link: 'https://pub.dartlang.org/packages/dart_parser'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: dart_parser
+    package_version: v1.0.0-dev+1
+    title: 'v1.0.0-dev+1 of dart_parser'
+    published: '2016-06-27T19:54:47+00:00'
+    id: 'urn:uuid:e143c7c1-f69c-588f-9215-14cc10157596'
+    link: 'https://pub.dartlang.org/packages/dart_parser'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
