@@ -65860,3 +65860,12 @@
     link: 'https://pub.dartlang.org/packages/dart_parser'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: linter
+    package_version: v0.1.21
+    title: 'v0.1.21 of linter'
+    published: '2016-06-27T20:28:59+00:00'
+    id: 'urn:uuid:56793e8a-6d62-538a-82b8-852750036bda'
+    link: 'https://pub.dartlang.org/packages/linter'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
