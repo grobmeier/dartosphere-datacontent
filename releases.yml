@@ -65788,3 +65788,30 @@
     link: 'https://pub.dartlang.org/packages/dartins'
     author:
         - 'Nathan Kerr <nathanker@gmail.com>'
+-
+    package_name: pappes_web_utility
+    package_version: v0.0.3+6
+    title: 'v0.0.3+6 of pappes_web_utility'
+    published: '2016-06-27T09:27:49+00:00'
+    id: 'urn:uuid:5bf4dd98-1496-56bb-884f-88fb888b900e'
+    link: 'https://pub.dartlang.org/packages/pappes_web_utility'
+    author:
+        - Pappes
+-
+    package_name: googleapis_beta
+    package_version: v0.28.0
+    title: 'v0.28.0 of googleapis_beta'
+    published: '2016-06-27T09:07:45+00:00'
+    id: 'urn:uuid:b474c85e-17de-57d2-8a08-dd9f410baafd'
+    link: 'https://pub.dartlang.org/packages/googleapis_beta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: googleapis
+    package_version: v0.29.0
+    title: 'v0.29.0 of googleapis'
+    published: '2016-06-27T09:07:30+00:00'
+    id: 'urn:uuid:e712d439-d31e-5b07-bae0-6deb1fcc7b60'
+    link: 'https://pub.dartlang.org/packages/googleapis'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
