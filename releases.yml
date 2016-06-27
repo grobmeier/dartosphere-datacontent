@@ -65815,3 +65815,12 @@
     link: 'https://pub.dartlang.org/packages/googleapis'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: plot_window
+    package_version: v0.0.47
+    title: 'v0.0.47 of plot_window'
+    published: '2016-06-27T14:55:05+00:00'
+    id: 'urn:uuid:8dbdf59e-a9d1-53d4-8236-8cdaea704ec0'
+    link: 'https://pub.dartlang.org/packages/plot_window'
+    author:
+        - 'Edouard Tavinor <edouardtavinor@gmail.com>'
