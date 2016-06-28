@@ -65887,3 +65887,12 @@
     link: 'https://pub.dartlang.org/packages/bromium'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: dart_parser
+    package_version: v1.0.0-dev+3
+    title: 'v1.0.0-dev+3 of dart_parser'
+    published: '2016-06-28T17:34:26+00:00'
+    id: 'urn:uuid:98ce5fb2-fd2b-5dff-8664-347ce4a4d66a'
+    link: 'https://pub.dartlang.org/packages/dart_parser'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
