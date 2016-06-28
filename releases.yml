@@ -65869,3 +65869,12 @@
     link: 'https://pub.dartlang.org/packages/linter'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dart_parser
+    package_version: v1.0.0-dev+2
+    title: 'v1.0.0-dev+2 of dart_parser'
+    published: '2016-06-28T01:22:30+00:00'
+    id: 'urn:uuid:59c230ee-e1fb-5cfa-9088-082f4afbc2b2'
+    link: 'https://pub.dartlang.org/packages/dart_parser'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
