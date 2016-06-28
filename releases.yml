@@ -65915,3 +65915,39 @@
     author:
         - 'Kenneth Endfinger <kaendfinger@gmail.com>'
         - 'Dan Ellis <dan@danellis.me>'
+-
+    package_name: mojo_sdk
+    package_version: v0.2.30
+    title: 'v0.2.30 of mojo_sdk'
+    published: '2016-06-28T21:46:09+00:00'
+    id: 'urn:uuid:9869032c-65c6-5f72-8890-87ed4cf3312a'
+    link: 'https://pub.dartlang.org/packages/mojo_sdk'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: dart_parser
+    package_version: v1.0.0-dev+5
+    title: 'v1.0.0-dev+5 of dart_parser'
+    published: '2016-06-28T21:14:20+00:00'
+    id: 'urn:uuid:c096a211-7395-5837-b68e-d5d07ade996f'
+    link: 'https://pub.dartlang.org/packages/dart_parser'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: mojo_services
+    package_version: v0.4.33
+    title: 'v0.4.33 of mojo_services'
+    published: '2016-06-28T21:13:30+00:00'
+    id: 'urn:uuid:3139e1f1-50af-592a-a71e-db917849bbfd'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo
+    package_version: v0.4.26
+    title: 'v0.4.26 of mojo'
+    published: '2016-06-28T21:13:21+00:00'
+    id: 'urn:uuid:22d30ea1-d3be-5150-a94d-0d90bffc7e04'
+    link: 'https://pub.dartlang.org/packages/mojo'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
