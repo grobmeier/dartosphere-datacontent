@@ -65951,3 +65951,21 @@
     link: 'https://pub.dartlang.org/packages/mojo'
     author:
         - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojom
+    package_version: v0.2.34
+    title: 'v0.2.34 of mojom'
+    published: '2016-06-28T22:00:47+00:00'
+    id: 'urn:uuid:26d9aa43-e650-5ab0-b7a0-195c3e3a68c4'
+    link: 'https://pub.dartlang.org/packages/mojom'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_apptest
+    package_version: v0.2.34
+    title: 'v0.2.34 of mojo_apptest'
+    published: '2016-06-28T22:00:39+00:00'
+    id: 'urn:uuid:e8eda023-d8d3-5aae-8f22-5c1c121695bf'
+    link: 'https://pub.dartlang.org/packages/mojo_apptest'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
