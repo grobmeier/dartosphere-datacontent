@@ -65905,3 +65905,13 @@
     link: 'https://pub.dartlang.org/packages/dart_parser'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: msgpack
+    package_version: v0.8.0
+    title: 'v0.8.0 of msgpack'
+    published: '2016-06-28T19:16:29+00:00'
+    id: 'urn:uuid:f755a16b-c4cf-5e7a-a1f2-ff1bc1772369'
+    link: 'https://pub.dartlang.org/packages/msgpack'
+    author:
+        - 'Kenneth Endfinger <kaendfinger@gmail.com>'
+        - 'Dan Ellis <dan@danellis.me>'
