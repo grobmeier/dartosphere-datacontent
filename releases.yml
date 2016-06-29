@@ -65978,3 +65978,12 @@
     link: 'https://pub.dartlang.org/packages/dart_parser'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: pappes_web_utility
+    package_version: v0.0.4
+    title: 'v0.0.4 of pappes_web_utility'
+    published: '2016-06-29T09:48:09+00:00'
+    id: 'urn:uuid:d8d5d876-ed04-53db-a0ac-48c1c856a792'
+    link: 'https://pub.dartlang.org/packages/pappes_web_utility'
+    author:
+        - Pappes
