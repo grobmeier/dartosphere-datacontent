@@ -65996,3 +65996,12 @@
     link: 'https://pub.dartlang.org/packages/rl_matrix'
     author:
         - 'R.S. Schermer <roland0507@gmail.com>'
+-
+    package_name: dartdoc
+    package_version: v0.9.6+2
+    title: 'v0.9.6+2 of dartdoc'
+    published: '2016-06-29T18:28:38+00:00'
+    id: 'urn:uuid:f4ddf55a-deba-554c-8d0e-7a638cdd6a5f'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
