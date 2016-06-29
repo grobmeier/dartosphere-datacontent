@@ -65969,3 +65969,12 @@
     link: 'https://pub.dartlang.org/packages/mojo_apptest'
     author:
         - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: dart_parser
+    package_version: v1.0.0-dev+7
+    title: 'v1.0.0-dev+7 of dart_parser'
+    published: '2016-06-29T00:37:29+00:00'
+    id: 'urn:uuid:cb9f0f0e-0870-5654-be33-05e229af82b7'
+    link: 'https://pub.dartlang.org/packages/dart_parser'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
