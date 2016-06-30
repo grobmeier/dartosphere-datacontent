@@ -66023,3 +66023,12 @@
     link: 'https://pub.dartlang.org/packages/domnode'
     author:
         - 'Gonzalo Chumillas <gchumillas@email.com>'
+-
+    package_name: lightning
+    package_version: v2.0.2
+    title: 'v2.0.2 of lightning'
+    published: '2016-06-30T05:23:58+00:00'
+    id: 'urn:uuid:03f08038-5fc7-5c6c-8f57-2f16da637187'
+    link: 'https://pub.dartlang.org/packages/lightning'
+    author:
+        - 'Accorto Lightning <lightning@accorto.com>'
