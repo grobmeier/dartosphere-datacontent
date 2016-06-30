@@ -66050,3 +66050,21 @@
     link: 'https://pub.dartlang.org/packages/pappes_web_utility'
     author:
         - Pappes
+-
+    package_name: angel_auth
+    package_version: v1.0.0-dev+2
+    title: 'v1.0.0-dev+2 of angel_auth'
+    published: '2016-06-30T20:11:37+00:00'
+    id: 'urn:uuid:0cff76a5-3721-5ce2-b7c0-a7edf475b28f'
+    link: 'https://pub.dartlang.org/packages/angel_auth'
+    author:
+        - 'thosakwe <thosakwe@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.7
+    title: 'v1.0.0-dev.7 of angel_framework'
+    published: '2016-06-30T20:08:17+00:00'
+    id: 'urn:uuid:a2fe861c-3b8d-5ded-bd4a-59aa0f9c42ca'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
