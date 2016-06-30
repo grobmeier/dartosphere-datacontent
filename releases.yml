@@ -66032,3 +66032,21 @@
     link: 'https://pub.dartlang.org/packages/lightning'
     author:
         - 'Accorto Lightning <lightning@accorto.com>'
+-
+    package_name: scissors
+    package_version: v0.6.4
+    title: 'v0.6.4 of scissors'
+    published: '2016-06-30T12:39:58+00:00'
+    id: 'urn:uuid:338d015d-745d-5cd7-ac0a-62992081ed30'
+    link: 'https://pub.dartlang.org/packages/scissors'
+    author:
+        - 'Olivier Chafik <ochafik@google.com>'
+-
+    package_name: pappes_web_utility
+    package_version: v0.0.4+1
+    title: 'v0.0.4+1 of pappes_web_utility'
+    published: '2016-06-30T12:32:34+00:00'
+    id: 'urn:uuid:02c11c76-bd01-5216-984b-b382a1060712'
+    link: 'https://pub.dartlang.org/packages/pappes_web_utility'
+    author:
+        - Pappes
