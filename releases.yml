@@ -66104,3 +66104,57 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: mojo_apptest
+    package_version: v0.2.35
+    title: 'v0.2.35 of mojo_apptest'
+    published: '2016-07-01T21:49:50+00:00'
+    id: 'urn:uuid:b0f77dd5-b815-588e-9f8b-2d589bf32122'
+    link: 'https://pub.dartlang.org/packages/mojo_apptest'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojom
+    package_version: v0.2.35
+    title: 'v0.2.35 of mojom'
+    published: '2016-07-01T21:49:41+00:00'
+    id: 'urn:uuid:e471d3b9-1499-5e85-be2e-1938b3b00836'
+    link: 'https://pub.dartlang.org/packages/mojom'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_sdk
+    package_version: v0.2.31
+    title: 'v0.2.31 of mojo_sdk'
+    published: '2016-07-01T21:45:10+00:00'
+    id: 'urn:uuid:10a2dc90-8318-5960-a78a-dba97d161c6d'
+    link: 'https://pub.dartlang.org/packages/mojo_sdk'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_services
+    package_version: v0.4.34
+    title: 'v0.4.34 of mojo_services'
+    published: '2016-07-01T21:39:14+00:00'
+    id: 'urn:uuid:f585caf4-f462-51b4-b6c9-45c88c32aed4'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo
+    package_version: v0.4.27
+    title: 'v0.4.27 of mojo'
+    published: '2016-07-01T21:39:03+00:00'
+    id: 'urn:uuid:0b42a02a-e027-554d-ad6f-40273f2940b2'
+    link: 'https://pub.dartlang.org/packages/mojo'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: dartins
+    package_version: v0.0.6
+    title: 'v0.0.6 of dartins'
+    published: '2016-07-01T21:30:22+00:00'
+    id: 'urn:uuid:ad9cfe7b-7437-5a72-8766-91dd7b1a74cb'
+    link: 'https://pub.dartlang.org/packages/dartins'
+    author:
+        - 'Nathan Kerr <nathanker@gmail.com>'
