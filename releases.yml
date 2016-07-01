@@ -66095,3 +66095,12 @@
     link: 'https://pub.dartlang.org/packages/dartins'
     author:
         - 'Nathan Kerr <nathanker@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.8
+    title: 'v1.0.0-dev.8 of angel_framework'
+    published: '2016-07-01T19:06:51+00:00'
+    id: 'urn:uuid:2073a2df-b3ae-5a39-b3ee-5b585b330b7a'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
