@@ -66086,3 +66086,12 @@
     link: 'https://pub.dartlang.org/packages/leafletjs'
     author:
         - 'Renat Valeev <renat.valeev@gmail.com>'
+-
+    package_name: dartins
+    package_version: v0.0.5+1
+    title: 'v0.0.5+1 of dartins'
+    published: '2016-07-01T16:47:33+00:00'
+    id: 'urn:uuid:f09aa8b9-3564-55e6-a693-649863f85391'
+    link: 'https://pub.dartlang.org/packages/dartins'
+    author:
+        - 'Nathan Kerr <nathanker@gmail.com>'
