@@ -66167,3 +66167,13 @@
     link: 'https://pub.dartlang.org/packages/angel_client'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: chrome
+    package_version: v0.9.1
+    title: 'v0.9.1 of chrome'
+    published: '2016-07-02T01:53:04+00:00'
+    id: 'urn:uuid:6f81790e-f2cb-5c0b-a436-1b605fc54fbd'
+    link: 'https://pub.dartlang.org/packages/chrome'
+    author:
+        - 'Adam Bender <adambender@gmail.com>'
+        - 'Ben Holtz <bholtz@cs.stanford.edu>'
