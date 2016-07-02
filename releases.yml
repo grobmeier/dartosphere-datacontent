@@ -66177,3 +66177,12 @@
     author:
         - 'Adam Bender <adambender@gmail.com>'
         - 'Ben Holtz <bholtz@cs.stanford.edu>'
+-
+    package_name: zwave
+    package_version: v0.1.3
+    title: 'v0.1.3 of zwave'
+    published: '2016-07-02T16:26:20+00:00'
+    id: 'urn:uuid:6b13c835-b907-5adb-bece-85aac8eac1a2'
+    link: 'https://pub.dartlang.org/packages/zwave'
+    author:
+        - 'Dan Rubel <danrubel@google.com>'
