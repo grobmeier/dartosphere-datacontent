@@ -66213,3 +66213,12 @@
     link: 'https://pub.dartlang.org/packages/dartz'
     author:
         - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: dartz
+    package_version: v0.2.4
+    title: 'v0.2.4 of dartz'
+    published: '2016-07-03T18:58:39+00:00'
+    id: 'urn:uuid:668ee69d-7739-5fed-9c37-c00601cd25e6'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
