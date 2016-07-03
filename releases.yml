@@ -66195,3 +66195,12 @@
     link: 'https://pub.dartlang.org/packages/domnode'
     author:
         - 'Gonzalo Chumillas <gchumillas@email.com>'
+-
+    package_name: angel_client
+    package_version: v1.0.0-dev+3
+    title: 'v1.0.0-dev+3 of angel_client'
+    published: '2016-07-03T01:04:09+00:00'
+    id: 'urn:uuid:44ccf445-046a-59ed-a601-9e7d04a65bf8'
+    link: 'https://pub.dartlang.org/packages/angel_client'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
