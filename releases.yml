@@ -66240,3 +66240,22 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: octicons
+    package_version: v4.2.0
+    title: 'v4.2.0 of octicons'
+    published: '2016-07-03T23:21:53+00:00'
+    id: 'urn:uuid:9df22d11-0e7f-5619-b37f-00b32a3f5934'
+    link: 'https://pub.dartlang.org/packages/octicons'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+        - 'GitHub Inc.'
+-
+    package_name: angel_auth
+    package_version: v1.0.0-dev+5
+    title: 'v1.0.0-dev+5 of angel_auth'
+    published: '2016-07-03T23:18:52+00:00'
+    id: 'urn:uuid:8d2d32a7-ce0e-516e-81a7-212f04d7c09e'
+    link: 'https://pub.dartlang.org/packages/angel_auth'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
