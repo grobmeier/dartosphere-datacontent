@@ -66204,3 +66204,12 @@
     link: 'https://pub.dartlang.org/packages/angel_client'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: dartz
+    package_version: v0.2.3
+    title: 'v0.2.3 of dartz'
+    published: '2016-07-03T16:20:13+00:00'
+    id: 'urn:uuid:aa870fa8-5ca0-50b6-81cf-cfc2e87d2ebf'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
