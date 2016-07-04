@@ -66332,3 +66332,23 @@
     link: 'https://pub.dartlang.org/packages/domnode'
     author:
         - 'Gonzalo Chumillas <gchumillas@email.com>'
+-
+    package_name: dartins
+    package_version: v0.0.6+1
+    title: 'v0.0.6+1 of dartins'
+    published: '2016-07-04T23:59:18+00:00'
+    id: 'urn:uuid:2c0d3f91-5e84-5ac0-af7e-88c54aab5fb2'
+    link: 'https://pub.dartlang.org/packages/dartins'
+    author:
+        - 'Nathan Kerr <nathanker@gmail.com>'
+-
+    package_name: asn1lib
+    package_version: v0.4.2
+    title: 'v0.4.2 of asn1lib'
+    published: '2016-07-04T23:52:14+00:00'
+    id: 'urn:uuid:4a9e1b79-4fce-54a4-8081-fd529c646ab2'
+    link: 'https://pub.dartlang.org/packages/asn1lib'
+    author:
+        - 'Warren Strange <warren.strange@gmail.com>'
+        - 'Steven Roose <stevenroose@gmail.com>'
+        - 'Jonas Kello <jonas.kello@gmail.com>'
