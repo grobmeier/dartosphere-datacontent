@@ -66296,3 +66296,12 @@
     link: 'https://pub.dartlang.org/packages/dartabase_core'
     author:
         - 'Hannes Rammer <Hannes.Rammer@gmail.com>'
+-
+    package_name: angel_multiserver
+    package_version: v1.0.0-dev
+    title: 'v1.0.0-dev of angel_multiserver'
+    published: '2016-07-04T12:47:42+00:00'
+    id: 'urn:uuid:696b0f8c-6daf-5571-829f-7b7df748369d'
+    link: 'https://pub.dartlang.org/packages/angel_multiserver'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
