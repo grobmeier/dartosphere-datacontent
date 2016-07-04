@@ -66323,3 +66323,12 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: domnode
+    package_version: v1.6.0
+    title: 'v1.6.0 of domnode'
+    published: '2016-07-04T22:06:33+00:00'
+    id: 'urn:uuid:95d690c2-213b-56a9-aa04-13da53b33447'
+    link: 'https://pub.dartlang.org/packages/domnode'
+    author:
+        - 'Gonzalo Chumillas <gchumillas@email.com>'
