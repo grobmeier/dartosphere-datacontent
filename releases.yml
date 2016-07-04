@@ -66259,3 +66259,13 @@
     link: 'https://pub.dartlang.org/packages/angel_auth'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: font_awesome
+    package_version: v4.6.3
+    title: 'v4.6.3 of font_awesome'
+    published: '2016-07-04T00:44:24+00:00'
+    id: 'urn:uuid:896d17c5-9cd5-5af0-a9c2-b8c74260bc9f'
+    link: 'https://pub.dartlang.org/packages/font_awesome'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+        - 'Dave Gandy <dave@fontawesome.io>'
