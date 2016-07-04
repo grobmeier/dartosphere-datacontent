@@ -66278,3 +66278,12 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.12
+    title: 'v1.0.0-dev.12 of angel_framework'
+    published: '2016-07-04T03:09:20+00:00'
+    id: 'urn:uuid:eaf7fe85-1dc2-5a7a-8344-2b1dc644f065'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
