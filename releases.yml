@@ -66399,3 +66399,21 @@
     link: 'https://pub.dartlang.org/packages/angel'
     author:
         - 'thosakwe <thosakwe@gmail.com>'
+-
+    package_name: money
+    package_version: v0.1.5
+    title: 'v0.1.5 of money'
+    published: '2016-07-05T22:12:24+00:00'
+    id: 'urn:uuid:a31c7e02-aa15-5e99-b211-a84009556efe'
+    link: 'https://pub.dartlang.org/packages/money'
+    author:
+        - 'Roman Shamritskiy <roman@litgroup.ru>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.14
+    title: 'v1.0.0-dev.14 of angel_framework'
+    published: '2016-07-05T22:11:41+00:00'
+    id: 'urn:uuid:b9c0dad8-3805-55b4-914e-544ed7a9f715'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
