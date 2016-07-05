@@ -66352,3 +66352,12 @@
         - 'Warren Strange <warren.strange@gmail.com>'
         - 'Steven Roose <stevenroose@gmail.com>'
         - 'Jonas Kello <jonas.kello@gmail.com>'
+-
+    package_name: automaton
+    package_version: v0.0.1
+    title: 'v0.0.1 of automaton'
+    published: '2016-07-05T07:31:52+00:00'
+    id: 'urn:uuid:3976dd36-7e5f-57bf-be20-c18f70b96c71'
+    link: 'https://pub.dartlang.org/packages/automaton'
+    author:
+        - 'Fluidic Team <dev@fluidic.io>'
