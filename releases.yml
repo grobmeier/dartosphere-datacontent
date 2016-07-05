@@ -66372,3 +66372,12 @@
         - 'Bruno Bellissimo <bruno.bellissimo@qurami.com>'
         - 'Cosmin Alexandru Dobre <alex.dobre@qurami.com>'
         - 'Gianfranco Reppucci <gianfranco.reppucci@qurami.com>'
+-
+    package_name: web_api
+    package_version: v0.0.1
+    title: 'v0.0.1 of web_api'
+    published: '2016-07-05T18:41:33+00:00'
+    id: 'urn:uuid:f4678545-d50d-5346-b905-58c828813f9d'
+    link: 'https://pub.dartlang.org/packages/web_api'
+    author:
+        - 'Cedric Krause <development@cedware.com>'
