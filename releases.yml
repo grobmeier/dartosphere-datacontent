@@ -66381,3 +66381,21 @@
     link: 'https://pub.dartlang.org/packages/web_api'
     author:
         - 'Cedric Krause <development@cedware.com>'
+-
+    package_name: angel_cli
+    package_version: v1.0.0-dev
+    title: 'v1.0.0-dev of angel_cli'
+    published: '2016-07-05T21:20:11+00:00'
+    id: 'urn:uuid:c780f89f-956b-5b75-814c-c27dd0178b21'
+    link: 'https://pub.dartlang.org/packages/angel_cli'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel
+    package_version: v1.0.0-dev
+    title: 'v1.0.0-dev of angel'
+    published: '2016-07-05T21:11:06+00:00'
+    id: 'urn:uuid:f61226c6-98e8-50ea-8cd4-ae4e793b925e'
+    link: 'https://pub.dartlang.org/packages/angel'
+    author:
+        - 'thosakwe <thosakwe@gmail.com>'
