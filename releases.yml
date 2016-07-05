@@ -66361,3 +66361,14 @@
     link: 'https://pub.dartlang.org/packages/automaton'
     author:
         - 'Fluidic Team <dev@fluidic.io>'
+-
+    package_name: jsonapi_client
+    package_version: v0.0.1
+    title: 'v0.0.1 of jsonapi_client'
+    published: '2016-07-05T08:48:14+00:00'
+    id: 'urn:uuid:3314d130-fb29-55d0-95d9-be2dced6f383'
+    link: 'https://pub.dartlang.org/packages/jsonapi_client'
+    author:
+        - 'Bruno Bellissimo <bruno.bellissimo@qurami.com>'
+        - 'Cosmin Alexandru Dobre <alex.dobre@qurami.com>'
+        - 'Gianfranco Reppucci <gianfranco.reppucci@qurami.com>'
