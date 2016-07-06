@@ -66455,3 +66455,12 @@
     link: 'https://pub.dartlang.org/packages/sitegen'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: plot_window
+    package_version: v0.0.49
+    title: 'v0.0.49 of plot_window'
+    published: '2016-07-06T13:50:10+00:00'
+    id: 'urn:uuid:2fe7af9e-55fc-5303-83b4-b6c0844d1177'
+    link: 'https://pub.dartlang.org/packages/plot_window'
+    author:
+        - 'Edouard Tavinor <edouardtavinor@gmail.com>'
