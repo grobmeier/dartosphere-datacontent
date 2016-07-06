@@ -66492,3 +66492,12 @@
     link: 'https://pub.dartlang.org/packages/firebase_list'
     author:
         - 'Christopher Best <bestchris@gmail.com>'
+-
+    package_name: domnode
+    package_version: v2.0.0
+    title: 'v2.0.0 of domnode'
+    published: '2016-07-06T21:18:12+00:00'
+    id: 'urn:uuid:3f5f2ec0-840c-5e72-9433-ab28e0ff44e1'
+    link: 'https://pub.dartlang.org/packages/domnode'
+    author:
+        - 'Gonzalo Chumillas <gchumillas@email.com>'
