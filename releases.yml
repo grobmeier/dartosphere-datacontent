@@ -66464,3 +66464,22 @@
     link: 'https://pub.dartlang.org/packages/plot_window'
     author:
         - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: calzone
+    package_version: v0.1.8
+    title: 'v0.1.8 of calzone'
+    published: '2016-07-06T17:17:02+00:00'
+    id: 'urn:uuid:ba3128e5-d906-50f1-9974-5c49b8804061'
+    link: 'https://pub.dartlang.org/packages/calzone'
+    author:
+        - 'Michael Bullington <m.bullington@dglogik.com>'
+        - 'Kenneth Endfinger <k.endfinger@dglogik.com>'
+-
+    package_name: dartins
+    package_version: v0.0.7
+    title: 'v0.0.7 of dartins'
+    published: '2016-07-06T17:16:21+00:00'
+    id: 'urn:uuid:92816bd9-e0ff-515e-b07f-af05e0374e76'
+    link: 'https://pub.dartlang.org/packages/dartins'
+    author:
+        - 'Nathan Kerr <nathanker@gmail.com>'
