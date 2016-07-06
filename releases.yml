@@ -66528,3 +66528,12 @@
     link: 'https://pub.dartlang.org/packages/scheduled_test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: shelf_static
+    package_version: v0.2.4
+    title: 'v0.2.4 of shelf_static'
+    published: '2016-07-06T23:03:11+00:00'
+    id: 'urn:uuid:be298b04-f923-5d3c-8a34-29cc86a59a1f'
+    link: 'https://pub.dartlang.org/packages/shelf_static'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
