@@ -66417,3 +66417,12 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_websocket
+    package_version: v1.0.0-dev
+    title: 'v1.0.0-dev of angel_websocket'
+    published: '2016-07-06T01:27:20+00:00'
+    id: 'urn:uuid:7bc5b3e9-2cea-59e6-89da-37c880e905ad'
+    link: 'https://pub.dartlang.org/packages/angel_websocket'
+    author:
+        - 'thosakwe <thosakwe@gmail.com>'
