@@ -66501,3 +66501,30 @@
     link: 'https://pub.dartlang.org/packages/domnode'
     author:
         - 'Gonzalo Chumillas <gchumillas@email.com>'
+-
+    package_name: http
+    package_version: v0.11.3+8
+    title: 'v0.11.3+8 of http'
+    published: '2016-07-06T22:51:40+00:00'
+    id: 'urn:uuid:a930fc6b-a04b-572d-bf6a-84b12e787310'
+    link: 'https://pub.dartlang.org/packages/http'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: test
+    package_version: v0.12.15
+    title: 'v0.12.15 of test'
+    published: '2016-07-06T22:48:05+00:00'
+    id: 'urn:uuid:d9c1bd0e-70d5-54ec-a5f1-571cb55f5afa'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: scheduled_test
+    package_version: v0.12.6
+    title: 'v0.12.6 of scheduled_test'
+    published: '2016-07-06T22:47:36+00:00'
+    id: 'urn:uuid:1199adda-e816-55b6-bab8-1f9807165d50'
+    link: 'https://pub.dartlang.org/packages/scheduled_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
