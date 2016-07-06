@@ -66426,3 +66426,12 @@
     link: 'https://pub.dartlang.org/packages/angel_websocket'
     author:
         - 'thosakwe <thosakwe@gmail.com>'
+-
+    package_name: react
+    package_version: v2.1.0
+    title: 'v2.1.0 of react'
+    published: '2016-07-06T05:35:57+00:00'
+    id: 'urn:uuid:9b44d883-c058-5932-abe7-f12620c46885'
+    link: 'https://pub.dartlang.org/packages/react'
+    author:
+        - 'Clean Team <clean@vacuumlabs.com>'
