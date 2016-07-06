@@ -66483,3 +66483,12 @@
     link: 'https://pub.dartlang.org/packages/dartins'
     author:
         - 'Nathan Kerr <nathanker@gmail.com>'
+-
+    package_name: firebase_list
+    package_version: v0.0.0
+    title: 'v0.0.0 of firebase_list'
+    published: '2016-07-06T19:32:43+00:00'
+    id: 'urn:uuid:0f9e718d-aeae-5ff8-b580-a6070f830064'
+    link: 'https://pub.dartlang.org/packages/firebase_list'
+    author:
+        - 'Christopher Best <bestchris@gmail.com>'
