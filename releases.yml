@@ -66537,3 +66537,28 @@
     link: 'https://pub.dartlang.org/packages/shelf_static'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dart_dev
+    package_version: v1.4.0
+    title: 'v1.4.0 of dart_dev'
+    published: '2016-07-07T16:47:09+00:00'
+    id: 'urn:uuid:f33140ff-ed5c-57b8-9588-b161d09c45a4'
+    link: 'https://pub.dartlang.org/packages/dart_dev'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: jsonapi_client
+    package_version: v0.2.1
+    title: 'v0.2.1 of jsonapi_client'
+    published: '2016-07-07T16:13:51+00:00'
+    id: 'urn:uuid:4775bb13-f7cb-5558-a58e-14cd86e63909'
+    link: 'https://pub.dartlang.org/packages/jsonapi_client'
+    author:
+        - 'Bruno Bellissimo <bruno.bellissimo@qurami.com>'
+        - 'Cosmin Alexandru Dobre <alex.dobre@qurami.com>'
+        - 'Gianfranco Reppucci <gianfranco.reppucci@qurami.com>'
