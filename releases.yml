@@ -66639,3 +66639,21 @@
     link: 'https://pub.dartlang.org/packages/domnode'
     author:
         - 'Gonzalo Chumillas <gchumillas@email.com>'
+-
+    package_name: enum_class_generator
+    package_version: v1.0.0
+    title: 'v1.0.0 of enum_class_generator'
+    published: '2016-07-11T08:46:08+00:00'
+    id: 'urn:uuid:8aa30ede-7049-55f8-b0be-6ac38db7dd6a'
+    link: 'https://pub.dartlang.org/packages/enum_class_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: enum_class
+    package_version: v1.0.0
+    title: 'v1.0.0 of enum_class'
+    published: '2016-07-11T08:44:29+00:00'
+    id: 'urn:uuid:0ddcae77-3b66-5aeb-bec5-48994ed68e52'
+    link: 'https://pub.dartlang.org/packages/enum_class'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
