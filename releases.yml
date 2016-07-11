@@ -66702,3 +66702,21 @@
     link: 'https://pub.dartlang.org/packages/react'
     author:
         - 'Clean Team <clean@vacuumlabs.com>'
+-
+    package_name: anim2
+    package_version: v1.0.5
+    title: 'v1.0.5 of anim2'
+    published: '2016-07-11T20:50:05+00:00'
+    id: 'urn:uuid:dc766ca8-9f5c-5194-9729-2cca2cf4b245'
+    link: 'https://pub.dartlang.org/packages/anim2'
+    author:
+        - 'Ben Sheron <benmosheron@gmail.com>'
+-
+    package_name: generic_vector_tools
+    package_version: v1.0.7
+    title: 'v1.0.7 of generic_vector_tools'
+    published: '2016-07-11T20:26:26+00:00'
+    id: 'urn:uuid:6b64b021-691a-5ff3-8fce-fd05c7008644'
+    link: 'https://pub.dartlang.org/packages/generic_vector_tools'
+    author:
+        - 'Ben Sheron <benmosheron@gmail.com>'
