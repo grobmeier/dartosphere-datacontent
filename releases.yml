@@ -66657,3 +66657,12 @@
     link: 'https://pub.dartlang.org/packages/enum_class'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: dart_json_predicate
+    package_version: v1.0.0
+    title: 'v1.0.0 of dart_json_predicate'
+    published: '2016-07-11T11:59:22+00:00'
+    id: 'urn:uuid:da2fcd69-50af-506f-a9d2-47ad7447d8be'
+    link: 'https://pub.dartlang.org/packages/dart_json_predicate'
+    author:
+        - 'Andreas Reiter <andreas.reiter@iaik.tugraz.at>'
