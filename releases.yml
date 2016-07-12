@@ -66729,3 +66729,12 @@
     link: 'https://pub.dartlang.org/packages/bagl'
     author:
         - 'R.S. Schermer <roland0507@gmail.com>'
+-
+    package_name: bagl
+    package_version: v0.1.1
+    title: 'v0.1.1 of bagl'
+    published: '2016-07-12T12:07:40+00:00'
+    id: 'urn:uuid:6687b475-a333-55b6-b0c1-e4c2c2ffa5a0'
+    link: 'https://pub.dartlang.org/packages/bagl'
+    author:
+        - 'R.S. Schermer <roland0507@gmail.com>'
