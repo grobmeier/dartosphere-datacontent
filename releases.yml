@@ -66720,3 +66720,12 @@
     link: 'https://pub.dartlang.org/packages/generic_vector_tools'
     author:
         - 'Ben Sheron <benmosheron@gmail.com>'
+-
+    package_name: bagl
+    package_version: v0.1.0
+    title: 'v0.1.0 of bagl'
+    published: '2016-07-12T11:03:01+00:00'
+    id: 'urn:uuid:1ca47aaf-afa6-5d6d-bd65-3a526b43c3eb'
+    link: 'https://pub.dartlang.org/packages/bagl'
+    author:
+        - 'R.S. Schermer <roland0507@gmail.com>'
