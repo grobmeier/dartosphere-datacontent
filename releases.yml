@@ -66747,3 +66747,14 @@
     link: 'https://pub.dartlang.org/packages/transformer_test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dquery
+    package_version: v0.8.5
+    title: 'v0.8.5 of dquery'
+    published: '2016-07-13T03:04:06+00:00'
+    id: 'urn:uuid:9f75e47d-2115-5901-8c60-333fc1e66619'
+    link: 'https://pub.dartlang.org/packages/dquery'
+    author:
+        - 'Simon Pai <simonpai@rikulo.org>'
+        - 'Jimmy Shiau <jimmyshiau@rikulo.org>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
