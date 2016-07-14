@@ -66777,3 +66777,22 @@
     link: 'https://pub.dartlang.org/packages/polymer_app_layout'
     author:
         - 'Mike Hoolehan <mike@hoolehan.com>'
+-
+    package_name: markd
+    package_version: v0.8.0+2
+    title: 'v0.8.0+2 of markd'
+    published: '2016-07-14T08:54:44+00:00'
+    id: 'urn:uuid:6a891c2a-d1cf-5db7-b549-28842a0e59a0'
+    link: 'https://pub.dartlang.org/packages/markd'
+    author:
+        - 'David Peek <ninjascript@gmail.com>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: validate
+    package_version: v1.5.2
+    title: 'v1.5.2 of validate'
+    published: '2016-07-14T08:50:35+00:00'
+    id: 'urn:uuid:a242f2f5-2f7b-5e75-abde-ee7c3ea15258'
+    link: 'https://pub.dartlang.org/packages/validate'
+    author:
+        - 'Mike Mitterer  <office@mikemitterer.at>'
