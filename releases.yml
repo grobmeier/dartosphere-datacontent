@@ -66796,3 +66796,12 @@
     link: 'https://pub.dartlang.org/packages/validate'
     author:
         - 'Mike Mitterer  <office@mikemitterer.at>'
+-
+    package_name: mdl
+    package_version: v1.17.4
+    title: 'v1.17.4 of mdl'
+    published: '2016-07-14T11:58:47+00:00'
+    id: 'urn:uuid:91e24e30-c5a5-594f-8aa7-92142bbc9026'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
