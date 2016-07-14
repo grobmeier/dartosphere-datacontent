@@ -66758,3 +66758,22 @@
         - 'Simon Pai <simonpai@rikulo.org>'
         - 'Jimmy Shiau <jimmyshiau@rikulo.org>'
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: markd
+    package_version: v0.8.0+1
+    title: 'v0.8.0+1 of markd'
+    published: '2016-07-14T07:34:27+00:00'
+    id: 'urn:uuid:b8550d5a-6a6b-5b90-b70e-b1d5ed3080c1'
+    link: 'https://pub.dartlang.org/packages/markd'
+    author:
+        - 'David Peek <ninjascript@gmail.com>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: polymer_app_layout
+    package_version: v0.0.6
+    title: 'v0.0.6 of polymer_app_layout'
+    published: '2016-07-14T07:11:48+00:00'
+    id: 'urn:uuid:b2f76472-a00d-5900-9bbc-51290f0ccbb4'
+    link: 'https://pub.dartlang.org/packages/polymer_app_layout'
+    author:
+        - 'Mike Hoolehan <mike@hoolehan.com>'
