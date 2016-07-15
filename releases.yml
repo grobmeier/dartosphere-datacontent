@@ -66815,3 +66815,15 @@
     author:
         - 'David Peek <ninjascript@gmail.com>'
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: bootstrap
+    package_version: v3.3.6
+    title: 'v3.3.6 of bootstrap'
+    published: '2016-07-15T03:51:32+00:00'
+    id: 'urn:uuid:cff0f209-6c62-5b30-81a0-f015efea6e26'
+    link: 'https://pub.dartlang.org/packages/bootstrap'
+    author:
+        - 'Bootstrap core team'
+        - 'Victor Berchet <victor@suumit.com>'
+        - 'Seth Ladd <sethladd@gmail.com>'
+        - 'Richer Larivière <richerlariviere@gmail.com>'
