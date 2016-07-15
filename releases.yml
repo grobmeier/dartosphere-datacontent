@@ -66827,3 +66827,21 @@
         - 'Victor Berchet <victor@suumit.com>'
         - 'Seth Ladd <sethladd@gmail.com>'
         - 'Richer Larivière <richerlariviere@gmail.com>'
+-
+    package_name: built_collection
+    package_version: v1.0.4
+    title: 'v1.0.4 of built_collection'
+    published: '2016-07-15T14:52:03+00:00'
+    id: 'urn:uuid:dff00d28-9a2f-540d-aeb9-cb7dd02458b9'
+    link: 'https://pub.dartlang.org/packages/built_collection'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: firebase_encode
+    package_version: v0.0.0
+    title: 'v0.0.0 of firebase_encode'
+    published: '2016-07-15T14:51:12+00:00'
+    id: 'urn:uuid:0b9aeb58-0bf7-51b6-8d42-0a84310a50af'
+    link: 'https://pub.dartlang.org/packages/firebase_encode'
+    author:
+        - 'Christopher Best <bestchris@gmail.com>'
