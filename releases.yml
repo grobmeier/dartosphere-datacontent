@@ -66805,3 +66805,13 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: markd
+    package_version: v0.8.1
+    title: 'v0.8.1 of markd'
+    published: '2016-07-15T01:39:55+00:00'
+    id: 'urn:uuid:15ad247d-c4cc-5931-8018-d4edb93eb3e6'
+    link: 'https://pub.dartlang.org/packages/markd'
+    author:
+        - 'David Peek <ninjascript@gmail.com>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
