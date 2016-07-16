@@ -66876,3 +66876,12 @@
     link: 'https://pub.dartlang.org/packages/bliss'
     author:
         - 'Steven Upton <steven.upton@indecks.co>'
+-
+    package_name: zwave
+    package_version: v0.2.0
+    title: 'v0.2.0 of zwave'
+    published: '2016-07-16T15:49:50+00:00'
+    id: 'urn:uuid:19268b1c-9fa0-5b3b-9338-364e3e436318'
+    link: 'https://pub.dartlang.org/packages/zwave'
+    author:
+        - 'Dan Rubel <danrubel@google.com>'
