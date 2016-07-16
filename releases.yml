@@ -66894,3 +66894,12 @@
     link: 'https://pub.dartlang.org/packages/stagexl_spine'
     author:
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: observable_roles
+    package_version: v0.1.2
+    title: 'v0.1.2 of observable_roles'
+    published: '2016-07-16T21:22:11+00:00'
+    id: 'urn:uuid:f8073f8f-ae51-5bc1-b423-10a5ad62f4e3'
+    link: 'https://pub.dartlang.org/packages/observable_roles'
+    author:
+        - 'Roman Snitko <roman.snitko@gmail.com>'
