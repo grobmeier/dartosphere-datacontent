@@ -66858,3 +66858,12 @@
         - 'Paul Evans <pevans@sonardesign.com>'
         - 'Stéphane Este-Gracias <sestegra@gmail.com>'
         - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
+-
+    package_name: force
+    package_version: v0.7.1
+    title: 'v0.7.1 of force'
+    published: '2016-07-16T09:33:26+00:00'
+    id: 'urn:uuid:3a84f9e7-4d55-542a-8698-3887cd283aca'
+    link: 'https://pub.dartlang.org/packages/force'
+    author:
+        - 'Joris Hermans <hermansj@gmail.com>'
