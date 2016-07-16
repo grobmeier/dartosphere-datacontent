@@ -66867,3 +66867,12 @@
     link: 'https://pub.dartlang.org/packages/force'
     author:
         - 'Joris Hermans <hermansj@gmail.com>'
+-
+    package_name: bliss
+    package_version: v0.2.1
+    title: 'v0.2.1 of bliss'
+    published: '2016-07-16T11:31:12+00:00'
+    id: 'urn:uuid:ef64e554-44a4-5bf7-b62f-e2a61068c5af'
+    link: 'https://pub.dartlang.org/packages/bliss'
+    author:
+        - 'Steven Upton <steven.upton@indecks.co>'
