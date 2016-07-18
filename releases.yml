@@ -66903,3 +66903,76 @@
     link: 'https://pub.dartlang.org/packages/observable_roles'
     author:
         - 'Roman Snitko <roman.snitko@gmail.com>'
+-
+    package_name: overwrite
+    package_version: v0.3.1
+    title: 'v0.3.1 of overwrite'
+    published: '2016-07-18T17:52:26+00:00'
+    id: 'urn:uuid:e707de9e-a69a-5387-ab45-e8bec1a5d00e'
+    link: 'https://pub.dartlang.org/packages/overwrite'
+    author:
+        - 'Christopher Best <bestchris@gmail.com>'
+-
+    package_name: logging
+    package_version: v0.11.3+1
+    title: 'v0.11.3+1 of logging'
+    published: '2016-07-18T17:43:21+00:00'
+    id: 'urn:uuid:c5661d02-f3db-5361-ad1c-591eedf14850'
+    link: 'https://pub.dartlang.org/packages/logging'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: custom_elements
+    package_version: v0.0.8+2
+    title: 'v0.0.8+2 of custom_elements'
+    published: '2016-07-18T17:38:54+00:00'
+    id: 'urn:uuid:a273a37b-1e90-5acb-9237-15896c3d5e18'
+    link: 'https://pub.dartlang.org/packages/custom_elements'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@drafintech.it>'
+-
+    package_name: dart_json_predicate
+    package_version: v1.1.1
+    title: 'v1.1.1 of dart_json_predicate'
+    published: '2016-07-18T15:58:42+00:00'
+    id: 'urn:uuid:cc7605f9-5781-51df-b813-c24f4640cb0f'
+    link: 'https://pub.dartlang.org/packages/dart_json_predicate'
+    author:
+        - 'Andreas Reiter <andreas.reiter@iaik.tugraz.at>'
+-
+    package_name: autonotify_observe
+    package_version: v1.0.0+10
+    title: 'v1.0.0+10 of autonotify_observe'
+    published: '2016-07-18T14:19:39+00:00'
+    id: 'urn:uuid:ddbb6938-e47b-5dd7-ab6d-aa87ac32655c'
+    link: 'https://pub.dartlang.org/packages/autonotify_observe'
+    author:
+        - 'Vittorio Ballestra (Drafintech s.r.l.) <vittorio.ballestra@gmail.com>'
+-
+    package_name: polymer_autonotify
+    package_version: v1.0.0+3
+    title: 'v1.0.0+3 of polymer_autonotify'
+    published: '2016-07-18T14:19:18+00:00'
+    id: 'urn:uuid:700fe67d-6db6-547f-91b4-0aa8da105d80'
+    link: 'https://pub.dartlang.org/packages/polymer_autonotify'
+    author:
+        - 'Vittorio Ballestra (Drafintech s.r.l.) <vittorio.ballestra@gmail.com>'
+-
+    package_name: pageloader
+    package_version: v2.0.2
+    title: 'v2.0.2 of pageloader'
+    published: '2016-07-18T09:01:04+00:00'
+    id: 'urn:uuid:cf25b15b-6d59-52c9-ad96-4b2dab8b565b'
+    link: 'https://pub.dartlang.org/packages/pageloader'
+    author:
+        - 'Marc Fisher II <fisherii@google.com>'
+-
+    package_name: serializer
+    package_version: v0.3.2
+    title: 'v0.3.2 of serializer'
+    published: '2016-07-17T12:23:59+00:00'
+    id: 'urn:uuid:de8c3fb4-0307-5a6d-b455-e5ed84f0fbf9'
+    link: 'https://pub.dartlang.org/packages/serializer'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+        - 'Stéphane Este-Gracias <sestegra@gmail.com>'
