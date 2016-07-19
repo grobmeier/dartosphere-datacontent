@@ -66976,3 +66976,14 @@
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
         - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+-
+    package_name: dartdap
+    package_version: v0.0.10
+    title: 'v0.0.10 of dartdap'
+    published: '2016-07-19T01:45:40+00:00'
+    id: 'urn:uuid:b4ca1cbf-3cfd-5ad5-b65c-e3e9a955b438'
+    link: 'https://pub.dartlang.org/packages/dartdap'
+    author:
+        - 'Warren Strange <warren.strange@gmail.com>'
+        - 'Chris Ridd <chrisridd@mac.com>'
+        - 'Hoylen Sue <hoylen@hoylen.com>'
