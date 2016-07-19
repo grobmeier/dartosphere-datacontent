@@ -66987,3 +66987,14 @@
         - 'Warren Strange <warren.strange@gmail.com>'
         - 'Chris Ridd <chrisridd@mac.com>'
         - 'Hoylen Sue <hoylen@hoylen.com>'
+-
+    package_name: dartdap
+    package_version: v0.0.11
+    title: 'v0.0.11 of dartdap'
+    published: '2016-07-19T02:22:24+00:00'
+    id: 'urn:uuid:8ab7a57f-5437-56a1-bf4a-a4efee1dba18'
+    link: 'https://pub.dartlang.org/packages/dartdap'
+    author:
+        - 'Warren Strange <warren.strange@gmail.com>'
+        - 'Chris Ridd <chrisridd@mac.com>'
+        - 'Hoylen Sue <hoylen@hoylen.com>'
