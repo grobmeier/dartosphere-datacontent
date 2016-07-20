@@ -67106,3 +67106,14 @@
     link: 'https://pub.dartlang.org/packages/angular2'
     author:
         - 'Angular Dart Team <angular2@dartlang.org>'
+-
+    package_name: stagehand
+    package_version: v1.0.10
+    title: 'v1.0.10 of stagehand'
+    published: '2016-07-20T19:30:27+00:00'
+    id: 'urn:uuid:d17cc767-847f-5278-82e1-d54cc4d10a7f'
+    link: 'https://pub.dartlang.org/packages/stagehand'
+    author:
+        - 'Seth Ladd <sethladd@google.com>'
+        - 'Devon Carew <devoncarew@google.com>'
+        - 'Kathy Walrath <kathyw@google.com>'
