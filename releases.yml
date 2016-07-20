@@ -67097,3 +67097,12 @@
     link: 'https://pub.dartlang.org/packages/http'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angular2
+    package_version: v2.0.0-beta.18
+    title: 'v2.0.0-beta.18 of angular2'
+    published: '2016-07-20T17:56:00+00:00'
+    id: 'urn:uuid:d34a6c76-f135-5b62-8b86-c569c2d4fea0'
+    link: 'https://pub.dartlang.org/packages/angular2'
+    author:
+        - 'Angular Dart Team <angular2@dartlang.org>'
