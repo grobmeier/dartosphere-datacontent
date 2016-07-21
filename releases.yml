@@ -67117,3 +67117,91 @@
         - 'Seth Ladd <sethladd@google.com>'
         - 'Devon Carew <devoncarew@google.com>'
         - 'Kathy Walrath <kathyw@google.com>'
+-
+    package_name: package_resolver
+    package_version: v1.0.0
+    title: 'v1.0.0 of package_resolver'
+    published: '2016-07-21T19:43:33+00:00'
+    id: 'urn:uuid:162e6e0f-afeb-5fe2-aa8a-6c5f37ab7445'
+    link: 'https://pub.dartlang.org/packages/package_resolver'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: linkcheck
+    package_version: v0.1.2
+    title: 'v0.1.2 of linkcheck'
+    published: '2016-07-21T18:16:41+00:00'
+    id: 'urn:uuid:05dad805-8108-548d-8135-008e190b7813'
+    link: 'https://pub.dartlang.org/packages/linkcheck'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: w_transport
+    package_version: v2.7.1
+    title: 'v2.7.1 of w_transport'
+    published: '2016-07-21T15:05:03+00:00'
+    id: 'urn:uuid:b674c6de-1c29-575f-b282-5d48aa724af8'
+    link: 'https://pub.dartlang.org/packages/w_transport'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: electron
+    package_version: v0.0.3+1
+    title: 'v0.0.3+1 of electron'
+    published: '2016-07-21T13:02:24+00:00'
+    id: 'urn:uuid:d4c83d34-7510-5fd8-85f9-b4a1d42c756d'
+    link: 'https://pub.dartlang.org/packages/electron'
+    author:
+        - GrimShield
+-
+    package_name: nodejs
+    package_version: v0.0.1
+    title: 'v0.0.1 of nodejs'
+    published: '2016-07-21T12:10:21+00:00'
+    id: 'urn:uuid:79897066-e99d-5506-98b4-ddb502448c84'
+    link: 'https://pub.dartlang.org/packages/nodejs'
+    author:
+        - GrimShield
+-
+    package_name: nuxeo_client
+    package_version: v0.3.1
+    title: 'v0.3.1 of nuxeo_client'
+    published: '2016-07-21T10:44:55+00:00'
+    id: 'urn:uuid:7d5336f3-f18e-569f-914a-2d1563847525'
+    link: 'https://pub.dartlang.org/packages/nuxeo_client'
+    author:
+        - 'Nelson Silva <nsilva@nuxeo.com>'
+-
+    package_name: entity
+    package_version: v0.8.7+1
+    title: 'v0.8.7+1 of entity'
+    published: '2016-07-21T08:00:15+00:00'
+    id: 'urn:uuid:2e05b00f-1793-5ac8-b201-c4f2b2ff9755'
+    link: 'https://pub.dartlang.org/packages/entity'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: dartdap
+    package_version: v0.1.0
+    title: 'v0.1.0 of dartdap'
+    published: '2016-07-21T03:44:46+00:00'
+    id: 'urn:uuid:99e43c45-9836-5149-b534-6661d49b8cfe'
+    link: 'https://pub.dartlang.org/packages/dartdap'
+    author:
+        - 'Warren Strange <warren.strange@gmail.com>'
+        - 'Chris Ridd <chrisridd@mac.com>'
+        - 'Hoylen Sue <hoylen@hoylen.com>'
+-
+    package_name: dartins
+    package_version: v0.0.8+1
+    title: 'v0.0.8+1 of dartins'
+    published: '2016-07-21T00:04:37+00:00'
+    id: 'urn:uuid:3840ce8f-5988-5c09-a4b9-b45adf1da6ce'
+    link: 'https://pub.dartlang.org/packages/dartins'
+    author:
+        - 'Nathan Kerr <nathanker@gmail.com>'
