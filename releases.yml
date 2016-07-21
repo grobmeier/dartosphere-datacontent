@@ -67228,3 +67228,12 @@
     link: 'https://pub.dartlang.org/packages/angel_client'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: linkcheck
+    package_version: v0.1.3
+    title: 'v0.1.3 of linkcheck'
+    published: '2016-07-21T21:59:58+00:00'
+    id: 'urn:uuid:7f482cd8-1714-5228-89e9-cf16232a0a59'
+    link: 'https://pub.dartlang.org/packages/linkcheck'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
