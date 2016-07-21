@@ -67205,3 +67205,26 @@
     link: 'https://pub.dartlang.org/packages/dartins'
     author:
         - 'Nathan Kerr <nathanker@gmail.com>'
+-
+    package_name: w_transport
+    package_version: v2.8.0
+    title: 'v2.8.0 of w_transport'
+    published: '2016-07-21T20:46:38+00:00'
+    id: 'urn:uuid:6b52376c-b857-50c8-9ae4-30956a65092c'
+    link: 'https://pub.dartlang.org/packages/w_transport'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: angel_client
+    package_version: v1.0.0-dev+5
+    title: 'v1.0.0-dev+5 of angel_client'
+    published: '2016-07-21T20:40:09+00:00'
+    id: 'urn:uuid:df4e55da-9e84-5b41-810f-88e3504f895c'
+    link: 'https://pub.dartlang.org/packages/angel_client'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
