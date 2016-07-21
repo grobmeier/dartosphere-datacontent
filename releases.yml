@@ -67237,3 +67237,12 @@
     link: 'https://pub.dartlang.org/packages/linkcheck'
     author:
         - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: shelf_packages_handler
+    package_version: v1.0.0
+    title: 'v1.0.0 of shelf_packages_handler'
+    published: '2016-07-21T23:08:47+00:00'
+    id: 'urn:uuid:41ab3526-e691-5d98-8f5c-dced4434f555'
+    link: 'https://pub.dartlang.org/packages/shelf_packages_handler'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
