@@ -67255,3 +67255,16 @@
     link: 'https://pub.dartlang.org/packages/symcrypt'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: redstone
+    package_version: v0.6.7
+    title: 'v0.6.7 of redstone'
+    published: '2016-07-22T14:34:33+00:00'
+    id: 'urn:uuid:374c8ca1-32d0-5cf5-909e-ac84173025e8'
+    link: 'https://pub.dartlang.org/packages/redstone'
+    author:
+        - 'Luiz Mineo <luiz.mineo@gmail.com>'
+        - 'Kenneth Endfinger <kaendfinger@gmail.com>'
+        - 'Austin Cummings <austincummings95@gmail.com>'
+        - 'Cristian Garcia <cgarcia.e88@gmail.com>'
+        - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
