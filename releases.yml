@@ -67278,3 +67278,22 @@
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
         - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+-
+    package_name: redstone_database_plugin
+    package_version: v0.1.0
+    title: 'v0.1.0 of redstone_database_plugin'
+    published: '2016-07-22T16:58:16+00:00'
+    id: 'urn:uuid:b774aec1-2bc0-59b8-b9b3-c536955dfb31'
+    link: 'https://pub.dartlang.org/packages/redstone_database_plugin'
+    author:
+        - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: pusher
+    package_version: v0.3.0
+    title: 'v0.3.0 of pusher'
+    published: '2016-07-22T16:31:38+00:00'
+    id: 'urn:uuid:81e91933-316c-5930-92c3-388fdf123411'
+    link: 'https://pub.dartlang.org/packages/pusher'
+    author:
+        - 'Adao Junior <itsjunnior@gmail.com>'
