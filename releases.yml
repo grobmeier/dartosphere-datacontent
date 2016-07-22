@@ -67246,3 +67246,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_packages_handler'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: symcrypt
+    package_version: v0.0.3
+    title: 'v0.0.3 of symcrypt'
+    published: '2016-07-22T00:20:17+00:00'
+    id: 'urn:uuid:393eb186-e07b-5a01-b181-1fc57631d013'
+    link: 'https://pub.dartlang.org/packages/symcrypt'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
