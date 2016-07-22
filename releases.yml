@@ -67268,3 +67268,13 @@
         - 'Austin Cummings <austincummings95@gmail.com>'
         - 'Cristian Garcia <cgarcia.e88@gmail.com>'
         - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
+-
+    package_name: serializer
+    package_version: v0.4.0
+    title: 'v0.4.0 of serializer'
+    published: '2016-07-22T15:23:22+00:00'
+    id: 'urn:uuid:74a7a519-dcb8-5158-bd84-b9295f7c8bbf'
+    link: 'https://pub.dartlang.org/packages/serializer'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+        - 'Stéphane Este-Gracias <sestegra@gmail.com>'
