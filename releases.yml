@@ -67388,3 +67388,12 @@
     link: 'https://pub.dartlang.org/packages/highcharts'
     author:
         - 'Gonzalo Pezzi <gonzalopezzi@gmail.com>'
+-
+    package_name: domelement
+    package_version: v0.1.0
+    title: 'v0.1.0 of domelement'
+    published: '2016-07-24T15:59:31+00:00'
+    id: 'urn:uuid:47cdccee-72c2-57ed-a594-c7e113be8b68'
+    link: 'https://pub.dartlang.org/packages/domelement'
+    author:
+        - 'Gonzalo Chumillas <gchumillas@email.com>'
