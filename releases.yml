@@ -67379,3 +67379,12 @@
     link: 'https://pub.dartlang.org/packages/stagexl_bitmapfont'
     author:
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: highcharts
+    package_version: v0.5.2
+    title: 'v0.5.2 of highcharts'
+    published: '2016-07-24T10:42:41+00:00'
+    id: 'urn:uuid:944429c6-e010-581f-9b61-3213f1353fe5'
+    link: 'https://pub.dartlang.org/packages/highcharts'
+    author:
+        - 'Gonzalo Pezzi <gonzalopezzi@gmail.com>'
