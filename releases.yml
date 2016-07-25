@@ -67415,3 +67415,44 @@
     link: 'https://pub.dartlang.org/packages/dinterprete'
     author:
         - 'Stijn Van Bael <email@example.com>'
+-
+    package_name: dinterprete
+    package_version: v0.0.2
+    title: 'v0.0.2 of dinterprete'
+    published: '2016-07-25T15:58:48+00:00'
+    id: 'urn:uuid:240a8608-d7e6-51ad-b887-d76da36f8843'
+    link: 'https://pub.dartlang.org/packages/dinterprete'
+    author:
+        - 'Stijn Van Bael <email@example.com>'
+-
+    package_name: w_module
+    package_version: v0.3.3
+    title: 'v0.3.3 of w_module'
+    published: '2016-07-25T15:57:44+00:00'
+    id: 'urn:uuid:5d737db4-83e5-567c-897d-3d6ead03e33f'
+    link: 'https://pub.dartlang.org/packages/w_module'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: dictapi
+    package_version: v0.1.2
+    title: 'v0.1.2 of dictapi'
+    published: '2016-07-25T15:54:19+00:00'
+    id: 'urn:uuid:304c3c13-e985-582b-9d44-0f982b715044'
+    link: 'https://pub.dartlang.org/packages/dictapi'
+    author:
+        - 'Justin Andresen <jan.dresen.95@gmail.com>'
+-
+    package_name: overwrite
+    package_version: v0.3.2
+    title: 'v0.3.2 of overwrite'
+    published: '2016-07-25T15:00:07+00:00'
+    id: 'urn:uuid:21cd701c-4447-5a9a-a056-c39c46634a37'
+    link: 'https://pub.dartlang.org/packages/overwrite'
+    author:
+        - 'Christopher Best <bestchris@gmail.com>'
