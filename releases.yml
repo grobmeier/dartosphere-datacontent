@@ -67488,3 +67488,12 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: dnd
+    package_version: v0.3.1
+    title: 'v0.3.1 of dnd'
+    published: '2016-07-25T23:10:35+00:00'
+    id: 'urn:uuid:9e217718-1541-5f06-abb2-18f1c29d0f3c'
+    link: 'https://pub.dartlang.org/packages/dnd'
+    author:
+        - 'Marco Jakob <majakob@gmx.ch>'
