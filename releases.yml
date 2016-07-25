@@ -67474,3 +67474,17 @@
     link: 'https://pub.dartlang.org/packages/reflective'
     author:
         - 'Stijn Van Bael <stijn.van.bael@appify.be>'
+-
+    package_name: w_module
+    package_version: v0.3.4
+    title: 'v0.3.4 of w_module'
+    published: '2016-07-25T20:00:15+00:00'
+    id: 'urn:uuid:5e43d4f7-6f73-5ba7-84ae-0a3d8ff08540'
+    link: 'https://pub.dartlang.org/packages/w_module'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
