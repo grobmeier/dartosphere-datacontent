@@ -67397,3 +67397,21 @@
     link: 'https://pub.dartlang.org/packages/domelement'
     author:
         - 'Gonzalo Chumillas <gchumillas@email.com>'
+-
+    package_name: dartdoc
+    package_version: v0.9.7+1
+    title: 'v0.9.7+1 of dartdoc'
+    published: '2016-07-25T14:13:45+00:00'
+    id: 'urn:uuid:af643add-78ef-5aee-ad9f-0ac02dd21058'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dinterprete
+    package_version: v0.0.1
+    title: 'v0.0.1 of dinterprete'
+    published: '2016-07-25T14:00:22+00:00'
+    id: 'urn:uuid:fe0e3972-4fea-569c-822f-5c79950e9b96'
+    link: 'https://pub.dartlang.org/packages/dinterprete'
+    author:
+        - 'Stijn Van Bael <email@example.com>'
