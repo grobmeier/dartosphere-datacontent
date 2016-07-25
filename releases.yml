@@ -67456,3 +67456,21 @@
     link: 'https://pub.dartlang.org/packages/overwrite'
     author:
         - 'Christopher Best <bestchris@gmail.com>'
+-
+    package_name: firebase_list
+    package_version: v0.0.1
+    title: 'v0.0.1 of firebase_list'
+    published: '2016-07-25T16:59:12+00:00'
+    id: 'urn:uuid:5f3bc98b-28e9-5e17-9f9f-7f524fa5157b'
+    link: 'https://pub.dartlang.org/packages/firebase_list'
+    author:
+        - 'Christopher Best <bestchris@gmail.com>'
+-
+    package_name: reflective
+    package_version: v0.0.29
+    title: 'v0.0.29 of reflective'
+    published: '2016-07-25T16:08:24+00:00'
+    id: 'urn:uuid:1db15aba-e04d-5145-a81b-5d879f7fb909'
+    link: 'https://pub.dartlang.org/packages/reflective'
+    author:
+        - 'Stijn Van Bael <stijn.van.bael@appify.be>'
