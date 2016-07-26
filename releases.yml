@@ -67559,3 +67559,12 @@
     author:
         - 'Stéphane Este-Gracias <sestegra@gmail.com>'
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: linkcheck
+    package_version: v0.2.4
+    title: 'v0.2.4 of linkcheck'
+    published: '2016-07-26T23:54:41+00:00'
+    id: 'urn:uuid:4de34c99-1b62-5976-9def-857e5cade57c'
+    link: 'https://pub.dartlang.org/packages/linkcheck'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
