@@ -67506,3 +67506,13 @@
     link: 'https://pub.dartlang.org/packages/source_map_stack_trace'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: stripe
+    package_version: v1.2.0
+    title: 'v1.2.0 of stripe'
+    published: '2016-07-26T14:22:21+00:00'
+    id: 'urn:uuid:b8c5a6ee-d68b-5375-be08-21f9209894f2'
+    link: 'https://pub.dartlang.org/packages/stripe'
+    author:
+        - 'Matias Meno <m@tias.me>'
+        - 'Martin Flucka <martin.flucka@gmail.com>'
