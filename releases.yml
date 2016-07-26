@@ -67497,3 +67497,12 @@
     link: 'https://pub.dartlang.org/packages/dnd'
     author:
         - 'Marco Jakob <majakob@gmx.ch>'
+-
+    package_name: source_map_stack_trace
+    package_version: v1.1.0
+    title: 'v1.1.0 of source_map_stack_trace'
+    published: '2016-07-26T01:04:33+00:00'
+    id: 'urn:uuid:e0aa45b2-7d75-54f1-a301-189376af9f59'
+    link: 'https://pub.dartlang.org/packages/source_map_stack_trace'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
