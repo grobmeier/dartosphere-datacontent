@@ -67516,3 +67516,12 @@
     author:
         - 'Matias Meno <m@tias.me>'
         - 'Martin Flucka <martin.flucka@gmail.com>'
+-
+    package_name: vertx_dart_sockjs
+    package_version: v0.3.4
+    title: 'v0.3.4 of vertx_dart_sockjs'
+    published: '2016-07-26T17:54:01+00:00'
+    id: 'urn:uuid:5a0434bf-0b72-55f8-8549-b60e795896d3'
+    link: 'https://pub.dartlang.org/packages/vertx_dart_sockjs'
+    author:
+        - 'Michel Werren <michel.werren@source-motion.ch>'
