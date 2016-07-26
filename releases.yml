@@ -67525,3 +67525,37 @@
     link: 'https://pub.dartlang.org/packages/vertx_dart_sockjs'
     author:
         - 'Michel Werren <michel.werren@source-motion.ch>'
+-
+    package_name: w_transport
+    package_version: v2.9.0
+    title: 'v2.9.0 of w_transport'
+    published: '2016-07-26T20:49:01+00:00'
+    id: 'urn:uuid:a24b87c1-7f40-5e93-b098-cde9a855b389'
+    link: 'https://pub.dartlang.org/packages/w_transport'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: redstone_database_mongo
+    package_version: v0.1.1
+    title: 'v0.1.1 of redstone_database_mongo'
+    published: '2016-07-26T20:11:13+00:00'
+    id: 'urn:uuid:c62d3c31-ee24-58eb-a56f-28d25abf8e9c'
+    link: 'https://pub.dartlang.org/packages/redstone_database_mongo'
+    author:
+        - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: redstone_database_plugin
+    package_version: v0.1.0+1
+    title: 'v0.1.0+1 of redstone_database_plugin'
+    published: '2016-07-26T20:04:15+00:00'
+    id: 'urn:uuid:c7bed01c-901a-5efe-a124-b769d920c8c4'
+    link: 'https://pub.dartlang.org/packages/redstone_database_plugin'
+    author:
+        - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
