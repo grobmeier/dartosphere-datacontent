@@ -67568,3 +67568,13 @@
     link: 'https://pub.dartlang.org/packages/linkcheck'
     author:
         - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: ng_bootstrap
+    package_version: v0.1.0
+    title: 'v0.1.0 of ng_bootstrap'
+    published: '2016-07-27T02:34:03+00:00'
+    id: 'urn:uuid:bdb85369-5f9d-5d6b-9cf5-03a5c70a92c2'
+    link: 'https://pub.dartlang.org/packages/ng_bootstrap'
+    author:
+        - 'Adao Jr. <itsjunnior@gmail.com>'
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
