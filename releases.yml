@@ -67605,3 +67605,12 @@
     link: 'https://pub.dartlang.org/packages/linter'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: polymer_paper_typeahead_input
+    package_version: v0.0.2
+    title: 'v0.0.2 of polymer_paper_typeahead_input'
+    published: '2016-07-27T16:59:15+00:00'
+    id: 'urn:uuid:b8e2322a-f9fe-54c2-a538-fb125f527eec'
+    link: 'https://pub.dartlang.org/packages/polymer_paper_typeahead_input'
+    author:
+        - 'Mike Hoolehan <mike@hoolehan.com>'
