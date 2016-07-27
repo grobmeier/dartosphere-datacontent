@@ -67587,3 +67587,12 @@
     link: 'https://pub.dartlang.org/packages/linkcheck'
     author:
         - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: react
+    package_version: v2.2.0
+    title: 'v2.2.0 of react'
+    published: '2016-07-27T07:10:11+00:00'
+    id: 'urn:uuid:7673fea7-5de8-50f4-be2b-76f000e7a80b'
+    link: 'https://pub.dartlang.org/packages/react'
+    author:
+        - 'Clean Team <clean@vacuumlabs.com>'
