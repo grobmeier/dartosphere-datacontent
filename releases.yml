@@ -67623,3 +67623,12 @@
     link: 'https://pub.dartlang.org/packages/cmustify'
     author:
         - 'Kim Desrosiers <kimdesro@gmail.com>'
+-
+    package_name: source_map_stack_trace
+    package_version: v1.1.2
+    title: 'v1.1.2 of source_map_stack_trace'
+    published: '2016-07-27T20:32:14+00:00'
+    id: 'urn:uuid:0e142ae9-9c95-54fb-9016-903072230d4f'
+    link: 'https://pub.dartlang.org/packages/source_map_stack_trace'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
