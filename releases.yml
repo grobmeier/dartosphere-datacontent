@@ -67614,3 +67614,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_paper_typeahead_input'
     author:
         - 'Mike Hoolehan <mike@hoolehan.com>'
+-
+    package_name: cmustify
+    package_version: v0.0.2
+    title: 'v0.0.2 of cmustify'
+    published: '2016-07-27T19:52:20+00:00'
+    id: 'urn:uuid:c5be5830-9411-5fa9-b781-dda4ef516e77'
+    link: 'https://pub.dartlang.org/packages/cmustify'
+    author:
+        - 'Kim Desrosiers <kimdesro@gmail.com>'
