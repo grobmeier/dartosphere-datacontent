@@ -67578,3 +67578,12 @@
     author:
         - 'Adao Jr. <itsjunnior@gmail.com>'
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: linkcheck
+    package_version: v0.2.5
+    title: 'v0.2.5 of linkcheck'
+    published: '2016-07-27T05:29:54+00:00'
+    id: 'urn:uuid:b76ddabb-ba8a-56fe-a81a-8a19e4d676df'
+    link: 'https://pub.dartlang.org/packages/linkcheck'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
