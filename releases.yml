@@ -67651,3 +67651,12 @@
     link: 'https://pub.dartlang.org/packages/linter'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: linkcheck
+    package_version: v0.2.8
+    title: 'v0.2.8 of linkcheck'
+    published: '2016-07-28T22:36:45+00:00'
+    id: 'urn:uuid:280dde0f-3b4d-5be4-b3f5-366a5a94a6c9'
+    link: 'https://pub.dartlang.org/packages/linkcheck'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
