@@ -67642,3 +67642,12 @@
     author:
         - 'Kai Sellgren <kaisellgren@gmail.com>'
         - 'Dan Rubel <danrubel@google.com>'
+-
+    package_name: linter
+    package_version: v0.1.23
+    title: 'v0.1.23 of linter'
+    published: '2016-07-28T16:03:52+00:00'
+    id: 'urn:uuid:4d72140b-b395-545a-8f6c-47b51f4875bf'
+    link: 'https://pub.dartlang.org/packages/linter'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
