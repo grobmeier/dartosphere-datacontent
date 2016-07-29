@@ -67741,3 +67741,12 @@
     link: 'https://pub.dartlang.org/packages/dart_style'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dartins
+    package_version: v0.0.8+2
+    title: 'v0.0.8+2 of dartins'
+    published: '2016-07-29T23:45:25+00:00'
+    id: 'urn:uuid:c3d31f06-0d1e-5509-aad5-8310a41b5de0'
+    link: 'https://pub.dartlang.org/packages/dartins'
+    author:
+        - 'Nathan Kerr <nathanker@gmail.com>'
