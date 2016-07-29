@@ -67732,3 +67732,12 @@
     link: 'https://pub.dartlang.org/packages/react'
     author:
         - 'Clean Team <clean@vacuumlabs.com>'
+-
+    package_name: dart_style
+    package_version: v0.2.8
+    title: 'v0.2.8 of dart_style'
+    published: '2016-07-29T22:19:15+00:00'
+    id: 'urn:uuid:18ed36e6-c6a4-5c7c-90b5-1f37323b4616'
+    link: 'https://pub.dartlang.org/packages/dart_style'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
