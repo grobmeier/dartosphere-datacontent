@@ -67723,3 +67723,12 @@
     link: 'https://pub.dartlang.org/packages/overwrite'
     author:
         - 'Christopher Best <bestchris@gmail.com>'
+-
+    package_name: react
+    package_version: v3.0.0
+    title: 'v3.0.0 of react'
+    published: '2016-07-29T21:25:30+00:00'
+    id: 'urn:uuid:9e7c638e-bdde-596f-8370-f5346cb1ecae'
+    link: 'https://pub.dartlang.org/packages/react'
+    author:
+        - 'Clean Team <clean@vacuumlabs.com>'
