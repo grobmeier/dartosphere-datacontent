@@ -67660,3 +67660,12 @@
     link: 'https://pub.dartlang.org/packages/linkcheck'
     author:
         - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: dart_style
+    package_version: v0.2.7
+    title: 'v0.2.7 of dart_style'
+    published: '2016-07-29T00:51:32+00:00'
+    id: 'urn:uuid:265a1f9e-e67c-5ad2-9af6-a014c28bec31'
+    link: 'https://pub.dartlang.org/packages/dart_style'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
