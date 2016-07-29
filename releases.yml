@@ -67687,3 +67687,21 @@
     link: 'https://pub.dartlang.org/packages/zwave'
     author:
         - 'Dan Rubel <danrubel@google.com>'
+-
+    package_name: overwrite
+    package_version: v0.3.3
+    title: 'v0.3.3 of overwrite'
+    published: '2016-07-29T15:52:16+00:00'
+    id: 'urn:uuid:82930a94-c366-52ef-aee1-ad3dce3c45c4'
+    link: 'https://pub.dartlang.org/packages/overwrite'
+    author:
+        - 'Christopher Best <bestchris@gmail.com>'
+-
+    package_name: sqltree_query
+    package_version: v0.3.0
+    title: 'v0.3.0 of sqltree_query'
+    published: '2016-07-29T15:26:03+00:00'
+    id: 'urn:uuid:b8b7591d-7e5b-5115-8423-b534b6373a29'
+    link: 'https://pub.dartlang.org/packages/sqltree_query'
+    author:
+        - 'Roberto Tassi <roberto.tassi@fromlabs.org>'
