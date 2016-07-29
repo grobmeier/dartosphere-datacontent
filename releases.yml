@@ -67669,3 +67669,21 @@
     link: 'https://pub.dartlang.org/packages/dart_style'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: nomirrorsmap
+    package_version: v1.0.25
+    title: 'v1.0.25 of nomirrorsmap'
+    published: '2016-07-29T14:33:30+00:00'
+    id: 'urn:uuid:d64cbcc0-8501-53b3-8d9e-49eb8badbed3'
+    link: 'https://pub.dartlang.org/packages/nomirrorsmap'
+    author:
+        - jrote1<jrote1@me.com>
+-
+    package_name: zwave
+    package_version: v0.5.0
+    title: 'v0.5.0 of zwave'
+    published: '2016-07-29T14:06:54+00:00'
+    id: 'urn:uuid:1b3e907d-893c-54e9-8ac1-8a7dffbcc092'
+    link: 'https://pub.dartlang.org/packages/zwave'
+    author:
+        - 'Dan Rubel <danrubel@google.com>'
