@@ -67759,3 +67759,13 @@
     link: 'https://pub.dartlang.org/packages/dartins'
     author:
         - 'Nathan Kerr <nathanker@gmail.com>'
+-
+    package_name: ng_bootstrap
+    package_version: v0.1.1
+    title: 'v0.1.1 of ng_bootstrap'
+    published: '2016-07-30T01:39:42+00:00'
+    id: 'urn:uuid:f6017ef2-3d10-5172-a180-0cd625bdd55f'
+    link: 'https://pub.dartlang.org/packages/ng_bootstrap'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+        - 'Adao Jr. <itsjunnior@gmail.com>'
