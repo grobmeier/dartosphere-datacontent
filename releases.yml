@@ -67805,3 +67805,13 @@
     link: 'https://pub.dartlang.org/packages/connection_pool'
     author:
         - 'Luiz Mineo <luiz.mineo@gmail.com>'
+-
+    package_name: serializer
+    package_version: v0.4.0+1
+    title: 'v0.4.0+1 of serializer'
+    published: '2016-07-30T19:17:48+00:00'
+    id: 'urn:uuid:f50fa19e-fa1c-5bba-9653-b666336b0449'
+    link: 'https://pub.dartlang.org/packages/serializer'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+        - 'Stéphane Este-Gracias <sestegra@gmail.com>'
