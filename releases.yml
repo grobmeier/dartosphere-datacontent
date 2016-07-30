@@ -67750,3 +67750,12 @@
     link: 'https://pub.dartlang.org/packages/dartins'
     author:
         - 'Nathan Kerr <nathanker@gmail.com>'
+-
+    package_name: dartins
+    package_version: v0.0.8+3
+    title: 'v0.0.8+3 of dartins'
+    published: '2016-07-30T00:03:47+00:00'
+    id: 'urn:uuid:4871e419-db28-5280-acc2-5ab90c016407'
+    link: 'https://pub.dartlang.org/packages/dartins'
+    author:
+        - 'Nathan Kerr <nathanker@gmail.com>'
