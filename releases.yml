@@ -67796,3 +67796,12 @@
     link: 'https://pub.dartlang.org/packages/connection_pool'
     author:
         - 'Luiz Mineo <luiz.mineo@gmail.com>'
+-
+    package_name: connection_pool
+    package_version: v0.1.2
+    title: 'v0.1.2 of connection_pool'
+    published: '2016-07-30T18:08:51+00:00'
+    id: 'urn:uuid:f07f1c6f-33bd-550b-9a31-48617147a889'
+    link: 'https://pub.dartlang.org/packages/connection_pool'
+    author:
+        - 'Luiz Mineo <luiz.mineo@gmail.com>'
