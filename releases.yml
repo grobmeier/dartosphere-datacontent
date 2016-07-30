@@ -67787,3 +67787,12 @@
     link: 'https://pub.dartlang.org/packages/stagexl'
     author:
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: connection_pool
+    package_version: v0.1.1
+    title: 'v0.1.1 of connection_pool'
+    published: '2016-07-30T17:52:14+00:00'
+    id: 'urn:uuid:263d3a99-370f-5c91-aa27-ba960aad3c08'
+    link: 'https://pub.dartlang.org/packages/connection_pool'
+    author:
+        - 'Luiz Mineo <luiz.mineo@gmail.com>'
