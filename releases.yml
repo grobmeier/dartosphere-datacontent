@@ -67872,3 +67872,12 @@
     link: 'https://pub.dartlang.org/packages/pogogen'
     author:
         - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
+-
+    package_name: pogogen
+    package_version: v0.2.2
+    title: 'v0.2.2 of pogogen'
+    published: '2016-07-31T20:25:42+00:00'
+    id: 'urn:uuid:52c8c5f1-ad48-5bf1-bd1c-b6c4c5bf8e64'
+    link: 'https://pub.dartlang.org/packages/pogogen'
+    author:
+        - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
