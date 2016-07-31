@@ -67890,3 +67890,12 @@
     link: 'https://pub.dartlang.org/packages/rl_matrix'
     author:
         - 'R.S. Schermer <roland0507@gmail.com>'
+-
+    package_name: crossdart
+    package_version: v0.4.3
+    title: 'v0.4.3 of crossdart'
+    published: '2016-07-31T23:35:29+00:00'
+    id: 'urn:uuid:37561488-ddf6-5d38-b88e-06f2f2204dfb'
+    link: 'https://pub.dartlang.org/packages/crossdart'
+    author:
+        - 'Anton Astashov <anton.astashov@gmail.com>'
