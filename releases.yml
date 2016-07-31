@@ -67824,3 +67824,33 @@
     link: 'https://pub.dartlang.org/packages/stagexl'
     author:
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: redstone_database_plugin
+    package_version: v0.1.1
+    title: 'v0.1.1 of redstone_database_plugin'
+    published: '2016-07-31T17:44:20+00:00'
+    id: 'urn:uuid:176c507c-4c1d-5ffe-b971-86598e910379'
+    link: 'https://pub.dartlang.org/packages/redstone_database_plugin'
+    author:
+        - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: serializer
+    package_version: v0.4.1
+    title: 'v0.4.1 of serializer'
+    published: '2016-07-31T17:37:30+00:00'
+    id: 'urn:uuid:937119ad-a62c-53fc-b825-8e1d3559112b'
+    link: 'https://pub.dartlang.org/packages/serializer'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+        - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+-
+    package_name: redstone_database_mongo
+    package_version: v0.1.2
+    title: 'v0.1.2 of redstone_database_mongo'
+    published: '2016-07-31T17:23:31+00:00'
+    id: 'urn:uuid:348ce629-a4ec-5d44-8510-97f411d94112'
+    link: 'https://pub.dartlang.org/packages/redstone_database_mongo'
+    author:
+        - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
