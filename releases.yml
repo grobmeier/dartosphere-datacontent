@@ -67944,3 +67944,12 @@
     link: 'https://pub.dartlang.org/packages/googleapis'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: analyzer
+    package_version: v0.27.4
+    title: 'v0.27.4 of analyzer'
+    published: '2016-08-01T20:02:47+00:00'
+    id: 'urn:uuid:8884326b-7c0d-5924-a342-e659199d815c'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
