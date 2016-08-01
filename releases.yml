@@ -67962,3 +67962,12 @@
     link: 'https://pub.dartlang.org/packages/angular2'
     author:
         - 'Angular Dart Team <angular2@dartlang.org>'
+-
+    package_name: dart_style
+    package_version: v0.2.9
+    title: 'v0.2.9 of dart_style'
+    published: '2016-08-01T22:06:04+00:00'
+    id: 'urn:uuid:67efbc47-b6fa-55b8-9b09-dc484e3401df'
+    link: 'https://pub.dartlang.org/packages/dart_style'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
