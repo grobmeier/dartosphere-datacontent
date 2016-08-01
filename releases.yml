@@ -67926,3 +67926,21 @@
     link: 'https://pub.dartlang.org/packages/plot_window'
     author:
         - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: googleapis_beta
+    package_version: v0.29.0
+    title: 'v0.29.0 of googleapis_beta'
+    published: '2016-08-01T17:45:47+00:00'
+    id: 'urn:uuid:1cea42de-e8d3-5881-b7da-e304ac4336a8'
+    link: 'https://pub.dartlang.org/packages/googleapis_beta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: googleapis
+    package_version: v0.30.0
+    title: 'v0.30.0 of googleapis'
+    published: '2016-08-01T17:44:35+00:00'
+    id: 'urn:uuid:215916bd-342a-5b4b-81d1-3ef1aa9819fa'
+    link: 'https://pub.dartlang.org/packages/googleapis'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
