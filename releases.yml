@@ -67908,3 +67908,12 @@
     link: 'https://pub.dartlang.org/packages/pogogen'
     author:
         - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
+-
+    package_name: crossdart
+    package_version: v0.4.5
+    title: 'v0.4.5 of crossdart'
+    published: '2016-08-01T05:33:20+00:00'
+    id: 'urn:uuid:b8d20348-f221-531b-9389-62d644503a0c'
+    link: 'https://pub.dartlang.org/packages/crossdart'
+    author:
+        - 'Anton Astashov <anton.astashov@gmail.com>'
