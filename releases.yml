@@ -67917,3 +67917,12 @@
     link: 'https://pub.dartlang.org/packages/crossdart'
     author:
         - 'Anton Astashov <anton.astashov@gmail.com>'
+-
+    package_name: plot_window
+    package_version: v0.0.50
+    title: 'v0.0.50 of plot_window'
+    published: '2016-08-01T16:54:15+00:00'
+    id: 'urn:uuid:f7f3aa2d-3a68-5147-a0a3-da3c56c512fd'
+    link: 'https://pub.dartlang.org/packages/plot_window'
+    author:
+        - 'Edouard Tavinor <edouardtavinor@gmail.com>'
