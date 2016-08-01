@@ -67899,3 +67899,12 @@
     link: 'https://pub.dartlang.org/packages/crossdart'
     author:
         - 'Anton Astashov <anton.astashov@gmail.com>'
+-
+    package_name: pogogen
+    package_version: v0.2.3
+    title: 'v0.2.3 of pogogen'
+    published: '2016-08-01T00:07:47+00:00'
+    id: 'urn:uuid:12ede39d-624a-5bed-aaff-bca452a689f7'
+    link: 'https://pub.dartlang.org/packages/pogogen'
+    author:
+        - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
