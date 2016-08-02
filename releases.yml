@@ -68017,3 +68017,14 @@
     link: 'https://pub.dartlang.org/packages/pogogen'
     author:
         - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
+-
+    package_name: rikulo_commons
+    package_version: v2.2.2
+    title: 'v2.2.2 of rikulo_commons'
+    published: '2016-08-02T05:57:33+00:00'
+    id: 'urn:uuid:39f07812-ba66-5319-a4a6-718888f077ef'
+    link: 'https://pub.dartlang.org/packages/rikulo_commons'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+        - 'Henri Chen <henrichen@rikulo.org>'
+        - 'Simon Pai <simonpai@rikulo.org>'
