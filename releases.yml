@@ -68057,3 +68057,13 @@
     link: 'https://pub.dartlang.org/packages/era_geojson'
     author:
         - 'Andrea Cantafio <kk4r.1m@gmail.com>'
+-
+    package_name: redstone_database_mongo
+    package_version: v0.1.2+1
+    title: 'v0.1.2+1 of redstone_database_mongo'
+    published: '2016-08-02T16:23:42+00:00'
+    id: 'urn:uuid:9a7b2e93-657e-58a5-a085-f49edefeeb18'
+    link: 'https://pub.dartlang.org/packages/redstone_database_mongo'
+    author:
+        - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
