@@ -68076,3 +68076,17 @@
     link: 'https://pub.dartlang.org/packages/dartgl'
     author:
         - 'Root <root.ext@gmail.com>'
+-
+    package_name: w_transport
+    package_version: v2.9.1
+    title: 'v2.9.1 of w_transport'
+    published: '2016-08-02T20:22:40+00:00'
+    id: 'urn:uuid:0533c62d-4736-57e5-bc18-b280dc481ad5'
+    link: 'https://pub.dartlang.org/packages/w_transport'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
