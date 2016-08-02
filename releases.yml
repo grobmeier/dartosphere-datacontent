@@ -68048,3 +68048,12 @@
     link: 'https://pub.dartlang.org/packages/pogogen'
     author:
         - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
+-
+    package_name: era_geojson
+    package_version: v0.1.1+3
+    title: 'v0.1.1+3 of era_geojson'
+    published: '2016-08-02T14:28:43+00:00'
+    id: 'urn:uuid:36e39620-ea0c-5daa-b2df-6f8e38878216'
+    link: 'https://pub.dartlang.org/packages/era_geojson'
+    author:
+        - 'Andrea Cantafio <kk4r.1m@gmail.com>'
