@@ -68067,3 +68067,12 @@
     author:
         - 'Stéphane Este-Gracias <sestegra@gmail.com>'
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: dartgl
+    package_version: v0.1.1
+    title: 'v0.1.1 of dartgl'
+    published: '2016-08-02T18:30:45+00:00'
+    id: 'urn:uuid:0581af15-53b2-5b3b-817d-9b0c5413ce69'
+    link: 'https://pub.dartlang.org/packages/dartgl'
+    author:
+        - 'Root <root.ext@gmail.com>'
