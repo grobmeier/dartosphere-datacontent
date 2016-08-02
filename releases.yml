@@ -68039,3 +68039,12 @@
         - 'Tom Yeh <tomyeh@rikulo.org>'
         - 'Henri Chen <henrichen@rikulo.org>'
         - 'Simon Pai <simonpai@rikulo.org>'
+-
+    package_name: pogogen
+    package_version: v0.4.2
+    title: 'v0.4.2 of pogogen'
+    published: '2016-08-02T12:57:34+00:00'
+    id: 'urn:uuid:1385b890-143a-5536-aaa4-305631667329'
+    link: 'https://pub.dartlang.org/packages/pogogen'
+    author:
+        - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
