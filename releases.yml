@@ -68090,3 +68090,21 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: dart2js_info
+    package_version: v0.2.6
+    title: 'v0.2.6 of dart2js_info'
+    published: '2016-08-02T21:58:18+00:00'
+    id: 'urn:uuid:009aefd7-1179-5c1a-96ec-4e7cf56e1a22'
+    link: 'https://pub.dartlang.org/packages/dart2js_info'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: bagl
+    package_version: v0.2.0
+    title: 'v0.2.0 of bagl'
+    published: '2016-08-02T21:47:34+00:00'
+    id: 'urn:uuid:f1c8d825-fd96-5a7c-b9f3-1d3ebef16015'
+    link: 'https://pub.dartlang.org/packages/bagl'
+    author:
+        - 'R.S. Schermer <roland0507@gmail.com>'
