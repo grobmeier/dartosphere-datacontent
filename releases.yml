@@ -68171,3 +68171,12 @@
     link: 'https://pub.dartlang.org/packages/rl_matrix'
     author:
         - 'R.S. Schermer <roland0507@gmail.com>'
+-
+    package_name: plot_window
+    package_version: v0.0.53
+    title: 'v0.0.53 of plot_window'
+    published: '2016-08-03T15:54:02+00:00'
+    id: 'urn:uuid:889baa6d-3481-5097-8382-5cca2d44fdc3'
+    link: 'https://pub.dartlang.org/packages/plot_window'
+    author:
+        - 'Edouard Tavinor <edouardtavinor@gmail.com>'
