@@ -68144,3 +68144,12 @@
     link: 'https://pub.dartlang.org/packages/era_geojson'
     author:
         - 'Andrea Cantafio <kk4r.1m@gmail.com>'
+-
+    package_name: nomirrorsmap
+    package_version: v1.0.26
+    title: 'v1.0.26 of nomirrorsmap'
+    published: '2016-08-03T10:34:57+00:00'
+    id: 'urn:uuid:7c91be76-d341-573f-a770-0a7ecfa50282'
+    link: 'https://pub.dartlang.org/packages/nomirrorsmap'
+    author:
+        - jrote1<jrote1@me.com>
