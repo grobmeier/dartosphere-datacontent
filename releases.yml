@@ -68135,3 +68135,12 @@
     link: 'https://pub.dartlang.org/packages/plot_window'
     author:
         - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: era_geojson
+    package_version: v0.1.1+4
+    title: 'v0.1.1+4 of era_geojson'
+    published: '2016-08-03T09:18:44+00:00'
+    id: 'urn:uuid:fe2d88a6-d438-52a8-aa72-a3eb59bb8e61'
+    link: 'https://pub.dartlang.org/packages/era_geojson'
+    author:
+        - 'Andrea Cantafio <kk4r.1m@gmail.com>'
