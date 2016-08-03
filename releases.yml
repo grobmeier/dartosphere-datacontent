@@ -68108,3 +68108,12 @@
     link: 'https://pub.dartlang.org/packages/bagl'
     author:
         - 'R.S. Schermer <roland0507@gmail.com>'
+-
+    package_name: linkcheck
+    package_version: v0.2.9
+    title: 'v0.2.9 of linkcheck'
+    published: '2016-08-03T03:33:09+00:00'
+    id: 'urn:uuid:defcff08-863b-549a-a048-1b53678116dc'
+    link: 'https://pub.dartlang.org/packages/linkcheck'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
