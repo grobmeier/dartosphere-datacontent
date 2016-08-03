@@ -68126,3 +68126,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_paper_typeahead_input'
     author:
         - 'Mike Hoolehan <mike@hoolehan.com>'
+-
+    package_name: plot_window
+    package_version: v0.0.51
+    title: 'v0.0.51 of plot_window'
+    published: '2016-08-03T07:46:42+00:00'
+    id: 'urn:uuid:9ed2e460-b42c-5a9e-8ee7-618e6c94678b'
+    link: 'https://pub.dartlang.org/packages/plot_window'
+    author:
+        - 'Edouard Tavinor <edouardtavinor@gmail.com>'
