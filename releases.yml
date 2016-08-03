@@ -68117,3 +68117,12 @@
     link: 'https://pub.dartlang.org/packages/linkcheck'
     author:
         - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: polymer_paper_typeahead_input
+    package_version: v0.0.3
+    title: 'v0.0.3 of polymer_paper_typeahead_input'
+    published: '2016-08-03T06:44:45+00:00'
+    id: 'urn:uuid:021e6cc4-9217-586f-a150-0acc630e14ab'
+    link: 'https://pub.dartlang.org/packages/polymer_paper_typeahead_input'
+    author:
+        - 'Mike Hoolehan <mike@hoolehan.com>'
