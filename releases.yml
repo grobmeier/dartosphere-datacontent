@@ -68212,3 +68212,12 @@
     link: 'https://pub.dartlang.org/packages/modal_dialog'
     author:
         - 'Gonzalo Chumillas <gchumillas@email.com>'
+-
+    package_name: coverage
+    package_version: v0.8.0
+    title: 'v0.8.0 of coverage'
+    published: '2016-08-03T23:23:13+00:00'
+    id: 'urn:uuid:166aaa4d-14ed-5cf2-ad9c-12d56498c89a'
+    link: 'https://pub.dartlang.org/packages/coverage'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
