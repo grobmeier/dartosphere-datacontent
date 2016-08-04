@@ -68221,3 +68221,12 @@
     link: 'https://pub.dartlang.org/packages/coverage'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: ducene
+    package_version: v0.0.1
+    title: 'v0.0.1 of ducene'
+    published: '2016-08-04T06:54:12+00:00'
+    id: 'urn:uuid:bd27e95e-1fb7-58e2-8fab-dd6641640584'
+    link: 'https://pub.dartlang.org/packages/ducene'
+    author:
+        - 'Shinichiro Abe <shinichiro.abe.1@gmail.com>'
