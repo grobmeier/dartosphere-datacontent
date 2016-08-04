@@ -68239,3 +68239,12 @@
     link: 'https://pub.dartlang.org/packages/rl_matrix'
     author:
         - 'R.S. Schermer <roland0507@gmail.com>'
+-
+    package_name: modal_dialog
+    package_version: v1.0.0
+    title: 'v1.0.0 of modal_dialog'
+    published: '2016-08-04T17:47:51+00:00'
+    id: 'urn:uuid:1f3b8d78-1115-5fc3-bcb5-fa09160b3940'
+    link: 'https://pub.dartlang.org/packages/modal_dialog'
+    author:
+        - 'Gonzalo Chumillas <gchumillas@email.com>'
