@@ -68230,3 +68230,12 @@
     link: 'https://pub.dartlang.org/packages/ducene'
     author:
         - 'Shinichiro Abe <shinichiro.abe.1@gmail.com>'
+-
+    package_name: rl_matrix
+    package_version: v0.6.1
+    title: 'v0.6.1 of rl_matrix'
+    published: '2016-08-04T09:21:55+00:00'
+    id: 'urn:uuid:44a17700-8b84-593c-b5bd-bde71c63d9dd'
+    link: 'https://pub.dartlang.org/packages/rl_matrix'
+    author:
+        - 'R.S. Schermer <roland0507@gmail.com>'
