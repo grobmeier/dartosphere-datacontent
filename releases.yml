@@ -68266,3 +68266,21 @@
     link: 'https://pub.dartlang.org/packages/devc_builder'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: mockito
+    package_version: v1.0.0
+    title: 'v1.0.0 of mockito'
+    published: '2016-08-05T20:30:14+00:00'
+    id: 'urn:uuid:2f57f971-bc4a-5d20-b25a-3d3df3cc551f'
+    link: 'https://pub.dartlang.org/packages/mockito'
+    author:
+        - 'Dmitriy Fibulwinter <fibulwinter@gmail.com>'
+-
+    package_name: source_gen
+    package_version: v0.5.1
+    title: 'v0.5.1 of source_gen'
+    published: '2016-08-05T20:15:55+00:00'
+    id: 'urn:uuid:275bcb9e-6725-5736-9174-b2c07e1bf5a8'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
