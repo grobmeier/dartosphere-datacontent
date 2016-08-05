@@ -68257,3 +68257,12 @@
     link: 'https://pub.dartlang.org/packages/dartins'
     author:
         - 'Nathan Kerr <nathanker@gmail.com>'
+-
+    package_name: devc_builder
+    package_version: v0.1.1
+    title: 'v0.1.1 of devc_builder'
+    published: '2016-08-05T12:32:26+00:00'
+    id: 'urn:uuid:0050285d-c4fc-5695-9e3b-08fd04cfbc67'
+    link: 'https://pub.dartlang.org/packages/devc_builder'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
