@@ -68284,3 +68284,12 @@
     link: 'https://pub.dartlang.org/packages/source_gen'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: coverage
+    package_version: v0.8.0+1
+    title: 'v0.8.0+1 of coverage'
+    published: '2016-08-05T23:28:21+00:00'
+    id: 'urn:uuid:0e156ece-e677-52be-a335-422ed425025f'
+    link: 'https://pub.dartlang.org/packages/coverage'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
