@@ -68302,3 +68302,12 @@
     link: 'https://pub.dartlang.org/packages/markdown'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: modal_dialog
+    package_version: v2.0.0
+    title: 'v2.0.0 of modal_dialog'
+    published: '2016-08-06T14:41:30+00:00'
+    id: 'urn:uuid:7fc9c32e-8f3a-5c3d-85c0-6682643806b2'
+    link: 'https://pub.dartlang.org/packages/modal_dialog'
+    author:
+        - 'Gonzalo Chumillas <gchumillas@email.com>'
