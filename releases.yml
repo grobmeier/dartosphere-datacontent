@@ -68320,3 +68320,101 @@
     link: 'https://pub.dartlang.org/packages/bigcargo'
     author:
         - 'Joris Hermans <hermansj@gmail.com>'
+-
+    package_name: redstone_jwt_plugin
+    package_version: v0.0.2
+    title: 'v0.0.2 of redstone_jwt_plugin'
+    published: '2016-08-08T20:45:08+00:00'
+    id: 'urn:uuid:8e5a4249-a9b8-5ef0-922a-cfc440bf6259'
+    link: 'https://pub.dartlang.org/packages/redstone_jwt_plugin'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: domelement
+    package_version: v0.2.0
+    title: 'v0.2.0 of domelement'
+    published: '2016-08-08T17:26:22+00:00'
+    id: 'urn:uuid:caa1fdc9-2733-5019-9a53-092c51365d62'
+    link: 'https://pub.dartlang.org/packages/domelement'
+    author:
+        - 'Gonzalo Chumillas <gchumillas@email.com>'
+-
+    package_name: w_flux
+    package_version: v2.4.0
+    title: 'v2.4.0 of w_flux'
+    published: '2016-08-08T16:38:47+00:00'
+    id: 'urn:uuid:9bc4e803-28be-5d63-bd36-86aef02a6835'
+    link: 'https://pub.dartlang.org/packages/w_flux'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: stripe
+    package_version: v1.2.1
+    title: 'v1.2.1 of stripe'
+    published: '2016-08-08T15:00:49+00:00'
+    id: 'urn:uuid:1d2073ae-20ce-5114-9f7a-da51fce9b147'
+    link: 'https://pub.dartlang.org/packages/stripe'
+    author:
+        - 'Matias Meno <m@tias.me>'
+        - 'Martin Flucka <martin.flucka@gmail.com>'
+-
+    package_name: firebase3
+    package_version: v0.1.0
+    title: 'v0.1.0 of firebase3'
+    published: '2016-08-08T11:38:40+00:00'
+    id: 'urn:uuid:31013421-c1e0-5eec-b66e-56ec38400abf'
+    link: 'https://pub.dartlang.org/packages/firebase3'
+    author:
+        - 'Jana Moudra <jana.moudra@gmail.com>'
+-
+    package_name: zwave
+    package_version: v0.6.0
+    title: 'v0.6.0 of zwave'
+    published: '2016-08-08T11:16:25+00:00'
+    id: 'urn:uuid:4384bb07-bc9d-533b-bd3b-4c9b933318fe'
+    link: 'https://pub.dartlang.org/packages/zwave'
+    author:
+        - 'Dan Rubel <danrubel@google.com>'
+-
+    package_name: googleapis_beta
+    package_version: v0.30.0
+    title: 'v0.30.0 of googleapis_beta'
+    published: '2016-08-08T09:37:25+00:00'
+    id: 'urn:uuid:27ef4e5d-e13a-551f-820e-f99fee72cfc8'
+    link: 'https://pub.dartlang.org/packages/googleapis_beta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: googleapis
+    package_version: v0.30.1
+    title: 'v0.30.1 of googleapis'
+    published: '2016-08-08T09:37:12+00:00'
+    id: 'urn:uuid:4404f592-9d1d-54e9-aadd-63802f0396fb'
+    link: 'https://pub.dartlang.org/packages/googleapis'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: bootjack
+    package_version: v0.6.6
+    title: 'v0.6.6 of bootjack'
+    published: '2016-08-08T06:12:24+00:00'
+    id: 'urn:uuid:865cfe75-5d3f-5195-8f26-fa8f03e3cabf'
+    link: 'https://pub.dartlang.org/packages/bootjack'
+    author:
+        - 'Simon Pai <simonpai@rikulo.org>'
+        - 'Jimmy Shiau <jimmyshiau@potix.com>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: polymer_paper_typeahead_input
+    package_version: v0.0.4
+    title: 'v0.0.4 of polymer_paper_typeahead_input'
+    published: '2016-08-08T05:36:49+00:00'
+    id: 'urn:uuid:d5834d46-4827-5d75-9a1f-b83593a2cce2'
+    link: 'https://pub.dartlang.org/packages/polymer_paper_typeahead_input'
+    author:
+        - 'Mike Hoolehan <mike@hoolehan.com>'
