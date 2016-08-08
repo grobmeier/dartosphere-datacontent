@@ -68455,3 +68455,12 @@
     link: 'https://pub.dartlang.org/packages/barback'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: package_resolver
+    package_version: v1.0.1
+    title: 'v1.0.1 of package_resolver'
+    published: '2016-08-08T23:24:14+00:00'
+    id: 'urn:uuid:c77db1c3-15e1-530f-84aa-62a0e88cb6f9'
+    link: 'https://pub.dartlang.org/packages/package_resolver'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
