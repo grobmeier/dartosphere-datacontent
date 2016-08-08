@@ -68418,3 +68418,22 @@
     link: 'https://pub.dartlang.org/packages/polymer_paper_typeahead_input'
     author:
         - 'Mike Hoolehan <mike@hoolehan.com>'
+-
+    package_name: stagexl_richtextfield
+    package_version: v0.1.4
+    title: 'v0.1.4 of stagexl_richtextfield'
+    published: '2016-08-08T21:12:52+00:00'
+    id: 'urn:uuid:6843ffa1-2bd3-5587-8ac4-bba80686ec71'
+    link: 'https://pub.dartlang.org/packages/stagexl_richtextfield'
+    author:
+        - 'Alex Gann <k.alexgann@gmail.com>'
+        - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: test
+    package_version: v0.12.15+3
+    title: 'v0.12.15+3 of test'
+    published: '2016-08-08T21:06:07+00:00'
+    id: 'urn:uuid:5b281609-2069-5ee9-8c2e-fb3c41c56d96'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
