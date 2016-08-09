@@ -68527,3 +68527,12 @@
     link: 'https://pub.dartlang.org/packages/json_rpc_2'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: aws_interop
+    package_version: v1.0.1
+    title: 'v1.0.1 of aws_interop'
+    published: '2016-08-09T23:07:10+00:00'
+    id: 'urn:uuid:1c3ad979-e913-5c7e-b762-4cc91cb73d73'
+    link: 'https://pub.dartlang.org/packages/aws_interop'
+    author:
+        - 'John Ryan <john.p.ryan4@gmail.com>'
