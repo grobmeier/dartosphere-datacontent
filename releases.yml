@@ -68518,3 +68518,12 @@
     link: 'https://pub.dartlang.org/packages/json_java_converter'
     author:
         - 'Jacob Burroughs <maths22@gmail.com>'
+-
+    package_name: json_rpc_2
+    package_version: v2.0.2
+    title: 'v2.0.2 of json_rpc_2'
+    published: '2016-08-09T21:51:35+00:00'
+    id: 'urn:uuid:be9d8c7f-ccf6-5fe4-b75d-ac498f2127df'
+    link: 'https://pub.dartlang.org/packages/json_rpc_2'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
