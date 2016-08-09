@@ -68464,3 +68464,12 @@
     link: 'https://pub.dartlang.org/packages/package_resolver'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: devc_builder
+    package_version: v0.1.2
+    title: 'v0.1.2 of devc_builder'
+    published: '2016-08-09T07:44:26+00:00'
+    id: 'urn:uuid:e26b67a5-c7c1-5305-afe3-73a83fe76f20'
+    link: 'https://pub.dartlang.org/packages/devc_builder'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
