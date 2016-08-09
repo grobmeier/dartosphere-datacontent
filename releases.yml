@@ -68473,3 +68473,12 @@
     link: 'https://pub.dartlang.org/packages/devc_builder'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: ducene
+    package_version: v0.0.2
+    title: 'v0.0.2 of ducene'
+    published: '2016-08-09T12:35:15+00:00'
+    id: 'urn:uuid:b99b8719-d040-55d6-a934-5fbfc9756b0d'
+    link: 'https://pub.dartlang.org/packages/ducene'
+    author:
+        - 'Shinichiro Abe <shinichiro.abe.1@gmail.com>'
