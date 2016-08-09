@@ -68482,3 +68482,21 @@
     link: 'https://pub.dartlang.org/packages/ducene'
     author:
         - 'Shinichiro Abe <shinichiro.abe.1@gmail.com>'
+-
+    package_name: devc_builder
+    package_version: v0.1.2+1
+    title: 'v0.1.2+1 of devc_builder'
+    published: '2016-08-09T14:32:53+00:00'
+    id: 'urn:uuid:c504fe48-5428-5e97-8706-ab9de4d51b39'
+    link: 'https://pub.dartlang.org/packages/devc_builder'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: rxdart
+    package_version: v0.3.25
+    title: 'v0.3.25 of rxdart'
+    published: '2016-08-09T14:20:45+00:00'
+    id: 'urn:uuid:034d65f7-5287-5d3a-b8f7-f87975cfc3ef'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
