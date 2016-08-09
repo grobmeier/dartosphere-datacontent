@@ -68500,3 +68500,12 @@
     link: 'https://pub.dartlang.org/packages/rxdart'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: sqllite
+    package_version: v1.0.0
+    title: 'v1.0.0 of sqllite'
+    published: '2016-08-09T16:17:31+00:00'
+    id: 'urn:uuid:0f1e3b3b-f10b-5d1c-b954-02f9aab6db56'
+    link: 'https://pub.dartlang.org/packages/sqllite'
+    author:
+        - 'John Ryan <john.p.ryan4@gmail.com>'
