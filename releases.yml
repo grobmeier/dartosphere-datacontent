@@ -68536,3 +68536,23 @@
     link: 'https://pub.dartlang.org/packages/aws_interop'
     author:
         - 'John Ryan <john.p.ryan4@gmail.com>'
+-
+    package_name: ng_bootstrap
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of ng_bootstrap'
+    published: '2016-08-10T01:43:59+00:00'
+    id: 'urn:uuid:db2fbcf4-5baf-5e83-812b-4a0a914efc81'
+    link: 'https://pub.dartlang.org/packages/ng_bootstrap'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+        - 'Adao Jr. <itsjunnior@gmail.com>'
+-
+    package_name: redstone_mapper
+    package_version: v0.2.0
+    title: 'v0.2.0 of redstone_mapper'
+    published: '2016-08-10T01:25:41+00:00'
+    id: 'urn:uuid:d0a93635-24c6-5b59-84eb-1dc7e02c7c2e'
+    link: 'https://pub.dartlang.org/packages/redstone_mapper'
+    author:
+        - 'Luiz Mineo <luiz.mineo@gmail.com>'
+        - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
