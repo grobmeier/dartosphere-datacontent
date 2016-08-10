@@ -68610,3 +68610,21 @@
     link: 'https://pub.dartlang.org/packages/pusher_js'
     author:
         - 'John Ryan <john.p.ryan4@gmail.com>'
+-
+    package_name: validatable
+    package_version: v0.1.1
+    title: 'v0.1.1 of validatable'
+    published: '2016-08-10T22:46:29+00:00'
+    id: 'urn:uuid:ae69cabb-290e-5945-a83c-24548d85e096'
+    link: 'https://pub.dartlang.org/packages/validatable'
+    author:
+        - 'Roman Snitko <roman.snitko@gmail.com>'
+-
+    package_name: dart2js_info
+    package_version: v0.2.7
+    title: 'v0.2.7 of dart2js_info'
+    published: '2016-08-10T22:38:58+00:00'
+    id: 'urn:uuid:8e183c56-5e40-5a13-afba-487eeb41b2cb'
+    link: 'https://pub.dartlang.org/packages/dart2js_info'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
