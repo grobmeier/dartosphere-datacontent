@@ -68601,3 +68601,12 @@
     link: 'https://pub.dartlang.org/packages/watcher'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: pusher_js
+    package_version: v1.0.2
+    title: 'v1.0.2 of pusher_js'
+    published: '2016-08-10T21:30:45+00:00'
+    id: 'urn:uuid:77603682-592e-54f6-94f8-b8d82588dd56'
+    link: 'https://pub.dartlang.org/packages/pusher_js'
+    author:
+        - 'John Ryan <john.p.ryan4@gmail.com>'
