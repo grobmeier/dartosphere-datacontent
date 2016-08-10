@@ -68565,3 +68565,21 @@
     link: 'https://pub.dartlang.org/packages/ng2_strap'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: domelement
+    package_version: v0.2.1
+    title: 'v0.2.1 of domelement'
+    published: '2016-08-10T17:25:28+00:00'
+    id: 'urn:uuid:5a7a18c9-3111-56d8-ac07-8e9cc8b48259'
+    link: 'https://pub.dartlang.org/packages/domelement'
+    author:
+        - 'Gonzalo Chumillas <gchumillas@email.com>'
+-
+    package_name: dartz
+    package_version: v0.2.5
+    title: 'v0.2.5 of dartz'
+    published: '2016-08-10T17:04:48+00:00'
+    id: 'urn:uuid:e55507ca-8e8f-5a15-8bb2-ee4c53f5cec8'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
