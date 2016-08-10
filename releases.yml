@@ -68592,3 +68592,12 @@
     link: 'https://pub.dartlang.org/packages/pusher_js'
     author:
         - 'John Ryan <email@example.com>'
+-
+    package_name: watcher
+    package_version: v0.9.7+3
+    title: 'v0.9.7+3 of watcher'
+    published: '2016-08-10T20:16:07+00:00'
+    id: 'urn:uuid:53a8c7db-209d-5efb-97de-d50af6961b12'
+    link: 'https://pub.dartlang.org/packages/watcher'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
