@@ -68647,3 +68647,22 @@
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
         - 'Adao Jr. <itsjunnior@gmail.com>'
+-
+    package_name: ng_bootstrap
+    package_version: v0.2.2
+    title: 'v0.2.2 of ng_bootstrap'
+    published: '2016-08-11T06:50:39+00:00'
+    id: 'urn:uuid:85496d04-0067-5028-8ec3-407cdfc7b1ce'
+    link: 'https://pub.dartlang.org/packages/ng_bootstrap'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+        - 'Adao Jr. <itsjunnior@gmail.com>'
+-
+    package_name: instrumentisto_highstock
+    package_version: v0.1.4
+    title: 'v0.1.4 of instrumentisto_highstock'
+    published: '2016-08-11T06:19:13+00:00'
+    id: 'urn:uuid:ccd6d4cb-65be-5dea-8d20-5cdd3dd21bb9'
+    link: 'https://pub.dartlang.org/packages/instrumentisto_highstock'
+    author:
+        - 'Instrumentisto Team <developer@instrumentisto.com>'
