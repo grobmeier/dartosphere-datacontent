@@ -68710,3 +68710,12 @@
     link: 'https://pub.dartlang.org/packages/docs_analyzer'
     author:
         - 'Adam Hammes <adam.hammes@workiva.com>'
+-
+    package_name: domelement
+    package_version: v0.2.2
+    title: 'v0.2.2 of domelement'
+    published: '2016-08-11T20:19:05+00:00'
+    id: 'urn:uuid:97a3ba6d-4e30-5156-bbf6-9a8ddac59047'
+    link: 'https://pub.dartlang.org/packages/domelement'
+    author:
+        - 'Gonzalo Chumillas <gchumillas@email.com>'
