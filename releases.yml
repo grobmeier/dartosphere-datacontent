@@ -68675,3 +68675,38 @@
     link: 'https://pub.dartlang.org/packages/bagl'
     author:
         - 'R.S. Schermer <roland0507@gmail.com>'
+-
+    package_name: w_service
+    package_version: v1.1.0
+    title: 'v1.1.0 of w_service'
+    published: '2016-08-11T17:55:09+00:00'
+    id: 'urn:uuid:793cd974-f781-5e0e-ac98-6cafd21bb3df'
+    link: 'https://pub.dartlang.org/packages/w_service'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: w_transport
+    package_version: v2.9.2
+    title: 'v2.9.2 of w_transport'
+    published: '2016-08-11T17:54:35+00:00'
+    id: 'urn:uuid:a24a531a-7a03-55fa-a0d6-2f1b406266c7'
+    link: 'https://pub.dartlang.org/packages/w_transport'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: docs_analyzer
+    package_version: v0.2.0
+    title: 'v0.2.0 of docs_analyzer'
+    published: '2016-08-11T17:34:48+00:00'
+    id: 'urn:uuid:157b68c7-c9b1-5f92-b044-9992f103cda2'
+    link: 'https://pub.dartlang.org/packages/docs_analyzer'
+    author:
+        - 'Adam Hammes <adam.hammes@workiva.com>'
