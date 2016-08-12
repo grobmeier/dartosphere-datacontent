@@ -68783,3 +68783,12 @@
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
         - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+-
+    package_name: tuneup
+    package_version: v0.2.4
+    title: 'v0.2.4 of tuneup'
+    published: '2016-08-12T20:12:42+00:00'
+    id: 'urn:uuid:30b85e9c-15cc-54c0-9820-1315c3f5be84'
+    link: 'https://pub.dartlang.org/packages/tuneup'
+    author:
+        - 'Devon Carew <devoncarew@google.com>'
