@@ -68728,3 +68728,12 @@
     link: 'https://pub.dartlang.org/packages/validatable'
     author:
         - 'Roman Snitko <roman.snitko@gmail.com>'
+-
+    package_name: async_util
+    package_version: v0.1.1
+    title: 'v0.1.1 of async_util'
+    published: '2016-08-12T03:40:53+00:00'
+    id: 'urn:uuid:2b3a7b45-c82d-5538-9a22-fd7fd57729af'
+    link: 'https://pub.dartlang.org/packages/async_util'
+    author:
+        - 'Scott Pierce <spierce7@gmail.com>'
