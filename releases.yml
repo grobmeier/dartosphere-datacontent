@@ -68792,3 +68792,12 @@
     link: 'https://pub.dartlang.org/packages/tuneup'
     author:
         - 'Devon Carew <devoncarew@google.com>'
+-
+    package_name: pusher_js
+    package_version: v1.1.0
+    title: 'v1.1.0 of pusher_js'
+    published: '2016-08-12T21:42:17+00:00'
+    id: 'urn:uuid:8a218f89-7d5f-5e50-af48-0fce0837b402'
+    link: 'https://pub.dartlang.org/packages/pusher_js'
+    author:
+        - 'John Ryan <john.p.ryan4@gmail.com>'
