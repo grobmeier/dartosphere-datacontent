@@ -68746,3 +68746,12 @@
     link: 'https://pub.dartlang.org/packages/highstock_wrapper'
     author:
         - 'Instrumentisto Team <developer@instrumentisto.com>'
+-
+    package_name: ducene
+    package_version: v0.0.3
+    title: 'v0.0.3 of ducene'
+    published: '2016-08-12T11:29:58+00:00'
+    id: 'urn:uuid:109a3c79-7c09-5d49-b5a0-429ebca866e4'
+    link: 'https://pub.dartlang.org/packages/ducene'
+    author:
+        - 'Shinichiro Abe <shinichiro.abe.1@gmail.com>'
