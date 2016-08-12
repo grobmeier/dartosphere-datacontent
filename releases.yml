@@ -68755,3 +68755,12 @@
     link: 'https://pub.dartlang.org/packages/ducene'
     author:
         - 'Shinichiro Abe <shinichiro.abe.1@gmail.com>'
+-
+    package_name: dartgl
+    package_version: v0.1.2
+    title: 'v0.1.2 of dartgl'
+    published: '2016-08-12T15:22:30+00:00'
+    id: 'urn:uuid:653bea79-d15c-5008-b3db-6f7d0146be01'
+    link: 'https://pub.dartlang.org/packages/dartgl'
+    author:
+        - 'Root <root.ext@gmail.com>'
