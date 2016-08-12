@@ -68737,3 +68737,12 @@
     link: 'https://pub.dartlang.org/packages/async_util'
     author:
         - 'Scott Pierce <spierce7@gmail.com>'
+-
+    package_name: highstock_wrapper
+    package_version: v0.1.5
+    title: 'v0.1.5 of highstock_wrapper'
+    published: '2016-08-12T09:04:59+00:00'
+    id: 'urn:uuid:ac162095-1b79-55d3-9bd5-dacdc9dbae5b'
+    link: 'https://pub.dartlang.org/packages/highstock_wrapper'
+    author:
+        - 'Instrumentisto Team <developer@instrumentisto.com>'
