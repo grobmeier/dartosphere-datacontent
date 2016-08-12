@@ -68719,3 +68719,12 @@
     link: 'https://pub.dartlang.org/packages/domelement'
     author:
         - 'Gonzalo Chumillas <gchumillas@email.com>'
+-
+    package_name: validatable
+    package_version: v0.1.2
+    title: 'v0.1.2 of validatable'
+    published: '2016-08-12T00:48:21+00:00'
+    id: 'urn:uuid:c49b3da1-721d-5012-951c-4b94f41c6ab7'
+    link: 'https://pub.dartlang.org/packages/validatable'
+    author:
+        - 'Roman Snitko <roman.snitko@gmail.com>'
