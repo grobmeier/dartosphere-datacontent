@@ -68810,3 +68810,21 @@
     link: 'https://pub.dartlang.org/packages/http_date'
     author:
         - 'John Ryan <john.p.ryan4@gmail.com>'
+-
+    package_name: slickdart
+    package_version: v0.1.7+3
+    title: 'v0.1.7+3 of slickdart'
+    published: '2016-08-13T01:42:12+00:00'
+    id: 'urn:uuid:5ef6a7a6-e2fd-5daa-9edd-95cb107bac6a'
+    link: 'https://pub.dartlang.org/packages/slickdart'
+    author:
+        - 'CJKAO <kaopeter@gmail.com>, tonosama-atlacatl, yyyangd'
+-
+    package_name: github_hook
+    package_version: v0.2.2+1
+    title: 'v0.2.2+1 of github_hook'
+    published: '2016-08-13T01:05:54+00:00'
+    id: 'urn:uuid:0b59c5d1-832d-5e70-8348-ede7f79cd423'
+    link: 'https://pub.dartlang.org/packages/github_hook'
+    author:
+        - 'Kevin Moore <kevmoo@google.com>'
