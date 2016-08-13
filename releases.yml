@@ -68864,3 +68864,12 @@
     link: 'https://pub.dartlang.org/packages/dart_ssh_two'
     author:
         - 'Alexander Haslam <champhaggy@gmail.com>'
+-
+    package_name: google_qr
+    package_version: v0.1.0
+    title: 'v0.1.0 of google_qr'
+    published: '2016-08-13T20:09:31+00:00'
+    id: 'urn:uuid:7f791997-e1bc-5d4e-a1a8-a6ff45e468ab'
+    link: 'https://pub.dartlang.org/packages/google_qr'
+    author:
+        - 'Adao Jr.'
