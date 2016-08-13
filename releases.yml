@@ -68855,3 +68855,12 @@
     link: 'https://pub.dartlang.org/packages/domelement'
     author:
         - 'Gonzalo Chumillas <gchumillas@email.com>'
+-
+    package_name: dart_ssh_two
+    package_version: v0.0.1
+    title: 'v0.0.1 of dart_ssh_two'
+    published: '2016-08-13T18:21:34+00:00'
+    id: 'urn:uuid:a59177d8-fb4e-5a3d-a9c8-deda95a668ba'
+    link: 'https://pub.dartlang.org/packages/dart_ssh_two'
+    author:
+        - 'Alexander Haslam <champhaggy@gmail.com>'
