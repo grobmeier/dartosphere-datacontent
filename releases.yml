@@ -68837,3 +68837,12 @@
     link: 'https://pub.dartlang.org/packages/dartz'
     author:
         - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: fltk
+    package_version: v0.0.1
+    title: 'v0.0.1 of fltk'
+    published: '2016-08-13T13:14:20+00:00'
+    id: 'urn:uuid:0ec2999c-4591-53eb-a5c3-b7b38b4d31f7'
+    link: 'https://pub.dartlang.org/packages/fltk'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
