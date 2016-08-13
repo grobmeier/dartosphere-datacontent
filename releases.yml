@@ -68828,3 +68828,12 @@
     link: 'https://pub.dartlang.org/packages/github_hook'
     author:
         - 'Kevin Moore <kevmoo@google.com>'
+-
+    package_name: dartz
+    package_version: v0.3.0
+    title: 'v0.3.0 of dartz'
+    published: '2016-08-13T11:26:49+00:00'
+    id: 'urn:uuid:50630f86-9ced-585e-a0e8-4c55dbfdecd5'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
