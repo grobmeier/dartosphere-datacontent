@@ -68846,3 +68846,12 @@
     link: 'https://pub.dartlang.org/packages/fltk'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: domelement
+    package_version: v0.2.3
+    title: 'v0.2.3 of domelement'
+    published: '2016-08-13T16:14:31+00:00'
+    id: 'urn:uuid:70de87e4-3fd9-5126-869f-ffb76f8f85ac'
+    link: 'https://pub.dartlang.org/packages/domelement'
+    author:
+        - 'Gonzalo Chumillas <gchumillas@email.com>'
