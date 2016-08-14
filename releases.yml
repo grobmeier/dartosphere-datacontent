@@ -68909,3 +68909,12 @@
     link: 'https://pub.dartlang.org/packages/dartabase_core'
     author:
         - 'Hannes Rammer <Hannes.Rammer@gmail.com>'
+-
+    package_name: ex_map
+    package_version: v0.9.9
+    title: 'v0.9.9 of ex_map'
+    published: '2016-08-14T18:35:32+00:00'
+    id: 'urn:uuid:35897e06-9d82-5478-aec3-dbb04ab8d4e6'
+    link: 'https://pub.dartlang.org/packages/ex_map'
+    author:
+        - 'Vostrikov Vitaliy <rasart.pro@gmail.com>'
