@@ -68891,3 +68891,21 @@
     link: 'https://pub.dartlang.org/packages/fltk'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: dartabase_model
+    package_version: v1.1.0
+    title: 'v1.1.0 of dartabase_model'
+    published: '2016-08-14T17:24:06+00:00'
+    id: 'urn:uuid:bc63bf8c-6d51-5690-82f8-21825fefc98a'
+    link: 'https://pub.dartlang.org/packages/dartabase_model'
+    author:
+        - 'Hannes Rammer <Hannes.Rammer@gmail.com>'
+-
+    package_name: dartabase_core
+    package_version: v0.5.1
+    title: 'v0.5.1 of dartabase_core'
+    published: '2016-08-14T17:13:46+00:00'
+    id: 'urn:uuid:c6664156-3e33-5fc5-986d-0dd7d24f1bd9'
+    link: 'https://pub.dartlang.org/packages/dartabase_core'
+    author:
+        - 'Hannes Rammer <Hannes.Rammer@gmail.com>'
