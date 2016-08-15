@@ -69028,3 +69028,12 @@
     link: 'https://pub.dartlang.org/packages/dartgl'
     author:
         - 'Root <root.ext@gmail.com>'
+-
+    package_name: meta
+    package_version: v1.0.2
+    title: 'v1.0.2 of meta'
+    published: '2016-08-15T19:04:27+00:00'
+    id: 'urn:uuid:cb12dbb7-4da1-56a8-90f4-5e8dcb736313'
+    link: 'https://pub.dartlang.org/packages/meta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
