@@ -69055,3 +69055,30 @@
     link: 'https://pub.dartlang.org/packages/webdriver'
     author:
         - 'Marc Fisher II <fisherii@google.com>'
+-
+    package_name: ex_map
+    package_version: v0.10.2
+    title: 'v0.10.2 of ex_map'
+    published: '2016-08-15T21:11:18+00:00'
+    id: 'urn:uuid:27c37c63-d794-571e-ab83-3e81ff512eaa'
+    link: 'https://pub.dartlang.org/packages/ex_map'
+    author:
+        - 'Vostrikov Vitaliy <rasart.pro@gmail.com>'
+-
+    package_name: avalanche_events
+    package_version: v0.10.5
+    title: 'v0.10.5 of avalanche_events'
+    published: '2016-08-15T21:05:16+00:00'
+    id: 'urn:uuid:2797c5cf-89cd-5cc6-8804-2224a98d4bf1'
+    link: 'https://pub.dartlang.org/packages/avalanche_events'
+    author:
+        - 'Vitaliy Vostrikov <rasart.pro@gmail.com>'
+-
+    package_name: pageloader
+    package_version: v2.2.0
+    title: 'v2.2.0 of pageloader'
+    published: '2016-08-15T21:02:00+00:00'
+    id: 'urn:uuid:94e378d8-47b4-5a71-a295-5be43a1dec77'
+    link: 'https://pub.dartlang.org/packages/pageloader'
+    author:
+        - 'Marc Fisher II <fisherii@google.com>'
