@@ -68956,3 +68956,12 @@
     link: 'https://pub.dartlang.org/packages/rad_textures'
     author:
         - 'John Davis <unicomp21@gmail.com>'
+-
+    package_name: safe_config
+    package_version: v1.0.3
+    title: 'v1.0.3 of safe_config'
+    published: '2016-08-15T02:48:11+00:00'
+    id: 'urn:uuid:23057347-f404-53f3-b3fc-3847a131d2c9'
+    link: 'https://pub.dartlang.org/packages/safe_config'
+    author:
+        - 'Joe Conway <joe.conway@stablekernel.com>'
