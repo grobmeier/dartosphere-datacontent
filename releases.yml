@@ -68947,3 +68947,12 @@
     link: 'https://pub.dartlang.org/packages/fltk'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: rad_textures
+    package_version: v1.0.17
+    title: 'v1.0.17 of rad_textures'
+    published: '2016-08-15T00:11:20+00:00'
+    id: 'urn:uuid:a9b8a4dc-7440-5999-a712-7fdf81d9f5fc'
+    link: 'https://pub.dartlang.org/packages/rad_textures'
+    author:
+        - 'John Davis <unicomp21@gmail.com>'
