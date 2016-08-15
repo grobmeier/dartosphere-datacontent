@@ -69010,3 +69010,21 @@
     link: 'https://pub.dartlang.org/packages/ex_map'
     author:
         - 'Vostrikov Vitaliy <rasart.pro@gmail.com>'
+-
+    package_name: jsifier
+    package_version: v1.0.0
+    title: 'v1.0.0 of jsifier'
+    published: '2016-08-15T17:40:10+00:00'
+    id: 'urn:uuid:d359f3fb-5b1c-5082-ac03-db9eccc05c7f'
+    link: 'https://pub.dartlang.org/packages/jsifier'
+    author:
+        - 'John Ryan <john.p.ryan4@gmail.com>'
+-
+    package_name: dartgl
+    package_version: v0.1.3
+    title: 'v0.1.3 of dartgl'
+    published: '2016-08-15T17:14:03+00:00'
+    id: 'urn:uuid:6794179d-9637-5e5d-8c6a-d401f50c79aa'
+    link: 'https://pub.dartlang.org/packages/dartgl'
+    author:
+        - 'Root <root.ext@gmail.com>'
