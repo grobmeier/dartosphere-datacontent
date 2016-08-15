@@ -69037,3 +69037,21 @@
     link: 'https://pub.dartlang.org/packages/meta'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: avalanche_events
+    package_version: v0.10.4
+    title: 'v0.10.4 of avalanche_events'
+    published: '2016-08-15T20:59:40+00:00'
+    id: 'urn:uuid:3faf0248-c7b6-562a-b16b-4d175495eb2e'
+    link: 'https://pub.dartlang.org/packages/avalanche_events'
+    author:
+        - 'Vitaliy Vostrikov <rasart.pro@gmail.com>'
+-
+    package_name: webdriver
+    package_version: v1.2.0
+    title: 'v1.2.0 of webdriver'
+    published: '2016-08-15T20:17:08+00:00'
+    id: 'urn:uuid:15a257a1-e328-5a0b-9f06-4d3c24820bc4'
+    link: 'https://pub.dartlang.org/packages/webdriver'
+    author:
+        - 'Marc Fisher II <fisherii@google.com>'
