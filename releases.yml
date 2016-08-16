@@ -69100,3 +69100,21 @@
     link: 'https://pub.dartlang.org/packages/ducene'
     author:
         - 'Shinichiro Abe <shinichiro.abe.1@gmail.com>'
+-
+    package_name: dartabase_model
+    package_version: v1.1.2
+    title: 'v1.1.2 of dartabase_model'
+    published: '2016-08-16T06:00:29+00:00'
+    id: 'urn:uuid:79d5020f-1653-5723-8f2f-0dbb0ac85fc4'
+    link: 'https://pub.dartlang.org/packages/dartabase_model'
+    author:
+        - 'Hannes Rammer <Hannes.Rammer@gmail.com>'
+-
+    package_name: dartabase_migration
+    package_version: v1.1.2
+    title: 'v1.1.2 of dartabase_migration'
+    published: '2016-08-16T06:00:06+00:00'
+    id: 'urn:uuid:56450c53-c533-57fd-aa62-d81410fbaa79'
+    link: 'https://pub.dartlang.org/packages/dartabase_migration'
+    author:
+        - 'Hannes Rammer <Hannes.Rammer@gmail.com>'
