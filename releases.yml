@@ -69163,3 +69163,22 @@
     link: 'https://pub.dartlang.org/packages/collection'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: pact_consumer_dart
+    package_version: v0.1.1
+    title: 'v0.1.1 of pact_consumer_dart'
+    published: '2016-08-16T20:56:58+00:00'
+    id: 'urn:uuid:790b79ec-7fc1-5548-9c9f-bae011c99b76'
+    link: 'https://pub.dartlang.org/packages/pact_consumer_dart'
+    author:
+        - 'Tom Evans <thomas.evans@workiva.com>'
+-
+    package_name: mailer
+    package_version: v1.1.0
+    title: 'v1.1.0 of mailer'
+    published: '2016-08-16T19:59:46+00:00'
+    id: 'urn:uuid:602ad78f-565d-56a5-a17a-15ef341e91ae'
+    link: 'https://pub.dartlang.org/packages/mailer'
+    author:
+        - 'Kai Sellgren <kaisellgren@gmail.com>'
+        - 'Dan Rubel <danrubel@google.com>'
