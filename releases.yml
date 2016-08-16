@@ -69145,3 +69145,12 @@
     link: 'https://pub.dartlang.org/packages/fltk'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: pact_consumer_dart
+    package_version: v0.1.0-rc1
+    title: 'v0.1.0-rc1 of pact_consumer_dart'
+    published: '2016-08-16T17:56:57+00:00'
+    id: 'urn:uuid:254e833a-3bca-58a4-af15-ff5a04f5f0cd'
+    link: 'https://pub.dartlang.org/packages/pact_consumer_dart'
+    author:
+        - 'Tom Evans <thomas.evans@workiva.com>'
