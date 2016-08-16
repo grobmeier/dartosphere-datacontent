@@ -69136,3 +69136,12 @@
     link: 'https://pub.dartlang.org/packages/access'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: fltk
+    package_version: v0.0.4
+    title: 'v0.0.4 of fltk'
+    published: '2016-08-16T16:11:56+00:00'
+    id: 'urn:uuid:d1cd5f4d-b9d6-53fc-ab71-29f512292030'
+    link: 'https://pub.dartlang.org/packages/fltk'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
