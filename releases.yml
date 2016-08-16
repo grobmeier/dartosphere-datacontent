@@ -69127,3 +69127,12 @@
     link: 'https://pub.dartlang.org/packages/bagl'
     author:
         - 'R.S. Schermer <roland0507@gmail.com>'
+-
+    package_name: access
+    package_version: v0.9.2
+    title: 'v0.9.2 of access'
+    published: '2016-08-16T14:09:00+00:00'
+    id: 'urn:uuid:c9eb79d8-cb6c-5d27-8a8e-e59d56cebbeb'
+    link: 'https://pub.dartlang.org/packages/access'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
