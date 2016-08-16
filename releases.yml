@@ -69118,3 +69118,12 @@
     link: 'https://pub.dartlang.org/packages/dartabase_migration'
     author:
         - 'Hannes Rammer <Hannes.Rammer@gmail.com>'
+-
+    package_name: bagl
+    package_version: v0.3.1
+    title: 'v0.3.1 of bagl'
+    published: '2016-08-16T12:54:40+00:00'
+    id: 'urn:uuid:cefe599d-034e-5d69-aefe-71c1855c7ac6'
+    link: 'https://pub.dartlang.org/packages/bagl'
+    author:
+        - 'R.S. Schermer <roland0507@gmail.com>'
