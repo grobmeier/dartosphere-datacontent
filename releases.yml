@@ -69191,3 +69191,12 @@
     link: 'https://pub.dartlang.org/packages/dart_style'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: access
+    package_version: v0.9.3
+    title: 'v0.9.3 of access'
+    published: '2016-08-17T03:04:53+00:00'
+    id: 'urn:uuid:99ed5b9f-1f9f-5b3b-808f-4d204ca8b7cd'
+    link: 'https://pub.dartlang.org/packages/access'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
