@@ -69290,3 +69290,12 @@
     link: 'https://pub.dartlang.org/packages/jsifier'
     author:
         - 'John Ryan <john.p.ryan4@gmail.com>'
+-
+    package_name: avalanche_events
+    package_version: v0.10.6
+    title: 'v0.10.6 of avalanche_events'
+    published: '2016-08-17T20:15:29+00:00'
+    id: 'urn:uuid:84f2e4f0-95c6-5143-8a93-65d253f2efa3'
+    link: 'https://pub.dartlang.org/packages/avalanche_events'
+    author:
+        - 'Vitaliy Vostrikov <rasart.pro@gmail.com>'
