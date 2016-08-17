@@ -69200,3 +69200,12 @@
     link: 'https://pub.dartlang.org/packages/access'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: dart_constructs
+    package_version: v1.0.0
+    title: 'v1.0.0 of dart_constructs'
+    published: '2016-08-17T10:39:32+00:00'
+    id: 'urn:uuid:61407f0a-b355-504f-90a5-7a08db192515'
+    link: 'https://pub.dartlang.org/packages/dart_constructs'
+    author:
+        - 'Kyle Ferguson <hanbrolo117@gmail.com>'
