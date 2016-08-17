@@ -69218,3 +69218,57 @@
     link: 'https://pub.dartlang.org/packages/pageloader'
     author:
         - 'Marc Fisher II <fisherii@google.com>'
+-
+    package_name: archive
+    package_version: v1.0.25
+    title: 'v1.0.25 of archive'
+    published: '2016-08-17T17:49:04+00:00'
+    id: 'urn:uuid:af634bac-3c11-5945-a7b8-440796c763e8'
+    link: 'https://pub.dartlang.org/packages/archive'
+    author:
+        - 'Brendan Duncan <brendanduncan@gmail.com>'
+-
+    package_name: mojom
+    package_version: v0.2.36
+    title: 'v0.2.36 of mojom'
+    published: '2016-08-17T17:44:26+00:00'
+    id: 'urn:uuid:56417d0b-5399-5ee5-ab96-3ce256dff057'
+    link: 'https://pub.dartlang.org/packages/mojom'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_apptest
+    package_version: v0.2.36
+    title: 'v0.2.36 of mojo_apptest'
+    published: '2016-08-17T17:44:19+00:00'
+    id: 'urn:uuid:513ef984-eb3b-5e30-b9d4-0102665551a4'
+    link: 'https://pub.dartlang.org/packages/mojo_apptest'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_sdk
+    package_version: v0.2.32
+    title: 'v0.2.32 of mojo_sdk'
+    published: '2016-08-17T17:40:59+00:00'
+    id: 'urn:uuid:74364b60-0df5-58fe-9915-6384990cd0f1'
+    link: 'https://pub.dartlang.org/packages/mojo_sdk'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo_services
+    package_version: v0.4.35
+    title: 'v0.4.35 of mojo_services'
+    published: '2016-08-17T17:37:10+00:00'
+    id: 'urn:uuid:0964c1e9-a48f-579a-91ee-ea03130e9516'
+    link: 'https://pub.dartlang.org/packages/mojo_services'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: mojo
+    package_version: v0.4.28
+    title: 'v0.4.28 of mojo'
+    published: '2016-08-17T17:37:02+00:00'
+    id: 'urn:uuid:0b3e02c7-71a7-5c72-a602-becee55f5cec'
+    link: 'https://pub.dartlang.org/packages/mojo'
+    author:
+        - 'Chromium Authors <mojo-dev@googlegroups.com>'
