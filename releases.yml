@@ -69272,3 +69272,21 @@
     link: 'https://pub.dartlang.org/packages/mojo'
     author:
         - 'Chromium Authors <mojo-dev@googlegroups.com>'
+-
+    package_name: console
+    package_version: v2.2.4
+    title: 'v2.2.4 of console'
+    published: '2016-08-17T18:53:03+00:00'
+    id: 'urn:uuid:3eea1a5c-4439-5ae5-a15f-8c9c0a7ad94b'
+    link: 'https://pub.dartlang.org/packages/console'
+    author:
+        - 'Kenneth Endfinger <kaendfinger@gmail.com>'
+-
+    package_name: jsifier
+    package_version: v1.1.0
+    title: 'v1.1.0 of jsifier'
+    published: '2016-08-17T18:24:51+00:00'
+    id: 'urn:uuid:d2d73eab-dd5e-5e4a-9b0c-ed949d9613b4'
+    link: 'https://pub.dartlang.org/packages/jsifier'
+    author:
+        - 'John Ryan <john.p.ryan4@gmail.com>'
