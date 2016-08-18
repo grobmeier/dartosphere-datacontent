@@ -69402,3 +69402,12 @@
     link: 'https://pub.dartlang.org/packages/isolate_cluster'
     author:
         - 'Oliver Damm <oliver.damm@gmx.de>'
+-
+    package_name: proxy_scraper
+    package_version: v1.0.0-dev+1
+    title: 'v1.0.0-dev+1 of proxy_scraper'
+    published: '2016-08-18T22:45:20+00:00'
+    id: 'urn:uuid:0bda4503-d420-5ae6-bd82-12a3e114b000'
+    link: 'https://pub.dartlang.org/packages/proxy_scraper'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
