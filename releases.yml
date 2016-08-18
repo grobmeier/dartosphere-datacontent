@@ -69393,3 +69393,12 @@
     link: 'https://pub.dartlang.org/packages/bwu_datagrid'
     author:
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: isolate_cluster
+    package_version: v0.5.0
+    title: 'v0.5.0 of isolate_cluster'
+    published: '2016-08-18T20:11:15+00:00'
+    id: 'urn:uuid:4e6aff7c-4e47-5ae4-a1d8-a1546ce08cf8'
+    link: 'https://pub.dartlang.org/packages/isolate_cluster'
+    author:
+        - 'Oliver Damm <oliver.damm@gmx.de>'
