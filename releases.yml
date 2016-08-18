@@ -69308,3 +69308,39 @@
     link: 'https://pub.dartlang.org/packages/dart_constructs'
     author:
         - 'Kyle Ferguson <hanbrolo117@gmail.com>'
+-
+    package_name: angular2
+    package_version: v2.0.0-beta.20
+    title: 'v2.0.0-beta.20 of angular2'
+    published: '2016-08-18T14:48:24+00:00'
+    id: 'urn:uuid:a8da3d78-1b6d-5de5-b273-0a6e38b96e67'
+    link: 'https://pub.dartlang.org/packages/angular2'
+    author:
+        - 'Angular Dart Team <angular2@dartlang.org>'
+-
+    package_name: http_server
+    package_version: v0.9.6
+    title: 'v0.9.6 of http_server'
+    published: '2016-08-18T14:34:05+00:00'
+    id: 'urn:uuid:0dce2030-b38f-5639-a198-6e83c48ab433'
+    link: 'https://pub.dartlang.org/packages/http_server'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: gcloud
+    package_version: v0.2.0+14
+    title: 'v0.2.0+14 of gcloud'
+    published: '2016-08-18T14:32:33+00:00'
+    id: 'urn:uuid:49b4be08-cc94-53e9-bbcf-0c2409565f7d'
+    link: 'https://pub.dartlang.org/packages/gcloud'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: reflectable
+    package_version: v1.0.0
+    title: 'v1.0.0 of reflectable'
+    published: '2016-08-18T14:26:30+00:00'
+    id: 'urn:uuid:d43fc591-9884-575d-9596-0afb0f1dcb02'
+    link: 'https://pub.dartlang.org/packages/reflectable'
+    author:
+        - 'The Dart Team <dart@google.com>'
