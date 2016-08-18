@@ -69384,3 +69384,12 @@
     link: 'https://pub.dartlang.org/packages/isolate'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: bwu_datagrid
+    package_version: v0.0.25
+    title: 'v0.0.25 of bwu_datagrid'
+    published: '2016-08-18T18:05:57+00:00'
+    id: 'urn:uuid:ef39d3a1-2bbb-543f-87f1-8e338e65c07a'
+    link: 'https://pub.dartlang.org/packages/bwu_datagrid'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
