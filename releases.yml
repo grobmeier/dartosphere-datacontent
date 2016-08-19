@@ -69411,3 +69411,14 @@
     link: 'https://pub.dartlang.org/packages/proxy_scraper'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: rikulo_commons
+    package_version: v2.2.3+1
+    title: 'v2.2.3+1 of rikulo_commons'
+    published: '2016-08-19T10:22:27+00:00'
+    id: 'urn:uuid:e435eafe-9d58-5460-b7dd-e5df3c241aa8'
+    link: 'https://pub.dartlang.org/packages/rikulo_commons'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+        - 'Henri Chen <henrichen@rikulo.org>'
+        - 'Simon Pai <simonpai@rikulo.org>'
