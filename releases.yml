@@ -69451,3 +69451,13 @@
     link: 'https://pub.dartlang.org/packages/dartz'
     author:
         - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: mac
+    package_version: v2.0.0
+    title: 'v2.0.0 of mac'
+    published: '2016-08-20T23:19:23+00:00'
+    id: 'urn:uuid:2bd19a81-9c77-5b8c-afbd-db3d1c216e06'
+    link: 'https://pub.dartlang.org/packages/mac'
+    author:
+        - 'Kenneth Endfinger <kaendfinger@gmail.com>'
+        - 'Logan Gorence <loganjohngorence@gmail.com>'
