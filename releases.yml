@@ -69422,3 +69422,23 @@
         - 'Tom Yeh <tomyeh@rikulo.org>'
         - 'Henri Chen <henrichen@rikulo.org>'
         - 'Simon Pai <simonpai@rikulo.org>'
+-
+    package_name: ducene
+    package_version: v0.0.5
+    title: 'v0.0.5 of ducene'
+    published: '2016-08-20T03:13:46+00:00'
+    id: 'urn:uuid:0661d1a4-4c9f-5dc2-b73e-ae31a8c494a0'
+    link: 'https://pub.dartlang.org/packages/ducene'
+    author:
+        - 'Shinichiro Abe <shinichiro.abe.1@gmail.com>'
+-
+    package_name: rikulo_commons
+    package_version: v2.3.0
+    title: 'v2.3.0 of rikulo_commons'
+    published: '2016-08-20T03:11:40+00:00'
+    id: 'urn:uuid:68e2f70b-07c5-53d9-9b9b-f09caac8f114'
+    link: 'https://pub.dartlang.org/packages/rikulo_commons'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+        - 'Henri Chen <henrichen@rikulo.org>'
+        - 'Simon Pai <simonpai@rikulo.org>'
