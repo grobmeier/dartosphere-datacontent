@@ -69442,3 +69442,12 @@
         - 'Tom Yeh <tomyeh@rikulo.org>'
         - 'Henri Chen <henrichen@rikulo.org>'
         - 'Simon Pai <simonpai@rikulo.org>'
+-
+    package_name: dartz
+    package_version: v0.3.1
+    title: 'v0.3.1 of dartz'
+    published: '2016-08-20T20:21:50+00:00'
+    id: 'urn:uuid:de14c397-89b4-50c3-98f2-49389fb604b3'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
