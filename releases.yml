@@ -69479,3 +69479,12 @@
     link: 'https://pub.dartlang.org/packages/analyzer'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build_test
+    package_version: v0.1.2
+    title: 'v0.1.2 of build_test'
+    published: '2016-08-22T21:23:09+00:00'
+    id: 'urn:uuid:dc15b50f-c708-554c-8245-17a00f83159a'
+    link: 'https://pub.dartlang.org/packages/build_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
