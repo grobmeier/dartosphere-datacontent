@@ -69461,3 +69461,12 @@
     author:
         - 'Kenneth Endfinger <kaendfinger@gmail.com>'
         - 'Logan Gorence <loganjohngorence@gmail.com>'
+-
+    package_name: stream
+    package_version: v1.6.0
+    title: 'v1.6.0 of stream'
+    published: '2016-08-22T02:21:23+00:00'
+    id: 'urn:uuid:b2af28df-2867-5e5d-97eb-43ea66e9b693'
+    link: 'https://pub.dartlang.org/packages/stream'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
