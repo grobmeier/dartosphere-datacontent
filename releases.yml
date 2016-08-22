@@ -69470,3 +69470,12 @@
     link: 'https://pub.dartlang.org/packages/stream'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: analyzer
+    package_version: v0.28.0
+    title: 'v0.28.0 of analyzer'
+    published: '2016-08-22T20:15:20+00:00'
+    id: 'urn:uuid:4d661c56-bfa1-5777-a03c-ac9a682580f0'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
