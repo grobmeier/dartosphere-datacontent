@@ -69506,3 +69506,13 @@
     link: 'https://pub.dartlang.org/packages/stream'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: ng_bootstrap
+    package_version: v0.2.3
+    title: 'v0.2.3 of ng_bootstrap'
+    published: '2016-08-23T02:54:57+00:00'
+    id: 'urn:uuid:0d9ad431-3e06-5721-8478-cd3f3f06fe42'
+    link: 'https://pub.dartlang.org/packages/ng_bootstrap'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+        - 'Adao Jr. <itsjunnior@gmail.com>'
