@@ -69516,3 +69516,12 @@
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
         - 'Adao Jr. <itsjunnior@gmail.com>'
+-
+    package_name: test
+    package_version: v0.12.15+4
+    title: 'v0.12.15+4 of test'
+    published: '2016-08-23T23:55:56+00:00'
+    id: 'urn:uuid:43a1a2a2-4905-5266-bb96-291988f1ddf7'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
