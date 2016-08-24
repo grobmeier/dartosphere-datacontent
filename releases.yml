@@ -69553,3 +69553,12 @@
     link: 'https://pub.dartlang.org/packages/bagl'
     author:
         - 'R.S. Schermer <roland0507@gmail.com>'
+-
+    package_name: firebase3
+    package_version: v0.2.0
+    title: 'v0.2.0 of firebase3'
+    published: '2016-08-24T14:25:34+00:00'
+    id: 'urn:uuid:c34115a1-d2ff-5d67-875d-c07b47acf220'
+    link: 'https://pub.dartlang.org/packages/firebase3'
+    author:
+        - 'Jana Moudra <jana.moudra@gmail.com>'
