@@ -69562,3 +69562,30 @@
     link: 'https://pub.dartlang.org/packages/firebase3'
     author:
         - 'Jana Moudra <jana.moudra@gmail.com>'
+-
+    package_name: test
+    package_version: v0.12.15+6
+    title: 'v0.12.15+6 of test'
+    published: '2016-08-24T19:52:03+00:00'
+    id: 'urn:uuid:56b3da6e-d773-50b2-abbe-d202c28edeeb'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: cairodart
+    package_version: v0.2.1
+    title: 'v0.2.1 of cairodart'
+    published: '2016-08-24T19:39:45+00:00'
+    id: 'urn:uuid:8b7cbdb1-f689-5124-a428-5acabe21d48c'
+    link: 'https://pub.dartlang.org/packages/cairodart'
+    author:
+        - 'Alexander Dembinsky <alexander.dembinsky@gmail.com>'
+-
+    package_name: package_resolver
+    package_version: v1.0.2
+    title: 'v1.0.2 of package_resolver'
+    published: '2016-08-24T19:38:40+00:00'
+    id: 'urn:uuid:28761e92-469c-5c1f-9096-c3e1675709ab'
+    link: 'https://pub.dartlang.org/packages/package_resolver'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
