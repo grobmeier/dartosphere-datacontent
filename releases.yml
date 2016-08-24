@@ -69589,3 +69589,12 @@
     link: 'https://pub.dartlang.org/packages/package_resolver'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: sqllite
+    package_version: v1.1.0
+    title: 'v1.1.0 of sqllite'
+    published: '2016-08-24T20:53:41+00:00'
+    id: 'urn:uuid:dee5b271-cfd7-5ca3-aa54-9e2f3c14ce7a'
+    link: 'https://pub.dartlang.org/packages/sqllite'
+    author:
+        - 'John Ryan <john.p.ryan4@gmail.com>'
