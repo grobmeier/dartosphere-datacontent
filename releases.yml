@@ -69607,3 +69607,12 @@
     link: 'https://pub.dartlang.org/packages/firebase_dart'
     author:
         - 'Rik Bellens <rik.bellens@appsup.be>'
+-
+    package_name: shelf
+    package_version: v0.6.5+3
+    title: 'v0.6.5+3 of shelf'
+    published: '2016-08-25T20:51:11+00:00'
+    id: 'urn:uuid:3d8e83e5-e9fc-52df-bb4e-3af5e5810408'
+    link: 'https://pub.dartlang.org/packages/shelf'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
