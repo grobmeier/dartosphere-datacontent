@@ -69598,3 +69598,12 @@
     link: 'https://pub.dartlang.org/packages/sqllite'
     author:
         - 'John Ryan <john.p.ryan4@gmail.com>'
+-
+    package_name: firebase_dart
+    package_version: v0.5.3
+    title: 'v0.5.3 of firebase_dart'
+    published: '2016-08-25T11:31:11+00:00'
+    id: 'urn:uuid:e1ce754d-cfbf-5b8d-a342-5146d9edef55'
+    link: 'https://pub.dartlang.org/packages/firebase_dart'
+    author:
+        - 'Rik Bellens <rik.bellens@appsup.be>'
