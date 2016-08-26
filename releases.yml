@@ -69625,3 +69625,12 @@
     link: 'https://pub.dartlang.org/packages/analyzer'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: sass_transformer
+    package_version: v0.1.0+1
+    title: 'v0.1.0+1 of sass_transformer'
+    published: '2016-08-26T01:46:45+00:00'
+    id: 'urn:uuid:ab629da9-bacf-5b74-9490-b08c3efd3b41'
+    link: 'https://pub.dartlang.org/packages/sass_transformer'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
