@@ -69689,3 +69689,14 @@
     link: 'https://pub.dartlang.org/packages/googleapis'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: stagehand
+    package_version: v1.0.12
+    title: 'v1.0.12 of stagehand'
+    published: '2016-08-26T22:03:41+00:00'
+    id: 'urn:uuid:b52c00c5-fec0-5a02-8627-830a520481ae'
+    link: 'https://pub.dartlang.org/packages/stagehand'
+    author:
+        - 'Seth Ladd <sethladd@google.com>'
+        - 'Devon Carew <devoncarew@google.com>'
+        - 'Kathy Walrath <kathyw@google.com>'
