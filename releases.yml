@@ -69616,3 +69616,12 @@
     link: 'https://pub.dartlang.org/packages/shelf'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: analyzer
+    package_version: v0.28.1
+    title: 'v0.28.1 of analyzer'
+    published: '2016-08-25T23:40:53+00:00'
+    id: 'urn:uuid:a781706b-a4c9-5c44-9e34-c3eb09c60014'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
