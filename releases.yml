@@ -69662,3 +69662,30 @@
     link: 'https://pub.dartlang.org/packages/built_value'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: nomirrorsmap
+    package_version: v1.0.27
+    title: 'v1.0.27 of nomirrorsmap'
+    published: '2016-08-26T14:46:36+00:00'
+    id: 'urn:uuid:9372b10f-11a8-5ce3-a16b-801c9bf442f6'
+    link: 'https://pub.dartlang.org/packages/nomirrorsmap'
+    author:
+        - jrote1<jrote1@me.com>
+-
+    package_name: googleapis_beta
+    package_version: v0.30.1
+    title: 'v0.30.1 of googleapis_beta'
+    published: '2016-08-26T14:08:58+00:00'
+    id: 'urn:uuid:6f1c7ba3-94e5-5203-9d7f-9b6c1cd99d58'
+    link: 'https://pub.dartlang.org/packages/googleapis_beta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: googleapis
+    package_version: v0.31.0
+    title: 'v0.31.0 of googleapis'
+    published: '2016-08-26T14:08:49+00:00'
+    id: 'urn:uuid:5963f1e6-b03f-5ee2-bb02-b6802a4d4dbf'
+    link: 'https://pub.dartlang.org/packages/googleapis'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
