@@ -69728,3 +69728,13 @@
     link: 'https://pub.dartlang.org/packages/dartz'
     author:
         - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: calzone
+    package_version: v0.2.1
+    title: 'v0.2.1 of calzone'
+    published: '2016-08-27T18:43:30+00:00'
+    id: 'urn:uuid:748f2f3b-a7c2-5844-9a17-2685d9aa0675'
+    link: 'https://pub.dartlang.org/packages/calzone'
+    author:
+        - 'Michael Bullington <m.bullington@dglogik.com>'
+        - 'Kenneth Endfinger <k.endfinger@dglogik.com>'
