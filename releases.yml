@@ -69719,3 +69719,12 @@
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
         - 'Adao Jr. <itsjunnior@gmail.com>'
+-
+    package_name: dartz
+    package_version: v0.3.2
+    title: 'v0.3.2 of dartz'
+    published: '2016-08-27T12:36:52+00:00'
+    id: 'urn:uuid:4a897da9-617f-5c27-9ed9-65a6827e01c8'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
