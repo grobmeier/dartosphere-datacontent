@@ -69793,3 +69793,12 @@
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
         - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+-
+    package_name: safe_config
+    package_version: v1.0.4
+    title: 'v1.0.4 of safe_config'
+    published: '2016-08-28T17:35:28+00:00'
+    id: 'urn:uuid:20e9ff94-ac89-51b1-bb8f-eed2edc96a50'
+    link: 'https://pub.dartlang.org/packages/safe_config'
+    author:
+        - 'Joe Conway <joe.conway@stablekernel.com>'
