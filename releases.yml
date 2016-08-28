@@ -69783,3 +69783,13 @@
     link: 'https://pub.dartlang.org/packages/symcrypt'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: serializer
+    package_version: v0.4.3
+    title: 'v0.4.3 of serializer'
+    published: '2016-08-28T16:47:30+00:00'
+    id: 'urn:uuid:aab085fc-1617-5b8c-815e-78035a766f8a'
+    link: 'https://pub.dartlang.org/packages/serializer'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+        - 'Stéphane Este-Gracias <sestegra@gmail.com>'
