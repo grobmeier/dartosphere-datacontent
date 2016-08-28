@@ -69774,3 +69774,12 @@
     link: 'https://pub.dartlang.org/packages/paypal_rest_api'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: symcrypt
+    package_version: v0.0.4
+    title: 'v0.0.4 of symcrypt'
+    published: '2016-08-28T15:22:12+00:00'
+    id: 'urn:uuid:b953315e-f1c7-5520-bc30-4a0304776621'
+    link: 'https://pub.dartlang.org/packages/symcrypt'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
