@@ -69756,3 +69756,12 @@
     link: 'https://pub.dartlang.org/packages/googleapis_auth'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: json_java_converter
+    package_version: v0.2.0
+    title: 'v0.2.0 of json_java_converter'
+    published: '2016-08-28T03:03:11+00:00'
+    id: 'urn:uuid:5459d530-7fa8-5107-87d0-cd6f923e4110'
+    link: 'https://pub.dartlang.org/packages/json_java_converter'
+    author:
+        - 'Jacob Burroughs <maths22@gmail.com>'
