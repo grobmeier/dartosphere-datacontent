@@ -69747,3 +69747,12 @@
     link: 'https://pub.dartlang.org/packages/glsl_include_transformer'
     author:
         - 'R.S. Schermer <roland0507@gmail.com>'
+-
+    package_name: googleapis_auth
+    package_version: v0.2.3+5
+    title: 'v0.2.3+5 of googleapis_auth'
+    published: '2016-08-28T02:45:37+00:00'
+    id: 'urn:uuid:36b8db0d-226d-51f8-8f74-707649a3a590'
+    link: 'https://pub.dartlang.org/packages/googleapis_auth'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
