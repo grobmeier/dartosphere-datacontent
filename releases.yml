@@ -69830,3 +69830,13 @@
     author:
         - 'Kai Sellgren <kaisellgren@gmail.com>'
         - 'Dan Rubel <danrubel@google.com>'
+-
+    package_name: postgresql2
+    package_version: v0.3.3+2
+    title: 'v0.3.3+2 of postgresql2'
+    published: '2016-08-29T10:35:47+00:00'
+    id: 'urn:uuid:9f413d6e-2fd8-5516-bf7a-8688a8ba2013'
+    link: 'https://pub.dartlang.org/packages/postgresql2'
+    author:
+        - 'Greg Lowe <greg@vis.net.nz>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
