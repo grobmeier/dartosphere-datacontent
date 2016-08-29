@@ -69840,3 +69840,13 @@
     author:
         - 'Greg Lowe <greg@vis.net.nz>'
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: postgresql2
+    package_version: v0.3.3+3
+    title: 'v0.3.3+3 of postgresql2'
+    published: '2016-08-29T11:15:47+00:00'
+    id: 'urn:uuid:d1494540-93a1-5f14-9a2d-932539e0a717'
+    link: 'https://pub.dartlang.org/packages/postgresql2'
+    author:
+        - 'Greg Lowe <greg@vis.net.nz>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
