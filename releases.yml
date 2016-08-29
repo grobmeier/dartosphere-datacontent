@@ -69802,3 +69802,12 @@
     link: 'https://pub.dartlang.org/packages/safe_config'
     author:
         - 'Joe Conway <joe.conway@stablekernel.com>'
+-
+    package_name: github
+    package_version: v3.0.0
+    title: 'v3.0.0 of github'
+    published: '2016-08-29T02:25:14+00:00'
+    id: 'urn:uuid:0ed126b3-885b-5228-9c2a-c19154d94cb1'
+    link: 'https://pub.dartlang.org/packages/github'
+    author:
+        - 'Kenneth Endfinger <kaendfinger@gmail.com>'
