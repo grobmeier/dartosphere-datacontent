@@ -69877,3 +69877,12 @@
     link: 'https://pub.dartlang.org/packages/avalanche_events'
     author:
         - 'Vitaliy Vostrikov <rasart.pro@gmail.com>'
+-
+    package_name: aws_interop
+    package_version: v1.1.0
+    title: 'v1.1.0 of aws_interop'
+    published: '2016-08-29T22:27:39+00:00'
+    id: 'urn:uuid:3fdb78d0-e3bc-5406-b3cc-894570d147a9'
+    link: 'https://pub.dartlang.org/packages/aws_interop'
+    author:
+        - 'John Ryan <john.p.ryan4@gmail.com>'
