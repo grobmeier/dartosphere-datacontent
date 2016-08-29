@@ -69868,3 +69868,12 @@
     link: 'https://pub.dartlang.org/packages/gcloud'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: avalanche_events
+    package_version: v0.10.7
+    title: 'v0.10.7 of avalanche_events'
+    published: '2016-08-29T17:43:30+00:00'
+    id: 'urn:uuid:0b27d129-3c7a-544a-ac88-ff7b9355c49e'
+    link: 'https://pub.dartlang.org/packages/avalanche_events'
+    author:
+        - 'Vitaliy Vostrikov <rasart.pro@gmail.com>'
