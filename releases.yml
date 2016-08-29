@@ -69850,3 +69850,21 @@
     author:
         - 'Greg Lowe <greg@vis.net.nz>'
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: appengine
+    package_version: v0.3.3+1
+    title: 'v0.3.3+1 of appengine'
+    published: '2016-08-29T16:35:21+00:00'
+    id: 'urn:uuid:ebaabaed-3b35-5e95-93b8-cf3de3914ede'
+    link: 'https://pub.dartlang.org/packages/appengine'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: gcloud
+    package_version: v0.3.0
+    title: 'v0.3.0 of gcloud'
+    published: '2016-08-29T16:26:36+00:00'
+    id: 'urn:uuid:f085a405-6094-5816-9a85-ef3f05ba2cf4'
+    link: 'https://pub.dartlang.org/packages/gcloud'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
