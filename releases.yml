@@ -69811,3 +69811,12 @@
     link: 'https://pub.dartlang.org/packages/github'
     author:
         - 'Kenneth Endfinger <kaendfinger@gmail.com>'
+-
+    package_name: dartdoc
+    package_version: v0.9.7+2
+    title: 'v0.9.7+2 of dartdoc'
+    published: '2016-08-29T05:06:42+00:00'
+    id: 'urn:uuid:57ae538f-aff1-59bf-ab67-d51b75f55612'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
