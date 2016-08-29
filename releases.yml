@@ -69820,3 +69820,13 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: mailer2
+    package_version: v1.1.0
+    title: 'v1.1.0 of mailer2'
+    published: '2016-08-29T09:44:43+00:00'
+    id: 'urn:uuid:b3121ee1-a332-53c3-b171-dbf6d5ca3bbf'
+    link: 'https://pub.dartlang.org/packages/mailer2'
+    author:
+        - 'Kai Sellgren <kaisellgren@gmail.com>'
+        - 'Dan Rubel <danrubel@google.com>'
