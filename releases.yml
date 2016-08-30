@@ -69886,3 +69886,13 @@
     link: 'https://pub.dartlang.org/packages/aws_interop'
     author:
         - 'John Ryan <john.p.ryan4@gmail.com>'
+-
+    package_name: postgresql2
+    package_version: v0.3.3+4
+    title: 'v0.3.3+4 of postgresql2'
+    published: '2016-08-30T01:36:20+00:00'
+    id: 'urn:uuid:104b91ae-213a-5745-a484-de6634b372ce'
+    link: 'https://pub.dartlang.org/packages/postgresql2'
+    author:
+        - 'Greg Lowe <greg@vis.net.nz>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
