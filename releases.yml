@@ -69950,3 +69950,12 @@
     link: 'https://pub.dartlang.org/packages/_test_'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dartins
+    package_version: v0.1.1
+    title: 'v0.1.1 of dartins'
+    published: '2016-08-30T22:11:33+00:00'
+    id: 'urn:uuid:0877db82-9f38-5882-80b0-b5cbc0c12661'
+    link: 'https://pub.dartlang.org/packages/dartins'
+    author:
+        - 'Nathan Kerr <nathanker@gmail.com>'
