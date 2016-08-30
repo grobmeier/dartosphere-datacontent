@@ -69896,3 +69896,30 @@
     author:
         - 'Greg Lowe <greg@vis.net.nz>'
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: glsl_include_transformer
+    package_version: v0.1.2
+    title: 'v0.1.2 of glsl_include_transformer'
+    published: '2016-08-30T09:54:46+00:00'
+    id: 'urn:uuid:2eeedf64-7ef1-5ba2-a4aa-17d0f37a2cd2'
+    link: 'https://pub.dartlang.org/packages/glsl_include_transformer'
+    author:
+        - 'R.S. Schermer <roland0507@gmail.com>'
+-
+    package_name: inline_assets
+    package_version: v0.1.1
+    title: 'v0.1.1 of inline_assets'
+    published: '2016-08-30T09:51:36+00:00'
+    id: 'urn:uuid:2553c9dc-0d62-53da-a025-d09907488440'
+    link: 'https://pub.dartlang.org/packages/inline_assets'
+    author:
+        - 'R.S. Schermer <roland0507@gmail.com>'
+-
+    package_name: stream
+    package_version: v1.6.1
+    title: 'v1.6.1 of stream'
+    published: '2016-08-30T09:45:19+00:00'
+    id: 'urn:uuid:08b6aafe-67c9-5b84-89af-dfd933ff4103'
+    link: 'https://pub.dartlang.org/packages/stream'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
