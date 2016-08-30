@@ -69923,3 +69923,21 @@
     link: 'https://pub.dartlang.org/packages/stream'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: bagl
+    package_version: v0.5.0
+    title: 'v0.5.0 of bagl'
+    published: '2016-08-30T14:12:37+00:00'
+    id: 'urn:uuid:1b5adb82-af99-5cf6-b960-9a7aa76ef482'
+    link: 'https://pub.dartlang.org/packages/bagl'
+    author:
+        - 'R.S. Schermer <roland0507@gmail.com>'
+-
+    package_name: cairodart
+    package_version: v0.2.2
+    title: 'v0.2.2 of cairodart'
+    published: '2016-08-30T14:08:06+00:00'
+    id: 'urn:uuid:24b072b3-490f-5379-8ce2-17fe136fa589'
+    link: 'https://pub.dartlang.org/packages/cairodart'
+    author:
+        - 'Alexander Dembinsky <alexander.dembinsky@gmail.com>'
