@@ -70033,3 +70033,12 @@
     link: 'https://pub.dartlang.org/packages/w_comments'
     author:
         - 'Workiva HYDRA Team <team-hydra@workiva.com>'
+-
+    package_name: intl
+    package_version: v0.13.1
+    title: 'v0.13.1 of intl'
+    published: '2016-08-31T19:25:57+00:00'
+    id: 'urn:uuid:0a8f29af-7e37-5572-a653-8d86bbc1f53d'
+    link: 'https://pub.dartlang.org/packages/intl'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
