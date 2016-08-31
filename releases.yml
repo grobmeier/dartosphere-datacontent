@@ -70051,3 +70051,12 @@
     link: 'https://pub.dartlang.org/packages/test_reflective_loader'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: fltk
+    package_version: v0.0.5
+    title: 'v0.0.5 of fltk'
+    published: '2016-08-31T21:34:04+00:00'
+    id: 'urn:uuid:d53ab437-7ec9-5fb7-a65f-6faf4db33e2f'
+    link: 'https://pub.dartlang.org/packages/fltk'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
