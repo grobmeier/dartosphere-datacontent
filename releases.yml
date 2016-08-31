@@ -69979,3 +69979,12 @@
     author:
         - 'Kai Sellgren <kaisellgren@gmail.com>'
         - 'Dan Rubel <danrubel@google.com>'
+-
+    package_name: spreadsheet_decoder
+    package_version: v0.3.1
+    title: 'v0.3.1 of spreadsheet_decoder'
+    published: '2016-08-31T13:07:53+00:00'
+    id: 'urn:uuid:90385623-2022-5b6f-ae58-649359869b26'
+    link: 'https://pub.dartlang.org/packages/spreadsheet_decoder'
+    author:
+        - 'Stéphane Este-Gracias <sestegra@gmail.com>'
