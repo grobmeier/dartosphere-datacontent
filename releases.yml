@@ -70042,3 +70042,12 @@
     link: 'https://pub.dartlang.org/packages/intl'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: test_reflective_loader
+    package_version: v0.0.4
+    title: 'v0.0.4 of test_reflective_loader'
+    published: '2016-08-31T20:02:03+00:00'
+    id: 'urn:uuid:ac0569aa-fb19-5b60-8f92-208d57488602'
+    link: 'https://pub.dartlang.org/packages/test_reflective_loader'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
