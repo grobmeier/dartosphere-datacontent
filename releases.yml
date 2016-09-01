@@ -70069,3 +70069,12 @@
     link: 'https://pub.dartlang.org/packages/jetutil'
     author:
         - 'Jack Tang <me@jackhftang.com>'
+-
+    package_name: sass_transformer
+    package_version: v0.1.2
+    title: 'v0.1.2 of sass_transformer'
+    published: '2016-09-01T03:06:14+00:00'
+    id: 'urn:uuid:4e0bc020-5432-5869-aafb-414b30fa7d4e'
+    link: 'https://pub.dartlang.org/packages/sass_transformer'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
