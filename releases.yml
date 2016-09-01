@@ -70106,3 +70106,12 @@
     link: 'https://pub.dartlang.org/packages/dart2js_info'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: protobuf
+    package_version: v0.5.3
+    title: 'v0.5.3 of protobuf'
+    published: '2016-09-01T18:53:34+00:00'
+    id: 'urn:uuid:c682570b-0e5e-5994-83f7-18c632fd8230'
+    link: 'https://pub.dartlang.org/packages/protobuf'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
