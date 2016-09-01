@@ -70060,3 +70060,12 @@
     link: 'https://pub.dartlang.org/packages/fltk'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: jetutil
+    package_version: v0.0.1
+    title: 'v0.0.1 of jetutil'
+    published: '2016-09-01T00:02:38+00:00'
+    id: 'urn:uuid:26d155fb-11f8-5fbf-b98a-4063dd17e85b'
+    link: 'https://pub.dartlang.org/packages/jetutil'
+    author:
+        - 'Jack Tang <me@jackhftang.com>'
