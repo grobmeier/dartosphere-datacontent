@@ -70097,3 +70097,12 @@
     link: 'https://pub.dartlang.org/packages/code_transformers'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dart2js_info
+    package_version: v0.2.7+1
+    title: 'v0.2.7+1 of dart2js_info'
+    published: '2016-09-01T16:21:52+00:00'
+    id: 'urn:uuid:3c6ec4f8-c49a-5ad8-b698-463ad3f3b252'
+    link: 'https://pub.dartlang.org/packages/dart2js_info'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
