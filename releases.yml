@@ -70134,3 +70134,12 @@
     author:
         - 'Stéphane Este-Gracias <sestegra@gmail.com>'
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: aws_interop
+    package_version: v1.2.0
+    title: 'v1.2.0 of aws_interop'
+    published: '2016-09-01T22:19:16+00:00'
+    id: 'urn:uuid:318aa252-7608-58e6-bd62-79f602f55abb'
+    link: 'https://pub.dartlang.org/packages/aws_interop'
+    author:
+        - 'John Ryan <john.p.ryan4@gmail.com>'
