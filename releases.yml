@@ -70088,3 +70088,12 @@
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
         - 'Adao Jr. <itsjunnior@gmail.com>'
+-
+    package_name: code_transformers
+    package_version: v0.4.2+3
+    title: 'v0.4.2+3 of code_transformers'
+    published: '2016-09-01T13:52:54+00:00'
+    id: 'urn:uuid:8f9e682d-4552-51c2-9795-d7c10d52b3ed'
+    link: 'https://pub.dartlang.org/packages/code_transformers'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
