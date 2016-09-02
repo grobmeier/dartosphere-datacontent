@@ -70170,3 +70170,12 @@
     link: 'https://pub.dartlang.org/packages/ducene'
     author:
         - 'Shinichiro Abe <shinichiro.abe.1@gmail.com>'
+-
+    package_name: dorm
+    package_version: v1.0.32
+    title: 'v1.0.32 of dorm'
+    published: '2016-09-02T09:52:31+00:00'
+    id: 'urn:uuid:0a24390c-6532-5ea1-b445-b04b8209a675'
+    link: 'https://pub.dartlang.org/packages/dorm'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
