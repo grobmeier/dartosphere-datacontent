@@ -70152,3 +70152,21 @@
     link: 'https://pub.dartlang.org/packages/dorm'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: dorm
+    package_version: v1.0.31
+    title: 'v1.0.31 of dorm'
+    published: '2016-09-02T08:34:23+00:00'
+    id: 'urn:uuid:8a9e3094-9ed2-5660-81d6-91ab773656f9'
+    link: 'https://pub.dartlang.org/packages/dorm'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: ducene
+    package_version: v0.0.6
+    title: 'v0.0.6 of ducene'
+    published: '2016-09-02T08:03:15+00:00'
+    id: 'urn:uuid:db283cbb-bf51-5127-bcad-6a71b7e15e86'
+    link: 'https://pub.dartlang.org/packages/ducene'
+    author:
+        - 'Shinichiro Abe <shinichiro.abe.1@gmail.com>'
