@@ -70179,3 +70179,21 @@
     link: 'https://pub.dartlang.org/packages/dorm'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: molview_messages
+    package_version: v0.10.1
+    title: 'v0.10.1 of molview_messages'
+    published: '2016-09-02T15:41:49+00:00'
+    id: 'urn:uuid:6b8a00de-f871-591b-8fd5-a2d3febe6eb4'
+    link: 'https://pub.dartlang.org/packages/molview_messages'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: molview_dataserver
+    package_version: v0.0.2
+    title: 'v0.0.2 of molview_dataserver'
+    published: '2016-09-02T15:22:37+00:00'
+    id: 'urn:uuid:f6b815b2-6651-563a-99f7-5138745405bd'
+    link: 'https://pub.dartlang.org/packages/molview_dataserver'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
