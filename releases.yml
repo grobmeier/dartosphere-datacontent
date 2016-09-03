@@ -70242,3 +70242,12 @@
     link: 'https://pub.dartlang.org/packages/stagexl'
     author:
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: angel_websocket
+    package_version: v1.0.0-dev+1
+    title: 'v1.0.0-dev+1 of angel_websocket'
+    published: '2016-09-03T11:34:26+00:00'
+    id: 'urn:uuid:6582b93a-b999-5ea4-b6b4-95bf014af76b'
+    link: 'https://pub.dartlang.org/packages/angel_websocket'
+    author:
+        - 'thosakwe <thosakwe@gmail.com>'
