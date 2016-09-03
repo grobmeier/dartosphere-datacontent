@@ -70251,3 +70251,21 @@
     link: 'https://pub.dartlang.org/packages/angel_websocket'
     author:
         - 'thosakwe <thosakwe@gmail.com>'
+-
+    package_name: angel_websocket
+    package_version: v1.0.0-dev+3
+    title: 'v1.0.0-dev+3 of angel_websocket'
+    published: '2016-09-03T12:43:40+00:00'
+    id: 'urn:uuid:ecc02d20-53a3-5f92-8978-3993a2c4e3d1'
+    link: 'https://pub.dartlang.org/packages/angel_websocket'
+    author:
+        - 'thosakwe <thosakwe@gmail.com>'
+-
+    package_name: angel_client
+    package_version: v1.0.0-dev+7
+    title: 'v1.0.0-dev+7 of angel_client'
+    published: '2016-09-03T12:04:21+00:00'
+    id: 'urn:uuid:0e9187f3-6d57-518f-b3f1-2d60873e31d9'
+    link: 'https://pub.dartlang.org/packages/angel_client'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
