@@ -70278,3 +70278,12 @@
     link: 'https://pub.dartlang.org/packages/rainbow_vis'
     author:
         - 'Mike Hoolehan <mike@hoolehan.com>'
+-
+    package_name: trmsta
+    package_version: v0.1.0
+    title: 'v0.1.0 of trmsta'
+    published: '2016-09-03T20:44:44+00:00'
+    id: 'urn:uuid:0c79ee0b-9105-527d-a0a6-acdf4f8f2b51'
+    link: 'https://pub.dartlang.org/packages/trmsta'
+    author:
+        - 'Michał Krzysztof Feiler <archiet@platinum.edu.pl>'
