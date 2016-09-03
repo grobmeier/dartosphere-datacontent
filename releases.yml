@@ -70215,3 +70215,21 @@
     link: 'https://pub.dartlang.org/packages/molview_dataserver'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: intl
+    package_version: v0.14.0
+    title: 'v0.14.0 of intl'
+    published: '2016-09-02T23:12:49+00:00'
+    id: 'urn:uuid:0b33b8d4-964c-59bc-8f22-8ec53c5a3b5c'
+    link: 'https://pub.dartlang.org/packages/intl'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: intl_translation
+    package_version: v0.14.0
+    title: 'v0.14.0 of intl_translation'
+    published: '2016-09-02T23:10:31+00:00'
+    id: 'urn:uuid:e5dfbd1c-6172-5ab5-a4f3-d784c33cb0ff'
+    link: 'https://pub.dartlang.org/packages/intl_translation'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
