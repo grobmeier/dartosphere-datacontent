@@ -70287,3 +70287,12 @@
     link: 'https://pub.dartlang.org/packages/trmsta'
     author:
         - 'Michał Krzysztof Feiler <archiet@platinum.edu.pl>'
+-
+    package_name: trmsta
+    package_version: v0.1.2
+    title: 'v0.1.2 of trmsta'
+    published: '2016-09-03T21:38:46+00:00'
+    id: 'urn:uuid:76fa016d-4005-5ab2-b205-9134944d554f'
+    link: 'https://pub.dartlang.org/packages/trmsta'
+    author:
+        - 'Michał Krzysztof Feiler <archiet@platinum.edu.pl>'
