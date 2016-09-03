@@ -70269,3 +70269,12 @@
     link: 'https://pub.dartlang.org/packages/angel_client'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: rainbow_vis
+    package_version: v0.0.1
+    title: 'v0.0.1 of rainbow_vis'
+    published: '2016-09-03T17:29:27+00:00'
+    id: 'urn:uuid:2082d186-43d9-5709-a8ea-b1e61317225a'
+    link: 'https://pub.dartlang.org/packages/rainbow_vis'
+    author:
+        - 'Mike Hoolehan <mike@hoolehan.com>'
