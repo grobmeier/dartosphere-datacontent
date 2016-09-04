@@ -70342,3 +70342,12 @@
     link: 'https://pub.dartlang.org/packages/trmsta_flutter'
     author:
         - 'Michał Krzysztof Feiler <archiet@platinum.edu.pl>'
+-
+    package_name: trmsta_nohttp
+    package_version: v0.1.2+2
+    title: 'v0.1.2+2 of trmsta_nohttp'
+    published: '2016-09-04T17:16:54+00:00'
+    id: 'urn:uuid:55df5c54-055e-5b57-915e-066af04ac1ab'
+    link: 'https://pub.dartlang.org/packages/trmsta_nohttp'
+    author:
+        - 'Michał Krzysztof Feiler <archiet@platinum.edu.pl>'
