@@ -70296,3 +70296,13 @@
     link: 'https://pub.dartlang.org/packages/trmsta'
     author:
         - 'Michał Krzysztof Feiler <archiet@platinum.edu.pl>'
+-
+    package_name: ng_bootstrap
+    package_version: v0.3.4
+    title: 'v0.3.4 of ng_bootstrap'
+    published: '2016-09-04T05:20:31+00:00'
+    id: 'urn:uuid:539b7843-4e19-57e8-8cc2-1d7d7f1238a5'
+    link: 'https://pub.dartlang.org/packages/ng_bootstrap'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+        - 'Adao Jr. <itsjunnior@gmail.com>'
