@@ -70351,3 +70351,12 @@
     link: 'https://pub.dartlang.org/packages/trmsta_nohttp'
     author:
         - 'Michał Krzysztof Feiler <archiet@platinum.edu.pl>'
+-
+    package_name: dartz
+    package_version: v0.3.3
+    title: 'v0.3.3 of dartz'
+    published: '2016-09-04T19:38:29+00:00'
+    id: 'urn:uuid:8c087ed5-a42c-5a9d-89af-edf360f59e35'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
