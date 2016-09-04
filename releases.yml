@@ -70333,3 +70333,12 @@
     link: 'https://pub.dartlang.org/packages/trmstaclpp'
     author:
         - 'Michał Krzysztof Feiler <archiet@platinum.edu.pl>'
+-
+    package_name: trmsta_flutter
+    package_version: v0.1.2
+    title: 'v0.1.2 of trmsta_flutter'
+    published: '2016-09-04T16:42:13+00:00'
+    id: 'urn:uuid:dcd8cdc5-28c5-5465-b969-87072f481ea9'
+    link: 'https://pub.dartlang.org/packages/trmsta_flutter'
+    author:
+        - 'Michał Krzysztof Feiler <archiet@platinum.edu.pl>'
