@@ -70315,3 +70315,12 @@
     link: 'https://pub.dartlang.org/packages/trmstaclpp'
     author:
         - 'Michał Krzysztof Feiler <archiet@platinum.edu.pl>'
+-
+    package_name: trmstaclpp
+    package_version: v0.2.0
+    title: 'v0.2.0 of trmstaclpp'
+    published: '2016-09-04T11:53:46+00:00'
+    id: 'urn:uuid:7d180e09-fcc9-5c27-b22d-21c273d0b408'
+    link: 'https://pub.dartlang.org/packages/trmstaclpp'
+    author:
+        - 'Michał Krzysztof Feiler <archiet@platinum.edu.pl>'
