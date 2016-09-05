@@ -70406,3 +70406,12 @@
     link: 'https://pub.dartlang.org/packages/nomirrorsmap'
     author:
         - jrote1<jrote1@me.com>
+-
+    package_name: isolate_cluster
+    package_version: v0.6.0
+    title: 'v0.6.0 of isolate_cluster'
+    published: '2016-09-05T16:14:40+00:00'
+    id: 'urn:uuid:78330d7c-15a1-5813-82b9-9662b4ad17b9'
+    link: 'https://pub.dartlang.org/packages/isolate_cluster'
+    author:
+        - 'Oliver Damm <oliver.damm@gmx.de>'
