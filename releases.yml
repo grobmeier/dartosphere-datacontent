@@ -70388,3 +70388,12 @@
     author:
         - 'Kai Sellgren <kaisellgren@gmail.com>'
         - 'Dan Rubel <danrubel@google.com>'
+-
+    package_name: rpc
+    package_version: v0.5.6+2
+    title: 'v0.5.6+2 of rpc'
+    published: '2016-09-05T14:28:05+00:00'
+    id: 'urn:uuid:02cb20bb-23e3-5f58-9831-a25e0421b7ec'
+    link: 'https://pub.dartlang.org/packages/rpc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
