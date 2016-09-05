@@ -70369,3 +70369,12 @@
     link: 'https://pub.dartlang.org/packages/json_java_converter'
     author:
         - 'Jacob Burroughs <maths22@gmail.com>'
+-
+    package_name: firebase3
+    package_version: v0.2.1
+    title: 'v0.2.1 of firebase3'
+    published: '2016-09-05T11:14:40+00:00'
+    id: 'urn:uuid:8b34c0ba-f471-5350-8b98-1ed075d1fb79'
+    link: 'https://pub.dartlang.org/packages/firebase3'
+    author:
+        - 'Jana Moudra <jana.moudra@gmail.com>'
