@@ -70415,3 +70415,33 @@
     link: 'https://pub.dartlang.org/packages/isolate_cluster'
     author:
         - 'Oliver Damm <oliver.damm@gmx.de>'
+-
+    package_name: linter
+    package_version: v0.1.25
+    title: 'v0.1.25 of linter'
+    published: '2016-09-05T18:00:09+00:00'
+    id: 'urn:uuid:c6999212-7455-55b0-a840-e34351e6be63'
+    link: 'https://pub.dartlang.org/packages/linter'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: md_proc
+    package_version: v0.9.0
+    title: 'v0.9.0 of md_proc'
+    published: '2016-09-05T17:42:05+00:00'
+    id: 'urn:uuid:359b7645-bfad-5cb4-8873-eeaa8f0a371f'
+    link: 'https://pub.dartlang.org/packages/md_proc'
+    author:
+        - 'Maxim Dikun <dikmax@gmail.com>'
+-
+    package_name: xcvbnm
+    package_version: v0.5.4
+    title: 'v0.5.4 of xcvbnm'
+    published: '2016-09-05T17:19:49+00:00'
+    id: 'urn:uuid:a096dc51-1883-5bce-aee8-692d18973cfa'
+    link: 'https://pub.dartlang.org/packages/xcvbnm'
+    author:
+        - 'Werner Gaisbauer <werner.gaisbauer@exitlive.io>'
+        - 'Alex Tekartik <alex@tekartik.com>'
+        - 'Matias Meno <matias.meno@exitlive.io>'
+        - 'Martin Flucka <martin.flucka@gmail.com>'
