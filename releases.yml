@@ -70445,3 +70445,12 @@
         - 'Alex Tekartik <alex@tekartik.com>'
         - 'Matias Meno <matias.meno@exitlive.io>'
         - 'Martin Flucka <martin.flucka@gmail.com>'
+-
+    package_name: linter
+    package_version: v0.1.26
+    title: 'v0.1.26 of linter'
+    published: '2016-09-05T18:52:45+00:00'
+    id: 'urn:uuid:ffad2c43-980d-5587-82d7-295252d84514'
+    link: 'https://pub.dartlang.org/packages/linter'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
