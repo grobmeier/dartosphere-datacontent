@@ -70397,3 +70397,12 @@
     link: 'https://pub.dartlang.org/packages/rpc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: nomirrorsmap
+    package_version: v1.1.0
+    title: 'v1.1.0 of nomirrorsmap'
+    published: '2016-09-05T15:01:47+00:00'
+    id: 'urn:uuid:53ace1e1-ce3a-5a55-b53f-7d198f51e868'
+    link: 'https://pub.dartlang.org/packages/nomirrorsmap'
+    author:
+        - jrote1<jrote1@me.com>
