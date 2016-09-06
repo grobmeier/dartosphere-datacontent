@@ -70493,3 +70493,12 @@
     link: 'https://pub.dartlang.org/packages/md_proc'
     author:
         - 'Maxim Dikun <dikmax@gmail.com>'
+-
+    package_name: intl_translation
+    package_version: v0.14.0+1
+    title: 'v0.14.0+1 of intl_translation'
+    published: '2016-09-06T20:07:15+00:00'
+    id: 'urn:uuid:2ff3862f-5ba0-55b5-b74b-aa7fad98323e'
+    link: 'https://pub.dartlang.org/packages/intl_translation'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
