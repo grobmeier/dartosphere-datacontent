@@ -70474,3 +70474,13 @@
     author:
         - 'Stéphane Este-Gracias <sestegra@gmail.com>'
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: mailer2
+    package_version: v1.1.0+3
+    title: 'v1.1.0+3 of mailer2'
+    published: '2016-09-06T06:03:38+00:00'
+    id: 'urn:uuid:673a06c7-8d6f-5cb4-b27f-ad70306f932b'
+    link: 'https://pub.dartlang.org/packages/mailer2'
+    author:
+        - 'Kai Sellgren <kaisellgren@gmail.com>'
+        - 'Dan Rubel <danrubel@google.com>'
