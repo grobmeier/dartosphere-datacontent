@@ -70502,3 +70502,12 @@
     link: 'https://pub.dartlang.org/packages/intl_translation'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dartdoc
+    package_version: v0.9.7+4
+    title: 'v0.9.7+4 of dartdoc'
+    published: '2016-09-06T22:21:21+00:00'
+    id: 'urn:uuid:24abc106-0c9c-5bca-9448-de5b57776d72'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
