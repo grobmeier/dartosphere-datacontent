@@ -70538,3 +70538,12 @@
     link: 'https://pub.dartlang.org/packages/slickdart'
     author:
         - 'CJKAO <kaopeter@gmail.com>, tonosama-atlacatl, yyyangd'
+-
+    package_name: custom_elements
+    package_version: v0.0.9
+    title: 'v0.0.9 of custom_elements'
+    published: '2016-09-07T15:27:31+00:00'
+    id: 'urn:uuid:471f855e-1dd3-5822-a71b-04441227a60a'
+    link: 'https://pub.dartlang.org/packages/custom_elements'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@drafintech.it>'
