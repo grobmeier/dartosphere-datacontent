@@ -70592,3 +70592,21 @@
     link: 'https://pub.dartlang.org/packages/build_test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build
+    package_version: v0.4.0
+    title: 'v0.4.0 of build'
+    published: '2016-09-07T20:14:27+00:00'
+    id: 'urn:uuid:4d780bdc-d6ad-5ecd-bd13-4a707fcf0549'
+    link: 'https://pub.dartlang.org/packages/build'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: molview_pubchem
+    package_version: v0.3.0
+    title: 'v0.3.0 of molview_pubchem'
+    published: '2016-09-07T20:02:54+00:00'
+    id: 'urn:uuid:f448933e-733a-5a0f-806c-f756e9185007'
+    link: 'https://pub.dartlang.org/packages/molview_pubchem'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
