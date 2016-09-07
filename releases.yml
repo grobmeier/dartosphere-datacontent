@@ -70556,3 +70556,12 @@
     link: 'https://pub.dartlang.org/packages/custom_elements'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@drafintech.it>'
+-
+    package_name: dart2js_info
+    package_version: v0.2.7+2
+    title: 'v0.2.7+2 of dart2js_info'
+    published: '2016-09-07T18:22:19+00:00'
+    id: 'urn:uuid:030ad4b0-7d43-5938-81ea-27190802776c'
+    link: 'https://pub.dartlang.org/packages/dart2js_info'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
