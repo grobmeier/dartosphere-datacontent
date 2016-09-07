@@ -70511,3 +70511,12 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angular2
+    package_version: v2.0.0-beta.21
+    title: 'v2.0.0-beta.21 of angular2'
+    published: '2016-09-06T23:02:19+00:00'
+    id: 'urn:uuid:abee696a-9948-5904-be24-07f7cebed71a'
+    link: 'https://pub.dartlang.org/packages/angular2'
+    author:
+        - 'Angular Dart Team <angular2@dartlang.org>'
