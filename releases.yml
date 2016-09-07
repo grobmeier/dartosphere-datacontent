@@ -70547,3 +70547,12 @@
     link: 'https://pub.dartlang.org/packages/custom_elements'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@drafintech.it>'
+-
+    package_name: custom_elements
+    package_version: v0.0.9+1
+    title: 'v0.0.9+1 of custom_elements'
+    published: '2016-09-07T16:41:39+00:00'
+    id: 'urn:uuid:867325d0-f2c6-5249-b829-b90fa3ff7959'
+    link: 'https://pub.dartlang.org/packages/custom_elements'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@drafintech.it>'
