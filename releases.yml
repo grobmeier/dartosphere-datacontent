@@ -70520,3 +70520,12 @@
     link: 'https://pub.dartlang.org/packages/angular2'
     author:
         - 'Angular Dart Team <angular2@dartlang.org>'
+-
+    package_name: crossdart
+    package_version: v0.4.6
+    title: 'v0.4.6 of crossdart'
+    published: '2016-09-07T00:28:31+00:00'
+    id: 'urn:uuid:8a96de2a-1bfd-5f99-bad5-aa673a35179a'
+    link: 'https://pub.dartlang.org/packages/crossdart'
+    author:
+        - 'Anton Astashov <anton.astashov@gmail.com>'
