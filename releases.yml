@@ -70629,3 +70629,12 @@
     link: 'https://pub.dartlang.org/packages/isolate_cluster'
     author:
         - 'Oliver Damm <oliver.damm@gmx.de>'
+-
+    package_name: stream
+    package_version: v1.6.2
+    title: 'v1.6.2 of stream'
+    published: '2016-09-08T01:52:17+00:00'
+    id: 'urn:uuid:a4b6e68c-7314-59d0-8355-0a71c7b9a028'
+    link: 'https://pub.dartlang.org/packages/stream'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
