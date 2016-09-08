@@ -70638,3 +70638,12 @@
     link: 'https://pub.dartlang.org/packages/stream'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: gitignore
+    package_version: v0.1.0-dev
+    title: 'v0.1.0-dev of gitignore'
+    published: '2016-09-08T03:33:47+00:00'
+    id: 'urn:uuid:c7487b12-fb6f-54e8-9f92-e8b7e500d726'
+    link: 'https://pub.dartlang.org/packages/gitignore'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
