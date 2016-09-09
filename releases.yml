@@ -70718,3 +70718,12 @@
     link: 'https://pub.dartlang.org/packages/webdriver'
     author:
         - 'Marc Fisher II <fisherii@google.com>'
+-
+    package_name: isolate_cluster
+    package_version: v0.9.0
+    title: 'v0.9.0 of isolate_cluster'
+    published: '2016-09-09T22:51:09+00:00'
+    id: 'urn:uuid:f90133c0-d878-58bc-8b32-bc099812bd10'
+    link: 'https://pub.dartlang.org/packages/isolate_cluster'
+    author:
+        - 'Oliver Damm <oliver.damm@gmx.de>'
