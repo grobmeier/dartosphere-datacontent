@@ -70700,3 +70700,12 @@
     author:
         - 'Kai Sellgren <kaisellgren@gmail.com>'
         - 'Dan Rubel <danrubel@google.com>'
+-
+    package_name: sitegen
+    package_version: v1.3.3
+    title: 'v1.3.3 of sitegen'
+    published: '2016-09-09T10:07:52+00:00'
+    id: 'urn:uuid:5365679f-9c98-52bb-bb97-58f7370fef37'
+    link: 'https://pub.dartlang.org/packages/sitegen'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
