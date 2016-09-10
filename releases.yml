@@ -70736,3 +70736,21 @@
     link: 'https://pub.dartlang.org/packages/gitignore'
     author:
         - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: dartz
+    package_version: v0.3.4
+    title: 'v0.3.4 of dartz'
+    published: '2016-09-10T15:26:43+00:00'
+    id: 'urn:uuid:2f5e4e05-91c1-5f4e-aee7-92cc08f80bd3'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: rpc_helpers
+    package_version: v0.0.1
+    title: 'v0.0.1 of rpc_helpers'
+    published: '2016-09-10T15:23:10+00:00'
+    id: 'urn:uuid:41044567-f51f-51a7-aa89-9c2eed42b2ee'
+    link: 'https://pub.dartlang.org/packages/rpc_helpers'
+    author:
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
