@@ -70754,3 +70754,12 @@
     link: 'https://pub.dartlang.org/packages/rpc_helpers'
     author:
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: gitignore
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of gitignore'
+    published: '2016-09-10T17:00:34+00:00'
+    id: 'urn:uuid:549c5997-d429-52a0-9c50-fa64f531c793'
+    link: 'https://pub.dartlang.org/packages/gitignore'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
