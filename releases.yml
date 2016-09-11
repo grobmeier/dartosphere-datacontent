@@ -70772,3 +70772,12 @@
     link: 'https://pub.dartlang.org/packages/ddns_client'
     author:
         - 'Dan Rubel <danrubel@google.com>'
+-
+    package_name: rethinkdb_driver
+    package_version: v2.3.1
+    title: 'v2.3.1 of rethinkdb_driver'
+    published: '2016-09-11T04:40:49+00:00'
+    id: 'urn:uuid:ab197087-de2f-508a-9903-6cfadd082206'
+    link: 'https://pub.dartlang.org/packages/rethinkdb_driver'
+    author:
+        - 'William Welch <billywelch@gmail.com>'
