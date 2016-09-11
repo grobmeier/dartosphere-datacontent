@@ -70801,3 +70801,13 @@
     author:
         - 'Kai Sellgren <kaisellgren@gmail.com>'
         - 'Dan Rubel <danrubel@google.com>'
+-
+    package_name: sqljocky2
+    package_version: v0.14.4-dev
+    title: 'v0.14.4-dev of sqljocky2'
+    published: '2016-09-11T17:54:08+00:00'
+    id: 'urn:uuid:acee0eaf-d97a-5203-9921-4a9aeb79cdfc'
+    link: 'https://pub.dartlang.org/packages/sqljocky2'
+    author:
+        - 'James Ots <code@jamesots.com>'
+        - 'Faisal Abid <faisal.abid@gmail.com>'
