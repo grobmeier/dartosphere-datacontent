@@ -70781,3 +70781,13 @@
     link: 'https://pub.dartlang.org/packages/rethinkdb_driver'
     author:
         - 'William Welch <billywelch@gmail.com>'
+-
+    package_name: sqljocky2
+    package_version: v0.14.3-dev
+    title: 'v0.14.3-dev of sqljocky2'
+    published: '2016-09-11T06:32:07+00:00'
+    id: 'urn:uuid:597ea93b-a221-5139-a371-c096e1148582'
+    link: 'https://pub.dartlang.org/packages/sqljocky2'
+    author:
+        - 'James Ots <code@jamesots.com>'
+        - 'Faisal Abid <faisal.abid@gmail.com>'
