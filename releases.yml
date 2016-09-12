@@ -70847,3 +70847,12 @@
     link: 'https://pub.dartlang.org/packages/built_json'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: build
+    package_version: v0.4.1
+    title: 'v0.4.1 of build'
+    published: '2016-09-12T20:35:43+00:00'
+    id: 'urn:uuid:4ceb10a8-757c-5b44-894f-9c2b317aaeec'
+    link: 'https://pub.dartlang.org/packages/build'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
