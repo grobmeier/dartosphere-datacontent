@@ -70811,3 +70811,12 @@
     author:
         - 'James Ots <code@jamesots.com>'
         - 'Faisal Abid <faisal.abid@gmail.com>'
+-
+    package_name: dartregistry
+    package_version: v1.3.1
+    title: 'v1.3.1 of dartregistry'
+    published: '2016-09-12T07:41:07+00:00'
+    id: 'urn:uuid:6d67fc95-10e7-5765-8cf2-f24e07c771a5'
+    link: 'https://pub.dartlang.org/packages/dartregistry'
+    author:
+        - 'Roberto Tassi <roberto.tassi@fromlabs.org>'
