@@ -70829,3 +70829,21 @@
     link: 'https://pub.dartlang.org/packages/trestle'
     author:
         - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: built_json_generator
+    package_version: v0.1.2
+    title: 'v0.1.2 of built_json_generator'
+    published: '2016-09-12T15:48:53+00:00'
+    id: 'urn:uuid:7648d9ad-6332-5327-9150-de8b489ede6a'
+    link: 'https://pub.dartlang.org/packages/built_json_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_json
+    package_version: v0.1.2
+    title: 'v0.1.2 of built_json'
+    published: '2016-09-12T15:47:56+00:00'
+    id: 'urn:uuid:eddba649-b33a-5975-81ed-d4bd373d9b51'
+    link: 'https://pub.dartlang.org/packages/built_json'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
