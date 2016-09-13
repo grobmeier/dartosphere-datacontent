@@ -70874,3 +70874,12 @@
     link: 'https://pub.dartlang.org/packages/json_java_converter'
     author:
         - 'Jacob Burroughs <maths22@gmail.com>'
+-
+    package_name: shelf_serve
+    package_version: v0.1.2
+    title: 'v0.1.2 of shelf_serve'
+    published: '2016-09-13T09:50:21+00:00'
+    id: 'urn:uuid:1051c3f4-1163-5d4e-839d-2574ec558bcf'
+    link: 'https://pub.dartlang.org/packages/shelf_serve'
+    author:
+        - 'Rik Bellens <rik.bellens@appsup.be>'
