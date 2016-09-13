@@ -70910,3 +70910,26 @@
     link: 'https://pub.dartlang.org/packages/json_java_converter'
     author:
         - 'Jacob Burroughs <maths22@gmail.com>'
+-
+    package_name: w_flux
+    package_version: v2.5.0
+    title: 'v2.5.0 of w_flux'
+    published: '2016-09-13T20:54:04+00:00'
+    id: 'urn:uuid:b10bd190-9f67-54b2-86f2-db576fe4408e'
+    link: 'https://pub.dartlang.org/packages/w_flux'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: source_gen
+    package_version: v0.5.1+2
+    title: 'v0.5.1+2 of source_gen'
+    published: '2016-09-13T20:13:40+00:00'
+    id: 'urn:uuid:e28ecfcc-e9a5-5e4b-922e-ca6f846b2ece'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
