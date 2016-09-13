@@ -70865,3 +70865,12 @@
     link: 'https://pub.dartlang.org/packages/material2_dart'
     author:
         - 'ntaoo <ntaoo.g@gmail.com>'
+-
+    package_name: json_java_converter
+    package_version: v0.3.0
+    title: 'v0.3.0 of json_java_converter'
+    published: '2016-09-13T03:33:53+00:00'
+    id: 'urn:uuid:54a38eaf-9cc9-55c9-88e9-724c1b96a85a'
+    link: 'https://pub.dartlang.org/packages/json_java_converter'
+    author:
+        - 'Jacob Burroughs <maths22@gmail.com>'
