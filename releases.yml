@@ -70856,3 +70856,12 @@
     link: 'https://pub.dartlang.org/packages/build'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: material2_dart
+    package_version: v0.1.1
+    title: 'v0.1.1 of material2_dart'
+    published: '2016-09-13T02:53:44+00:00'
+    id: 'urn:uuid:4728821d-016a-5fb2-bf75-992116377fa8'
+    link: 'https://pub.dartlang.org/packages/material2_dart'
+    author:
+        - 'ntaoo <ntaoo.g@gmail.com>'
