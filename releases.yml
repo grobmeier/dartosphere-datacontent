@@ -70892,3 +70892,21 @@
     link: 'https://pub.dartlang.org/packages/shelf_serve'
     author:
         - 'Rik Bellens <rik.bellens@appsup.be>'
+-
+    package_name: material_progress
+    package_version: v0.0.1
+    title: 'v0.0.1 of material_progress'
+    published: '2016-09-13T17:26:57+00:00'
+    id: 'urn:uuid:fd3e5e66-e770-54ee-b83f-b320c4ea6edd'
+    link: 'https://pub.dartlang.org/packages/material_progress'
+    author:
+        - 'Qurami Srl <tech@qurami.com>'
+-
+    package_name: json_java_converter
+    package_version: v0.3.0+1
+    title: 'v0.3.0+1 of json_java_converter'
+    published: '2016-09-13T17:19:02+00:00'
+    id: 'urn:uuid:3c237e83-aaef-5bae-922c-f097ec4e6913'
+    link: 'https://pub.dartlang.org/packages/json_java_converter'
+    author:
+        - 'Jacob Burroughs <maths22@gmail.com>'
