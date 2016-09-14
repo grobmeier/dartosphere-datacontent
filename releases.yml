@@ -70960,3 +70960,12 @@
     link: 'https://pub.dartlang.org/packages/json_java_converter'
     author:
         - 'Jacob Burroughs <maths22@gmail.com>'
+-
+    package_name: json_java_converter
+    package_version: v0.3.2
+    title: 'v0.3.2 of json_java_converter'
+    published: '2016-09-14T04:32:35+00:00'
+    id: 'urn:uuid:c40c5720-7139-5b25-9a71-2ef7fe129ae9'
+    link: 'https://pub.dartlang.org/packages/json_java_converter'
+    author:
+        - 'Jacob Burroughs <maths22@gmail.com>'
