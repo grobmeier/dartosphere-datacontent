@@ -70933,3 +70933,12 @@
     link: 'https://pub.dartlang.org/packages/source_gen'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: json_java_converter
+    package_version: v0.3.0+2
+    title: 'v0.3.0+2 of json_java_converter'
+    published: '2016-09-14T00:06:23+00:00'
+    id: 'urn:uuid:eca674ae-5f02-5ff5-8403-e58880aefd15'
+    link: 'https://pub.dartlang.org/packages/json_java_converter'
+    author:
+        - 'Jacob Burroughs <maths22@gmail.com>'
