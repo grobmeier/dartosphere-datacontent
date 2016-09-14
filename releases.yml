@@ -70969,3 +70969,12 @@
     link: 'https://pub.dartlang.org/packages/json_java_converter'
     author:
         - 'Jacob Burroughs <maths22@gmail.com>'
+-
+    package_name: dart_constructs
+    package_version: v1.1.2
+    title: 'v1.1.2 of dart_constructs'
+    published: '2016-09-14T07:11:28+00:00'
+    id: 'urn:uuid:ef5f4ca3-32e5-5541-93a2-9ffe69333a7f'
+    link: 'https://pub.dartlang.org/packages/dart_constructs'
+    author:
+        - 'Kyle Ferguson <hanbrolo117@gmail.com>'
