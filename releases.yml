@@ -71005,3 +71005,12 @@
     link: 'https://pub.dartlang.org/packages/ducene'
     author:
         - 'Shinichiro Abe <shinichiro.abe.1@gmail.com>'
+-
+    package_name: material_progress
+    package_version: v1.0.0
+    title: 'v1.0.0 of material_progress'
+    published: '2016-09-14T15:49:29+00:00'
+    id: 'urn:uuid:3149a848-cb1a-5470-839e-a3601bc98b69'
+    link: 'https://pub.dartlang.org/packages/material_progress'
+    author:
+        - 'Qurami Tech Team <tech@qurami.com>'
