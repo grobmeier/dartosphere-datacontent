@@ -70978,3 +70978,12 @@
     link: 'https://pub.dartlang.org/packages/dart_constructs'
     author:
         - 'Kyle Ferguson <hanbrolo117@gmail.com>'
+-
+    package_name: inline_assets
+    package_version: v0.1.2
+    title: 'v0.1.2 of inline_assets'
+    published: '2016-09-14T09:28:27+00:00'
+    id: 'urn:uuid:d6e1c8f3-f730-53f1-ab6c-88fd81be7c69'
+    link: 'https://pub.dartlang.org/packages/inline_assets'
+    author:
+        - 'R.S. Schermer <roland0507@gmail.com>'
