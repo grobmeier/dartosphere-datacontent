@@ -71023,3 +71023,12 @@
     link: 'https://pub.dartlang.org/packages/meta'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: isolate_cluster
+    package_version: v0.10.0
+    title: 'v0.10.0 of isolate_cluster'
+    published: '2016-09-14T20:22:41+00:00'
+    id: 'urn:uuid:3d1736d3-56eb-5bb0-84da-4ac5b07d86c5'
+    link: 'https://pub.dartlang.org/packages/isolate_cluster'
+    author:
+        - 'Oliver Damm <oliver.damm@gmx.de>'
