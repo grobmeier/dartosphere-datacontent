@@ -70996,3 +70996,12 @@
     link: 'https://pub.dartlang.org/packages/rpc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: ducene
+    package_version: v0.0.7
+    title: 'v0.0.7 of ducene'
+    published: '2016-09-14T13:41:11+00:00'
+    id: 'urn:uuid:b16ae664-56d7-53ca-8049-dee51ab5ce88'
+    link: 'https://pub.dartlang.org/packages/ducene'
+    author:
+        - 'Shinichiro Abe <shinichiro.abe.1@gmail.com>'
