@@ -71032,3 +71032,12 @@
     link: 'https://pub.dartlang.org/packages/isolate_cluster'
     author:
         - 'Oliver Damm <oliver.damm@gmx.de>'
+-
+    package_name: pageloader
+    package_version: v2.2.2
+    title: 'v2.2.2 of pageloader'
+    published: '2016-09-14T21:09:02+00:00'
+    id: 'urn:uuid:f1fe7d64-7ddb-56c4-8d29-a950f674a96f'
+    link: 'https://pub.dartlang.org/packages/pageloader'
+    author:
+        - 'Marc Fisher II <fisherii@google.com>'
