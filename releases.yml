@@ -71014,3 +71014,12 @@
     link: 'https://pub.dartlang.org/packages/material_progress'
     author:
         - 'Qurami Tech Team <tech@qurami.com>'
+-
+    package_name: meta
+    package_version: v1.0.3
+    title: 'v1.0.3 of meta'
+    published: '2016-09-14T18:22:35+00:00'
+    id: 'urn:uuid:7f9c4aab-818d-53b9-b6ae-c46e3d53a48a'
+    link: 'https://pub.dartlang.org/packages/meta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
