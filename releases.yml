@@ -71095,3 +71095,12 @@
     link: 'https://pub.dartlang.org/packages/built_collection'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.15
+    title: 'v1.0.0-dev.15 of angel_framework'
+    published: '2016-09-15T19:53:45+00:00'
+    id: 'urn:uuid:b5d8e04b-17ae-52dc-bf8f-f81ffc1602e7'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
