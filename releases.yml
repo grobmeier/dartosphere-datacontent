@@ -71059,3 +71059,12 @@
     link: 'https://pub.dartlang.org/packages/discord_dart'
     author:
         - 'Hackzzila <admin@hackzzila.com>'
+-
+    package_name: tavern
+    package_version: v1.0.1
+    title: 'v1.0.1 of tavern'
+    published: '2016-09-15T07:08:31+00:00'
+    id: 'urn:uuid:05097783-e1b5-5e02-82d8-0d0f76cfe289'
+    link: 'https://pub.dartlang.org/packages/tavern'
+    author:
+        - 'John Ryan <john.p.ryan4@gmail.com>'
