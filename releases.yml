@@ -71068,3 +71068,12 @@
     link: 'https://pub.dartlang.org/packages/tavern'
     author:
         - 'John Ryan <john.p.ryan4@gmail.com>'
+-
+    package_name: shelf_serve
+    package_version: v0.2.0
+    title: 'v0.2.0 of shelf_serve'
+    published: '2016-09-15T11:42:21+00:00'
+    id: 'urn:uuid:41388dcc-ac95-5ca3-a269-e598302fac54'
+    link: 'https://pub.dartlang.org/packages/shelf_serve'
+    author:
+        - 'Rik Bellens <rik.bellens@appsup.be>'
