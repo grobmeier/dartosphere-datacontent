@@ -71041,3 +71041,12 @@
     link: 'https://pub.dartlang.org/packages/pageloader'
     author:
         - 'Marc Fisher II <fisherii@google.com>'
+-
+    package_name: dart_style
+    package_version: v0.2.10
+    title: 'v0.2.10 of dart_style'
+    published: '2016-09-14T23:44:59+00:00'
+    id: 'urn:uuid:8b6eb4b3-f09d-5818-abf7-ab9bf373f852'
+    link: 'https://pub.dartlang.org/packages/dart_style'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
