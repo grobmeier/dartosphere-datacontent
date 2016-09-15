@@ -71086,3 +71086,12 @@
     link: 'https://pub.dartlang.org/packages/discord_dart'
     author:
         - 'Hackzzila <admin@hackzzila.com>'
+-
+    package_name: built_collection
+    package_version: v1.0.5
+    title: 'v1.0.5 of built_collection'
+    published: '2016-09-15T14:50:05+00:00'
+    id: 'urn:uuid:80686074-95ba-5a3b-9775-6802547b8317'
+    link: 'https://pub.dartlang.org/packages/built_collection'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
