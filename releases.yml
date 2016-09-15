@@ -71104,3 +71104,12 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: fnx_profiler
+    package_version: v0.9.0
+    title: 'v0.9.0 of fnx_profiler'
+    published: '2016-09-15T20:17:54+00:00'
+    id: 'urn:uuid:a8d9a478-c833-5324-afbf-e0e2c7f99525'
+    link: 'https://pub.dartlang.org/packages/fnx_profiler'
+    author:
+        - 'Tomáš Zvěřina <tomucha@gmail.com>'
