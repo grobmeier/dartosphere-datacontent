@@ -71187,3 +71187,21 @@
     link: 'https://pub.dartlang.org/packages/discord_dart'
     author:
         - 'Hackzzila <admin@hackzzila.com>'
+-
+    package_name: firebase_encode
+    package_version: v0.0.1
+    title: 'v0.0.1 of firebase_encode'
+    published: '2016-09-16T19:36:49+00:00'
+    id: 'urn:uuid:4b4c5094-dc3b-59c2-9a3d-1eb0c2367891'
+    link: 'https://pub.dartlang.org/packages/firebase_encode'
+    author:
+        - 'Christopher Best <bestchris@gmail.com>'
+-
+    package_name: overwrite
+    package_version: v0.3.5
+    title: 'v0.3.5 of overwrite'
+    published: '2016-09-16T19:13:25+00:00'
+    id: 'urn:uuid:8f4b6953-947b-5b41-9e6c-35d4bb8a85b6'
+    link: 'https://pub.dartlang.org/packages/overwrite'
+    author:
+        - 'Christopher Best <bestchris@gmail.com>'
