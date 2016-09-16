@@ -71178,3 +71178,12 @@
     link: 'https://pub.dartlang.org/packages/scissors'
     author:
         - 'Olivier Chafik <ochafik@google.com>'
+-
+    package_name: discord_dart
+    package_version: v0.2.1
+    title: 'v0.2.1 of discord_dart'
+    published: '2016-09-16T18:04:12+00:00'
+    id: 'urn:uuid:23af5653-9467-534c-a234-52f045884c92'
+    link: 'https://pub.dartlang.org/packages/discord_dart'
+    author:
+        - 'Hackzzila <admin@hackzzila.com>'
