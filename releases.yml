@@ -71205,3 +71205,48 @@
     link: 'https://pub.dartlang.org/packages/overwrite'
     author:
         - 'Christopher Best <bestchris@gmail.com>'
+-
+    package_name: embla_trestle
+    package_version: v0.3.0
+    title: 'v0.3.0 of embla_trestle'
+    published: '2016-09-16T20:24:24+00:00'
+    id: 'urn:uuid:e8502f2a-5bc9-50c4-8a51-01bd8f64de93'
+    link: 'https://pub.dartlang.org/packages/embla_trestle'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: trestle
+    package_version: v0.10.0
+    title: 'v0.10.0 of trestle'
+    published: '2016-09-16T20:22:06+00:00'
+    id: 'urn:uuid:35411526-639e-5235-8893-4e221b78e082'
+    link: 'https://pub.dartlang.org/packages/trestle'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: embla_templates
+    package_version: v0.1.5
+    title: 'v0.1.5 of embla_templates'
+    published: '2016-09-16T20:17:45+00:00'
+    id: 'urn:uuid:b527678f-d7b5-50e6-a451-f8f24c293489'
+    link: 'https://pub.dartlang.org/packages/embla_templates'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: template_cache
+    package_version: v0.1.1
+    title: 'v0.1.1 of template_cache'
+    published: '2016-09-16T20:14:10+00:00'
+    id: 'urn:uuid:2d0004a8-184d-559a-9334-8454f31e946d'
+    link: 'https://pub.dartlang.org/packages/template_cache'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: embla
+    package_version: v0.2.3
+    title: 'v0.2.3 of embla'
+    published: '2016-09-16T20:11:08+00:00'
+    id: 'urn:uuid:b928bb5f-8224-5ff8-bbf7-0f74af0b586b'
+    link: 'https://pub.dartlang.org/packages/embla'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
