@@ -71141,3 +71141,22 @@
     author:
         - 'Daniel Domberger <daniel.domberger@exit.live>'
         - 'Martin Flucka <martin.flucka@exit.live>'
+-
+    package_name: currency_cloud
+    package_version: v0.0.4
+    title: 'v0.0.4 of currency_cloud'
+    published: '2016-09-16T16:25:52+00:00'
+    id: 'urn:uuid:4fb890f3-b5e4-567c-90a1-7584f3b38f78'
+    link: 'https://pub.dartlang.org/packages/currency_cloud'
+    author:
+        - 'Daniel Domberger <daniel.domberger@exit.live>'
+        - 'Martin Flucka <martin.flucka@exit.live>'
+-
+    package_name: pub_server
+    package_version: v0.1.1+3
+    title: 'v0.1.1+3 of pub_server'
+    published: '2016-09-16T16:23:55+00:00'
+    id: 'urn:uuid:3590bca7-0d29-5ee5-89c4-0fab5c6d387d'
+    link: 'https://pub.dartlang.org/packages/pub_server'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
