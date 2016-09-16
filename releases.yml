@@ -71131,3 +71131,13 @@
     link: 'https://pub.dartlang.org/packages/shelf_serve'
     author:
         - 'Rik Bellens <rik.bellens@appsup.be>'
+-
+    package_name: currency_cloud
+    package_version: v0.0.3
+    title: 'v0.0.3 of currency_cloud'
+    published: '2016-09-16T13:22:50+00:00'
+    id: 'urn:uuid:53dee5d0-bda0-5be8-bb9c-12d44d27f7fe'
+    link: 'https://pub.dartlang.org/packages/currency_cloud'
+    author:
+        - 'Daniel Domberger <daniel.domberger@exit.live>'
+        - 'Martin Flucka <martin.flucka@exit.live>'
