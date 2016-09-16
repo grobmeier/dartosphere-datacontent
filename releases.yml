@@ -71122,3 +71122,12 @@
     link: 'https://pub.dartlang.org/packages/source_gen'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: shelf_serve
+    package_version: v0.2.1
+    title: 'v0.2.1 of shelf_serve'
+    published: '2016-09-16T11:05:20+00:00'
+    id: 'urn:uuid:6498e782-88ab-5685-b1c4-17ee94557a74'
+    link: 'https://pub.dartlang.org/packages/shelf_serve'
+    author:
+        - 'Rik Bellens <rik.bellens@appsup.be>'
