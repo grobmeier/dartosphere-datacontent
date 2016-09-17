@@ -71322,3 +71322,12 @@
     link: 'https://pub.dartlang.org/packages/discord_dart'
     author:
         - 'Hackzzila <admin@hackzzila.com>'
+-
+    package_name: google_oauth2_jwt
+    package_version: v0.4.1
+    title: 'v0.4.1 of google_oauth2_jwt'
+    published: '2016-09-17T22:35:06+00:00'
+    id: 'urn:uuid:ac023699-ac3b-5b20-8908-69faa1fb87d1'
+    link: 'https://pub.dartlang.org/packages/google_oauth2_jwt'
+    author:
+        - 'Tais P. Hansen <taishansen@gmail.com>'
