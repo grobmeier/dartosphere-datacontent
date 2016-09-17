@@ -71313,3 +71313,12 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: discord_dart
+    package_version: v0.5.1
+    title: 'v0.5.1 of discord_dart'
+    published: '2016-09-17T21:08:07+00:00'
+    id: 'urn:uuid:571fe5c8-26ae-5835-a9b5-808c769a20f8'
+    link: 'https://pub.dartlang.org/packages/discord_dart'
+    author:
+        - 'Hackzzila <admin@hackzzila.com>'
