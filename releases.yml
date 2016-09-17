@@ -71259,3 +71259,21 @@
     link: 'https://pub.dartlang.org/packages/discord_dart'
     author:
         - 'Hackzzila <admin@hackzzila.com>'
+-
+    package_name: tuneup
+    package_version: v0.2.5
+    title: 'v0.2.5 of tuneup'
+    published: '2016-09-17T02:48:26+00:00'
+    id: 'urn:uuid:562021ee-a548-5ad5-baa0-a66c729c9cf3'
+    link: 'https://pub.dartlang.org/packages/tuneup'
+    author:
+        - 'Devon Carew <devoncarew@google.com>'
+-
+    package_name: discord_dart
+    package_version: v0.3.1
+    title: 'v0.3.1 of discord_dart'
+    published: '2016-09-17T02:09:22+00:00'
+    id: 'urn:uuid:35937a25-2646-5c66-a9bd-c4ca1b6dbece'
+    link: 'https://pub.dartlang.org/packages/discord_dart'
+    author:
+        - 'Hackzzila <admin@hackzzila.com>'
