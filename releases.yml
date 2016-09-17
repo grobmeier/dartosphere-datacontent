@@ -71277,3 +71277,21 @@
     link: 'https://pub.dartlang.org/packages/discord_dart'
     author:
         - 'Hackzzila <admin@hackzzila.com>'
+-
+    package_name: discord_dart
+    package_version: v0.4.2
+    title: 'v0.4.2 of discord_dart'
+    published: '2016-09-17T16:50:36+00:00'
+    id: 'urn:uuid:3722e573-a12e-53ec-b005-ba147d568ae5'
+    link: 'https://pub.dartlang.org/packages/discord_dart'
+    author:
+        - 'Hackzzila <admin@hackzzila.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.16
+    title: 'v1.0.0-dev.16 of angel_framework'
+    published: '2016-09-17T16:14:02+00:00'
+    id: 'urn:uuid:8efc69da-e3bf-5492-b90b-e9fccc0d81a7'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
