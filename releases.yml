@@ -71331,3 +71331,21 @@
     link: 'https://pub.dartlang.org/packages/google_oauth2_jwt'
     author:
         - 'Tais P. Hansen <taishansen@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.18
+    title: 'v1.0.0-dev.18 of angel_framework'
+    published: '2016-09-18T01:44:11+00:00'
+    id: 'urn:uuid:a5f2f1e9-aa85-5d41-93ee-300283d0c70a'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: discord_dart
+    package_version: v0.6.0
+    title: 'v0.6.0 of discord_dart'
+    published: '2016-09-18T01:06:21+00:00'
+    id: 'urn:uuid:3d5ef2df-fd64-591a-976a-b1d14fdbd5b4'
+    link: 'https://pub.dartlang.org/packages/discord_dart'
+    author:
+        - 'Hackzzila <admin@hackzzila.com>'
