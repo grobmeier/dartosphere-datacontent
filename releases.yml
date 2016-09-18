@@ -71376,3 +71376,12 @@
     link: 'https://pub.dartlang.org/packages/selectize'
     author:
         - 'CJKAO <kaopeter@gmail.com>'
+-
+    package_name: furlong
+    package_version: v1.0.0-dev
+    title: 'v1.0.0-dev of furlong'
+    published: '2016-09-18T21:31:56+00:00'
+    id: 'urn:uuid:ade10291-bb61-5061-8a5c-8f7f661965f2'
+    link: 'https://pub.dartlang.org/packages/furlong'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
