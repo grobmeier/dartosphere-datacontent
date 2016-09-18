@@ -71367,3 +71367,12 @@
     link: 'https://pub.dartlang.org/packages/angel_websocket'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: selectize
+    package_version: v0.1.4
+    title: 'v0.1.4 of selectize'
+    published: '2016-09-18T14:32:10+00:00'
+    id: 'urn:uuid:e65af0fe-8c31-5d5f-92cc-53436a90ec43'
+    link: 'https://pub.dartlang.org/packages/selectize'
+    author:
+        - 'CJKAO <kaopeter@gmail.com>'
