@@ -71412,3 +71412,13 @@
     link: 'https://pub.dartlang.org/packages/angel_diagnostics'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: currency_cloud
+    package_version: v0.0.5
+    title: 'v0.0.5 of currency_cloud'
+    published: '2016-09-19T14:27:34+00:00'
+    id: 'urn:uuid:38d3234d-b17d-56c4-b01d-2d46bf376833'
+    link: 'https://pub.dartlang.org/packages/currency_cloud'
+    author:
+        - 'Daniel Domberger <daniel.domberger@exit.live>'
+        - 'Martin Flucka <martin.flucka@exit.live>'
