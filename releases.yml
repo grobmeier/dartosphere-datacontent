@@ -71403,3 +71403,12 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_diagnostics
+    package_version: v1.0.0-dev
+    title: 'v1.0.0-dev of angel_diagnostics'
+    published: '2016-09-19T07:13:50+00:00'
+    id: 'urn:uuid:b53a639a-dc69-5252-b00b-c3e16e85d0bb'
+    link: 'https://pub.dartlang.org/packages/angel_diagnostics'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
