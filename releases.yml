@@ -71497,3 +71497,12 @@
     link: 'https://pub.dartlang.org/packages/simulator_eurl_sasu'
     author:
         - 'Matthieu MAQUEVICE <matthieu.maquevice@imoteq.com>'
+-
+    package_name: superheros
+    package_version: v0.0.3
+    title: 'v0.0.3 of superheros'
+    published: '2016-09-19T21:56:28+00:00'
+    id: 'urn:uuid:b391f521-3d02-59fc-bbcd-e3bdbb2d423a'
+    link: 'https://pub.dartlang.org/packages/superheros'
+    author:
+        - 'Brady Becker <bradybeck@gmail.com>'
