@@ -71479,3 +71479,21 @@
     link: 'https://pub.dartlang.org/packages/simulator_eurl_sasu'
     author:
         - 'Matthieu MAQUEVICE <matthieu.maquevice@imoteq.com>'
+-
+    package_name: angel_configuration
+    package_version: v1.0.1+4
+    title: 'v1.0.1+4 of angel_configuration'
+    published: '2016-09-19T20:39:18+00:00'
+    id: 'urn:uuid:c109d4bf-f89b-5a2e-b5a9-6d706b289c4b'
+    link: 'https://pub.dartlang.org/packages/angel_configuration'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: simulator_eurl_sasu
+    package_version: v0.0.7
+    title: 'v0.0.7 of simulator_eurl_sasu'
+    published: '2016-09-19T20:02:43+00:00'
+    id: 'urn:uuid:7b50c828-29c2-5875-8bdf-7b8dcda91bfd'
+    link: 'https://pub.dartlang.org/packages/simulator_eurl_sasu'
+    author:
+        - 'Matthieu MAQUEVICE <matthieu.maquevice@imoteq.com>'
