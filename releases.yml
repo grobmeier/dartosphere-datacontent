@@ -71385,3 +71385,12 @@
     link: 'https://pub.dartlang.org/packages/furlong'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: element_query
+    package_version: v0.0.1
+    title: 'v0.0.1 of element_query'
+    published: '2016-09-19T04:26:28+00:00'
+    id: 'urn:uuid:dcb0d190-9362-5ca6-8d73-7985059b3927'
+    link: 'https://pub.dartlang.org/packages/element_query'
+    author:
+        - 'Man Hoang <jolleekin@outlook.com>'
