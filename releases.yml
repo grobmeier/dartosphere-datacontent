@@ -71422,3 +71422,21 @@
     author:
         - 'Daniel Domberger <daniel.domberger@exit.live>'
         - 'Martin Flucka <martin.flucka@exit.live>'
+-
+    package_name: built_value_generator
+    package_version: v0.1.3
+    title: 'v0.1.3 of built_value_generator'
+    published: '2016-09-19T15:22:51+00:00'
+    id: 'urn:uuid:929ef292-021d-5fff-8043-b82f42577d30'
+    link: 'https://pub.dartlang.org/packages/built_value_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value
+    package_version: v0.1.3
+    title: 'v0.1.3 of built_value'
+    published: '2016-09-19T15:21:45+00:00'
+    id: 'urn:uuid:ef984cd5-b923-5fd3-9390-b651d082cf63'
+    link: 'https://pub.dartlang.org/packages/built_value'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
