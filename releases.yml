@@ -71394,3 +71394,12 @@
     link: 'https://pub.dartlang.org/packages/element_query'
     author:
         - 'Man Hoang <jolleekin@outlook.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.19
+    title: 'v1.0.0-dev.19 of angel_framework'
+    published: '2016-09-19T06:52:33+00:00'
+    id: 'urn:uuid:a643721d-aa99-58c5-b96c-296808c2088b'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
