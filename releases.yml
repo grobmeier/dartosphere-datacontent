@@ -71506,3 +71506,12 @@
     link: 'https://pub.dartlang.org/packages/superheros'
     author:
         - 'Brady Becker <bradybeck@gmail.com>'
+-
+    package_name: furlong
+    package_version: v1.0.0-dev+1
+    title: 'v1.0.0-dev+1 of furlong'
+    published: '2016-09-20T04:25:09+00:00'
+    id: 'urn:uuid:b6b97542-4634-5b01-be34-35d9945b2cdb'
+    link: 'https://pub.dartlang.org/packages/furlong'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
