@@ -71547,3 +71547,21 @@
     link: 'https://pub.dartlang.org/packages/pubviz'
     author:
         - 'Kevin Moore <kevmoo@google.com>'
+-
+    package_name: meta
+    package_version: v1.0.4
+    title: 'v1.0.4 of meta'
+    published: '2016-09-20T22:30:37+00:00'
+    id: 'urn:uuid:b5580a16-33c3-593e-8511-93435a09143b'
+    link: 'https://pub.dartlang.org/packages/meta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: flutter_services
+    package_version: v0.0.1
+    title: 'v0.0.1 of flutter_services'
+    published: '2016-09-20T22:07:38+00:00'
+    id: 'urn:uuid:318672c9-a40c-5d30-a4d6-df10707d7277'
+    link: 'https://pub.dartlang.org/packages/flutter_services'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
