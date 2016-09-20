@@ -71524,3 +71524,26 @@
     link: 'https://pub.dartlang.org/packages/discord_dart'
     author:
         - 'Hackzzila <admin@hackzzila.com>'
+-
+    package_name: dart_dev
+    package_version: v1.4.2
+    title: 'v1.4.2 of dart_dev'
+    published: '2016-09-20T18:56:56+00:00'
+    id: 'urn:uuid:bf9dec95-096d-5801-b2a1-704d7bbea717'
+    link: 'https://pub.dartlang.org/packages/dart_dev'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: pubviz
+    package_version: v2.3.7
+    title: 'v2.3.7 of pubviz'
+    published: '2016-09-20T18:15:55+00:00'
+    id: 'urn:uuid:878c8971-448c-5bf8-8282-5a295afe2427'
+    link: 'https://pub.dartlang.org/packages/pubviz'
+    author:
+        - 'Kevin Moore <kevmoo@google.com>'
