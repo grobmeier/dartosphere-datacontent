@@ -71646,3 +71646,57 @@
     link: 'https://pub.dartlang.org/packages/angel_auth'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: built_value_generator
+    package_version: v0.1.4
+    title: 'v0.1.4 of built_value_generator'
+    published: '2016-09-21T08:52:11+00:00'
+    id: 'urn:uuid:9f7771f2-742b-5c6d-9f6d-677fb427403b'
+    link: 'https://pub.dartlang.org/packages/built_value_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value
+    package_version: v0.1.4
+    title: 'v0.1.4 of built_value'
+    published: '2016-09-21T08:51:26+00:00'
+    id: 'urn:uuid:85ccd646-bc3d-51cf-9c80-a1228ff792e0'
+    link: 'https://pub.dartlang.org/packages/built_value'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: enum_class_generator
+    package_version: v1.1.0
+    title: 'v1.1.0 of enum_class_generator'
+    published: '2016-09-21T08:34:37+00:00'
+    id: 'urn:uuid:522c1297-7cc7-5256-8665-f205a15144da'
+    link: 'https://pub.dartlang.org/packages/enum_class_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: enum_class
+    package_version: v1.1.0
+    title: 'v1.1.0 of enum_class'
+    published: '2016-09-21T08:33:05+00:00'
+    id: 'urn:uuid:66177c6e-4a18-5cf7-88b2-b295cada507b'
+    link: 'https://pub.dartlang.org/packages/enum_class'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_json_generator
+    package_version: v0.1.3
+    title: 'v0.1.3 of built_json_generator'
+    published: '2016-09-21T08:12:39+00:00'
+    id: 'urn:uuid:265bf4da-8415-5ee6-8a73-86189843fd04'
+    link: 'https://pub.dartlang.org/packages/built_json_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_json
+    package_version: v0.1.3
+    title: 'v0.1.3 of built_json'
+    published: '2016-09-21T08:11:21+00:00'
+    id: 'urn:uuid:d56b20ae-0688-5c50-beee-6cdeba9ed3a5'
+    link: 'https://pub.dartlang.org/packages/built_json'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
