@@ -71700,3 +71700,21 @@
     link: 'https://pub.dartlang.org/packages/built_json'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_json_generator
+    package_version: v0.1.4
+    title: 'v0.1.4 of built_json_generator'
+    published: '2016-09-21T09:11:45+00:00'
+    id: 'urn:uuid:ce55b3af-b9aa-506f-8051-943f4f8861b1'
+    link: 'https://pub.dartlang.org/packages/built_json_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_json
+    package_version: v0.1.4
+    title: 'v0.1.4 of built_json'
+    published: '2016-09-21T09:10:21+00:00'
+    id: 'urn:uuid:8b823c95-5af0-598f-8f51-07bca92319da'
+    link: 'https://pub.dartlang.org/packages/built_json'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
