@@ -71718,3 +71718,12 @@
     link: 'https://pub.dartlang.org/packages/built_json'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: compiler_unsupported
+    package_version: v1.17.0
+    title: 'v1.17.0 of compiler_unsupported'
+    published: '2016-09-21T17:46:01+00:00'
+    id: 'urn:uuid:e1c41b88-72bb-5053-a7a1-dcd005baf0c1'
+    link: 'https://pub.dartlang.org/packages/compiler_unsupported'
+    author:
+        - 'Dart2js Team <compiler-dev@dartlang.org>'
