@@ -71628,3 +71628,21 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.21
+    title: 'v1.0.0-dev.21 of angel_framework'
+    published: '2016-09-21T06:36:53+00:00'
+    id: 'urn:uuid:3b9d44b1-9ede-5eba-8336-cb49eb272de5'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_auth
+    package_version: v1.0.0-dev+6
+    title: 'v1.0.0-dev+6 of angel_auth'
+    published: '2016-09-21T06:20:03+00:00'
+    id: 'urn:uuid:8ddf202d-fdd0-5b7a-aaa8-0fca7a9ba04c'
+    link: 'https://pub.dartlang.org/packages/angel_auth'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
