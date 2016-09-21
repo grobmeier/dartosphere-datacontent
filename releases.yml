@@ -71574,3 +71574,12 @@
     link: 'https://pub.dartlang.org/packages/discord_dart'
     author:
         - 'Hackzzila <admin@hackzzila.com>'
+-
+    package_name: random_users
+    package_version: v0.0.2
+    title: 'v0.0.2 of random_users'
+    published: '2016-09-21T03:50:46+00:00'
+    id: 'urn:uuid:73bfe9cf-0b17-5944-9189-b4485c91d00f'
+    link: 'https://pub.dartlang.org/packages/random_users'
+    author:
+        - 'Brady Becker <bradybeck@gmail.com>'
