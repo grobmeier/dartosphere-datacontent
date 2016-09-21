@@ -71583,3 +71583,30 @@
     link: 'https://pub.dartlang.org/packages/random_users'
     author:
         - 'Brady Becker <bradybeck@gmail.com>'
+-
+    package_name: angel_diagnostics
+    package_version: v1.0.0-dev+2
+    title: 'v1.0.0-dev+2 of angel_diagnostics'
+    published: '2016-09-21T04:49:22+00:00'
+    id: 'urn:uuid:87b98cdd-47c5-58b5-88f4-0c2261992b42'
+    link: 'https://pub.dartlang.org/packages/angel_diagnostics'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: furlong
+    package_version: v1.0.0-dev+4
+    title: 'v1.0.0-dev+4 of furlong'
+    published: '2016-09-21T04:43:34+00:00'
+    id: 'urn:uuid:6fc44e07-62ce-5239-8d25-f1f7c1cc12ae'
+    link: 'https://pub.dartlang.org/packages/furlong'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_mongo
+    package_version: v1.0.0-dev+3
+    title: 'v1.0.0-dev+3 of angel_mongo'
+    published: '2016-09-21T04:28:28+00:00'
+    id: 'urn:uuid:6938d528-86b3-5c10-91ce-66c537f50914'
+    link: 'https://pub.dartlang.org/packages/angel_mongo'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
