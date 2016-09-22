@@ -71799,3 +71799,12 @@
     link: 'https://pub.dartlang.org/packages/angel_auth'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: compiler_unsupported
+    package_version: v1.19.0
+    title: 'v1.19.0 of compiler_unsupported'
+    published: '2016-09-22T02:20:10+00:00'
+    id: 'urn:uuid:6aedca67-2671-5a1f-b9b0-664a4e9d245e'
+    link: 'https://pub.dartlang.org/packages/compiler_unsupported'
+    author:
+        - 'Dart2js Team <compiler-dev@dartlang.org>'
