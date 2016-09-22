@@ -71808,3 +71808,13 @@
     link: 'https://pub.dartlang.org/packages/compiler_unsupported'
     author:
         - 'Dart2js Team <compiler-dev@dartlang.org>'
+-
+    package_name: ng_bootstrap
+    package_version: v0.4.0
+    title: 'v0.4.0 of ng_bootstrap'
+    published: '2016-09-22T04:12:18+00:00'
+    id: 'urn:uuid:1c7ff8df-60f9-5b45-9ad4-656a3f8f2eb2'
+    link: 'https://pub.dartlang.org/packages/ng_bootstrap'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+        - 'Adao Jr. <itsjunnior@gmail.com>'
