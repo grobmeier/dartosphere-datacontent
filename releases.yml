@@ -71827,3 +71827,12 @@
     link: 'https://pub.dartlang.org/packages/angel_auth'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: dnd
+    package_version: v0.3.3
+    title: 'v0.3.3 of dnd'
+    published: '2016-09-22T14:45:52+00:00'
+    id: 'urn:uuid:5264d7b8-c1aa-55a9-bb1f-af5e76262c76'
+    link: 'https://pub.dartlang.org/packages/dnd'
+    author:
+        - 'Marco Jakob <majakob@gmx.ch>'
