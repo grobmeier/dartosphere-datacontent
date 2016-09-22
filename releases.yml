@@ -71781,3 +71781,21 @@
     link: 'https://pub.dartlang.org/packages/compiler_unsupported'
     author:
         - 'Dart2js Team <compiler-dev@dartlang.org>'
+-
+    package_name: angel_cli
+    package_version: v1.0.0-dev+2
+    title: 'v1.0.0-dev+2 of angel_cli'
+    published: '2016-09-21T23:47:34+00:00'
+    id: 'urn:uuid:9cb53888-e8a7-5634-b9e9-6877cbc00a14'
+    link: 'https://pub.dartlang.org/packages/angel_cli'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_auth
+    package_version: v1.0.0-dev+7
+    title: 'v1.0.0-dev+7 of angel_auth'
+    published: '2016-09-21T23:08:55+00:00'
+    id: 'urn:uuid:b2566504-5a0d-582e-b75d-efb2feb39c95'
+    link: 'https://pub.dartlang.org/packages/angel_auth'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
