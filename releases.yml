@@ -71845,3 +71845,14 @@
     link: 'https://pub.dartlang.org/packages/base58check'
     author:
         - 'Steven Roose <stevenroose@gmail.com>'
+-
+    package_name: dartdap
+    package_version: v0.2.0
+    title: 'v0.2.0 of dartdap'
+    published: '2016-09-22T22:53:34+00:00'
+    id: 'urn:uuid:65a11480-887b-5297-aeff-6706a650da87'
+    link: 'https://pub.dartlang.org/packages/dartdap'
+    author:
+        - 'Warren Strange <warren.strange@gmail.com>'
+        - 'Chris Ridd <chrisridd@mac.com>'
+        - 'Hoylen Sue <hoylen@hoylen.com>'
