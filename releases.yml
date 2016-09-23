@@ -71883,3 +71883,12 @@
     link: 'https://pub.dartlang.org/packages/resource'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: resource
+    package_version: v2.0.1
+    title: 'v2.0.1 of resource'
+    published: '2016-09-23T12:08:34+00:00'
+    id: 'urn:uuid:8b2b7070-70ff-5bbc-8c8f-476f1fc7cc88'
+    link: 'https://pub.dartlang.org/packages/resource'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
