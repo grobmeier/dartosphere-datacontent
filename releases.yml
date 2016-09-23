@@ -71910,3 +71910,21 @@
     link: 'https://pub.dartlang.org/packages/pageloader'
     author:
         - 'Marc Fisher II <fisherii@google.com>'
+-
+    package_name: observable
+    package_version: v0.14.0
+    title: 'v0.14.0 of observable'
+    published: '2016-09-23T20:48:35+00:00'
+    id: 'urn:uuid:eacf36bb-8b86-59d3-93d6-be3fd177ece9'
+    link: 'https://pub.dartlang.org/packages/observable'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: linter
+    package_version: v0.1.27
+    title: 'v0.1.27 of linter'
+    published: '2016-09-23T20:47:12+00:00'
+    id: 'urn:uuid:b35cd566-5e2a-5a0e-be04-773fd54fa320'
+    link: 'https://pub.dartlang.org/packages/linter'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
