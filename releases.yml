@@ -71856,3 +71856,12 @@
         - 'Warren Strange <warren.strange@gmail.com>'
         - 'Chris Ridd <chrisridd@mac.com>'
         - 'Hoylen Sue <hoylen@hoylen.com>'
+-
+    package_name: string_editor
+    package_version: v1.0.0-dev+1
+    title: 'v1.0.0-dev+1 of string_editor'
+    published: '2016-09-23T02:33:11+00:00'
+    id: 'urn:uuid:97d17240-be30-566a-af71-a81c9699f268'
+    link: 'https://pub.dartlang.org/packages/string_editor'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
