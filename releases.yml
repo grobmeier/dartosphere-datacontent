@@ -71892,3 +71892,12 @@
     link: 'https://pub.dartlang.org/packages/resource'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: random_users
+    package_version: v0.0.3
+    title: 'v0.0.3 of random_users'
+    published: '2016-09-23T16:08:52+00:00'
+    id: 'urn:uuid:bf369088-ca2e-5858-a1ca-f27a20470150'
+    link: 'https://pub.dartlang.org/packages/random_users'
+    author:
+        - 'Brady Becker <bradybeck@gmail.com>'
