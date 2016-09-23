@@ -71937,3 +71937,12 @@
     link: 'https://pub.dartlang.org/packages/code_builder'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: string_editor
+    package_version: v1.0.0-dev+2
+    title: 'v1.0.0-dev+2 of string_editor'
+    published: '2016-09-23T22:14:21+00:00'
+    id: 'urn:uuid:31d89750-d2e0-55dc-bb7d-0e9043f12d09'
+    link: 'https://pub.dartlang.org/packages/string_editor'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
