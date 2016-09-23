@@ -71874,3 +71874,12 @@
     link: 'https://pub.dartlang.org/packages/ducene'
     author:
         - 'Shinichiro Abe <shinichiro.abe.1@gmail.com>'
+-
+    package_name: resource
+    package_version: v2.0.0
+    title: 'v2.0.0 of resource'
+    published: '2016-09-23T11:58:25+00:00'
+    id: 'urn:uuid:c2104a9b-c3b6-5220-aa4d-6095f3580709'
+    link: 'https://pub.dartlang.org/packages/resource'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
