@@ -71865,3 +71865,12 @@
     link: 'https://pub.dartlang.org/packages/string_editor'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: ducene
+    package_version: v0.0.8
+    title: 'v0.0.8 of ducene'
+    published: '2016-09-23T08:34:00+00:00'
+    id: 'urn:uuid:6538b430-b5aa-58ac-9004-6b376b99b5c2'
+    link: 'https://pub.dartlang.org/packages/ducene'
+    author:
+        - 'Shinichiro Abe <shinichiro.abe.1@gmail.com>'
