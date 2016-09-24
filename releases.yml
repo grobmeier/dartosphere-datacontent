@@ -71955,3 +71955,12 @@
     link: 'https://pub.dartlang.org/packages/stagexl_bitmapfont'
     author:
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: body_parser
+    package_version: v1.0.0-dev+1
+    title: 'v1.0.0-dev+1 of body_parser'
+    published: '2016-09-24T18:30:30+00:00'
+    id: 'urn:uuid:9c190e1f-52b5-5a87-8d2b-89f16b0df0b8'
+    link: 'https://pub.dartlang.org/packages/body_parser'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
