@@ -71991,3 +71991,12 @@
     link: 'https://pub.dartlang.org/packages/discord_dart'
     author:
         - 'Hackzzila <admin@hackzzila.com>'
+-
+    package_name: discord_dart
+    package_version: v0.9.0
+    title: 'v0.9.0 of discord_dart'
+    published: '2016-09-25T03:56:04+00:00'
+    id: 'urn:uuid:da681166-0e6d-5c5d-a16f-e33046ccd90b'
+    link: 'https://pub.dartlang.org/packages/discord_dart'
+    author:
+        - 'Hackzzila <admin@hackzzila.com>'
