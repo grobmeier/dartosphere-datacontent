@@ -71982,3 +71982,12 @@
     link: 'https://pub.dartlang.org/packages/dartabase_migration'
     author:
         - 'Hannes Rammer <Hannes.Rammer@gmail.com>'
+-
+    package_name: discord_dart
+    package_version: v0.8.0
+    title: 'v0.8.0 of discord_dart'
+    published: '2016-09-25T02:07:38+00:00'
+    id: 'urn:uuid:fa91c2a2-2486-5ca3-aa67-96acaecb8e70'
+    link: 'https://pub.dartlang.org/packages/discord_dart'
+    author:
+        - 'Hackzzila <admin@hackzzila.com>'
