@@ -71973,3 +71973,12 @@
     link: 'https://pub.dartlang.org/packages/toml'
     author:
         - 'Justin Andresen <jan.dresen.95@gmail.com>'
+-
+    package_name: dartabase_migration
+    package_version: v1.1.3
+    title: 'v1.1.3 of dartabase_migration'
+    published: '2016-09-25T01:53:40+00:00'
+    id: 'urn:uuid:fdea0620-b8d7-5755-920f-22813ca40a04'
+    link: 'https://pub.dartlang.org/packages/dartabase_migration'
+    author:
+        - 'Hannes Rammer <Hannes.Rammer@gmail.com>'
