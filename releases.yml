@@ -72000,3 +72000,21 @@
     link: 'https://pub.dartlang.org/packages/discord_dart'
     author:
         - 'Hackzzila <admin@hackzzila.com>'
+-
+    package_name: just_jwt
+    package_version: v1.0.0
+    title: 'v1.0.0 of just_jwt'
+    published: '2016-09-25T14:38:56+00:00'
+    id: 'urn:uuid:91fc5e1b-ec09-5821-b7e1-c0d5df146966'
+    link: 'https://pub.dartlang.org/packages/just_jwt'
+    author:
+        - 'Tomas Szabo <tomas.szabo@deftomat.com>'
+-
+    package_name: dartz
+    package_version: v0.3.5
+    title: 'v0.3.5 of dartz'
+    published: '2016-09-25T14:38:05+00:00'
+    id: 'urn:uuid:724389d3-de59-5212-86cf-19cce20e3d78'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
