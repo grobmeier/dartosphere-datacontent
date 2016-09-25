@@ -72018,3 +72018,15 @@
     link: 'https://pub.dartlang.org/packages/dartz'
     author:
         - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: bootstrap
+    package_version: v3.3.7
+    title: 'v3.3.7 of bootstrap'
+    published: '2016-09-25T16:10:17+00:00'
+    id: 'urn:uuid:cd93b4de-096f-5345-a044-6f64007bdfbf'
+    link: 'https://pub.dartlang.org/packages/bootstrap'
+    author:
+        - 'Bootstrap core team'
+        - 'Victor Berchet <victor@suumit.com>'
+        - 'Seth Ladd <sethladd@gmail.com>'
+        - 'Richer Larivière <richerlariviere@gmail.com>'
