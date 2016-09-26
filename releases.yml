@@ -72075,3 +72075,23 @@
     link: 'https://pub.dartlang.org/packages/discord_dart'
     author:
         - 'Hackzzila <admin@hackzzila.com>'
+-
+    package_name: just_jwt
+    package_version: v1.1.0
+    title: 'v1.1.0 of just_jwt'
+    published: '2016-09-26T07:14:25+00:00'
+    id: 'urn:uuid:b9c44ff2-f616-5ae6-aa63-b945b7e2260f'
+    link: 'https://pub.dartlang.org/packages/just_jwt'
+    author:
+        - 'Tomas Szabo <tomas.szabo@deftomat.com>'
+-
+    package_name: dartdap
+    package_version: v0.2.1
+    title: 'v0.2.1 of dartdap'
+    published: '2016-09-26T07:13:52+00:00'
+    id: 'urn:uuid:8a53abd5-dbdb-5f5f-9d16-fde6c09b92db'
+    link: 'https://pub.dartlang.org/packages/dartdap'
+    author:
+        - 'Warren Strange <warren.strange@gmail.com>'
+        - 'Chris Ridd <chrisridd@mac.com>'
+        - 'Hoylen Sue <hoylen@hoylen.com>'
