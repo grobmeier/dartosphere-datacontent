@@ -72039,3 +72039,21 @@
     link: 'https://pub.dartlang.org/packages/postgresql'
     author:
         - 'Greg Lowe <greg@vis.net.nz>'
+-
+    package_name: mustache
+    package_version: v0.2.5+1
+    title: 'v0.2.5+1 of mustache'
+    published: '2016-09-25T23:55:01+00:00'
+    id: 'urn:uuid:4f5ac1ea-7311-5c7f-81b9-b9cc1dfcbb26'
+    link: 'https://pub.dartlang.org/packages/mustache'
+    author:
+        - 'Greg Lowe <greg@vis.net.nz>'
+-
+    package_name: postgresql
+    package_version: v0.3.4+1
+    title: 'v0.3.4+1 of postgresql'
+    published: '2016-09-25T23:23:03+00:00'
+    id: 'urn:uuid:db01904d-a415-5784-9f2c-11a8f283b736'
+    link: 'https://pub.dartlang.org/packages/postgresql'
+    author:
+        - 'Greg Lowe <greg@vis.net.nz>'
