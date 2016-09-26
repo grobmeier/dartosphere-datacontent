@@ -72066,3 +72066,12 @@
     link: 'https://pub.dartlang.org/packages/discord_dart'
     author:
         - 'Hackzzila <admin@hackzzila.com>'
+-
+    package_name: discord_dart
+    package_version: v0.10.2
+    title: 'v0.10.2 of discord_dart'
+    published: '2016-09-26T01:52:22+00:00'
+    id: 'urn:uuid:9f8c397a-f365-55ff-a9e4-bbb2e31afe97'
+    link: 'https://pub.dartlang.org/packages/discord_dart'
+    author:
+        - 'Hackzzila <admin@hackzzila.com>'
