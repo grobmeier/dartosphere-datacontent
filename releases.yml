@@ -72057,3 +72057,12 @@
     link: 'https://pub.dartlang.org/packages/postgresql'
     author:
         - 'Greg Lowe <greg@vis.net.nz>'
+-
+    package_name: discord_dart
+    package_version: v0.10.0
+    title: 'v0.10.0 of discord_dart'
+    published: '2016-09-26T00:17:20+00:00'
+    id: 'urn:uuid:cba1cfb1-dffd-55dd-9930-87fa6a8ea0d1'
+    link: 'https://pub.dartlang.org/packages/discord_dart'
+    author:
+        - 'Hackzzila <admin@hackzzila.com>'
