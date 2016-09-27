@@ -72178,3 +72178,12 @@
     link: 'https://pub.dartlang.org/packages/browser_cli'
     author:
         - 'Nathan Karasch <nathankarasch@gmail.com>'
+-
+    package_name: async
+    package_version: v1.11.2
+    title: 'v1.11.2 of async'
+    published: '2016-09-27T10:19:58+00:00'
+    id: 'urn:uuid:9857e128-ac03-542f-96ae-33e8e283056f'
+    link: 'https://pub.dartlang.org/packages/async'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
