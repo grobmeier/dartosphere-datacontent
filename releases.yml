@@ -72169,3 +72169,12 @@
     link: 'https://pub.dartlang.org/packages/angular2'
     author:
         - 'Dart Team <web@dartlang.org>'
+-
+    package_name: browser_cli
+    package_version: v1.0.0-alpha.1
+    title: 'v1.0.0-alpha.1 of browser_cli'
+    published: '2016-09-27T06:17:28+00:00'
+    id: 'urn:uuid:5e8da9b0-e81f-5331-b412-15bba8db4ef4'
+    link: 'https://pub.dartlang.org/packages/browser_cli'
+    author:
+        - 'Nathan Karasch <nathankarasch@gmail.com>'
