@@ -72205,3 +72205,12 @@
     link: 'https://pub.dartlang.org/packages/mockito'
     author:
         - 'Dmitriy Fibulwinter <fibulwinter@gmail.com>'
+-
+    package_name: discord
+    package_version: v0.10.4
+    title: 'v0.10.4 of discord'
+    published: '2016-09-28T01:47:35+00:00'
+    id: 'urn:uuid:f6d78e3b-4a73-59d9-b3d8-2f4590056988'
+    link: 'https://pub.dartlang.org/packages/discord'
+    author:
+        - 'Hackzzila <admin@hackzzila.com>'
