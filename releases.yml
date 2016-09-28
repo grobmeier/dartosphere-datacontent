@@ -72196,3 +72196,12 @@
     link: 'https://pub.dartlang.org/packages/slickdart'
     author:
         - 'CJKAO <kaopeter@gmail.com>, tonosama-atlacatl, yyyangd'
+-
+    package_name: mockito
+    package_version: v1.0.1
+    title: 'v1.0.1 of mockito'
+    published: '2016-09-28T00:53:35+00:00'
+    id: 'urn:uuid:5057824e-7220-50a8-bcd2-3284c9fdb54c'
+    link: 'https://pub.dartlang.org/packages/mockito'
+    author:
+        - 'Dmitriy Fibulwinter <fibulwinter@gmail.com>'
