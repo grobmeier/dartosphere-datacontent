@@ -72277,3 +72277,12 @@
     link: 'https://pub.dartlang.org/packages/material2_dart'
     author:
         - 'ntaoo <ntaoo.g@gmail.com>'
+-
+    package_name: fs_shim
+    package_version: v0.6.3
+    title: 'v0.6.3 of fs_shim'
+    published: '2016-09-28T14:42:47+00:00'
+    id: 'urn:uuid:2cb8e339-919d-5e0f-9bda-ef60f3c6e62e'
+    link: 'https://pub.dartlang.org/packages/fs_shim'
+    author:
+        - 'Tekartik <alex@tekartik.com>'
