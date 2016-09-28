@@ -72286,3 +72286,12 @@
     link: 'https://pub.dartlang.org/packages/fs_shim'
     author:
         - 'Tekartik <alex@tekartik.com>'
+-
+    package_name: edit_distance
+    package_version: v0.1.0
+    title: 'v0.1.0 of edit_distance'
+    published: '2016-09-28T19:53:49+00:00'
+    id: 'urn:uuid:cf9701f2-6503-5b97-ad13-4745cd116370'
+    link: 'https://pub.dartlang.org/packages/edit_distance'
+    author:
+        - 'Kwang Yul Seo <email@example.com>'
