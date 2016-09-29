@@ -72322,3 +72322,12 @@
     link: 'https://pub.dartlang.org/packages/woomera'
     author:
         - 'Hoylen Sue <hoylen@hoylen.com>'
+-
+    package_name: dorm
+    package_version: v1.0.34
+    title: 'v1.0.34 of dorm'
+    published: '2016-09-29T07:31:28+00:00'
+    id: 'urn:uuid:661deb37-9a44-552a-b048-32a1252340f4'
+    link: 'https://pub.dartlang.org/packages/dorm'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
