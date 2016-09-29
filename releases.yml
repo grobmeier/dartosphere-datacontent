@@ -72331,3 +72331,21 @@
     link: 'https://pub.dartlang.org/packages/dorm'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: stack_trace
+    package_version: v1.6.7
+    title: 'v1.6.7 of stack_trace'
+    published: '2016-09-29T19:51:08+00:00'
+    id: 'urn:uuid:bd06056f-034d-59c9-bd72-16404efe4a9a'
+    link: 'https://pub.dartlang.org/packages/stack_trace'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: fortune_1000_companies
+    package_version: v0.0.1
+    title: 'v0.0.1 of fortune_1000_companies'
+    published: '2016-09-29T19:33:16+00:00'
+    id: 'urn:uuid:7553fb6e-3bfa-5c23-b3fb-8b1e63574f94'
+    link: 'https://pub.dartlang.org/packages/fortune_1000_companies'
+    author:
+        - 'Brady Becker <bradybeck@gmail.com>'
