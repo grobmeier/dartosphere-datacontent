@@ -72349,3 +72349,21 @@
     link: 'https://pub.dartlang.org/packages/fortune_1000_companies'
     author:
         - 'Brady Becker <bradybeck@gmail.com>'
+-
+    package_name: safe_config
+    package_version: v1.1.0
+    title: 'v1.1.0 of safe_config'
+    published: '2016-09-29T22:50:46+00:00'
+    id: 'urn:uuid:3e772b7d-ad49-572b-ab70-9725a6754c12'
+    link: 'https://pub.dartlang.org/packages/safe_config'
+    author:
+        - 'Joe Conway <joe.conway@stablekernel.com>'
+-
+    package_name: discord
+    package_version: v0.10.5
+    title: 'v0.10.5 of discord'
+    published: '2016-09-29T22:20:27+00:00'
+    id: 'urn:uuid:e9536db7-3c36-5d76-b0ff-264a961fb35b'
+    link: 'https://pub.dartlang.org/packages/discord'
+    author:
+        - 'Hackzzila <admin@hackzzila.com>'
