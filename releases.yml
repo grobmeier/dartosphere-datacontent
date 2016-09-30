@@ -72403,3 +72403,12 @@
     link: 'https://pub.dartlang.org/packages/postgres'
     author:
         - 'stable|kernel <jobs@stablekernel.com>'
+-
+    package_name: envsubst
+    package_version: v0.1.0
+    title: 'v0.1.0 of envsubst'
+    published: '2016-09-30T12:49:50+00:00'
+    id: 'urn:uuid:275aec90-6cdb-50b9-b842-cd670e10d96c'
+    link: 'https://pub.dartlang.org/packages/envsubst'
+    author:
+        - 'Kwang Yul Seo <email@example.com>'
