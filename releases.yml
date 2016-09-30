@@ -72439,3 +72439,12 @@
     link: 'https://pub.dartlang.org/packages/observe'
     author:
         - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: dartabase_core
+    package_version: v0.6.0
+    title: 'v0.6.0 of dartabase_core'
+    published: '2016-09-30T19:07:36+00:00'
+    id: 'urn:uuid:fc7dbd2f-95b9-5e9a-b1f8-4fc8f3243239'
+    link: 'https://pub.dartlang.org/packages/dartabase_core'
+    author:
+        - 'Hannes Rammer <Hannes.Rammer@gmail.com>'
