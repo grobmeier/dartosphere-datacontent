@@ -72367,3 +72367,12 @@
     link: 'https://pub.dartlang.org/packages/discord'
     author:
         - 'Hackzzila <admin@hackzzila.com>'
+-
+    package_name: scribe
+    package_version: v0.2.0
+    title: 'v0.2.0 of scribe'
+    published: '2016-09-29T23:23:38+00:00'
+    id: 'urn:uuid:5940fedf-4fc3-56fc-9c66-e877701996a2'
+    link: 'https://pub.dartlang.org/packages/scribe'
+    author:
+        - 'stable|kernel <http://stablekernel.com>'
