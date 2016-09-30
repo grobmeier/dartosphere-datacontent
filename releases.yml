@@ -72421,3 +72421,21 @@
     link: 'https://pub.dartlang.org/packages/envsubst'
     author:
         - 'Kwang Yul Seo <email@example.com>'
+-
+    package_name: template_binding
+    package_version: v0.14.0+5
+    title: 'v0.14.0+5 of template_binding'
+    published: '2016-09-30T18:29:42+00:00'
+    id: 'urn:uuid:3540249b-e0df-5ae6-bdf2-7be083d01bdb'
+    link: 'https://pub.dartlang.org/packages/template_binding'
+    author:
+        - 'Polymer.dart Team <web-ui-dev@dartlang.org>'
+-
+    package_name: observe
+    package_version: v0.14.0
+    title: 'v0.14.0 of observe'
+    published: '2016-09-30T18:03:40+00:00'
+    id: 'urn:uuid:60c6bb4b-77c7-50f3-9310-5881dcfbf5a2'
+    link: 'https://pub.dartlang.org/packages/observe'
+    author:
+        - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
