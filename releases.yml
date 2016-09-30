@@ -72412,3 +72412,12 @@
     link: 'https://pub.dartlang.org/packages/envsubst'
     author:
         - 'Kwang Yul Seo <email@example.com>'
+-
+    package_name: envsubst
+    package_version: v0.1.1
+    title: 'v0.1.1 of envsubst'
+    published: '2016-09-30T14:42:27+00:00'
+    id: 'urn:uuid:60f7d6ba-1ceb-5ea7-b1fe-f835d5ce10a5'
+    link: 'https://pub.dartlang.org/packages/envsubst'
+    author:
+        - 'Kwang Yul Seo <email@example.com>'
