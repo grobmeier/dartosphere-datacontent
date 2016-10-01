@@ -72466,3 +72466,12 @@
     link: 'https://pub.dartlang.org/packages/dart2js_info'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: args
+    package_version: v0.13.6
+    title: 'v0.13.6 of args'
+    published: '2016-09-30T23:00:49+00:00'
+    id: 'urn:uuid:b7fc60fa-e392-5fbe-809d-cfef1da2364a'
+    link: 'https://pub.dartlang.org/packages/args'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
