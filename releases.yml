@@ -72484,3 +72484,12 @@
     link: 'https://pub.dartlang.org/packages/html_parser'
     author:
         - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: handlebars
+    package_version: v0.2.0
+    title: 'v0.2.0 of handlebars'
+    published: '2016-10-01T02:45:57+00:00'
+    id: 'urn:uuid:c6054d3d-b377-59b3-84cf-a652bc0f110e'
+    link: 'https://pub.dartlang.org/packages/handlebars'
+    author:
+        - 'Fluidic Team <dev@fluidic.io>'
