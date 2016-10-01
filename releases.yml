@@ -72475,3 +72475,12 @@
     link: 'https://pub.dartlang.org/packages/args'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: html_parser
+    package_version: v0.1.1
+    title: 'v0.1.1 of html_parser'
+    published: '2016-10-01T01:46:55+00:00'
+    id: 'urn:uuid:4e368e0d-8e5f-551f-8ff4-42f2543e7ef9'
+    link: 'https://pub.dartlang.org/packages/html_parser'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
