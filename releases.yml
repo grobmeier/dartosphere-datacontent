@@ -72493,3 +72493,12 @@
     link: 'https://pub.dartlang.org/packages/handlebars'
     author:
         - 'Fluidic Team <dev@fluidic.io>'
+-
+    package_name: objectory
+    package_version: v0.5.5
+    title: 'v0.5.5 of objectory'
+    published: '2016-10-01T08:21:14+00:00'
+    id: 'urn:uuid:edde34d6-2edc-5971-99f2-05793ddec135'
+    link: 'https://pub.dartlang.org/packages/objectory'
+    author:
+        - 'Vadim Tsushko <vadimtsushko@gmail.com>'
