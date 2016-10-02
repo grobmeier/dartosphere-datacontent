@@ -72520,3 +72520,12 @@
     link: 'https://pub.dartlang.org/packages/html_parser'
     author:
         - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: dartz
+    package_version: v0.3.6
+    title: 'v0.3.6 of dartz'
+    published: '2016-10-02T15:12:27+00:00'
+    id: 'urn:uuid:a32e08be-f421-565b-b7c1-a9204fc32501'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
