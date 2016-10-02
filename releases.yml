@@ -72511,3 +72511,12 @@
     link: 'https://pub.dartlang.org/packages/html_parser'
     author:
         - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: html_parser
+    package_version: v0.4.0
+    title: 'v0.4.0 of html_parser'
+    published: '2016-10-02T05:45:06+00:00'
+    id: 'urn:uuid:582ee84c-7d94-5adc-94c3-8658a99138c6'
+    link: 'https://pub.dartlang.org/packages/html_parser'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
