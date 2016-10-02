@@ -72529,3 +72529,12 @@
     link: 'https://pub.dartlang.org/packages/dartz'
     author:
         - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: discord
+    package_version: v0.11.1
+    title: 'v0.11.1 of discord'
+    published: '2016-10-02T22:50:44+00:00'
+    id: 'urn:uuid:8aeedf59-b278-592a-84c7-ee16e3d470ec'
+    link: 'https://pub.dartlang.org/packages/discord'
+    author:
+        - 'Hackzzila <admin@hackzzila.com>'
