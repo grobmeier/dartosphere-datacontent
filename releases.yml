@@ -72565,3 +72565,12 @@
     link: 'https://pub.dartlang.org/packages/bytes_data_builder'
     author:
         - 'Kurt Morris <kurt.morris.work@gmail.com>'
+-
+    package_name: bytes_data_builder
+    package_version: v0.1.3
+    title: 'v0.1.3 of bytes_data_builder'
+    published: '2016-10-03T12:01:34+00:00'
+    id: 'urn:uuid:cd54c61a-558d-564a-afde-29aac7d3a98e'
+    link: 'https://pub.dartlang.org/packages/bytes_data_builder'
+    author:
+        - 'Kurt Morris <kurt.morris.work@gmail.com>'
