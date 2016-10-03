@@ -72538,3 +72538,12 @@
     link: 'https://pub.dartlang.org/packages/discord'
     author:
         - 'Hackzzila <admin@hackzzila.com>'
+-
+    package_name: shelf_route
+    package_version: v0.14.3
+    title: 'v0.14.3 of shelf_route'
+    published: '2016-10-03T00:44:06+00:00'
+    id: 'urn:uuid:954fccb9-cfed-55f2-8ff8-2ba2f64ddb9b'
+    link: 'https://pub.dartlang.org/packages/shelf_route'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
