@@ -72610,3 +72610,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_expressions'
     author:
         - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: polymer
+    package_version: v0.16.4+4
+    title: 'v0.16.4+4 of polymer'
+    published: '2016-10-03T21:30:58+00:00'
+    id: 'urn:uuid:305d23dc-c5fc-5032-b80a-4dbc8b3c7877'
+    link: 'https://pub.dartlang.org/packages/polymer'
+    author:
+        - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
