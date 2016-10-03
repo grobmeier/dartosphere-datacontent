@@ -72574,3 +72574,12 @@
     link: 'https://pub.dartlang.org/packages/bytes_data_builder'
     author:
         - 'Kurt Morris <kurt.morris.work@gmail.com>'
+-
+    package_name: shelf_serve
+    package_version: v0.2.3
+    title: 'v0.2.3 of shelf_serve'
+    published: '2016-10-03T14:06:51+00:00'
+    id: 'urn:uuid:5dbcf441-fe81-5ad0-8e42-153e54f8de74'
+    link: 'https://pub.dartlang.org/packages/shelf_serve'
+    author:
+        - 'Rik Bellens <rik.bellens@appsup.be>'
