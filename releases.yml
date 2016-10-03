@@ -72547,3 +72547,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_route'
     author:
         - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: dartabase_core
+    package_version: v0.6.0+1
+    title: 'v0.6.0+1 of dartabase_core'
+    published: '2016-10-03T03:31:42+00:00'
+    id: 'urn:uuid:75fc5f63-d235-5282-8029-0f3c5b2758b6'
+    link: 'https://pub.dartlang.org/packages/dartabase_core'
+    author:
+        - 'Hannes Rammer <Hannes.Rammer@gmail.com>'
