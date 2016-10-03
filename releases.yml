@@ -72556,3 +72556,12 @@
     link: 'https://pub.dartlang.org/packages/dartabase_core'
     author:
         - 'Hannes Rammer <Hannes.Rammer@gmail.com>'
+-
+    package_name: bytes_data_builder
+    package_version: v0.1.2
+    title: 'v0.1.2 of bytes_data_builder'
+    published: '2016-10-03T11:58:59+00:00'
+    id: 'urn:uuid:46484281-8d36-5be4-b35e-d85cd677d676'
+    link: 'https://pub.dartlang.org/packages/bytes_data_builder'
+    author:
+        - 'Kurt Morris <kurt.morris.work@gmail.com>'
