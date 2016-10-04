@@ -72646,3 +72646,21 @@
     link: 'https://pub.dartlang.org/packages/core_elements'
     author:
         - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: test_reflective_loader
+    package_version: v0.1.0
+    title: 'v0.1.0 of test_reflective_loader'
+    published: '2016-10-04T19:48:08+00:00'
+    id: 'urn:uuid:3724c244-9440-5c03-94b5-19937686fcab'
+    link: 'https://pub.dartlang.org/packages/test_reflective_loader'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: core_elements
+    package_version: v0.7.1+8
+    title: 'v0.7.1+8 of core_elements'
+    published: '2016-10-04T19:27:14+00:00'
+    id: 'urn:uuid:4f238bec-e9f6-5ead-920e-f3826192d204'
+    link: 'https://pub.dartlang.org/packages/core_elements'
+    author:
+        - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
