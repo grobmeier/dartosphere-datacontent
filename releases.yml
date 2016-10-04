@@ -72637,3 +72637,12 @@
     link: 'https://pub.dartlang.org/packages/edit_distance'
     author:
         - 'Kwang Yul Seo <email@example.com>'
+-
+    package_name: core_elements
+    package_version: v0.7.1+7
+    title: 'v0.7.1+7 of core_elements'
+    published: '2016-10-04T15:43:38+00:00'
+    id: 'urn:uuid:3ebbbe87-5d3e-5d60-b1ef-b62e2bea4900'
+    link: 'https://pub.dartlang.org/packages/core_elements'
+    author:
+        - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
