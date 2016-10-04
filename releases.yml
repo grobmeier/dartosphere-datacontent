@@ -72628,3 +72628,12 @@
     link: 'https://pub.dartlang.org/packages/bytes_data_builder'
     author:
         - 'Kurt Morris <kurt.morris.work@gmail.com>'
+-
+    package_name: edit_distance
+    package_version: v0.2.0
+    title: 'v0.2.0 of edit_distance'
+    published: '2016-10-04T09:49:59+00:00'
+    id: 'urn:uuid:8436810d-fcee-5e69-bbc4-bf132e37741e'
+    link: 'https://pub.dartlang.org/packages/edit_distance'
+    author:
+        - 'Kwang Yul Seo <email@example.com>'
