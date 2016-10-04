@@ -72619,3 +72619,12 @@
     link: 'https://pub.dartlang.org/packages/polymer'
     author:
         - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: bytes_data_builder
+    package_version: v0.1.4
+    title: 'v0.1.4 of bytes_data_builder'
+    published: '2016-10-04T06:02:44+00:00'
+    id: 'urn:uuid:89a172e2-4ae6-5007-b3bf-256e94ac9fc4'
+    link: 'https://pub.dartlang.org/packages/bytes_data_builder'
+    author:
+        - 'Kurt Morris <kurt.morris.work@gmail.com>'
