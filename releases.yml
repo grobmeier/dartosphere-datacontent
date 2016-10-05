@@ -72677,3 +72677,12 @@
         - 'Paul Evans <pevans@sonardesign.com>'
         - 'Stéphane Este-Gracias <sestegra@gmail.com>'
         - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
+-
+    package_name: timeago
+    package_version: v0.1.2
+    title: 'v0.1.2 of timeago'
+    published: '2016-10-04T23:04:42+00:00'
+    id: 'urn:uuid:1aa37e3e-bdbe-5cf9-85ee-9f67d83aceba'
+    link: 'https://pub.dartlang.org/packages/timeago'
+    author:
+        - 'Andres Araujo <a.araujo.azua@gmail.com>'
