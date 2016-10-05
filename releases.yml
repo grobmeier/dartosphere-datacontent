@@ -72713,3 +72713,12 @@
     link: 'https://pub.dartlang.org/packages/analyzer'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: isolate_cluster
+    package_version: v0.11.0
+    title: 'v0.11.0 of isolate_cluster'
+    published: '2016-10-05T20:46:02+00:00'
+    id: 'urn:uuid:f1705a8c-140f-5f2e-94ff-a26483f1aac5'
+    link: 'https://pub.dartlang.org/packages/isolate_cluster'
+    author:
+        - 'Oliver Damm <oliver.damm@gmx.de>'
