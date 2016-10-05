@@ -72722,3 +72722,12 @@
     link: 'https://pub.dartlang.org/packages/isolate_cluster'
     author:
         - 'Oliver Damm <oliver.damm@gmx.de>'
+-
+    package_name: dartson
+    package_version: v0.2.6
+    title: 'v0.2.6 of dartson'
+    published: '2016-10-05T21:04:10+00:00'
+    id: 'urn:uuid:3a7de54a-d5f5-57f5-ac46-d0e8f2796c30'
+    link: 'https://pub.dartlang.org/packages/dartson'
+    author:
+        - 'Eric Schneller <eric@schnellers.name>'
