@@ -72686,3 +72686,12 @@
     link: 'https://pub.dartlang.org/packages/timeago'
     author:
         - 'Andres Araujo <a.araujo.azua@gmail.com>'
+-
+    package_name: bson_objectid
+    package_version: v0.1.0
+    title: 'v0.1.0 of bson_objectid'
+    published: '2016-10-05T15:34:11+00:00'
+    id: 'urn:uuid:c1de5018-aed2-58a2-994e-f1e1c78110f4'
+    link: 'https://pub.dartlang.org/packages/bson_objectid'
+    author:
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
