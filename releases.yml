@@ -72767,3 +72767,12 @@
     link: 'https://pub.dartlang.org/packages/googleapis_auth_default_credentials'
     author:
         - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: dartabase_core
+    package_version: v0.6.1
+    title: 'v0.6.1 of dartabase_core'
+    published: '2016-10-06T13:07:47+00:00'
+    id: 'urn:uuid:36fc6fa6-8b1a-5da6-80c4-09bd8739a53b'
+    link: 'https://pub.dartlang.org/packages/dartabase_core'
+    author:
+        - 'Hannes Rammer <Hannes.Rammer@gmail.com>'
