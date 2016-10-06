@@ -72749,3 +72749,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_element'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: isolate_cluster
+    package_version: v0.11.1
+    title: 'v0.11.1 of isolate_cluster'
+    published: '2016-10-06T10:36:19+00:00'
+    id: 'urn:uuid:9ba2ca90-5c58-5d5d-83c5-024b9be1e183'
+    link: 'https://pub.dartlang.org/packages/isolate_cluster'
+    author:
+        - 'Oliver Damm <oliver.damm@gmx.de>'
