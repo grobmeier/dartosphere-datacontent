@@ -72758,3 +72758,12 @@
     link: 'https://pub.dartlang.org/packages/isolate_cluster'
     author:
         - 'Oliver Damm <oliver.damm@gmx.de>'
+-
+    package_name: googleapis_auth_default_credentials
+    package_version: v0.1.0
+    title: 'v0.1.0 of googleapis_auth_default_credentials'
+    published: '2016-10-06T11:29:23+00:00'
+    id: 'urn:uuid:5c7cb13a-2c60-517f-a56a-649b0c91f58b'
+    link: 'https://pub.dartlang.org/packages/googleapis_auth_default_credentials'
+    author:
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
