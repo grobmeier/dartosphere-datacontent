@@ -72785,3 +72785,12 @@
     link: 'https://pub.dartlang.org/packages/dart2js_info'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: yaml
+    package_version: v2.1.11
+    title: 'v2.1.11 of yaml'
+    published: '2016-10-06T20:28:56+00:00'
+    id: 'urn:uuid:84824c34-dbe7-5fb7-a139-9c4ecd74bfef'
+    link: 'https://pub.dartlang.org/packages/yaml'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
