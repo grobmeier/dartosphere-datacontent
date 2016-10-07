@@ -72839,3 +72839,12 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dartz
+    package_version: v0.4.0
+    title: 'v0.4.0 of dartz'
+    published: '2016-10-07T20:11:59+00:00'
+    id: 'urn:uuid:69ab685e-c6a0-546b-8e30-22f89e312a5c'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
