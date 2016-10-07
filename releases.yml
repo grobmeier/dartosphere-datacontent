@@ -72830,3 +72830,12 @@
     link: 'https://pub.dartlang.org/packages/resource'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dartdoc
+    package_version: v0.9.7+6
+    title: 'v0.9.7+6 of dartdoc'
+    published: '2016-10-07T19:54:17+00:00'
+    id: 'urn:uuid:b9ea9769-d1b8-5187-a548-bddb8ea8bae8'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
