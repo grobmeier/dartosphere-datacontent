@@ -72812,3 +72812,12 @@
     link: 'https://pub.dartlang.org/packages/dartins'
     author:
         - 'Nathan Kerr <nathanker@gmail.com>'
+-
+    package_name: sembast
+    package_version: v1.3.5
+    title: 'v1.3.5 of sembast'
+    published: '2016-10-07T10:04:35+00:00'
+    id: 'urn:uuid:a9073da5-5d3e-5f0d-9aed-7711c614abde'
+    link: 'https://pub.dartlang.org/packages/sembast'
+    author:
+        - 'Alexandre Roux Tekartik <alex.tekartik.pub@gmail.com>'
