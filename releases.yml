@@ -72848,3 +72848,12 @@
     link: 'https://pub.dartlang.org/packages/dartz'
     author:
         - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.22
+    title: 'v1.0.0-dev.22 of angel_framework'
+    published: '2016-10-07T21:39:53+00:00'
+    id: 'urn:uuid:7b55af1e-d8cc-5931-b992-fe0b2ca160ac'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
