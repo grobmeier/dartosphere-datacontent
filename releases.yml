@@ -72821,3 +72821,12 @@
     link: 'https://pub.dartlang.org/packages/sembast'
     author:
         - 'Alexandre Roux Tekartik <alex.tekartik.pub@gmail.com>'
+-
+    package_name: resource
+    package_version: v2.0.2
+    title: 'v2.0.2 of resource'
+    published: '2016-10-07T11:10:43+00:00'
+    id: 'urn:uuid:397b2816-5c48-58fc-b241-2d8e012897af'
+    link: 'https://pub.dartlang.org/packages/resource'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
