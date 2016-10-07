@@ -72794,3 +72794,12 @@
     link: 'https://pub.dartlang.org/packages/yaml'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dart_style
+    package_version: v0.2.11
+    title: 'v0.2.11 of dart_style'
+    published: '2016-10-07T00:28:01+00:00'
+    id: 'urn:uuid:5fae2fad-e369-51dc-b818-f5456c621311'
+    link: 'https://pub.dartlang.org/packages/dart_style'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
