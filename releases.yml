@@ -72866,3 +72866,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_auth'
     author:
         - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: typed_struct
+    package_version: v0.1.0-dev
+    title: 'v0.1.0-dev of typed_struct'
+    published: '2016-10-08T07:36:17+00:00'
+    id: 'urn:uuid:c5f214f9-b130-5984-96ca-5b7167a422c2'
+    link: 'https://pub.dartlang.org/packages/typed_struct'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
