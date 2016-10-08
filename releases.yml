@@ -72902,3 +72902,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_element'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: bson_codec
+    package_version: v0.1.0
+    title: 'v0.1.0 of bson_codec'
+    published: '2016-10-08T18:34:27+00:00'
+    id: 'urn:uuid:c32513f8-4ea1-5c4a-854e-08e170d73150'
+    link: 'https://pub.dartlang.org/packages/bson_codec'
+    author:
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
