@@ -72884,3 +72884,21 @@
     link: 'https://pub.dartlang.org/packages/angel_auth'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: html_parser
+    package_version: v0.5.0
+    title: 'v0.5.0 of html_parser'
+    published: '2016-10-08T17:57:59+00:00'
+    id: 'urn:uuid:f05ee102-de60-563a-9f3e-18c13827c861'
+    link: 'https://pub.dartlang.org/packages/html_parser'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: polymer_element
+    package_version: v0.0.2
+    title: 'v0.0.2 of polymer_element'
+    published: '2016-10-08T17:50:48+00:00'
+    id: 'urn:uuid:c2dd6878-dcd5-5658-89a6-f72f39a27e4f'
+    link: 'https://pub.dartlang.org/packages/polymer_element'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
