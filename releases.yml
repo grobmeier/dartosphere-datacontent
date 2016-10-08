@@ -72875,3 +72875,12 @@
     link: 'https://pub.dartlang.org/packages/typed_struct'
     author:
         - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: angel_auth
+    package_version: v1.0.0-dev+9
+    title: 'v1.0.0-dev+9 of angel_auth'
+    published: '2016-10-08T11:39:58+00:00'
+    id: 'urn:uuid:907795f2-fe8c-5e2a-8c01-3bb6dad12b05'
+    link: 'https://pub.dartlang.org/packages/angel_auth'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
