@@ -72947,3 +72947,12 @@
     link: 'https://pub.dartlang.org/packages/unifmt'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: molviewfmt
+    package_version: v0.2.9+3
+    title: 'v0.2.9+3 of molviewfmt'
+    published: '2016-10-09T16:10:37+00:00'
+    id: 'urn:uuid:bbbed562-fc43-565b-b812-6498625c2517'
+    link: 'https://pub.dartlang.org/packages/molviewfmt'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
