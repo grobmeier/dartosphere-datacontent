@@ -72938,3 +72938,12 @@
     link: 'https://pub.dartlang.org/packages/attributable'
     author:
         - 'Roman Snitko <roman.snitko@gmail.com>'
+-
+    package_name: unifmt
+    package_version: v0.2.9+1
+    title: 'v0.2.9+1 of unifmt'
+    published: '2016-10-09T15:56:24+00:00'
+    id: 'urn:uuid:407db36f-caec-51b0-a582-51dc28337d60'
+    link: 'https://pub.dartlang.org/packages/unifmt'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
