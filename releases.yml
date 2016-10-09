@@ -72929,3 +72929,12 @@
     link: 'https://pub.dartlang.org/packages/polymerize'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: attributable
+    package_version: v0.1.1
+    title: 'v0.1.1 of attributable'
+    published: '2016-10-09T11:21:43+00:00'
+    id: 'urn:uuid:d2ef7e2d-7bc4-5eb8-8a97-8ade75cca484'
+    link: 'https://pub.dartlang.org/packages/attributable'
+    author:
+        - 'Roman Snitko <roman.snitko@gmail.com>'
