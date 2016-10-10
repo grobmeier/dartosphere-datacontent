@@ -73038,3 +73038,30 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: path
+    package_version: v1.4.0
+    title: 'v1.4.0 of path'
+    published: '2016-10-10T21:39:37+00:00'
+    id: 'urn:uuid:b61a3beb-417c-5ece-b25b-6038de92fedb'
+    link: 'https://pub.dartlang.org/packages/path'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: stack_trace
+    package_version: v1.6.8
+    title: 'v1.6.8 of stack_trace'
+    published: '2016-10-10T21:37:51+00:00'
+    id: 'urn:uuid:93306b83-36f8-59c5-95b3-346b7b8c12a9'
+    link: 'https://pub.dartlang.org/packages/stack_trace'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: test
+    package_version: v0.12.15+10
+    title: 'v0.12.15+10 of test'
+    published: '2016-10-10T21:25:53+00:00'
+    id: 'urn:uuid:492c1e5f-3134-5ff6-a1a9-9a600bc1d21e'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
