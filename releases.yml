@@ -72983,3 +72983,12 @@
     link: 'https://pub.dartlang.org/packages/bit_vector'
     author:
         - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: rpc
+    package_version: v0.5.7
+    title: 'v0.5.7 of rpc'
+    published: '2016-10-10T13:07:07+00:00'
+    id: 'urn:uuid:e9e1fa15-1c74-594b-aa85-4ecefcbd9085'
+    link: 'https://pub.dartlang.org/packages/rpc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
