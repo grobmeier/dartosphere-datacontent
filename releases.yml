@@ -72974,3 +72974,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_element'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: bit_vector
+    package_version: v0.1.0
+    title: 'v0.1.0 of bit_vector'
+    published: '2016-10-10T12:35:08+00:00'
+    id: 'urn:uuid:66e8f883-daf1-5596-aabe-0a3f459e48e0'
+    link: 'https://pub.dartlang.org/packages/bit_vector'
+    author:
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
