@@ -72956,3 +72956,21 @@
     link: 'https://pub.dartlang.org/packages/molviewfmt'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: polymerize
+    package_version: v0.2.2
+    title: 'v0.2.2 of polymerize'
+    published: '2016-10-10T10:29:26+00:00'
+    id: 'urn:uuid:07d0a558-58ca-5e95-826f-6bd7334751a0'
+    link: 'https://pub.dartlang.org/packages/polymerize'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: polymer_element
+    package_version: v0.0.3
+    title: 'v0.0.3 of polymer_element'
+    published: '2016-10-10T10:24:12+00:00'
+    id: 'urn:uuid:998016fd-26f5-56ba-a438-24bb02b45d47'
+    link: 'https://pub.dartlang.org/packages/polymer_element'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
