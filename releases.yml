@@ -73110,3 +73110,12 @@
     link: 'https://pub.dartlang.org/packages/jaguar'
     author:
         - 'Jaguar Authors <segaud.kevin@gmail.com>'
+-
+    package_name: bloom_filter
+    package_version: v0.1.1
+    title: 'v0.1.1 of bloom_filter'
+    published: '2016-10-11T12:53:02+00:00'
+    id: 'urn:uuid:d04914b4-2d69-5a2d-84e5-7e7c2195bbd1'
+    link: 'https://pub.dartlang.org/packages/bloom_filter'
+    author:
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
