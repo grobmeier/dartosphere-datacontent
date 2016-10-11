@@ -73074,3 +73074,12 @@
     link: 'https://pub.dartlang.org/packages/discord'
     author:
         - 'Hackzzila <admin@hackzzila.com>'
+-
+    package_name: http_in_memory_web_api
+    package_version: v0.2.1
+    title: 'v0.2.1 of http_in_memory_web_api'
+    published: '2016-10-10T23:16:35+00:00'
+    id: 'urn:uuid:0c85b66d-57e3-5cd4-8952-b57230b27d67'
+    link: 'https://pub.dartlang.org/packages/http_in_memory_web_api'
+    author:
+        - 'Adao Junior <itsjunnior@gmail.com>'
