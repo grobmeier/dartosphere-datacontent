@@ -73092,3 +73092,21 @@
     link: 'https://pub.dartlang.org/packages/bit_vector'
     author:
         - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: mdl
+    package_version: v1.17.6
+    title: 'v1.17.6 of mdl'
+    published: '2016-10-11T10:47:13+00:00'
+    id: 'urn:uuid:3c7f585e-d2c7-5f3e-801f-03e61cc57d11'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: jaguar
+    package_version: v0.0.2
+    title: 'v0.0.2 of jaguar'
+    published: '2016-10-11T10:15:24+00:00'
+    id: 'urn:uuid:5ce91c0f-d1c1-5d07-b880-6ddba0df08c3'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Jaguar Authors <segaud.kevin@gmail.com>'
