@@ -73119,3 +73119,12 @@
     link: 'https://pub.dartlang.org/packages/bloom_filter'
     author:
         - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: process_run
+    package_version: v0.5.0+1
+    title: 'v0.5.0+1 of process_run'
+    published: '2016-10-11T13:45:48+00:00'
+    id: 'urn:uuid:21d130d3-9384-55d0-84df-85d45f293b16'
+    link: 'https://pub.dartlang.org/packages/process_run'
+    author:
+        - 'Tekartik <dev@tekartik.com>'
