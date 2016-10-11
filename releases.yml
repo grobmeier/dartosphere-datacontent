@@ -73128,3 +73128,12 @@
     link: 'https://pub.dartlang.org/packages/process_run'
     author:
         - 'Tekartik <dev@tekartik.com>'
+-
+    package_name: fs_shim
+    package_version: v0.6.4
+    title: 'v0.6.4 of fs_shim'
+    published: '2016-10-11T15:00:44+00:00'
+    id: 'urn:uuid:3dcc196b-c1fb-5165-816b-6b0be9e64d75'
+    link: 'https://pub.dartlang.org/packages/fs_shim'
+    author:
+        - 'Tekartik <alex@tekartik.com>'
