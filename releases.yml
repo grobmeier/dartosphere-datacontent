@@ -73146,3 +73146,12 @@
     link: 'https://pub.dartlang.org/packages/linter'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: fs_shim
+    package_version: v0.6.5
+    title: 'v0.6.5 of fs_shim'
+    published: '2016-10-12T10:14:21+00:00'
+    id: 'urn:uuid:81b3c74f-8737-524f-9af0-e2f401c8cc0f'
+    link: 'https://pub.dartlang.org/packages/fs_shim'
+    author:
+        - 'Tekartik <alex@tekartik.com>'
