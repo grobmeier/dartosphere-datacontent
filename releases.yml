@@ -73200,3 +73200,12 @@
     link: 'https://pub.dartlang.org/packages/range_map'
     author:
         - 'Fluidic Team <dev@fluidic.io>'
+-
+    package_name: http_parser
+    package_version: v3.0.3
+    title: 'v3.0.3 of http_parser'
+    published: '2016-10-12T22:58:09+00:00'
+    id: 'urn:uuid:2a87222e-e7e2-58ec-8891-98e2a07b9b01'
+    link: 'https://pub.dartlang.org/packages/http_parser'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
