@@ -73137,3 +73137,12 @@
     link: 'https://pub.dartlang.org/packages/fs_shim'
     author:
         - 'Tekartik <alex@tekartik.com>'
+-
+    package_name: linter
+    package_version: v0.1.28
+    title: 'v0.1.28 of linter'
+    published: '2016-10-12T05:04:22+00:00'
+    id: 'urn:uuid:53da2278-e6e1-5ff8-9f50-0c971012dda7'
+    link: 'https://pub.dartlang.org/packages/linter'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
