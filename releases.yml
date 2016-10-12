@@ -73182,3 +73182,21 @@
     link: 'https://pub.dartlang.org/packages/bson_codec'
     author:
         - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: angel_route
+    package_version: v1.0.0-dev
+    title: 'v1.0.0-dev of angel_route'
+    published: '2016-10-12T17:58:53+00:00'
+    id: 'urn:uuid:1b9046ff-72b0-540a-8424-891a41cc35c3'
+    link: 'https://pub.dartlang.org/packages/angel_route'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: range_map
+    package_version: v0.2.0
+    title: 'v0.2.0 of range_map'
+    published: '2016-10-12T17:28:22+00:00'
+    id: 'urn:uuid:48937d56-b417-54ce-8277-baf3ba8a2d9c'
+    link: 'https://pub.dartlang.org/packages/range_map'
+    author:
+        - 'Fluidic Team <dev@fluidic.io>'
