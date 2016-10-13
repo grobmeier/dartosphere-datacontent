@@ -73227,3 +73227,12 @@
     link: 'https://pub.dartlang.org/packages/heaven'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: sqltree_query
+    package_version: v0.3.0+1
+    title: 'v0.3.0+1 of sqltree_query'
+    published: '2016-10-13T11:16:03+00:00'
+    id: 'urn:uuid:24c119dc-079a-51b2-8e11-be0d4e83ba13'
+    link: 'https://pub.dartlang.org/packages/sqltree_query'
+    author:
+        - 'Roberto Tassi <roberto.tassi@fromlabs.org>'
