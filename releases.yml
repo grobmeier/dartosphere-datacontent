@@ -73272,3 +73272,12 @@
     link: 'https://pub.dartlang.org/packages/bit_vector'
     author:
         - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: yaml
+    package_version: v2.1.12
+    title: 'v2.1.12 of yaml'
+    published: '2016-10-13T17:58:32+00:00'
+    id: 'urn:uuid:5800d428-a77d-55ac-a610-18bfbd20f8d2'
+    link: 'https://pub.dartlang.org/packages/yaml'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
