@@ -73218,3 +73218,12 @@
     link: 'https://pub.dartlang.org/packages/entity'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: heaven
+    package_version: v1.0.0-dev
+    title: 'v1.0.0-dev of heaven'
+    published: '2016-10-13T10:00:40+00:00'
+    id: 'urn:uuid:80e49141-8040-5b15-987c-80f7f4729640'
+    link: 'https://pub.dartlang.org/packages/heaven'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
