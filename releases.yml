@@ -73236,3 +73236,30 @@
     link: 'https://pub.dartlang.org/packages/sqltree_query'
     author:
         - 'Roberto Tassi <roberto.tassi@fromlabs.org>'
+-
+    package_name: latlong
+    package_version: v0.3.3
+    title: 'v0.3.3 of latlong'
+    published: '2016-10-13T15:47:13+00:00'
+    id: 'urn:uuid:60c10891-9208-522c-9e4c-07e67937671f'
+    link: 'https://pub.dartlang.org/packages/latlong'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: l10n
+    package_version: v0.16.3
+    title: 'v0.16.3 of l10n'
+    published: '2016-10-13T15:44:47+00:00'
+    id: 'urn:uuid:664e5679-a0e3-5631-a7ff-b671406c2c68'
+    link: 'https://pub.dartlang.org/packages/l10n'
+    author:
+        - 'Mike Mitterer  <office@mikemitterer.at>'
+-
+    package_name: docker
+    package_version: v0.1.4
+    title: 'v0.1.4 of docker'
+    published: '2016-10-13T15:40:58+00:00'
+    id: 'urn:uuid:7fd54015-8821-5a2e-83d5-01ede4d50699'
+    link: 'https://pub.dartlang.org/packages/docker'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
