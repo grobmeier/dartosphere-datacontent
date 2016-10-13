@@ -73209,3 +73209,12 @@
     link: 'https://pub.dartlang.org/packages/http_parser'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: entity
+    package_version: v0.9.0
+    title: 'v0.9.0 of entity'
+    published: '2016-10-13T08:01:35+00:00'
+    id: 'urn:uuid:fb696634-91e4-5499-9a6d-877449aa81f6'
+    link: 'https://pub.dartlang.org/packages/entity'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
