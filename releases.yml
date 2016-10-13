@@ -73263,3 +73263,12 @@
     link: 'https://pub.dartlang.org/packages/docker'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: bit_vector
+    package_version: v0.3.0
+    title: 'v0.3.0 of bit_vector'
+    published: '2016-10-13T16:14:50+00:00'
+    id: 'urn:uuid:8e17036e-03fc-54e9-9137-9c8a0597a31c'
+    link: 'https://pub.dartlang.org/packages/bit_vector'
+    author:
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
