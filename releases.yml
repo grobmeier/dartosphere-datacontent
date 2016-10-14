@@ -73281,3 +73281,12 @@
     link: 'https://pub.dartlang.org/packages/yaml'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: postgres
+    package_version: v0.9.1
+    title: 'v0.9.1 of postgres'
+    published: '2016-10-14T01:51:37+00:00'
+    id: 'urn:uuid:63be9420-ef12-5e59-865d-9e53d2ea3122'
+    link: 'https://pub.dartlang.org/packages/postgres'
+    author:
+        - 'stable|kernel <jobs@stablekernel.com>'
