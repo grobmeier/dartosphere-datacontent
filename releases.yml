@@ -73317,3 +73317,12 @@
     link: 'https://pub.dartlang.org/packages/code_transformers'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: synchronized
+    package_version: v0.1.0
+    title: 'v0.1.0 of synchronized'
+    published: '2016-10-14T20:20:07+00:00'
+    id: 'urn:uuid:3f7e705f-33a3-5c18-b6ec-5b5dece1b901'
+    link: 'https://pub.dartlang.org/packages/synchronized'
+    author:
+        - 'Tekartik <dev@tekartik.com>'
