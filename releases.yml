@@ -73335,3 +73335,12 @@
     link: 'https://pub.dartlang.org/packages/pubnub'
     author:
         - 'Sebastian Nozzi'
+-
+    package_name: chartjs
+    package_version: v0.3.0
+    title: 'v0.3.0 of chartjs'
+    published: '2016-10-14T22:26:49+00:00'
+    id: 'urn:uuid:69ce8a03-05ca-5695-aaa3-22c48ea6e7ef'
+    link: 'https://pub.dartlang.org/packages/chartjs'
+    author:
+        - 'Kevin Moore <kevmoo+github@google.com>'
