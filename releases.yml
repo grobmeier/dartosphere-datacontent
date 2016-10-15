@@ -73399,3 +73399,12 @@
     link: 'https://pub.dartlang.org/packages/pubnub'
     author:
         - 'Sebastian Nozzi'
+-
+    package_name: bit_vector
+    package_version: v0.4.1
+    title: 'v0.4.1 of bit_vector'
+    published: '2016-10-15T14:13:07+00:00'
+    id: 'urn:uuid:a186cd0c-c9b7-52b3-b119-29d5176e965b'
+    link: 'https://pub.dartlang.org/packages/bit_vector'
+    author:
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
