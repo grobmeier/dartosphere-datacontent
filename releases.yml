@@ -73344,3 +73344,12 @@
     link: 'https://pub.dartlang.org/packages/chartjs'
     author:
         - 'Kevin Moore <kevmoo+github@google.com>'
+-
+    package_name: discord
+    package_version: v0.13.0
+    title: 'v0.13.0 of discord'
+    published: '2016-10-15T00:18:52+00:00'
+    id: 'urn:uuid:3330b565-d9a7-5a8c-adb7-2cbfc99271e8'
+    link: 'https://pub.dartlang.org/packages/discord'
+    author:
+        - 'Hackzzila <admin@hackzzila.com>'
