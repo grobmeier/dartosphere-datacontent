@@ -73408,3 +73408,12 @@
     link: 'https://pub.dartlang.org/packages/bit_vector'
     author:
         - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: discord
+    package_version: v0.13.1
+    title: 'v0.13.1 of discord'
+    published: '2016-10-15T15:01:12+00:00'
+    id: 'urn:uuid:369989a3-e398-5d46-b236-277d32c7a2c1'
+    link: 'https://pub.dartlang.org/packages/discord'
+    author:
+        - 'Hackzzila <admin@hackzzila.com>'
