@@ -73426,3 +73426,12 @@
     link: 'https://pub.dartlang.org/packages/discord'
     author:
         - 'Hackzzila <admin@hackzzila.com>'
+-
+    package_name: discord
+    package_version: v0.13.3
+    title: 'v0.13.3 of discord'
+    published: '2016-10-15T20:22:13+00:00'
+    id: 'urn:uuid:8728aacd-ef89-50b4-a4b6-7f4e03e57910'
+    link: 'https://pub.dartlang.org/packages/discord'
+    author:
+        - 'Hackzzila <admin@hackzzila.com>'
