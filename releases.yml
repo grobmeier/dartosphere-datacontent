@@ -73353,3 +73353,13 @@
     link: 'https://pub.dartlang.org/packages/discord'
     author:
         - 'Hackzzila <admin@hackzzila.com>'
+-
+    package_name: ng_bootstrap
+    package_version: v0.4.1
+    title: 'v0.4.1 of ng_bootstrap'
+    published: '2016-10-15T04:16:38+00:00'
+    id: 'urn:uuid:d5f9e841-6df8-5e51-bb8d-0945e5bdac10'
+    link: 'https://pub.dartlang.org/packages/ng_bootstrap'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+        - 'Adao Jr. <itsjunnior@gmail.com>'
