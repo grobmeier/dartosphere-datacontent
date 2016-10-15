@@ -73381,3 +73381,21 @@
     link: 'https://pub.dartlang.org/packages/stagexl'
     author:
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: bit_vector
+    package_version: v0.4.0
+    title: 'v0.4.0 of bit_vector'
+    published: '2016-10-15T09:59:52+00:00'
+    id: 'urn:uuid:d8f58ae8-4eff-508b-abbe-7a3e7bcd8c98'
+    link: 'https://pub.dartlang.org/packages/bit_vector'
+    author:
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: pubnub
+    package_version: v0.1.1
+    title: 'v0.1.1 of pubnub'
+    published: '2016-10-15T09:37:03+00:00'
+    id: 'urn:uuid:b33c3645-01fc-55ad-a46d-aa089594ecfe'
+    link: 'https://pub.dartlang.org/packages/pubnub'
+    author:
+        - 'Sebastian Nozzi'
