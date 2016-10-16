@@ -73454,3 +73454,21 @@
     link: 'https://pub.dartlang.org/packages/isolate_cluster'
     author:
         - 'Oliver Damm <oliver.damm@gmx.de>'
+-
+    package_name: polymer_element
+    package_version: v0.0.5
+    title: 'v0.0.5 of polymer_element'
+    published: '2016-10-16T22:30:43+00:00'
+    id: 'urn:uuid:66937a8c-db2b-588f-bd7b-353c4e1846b5'
+    link: 'https://pub.dartlang.org/packages/polymer_element'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: polymerize
+    package_version: v0.2.3
+    title: 'v0.2.3 of polymerize'
+    published: '2016-10-16T22:26:10+00:00'
+    id: 'urn:uuid:8fa5d71e-bea1-5de4-8bae-a98c2b3f17b0'
+    link: 'https://pub.dartlang.org/packages/polymerize'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
