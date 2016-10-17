@@ -73490,3 +73490,93 @@
     link: 'https://pub.dartlang.org/packages/firebase3'
     author:
         - 'Jana Moudra <jana.moudra@gmail.com>'
+-
+    package_name: molview_wikidata
+    package_version: v0.0.2+2
+    title: 'v0.0.2+2 of molview_wikidata'
+    published: '2016-10-17T15:38:36+00:00'
+    id: 'urn:uuid:efc1da3c-a23c-5690-bfa9-75db0981bbd0'
+    link: 'https://pub.dartlang.org/packages/molview_wikidata'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: molview_pubchem
+    package_version: v0.3.0+1
+    title: 'v0.3.0+1 of molview_pubchem'
+    published: '2016-10-17T15:37:12+00:00'
+    id: 'urn:uuid:b0a57129-7cb5-566f-bf8d-efae4be426d5'
+    link: 'https://pub.dartlang.org/packages/molview_pubchem'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: omnitest
+    package_version: v0.2.6+1
+    title: 'v0.2.6+1 of omnitest'
+    published: '2016-10-17T15:34:40+00:00'
+    id: 'urn:uuid:e748ca16-9154-50d3-b988-8335c9095083'
+    link: 'https://pub.dartlang.org/packages/omnitest'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: omnibuild
+    package_version: v0.5.2+2
+    title: 'v0.5.2+2 of omnibuild'
+    published: '2016-10-17T15:32:54+00:00'
+    id: 'urn:uuid:3b45e49c-218a-59db-9a9c-fd46ab5259b1'
+    link: 'https://pub.dartlang.org/packages/omnibuild'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: passive_data
+    package_version: v0.7.1+1
+    title: 'v0.7.1+1 of passive_data'
+    published: '2016-10-17T15:29:04+00:00'
+    id: 'urn:uuid:e3d9393c-c215-5fec-953d-df035298b31e'
+    link: 'https://pub.dartlang.org/packages/passive_data'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: omnibus
+    package_version: v0.15.3+1
+    title: 'v0.15.3+1 of omnibus'
+    published: '2016-10-17T15:27:03+00:00'
+    id: 'urn:uuid:25ad30a0-cb6c-56f7-a9ef-ee100e5d0ac9'
+    link: 'https://pub.dartlang.org/packages/omnibus'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: petitparser
+    package_version: v1.5.4
+    title: 'v1.5.4 of petitparser'
+    published: '2016-10-17T15:25:21+00:00'
+    id: 'urn:uuid:f48e27a9-169c-570b-abe9-6ebe28c3c15d'
+    link: 'https://pub.dartlang.org/packages/petitparser'
+    author:
+        - 'Lukas Renggli <renggli@gmail.com>'
+-
+    package_name: statemachine
+    package_version: v1.2.2
+    title: 'v1.2.2 of statemachine'
+    published: '2016-10-17T15:23:34+00:00'
+    id: 'urn:uuid:a41de3ed-e7c7-5336-92ec-db40360538ba'
+    link: 'https://pub.dartlang.org/packages/statemachine'
+    author:
+        - 'Lukas Renggli <renggli@gmail.com>'
+-
+    package_name: molview_messages
+    package_version: v0.12.0+2
+    title: 'v0.12.0+2 of molview_messages'
+    published: '2016-10-17T15:21:59+00:00'
+    id: 'urn:uuid:2400bac1-44a1-5c30-8b55-9ac45d81305c'
+    link: 'https://pub.dartlang.org/packages/molview_messages'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: more
+    package_version: v1.5.3
+    title: 'v1.5.3 of more'
+    published: '2016-10-17T15:14:17+00:00'
+    id: 'urn:uuid:68cc4728-0c1b-5518-85dd-23e76b957e0d'
+    link: 'https://pub.dartlang.org/packages/more'
+    author:
+        - 'Lukas Renggli <renggli@gmail.com>'
