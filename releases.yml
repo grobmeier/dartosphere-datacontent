@@ -73625,3 +73625,21 @@
     link: 'https://pub.dartlang.org/packages/csslib'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: source_gen
+    package_version: v0.5.1+4
+    title: 'v0.5.1+4 of source_gen'
+    published: '2016-10-17T22:31:49+00:00'
+    id: 'urn:uuid:0ae221c5-9619-53d9-8e20-4b6308546abf'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: code_transformers
+    package_version: v0.5.0
+    title: 'v0.5.0 of code_transformers'
+    published: '2016-10-17T22:25:31+00:00'
+    id: 'urn:uuid:9c846feb-01c1-5f79-8e7b-519a19900272'
+    link: 'https://pub.dartlang.org/packages/code_transformers'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
