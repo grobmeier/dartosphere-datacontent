@@ -73481,3 +73481,12 @@
     link: 'https://pub.dartlang.org/packages/lightning'
     author:
         - 'Accorto Lightning <lightning@accorto.com>'
+-
+    package_name: firebase3
+    package_version: v0.2.2
+    title: 'v0.2.2 of firebase3'
+    published: '2016-10-17T14:09:08+00:00'
+    id: 'urn:uuid:9caf76ca-5141-516f-a852-45d6ec68e545'
+    link: 'https://pub.dartlang.org/packages/firebase3'
+    author:
+        - 'Jana Moudra <jana.moudra@gmail.com>'
