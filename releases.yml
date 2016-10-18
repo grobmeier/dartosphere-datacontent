@@ -73643,3 +73643,13 @@
     link: 'https://pub.dartlang.org/packages/code_transformers'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: ng_bootstrap
+    package_version: v0.4.2
+    title: 'v0.4.2 of ng_bootstrap'
+    published: '2016-10-18T01:26:40+00:00'
+    id: 'urn:uuid:bb8961c9-b368-597b-9624-2131e09ac37e'
+    link: 'https://pub.dartlang.org/packages/ng_bootstrap'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+        - 'Adao Jr. <itsjunnior@gmail.com>'
