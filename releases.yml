@@ -73653,3 +73653,12 @@
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
         - 'Adao Jr. <itsjunnior@gmail.com>'
+-
+    package_name: dh
+    package_version: v0.1.0
+    title: 'v0.1.0 of dh'
+    published: '2016-10-18T16:49:17+00:00'
+    id: 'urn:uuid:8862139a-6cb8-5a9e-a302-c55b889e0d73'
+    link: 'https://pub.dartlang.org/packages/dh'
+    author:
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
