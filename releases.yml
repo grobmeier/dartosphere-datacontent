@@ -73662,3 +73662,12 @@
     link: 'https://pub.dartlang.org/packages/dh'
     author:
         - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: aqueduct
+    package_version: v1.0.0+1
+    title: 'v1.0.0+1 of aqueduct'
+    published: '2016-10-18T20:43:30+00:00'
+    id: 'urn:uuid:7bfc15d0-bb35-5a9f-9067-cd3a000620ae'
+    link: 'https://pub.dartlang.org/packages/aqueduct'
+    author:
+        - 'stable|kernel <http://stablekernel.com>'
