@@ -73689,3 +73689,48 @@
     link: 'https://pub.dartlang.org/packages/dart_sass_transformer'
     author:
         - 'Juha Komulainen <juha.komulainen@evident.fi>'
+-
+    package_name: enum_class_generator
+    package_version: v1.1.1
+    title: 'v1.1.1 of enum_class_generator'
+    published: '2016-10-19T07:59:47+00:00'
+    id: 'urn:uuid:49a84393-cd8f-57cc-a3b6-1d0337ee8d16'
+    link: 'https://pub.dartlang.org/packages/enum_class_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: enum_class
+    package_version: v1.1.1
+    title: 'v1.1.1 of enum_class'
+    published: '2016-10-19T07:58:49+00:00'
+    id: 'urn:uuid:89441ffe-d4b1-5860-87b7-b9789464a52a'
+    link: 'https://pub.dartlang.org/packages/enum_class'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value_generator
+    package_version: v0.1.5
+    title: 'v0.1.5 of built_value_generator'
+    published: '2016-10-19T07:52:28+00:00'
+    id: 'urn:uuid:b812fdd3-b4ac-542c-8fea-b9a25a0bfd68'
+    link: 'https://pub.dartlang.org/packages/built_value_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value
+    package_version: v0.1.5
+    title: 'v0.1.5 of built_value'
+    published: '2016-10-19T07:50:29+00:00'
+    id: 'urn:uuid:86cffaba-4240-57ee-a034-e1775d41ab58'
+    link: 'https://pub.dartlang.org/packages/built_value'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_collection
+    package_version: v1.0.6
+    title: 'v1.0.6 of built_collection'
+    published: '2016-10-19T07:47:34+00:00'
+    id: 'urn:uuid:0ee54ff2-a6d8-5f1e-82a6-7c448fba580e'
+    link: 'https://pub.dartlang.org/packages/built_collection'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
