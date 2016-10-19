@@ -73752,3 +73752,12 @@
     link: 'https://pub.dartlang.org/packages/built_json'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: ducene
+    package_version: v0.0.9
+    title: 'v0.0.9 of ducene'
+    published: '2016-10-19T12:50:03+00:00'
+    id: 'urn:uuid:a4ffe1f3-b2a3-5174-8434-f607a8566ddf'
+    link: 'https://pub.dartlang.org/packages/ducene'
+    author:
+        - 'Shinichiro Abe <shinichiro.abe.1@gmail.com>'
