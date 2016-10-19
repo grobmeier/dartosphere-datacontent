@@ -73797,3 +73797,30 @@
     link: 'https://pub.dartlang.org/packages/aws_interop'
     author:
         - 'John Ryan <john.p.ryan4@gmail.com>'
+-
+    package_name: sqljs
+    package_version: v2.0.0
+    title: 'v2.0.0 of sqljs'
+    published: '2016-10-19T22:56:44+00:00'
+    id: 'urn:uuid:0f9d9d7b-0eff-58d1-bc25-f1ec23b70502'
+    link: 'https://pub.dartlang.org/packages/sqljs'
+    author:
+        - 'John Ryan <john.p.ryan4@gmail.com>'
+-
+    package_name: polymerize
+    package_version: v0.2.4
+    title: 'v0.2.4 of polymerize'
+    published: '2016-10-19T22:24:25+00:00'
+    id: 'urn:uuid:f133f952-8b6e-510d-97d5-aaa48011a688'
+    link: 'https://pub.dartlang.org/packages/polymerize'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: polymer_element
+    package_version: v0.0.6
+    title: 'v0.0.6 of polymer_element'
+    published: '2016-10-19T22:23:53+00:00'
+    id: 'urn:uuid:b8cc0513-f414-5a1d-b061-bb339723fe89'
+    link: 'https://pub.dartlang.org/packages/polymer_element'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
