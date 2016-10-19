@@ -73734,3 +73734,21 @@
     link: 'https://pub.dartlang.org/packages/built_collection'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_json_generator
+    package_version: v0.1.5
+    title: 'v0.1.5 of built_json_generator'
+    published: '2016-10-19T08:07:43+00:00'
+    id: 'urn:uuid:e6b90e2d-1dc3-5693-942e-3287118f5b35'
+    link: 'https://pub.dartlang.org/packages/built_json_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_json
+    package_version: v0.1.5
+    title: 'v0.1.5 of built_json'
+    published: '2016-10-19T08:05:31+00:00'
+    id: 'urn:uuid:7cf93cb8-92bc-573d-b74b-572519497856'
+    link: 'https://pub.dartlang.org/packages/built_json'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
