@@ -73680,3 +73680,12 @@
     link: 'https://pub.dartlang.org/packages/sass'
     author:
         - 'Juha Komulainen <juha.komulainen@evident.fi>'
+-
+    package_name: dart_sass_transformer
+    package_version: v0.5.0+1
+    title: 'v0.5.0+1 of dart_sass_transformer'
+    published: '2016-10-19T05:02:24+00:00'
+    id: 'urn:uuid:9f8c8926-32c9-57ba-8ad4-15db81422fb7'
+    link: 'https://pub.dartlang.org/packages/dart_sass_transformer'
+    author:
+        - 'Juha Komulainen <juha.komulainen@evident.fi>'
