@@ -73770,3 +73770,12 @@
     link: 'https://pub.dartlang.org/packages/discord'
     author:
         - 'Hackzzila <admin@hackzzila.com>'
+-
+    package_name: dnd
+    package_version: v0.3.4
+    title: 'v0.3.4 of dnd'
+    published: '2016-10-19T20:24:07+00:00'
+    id: 'urn:uuid:a289a1ca-ff47-51d3-9037-d06b2f89e94b'
+    link: 'https://pub.dartlang.org/packages/dnd'
+    author:
+        - 'Marco Jakob <majakob@gmx.ch>'
