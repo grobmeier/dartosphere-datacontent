@@ -73671,3 +73671,12 @@
     link: 'https://pub.dartlang.org/packages/aqueduct'
     author:
         - 'stable|kernel <http://stablekernel.com>'
+-
+    package_name: sass
+    package_version: v0.4.2+2
+    title: 'v0.4.2+2 of sass'
+    published: '2016-10-19T04:41:18+00:00'
+    id: 'urn:uuid:ebbce8f9-2553-5116-8df8-13a28755b2f4'
+    link: 'https://pub.dartlang.org/packages/sass'
+    author:
+        - 'Juha Komulainen <juha.komulainen@evident.fi>'
