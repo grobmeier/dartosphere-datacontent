@@ -73824,3 +73824,21 @@
     link: 'https://pub.dartlang.org/packages/polymer_element'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: discord
+    package_version: v0.14.2
+    title: 'v0.14.2 of discord'
+    published: '2016-10-20T00:24:51+00:00'
+    id: 'urn:uuid:20506f90-80f5-5711-b698-a1efe05e2350'
+    link: 'https://pub.dartlang.org/packages/discord'
+    author:
+        - 'Hackzzila <admin@hackzzila.com>'
+-
+    package_name: material2_dart
+    package_version: v0.4.0
+    title: 'v0.4.0 of material2_dart'
+    published: '2016-10-20T00:22:00+00:00'
+    id: 'urn:uuid:d7fa93a8-27cd-5bbf-9800-c2669d2abd95'
+    link: 'https://pub.dartlang.org/packages/material2_dart'
+    author:
+        - 'ntaoo <ntaoo.g@gmail.com>'
