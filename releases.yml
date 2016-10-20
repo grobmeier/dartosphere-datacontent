@@ -73920,3 +73920,12 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: packages
+    package_version: v0.1.3
+    title: 'v0.1.3 of packages'
+    published: '2016-10-20T15:52:13+00:00'
+    id: 'urn:uuid:675ddb68-161d-5e2e-b466-107e769d9bd3'
+    link: 'https://pub.dartlang.org/packages/packages'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
