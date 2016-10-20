@@ -73887,3 +73887,22 @@
     link: 'https://pub.dartlang.org/packages/command_wrapper'
     author:
         - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: stripe
+    package_version: v1.2.2
+    title: 'v1.2.2 of stripe'
+    published: '2016-10-20T12:15:50+00:00'
+    id: 'urn:uuid:b6021f7b-7c56-5af4-a998-c72b82487eee'
+    link: 'https://pub.dartlang.org/packages/stripe'
+    author:
+        - 'Matias Meno <m@tias.me>'
+        - 'Martin Flucka <martin.flucka@gmail.com>'
+-
+    package_name: kernel
+    package_version: v0.1.0
+    title: 'v0.1.0 of kernel'
+    published: '2016-10-20T12:04:52+00:00'
+    id: 'urn:uuid:ff0e6812-217a-5e71-886e-2ef413fa11fc'
+    link: 'https://pub.dartlang.org/packages/kernel'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
