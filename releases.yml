@@ -73860,3 +73860,12 @@
     link: 'https://pub.dartlang.org/packages/bazel'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: sass
+    package_version: v0.4.2+4
+    title: 'v0.4.2+4 of sass'
+    published: '2016-10-20T05:55:06+00:00'
+    id: 'urn:uuid:e15b79f6-5e8c-508b-92d7-7c8d4868b3af'
+    link: 'https://pub.dartlang.org/packages/sass'
+    author:
+        - 'Juha Komulainen <juha.komulainen@evident.fi>'
