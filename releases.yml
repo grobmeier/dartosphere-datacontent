@@ -73929,3 +73929,21 @@
     link: 'https://pub.dartlang.org/packages/packages'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: aqueduct
+    package_version: v1.0.1
+    title: 'v1.0.1 of aqueduct'
+    published: '2016-10-20T17:10:22+00:00'
+    id: 'urn:uuid:ccafb6bf-67cc-56c1-b56b-67debbf88664'
+    link: 'https://pub.dartlang.org/packages/aqueduct'
+    author:
+        - 'stable|kernel <http://stablekernel.com>'
+-
+    package_name: sitegen
+    package_version: v1.4.1
+    title: 'v1.4.1 of sitegen'
+    published: '2016-10-20T17:10:04+00:00'
+    id: 'urn:uuid:880bfbfb-f8ca-5413-8603-1553e6b2597e'
+    link: 'https://pub.dartlang.org/packages/sitegen'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
