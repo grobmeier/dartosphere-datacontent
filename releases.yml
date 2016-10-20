@@ -73906,3 +73906,17 @@
     link: 'https://pub.dartlang.org/packages/kernel'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: w_transport
+    package_version: v2.9.4
+    title: 'v2.9.4 of w_transport'
+    published: '2016-10-20T13:58:02+00:00'
+    id: 'urn:uuid:3a1cb4a1-59bb-580a-b7d4-53ce421633a4'
+    link: 'https://pub.dartlang.org/packages/w_transport'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
