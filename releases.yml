@@ -73842,3 +73842,21 @@
     link: 'https://pub.dartlang.org/packages/material2_dart'
     author:
         - 'ntaoo <ntaoo.g@gmail.com>'
+-
+    package_name: replace_env_vars
+    package_version: v0.1.0
+    title: 'v0.1.0 of replace_env_vars'
+    published: '2016-10-20T01:34:49+00:00'
+    id: 'urn:uuid:a02f872d-2ada-5ca0-bab6-437dd93abb4a'
+    link: 'https://pub.dartlang.org/packages/replace_env_vars'
+    author:
+        - 'Travis Sanderson <travissanderson@gmail.com>'
+-
+    package_name: bazel
+    package_version: v0.1.0
+    title: 'v0.1.0 of bazel'
+    published: '2016-10-20T01:13:29+00:00'
+    id: 'urn:uuid:b4b0716d-1163-58e8-b514-f217c2d323e0'
+    link: 'https://pub.dartlang.org/packages/bazel'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
