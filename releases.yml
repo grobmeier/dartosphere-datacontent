@@ -74012,3 +74012,14 @@
     link: 'https://pub.dartlang.org/packages/just_jwt'
     author:
         - 'Tomas Szabo <tomas.szabo@deftomat.com>'
+-
+    package_name: stagehand
+    package_version: v1.0.15
+    title: 'v1.0.15 of stagehand'
+    published: '2016-10-21T17:03:05+00:00'
+    id: 'urn:uuid:d0cc87ec-1f0d-59f7-abc5-e938b4fdfbe0'
+    link: 'https://pub.dartlang.org/packages/stagehand'
+    author:
+        - 'Seth Ladd <sethladd@google.com>'
+        - 'Devon Carew <devoncarew@google.com>'
+        - 'Kathy Walrath <kathyw@google.com>'
