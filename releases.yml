@@ -74041,3 +74041,14 @@
     link: 'https://pub.dartlang.org/packages/source_span'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: stagehand
+    package_version: v1.0.16
+    title: 'v1.0.16 of stagehand'
+    published: '2016-10-21T22:03:51+00:00'
+    id: 'urn:uuid:33d216d7-4b82-573d-8250-aa1c0e0c40a2'
+    link: 'https://pub.dartlang.org/packages/stagehand'
+    author:
+        - 'Seth Ladd <sethladd@google.com>'
+        - 'Devon Carew <devoncarew@google.com>'
+        - 'Kathy Walrath <kathyw@google.com>'
