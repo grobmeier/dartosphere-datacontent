@@ -73975,3 +73975,13 @@
     link: 'https://pub.dartlang.org/packages/command_wrapper'
     author:
         - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: bbt
+    package_version: v1.0.2
+    title: 'v1.0.2 of bbt'
+    published: '2016-10-21T05:04:45+00:00'
+    id: 'urn:uuid:23c8913e-488c-588e-a909-e865e3f49422'
+    link: 'https://pub.dartlang.org/packages/bbt'
+    author:
+        - 'Fernando Quinonez <fernando.andres.quinonez.granados@gmail.com>'
+        - 'Antonio Goez <antoniogoez@gmail.com>'
