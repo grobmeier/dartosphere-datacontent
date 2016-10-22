@@ -74052,3 +74052,57 @@
         - 'Seth Ladd <sethladd@google.com>'
         - 'Devon Carew <devoncarew@google.com>'
         - 'Kathy Walrath <kathyw@google.com>'
+-
+    package_name: mojito
+    package_version: v0.6.6
+    title: 'v0.6.6 of mojito'
+    published: '2016-10-21T23:36:20+00:00'
+    id: 'urn:uuid:42459b7b-cbdf-58f4-a745-b3188e608bb2'
+    link: 'https://pub.dartlang.org/packages/mojito'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: shelf_auth_session
+    package_version: v0.4.12
+    title: 'v0.4.12 of shelf_auth_session'
+    published: '2016-10-21T23:35:49+00:00'
+    id: 'urn:uuid:9dacc86c-ed48-55b5-b052-5f7aa8343e5e'
+    link: 'https://pub.dartlang.org/packages/shelf_auth_session'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: shelf_rest
+    package_version: v0.3.5
+    title: 'v0.3.5 of shelf_rest'
+    published: '2016-10-21T23:35:22+00:00'
+    id: 'urn:uuid:eab60d68-5cff-5412-90bb-445d6f5db32a'
+    link: 'https://pub.dartlang.org/packages/shelf_rest'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: shelf_auth
+    package_version: v0.7.4
+    title: 'v0.7.4 of shelf_auth'
+    published: '2016-10-21T23:34:50+00:00'
+    id: 'urn:uuid:adc1cd6e-71a1-5abf-ab6e-c18013ff3593'
+    link: 'https://pub.dartlang.org/packages/shelf_auth'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: dart_jwt
+    package_version: v0.5.2
+    title: 'v0.5.2 of dart_jwt'
+    published: '2016-10-21T23:34:22+00:00'
+    id: 'urn:uuid:b6216f26-841e-5bc2-9530-1580d50404df'
+    link: 'https://pub.dartlang.org/packages/dart_jwt'
+    author:
+        - 'Anders Holmgren<aholmgren@atlassian.com>'
+-
+    package_name: shelf_bind
+    package_version: v0.9.4
+    title: 'v0.9.4 of shelf_bind'
+    published: '2016-10-21T23:33:58+00:00'
+    id: 'urn:uuid:150c9ba2-97d4-58d3-bee9-ea28eae629cd'
+    link: 'https://pub.dartlang.org/packages/shelf_bind'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
