@@ -74160,3 +74160,21 @@
     link: 'https://pub.dartlang.org/packages/greencat'
     author:
         - 'Alexei Diaz <alexei.eleusis@gmail.com>'
+-
+    package_name: nero
+    package_version: v1.0.0-dev+2
+    title: 'v1.0.0-dev+2 of nero'
+    published: '2016-10-23T00:50:02+00:00'
+    id: 'urn:uuid:756f5bb7-469b-53d1-a7f3-539d8ebd8dc6'
+    link: 'https://pub.dartlang.org/packages/nero'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: heaven
+    package_version: v1.0.0-dev+1
+    title: 'v1.0.0-dev+1 of heaven'
+    published: '2016-10-23T00:29:06+00:00'
+    id: 'urn:uuid:472cb13c-1814-5bc2-9f5a-6806af5dd60c'
+    link: 'https://pub.dartlang.org/packages/heaven'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
