@@ -74197,3 +74197,13 @@
     author:
         - 'Sam McCall'
         - 'P.Y. Laligand'
+-
+    package_name: sqlite
+    package_version: v0.4.2
+    title: 'v0.4.2 of sqlite'
+    published: '2016-10-23T08:44:33+00:00'
+    id: 'urn:uuid:f006fb58-38f1-5644-b853-5d4fffd61f86'
+    link: 'https://pub.dartlang.org/packages/sqlite'
+    author:
+        - 'Sam McCall'
+        - 'P.Y. Laligand'
