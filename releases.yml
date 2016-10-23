@@ -74207,3 +74207,12 @@
     author:
         - 'Sam McCall'
         - 'P.Y. Laligand'
+-
+    package_name: nero
+    package_version: v1.0.0-dev+3
+    title: 'v1.0.0-dev+3 of nero'
+    published: '2016-10-23T13:28:06+00:00'
+    id: 'urn:uuid:1c7e4f4c-1266-5ddd-91cf-bad4d598c4c7'
+    link: 'https://pub.dartlang.org/packages/nero'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
