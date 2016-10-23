@@ -74187,3 +74187,13 @@
     link: 'https://pub.dartlang.org/packages/heaven'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: sqlite
+    package_version: v0.4.1
+    title: 'v0.4.1 of sqlite'
+    published: '2016-10-23T02:11:17+00:00'
+    id: 'urn:uuid:ad33eccd-9e0b-5094-9338-421cc7cedeb4'
+    link: 'https://pub.dartlang.org/packages/sqlite'
+    author:
+        - 'Sam McCall'
+        - 'P.Y. Laligand'
