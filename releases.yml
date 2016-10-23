@@ -74216,3 +74216,30 @@
     link: 'https://pub.dartlang.org/packages/nero'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: toastr
+    package_version: v0.1.0
+    title: 'v0.1.0 of toastr'
+    published: '2016-10-23T15:26:41+00:00'
+    id: 'urn:uuid:afca7cfb-9b95-5633-9746-fe97e8dd9f2e'
+    link: 'https://pub.dartlang.org/packages/toastr'
+    author:
+        - 'Kevin Visscher <kevin@clickseeker.nl>'
+-
+    package_name: dartz
+    package_version: v0.4.1
+    title: 'v0.4.1 of dartz'
+    published: '2016-10-23T15:20:51+00:00'
+    id: 'urn:uuid:06606ee7-1024-532a-bf3b-c5fa832ec2a2'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: discord
+    package_version: v0.15.0
+    title: 'v0.15.0 of discord'
+    published: '2016-10-23T15:12:08+00:00'
+    id: 'urn:uuid:e1b7a308-ddf0-5fa9-8b8b-7a585efd253d'
+    link: 'https://pub.dartlang.org/packages/discord'
+    author:
+        - 'Hackzzila <admin@hackzzila.com>'
