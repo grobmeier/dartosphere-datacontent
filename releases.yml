@@ -74178,3 +74178,12 @@
     link: 'https://pub.dartlang.org/packages/heaven'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: heaven
+    package_version: v1.0.0-dev+3
+    title: 'v1.0.0-dev+3 of heaven'
+    published: '2016-10-23T01:28:03+00:00'
+    id: 'urn:uuid:31749c5c-2305-592b-bf79-d09de18520c2'
+    link: 'https://pub.dartlang.org/packages/heaven'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
