@@ -74252,3 +74252,12 @@
     link: 'https://pub.dartlang.org/packages/toastr'
     author:
         - 'Kevin Visscher <kevin@clickseeker.nl>'
+-
+    package_name: redux_epics
+    package_version: v0.4.0
+    title: 'v0.4.0 of redux_epics'
+    published: '2016-10-23T19:21:26+00:00'
+    id: 'urn:uuid:85f0e33a-411e-5c75-a8c6-292b5125e32a'
+    link: 'https://pub.dartlang.org/packages/redux_epics'
+    author:
+        - 'Brian Egan <brian@brianegan.com>'
