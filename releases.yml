@@ -74243,3 +74243,12 @@
     link: 'https://pub.dartlang.org/packages/discord'
     author:
         - 'Hackzzila <admin@hackzzila.com>'
+-
+    package_name: toastr
+    package_version: v0.1.0+1
+    title: 'v0.1.0+1 of toastr'
+    published: '2016-10-23T18:58:57+00:00'
+    id: 'urn:uuid:672444a8-1300-59c2-a9b0-a4bac9842b5e'
+    link: 'https://pub.dartlang.org/packages/toastr'
+    author:
+        - 'Kevin Visscher <kevin@clickseeker.nl>'
