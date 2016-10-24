@@ -74280,3 +74280,12 @@
     link: 'https://pub.dartlang.org/packages/rxdart'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: rxdart
+    package_version: v0.4.4
+    title: 'v0.4.4 of rxdart'
+    published: '2016-10-24T12:11:35+00:00'
+    id: 'urn:uuid:6c716a7f-f407-54a3-a29f-d043b92a05fa'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
