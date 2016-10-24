@@ -74325,3 +74325,12 @@
     link: 'https://pub.dartlang.org/packages/html'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: bazel
+    package_version: v0.1.1
+    title: 'v0.1.1 of bazel'
+    published: '2016-10-24T15:05:44+00:00'
+    id: 'urn:uuid:45a3a8bc-fdce-53ae-808c-defe67a5389f'
+    link: 'https://pub.dartlang.org/packages/bazel'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
