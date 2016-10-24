@@ -74271,3 +74271,12 @@
     author:
         - 'Fernando Quinonez <fernando.andres.quinonez.granados@gmail.com>'
         - 'Antonio Goez <antoniogoez@gmail.com>'
+-
+    package_name: rxdart
+    package_version: v0.4.3
+    title: 'v0.4.3 of rxdart'
+    published: '2016-10-24T07:12:34+00:00'
+    id: 'urn:uuid:badbf1c6-fc92-580c-b05a-85890249a1ff'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
