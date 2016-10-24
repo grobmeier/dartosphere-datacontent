@@ -74307,3 +74307,21 @@
     link: 'https://pub.dartlang.org/packages/packages'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: rxdart
+    package_version: v0.4.6
+    title: 'v0.4.6 of rxdart'
+    published: '2016-10-24T14:42:11+00:00'
+    id: 'urn:uuid:1eccc5ac-4908-5b04-8b8d-d24e192161cc'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: html
+    package_version: v0.13.1
+    title: 'v0.13.1 of html'
+    published: '2016-10-24T14:19:06+00:00'
+    id: 'urn:uuid:f0db5dfb-8a39-5e29-b8cb-852bc00499c9'
+    link: 'https://pub.dartlang.org/packages/html'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
