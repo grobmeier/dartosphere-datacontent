@@ -74261,3 +74261,13 @@
     link: 'https://pub.dartlang.org/packages/redux_epics'
     author:
         - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: bbt
+    package_version: v1.0.3
+    title: 'v1.0.3 of bbt'
+    published: '2016-10-24T04:26:51+00:00'
+    id: 'urn:uuid:75ea1f61-c417-5fde-895c-02b3ac127fb7'
+    link: 'https://pub.dartlang.org/packages/bbt'
+    author:
+        - 'Fernando Quinonez <fernando.andres.quinonez.granados@gmail.com>'
+        - 'Antonio Goez <antoniogoez@gmail.com>'
