@@ -74289,3 +74289,21 @@
     link: 'https://pub.dartlang.org/packages/rxdart'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: changelog
+    package_version: v1.4.1
+    title: 'v1.4.1 of changelog'
+    published: '2016-10-24T13:16:19+00:00'
+    id: 'urn:uuid:d912f42c-827b-5004-aa97-33dfcb70d620'
+    link: 'https://pub.dartlang.org/packages/changelog'
+    author:
+        - office@mikemitterer.at
+-
+    package_name: packages
+    package_version: v0.1.4
+    title: 'v0.1.4 of packages'
+    published: '2016-10-24T13:05:55+00:00'
+    id: 'urn:uuid:12f04682-f6a9-56e1-b000-fd80b87f2420'
+    link: 'https://pub.dartlang.org/packages/packages'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
