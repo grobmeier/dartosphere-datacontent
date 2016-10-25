@@ -74423,3 +74423,12 @@
     link: 'https://pub.dartlang.org/packages/http_multi_server'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: tavern
+    package_version: v1.0.2
+    title: 'v1.0.2 of tavern'
+    published: '2016-10-25T22:32:52+00:00'
+    id: 'urn:uuid:3c840837-c14f-5caf-a9c4-7829c73a310e'
+    link: 'https://pub.dartlang.org/packages/tavern'
+    author:
+        - 'John Ryan <john.p.ryan4@gmail.com>'
