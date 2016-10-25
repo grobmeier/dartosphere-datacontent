@@ -74370,3 +74370,13 @@
     link: 'https://pub.dartlang.org/packages/over_react'
     author:
         - 'Workiva UI Platform Team <uip@workiva.com>'
+-
+    package_name: bbt
+    package_version: v1.0.5
+    title: 'v1.0.5 of bbt'
+    published: '2016-10-25T01:59:02+00:00'
+    id: 'urn:uuid:e68ba3ce-0462-54cc-ba60-7df4206c2ee6'
+    link: 'https://pub.dartlang.org/packages/bbt'
+    author:
+        - 'Fernando Quinonez <fernando.andres.quinonez.granados@gmail.com>'
+        - 'Antonio Goez <antoniogoez@gmail.com>'
