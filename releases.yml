@@ -74380,3 +74380,13 @@
     author:
         - 'Fernando Quinonez <fernando.andres.quinonez.granados@gmail.com>'
         - 'Antonio Goez <antoniogoez@gmail.com>'
+-
+    package_name: bbt
+    package_version: v1.0.6
+    title: 'v1.0.6 of bbt'
+    published: '2016-10-25T02:40:02+00:00'
+    id: 'urn:uuid:ce8e7aa7-d2c8-55c6-b12f-5c4217b377be'
+    link: 'https://pub.dartlang.org/packages/bbt'
+    author:
+        - 'Fernando Quinonez <fernando.andres.quinonez.granados@gmail.com>'
+        - 'Antonio Goez <antoniogoez@gmail.com>'
