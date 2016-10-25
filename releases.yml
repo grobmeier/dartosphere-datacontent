@@ -74400,3 +74400,17 @@
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: w_transport
+    package_version: v3.0.0
+    title: 'v3.0.0 of w_transport'
+    published: '2016-10-25T16:19:33+00:00'
+    id: 'urn:uuid:624984cc-3fc6-59e0-9ff0-8dc94153c27c'
+    link: 'https://pub.dartlang.org/packages/w_transport'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
