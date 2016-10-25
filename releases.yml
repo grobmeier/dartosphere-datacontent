@@ -74390,3 +74390,13 @@
     author:
         - 'Fernando Quinonez <fernando.andres.quinonez.granados@gmail.com>'
         - 'Antonio Goez <antoniogoez@gmail.com>'
+-
+    package_name: ng2gen
+    package_version: v0.2.0
+    title: 'v0.2.0 of ng2gen'
+    published: '2016-10-25T11:32:09+00:00'
+    id: 'urn:uuid:8f698232-c15a-587a-857c-eb265def7195'
+    link: 'https://pub.dartlang.org/packages/ng2gen'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
