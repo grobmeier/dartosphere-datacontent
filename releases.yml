@@ -74414,3 +74414,12 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: http_multi_server
+    package_version: v2.0.3
+    title: 'v2.0.3 of http_multi_server'
+    published: '2016-10-25T21:14:44+00:00'
+    id: 'urn:uuid:9079aa9b-85a7-556a-ba4f-7c5cd98b0614'
+    link: 'https://pub.dartlang.org/packages/http_multi_server'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
