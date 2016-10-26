@@ -74432,3 +74432,12 @@
     link: 'https://pub.dartlang.org/packages/tavern'
     author:
         - 'John Ryan <john.p.ryan4@gmail.com>'
+-
+    package_name: over_react
+    package_version: v1.0.2
+    title: 'v1.0.2 of over_react'
+    published: '2016-10-26T00:20:27+00:00'
+    id: 'urn:uuid:7151f879-1e18-55c3-8181-1117b46b8146'
+    link: 'https://pub.dartlang.org/packages/over_react'
+    author:
+        - 'Workiva UI Platform Team <uip@workiva.com>'
