@@ -74547,3 +74547,12 @@
     link: 'https://pub.dartlang.org/packages/dart2js_info'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dart2js_info
+    package_version: v0.5.1+1
+    title: 'v0.5.1+1 of dart2js_info'
+    published: '2016-10-27T15:16:52+00:00'
+    id: 'urn:uuid:98b24566-c7aa-503f-8f89-58ef7b1720f5'
+    link: 'https://pub.dartlang.org/packages/dart2js_info'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
