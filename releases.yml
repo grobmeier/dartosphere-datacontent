@@ -74565,3 +74565,12 @@
     link: 'https://pub.dartlang.org/packages/appcache'
     author:
         - 'João Furtado <jrofurtado@gmail.com>'
+-
+    package_name: over_react
+    package_version: v1.1.1
+    title: 'v1.1.1 of over_react'
+    published: '2016-10-27T18:07:56+00:00'
+    id: 'urn:uuid:aa43d3bb-b706-5052-ba3a-c80ac7e7b29a'
+    link: 'https://pub.dartlang.org/packages/over_react'
+    author:
+        - 'Workiva UI Platform Team <uip@workiva.com>'
