@@ -74538,3 +74538,12 @@
     link: 'https://pub.dartlang.org/packages/angular2_components'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dart2js_info
+    package_version: v0.5.1
+    title: 'v0.5.1 of dart2js_info'
+    published: '2016-10-27T14:12:34+00:00'
+    id: 'urn:uuid:342a2182-ef1d-5518-9463-6fbb7d6d7f3a'
+    link: 'https://pub.dartlang.org/packages/dart2js_info'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
