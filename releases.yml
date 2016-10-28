@@ -74583,3 +74583,12 @@
     link: 'https://pub.dartlang.org/packages/rxdart'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: appcache
+    package_version: v0.1.4
+    title: 'v0.1.4 of appcache'
+    published: '2016-10-28T10:32:07+00:00'
+    id: 'urn:uuid:29c294ee-70f7-5f3b-993d-70137136f91f'
+    link: 'https://pub.dartlang.org/packages/appcache'
+    author:
+        - 'João Furtado <jrofurtado@gmail.com>'
