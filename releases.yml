@@ -74619,3 +74619,12 @@
     link: 'https://pub.dartlang.org/packages/haru'
     author:
         - 'Beta Kuang <beta.kuang@gmail.com>'
+-
+    package_name: fnx_config
+    package_version: v1.2.0
+    title: 'v1.2.0 of fnx_config'
+    published: '2016-10-28T19:01:57+00:00'
+    id: 'urn:uuid:854f2e42-ffb1-5e14-9a8d-2e3510e5e445'
+    link: 'https://pub.dartlang.org/packages/fnx_config'
+    author:
+        - 'Tomas Zverina <tomucha@gmail.com>'
