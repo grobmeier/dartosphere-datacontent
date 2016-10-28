@@ -74610,3 +74610,12 @@
     link: 'https://pub.dartlang.org/packages/build'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: haru
+    package_version: v0.1.0
+    title: 'v0.1.0 of haru'
+    published: '2016-10-28T15:48:03+00:00'
+    id: 'urn:uuid:15004609-f7c7-5846-8248-809c90ace03b'
+    link: 'https://pub.dartlang.org/packages/haru'
+    author:
+        - 'Beta Kuang <beta.kuang@gmail.com>'
