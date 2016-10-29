@@ -74628,3 +74628,12 @@
     link: 'https://pub.dartlang.org/packages/fnx_config'
     author:
         - 'Tomas Zverina <tomucha@gmail.com>'
+-
+    package_name: chess3man_engine
+    package_version: v0.0.2
+    title: 'v0.0.2 of chess3man_engine'
+    published: '2016-10-29T20:15:17+00:00'
+    id: 'urn:uuid:05a5d009-b9e4-53ad-9566-c74fdf7c424d'
+    link: 'https://pub.dartlang.org/packages/chess3man_engine'
+    author:
+        - 'Michał Krzysztof Feiler <archiet@platinum.edu.pl>'
