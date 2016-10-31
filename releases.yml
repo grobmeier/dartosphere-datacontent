@@ -74773,3 +74773,12 @@
     link: 'https://pub.dartlang.org/packages/collection'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: chess3man_engine
+    package_version: v0.0.5
+    title: 'v0.0.5 of chess3man_engine'
+    published: '2016-10-31T14:59:15+00:00'
+    id: 'urn:uuid:b49b978b-3d85-54b4-8d2e-4b1a0e0f0991'
+    link: 'https://pub.dartlang.org/packages/chess3man_engine'
+    author:
+        - 'Michał Krzysztof Feiler <archiet@platinum.edu.pl>'
