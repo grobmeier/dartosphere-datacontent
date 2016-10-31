@@ -74673,3 +74673,94 @@
     link: 'https://pub.dartlang.org/packages/julian'
     author:
         - 'Christian Stewart <csstewa@gmail.com>'
+-
+    package_name: bloom_filter
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of bloom_filter'
+    published: '2016-10-31T09:31:21+00:00'
+    id: 'urn:uuid:6923fe57-04da-51f5-b5f2-b5aaf562b4b5'
+    link: 'https://pub.dartlang.org/packages/bloom_filter'
+    author:
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: interval_skip_list
+    package_version: v0.1.0
+    title: 'v0.1.0 of interval_skip_list'
+    published: '2016-10-31T08:41:41+00:00'
+    id: 'urn:uuid:b2af4c34-7c1d-57d1-b575-1d6f2621251e'
+    link: 'https://pub.dartlang.org/packages/interval_skip_list'
+    author:
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: range_map
+    package_version: v0.2.1
+    title: 'v0.2.1 of range_map'
+    published: '2016-10-31T07:42:31+00:00'
+    id: 'urn:uuid:079fbcb0-6384-59d3-8365-bbe6f9e211b0'
+    link: 'https://pub.dartlang.org/packages/range_map'
+    author:
+        - 'Fluidic Team <dev@fluidic.io>'
+-
+    package_name: chess3man_engine
+    package_version: v0.0.4
+    title: 'v0.0.4 of chess3man_engine'
+    published: '2016-10-30T19:59:47+00:00'
+    id: 'urn:uuid:1a4b9be2-40c2-55e9-ab01-67dd310d42e4'
+    link: 'https://pub.dartlang.org/packages/chess3man_engine'
+    author:
+        - 'Michał Krzysztof Feiler <archiet@platinum.edu.pl>'
+-
+    package_name: trestle
+    package_version: v0.11.1
+    title: 'v0.11.1 of trestle'
+    published: '2016-10-30T18:37:12+00:00'
+    id: 'urn:uuid:0fcd5acd-6b28-55e4-8115-342487e040b8'
+    link: 'https://pub.dartlang.org/packages/trestle'
+    author:
+        - 'Emil Persson <emil.n.persson@gmail.com>'
+-
+    package_name: webgl_helper
+    package_version: v0.3.0
+    title: 'v0.3.0 of webgl_helper'
+    published: '2016-10-30T18:22:24+00:00'
+    id: 'urn:uuid:1807a8b4-a160-5ec2-addb-ee0a4d49b59a'
+    link: 'https://pub.dartlang.org/packages/webgl_helper'
+    author:
+        - 'Oliver Damm <oliver.damm@gmx.de>'
+-
+    package_name: key_listener
+    package_version: v1.0.0
+    title: 'v1.0.0 of key_listener'
+    published: '2016-10-30T17:42:36+00:00'
+    id: 'urn:uuid:a40b9016-c601-5103-a60d-6092b03baf76'
+    link: 'https://pub.dartlang.org/packages/key_listener'
+    author:
+        - 'Kendal Harland <kjharland@google.com>'
+-
+    package_name: dartz
+    package_version: v0.4.2
+    title: 'v0.4.2 of dartz'
+    published: '2016-10-30T16:47:38+00:00'
+    id: 'urn:uuid:4bfe35f9-c047-5d02-a77c-f25f63ff0653'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: just_jwt
+    package_version: v1.3.0
+    title: 'v1.3.0 of just_jwt'
+    published: '2016-10-30T10:57:16+00:00'
+    id: 'urn:uuid:caa2fd01-1b61-556b-bf7e-0df2bb2f7aef'
+    link: 'https://pub.dartlang.org/packages/just_jwt'
+    author:
+        - 'Tomas Szabo <tomas.szabo@deftomat.com>'
+-
+    package_name: tuple
+    package_version: v1.0.1
+    title: 'v1.0.1 of tuple'
+    published: '2016-10-30T04:15:41+00:00'
+    id: 'urn:uuid:83c21857-a08e-5de9-8fa3-f47f74178a92'
+    link: 'https://pub.dartlang.org/packages/tuple'
+    author:
+        - 'Boris Kaul <localvoid@gmail.com>'
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
