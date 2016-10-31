@@ -74791,3 +74791,12 @@
     link: 'https://pub.dartlang.org/packages/w_common'
     author:
         - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+-
+    package_name: source_maps
+    package_version: v0.10.1+2
+    title: 'v0.10.1+2 of source_maps'
+    published: '2016-10-31T16:33:04+00:00'
+    id: 'urn:uuid:2f0c1ec7-3217-58e4-a81c-d55109237ac8'
+    link: 'https://pub.dartlang.org/packages/source_maps'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
