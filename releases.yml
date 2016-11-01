@@ -74902,3 +74902,12 @@
     link: 'https://pub.dartlang.org/packages/vm_service_lib'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: react
+    package_version: v3.0.1
+    title: 'v3.0.1 of react'
+    published: '2016-11-01T20:17:00+00:00'
+    id: 'urn:uuid:f068e0b8-e800-5b46-89d9-81f5cd437743'
+    link: 'https://pub.dartlang.org/packages/react'
+    author:
+        - 'Clean Team <clean@vacuumlabs.com>'
