@@ -74884,3 +74884,21 @@
     link: 'https://pub.dartlang.org/packages/redis'
     author:
         - 'Luka Rahne <luka.rahne@gmail.com>'
+-
+    package_name: source_gen
+    package_version: v0.5.1+5
+    title: 'v0.5.1+5 of source_gen'
+    published: '2016-11-01T19:54:22+00:00'
+    id: 'urn:uuid:add44c6b-c449-513e-a297-3925f1036112'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: vm_service_lib
+    package_version: v0.3.2
+    title: 'v0.3.2 of vm_service_lib'
+    published: '2016-11-01T19:30:46+00:00'
+    id: 'urn:uuid:7c067820-430a-515f-8af9-9876b9d03bb7'
+    link: 'https://pub.dartlang.org/packages/vm_service_lib'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
