@@ -74939,3 +74939,14 @@
     link: 'https://pub.dartlang.org/packages/collection'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: stagehand
+    package_version: v1.0.18
+    title: 'v1.0.18 of stagehand'
+    published: '2016-11-01T22:25:08+00:00'
+    id: 'urn:uuid:b4575e27-116e-5dce-853a-c29f173410eb'
+    link: 'https://pub.dartlang.org/packages/stagehand'
+    author:
+        - 'Seth Ladd <sethladd@google.com>'
+        - 'Devon Carew <devoncarew@google.com>'
+        - 'Kathy Walrath <kathyw@google.com>'
