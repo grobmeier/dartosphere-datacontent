@@ -74818,3 +74818,12 @@
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
         - 'Sean Eagan <seaneagan1@gmail.com>'
         - 'Victor Berchet <victor@suumit.com>'
+-
+    package_name: access
+    package_version: v0.9.4
+    title: 'v0.9.4 of access'
+    published: '2016-11-01T05:52:49+00:00'
+    id: 'urn:uuid:dd206b9f-e4f5-5ba1-831f-437f6d647ddd'
+    link: 'https://pub.dartlang.org/packages/access'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
