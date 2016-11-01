@@ -74875,3 +74875,12 @@
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
         - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+-
+    package_name: redis
+    package_version: v0.4.5
+    title: 'v0.4.5 of redis'
+    published: '2016-11-01T13:45:35+00:00'
+    id: 'urn:uuid:00b33dfa-de12-5b92-b281-167d0b5b3d08'
+    link: 'https://pub.dartlang.org/packages/redis'
+    author:
+        - 'Luka Rahne <luka.rahne@gmail.com>'
