@@ -74836,3 +74836,42 @@
     link: 'https://pub.dartlang.org/packages/haru'
     author:
         - 'Beta Kuang <beta.kuang@gmail.com>'
+-
+    package_name: chess3man_engine
+    package_version: v0.0.6
+    title: 'v0.0.6 of chess3man_engine'
+    published: '2016-11-01T10:30:11+00:00'
+    id: 'urn:uuid:d644f535-2b9c-54cb-a1c4-85b2b34e4097'
+    link: 'https://pub.dartlang.org/packages/chess3man_engine'
+    author:
+        - 'Michał Krzysztof Feiler <archiet@platinum.edu.pl>'
+-
+    package_name: redstone_database_mongo
+    package_version: v0.2.0
+    title: 'v0.2.0 of redstone_database_mongo'
+    published: '2016-11-01T10:19:42+00:00'
+    id: 'urn:uuid:2ab25b11-7fa0-50d2-93a6-f165ac8e9752'
+    link: 'https://pub.dartlang.org/packages/redstone_database_mongo'
+    author:
+        - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: redstone_database_plugin
+    package_version: v0.2.0
+    title: 'v0.2.0 of redstone_database_plugin'
+    published: '2016-11-01T10:18:54+00:00'
+    id: 'urn:uuid:2f654c1e-af2f-5b3c-b6c7-57908da50866'
+    link: 'https://pub.dartlang.org/packages/redstone_database_plugin'
+    author:
+        - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: serializer
+    package_version: v0.5.0
+    title: 'v0.5.0 of serializer'
+    published: '2016-11-01T10:13:24+00:00'
+    id: 'urn:uuid:d073e805-79a3-535b-a880-2e20a8c56853'
+    link: 'https://pub.dartlang.org/packages/serializer'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+        - 'Stéphane Este-Gracias <sestegra@gmail.com>'
