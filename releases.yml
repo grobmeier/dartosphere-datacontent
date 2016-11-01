@@ -74911,3 +74911,31 @@
     link: 'https://pub.dartlang.org/packages/react'
     author:
         - 'Clean Team <clean@vacuumlabs.com>'
+-
+    package_name: json_rpc_2
+    package_version: v2.0.3
+    title: 'v2.0.3 of json_rpc_2'
+    published: '2016-11-01T21:36:07+00:00'
+    id: 'urn:uuid:0195eca2-3c28-5bc8-9498-7d091da47808'
+    link: 'https://pub.dartlang.org/packages/json_rpc_2'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: serializer
+    package_version: v0.5.0+1
+    title: 'v0.5.0+1 of serializer'
+    published: '2016-11-01T21:20:56+00:00'
+    id: 'urn:uuid:9fa06877-3315-5a30-9056-fd12367e0f86'
+    link: 'https://pub.dartlang.org/packages/serializer'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+        - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+-
+    package_name: collection
+    package_version: v1.11.0
+    title: 'v1.11.0 of collection'
+    published: '2016-11-01T21:17:23+00:00'
+    id: 'urn:uuid:58e2d340-780f-5cf2-8ae8-a9c2b43eb391'
+    link: 'https://pub.dartlang.org/packages/collection'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
