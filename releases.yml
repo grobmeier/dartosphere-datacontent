@@ -74950,3 +74950,12 @@
         - 'Seth Ladd <sethladd@google.com>'
         - 'Devon Carew <devoncarew@google.com>'
         - 'Kathy Walrath <kathyw@google.com>'
+-
+    package_name: dart2js_info
+    package_version: v0.5.2
+    title: 'v0.5.2 of dart2js_info'
+    published: '2016-11-01T23:38:14+00:00'
+    id: 'urn:uuid:e8182c28-5daa-5821-beaa-e38b2653403b'
+    link: 'https://pub.dartlang.org/packages/dart2js_info'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
