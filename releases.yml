@@ -74977,3 +74977,93 @@
     link: 'https://pub.dartlang.org/packages/custom_elements'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@drafintech.it>'
+-
+    package_name: guppy_dart
+    package_version: v0.0.1+2
+    title: 'v0.0.1+2 of guppy_dart'
+    published: '2016-11-03T20:28:50+00:00'
+    id: 'urn:uuid:97c8ca50-f17d-5021-b3b1-0fbb51277962'
+    link: 'https://pub.dartlang.org/packages/guppy_dart'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: stagexl
+    package_version: v0.13.12
+    title: 'v0.13.12 of stagexl'
+    published: '2016-11-03T20:22:05+00:00'
+    id: 'urn:uuid:53cd47ac-a243-57f1-b00b-689084eeb3ce'
+    link: 'https://pub.dartlang.org/packages/stagexl'
+    author:
+        - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: aws_interop
+    package_version: v2.0.1
+    title: 'v2.0.1 of aws_interop'
+    published: '2016-11-03T20:18:21+00:00'
+    id: 'urn:uuid:59e79cd9-72a7-5572-ace3-9052b2b9937e'
+    link: 'https://pub.dartlang.org/packages/aws_interop'
+    author:
+        - 'John Ryan <john.p.ryan4@gmail.com>'
+-
+    package_name: bazel
+    package_version: v0.2.2
+    title: 'v0.2.2 of bazel'
+    published: '2016-11-03T20:03:16+00:00'
+    id: 'urn:uuid:0cd91459-a675-56cf-935b-382de8b4c91c'
+    link: 'https://pub.dartlang.org/packages/bazel'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: over_react
+    package_version: v1.2.0
+    title: 'v1.2.0 of over_react'
+    published: '2016-11-03T15:59:53+00:00'
+    id: 'urn:uuid:868021a5-84c8-54ad-9aa1-39bd90861978'
+    link: 'https://pub.dartlang.org/packages/over_react'
+    author:
+        - 'Workiva UI Platform Team <uip@workiva.com>'
+-
+    package_name: unifmt
+    package_version: v0.2.9+2
+    title: 'v0.2.9+2 of unifmt'
+    published: '2016-11-03T12:08:14+00:00'
+    id: 'urn:uuid:9e11d3f8-bc6f-5582-b256-ca67a27cd867'
+    link: 'https://pub.dartlang.org/packages/unifmt'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: susi
+    package_version: v0.1.2
+    title: 'v0.1.2 of susi'
+    published: '2016-11-03T12:07:33+00:00'
+    id: 'urn:uuid:84e72844-8073-5a4e-af7b-b2fa78834f00'
+    link: 'https://pub.dartlang.org/packages/susi'
+    author:
+        - 'Tino Rusch <tino.rusch@gmail.com>'
+-
+    package_name: edit_distance
+    package_version: v0.2.1
+    title: 'v0.2.1 of edit_distance'
+    published: '2016-11-03T10:08:31+00:00'
+    id: 'urn:uuid:79c70188-845e-537e-a75d-60eacfe520d8'
+    link: 'https://pub.dartlang.org/packages/edit_distance'
+    author:
+        - 'Kwang Yul Seo <email@example.com>'
+-
+    package_name: btree
+    package_version: v0.1.1
+    title: 'v0.1.1 of btree'
+    published: '2016-11-03T09:49:39+00:00'
+    id: 'urn:uuid:5a592580-1950-55c6-9216-00ebd3fe3c72'
+    link: 'https://pub.dartlang.org/packages/btree'
+    author:
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+-
+    package_name: coverage
+    package_version: v0.8.0+2
+    title: 'v0.8.0+2 of coverage'
+    published: '2016-11-03T05:38:03+00:00'
+    id: 'urn:uuid:f12e0f4a-0f2e-50a2-a7e4-2c6d1362b51a'
+    link: 'https://pub.dartlang.org/packages/coverage'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
