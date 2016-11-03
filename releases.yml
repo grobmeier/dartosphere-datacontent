@@ -75067,3 +75067,12 @@
     link: 'https://pub.dartlang.org/packages/coverage'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: guppy_dart
+    package_version: v0.0.2
+    title: 'v0.0.2 of guppy_dart'
+    published: '2016-11-03T22:26:29+00:00'
+    id: 'urn:uuid:3004046f-19ac-5f9d-8038-b0d0ccc8e4ec'
+    link: 'https://pub.dartlang.org/packages/guppy_dart'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
