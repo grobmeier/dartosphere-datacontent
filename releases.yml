@@ -75076,3 +75076,12 @@
     link: 'https://pub.dartlang.org/packages/guppy_dart'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: w_common
+    package_version: v0.2.0
+    title: 'v0.2.0 of w_common'
+    published: '2016-11-04T16:09:57+00:00'
+    id: 'urn:uuid:1832cdcc-472b-5520-94bb-b4fe9f8392b0'
+    link: 'https://pub.dartlang.org/packages/w_common'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
