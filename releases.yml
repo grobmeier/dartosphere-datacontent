@@ -75094,3 +75094,12 @@
     link: 'https://pub.dartlang.org/packages/aqueduct'
     author:
         - 'stable|kernel <http://stablekernel.com>'
+-
+    package_name: string_sequence
+    package_version: v0.0.1
+    title: 'v0.0.1 of string_sequence'
+    published: '2016-11-04T19:27:10+00:00'
+    id: 'urn:uuid:011cf47a-eb2d-5778-bda0-c779c4fb9c3e'
+    link: 'https://pub.dartlang.org/packages/string_sequence'
+    author:
+        - 'Kendal Harland <kendaljharland@gmail.com>'
