@@ -75085,3 +75085,12 @@
     link: 'https://pub.dartlang.org/packages/w_common'
     author:
         - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+-
+    package_name: aqueduct
+    package_version: v1.0.2
+    title: 'v1.0.2 of aqueduct'
+    published: '2016-11-04T18:39:51+00:00'
+    id: 'urn:uuid:1cfcbade-c16b-5f31-abb5-0d1cab57acdd'
+    link: 'https://pub.dartlang.org/packages/aqueduct'
+    author:
+        - 'stable|kernel <http://stablekernel.com>'
