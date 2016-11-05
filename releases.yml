@@ -75157,3 +75157,12 @@
     link: 'https://pub.dartlang.org/packages/dartabase_core'
     author:
         - 'Hannes Rammer <Hannes.Rammer@gmail.com>'
+-
+    package_name: flake_uuid
+    package_version: v0.0.1
+    title: 'v0.0.1 of flake_uuid'
+    published: '2016-11-05T22:29:07+00:00'
+    id: 'urn:uuid:04f27c11-98b1-50b6-841c-e121686eeae2'
+    link: 'https://pub.dartlang.org/packages/flake_uuid'
+    author:
+        - 'Istvan Soos <istvan.soos@agilord.com>'
