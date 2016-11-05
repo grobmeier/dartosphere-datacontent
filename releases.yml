@@ -75103,3 +75103,12 @@
     link: 'https://pub.dartlang.org/packages/string_sequence'
     author:
         - 'Kendal Harland <kendaljharland@gmail.com>'
+-
+    package_name: immutable
+    package_version: v0.0.4
+    title: 'v0.0.4 of immutable'
+    published: '2016-11-05T06:10:13+00:00'
+    id: 'urn:uuid:5cadab7c-6d04-56f0-8a4d-bae9a8166c56'
+    link: 'https://pub.dartlang.org/packages/immutable'
+    author:
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
