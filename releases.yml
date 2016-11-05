@@ -75139,3 +75139,12 @@
     link: 'https://pub.dartlang.org/packages/just_jwt'
     author:
         - 'Tomas Szabo <tomas.szabo@deftomat.com>'
+-
+    package_name: guppy_dart
+    package_version: v0.0.3
+    title: 'v0.0.3 of guppy_dart'
+    published: '2016-11-05T14:26:25+00:00'
+    id: 'urn:uuid:d4140e5e-ceb9-5002-837d-bcabc1f061de'
+    link: 'https://pub.dartlang.org/packages/guppy_dart'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
