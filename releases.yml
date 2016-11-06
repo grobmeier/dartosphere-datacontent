@@ -75193,3 +75193,12 @@
     link: 'https://pub.dartlang.org/packages/throttle_debounce'
     author:
         - 'Shivanshu Agrawal <shivanshuag@gmail.com>'
+-
+    package_name: ng2_g_signin
+    package_version: v0.3.1
+    title: 'v0.3.1 of ng2_g_signin'
+    published: '2016-11-06T09:34:10+00:00'
+    id: 'urn:uuid:674b32cf-84ee-56db-bf99-3a682c40a545'
+    link: 'https://pub.dartlang.org/packages/ng2_g_signin'
+    author:
+        - 'ntaoo <ntaoo.g@gmail.com>'
