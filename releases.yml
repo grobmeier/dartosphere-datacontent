@@ -75211,3 +75211,12 @@
     link: 'https://pub.dartlang.org/packages/semantic_ui_angular_dart'
     author:
         - 'Nick Ng <ngyewch@gmail.com>'
+-
+    package_name: semantic_ui_angular_dart
+    package_version: v0.0.4
+    title: 'v0.0.4 of semantic_ui_angular_dart'
+    published: '2016-11-06T15:16:50+00:00'
+    id: 'urn:uuid:d4d95961-6803-5f79-8c4a-238f1b61c388'
+    link: 'https://pub.dartlang.org/packages/semantic_ui_angular_dart'
+    author:
+        - 'Nick Ng <ngyewch@gmail.com>'
