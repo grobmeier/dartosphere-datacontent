@@ -75175,3 +75175,12 @@
     link: 'https://pub.dartlang.org/packages/http_request_proxy'
     author:
         - 'Istvan Soos <istvan.soos@agilord.com>'
+-
+    package_name: params
+    package_version: v0.0.4
+    title: 'v0.0.4 of params'
+    published: '2016-11-06T01:09:43+00:00'
+    id: 'urn:uuid:801ee069-0a9d-5132-9e0b-09261ae6bd5d'
+    link: 'https://pub.dartlang.org/packages/params'
+    author:
+        - 'Hannes Rammer <Hannes.Rammer@gmail.com>'
