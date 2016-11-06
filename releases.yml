@@ -75184,3 +75184,12 @@
     link: 'https://pub.dartlang.org/packages/params'
     author:
         - 'Hannes Rammer <Hannes.Rammer@gmail.com>'
+-
+    package_name: throttle_debounce
+    package_version: v0.1.2+1
+    title: 'v0.1.2+1 of throttle_debounce'
+    published: '2016-11-06T07:24:52+00:00'
+    id: 'urn:uuid:498eccca-62e9-5c49-9230-5b73901265ba'
+    link: 'https://pub.dartlang.org/packages/throttle_debounce'
+    author:
+        - 'Shivanshu Agrawal <shivanshuag@gmail.com>'
