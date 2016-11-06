@@ -75202,3 +75202,12 @@
     link: 'https://pub.dartlang.org/packages/ng2_g_signin'
     author:
         - 'ntaoo <ntaoo.g@gmail.com>'
+-
+    package_name: semantic_ui_angular_dart
+    package_version: v0.0.3
+    title: 'v0.0.3 of semantic_ui_angular_dart'
+    published: '2016-11-06T14:59:44+00:00'
+    id: 'urn:uuid:82506a51-539c-51a3-bf47-55e5bcbfe05b'
+    link: 'https://pub.dartlang.org/packages/semantic_ui_angular_dart'
+    author:
+        - 'Nick Ng <ngyewch@gmail.com>'
