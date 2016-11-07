@@ -75256,3 +75256,12 @@
     link: 'https://pub.dartlang.org/packages/material2_dart'
     author:
         - 'ntaoo <ntaoo.g@gmail.com>'
+-
+    package_name: test
+    package_version: v0.12.15+12
+    title: 'v0.12.15+12 of test'
+    published: '2016-11-07T21:58:51+00:00'
+    id: 'urn:uuid:7f33fe7b-ae54-555d-aa34-2fb6e03943ed'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
