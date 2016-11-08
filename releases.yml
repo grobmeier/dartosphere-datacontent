@@ -75324,3 +75324,12 @@
     link: 'https://pub.dartlang.org/packages/semantic_ui_angular_dart'
     author:
         - 'Nick Ng <ngyewch@gmail.com>'
+-
+    package_name: source_span
+    package_version: v1.3.0
+    title: 'v1.3.0 of source_span'
+    published: '2016-11-08T19:35:45+00:00'
+    id: 'urn:uuid:134664b8-2e23-5f04-afb2-7b3f2a69972c'
+    link: 'https://pub.dartlang.org/packages/source_span'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
