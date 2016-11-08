@@ -75315,3 +75315,12 @@
     link: 'https://pub.dartlang.org/packages/bootjack_datepicker'
     author:
         - 'Jimmy Shiau <jimmyshiau@potix.com>'
+-
+    package_name: semantic_ui_angular_dart
+    package_version: v0.1.4
+    title: 'v0.1.4 of semantic_ui_angular_dart'
+    published: '2016-11-08T16:06:34+00:00'
+    id: 'urn:uuid:37bf1a33-8ddd-5448-b4ab-0113a36a00d8'
+    link: 'https://pub.dartlang.org/packages/semantic_ui_angular_dart'
+    author:
+        - 'Nick Ng <ngyewch@gmail.com>'
