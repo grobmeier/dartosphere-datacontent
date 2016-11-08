@@ -75306,3 +75306,12 @@
     link: 'https://pub.dartlang.org/packages/semantic_ui_angular_dart'
     author:
         - 'Nick Ng <ngyewch@gmail.com>'
+-
+    package_name: bootjack_datepicker
+    package_version: v0.5.7
+    title: 'v0.5.7 of bootjack_datepicker'
+    published: '2016-11-08T09:26:39+00:00'
+    id: 'urn:uuid:8de099b8-bdc9-5da1-8877-e1b559c8816e'
+    link: 'https://pub.dartlang.org/packages/bootjack_datepicker'
+    author:
+        - 'Jimmy Shiau <jimmyshiau@potix.com>'
