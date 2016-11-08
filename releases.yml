@@ -75279,3 +75279,21 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: args
+    package_version: v0.13.6+1
+    title: 'v0.13.6+1 of args'
+    published: '2016-11-07T23:56:35+00:00'
+    id: 'urn:uuid:dd0c8d0b-5d6d-5524-8677-df454981c1ef'
+    link: 'https://pub.dartlang.org/packages/args'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: flutter_flux
+    package_version: v4.0.0
+    title: 'v4.0.0 of flutter_flux'
+    published: '2016-11-07T23:36:23+00:00'
+    id: 'urn:uuid:2c77e4fd-4537-5002-8fa7-7bd9a45a0bd6'
+    link: 'https://pub.dartlang.org/packages/flutter_flux'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
