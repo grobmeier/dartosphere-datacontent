@@ -75333,3 +75333,17 @@
     link: 'https://pub.dartlang.org/packages/source_span'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: fluri
+    package_version: v1.2.1
+    title: 'v1.2.1 of fluri'
+    published: '2016-11-08T20:29:51+00:00'
+    id: 'urn:uuid:3c7576e5-cdff-5ccc-9b36-217b3cb0a989'
+    link: 'https://pub.dartlang.org/packages/fluri'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <evan.weible@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
