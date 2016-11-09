@@ -75356,3 +75356,12 @@
     link: 'https://pub.dartlang.org/packages/scissors'
     author:
         - 'Olivier Chafik <ochafik@google.com>'
+-
+    package_name: dacsslide
+    package_version: v0.1.0
+    title: 'v0.1.0 of dacsslide'
+    published: '2016-11-09T00:15:41+00:00'
+    id: 'urn:uuid:0eb2e381-ba63-567d-8530-2c1c9ff0a276'
+    link: 'https://pub.dartlang.org/packages/dacsslide'
+    author:
+        - 'Valentyn Shybanov <olostan@gmail.com>'
