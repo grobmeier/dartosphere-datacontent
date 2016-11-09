@@ -75401,3 +75401,12 @@
     link: 'https://pub.dartlang.org/packages/vm_service_lib'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: w_common
+    package_version: v1.0.0
+    title: 'v1.0.0 of w_common'
+    published: '2016-11-09T22:32:56+00:00'
+    id: 'urn:uuid:40ff44f4-7d12-58e5-b394-1a8449bf8213'
+    link: 'https://pub.dartlang.org/packages/w_common'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
