@@ -75347,3 +75347,12 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: scissors
+    package_version: v0.6.6
+    title: 'v0.6.6 of scissors'
+    published: '2016-11-08T23:38:50+00:00'
+    id: 'urn:uuid:bc15275e-df7a-570e-bead-71fca2e0c26a'
+    link: 'https://pub.dartlang.org/packages/scissors'
+    author:
+        - 'Olivier Chafik <ochafik@google.com>'
