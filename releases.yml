@@ -75446,3 +75446,31 @@
     link: 'https://pub.dartlang.org/packages/chess3man_engine'
     author:
         - 'Michał Krzysztof Feiler <archiet@platinum.edu.pl>'
+-
+    package_name: built_value_generator
+    package_version: v0.1.6
+    title: 'v0.1.6 of built_value_generator'
+    published: '2016-11-11T13:32:46+00:00'
+    id: 'urn:uuid:6a599ed9-9341-5e78-8493-7bdd7d8616ee'
+    link: 'https://pub.dartlang.org/packages/built_value_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value
+    package_version: v0.1.6
+    title: 'v0.1.6 of built_value'
+    published: '2016-11-11T13:31:38+00:00'
+    id: 'urn:uuid:50dacd7c-359a-5fdc-b85c-b687c05d476f'
+    link: 'https://pub.dartlang.org/packages/built_value'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_collection
+    package_version: v1.2.0
+    title: 'v1.2.0 of built_collection'
+    published: '2016-11-11T13:21:52+00:00'
+    id: 'urn:uuid:e11c42b1-bbc6-556e-94d8-e199a6ba2de9'
+    link: 'https://pub.dartlang.org/packages/built_collection'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+        - 'Matan Lurey <matanl@google.com>'
