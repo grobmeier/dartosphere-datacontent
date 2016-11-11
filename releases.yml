@@ -75502,3 +75502,12 @@
     link: 'https://pub.dartlang.org/packages/eqlib'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: guppy_dart
+    package_version: v0.0.3+1
+    title: 'v0.0.3+1 of guppy_dart'
+    published: '2016-11-11T19:33:56+00:00'
+    id: 'urn:uuid:374fcf43-ab96-58e4-b134-651db815d3cd'
+    link: 'https://pub.dartlang.org/packages/guppy_dart'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
