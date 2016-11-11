@@ -75437,3 +75437,12 @@
     link: 'https://pub.dartlang.org/packages/mutex'
     author:
         - 'Hoylen Sue <hoylen@hoylen.com>'
+-
+    package_name: chess3man_engine
+    package_version: v0.0.7
+    title: 'v0.0.7 of chess3man_engine'
+    published: '2016-11-11T09:53:13+00:00'
+    id: 'urn:uuid:5c2c0189-630f-5037-b5cb-d1320dc14767'
+    link: 'https://pub.dartlang.org/packages/chess3man_engine'
+    author:
+        - 'Michał Krzysztof Feiler <archiet@platinum.edu.pl>'
