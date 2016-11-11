@@ -75428,3 +75428,12 @@
     link: 'https://pub.dartlang.org/packages/build'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: mutex
+    package_version: v0.0.1
+    title: 'v0.0.1 of mutex'
+    published: '2016-11-11T07:43:41+00:00'
+    id: 'urn:uuid:e2775f25-78de-5905-a123-40c43fc13761'
+    link: 'https://pub.dartlang.org/packages/mutex'
+    author:
+        - 'Hoylen Sue <hoylen@hoylen.com>'
