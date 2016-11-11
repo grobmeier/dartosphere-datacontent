@@ -75493,3 +75493,12 @@
     link: 'https://pub.dartlang.org/packages/eqlib'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: eqlib
+    package_version: v0.0.2
+    title: 'v0.0.2 of eqlib'
+    published: '2016-11-11T18:14:04+00:00'
+    id: 'urn:uuid:aa382160-64dd-5d56-b0e6-41496486c1c0'
+    link: 'https://pub.dartlang.org/packages/eqlib'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
