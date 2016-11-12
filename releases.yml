@@ -75553,3 +75553,48 @@
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: http_request_proxy
+    package_version: v0.0.2
+    title: 'v0.0.2 of http_request_proxy'
+    published: '2016-11-12T15:28:23+00:00'
+    id: 'urn:uuid:20db52a0-97fc-5a52-a46e-13daddb7a99c'
+    link: 'https://pub.dartlang.org/packages/http_request_proxy'
+    author:
+        - 'Istvan Soos <istvan.soos@agilord.com>'
+-
+    package_name: flake_uuid
+    package_version: v0.0.2
+    title: 'v0.0.2 of flake_uuid'
+    published: '2016-11-12T15:25:07+00:00'
+    id: 'urn:uuid:fc5763a5-91d5-5e95-9c44-5433a397e028'
+    link: 'https://pub.dartlang.org/packages/flake_uuid'
+    author:
+        - 'Istvan Soos <istvan.soos@agilord.com>'
+-
+    package_name: polymer_element
+    package_version: v0.0.7
+    title: 'v0.0.7 of polymer_element'
+    published: '2016-11-12T15:16:22+00:00'
+    id: 'urn:uuid:4514a5ca-2658-5d3f-8dd7-93f203262af1'
+    link: 'https://pub.dartlang.org/packages/polymer_element'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: diacritic
+    package_version: v0.0.1
+    title: 'v0.0.1 of diacritic'
+    published: '2016-11-12T15:14:24+00:00'
+    id: 'urn:uuid:8b7bf095-da9e-5d08-a0ed-6ec81e3c7667'
+    link: 'https://pub.dartlang.org/packages/diacritic'
+    author:
+        - 'Istvan Soos <istvan.soos@agilord.com>'
+-
+    package_name: polymerize
+    package_version: v0.2.5
+    title: 'v0.2.5 of polymerize'
+    published: '2016-11-12T15:14:13+00:00'
+    id: 'urn:uuid:0a7a0b22-d223-591d-b997-9afb376aaa99'
+    link: 'https://pub.dartlang.org/packages/polymerize'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
