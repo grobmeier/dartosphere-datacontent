@@ -75543,3 +75543,13 @@
     link: 'https://pub.dartlang.org/packages/yamlicious'
     author:
         - 'Anders Holmgren <andersmholmgren@gmail.com>'
+-
+    package_name: ng2gen
+    package_version: v0.2.1
+    title: 'v0.2.1 of ng2gen'
+    published: '2016-11-12T03:09:41+00:00'
+    id: 'urn:uuid:08089859-421b-531d-a6de-afc7a20d43c0'
+    link: 'https://pub.dartlang.org/packages/ng2gen'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
