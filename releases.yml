@@ -75534,3 +75534,12 @@
     link: 'https://pub.dartlang.org/packages/args'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: yamlicious
+    package_version: v0.0.5
+    title: 'v0.0.5 of yamlicious'
+    published: '2016-11-12T01:52:20+00:00'
+    id: 'urn:uuid:779b550a-0a98-5d9d-b8a9-857d101fcedc'
+    link: 'https://pub.dartlang.org/packages/yamlicious'
+    author:
+        - 'Anders Holmgren <andersmholmgren@gmail.com>'
