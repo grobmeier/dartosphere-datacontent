@@ -75598,3 +75598,21 @@
     link: 'https://pub.dartlang.org/packages/polymerize'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: build_test
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of build_test'
+    published: '2016-11-12T20:58:44+00:00'
+    id: 'urn:uuid:f8199251-8140-5a60-9588-963f6cd42d86'
+    link: 'https://pub.dartlang.org/packages/build_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: source_gen
+    package_version: v0.5.1+6
+    title: 'v0.5.1+6 of source_gen'
+    published: '2016-11-12T20:55:05+00:00'
+    id: 'urn:uuid:eeb37738-ed23-5a96-9c06-db43df474a29'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
