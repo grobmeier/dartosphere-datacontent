@@ -75643,3 +75643,21 @@
     link: 'https://pub.dartlang.org/packages/dartz'
     author:
         - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: bliss
+    package_version: v0.3.0
+    title: 'v0.3.0 of bliss'
+    published: '2016-11-13T22:45:29+00:00'
+    id: 'urn:uuid:1bdf04ad-9133-570c-b14e-f9c78a46fe25'
+    link: 'https://pub.dartlang.org/packages/bliss'
+    author:
+        - 'Steven Upton <steven.upton@indecks.co>'
+-
+    package_name: sass_generator
+    package_version: v0.1.0-dev
+    title: 'v0.1.0-dev of sass_generator'
+    published: '2016-11-13T22:20:25+00:00'
+    id: 'urn:uuid:0fd672bc-bea7-589a-9126-8dc72cfbee71'
+    link: 'https://pub.dartlang.org/packages/sass_generator'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
