@@ -75634,3 +75634,12 @@
     link: 'https://pub.dartlang.org/packages/edit_distance'
     author:
         - 'Kwang Yul Seo <email@example.com>'
+-
+    package_name: dartz
+    package_version: v0.4.3
+    title: 'v0.4.3 of dartz'
+    published: '2016-11-13T18:25:54+00:00'
+    id: 'urn:uuid:e28d47be-135c-5bfc-b1cd-438ea817ad0a'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
