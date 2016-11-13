@@ -75616,3 +75616,21 @@
     link: 'https://pub.dartlang.org/packages/source_gen'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: semantic_ui_angular_dart
+    package_version: v0.1.5
+    title: 'v0.1.5 of semantic_ui_angular_dart'
+    published: '2016-11-13T12:37:03+00:00'
+    id: 'urn:uuid:73d4b194-0998-5870-ae28-be8b553501ac'
+    link: 'https://pub.dartlang.org/packages/semantic_ui_angular_dart'
+    author:
+        - 'Nick Ng <ngyewch@gmail.com>'
+-
+    package_name: edit_distance
+    package_version: v0.3.0
+    title: 'v0.3.0 of edit_distance'
+    published: '2016-11-13T12:11:20+00:00'
+    id: 'urn:uuid:c5b72f62-4c1e-5a4a-8c53-ee3753b5bb29'
+    link: 'https://pub.dartlang.org/packages/edit_distance'
+    author:
+        - 'Kwang Yul Seo <email@example.com>'
