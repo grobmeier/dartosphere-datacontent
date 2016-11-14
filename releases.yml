@@ -75697,3 +75697,12 @@
     link: 'https://pub.dartlang.org/packages/enum_class'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: aqueduct
+    package_version: v1.0.3
+    title: 'v1.0.3 of aqueduct'
+    published: '2016-11-14T14:25:35+00:00'
+    id: 'urn:uuid:d57fa8ce-f9e7-5e98-a8a2-7b212c646e3d'
+    link: 'https://pub.dartlang.org/packages/aqueduct'
+    author:
+        - 'stable|kernel <http://stablekernel.com>'
