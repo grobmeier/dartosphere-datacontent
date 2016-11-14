@@ -75679,3 +75679,21 @@
     link: 'https://pub.dartlang.org/packages/reply'
     author:
         - 'Matan Lurey <matanl@lurey.org>'
+-
+    package_name: enum_class_generator
+    package_version: v1.1.2
+    title: 'v1.1.2 of enum_class_generator'
+    published: '2016-11-14T11:27:28+00:00'
+    id: 'urn:uuid:7778c592-6330-5111-9400-1f62f42ab9e3'
+    link: 'https://pub.dartlang.org/packages/enum_class_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: enum_class
+    package_version: v1.1.2
+    title: 'v1.1.2 of enum_class'
+    published: '2016-11-14T11:26:13+00:00'
+    id: 'urn:uuid:e30f4aff-0c0c-5143-9987-bfd8c13cc3bb'
+    link: 'https://pub.dartlang.org/packages/enum_class'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
