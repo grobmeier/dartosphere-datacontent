@@ -75738,3 +75738,12 @@
     link: 'https://pub.dartlang.org/packages/initialize'
     author:
         - 'Polymer.dart Authors <web@dartlang.org>'
+-
+    package_name: linter
+    package_version: v0.1.29
+    title: 'v0.1.29 of linter'
+    published: '2016-11-14T18:43:59+00:00'
+    id: 'urn:uuid:53a4f227-867b-552c-9f2a-e75212cd391d'
+    link: 'https://pub.dartlang.org/packages/linter'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
