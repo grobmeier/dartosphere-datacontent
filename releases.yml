@@ -75720,3 +75720,21 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: web_components
+    package_version: v0.12.4
+    title: 'v0.12.4 of web_components'
+    published: '2016-11-14T17:14:37+00:00'
+    id: 'urn:uuid:ed6ca739-0acb-5838-a72c-6a8b7bd0c9ef'
+    link: 'https://pub.dartlang.org/packages/web_components'
+    author:
+        - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: initialize
+    package_version: v0.6.2+3
+    title: 'v0.6.2+3 of initialize'
+    published: '2016-11-14T17:04:06+00:00'
+    id: 'urn:uuid:875cbebd-b2f6-5e50-9816-9be87d6c3e8b'
+    link: 'https://pub.dartlang.org/packages/initialize'
+    author:
+        - 'Polymer.dart Authors <web@dartlang.org>'
