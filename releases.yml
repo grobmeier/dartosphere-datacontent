@@ -75756,3 +75756,21 @@
     link: 'https://pub.dartlang.org/packages/json_schema'
     author:
         - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: bootjack_datepicker
+    package_version: v0.5.7+1
+    title: 'v0.5.7+1 of bootjack_datepicker'
+    published: '2016-11-15T10:51:01+00:00'
+    id: 'urn:uuid:bddca272-05d4-5fb0-9345-2e2815f2955d'
+    link: 'https://pub.dartlang.org/packages/bootjack_datepicker'
+    author:
+        - 'Jimmy Shiau <jimmyshiau@potix.com>'
+-
+    package_name: mdl
+    package_version: v1.18.0
+    title: 'v1.18.0 of mdl'
+    published: '2016-11-15T10:10:37+00:00'
+    id: 'urn:uuid:267bd42f-dbc0-540c-aa7f-2322b8da9240'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
