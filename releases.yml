@@ -75774,3 +75774,12 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: haystack
+    package_version: v0.4.18
+    title: 'v0.4.18 of haystack'
+    published: '2016-11-15T14:24:40+00:00'
+    id: 'urn:uuid:856fa51a-ef06-581b-becf-cad69b7f59c6'
+    link: 'https://pub.dartlang.org/packages/haystack'
+    author:
+        - 'Dmitriy Vasilyev <dmitry@bassg.com>'
