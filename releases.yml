@@ -75783,3 +75783,23 @@
     link: 'https://pub.dartlang.org/packages/haystack'
     author:
         - 'Dmitriy Vasilyev <dmitry@bassg.com>'
+-
+    package_name: slickdart
+    package_version: v0.1.8+3
+    title: 'v0.1.8+3 of slickdart'
+    published: '2016-11-15T15:35:24+00:00'
+    id: 'urn:uuid:3f4e3baf-337f-5831-a108-b84be0e7965d'
+    link: 'https://pub.dartlang.org/packages/slickdart'
+    author:
+        - 'CJKAO <kaopeter@gmail.com>'
+        - tonosama-atlacatl
+        - yyyangd
+-
+    package_name: reflectable
+    package_version: v1.0.1
+    title: 'v1.0.1 of reflectable'
+    published: '2016-11-15T15:20:14+00:00'
+    id: 'urn:uuid:6dc79962-05dc-5762-a83e-8cd65015e231'
+    link: 'https://pub.dartlang.org/packages/reflectable'
+    author:
+        - 'The Dart Team <dart@google.com>'
