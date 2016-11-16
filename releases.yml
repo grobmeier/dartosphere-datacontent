@@ -75975,3 +75975,39 @@
     link: 'https://pub.dartlang.org/packages/latlong'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: packages
+    package_version: v0.1.6
+    title: 'v0.1.6 of packages'
+    published: '2016-11-16T13:56:59+00:00'
+    id: 'urn:uuid:a071698f-592f-5be8-b7d1-de24522b4be8'
+    link: 'https://pub.dartlang.org/packages/packages'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: dasic
+    package_version: v1.1.1
+    title: 'v1.1.1 of dasic'
+    published: '2016-11-16T13:51:06+00:00'
+    id: 'urn:uuid:e3b807ff-87b8-5922-a2ac-89a0e81a7511'
+    link: 'https://pub.dartlang.org/packages/dasic'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: changelog
+    package_version: v1.4.2
+    title: 'v1.4.2 of changelog'
+    published: '2016-11-16T13:45:00+00:00'
+    id: 'urn:uuid:e2fba9fa-dbe1-5309-9cce-87347704c35b'
+    link: 'https://pub.dartlang.org/packages/changelog'
+    author:
+        - office@mikemitterer.at
+-
+    package_name: spaceinvaders
+    package_version: v1.1.0
+    title: 'v1.1.0 of spaceinvaders'
+    published: '2016-11-16T13:28:28+00:00'
+    id: 'urn:uuid:bead8d34-4f85-5dfa-9ead-fe3598423228'
+    link: 'https://pub.dartlang.org/packages/spaceinvaders'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
