@@ -75930,3 +75930,48 @@
     link: 'https://pub.dartlang.org/packages/l10n'
     author:
         - 'Mike Mitterer  <office@mikemitterer.at>'
+-
+    package_name: spaceinvaders
+    package_version: v1.0.2
+    title: 'v1.0.2 of spaceinvaders'
+    published: '2016-11-16T13:00:39+00:00'
+    id: 'urn:uuid:2f368201-b3d3-57d9-bf55-8650fc3022ee'
+    link: 'https://pub.dartlang.org/packages/spaceinvaders'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: validate
+    package_version: v1.5.3
+    title: 'v1.5.3 of validate'
+    published: '2016-11-16T12:47:11+00:00'
+    id: 'urn:uuid:d08c2209-6116-5d74-a62a-1f77369c1f38'
+    link: 'https://pub.dartlang.org/packages/validate'
+    author:
+        - 'Mike Mitterer  <office@mikemitterer.at>'
+-
+    package_name: prettify
+    package_version: v0.2.1
+    title: 'v0.2.1 of prettify'
+    published: '2016-11-16T12:43:31+00:00'
+    id: 'urn:uuid:e42300b8-5cfb-5699-8ca0-b7b51e2c6de9'
+    link: 'https://pub.dartlang.org/packages/prettify'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: material_icons
+    package_version: v1.0.4
+    title: 'v1.0.4 of material_icons'
+    published: '2016-11-16T12:40:50+00:00'
+    id: 'urn:uuid:6014bdea-3e95-55d0-8967-6f1edb0d7c7a'
+    link: 'https://pub.dartlang.org/packages/material_icons'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: latlong
+    package_version: v0.3.4
+    title: 'v0.3.4 of latlong'
+    published: '2016-11-16T12:28:07+00:00'
+    id: 'urn:uuid:7a7e30d3-0244-5f34-ab52-b2edcee74326'
+    link: 'https://pub.dartlang.org/packages/latlong'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
