@@ -76011,3 +76011,12 @@
     link: 'https://pub.dartlang.org/packages/spaceinvaders'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: sitegen
+    package_version: v1.4.2
+    title: 'v1.4.2 of sitegen'
+    published: '2016-11-16T14:39:34+00:00'
+    id: 'urn:uuid:317b06e6-9baa-587b-afa5-330ea7212c71'
+    link: 'https://pub.dartlang.org/packages/sitegen'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
