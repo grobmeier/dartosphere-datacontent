@@ -76038,3 +76038,21 @@
     link: 'https://pub.dartlang.org/packages/stagedive'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: initialize
+    package_version: v0.6.2+5
+    title: 'v0.6.2+5 of initialize'
+    published: '2016-11-16T16:39:59+00:00'
+    id: 'urn:uuid:bfc7e1b4-5099-57b0-ba0c-edb1bb901cd6'
+    link: 'https://pub.dartlang.org/packages/initialize'
+    author:
+        - 'Polymer.dart Authors <web@dartlang.org>'
+-
+    package_name: fo_components
+    package_version: v0.0.111
+    title: 'v0.0.111 of fo_components'
+    published: '2016-11-16T16:37:31+00:00'
+    id: 'urn:uuid:2b852e40-a66a-5e34-a70f-38debe58ca3b'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
