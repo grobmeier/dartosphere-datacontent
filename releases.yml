@@ -76074,3 +76074,21 @@
     link: 'https://pub.dartlang.org/packages/pub_semver'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: async_track
+    package_version: v0.2.0
+    title: 'v0.2.0 of async_track'
+    published: '2016-11-16T21:44:12+00:00'
+    id: 'urn:uuid:d4e311d3-2f62-5e51-9a19-3fca64e0e4bd'
+    link: 'https://pub.dartlang.org/packages/async_track'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: json_schema
+    package_version: v1.0.6
+    title: 'v1.0.6 of json_schema'
+    published: '2016-11-16T21:02:38+00:00'
+    id: 'urn:uuid:6fed8770-ffc5-591f-93f8-6739d1b12c32'
+    link: 'https://pub.dartlang.org/packages/json_schema'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
