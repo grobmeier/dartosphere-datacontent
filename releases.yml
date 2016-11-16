@@ -75921,3 +75921,12 @@
     link: 'https://pub.dartlang.org/packages/google_maps'
     author:
         - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+-
+    package_name: l10n
+    package_version: v0.16.4
+    title: 'v0.16.4 of l10n'
+    published: '2016-11-16T09:27:59+00:00'
+    id: 'urn:uuid:756a0d56-70a3-5ead-80a8-dfa82ad5a87a'
+    link: 'https://pub.dartlang.org/packages/l10n'
+    author:
+        - 'Mike Mitterer  <office@mikemitterer.at>'
