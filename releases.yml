@@ -75885,3 +75885,21 @@
     link: 'https://pub.dartlang.org/packages/stack_trace'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: docker
+    package_version: v0.1.5
+    title: 'v0.1.5 of docker'
+    published: '2016-11-16T07:56:44+00:00'
+    id: 'urn:uuid:6f067e57-78a1-54e7-b9ba-c076f0571e75'
+    link: 'https://pub.dartlang.org/packages/docker'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: console_log_handler
+    package_version: v0.2.3
+    title: 'v0.2.3 of console_log_handler'
+    published: '2016-11-16T07:48:53+00:00'
+    id: 'urn:uuid:7692de34-33ca-58a4-b826-d075464b52bb'
+    link: 'https://pub.dartlang.org/packages/console_log_handler'
+    author:
+        - 'Mike Mitterer  <office@mikemitterer.at>'
