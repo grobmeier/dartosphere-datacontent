@@ -76065,3 +76065,12 @@
     link: 'https://pub.dartlang.org/packages/web_components'
     author:
         - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: pub_semver
+    package_version: v1.3.1
+    title: 'v1.3.1 of pub_semver'
+    published: '2016-11-16T20:26:23+00:00'
+    id: 'urn:uuid:051ea365-196d-57e1-81be-1030ab836303'
+    link: 'https://pub.dartlang.org/packages/pub_semver'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
