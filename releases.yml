@@ -75867,3 +75867,12 @@
     link: 'https://pub.dartlang.org/packages/js_wrapping'
     author:
         - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+-
+    package_name: collection
+    package_version: v1.12.0
+    title: 'v1.12.0 of collection'
+    published: '2016-11-15T23:18:33+00:00'
+    id: 'urn:uuid:06fa1c59-2564-55d7-abad-e77c6eda43b4'
+    link: 'https://pub.dartlang.org/packages/collection'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
