@@ -76056,3 +76056,12 @@
     link: 'https://pub.dartlang.org/packages/fo_components'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: web_components
+    package_version: v0.12.5
+    title: 'v0.12.5 of web_components'
+    published: '2016-11-16T17:01:54+00:00'
+    id: 'urn:uuid:24cdd049-ffad-5f5d-b402-c116ea42e1f1'
+    link: 'https://pub.dartlang.org/packages/web_components'
+    author:
+        - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
