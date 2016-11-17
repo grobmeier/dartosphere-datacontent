@@ -76092,3 +76092,12 @@
     link: 'https://pub.dartlang.org/packages/json_schema'
     author:
         - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: observable
+    package_version: v0.15.0+1
+    title: 'v0.15.0+1 of observable'
+    published: '2016-11-17T01:37:36+00:00'
+    id: 'urn:uuid:0c4bfd98-426e-5877-8b1c-2208d66ce00c'
+    link: 'https://pub.dartlang.org/packages/observable'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
