@@ -76183,3 +76183,12 @@
     link: 'https://pub.dartlang.org/packages/observable'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: csslib
+    package_version: v0.13.2+2
+    title: 'v0.13.2+2 of csslib'
+    published: '2016-11-17T19:14:49+00:00'
+    id: 'urn:uuid:71616313-cc7d-581d-a212-3c1e263074ef'
+    link: 'https://pub.dartlang.org/packages/csslib'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
