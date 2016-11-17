@@ -76101,3 +76101,12 @@
     link: 'https://pub.dartlang.org/packages/observable'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: vexflow_stub
+    package_version: v0.1.0-alpha.1
+    title: 'v0.1.0-alpha.1 of vexflow_stub'
+    published: '2016-11-17T02:59:55+00:00'
+    id: 'urn:uuid:5360a124-cfae-59e3-9984-e3355d367fb4'
+    link: 'https://pub.dartlang.org/packages/vexflow_stub'
+    author:
+        - 'Ennis Massey <ennisbaradine@gmail.com>'
