@@ -76128,3 +76128,12 @@
     link: 'https://pub.dartlang.org/packages/archive'
     author:
         - 'Brendan Duncan <brendanduncan@gmail.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1125
+    title: 'v0.0.1125 of fo_components'
+    published: '2016-11-17T08:56:40+00:00'
+    id: 'urn:uuid:62545d5e-6685-5045-a766-4d2db7a91f0c'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
