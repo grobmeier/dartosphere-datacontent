@@ -76110,3 +76110,12 @@
     link: 'https://pub.dartlang.org/packages/vexflow_stub'
     author:
         - 'Ennis Massey <ennisbaradine@gmail.com>'
+-
+    package_name: vexflow_stub
+    package_version: v0.1.0-alpha.4
+    title: 'v0.1.0-alpha.4 of vexflow_stub'
+    published: '2016-11-17T03:18:31+00:00'
+    id: 'urn:uuid:da5b9c16-5119-5da4-aa48-64ea4e16f3f7'
+    link: 'https://pub.dartlang.org/packages/vexflow_stub'
+    author:
+        - 'Ennis Massey <ennisbaradine@gmail.com>'
