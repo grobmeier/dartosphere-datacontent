@@ -76119,3 +76119,12 @@
     link: 'https://pub.dartlang.org/packages/vexflow_stub'
     author:
         - 'Ennis Massey <ennisbaradine@gmail.com>'
+-
+    package_name: archive
+    package_version: v1.0.26
+    title: 'v1.0.26 of archive'
+    published: '2016-11-17T05:09:11+00:00'
+    id: 'urn:uuid:a8216dcd-c5ee-5643-b147-e22b99be94e1'
+    link: 'https://pub.dartlang.org/packages/archive'
+    author:
+        - 'Brendan Duncan <brendanduncan@gmail.com>'
