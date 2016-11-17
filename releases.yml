@@ -76137,3 +76137,21 @@
     link: 'https://pub.dartlang.org/packages/fo_components'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: built_value_generator
+    package_version: v0.2.0
+    title: 'v0.2.0 of built_value_generator'
+    published: '2016-11-17T14:38:53+00:00'
+    id: 'urn:uuid:13e7ecc1-ca66-58d5-9ef2-a177a414c882'
+    link: 'https://pub.dartlang.org/packages/built_value_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value
+    package_version: v0.2.0
+    title: 'v0.2.0 of built_value'
+    published: '2016-11-17T14:38:05+00:00'
+    id: 'urn:uuid:8709f938-fed9-51db-a62d-63b3df6fd5cf'
+    link: 'https://pub.dartlang.org/packages/built_value'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
