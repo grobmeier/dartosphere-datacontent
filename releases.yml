@@ -76282,3 +76282,12 @@
     link: 'https://pub.dartlang.org/packages/fo_components'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: source_gen
+    package_version: v0.5.1+7
+    title: 'v0.5.1+7 of source_gen'
+    published: '2016-11-18T16:42:59+00:00'
+    id: 'urn:uuid:c3eff29e-967d-5fce-be30-ce98665c0283'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
