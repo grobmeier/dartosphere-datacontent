@@ -76264,3 +76264,12 @@
     link: 'https://pub.dartlang.org/packages/vm_service_client'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: fo_components
+    package_version: v0.0.1131
+    title: 'v0.0.1131 of fo_components'
+    published: '2016-11-18T07:35:59+00:00'
+    id: 'urn:uuid:ab1f22b2-1e30-5e97-a579-985522a2fded'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
