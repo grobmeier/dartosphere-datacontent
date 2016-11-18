@@ -76291,3 +76291,12 @@
     link: 'https://pub.dartlang.org/packages/source_gen'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: pageloader
+    package_version: v2.2.4
+    title: 'v2.2.4 of pageloader'
+    published: '2016-11-18T18:21:04+00:00'
+    id: 'urn:uuid:1a9bf87f-d036-5f82-a5dc-b8cae1fe2b18'
+    link: 'https://pub.dartlang.org/packages/pageloader'
+    author:
+        - 'Marc Fisher II <fisherii@google.com>'
