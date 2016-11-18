@@ -76300,3 +76300,12 @@
     link: 'https://pub.dartlang.org/packages/pageloader'
     author:
         - 'Marc Fisher II <fisherii@google.com>'
+-
+    package_name: compiler_unsupported
+    package_version: v1.20.0
+    title: 'v1.20.0 of compiler_unsupported'
+    published: '2016-11-18T19:22:52+00:00'
+    id: 'urn:uuid:a2eeb08b-07b9-5f37-bf93-d01b1d42980d'
+    link: 'https://pub.dartlang.org/packages/compiler_unsupported'
+    author:
+        - 'Dart2js Team <compiler-dev@dartlang.org>'
