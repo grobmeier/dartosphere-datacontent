@@ -76318,3 +76318,12 @@
     link: 'https://pub.dartlang.org/packages/stagexl_spine'
     author:
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: charcode
+    package_version: v1.1.1
+    title: 'v1.1.1 of charcode'
+    published: '2016-11-19T17:35:15+00:00'
+    id: 'urn:uuid:6d90723f-b68e-542f-b71a-40bb54cec554'
+    link: 'https://pub.dartlang.org/packages/charcode'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
