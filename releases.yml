@@ -76354,3 +76354,12 @@
     link: 'https://pub.dartlang.org/packages/mime_type'
     author:
         - 'Terry Mitsuoka <TerryMitsuoka@gmail.com>'
+-
+    package_name: eqlib
+    package_version: v0.0.4
+    title: 'v0.0.4 of eqlib'
+    published: '2016-11-20T05:39:21+00:00'
+    id: 'urn:uuid:cc27703a-de32-5a3f-b354-738bb619ae2b'
+    link: 'https://pub.dartlang.org/packages/eqlib'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
