@@ -76363,3 +76363,12 @@
     link: 'https://pub.dartlang.org/packages/eqlib'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: dropzone_angular_dart
+    package_version: v0.1.0
+    title: 'v0.1.0 of dropzone_angular_dart'
+    published: '2016-11-20T13:38:30+00:00'
+    id: 'urn:uuid:93539a14-bd63-56df-a6e9-d005ea4554ed'
+    link: 'https://pub.dartlang.org/packages/dropzone_angular_dart'
+    author:
+        - 'Nick Ng <ngyewch@gmail.com>'
