@@ -76336,3 +76336,12 @@
     link: 'https://pub.dartlang.org/packages/stagexl_spine'
     author:
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: shuttlecock
+    package_version: v0.0.1
+    title: 'v0.0.1 of shuttlecock'
+    published: '2016-11-20T00:05:35+00:00'
+    id: 'urn:uuid:138e10fd-3e7a-51c1-ac81-331184a44f34'
+    link: 'https://pub.dartlang.org/packages/shuttlecock'
+    author:
+        - 'Alexei Eleusis Díaz Vera <alexei.eleusis@gmail.com>'
