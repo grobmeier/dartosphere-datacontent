@@ -76345,3 +76345,12 @@
     link: 'https://pub.dartlang.org/packages/shuttlecock'
     author:
         - 'Alexei Eleusis Díaz Vera <alexei.eleusis@gmail.com>'
+-
+    package_name: mime_type
+    package_version: v0.2.0
+    title: 'v0.2.0 of mime_type'
+    published: '2016-11-20T02:03:33+00:00'
+    id: 'urn:uuid:bafd5389-8462-5208-805e-b3de7f3e1475'
+    link: 'https://pub.dartlang.org/packages/mime_type'
+    author:
+        - 'Terry Mitsuoka <TerryMitsuoka@gmail.com>'
