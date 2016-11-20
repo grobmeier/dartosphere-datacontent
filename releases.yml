@@ -76372,3 +76372,12 @@
     link: 'https://pub.dartlang.org/packages/dropzone_angular_dart'
     author:
         - 'Nick Ng <ngyewch@gmail.com>'
+-
+    package_name: ducene
+    package_version: v0.1.0
+    title: 'v0.1.0 of ducene'
+    published: '2016-11-20T14:37:24+00:00'
+    id: 'urn:uuid:98614023-d48a-5a13-b686-69f48d84e742'
+    link: 'https://pub.dartlang.org/packages/ducene'
+    author:
+        - 'Shinichiro Abe <shinichiro.abe.1@gmail.com>'
