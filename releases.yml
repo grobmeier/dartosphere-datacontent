@@ -76390,3 +76390,12 @@
     link: 'https://pub.dartlang.org/packages/md_proc'
     author:
         - 'Maxim Dikun <dikmax@gmail.com>'
+-
+    package_name: dartodef
+    package_version: v0.1.2
+    title: 'v0.1.2 of dartodef'
+    published: '2016-11-20T20:36:22+00:00'
+    id: 'urn:uuid:41d28f94-f00a-5bc2-bf1a-04ace98d2dc4'
+    link: 'https://pub.dartlang.org/packages/dartodef'
+    author:
+        - 'Eric Schneller <eric@schnellers.name>'
