@@ -76453,3 +76453,12 @@
     link: 'https://pub.dartlang.org/packages/md_proc'
     author:
         - 'Maxim Dikun <dikmax@gmail.com>'
+-
+    package_name: pub_semver
+    package_version: v1.3.2
+    title: 'v1.3.2 of pub_semver'
+    published: '2016-11-21T22:49:15+00:00'
+    id: 'urn:uuid:43d2a8e4-5a16-5bc2-a4c2-e1fd7cbeb74d'
+    link: 'https://pub.dartlang.org/packages/pub_semver'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
