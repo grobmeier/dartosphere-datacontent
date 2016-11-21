@@ -76399,3 +76399,12 @@
     link: 'https://pub.dartlang.org/packages/dartodef'
     author:
         - 'Eric Schneller <eric@schnellers.name>'
+-
+    package_name: fo_components
+    package_version: v0.0.1134
+    title: 'v0.0.1134 of fo_components'
+    published: '2016-11-21T08:31:42+00:00'
+    id: 'urn:uuid:badefc3e-73b6-50aa-bb06-34f909c07274'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
