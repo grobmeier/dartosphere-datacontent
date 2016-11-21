@@ -76417,3 +76417,12 @@
     link: 'https://pub.dartlang.org/packages/fo_components'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: postgres
+    package_version: v0.9.2
+    title: 'v0.9.2 of postgres'
+    published: '2016-11-21T14:40:45+00:00'
+    id: 'urn:uuid:f200979a-9b72-5f39-adff-7525641e8a09'
+    link: 'https://pub.dartlang.org/packages/postgres'
+    author:
+        - 'stable|kernel <jobs@stablekernel.com>'
