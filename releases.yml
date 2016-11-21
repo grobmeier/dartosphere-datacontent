@@ -76444,3 +76444,12 @@
     link: 'https://pub.dartlang.org/packages/observe'
     author:
         - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: md_proc
+    package_version: v0.10.1
+    title: 'v0.10.1 of md_proc'
+    published: '2016-11-21T20:03:31+00:00'
+    id: 'urn:uuid:7db622e2-8391-5bdf-8ec4-c734e183e726'
+    link: 'https://pub.dartlang.org/packages/md_proc'
+    author:
+        - 'Maxim Dikun <dikmax@gmail.com>'
