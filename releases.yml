@@ -76507,3 +76507,21 @@
     link: 'https://pub.dartlang.org/packages/parse_facade'
     author:
         - 'Kulshekhar Kabra <kulshekhar+dart@gmail.com>'
+-
+    package_name: enum_class_generator
+    package_version: v2.0.0
+    title: 'v2.0.0 of enum_class_generator'
+    published: '2016-11-22T14:43:30+00:00'
+    id: 'urn:uuid:01936730-95af-5d09-b008-1a1639fea649'
+    link: 'https://pub.dartlang.org/packages/enum_class_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: enum_class
+    package_version: v2.0.0
+    title: 'v2.0.0 of enum_class'
+    published: '2016-11-22T14:42:50+00:00'
+    id: 'urn:uuid:a0034daf-bba3-5431-8338-c2f96de560f0'
+    link: 'https://pub.dartlang.org/packages/enum_class'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
