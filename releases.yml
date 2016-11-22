@@ -76543,3 +76543,12 @@
     link: 'https://pub.dartlang.org/packages/parse_facade'
     author:
         - 'Kulshekhar Kabra <kulshekhar+dart@gmail.com>'
+-
+    package_name: dnd
+    package_version: v0.3.5
+    title: 'v0.3.5 of dnd'
+    published: '2016-11-22T17:47:19+00:00'
+    id: 'urn:uuid:8cc8246c-0ebe-5b20-9414-fec893730f0a'
+    link: 'https://pub.dartlang.org/packages/dnd'
+    author:
+        - 'Marco Jakob <majakob@gmx.ch>'
