@@ -76462,3 +76462,12 @@
     link: 'https://pub.dartlang.org/packages/pub_semver'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angel_route
+    package_version: v1.0.0-dev+6
+    title: 'v1.0.0-dev+6 of angel_route'
+    published: '2016-11-22T03:31:30+00:00'
+    id: 'urn:uuid:e3d34ab0-6e05-5c63-b504-fdb0c54163bd'
+    link: 'https://pub.dartlang.org/packages/angel_route'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
