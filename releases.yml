@@ -76498,3 +76498,12 @@
     link: 'https://pub.dartlang.org/packages/xhr_interceptor_facade'
     author:
         - 'Kulshekhar Kabra <kulshekhar+dart@gmail.com>'
+-
+    package_name: parse_facade
+    package_version: v0.0.1
+    title: 'v0.0.1 of parse_facade'
+    published: '2016-11-22T10:05:23+00:00'
+    id: 'urn:uuid:81897edd-ecd8-5716-8103-22840375fb43'
+    link: 'https://pub.dartlang.org/packages/parse_facade'
+    author:
+        - 'Kulshekhar Kabra <kulshekhar+dart@gmail.com>'
