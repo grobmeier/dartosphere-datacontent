@@ -76525,3 +76525,21 @@
     link: 'https://pub.dartlang.org/packages/enum_class'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: eqlib
+    package_version: v0.0.5
+    title: 'v0.0.5 of eqlib'
+    published: '2016-11-22T15:50:21+00:00'
+    id: 'urn:uuid:3d7d7b61-70bb-5c3c-b02e-b4b7137b6b7f'
+    link: 'https://pub.dartlang.org/packages/eqlib'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: parse_facade
+    package_version: v0.0.2
+    title: 'v0.0.2 of parse_facade'
+    published: '2016-11-22T15:18:12+00:00'
+    id: 'urn:uuid:5e845799-918a-5d53-ba69-d82674d1b07a'
+    link: 'https://pub.dartlang.org/packages/parse_facade'
+    author:
+        - 'Kulshekhar Kabra <kulshekhar+dart@gmail.com>'
