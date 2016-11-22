@@ -76552,3 +76552,12 @@
     link: 'https://pub.dartlang.org/packages/dnd'
     author:
         - 'Marco Jakob <majakob@gmx.ch>'
+-
+    package_name: observable
+    package_version: v0.18.1
+    title: 'v0.18.1 of observable'
+    published: '2016-11-22T20:16:21+00:00'
+    id: 'urn:uuid:0e4363bf-4b5e-5ce7-b47e-10deaaa50bd6'
+    link: 'https://pub.dartlang.org/packages/observable'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
