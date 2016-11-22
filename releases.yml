@@ -76489,3 +76489,12 @@
     link: 'https://pub.dartlang.org/packages/nero'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: xhr_interceptor_facade
+    package_version: v0.0.1
+    title: 'v0.0.1 of xhr_interceptor_facade'
+    published: '2016-11-22T08:35:37+00:00'
+    id: 'urn:uuid:75e52470-8525-586a-9a41-8a978c0c29c9'
+    link: 'https://pub.dartlang.org/packages/xhr_interceptor_facade'
+    author:
+        - 'Kulshekhar Kabra <kulshekhar+dart@gmail.com>'
