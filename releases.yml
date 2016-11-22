@@ -76471,3 +76471,21 @@
     link: 'https://pub.dartlang.org/packages/angel_route'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: observable
+    package_version: v0.18.0
+    title: 'v0.18.0 of observable'
+    published: '2016-11-22T04:50:21+00:00'
+    id: 'urn:uuid:3529ec81-bb73-59fa-b31a-85cb107ab7a0'
+    link: 'https://pub.dartlang.org/packages/observable'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: nero
+    package_version: v1.0.0-dev+4
+    title: 'v1.0.0-dev+4 of nero'
+    published: '2016-11-22T04:09:34+00:00'
+    id: 'urn:uuid:4332cc06-5e46-52e5-a35b-7ac2ce609e97'
+    link: 'https://pub.dartlang.org/packages/nero'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
