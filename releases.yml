@@ -76588,3 +76588,12 @@
     link: 'https://pub.dartlang.org/packages/observable'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: bootjack_datepicker
+    package_version: v0.5.7+2
+    title: 'v0.5.7+2 of bootjack_datepicker'
+    published: '2016-11-23T02:31:10+00:00'
+    id: 'urn:uuid:c07d7631-c902-5862-acde-f9816fa5bae0'
+    link: 'https://pub.dartlang.org/packages/bootjack_datepicker'
+    author:
+        - 'Jimmy Shiau <jimmyshiau@potix.com>'
