@@ -76678,3 +76678,57 @@
     link: 'https://pub.dartlang.org/packages/angel_route'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_route
+    package_version: v1.0.0-dev+12
+    title: 'v1.0.0-dev+12 of angel_route'
+    published: '2016-11-23T20:56:01+00:00'
+    id: 'urn:uuid:032742e1-bb88-5302-9270-e56d7c047c00'
+    link: 'https://pub.dartlang.org/packages/angel_route'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_configuration
+    package_version: v1.0.1+6
+    title: 'v1.0.1+6 of angel_configuration'
+    published: '2016-11-23T20:51:14+00:00'
+    id: 'urn:uuid:f90227d6-2f67-5530-b9b8-5a1b0979bc9f'
+    link: 'https://pub.dartlang.org/packages/angel_configuration'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_auth
+    package_version: v1.0.0-dev+10
+    title: 'v1.0.0-dev+10 of angel_auth'
+    published: '2016-11-23T20:37:33+00:00'
+    id: 'urn:uuid:1bbba052-560e-5420-997d-b0949cff396a'
+    link: 'https://pub.dartlang.org/packages/angel_auth'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.24
+    title: 'v1.0.0-dev.24 of angel_framework'
+    published: '2016-11-23T19:50:29+00:00'
+    id: 'urn:uuid:6c50cc7b-55ec-5a6d-9c28-7b6c981c1111'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: md_proc
+    package_version: v0.10.2
+    title: 'v0.10.2 of md_proc'
+    published: '2016-11-23T19:36:36+00:00'
+    id: 'urn:uuid:d417c71a-81f8-5ee0-b367-498b535aa38c'
+    link: 'https://pub.dartlang.org/packages/md_proc'
+    author:
+        - 'Maxim Dikun <dikmax@gmail.com>'
+-
+    package_name: nero
+    package_version: v1.0.0-dev+5
+    title: 'v1.0.0-dev+5 of nero'
+    published: '2016-11-23T19:12:27+00:00'
+    id: 'urn:uuid:5197770b-9b56-510e-a469-17a11276b742'
+    link: 'https://pub.dartlang.org/packages/nero'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
