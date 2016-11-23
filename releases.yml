@@ -76597,3 +76597,12 @@
     link: 'https://pub.dartlang.org/packages/bootjack_datepicker'
     author:
         - 'Jimmy Shiau <jimmyshiau@potix.com>'
+-
+    package_name: archive
+    package_version: v1.0.27
+    title: 'v1.0.27 of archive'
+    published: '2016-11-23T04:44:23+00:00'
+    id: 'urn:uuid:7bb49ede-5ffc-5649-89b5-5ea56a0720db'
+    link: 'https://pub.dartlang.org/packages/archive'
+    author:
+        - 'Brendan Duncan <brendanduncan@gmail.com>'
