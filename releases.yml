@@ -76570,3 +76570,12 @@
     link: 'https://pub.dartlang.org/packages/mml_dart'
     author:
         - 'Ennis Massey <ennisbaradine@gmail.com>'
+-
+    package_name: mml_dart
+    package_version: v1.0.0
+    title: 'v1.0.0 of mml_dart'
+    published: '2016-11-23T00:19:19+00:00'
+    id: 'urn:uuid:3a37ce41-7d10-5487-abc4-d4896c8779b0'
+    link: 'https://pub.dartlang.org/packages/mml_dart'
+    author:
+        - 'Ennis Massey <ennisbaradine@gmail.com>'
