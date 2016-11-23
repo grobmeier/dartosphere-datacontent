@@ -76732,3 +76732,12 @@
     link: 'https://pub.dartlang.org/packages/nero'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_proxy
+    package_version: v1.0.0-dev+2
+    title: 'v1.0.0-dev+2 of angel_proxy'
+    published: '2016-11-23T22:33:55+00:00'
+    id: 'urn:uuid:8e610573-68d1-5f21-9bb2-42d69087e288'
+    link: 'https://pub.dartlang.org/packages/angel_proxy'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
