@@ -76633,3 +76633,30 @@
     link: 'https://pub.dartlang.org/packages/polymer_element'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: polymer_element
+    package_version: v0.1.0+1
+    title: 'v0.1.0+1 of polymer_element'
+    published: '2016-11-23T16:12:32+00:00'
+    id: 'urn:uuid:0ec2ecb5-c150-5aea-a5a0-e7aa4ccf26d6'
+    link: 'https://pub.dartlang.org/packages/polymer_element'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: choropleth_map_angular_dart
+    package_version: v0.1.0
+    title: 'v0.1.0 of choropleth_map_angular_dart'
+    published: '2016-11-23T16:06:59+00:00'
+    id: 'urn:uuid:818254ce-130f-51b9-b8a5-4f9b7ca0afc1'
+    link: 'https://pub.dartlang.org/packages/choropleth_map_angular_dart'
+    author:
+        - 'Nick Ng <ngyewch@gmail.com>'
+-
+    package_name: polymerize
+    package_version: v0.2.10
+    title: 'v0.2.10 of polymerize'
+    published: '2016-11-23T16:01:19+00:00'
+    id: 'urn:uuid:21f5d6f6-a96c-5272-9fd5-9f0e29a4e706'
+    link: 'https://pub.dartlang.org/packages/polymerize'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
