@@ -76579,3 +76579,12 @@
     link: 'https://pub.dartlang.org/packages/mml_dart'
     author:
         - 'Ennis Massey <ennisbaradine@gmail.com>'
+-
+    package_name: observable
+    package_version: v0.19.0
+    title: 'v0.19.0 of observable'
+    published: '2016-11-23T01:31:07+00:00'
+    id: 'urn:uuid:e1edbd84-4d77-5fc7-889f-9952d1aedd77'
+    link: 'https://pub.dartlang.org/packages/observable'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
