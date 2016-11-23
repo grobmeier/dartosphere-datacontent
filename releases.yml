@@ -76561,3 +76561,12 @@
     link: 'https://pub.dartlang.org/packages/observable'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: mml_dart
+    package_version: v0.0.3
+    title: 'v0.0.3 of mml_dart'
+    published: '2016-11-22T23:04:21+00:00'
+    id: 'urn:uuid:0a98cb1c-9dca-5677-912c-925c732274b6'
+    link: 'https://pub.dartlang.org/packages/mml_dart'
+    author:
+        - 'Ennis Massey <ennisbaradine@gmail.com>'
