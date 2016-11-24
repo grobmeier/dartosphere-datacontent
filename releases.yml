@@ -76750,3 +76750,12 @@
     link: 'https://pub.dartlang.org/packages/angel_configuration'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_cli
+    package_version: v1.0.0-dev+4
+    title: 'v1.0.0-dev+4 of angel_cli'
+    published: '2016-11-24T00:42:38+00:00'
+    id: 'urn:uuid:d999721c-e764-5002-b1b2-0708058e3eeb'
+    link: 'https://pub.dartlang.org/packages/angel_cli'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
