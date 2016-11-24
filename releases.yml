@@ -76795,3 +76795,12 @@
     link: 'https://pub.dartlang.org/packages/xml'
     author:
         - 'Lukas Renggli <renggli@gmail.com>'
+-
+    package_name: xml_rpc
+    package_version: v0.1.4
+    title: 'v0.1.4 of xml_rpc'
+    published: '2016-11-24T15:04:10+00:00'
+    id: 'urn:uuid:4c001f40-84e5-5d98-83ea-376a4e6f1229'
+    link: 'https://pub.dartlang.org/packages/xml_rpc'
+    author:
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
