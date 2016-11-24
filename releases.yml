@@ -76786,3 +76786,12 @@
     link: 'https://pub.dartlang.org/packages/angel_route'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: xml
+    package_version: v2.4.4
+    title: 'v2.4.4 of xml'
+    published: '2016-11-24T10:32:35+00:00'
+    id: 'urn:uuid:324c0f00-d489-511e-a82b-611898e299df'
+    link: 'https://pub.dartlang.org/packages/xml'
+    author:
+        - 'Lukas Renggli <renggli@gmail.com>'
