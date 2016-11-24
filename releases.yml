@@ -76804,3 +76804,12 @@
     link: 'https://pub.dartlang.org/packages/xml_rpc'
     author:
         - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+-
+    package_name: scripts
+    package_version: v1.0.0-dev
+    title: 'v1.0.0-dev of scripts'
+    published: '2016-11-24T17:45:55+00:00'
+    id: 'urn:uuid:8f3522a8-c752-582c-95be-86cd5dde002a'
+    link: 'https://pub.dartlang.org/packages/scripts'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
