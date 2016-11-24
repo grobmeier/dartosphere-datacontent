@@ -76741,3 +76741,12 @@
     link: 'https://pub.dartlang.org/packages/angel_proxy'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_configuration
+    package_version: v1.0.1+7
+    title: 'v1.0.1+7 of angel_configuration'
+    published: '2016-11-23T23:40:37+00:00'
+    id: 'urn:uuid:058f3511-7639-5f56-9bd8-5b2183bb69cd'
+    link: 'https://pub.dartlang.org/packages/angel_configuration'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
