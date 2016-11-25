@@ -76831,3 +76831,12 @@
     link: 'https://pub.dartlang.org/packages/built_value'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: dorm
+    package_version: v1.0.35
+    title: 'v1.0.35 of dorm'
+    published: '2016-11-25T09:00:56+00:00'
+    id: 'urn:uuid:4c27d84d-f369-5746-b070-e5e24234a85b'
+    link: 'https://pub.dartlang.org/packages/dorm'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
