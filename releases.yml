@@ -76813,3 +76813,21 @@
     link: 'https://pub.dartlang.org/packages/scripts'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: built_value_generator
+    package_version: v0.3.0
+    title: 'v0.3.0 of built_value_generator'
+    published: '2016-11-25T08:41:13+00:00'
+    id: 'urn:uuid:8c7de1e1-59cb-5181-a2b2-ebf3697e4cda'
+    link: 'https://pub.dartlang.org/packages/built_value_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value
+    package_version: v0.3.0
+    title: 'v0.3.0 of built_value'
+    published: '2016-11-25T08:40:00+00:00'
+    id: 'urn:uuid:eb0791f5-700d-5c89-b420-0369a520213f'
+    link: 'https://pub.dartlang.org/packages/built_value'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
