@@ -76868,3 +76868,21 @@
     link: 'https://pub.dartlang.org/packages/darteventkit'
     author:
         - 'Gerald Leeb <gerald@g-24.net>'
+-
+    package_name: rapier
+    package_version: v1.0.0-dev
+    title: 'v1.0.0-dev of rapier'
+    published: '2016-11-26T13:18:42+00:00'
+    id: 'urn:uuid:1130ae37-5e80-5951-ab0f-887852a398aa'
+    link: 'https://pub.dartlang.org/packages/rapier'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: darteventkit
+    package_version: v0.0.2
+    title: 'v0.0.2 of darteventkit'
+    published: '2016-11-26T13:10:35+00:00'
+    id: 'urn:uuid:98451d06-6ec6-5aa9-9e18-a9e1995839e1'
+    link: 'https://pub.dartlang.org/packages/darteventkit'
+    author:
+        - 'Gerald Leeb <gerald@g-24.net>'
