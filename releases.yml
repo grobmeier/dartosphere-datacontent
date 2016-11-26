@@ -76859,3 +76859,12 @@
     link: 'https://pub.dartlang.org/packages/stagexl_spine'
     author:
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: darteventkit
+    package_version: v0.0.1
+    title: 'v0.0.1 of darteventkit'
+    published: '2016-11-26T12:35:57+00:00'
+    id: 'urn:uuid:df20793d-8cb0-50fb-9387-2a26fb62d598'
+    link: 'https://pub.dartlang.org/packages/darteventkit'
+    author:
+        - 'Gerald Leeb <gerald@g-24.net>'
