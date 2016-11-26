@@ -76886,3 +76886,12 @@
     link: 'https://pub.dartlang.org/packages/darteventkit'
     author:
         - 'Gerald Leeb <gerald@g-24.net>'
+-
+    package_name: custom_elements
+    package_version: v0.0.12
+    title: 'v0.0.12 of custom_elements'
+    published: '2016-11-26T17:28:00+00:00'
+    id: 'urn:uuid:620f204f-2e5e-568f-9786-a2f03c3565ca'
+    link: 'https://pub.dartlang.org/packages/custom_elements'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@drafintech.it>'
