@@ -76904,3 +76904,12 @@
     link: 'https://pub.dartlang.org/packages/milligram'
     author:
         - 'Gonzalo Chumillas <gchumillas@email.com>'
+-
+    package_name: custom_elements
+    package_version: v0.0.12+1
+    title: 'v0.0.12+1 of custom_elements'
+    published: '2016-11-27T01:37:58+00:00'
+    id: 'urn:uuid:0c71671e-4056-568d-8564-182b361d4c9e'
+    link: 'https://pub.dartlang.org/packages/custom_elements'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@drafintech.it>'
