@@ -76931,3 +76931,12 @@
     link: 'https://pub.dartlang.org/packages/darteventkit'
     author:
         - 'Gerald Leeb <gerald@g-24.net>'
+-
+    package_name: sync
+    package_version: v0.1.0
+    title: 'v0.1.0 of sync'
+    published: '2016-11-27T18:53:15+00:00'
+    id: 'urn:uuid:229aaa2b-149b-5cb5-9aaa-66f10607dc69'
+    link: 'https://pub.dartlang.org/packages/sync'
+    author:
+        - 'Steven Roose <stevenroose@gmail.com>'
