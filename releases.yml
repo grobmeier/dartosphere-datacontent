@@ -76895,3 +76895,12 @@
     link: 'https://pub.dartlang.org/packages/custom_elements'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@drafintech.it>'
+-
+    package_name: milligram
+    package_version: v0.0.2
+    title: 'v0.0.2 of milligram'
+    published: '2016-11-26T23:54:29+00:00'
+    id: 'urn:uuid:46ceef98-615d-5925-9923-668cbb9e2416'
+    link: 'https://pub.dartlang.org/packages/milligram'
+    author:
+        - 'Gonzalo Chumillas <gchumillas@email.com>'
