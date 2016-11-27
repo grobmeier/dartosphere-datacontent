@@ -76940,3 +76940,12 @@
     link: 'https://pub.dartlang.org/packages/sync'
     author:
         - 'Steven Roose <stevenroose@gmail.com>'
+-
+    package_name: sync
+    package_version: v0.1.0+1
+    title: 'v0.1.0+1 of sync'
+    published: '2016-11-27T19:45:06+00:00'
+    id: 'urn:uuid:6bd2e31e-473b-5e65-b2f3-9aaac283078e'
+    link: 'https://pub.dartlang.org/packages/sync'
+    author:
+        - 'Steven Roose <stevenroose@gmail.com>'
