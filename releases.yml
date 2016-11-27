@@ -76949,3 +76949,21 @@
     link: 'https://pub.dartlang.org/packages/sync'
     author:
         - 'Steven Roose <stevenroose@gmail.com>'
+-
+    package_name: shelf_eventsource
+    package_version: v0.1.0
+    title: 'v0.1.0 of shelf_eventsource'
+    published: '2016-11-27T20:40:22+00:00'
+    id: 'urn:uuid:ecd28cf7-87c1-5dc2-a61d-61be2eced109'
+    link: 'https://pub.dartlang.org/packages/shelf_eventsource'
+    author:
+        - 'Steven Roose <stevenroose@gmail.com>'
+-
+    package_name: eventsource
+    package_version: v0.1.0
+    title: 'v0.1.0 of eventsource'
+    published: '2016-11-27T20:33:50+00:00'
+    id: 'urn:uuid:0500fd40-424d-54cb-aefc-5e3a37559ed8'
+    link: 'https://pub.dartlang.org/packages/eventsource'
+    author:
+        - 'Steven Roose <stevenroose@gmail.com>'
