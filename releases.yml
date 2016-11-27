@@ -76967,3 +76967,12 @@
     link: 'https://pub.dartlang.org/packages/eventsource'
     author:
         - 'Steven Roose <stevenroose@gmail.com>'
+-
+    package_name: angel_route
+    package_version: v1.0.0-dev+14
+    title: 'v1.0.0-dev+14 of angel_route'
+    published: '2016-11-27T22:24:44+00:00'
+    id: 'urn:uuid:07447e28-9400-52f1-a59f-b89724f48dfd'
+    link: 'https://pub.dartlang.org/packages/angel_route'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
