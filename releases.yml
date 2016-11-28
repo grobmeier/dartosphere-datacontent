@@ -77021,3 +77021,12 @@
     link: 'https://pub.dartlang.org/packages/angel_auth'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_configuration
+    package_version: v1.0.1+8
+    title: 'v1.0.1+8 of angel_configuration'
+    published: '2016-11-28T02:03:14+00:00'
+    id: 'urn:uuid:896ea7d3-7d36-5e11-b485-600f090f1976'
+    link: 'https://pub.dartlang.org/packages/angel_configuration'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
