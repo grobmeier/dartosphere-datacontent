@@ -77130,3 +77130,30 @@
     link: 'https://pub.dartlang.org/packages/angular2'
     author:
         - 'Dart Team <web@dartlang.org>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.27
+    title: 'v1.0.0-dev.27 of angel_framework'
+    published: '2016-11-28T21:47:55+00:00'
+    id: 'urn:uuid:f944d11d-5540-53ee-92cf-e8f8497af71c'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angular2_components
+    package_version: v0.2.0
+    title: 'v0.2.0 of angular2_components'
+    published: '2016-11-28T21:20:54+00:00'
+    id: 'urn:uuid:41b01463-d2f4-5e29-9170-5eda0334fc75'
+    link: 'https://pub.dartlang.org/packages/angular2_components'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angular2
+    package_version: v2.1.1
+    title: 'v2.1.1 of angular2'
+    published: '2016-11-28T21:17:05+00:00'
+    id: 'urn:uuid:ef7d267f-7540-5f49-998d-b859da29a9d9'
+    link: 'https://pub.dartlang.org/packages/angular2'
+    author:
+        - 'Dart Team <web@dartlang.org>'
