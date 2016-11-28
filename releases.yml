@@ -77057,3 +77057,12 @@
     link: 'https://pub.dartlang.org/packages/angel_client'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: custom_elements
+    package_version: v0.0.12+2
+    title: 'v0.0.12+2 of custom_elements'
+    published: '2016-11-28T08:56:44+00:00'
+    id: 'urn:uuid:4f6dd871-37f2-5bca-b521-409d4a15b971'
+    link: 'https://pub.dartlang.org/packages/custom_elements'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@drafintech.it>'
