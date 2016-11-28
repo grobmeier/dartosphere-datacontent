@@ -77030,3 +77030,12 @@
     link: 'https://pub.dartlang.org/packages/angel_configuration'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_client
+    package_version: v1.0.0-dev+9
+    title: 'v1.0.0-dev+9 of angel_client'
+    published: '2016-11-28T03:33:44+00:00'
+    id: 'urn:uuid:165ad7b1-f50c-5e55-a3b0-07308b36a048'
+    link: 'https://pub.dartlang.org/packages/angel_client'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
