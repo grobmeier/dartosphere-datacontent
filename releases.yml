@@ -77039,3 +77039,12 @@
     link: 'https://pub.dartlang.org/packages/angel_client'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_diagnostics
+    package_version: v1.0.0-dev+4
+    title: 'v1.0.0-dev+4 of angel_diagnostics'
+    published: '2016-11-28T04:59:14+00:00'
+    id: 'urn:uuid:911eaa7e-6204-5fdc-b77d-88222f7850af'
+    link: 'https://pub.dartlang.org/packages/angel_diagnostics'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
