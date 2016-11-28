@@ -77121,3 +77121,12 @@
     link: 'https://pub.dartlang.org/packages/built_value'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: angular2
+    package_version: v2.1.0
+    title: 'v2.1.0 of angular2'
+    published: '2016-11-28T18:13:43+00:00'
+    id: 'urn:uuid:a29b9598-b13e-55c2-bcee-0d0559fc19a9'
+    link: 'https://pub.dartlang.org/packages/angular2'
+    author:
+        - 'Dart Team <web@dartlang.org>'
