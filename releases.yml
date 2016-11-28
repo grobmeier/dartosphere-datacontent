@@ -77084,3 +77084,12 @@
     link: 'https://pub.dartlang.org/packages/eventsource'
     author:
         - 'Steven Roose <stevenroose@gmail.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1139
+    title: 'v0.0.1139 of fo_components'
+    published: '2016-11-28T12:29:33+00:00'
+    id: 'urn:uuid:9ea488f1-65ca-5643-8044-02df652c71bc'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
