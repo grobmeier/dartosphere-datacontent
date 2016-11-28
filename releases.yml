@@ -77066,3 +77066,21 @@
     link: 'https://pub.dartlang.org/packages/custom_elements'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@drafintech.it>'
+-
+    package_name: shelf_eventsource
+    package_version: v0.1.0+1
+    title: 'v0.1.0+1 of shelf_eventsource'
+    published: '2016-11-28T11:45:56+00:00'
+    id: 'urn:uuid:01e93ba2-19ff-50cf-9f46-d6aa745e03b8'
+    link: 'https://pub.dartlang.org/packages/shelf_eventsource'
+    author:
+        - 'Steven Roose <stevenroose@gmail.com>'
+-
+    package_name: eventsource
+    package_version: v0.1.0+1
+    title: 'v0.1.0+1 of eventsource'
+    published: '2016-11-28T11:44:35+00:00'
+    id: 'urn:uuid:7228a401-f54b-5bf5-89c7-38763249ae04'
+    link: 'https://pub.dartlang.org/packages/eventsource'
+    author:
+        - 'Steven Roose <stevenroose@gmail.com>'
