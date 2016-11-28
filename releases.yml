@@ -77157,3 +77157,12 @@
     link: 'https://pub.dartlang.org/packages/angular2'
     author:
         - 'Dart Team <web@dartlang.org>'
+-
+    package_name: analyzer
+    package_version: v0.29.1
+    title: 'v0.29.1 of analyzer'
+    published: '2016-11-28T22:41:22+00:00'
+    id: 'urn:uuid:47d4ae52-51d8-56a1-a343-948945580181'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
