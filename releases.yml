@@ -77166,3 +77166,39 @@
     link: 'https://pub.dartlang.org/packages/analyzer'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build_test
+    package_version: v0.2.1
+    title: 'v0.2.1 of build_test'
+    published: '2016-11-28T23:57:19+00:00'
+    id: 'urn:uuid:54dbf1a4-09c2-5f90-97d1-3495e2b65992'
+    link: 'https://pub.dartlang.org/packages/build_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build_runner
+    package_version: v0.1.0
+    title: 'v0.1.0 of build_runner'
+    published: '2016-11-28T23:57:01+00:00'
+    id: 'urn:uuid:41e7e416-fda7-5244-b8f6-3c23821d00ef'
+    link: 'https://pub.dartlang.org/packages/build_runner'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build_barback
+    package_version: v0.0.1
+    title: 'v0.0.1 of build_barback'
+    published: '2016-11-28T23:56:18+00:00'
+    id: 'urn:uuid:3ffc19b6-3db1-5e8d-a2a4-104dd9e9fa88'
+    link: 'https://pub.dartlang.org/packages/build_barback'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build
+    package_version: v0.6.0
+    title: 'v0.6.0 of build'
+    published: '2016-11-28T23:53:52+00:00'
+    id: 'urn:uuid:26775d52-82e7-5893-9884-73dae40acc14'
+    link: 'https://pub.dartlang.org/packages/build'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
