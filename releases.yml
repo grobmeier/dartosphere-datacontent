@@ -77274,3 +77274,12 @@
     link: 'https://pub.dartlang.org/packages/built_value'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1143
+    title: 'v0.0.1143 of fo_components'
+    published: '2016-11-29T16:35:29+00:00'
+    id: 'urn:uuid:77abcdea-9532-5af2-b5ff-88ca19dce6c0'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
