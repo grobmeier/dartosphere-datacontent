@@ -77202,3 +77202,12 @@
     link: 'https://pub.dartlang.org/packages/build'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angel_client
+    package_version: v1.0.0-dev+12
+    title: 'v1.0.0-dev+12 of angel_client'
+    published: '2016-11-29T00:42:13+00:00'
+    id: 'urn:uuid:17fabd53-6679-56a5-854d-7a02c326cf50'
+    link: 'https://pub.dartlang.org/packages/angel_client'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
