@@ -77211,3 +77211,12 @@
     link: 'https://pub.dartlang.org/packages/angel_client'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: rewrites
+    package_version: v0.1.0
+    title: 'v0.1.0 of rewrites'
+    published: '2016-11-29T02:26:11+00:00'
+    id: 'urn:uuid:9e1549f8-85f4-5c93-a88f-e99559c8dfcc'
+    link: 'https://pub.dartlang.org/packages/rewrites'
+    author:
+        - 'Adao Junior <itsjunnior@gmail.com>'
