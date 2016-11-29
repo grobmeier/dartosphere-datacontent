@@ -77247,3 +77247,12 @@
     link: 'https://pub.dartlang.org/packages/scheduled_test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: fo_components
+    package_version: v0.0.1140
+    title: 'v0.0.1140 of fo_components'
+    published: '2016-11-29T08:30:34+00:00'
+    id: 'urn:uuid:4d8b4d2c-71b1-59e1-b987-e7f5acecd6f2'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
