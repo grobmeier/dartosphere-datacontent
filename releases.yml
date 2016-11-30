@@ -77351,3 +77351,21 @@
     link: 'https://pub.dartlang.org/packages/sqltree_query'
     author:
         - 'Roberto Tassi <roberto.tassi@fromlabs.org>'
+-
+    package_name: postgres
+    package_version: v0.9.3
+    title: 'v0.9.3 of postgres'
+    published: '2016-11-30T17:56:28+00:00'
+    id: 'urn:uuid:bd06da24-0e74-5e9d-8770-23684b70b4fd'
+    link: 'https://pub.dartlang.org/packages/postgres'
+    author:
+        - 'stable|kernel <jobs@stablekernel.com>'
+-
+    package_name: angular2
+    package_version: v2.2.0
+    title: 'v2.2.0 of angular2'
+    published: '2016-11-30T17:15:14+00:00'
+    id: 'urn:uuid:79a7a320-c120-5633-8abb-1d131b7a5646'
+    link: 'https://pub.dartlang.org/packages/angular2'
+    author:
+        - 'Dart Team <web@dartlang.org>'
