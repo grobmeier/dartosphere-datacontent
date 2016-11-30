@@ -77387,3 +77387,12 @@
     link: 'https://pub.dartlang.org/packages/source_gen'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: metatest
+    package_version: v0.2.2+3
+    title: 'v0.2.2+3 of metatest'
+    published: '2016-11-30T21:06:53+00:00'
+    id: 'urn:uuid:f3346fc4-c76c-5b43-a4a5-eec995d22122'
+    link: 'https://pub.dartlang.org/packages/metatest'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
