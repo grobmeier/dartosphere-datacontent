@@ -77324,3 +77324,12 @@
     link: 'https://pub.dartlang.org/packages/dart_style'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dorm
+    package_version: v1.0.37
+    title: 'v1.0.37 of dorm'
+    published: '2016-11-30T10:46:10+00:00'
+    id: 'urn:uuid:f5dc3dc7-e854-551e-941f-ba0d9b53e944'
+    link: 'https://pub.dartlang.org/packages/dorm'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
