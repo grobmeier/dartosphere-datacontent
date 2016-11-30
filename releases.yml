@@ -77315,3 +77315,12 @@
     link: 'https://pub.dartlang.org/packages/dart_style'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dart_style
+    package_version: v0.2.13
+    title: 'v0.2.13 of dart_style'
+    published: '2016-11-29T23:43:03+00:00'
+    id: 'urn:uuid:89ef7a29-4913-5dc2-a2db-e9763b8ac236'
+    link: 'https://pub.dartlang.org/packages/dart_style'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
