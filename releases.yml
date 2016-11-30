@@ -77342,3 +77342,12 @@
     link: 'https://pub.dartlang.org/packages/semantic_ui_angular_dart'
     author:
         - 'Nick Ng <ngyewch@gmail.com>'
+-
+    package_name: sqltree_query
+    package_version: v0.3.0+2
+    title: 'v0.3.0+2 of sqltree_query'
+    published: '2016-11-30T16:13:49+00:00'
+    id: 'urn:uuid:f04bab2b-0a10-5a69-a436-9352f4bb83a3'
+    link: 'https://pub.dartlang.org/packages/sqltree_query'
+    author:
+        - 'Roberto Tassi <roberto.tassi@fromlabs.org>'
