@@ -77333,3 +77333,12 @@
     link: 'https://pub.dartlang.org/packages/dorm'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: semantic_ui_angular_dart
+    package_version: v0.1.6
+    title: 'v0.1.6 of semantic_ui_angular_dart'
+    published: '2016-11-30T15:58:49+00:00'
+    id: 'urn:uuid:75db3970-5bef-51f8-a144-6aa44779d8ae'
+    link: 'https://pub.dartlang.org/packages/semantic_ui_angular_dart'
+    author:
+        - 'Nick Ng <ngyewch@gmail.com>'
