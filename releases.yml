@@ -77378,3 +77378,12 @@
     link: 'https://pub.dartlang.org/packages/build_test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: source_gen
+    package_version: v0.5.2
+    title: 'v0.5.2 of source_gen'
+    published: '2016-11-30T19:19:05+00:00'
+    id: 'urn:uuid:072a5622-8de0-558a-905c-15d0cf391770'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
