@@ -77405,3 +77405,12 @@
     link: 'https://pub.dartlang.org/packages/inject'
     author:
         - 'Dart Authors'
+-
+    package_name: rl_matrix
+    package_version: v0.6.3
+    title: 'v0.6.3 of rl_matrix'
+    published: '2016-12-01T12:08:39+00:00'
+    id: 'urn:uuid:4349a582-3d12-5b74-b2b9-3067419f1d83'
+    link: 'https://pub.dartlang.org/packages/rl_matrix'
+    author:
+        - 'R.S. Schermer <roland0507@gmail.com>'
