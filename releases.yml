@@ -77396,3 +77396,12 @@
     link: 'https://pub.dartlang.org/packages/metatest'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: inject
+    package_version: v0.2.1
+    title: 'v0.2.1 of inject'
+    published: '2016-11-30T23:51:10+00:00'
+    id: 'urn:uuid:919aead2-f37e-5bd7-a95e-1d3a22bc1bb0'
+    link: 'https://pub.dartlang.org/packages/inject'
+    author:
+        - 'Dart Authors'
