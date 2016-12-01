@@ -77414,3 +77414,14 @@
     link: 'https://pub.dartlang.org/packages/rl_matrix'
     author:
         - 'R.S. Schermer <roland0507@gmail.com>'
+-
+    package_name: slickdart
+    package_version: v0.1.8+4
+    title: 'v0.1.8+4 of slickdart'
+    published: '2016-12-01T15:56:38+00:00'
+    id: 'urn:uuid:6a694232-0dae-50ad-a8b6-d406fec3150a'
+    link: 'https://pub.dartlang.org/packages/slickdart'
+    author:
+        - 'CJKAO <kaopeter@gmail.com>'
+        - tonosama-atlacatl
+        - yyyangd
