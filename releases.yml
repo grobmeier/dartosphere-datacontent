@@ -77519,3 +77519,21 @@
     link: 'https://pub.dartlang.org/packages/angular2_title_by_route_service'
     author:
         - 'ilikerobots <mike@hoolehan.com>'
+-
+    package_name: pub_util
+    package_version: v0.0.3
+    title: 'v0.0.3 of pub_util'
+    published: '2016-12-02T19:56:45+00:00'
+    id: 'urn:uuid:57a15751-a224-5888-8db2-09b6ffc6bb06'
+    link: 'https://pub.dartlang.org/packages/pub_util'
+    author:
+        - 'Kulshekhar Kabra <kulshekhar+dart@gmail.com>'
+-
+    package_name: linkcheck
+    package_version: v0.2.11
+    title: 'v0.2.11 of linkcheck'
+    published: '2016-12-02T19:18:01+00:00'
+    id: 'urn:uuid:bebf3494-dd29-5f41-8103-34634b95de91'
+    link: 'https://pub.dartlang.org/packages/linkcheck'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
