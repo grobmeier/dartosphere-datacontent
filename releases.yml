@@ -77472,3 +77472,13 @@
     link: 'https://pub.dartlang.org/packages/build_test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: ng_bootstrap
+    package_version: v0.4.3
+    title: 'v0.4.3 of ng_bootstrap'
+    published: '2016-12-02T03:32:40+00:00'
+    id: 'urn:uuid:3104dc55-d2d3-5f3d-8343-6e8d0e0db01c'
+    link: 'https://pub.dartlang.org/packages/ng_bootstrap'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+        - 'Adao Jr. <itsjunnior@gmail.com>'
