@@ -77510,3 +77510,12 @@
     link: 'https://pub.dartlang.org/packages/pub_util'
     author:
         - 'Kulshekhar Kabra <kulshekhar+dart@gmail.com>'
+-
+    package_name: angular2_title_by_route_service
+    package_version: v0.0.1
+    title: 'v0.0.1 of angular2_title_by_route_service'
+    published: '2016-12-02T17:23:49+00:00'
+    id: 'urn:uuid:a38a7903-2687-58a6-8f63-ec36ae502067'
+    link: 'https://pub.dartlang.org/packages/angular2_title_by_route_service'
+    author:
+        - 'ilikerobots <mike@hoolehan.com>'
