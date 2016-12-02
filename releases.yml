@@ -77537,3 +77537,21 @@
     link: 'https://pub.dartlang.org/packages/linkcheck'
     author:
         - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: build_barback
+    package_version: v0.0.2
+    title: 'v0.0.2 of build_barback'
+    published: '2016-12-02T20:32:35+00:00'
+    id: 'urn:uuid:43c8cc6c-af29-5144-92f7-98273820edcd'
+    link: 'https://pub.dartlang.org/packages/build_barback'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: linkcheck
+    package_version: v0.2.12
+    title: 'v0.2.12 of linkcheck'
+    published: '2016-12-02T20:15:56+00:00'
+    id: 'urn:uuid:5542d93a-8f89-5776-aa0d-07914a13419a'
+    link: 'https://pub.dartlang.org/packages/linkcheck'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
