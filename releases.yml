@@ -77491,3 +77491,13 @@
     link: 'https://pub.dartlang.org/packages/sass_transformer'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: ng_bootstrap
+    package_version: v0.4.4
+    title: 'v0.4.4 of ng_bootstrap'
+    published: '2016-12-02T07:33:35+00:00'
+    id: 'urn:uuid:3433db68-ea00-5cc5-a775-0bbee8d63572'
+    link: 'https://pub.dartlang.org/packages/ng_bootstrap'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+        - 'Adao Jr. <itsjunnior@gmail.com>'
