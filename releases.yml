@@ -77736,3 +77736,30 @@
     link: 'https://pub.dartlang.org/packages/angel_mongo'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_auth
+    package_version: v1.0.0-dev+12
+    title: 'v1.0.0-dev+12 of angel_auth'
+    published: '2016-12-03T18:23:24+00:00'
+    id: 'urn:uuid:40a079da-d479-56a6-bdcb-29ceece8c50f'
+    link: 'https://pub.dartlang.org/packages/angel_auth'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_client
+    package_version: v1.0.0-dev+15
+    title: 'v1.0.0-dev+15 of angel_client'
+    published: '2016-12-03T18:22:03+00:00'
+    id: 'urn:uuid:f08d722c-7677-564f-bc31-62f5faf2098b'
+    link: 'https://pub.dartlang.org/packages/angel_client'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_mongo
+    package_version: v1.0.0-dev+6
+    title: 'v1.0.0-dev+6 of angel_mongo'
+    published: '2016-12-03T18:20:50+00:00'
+    id: 'urn:uuid:f466c682-efa4-58c6-9878-370cd46c352e'
+    link: 'https://pub.dartlang.org/packages/angel_mongo'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
