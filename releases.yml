@@ -77600,3 +77600,12 @@
     link: 'https://pub.dartlang.org/packages/node_preamble'
     author:
         - 'Michael Bullington <mikebullingtn@gmail.com>'
+-
+    package_name: stream
+    package_version: v1.6.5
+    title: 'v1.6.5 of stream'
+    published: '2016-12-03T02:41:38+00:00'
+    id: 'urn:uuid:9dc29b66-104c-5d18-8392-c572e2d90c66'
+    link: 'https://pub.dartlang.org/packages/stream'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
