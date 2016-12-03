@@ -77700,3 +77700,12 @@
     link: 'https://pub.dartlang.org/packages/ducene'
     author:
         - 'Shinichiro Abe <shinichiro.abe.1@gmail.com>'
+-
+    package_name: fastchemail
+    package_version: v0.9.1
+    title: 'v0.9.1 of fastchemail'
+    published: '2016-12-03T15:41:22+00:00'
+    id: 'urn:uuid:d8475277-2476-5f7d-8af5-9353364d9d2d'
+    link: 'https://pub.dartlang.org/packages/fastchemail'
+    author:
+        - 'Jonas Me (https://gitlab.com/vulkano)'
