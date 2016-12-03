@@ -77582,3 +77582,21 @@
     link: 'https://pub.dartlang.org/packages/scheduled_test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: material_toolbar
+    package_version: v1.0.0-dev+3
+    title: 'v1.0.0-dev+3 of material_toolbar'
+    published: '2016-12-03T00:57:08+00:00'
+    id: 'urn:uuid:2399e199-df4c-564b-9096-7ae6cf25eb46'
+    link: 'https://pub.dartlang.org/packages/material_toolbar'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: node_preamble
+    package_version: v1.2.0
+    title: 'v1.2.0 of node_preamble'
+    published: '2016-12-03T00:09:08+00:00'
+    id: 'urn:uuid:0eb421ba-f00b-5c71-a2ca-602056eca9b2'
+    link: 'https://pub.dartlang.org/packages/node_preamble'
+    author:
+        - 'Michael Bullington <mikebullingtn@gmail.com>'
