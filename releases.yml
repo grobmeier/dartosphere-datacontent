@@ -77727,3 +77727,12 @@
     link: 'https://pub.dartlang.org/packages/angel_client'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_mongo
+    package_version: v1.0.0-dev+5
+    title: 'v1.0.0-dev+5 of angel_mongo'
+    published: '2016-12-03T17:45:37+00:00'
+    id: 'urn:uuid:c4d03c9f-8e36-5c20-a86b-db0bd664a467'
+    link: 'https://pub.dartlang.org/packages/angel_mongo'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
