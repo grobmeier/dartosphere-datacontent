@@ -77709,3 +77709,21 @@
     link: 'https://pub.dartlang.org/packages/fastchemail'
     author:
         - 'Jonas Me (https://gitlab.com/vulkano)'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.28
+    title: 'v1.0.0-dev.28 of angel_framework'
+    published: '2016-12-03T16:32:16+00:00'
+    id: 'urn:uuid:b36ae10f-b233-520a-81ab-9c5de211ae20'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_client
+    package_version: v1.0.0-dev+14
+    title: 'v1.0.0-dev+14 of angel_client'
+    published: '2016-12-03T16:20:32+00:00'
+    id: 'urn:uuid:83da8225-32dd-529c-915b-60c7141c273b'
+    link: 'https://pub.dartlang.org/packages/angel_client'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
