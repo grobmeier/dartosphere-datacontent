@@ -77790,3 +77790,21 @@
     link: 'https://pub.dartlang.org/packages/access'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: flutter_stream_friends
+    package_version: v0.1.0
+    title: 'v0.1.0 of flutter_stream_friends'
+    published: '2016-12-04T14:09:13+00:00'
+    id: 'urn:uuid:960056ce-c625-5531-8ae8-24bec2f0d3e3'
+    link: 'https://pub.dartlang.org/packages/flutter_stream_friends'
+    author:
+        - 'brian.egan <brian@brianegan.com>'
+-
+    package_name: stagexl_spine
+    package_version: v0.8.4
+    title: 'v0.8.4 of stagexl_spine'
+    published: '2016-12-04T14:07:24+00:00'
+    id: 'urn:uuid:1d49987e-aff9-5d5d-8514-e786d5c5034f'
+    link: 'https://pub.dartlang.org/packages/stagexl_spine'
+    author:
+        - 'Bernhard Pichler <support@stagexl.org>'
