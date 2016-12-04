@@ -77763,3 +77763,12 @@
     link: 'https://pub.dartlang.org/packages/angel_mongo'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: material_menu
+    package_version: v1.0.0
+    title: 'v1.0.0 of material_menu'
+    published: '2016-12-03T23:20:01+00:00'
+    id: 'urn:uuid:24328a42-08df-5b67-9ae9-60413ec82a6e'
+    link: 'https://pub.dartlang.org/packages/material_menu'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
