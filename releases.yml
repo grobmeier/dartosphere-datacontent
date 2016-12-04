@@ -77826,3 +77826,12 @@
     link: 'https://pub.dartlang.org/packages/auth_header'
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: auth_header
+    package_version: v0.0.2
+    title: 'v0.0.2 of auth_header'
+    published: '2016-12-04T17:21:42+00:00'
+    id: 'urn:uuid:33814e9f-9e57-502c-8a86-997fea23f39c'
+    link: 'https://pub.dartlang.org/packages/auth_header'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
