@@ -77808,3 +77808,21 @@
     link: 'https://pub.dartlang.org/packages/stagexl_spine'
     author:
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: bytes
+    package_version: v0.2.0
+    title: 'v0.2.0 of bytes'
+    published: '2016-12-04T15:14:45+00:00'
+    id: 'urn:uuid:35c28dbb-c1d8-56fc-8000-c0d082f93592'
+    link: 'https://pub.dartlang.org/packages/bytes'
+    author:
+        - 'Steven Roose <stevenroose@gmail.com>'
+-
+    package_name: auth_header
+    package_version: v0.0.1
+    title: 'v0.0.1 of auth_header'
+    published: '2016-12-04T15:08:17+00:00'
+    id: 'urn:uuid:4b88a4aa-e48c-591d-8994-da9ca8d74bb0'
+    link: 'https://pub.dartlang.org/packages/auth_header'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
