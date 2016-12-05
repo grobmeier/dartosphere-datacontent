@@ -77844,3 +77844,21 @@
     link: 'https://pub.dartlang.org/packages/db_schema_migration'
     author:
         - 'Istvan Soos <istvan.soos@agilord.com>'
+-
+    package_name: angel_cors
+    package_version: v1.0.0-dev
+    title: 'v1.0.0-dev of angel_cors'
+    published: '2016-12-05T02:49:10+00:00'
+    id: 'urn:uuid:52cdc0b5-989d-532d-9dca-e9de2e5d3b7b'
+    link: 'https://pub.dartlang.org/packages/angel_cors'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: body_parser
+    package_version: v1.0.0-dev+2
+    title: 'v1.0.0-dev+2 of body_parser'
+    published: '2016-12-05T02:31:17+00:00'
+    id: 'urn:uuid:a08a3e19-090f-584c-a4ee-fecfa827d40c'
+    link: 'https://pub.dartlang.org/packages/body_parser'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
