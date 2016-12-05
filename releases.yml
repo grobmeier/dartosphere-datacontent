@@ -77880,3 +77880,12 @@
     link: 'https://pub.dartlang.org/packages/fastchemail'
     author:
         - 'Jonas Me (https://gitlab.com/vulkano)'
+-
+    package_name: scissors
+    package_version: v0.6.7
+    title: 'v0.6.7 of scissors'
+    published: '2016-12-05T14:46:47+00:00'
+    id: 'urn:uuid:35278687-ef38-5abc-af1b-9fad9301b6d3'
+    link: 'https://pub.dartlang.org/packages/scissors'
+    author:
+        - 'Olivier Chafik <ochafik@google.com>'
