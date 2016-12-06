@@ -77997,3 +77997,12 @@
     link: 'https://pub.dartlang.org/packages/sitegen'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: sqltree
+    package_version: v0.5.0
+    title: 'v0.5.0 of sqltree'
+    published: '2016-12-06T18:17:36+00:00'
+    id: 'urn:uuid:73aa5b06-394d-5bda-ad1f-2c0012e28914'
+    link: 'https://pub.dartlang.org/packages/sqltree'
+    author:
+        - 'Roberto Tassi <roberto.tassi@fromlabs.org>'
