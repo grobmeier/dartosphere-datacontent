@@ -78006,3 +78006,12 @@
     link: 'https://pub.dartlang.org/packages/sqltree'
     author:
         - 'Roberto Tassi <roberto.tassi@fromlabs.org>'
+-
+    package_name: postgres
+    package_version: v0.9.4
+    title: 'v0.9.4 of postgres'
+    published: '2016-12-06T19:15:44+00:00'
+    id: 'urn:uuid:69556c7c-cda2-5242-9b4b-4ef5c8793eeb'
+    link: 'https://pub.dartlang.org/packages/postgres'
+    author:
+        - 'stable|kernel <jobs@stablekernel.com>'
