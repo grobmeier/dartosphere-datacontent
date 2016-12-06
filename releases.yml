@@ -77943,3 +77943,48 @@
     link: 'https://pub.dartlang.org/packages/built_value'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: sqltree_query
+    package_version: v0.4.0
+    title: 'v0.4.0 of sqltree_query'
+    published: '2016-12-06T14:22:13+00:00'
+    id: 'urn:uuid:4ab01730-c8f5-55de-88ab-7488458686c1'
+    link: 'https://pub.dartlang.org/packages/sqltree_query'
+    author:
+        - 'Roberto Tassi <roberto.tassi@fromlabs.org>'
+-
+    package_name: sqltree_schema
+    package_version: v0.4.0+1
+    title: 'v0.4.0+1 of sqltree_schema'
+    published: '2016-12-06T14:18:21+00:00'
+    id: 'urn:uuid:4a2c3b4d-eb91-545f-934a-7bea0da36b6d'
+    link: 'https://pub.dartlang.org/packages/sqltree_schema'
+    author:
+        - 'Roberto Tassi <roberto.tassi@fromlabs.org>'
+-
+    package_name: sqltree
+    package_version: v0.4.0
+    title: 'v0.4.0 of sqltree'
+    published: '2016-12-06T14:14:25+00:00'
+    id: 'urn:uuid:bef8453c-989e-5caf-8557-fa95b01e451e'
+    link: 'https://pub.dartlang.org/packages/sqltree'
+    author:
+        - 'Roberto Tassi <roberto.tassi@fromlabs.org>'
+-
+    package_name: sitegen
+    package_version: v1.5.0
+    title: 'v1.5.0 of sitegen'
+    published: '2016-12-06T14:07:08+00:00'
+    id: 'urn:uuid:392b6d87-b4b4-58d4-8201-d8a8602cbb74'
+    link: 'https://pub.dartlang.org/packages/sitegen'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: packages
+    package_version: v0.1.7
+    title: 'v0.1.7 of packages'
+    published: '2016-12-06T14:01:48+00:00'
+    id: 'urn:uuid:298a3d88-48f8-5a20-be9e-7b67d6ae2834'
+    link: 'https://pub.dartlang.org/packages/packages'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
