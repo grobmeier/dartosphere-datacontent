@@ -78015,3 +78015,12 @@
     link: 'https://pub.dartlang.org/packages/postgres'
     author:
         - 'stable|kernel <jobs@stablekernel.com>'
+-
+    package_name: http_parser
+    package_version: v3.1.0
+    title: 'v3.1.0 of http_parser'
+    published: '2016-12-06T21:44:47+00:00'
+    id: 'urn:uuid:02b2fbb2-e787-56af-a008-b120a5b10448'
+    link: 'https://pub.dartlang.org/packages/http_parser'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
