@@ -77988,3 +77988,12 @@
     link: 'https://pub.dartlang.org/packages/packages'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: sitegen
+    package_version: v1.6.0
+    title: 'v1.6.0 of sitegen'
+    published: '2016-12-06T17:31:51+00:00'
+    id: 'urn:uuid:af2c7d42-e8cf-5ecd-8331-ec9dc8cca72e'
+    link: 'https://pub.dartlang.org/packages/sitegen'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
