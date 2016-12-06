@@ -77907,3 +77907,12 @@
     link: 'https://pub.dartlang.org/packages/bagl'
     author:
         - 'R.S. Schermer <roland0507@gmail.com>'
+-
+    package_name: flutter_stream_friends
+    package_version: v0.2.0
+    title: 'v0.2.0 of flutter_stream_friends'
+    published: '2016-12-06T01:17:26+00:00'
+    id: 'urn:uuid:855574c5-e2a3-557d-9ebf-1c2dd2d6672c'
+    link: 'https://pub.dartlang.org/packages/flutter_stream_friends'
+    author:
+        - 'brian.egan <brian@brianegan.com>'
