@@ -78042,3 +78042,12 @@
     link: 'https://pub.dartlang.org/packages/shelf'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: material_menu
+    package_version: v1.0.0+1
+    title: 'v1.0.0+1 of material_menu'
+    published: '2016-12-07T00:25:16+00:00'
+    id: 'urn:uuid:e90fa3d7-f025-5fb4-bd94-5d11af5e26d0'
+    link: 'https://pub.dartlang.org/packages/material_menu'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
