@@ -78051,3 +78051,12 @@
     link: 'https://pub.dartlang.org/packages/material_menu'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: material_sidenav
+    package_version: v1.0.0
+    title: 'v1.0.0 of material_sidenav'
+    published: '2016-12-07T01:30:33+00:00'
+    id: 'urn:uuid:862b8b89-4ca6-5b47-bf2d-2114d2e4c0ec'
+    link: 'https://pub.dartlang.org/packages/material_sidenav'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
