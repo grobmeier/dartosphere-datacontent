@@ -78033,3 +78033,12 @@
     link: 'https://pub.dartlang.org/packages/test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: shelf
+    package_version: v0.6.7+2
+    title: 'v0.6.7+2 of shelf'
+    published: '2016-12-06T23:27:18+00:00'
+    id: 'urn:uuid:f1742070-d8b2-52a3-a5a4-68316ca5dfa8'
+    link: 'https://pub.dartlang.org/packages/shelf'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
