@@ -78069,3 +78069,12 @@
     link: 'https://pub.dartlang.org/packages/bwu_utils'
     author:
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: sitegen
+    package_version: v1.6.2
+    title: 'v1.6.2 of sitegen'
+    published: '2016-12-07T10:27:46+00:00'
+    id: 'urn:uuid:11c10bf4-040f-509e-82cc-e059fc5b0b48'
+    link: 'https://pub.dartlang.org/packages/sitegen'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
