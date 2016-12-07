@@ -78115,3 +78115,12 @@
     link: 'https://pub.dartlang.org/packages/fast_chemail'
     author:
         - 'Jonas Me (https://gitlab.com/vulkano)'
+-
+    package_name: react
+    package_version: v3.0.2
+    title: 'v3.0.2 of react'
+    published: '2016-12-07T17:35:42+00:00'
+    id: 'urn:uuid:8223144c-1406-52f0-96bd-100c6d588495'
+    link: 'https://pub.dartlang.org/packages/react'
+    author:
+        - 'Clean Team <clean@vacuumlabs.com>'
