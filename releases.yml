@@ -78124,3 +78124,12 @@
     link: 'https://pub.dartlang.org/packages/react'
     author:
         - 'Clean Team <clean@vacuumlabs.com>'
+-
+    package_name: w_common
+    package_version: v1.1.0
+    title: 'v1.1.0 of w_common'
+    published: '2016-12-07T19:38:21+00:00'
+    id: 'urn:uuid:741884e9-b003-5df5-b20c-5669ff46176b'
+    link: 'https://pub.dartlang.org/packages/w_common'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
