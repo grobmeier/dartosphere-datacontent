@@ -78106,3 +78106,12 @@
     author:
         - 'Tomucha <tomucha@gmail.com>'
         - 'Jiri Zuna'
+-
+    package_name: fast_chemail
+    package_version: v0.9.3
+    title: 'v0.9.3 of fast_chemail'
+    published: '2016-12-07T15:11:32+00:00'
+    id: 'urn:uuid:fc11fb78-59fb-5635-811a-973d192a1489'
+    link: 'https://pub.dartlang.org/packages/fast_chemail'
+    author:
+        - 'Jonas Me (https://gitlab.com/vulkano)'
