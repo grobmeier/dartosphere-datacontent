@@ -78133,3 +78133,21 @@
     link: 'https://pub.dartlang.org/packages/w_common'
     author:
         - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+-
+    package_name: aqueduct
+    package_version: v1.0.4
+    title: 'v1.0.4 of aqueduct'
+    published: '2016-12-07T20:48:20+00:00'
+    id: 'urn:uuid:8d78efb9-7b1d-547e-b6be-3c82cf6e9ae6'
+    link: 'https://pub.dartlang.org/packages/aqueduct'
+    author:
+        - 'stable|kernel <http://stablekernel.com>'
+-
+    package_name: linkcheck
+    package_version: v0.2.14
+    title: 'v0.2.14 of linkcheck'
+    published: '2016-12-07T20:32:30+00:00'
+    id: 'urn:uuid:068b5f73-4c61-56dc-9814-e81ac6ddcee7'
+    link: 'https://pub.dartlang.org/packages/linkcheck'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
