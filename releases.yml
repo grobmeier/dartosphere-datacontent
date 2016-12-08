@@ -78250,3 +78250,12 @@
     link: 'https://pub.dartlang.org/packages/pointycastle'
     author:
         - 'The Pointy Castle team'
+-
+    package_name: source_maps
+    package_version: v0.10.1+3
+    title: 'v0.10.1+3 of source_maps'
+    published: '2016-12-08T19:00:44+00:00'
+    id: 'urn:uuid:c4970796-4e5e-5f1c-95e0-d6e80727937c'
+    link: 'https://pub.dartlang.org/packages/source_maps'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
