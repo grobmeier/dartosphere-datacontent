@@ -78196,3 +78196,21 @@
     link: 'https://pub.dartlang.org/packages/build'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: pointycastle
+    package_version: v0.10.0+4
+    title: 'v0.10.0+4 of pointycastle'
+    published: '2016-12-08T03:38:10+00:00'
+    id: 'urn:uuid:71b0b1fc-fef7-51a3-893b-4272bcdce1ff'
+    link: 'https://pub.dartlang.org/packages/pointycastle'
+    author:
+        - 'The Pointy Castle team'
+-
+    package_name: ng2_fontawesome
+    package_version: v0.0.1
+    title: 'v0.0.1 of ng2_fontawesome'
+    published: '2016-12-08T03:18:05+00:00'
+    id: 'urn:uuid:ee532535-869d-5c75-82f3-79d25a7b80d1'
+    link: 'https://pub.dartlang.org/packages/ng2_fontawesome'
+    author:
+        - 'Mark E. Haase <mehaase@gmail.com>'
