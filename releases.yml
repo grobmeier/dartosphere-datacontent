@@ -78214,3 +78214,12 @@
     link: 'https://pub.dartlang.org/packages/ng2_fontawesome'
     author:
         - 'Mark E. Haase <mehaase@gmail.com>'
+-
+    package_name: stagexl_spine
+    package_version: v0.8.5
+    title: 'v0.8.5 of stagexl_spine'
+    published: '2016-12-08T07:33:31+00:00'
+    id: 'urn:uuid:58541ea3-cce3-5a44-9b82-bf44cd584cdc'
+    link: 'https://pub.dartlang.org/packages/stagexl_spine'
+    author:
+        - 'Bernhard Pichler <support@stagexl.org>'
