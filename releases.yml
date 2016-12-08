@@ -78232,3 +78232,12 @@
     link: 'https://pub.dartlang.org/packages/bootjack_datepicker'
     author:
         - 'Jimmy Shiau <jimmyshiau@potix.com>'
+-
+    package_name: shelf_simple_session
+    package_version: v0.1.3
+    title: 'v0.1.3 of shelf_simple_session'
+    published: '2016-12-08T12:34:27+00:00'
+    id: 'urn:uuid:fc2c89b1-eacf-5a1d-9e26-de917a52a78b'
+    link: 'https://pub.dartlang.org/packages/shelf_simple_session'
+    author:
+        - 'Warren Strange <warren.strange@gmail.com>'
