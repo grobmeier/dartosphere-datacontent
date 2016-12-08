@@ -78286,3 +78286,21 @@
     link: 'https://pub.dartlang.org/packages/path'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.29
+    title: 'v1.0.0-dev.29 of angel_framework'
+    published: '2016-12-08T22:46:28+00:00'
+    id: 'urn:uuid:c2e4da0b-b603-569e-b103-28c6b2c0504f'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: simplegamelib
+    package_version: v0.0.14
+    title: 'v0.0.14 of simplegamelib'
+    published: '2016-12-08T22:20:46+00:00'
+    id: 'urn:uuid:ae003304-434b-5908-a7f2-a78f522d13ad'
+    link: 'https://pub.dartlang.org/packages/simplegamelib'
+    author:
+        - 'Davy Mitchell <daftspaniel@gmail.com>'
