@@ -78259,3 +78259,30 @@
     link: 'https://pub.dartlang.org/packages/source_maps'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: configer
+    package_version: v0.0.1
+    title: 'v0.0.1 of configer'
+    published: '2016-12-08T21:30:41+00:00'
+    id: 'urn:uuid:7e8d0da3-3e0e-58b9-a22e-207cc2801df7'
+    link: 'https://pub.dartlang.org/packages/configer'
+    author:
+        - 'Moritz Beck <github@birkenstab.de>'
+-
+    package_name: test
+    package_version: v0.12.17+2
+    title: 'v0.12.17+2 of test'
+    published: '2016-12-08T21:19:22+00:00'
+    id: 'urn:uuid:122e1c9f-6cbc-5229-8151-97e6a5225bfa'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: path
+    package_version: v1.4.1
+    title: 'v1.4.1 of path'
+    published: '2016-12-08T21:17:02+00:00'
+    id: 'urn:uuid:60aae919-ab58-503e-b9ae-175f13d7460d'
+    link: 'https://pub.dartlang.org/packages/path'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
