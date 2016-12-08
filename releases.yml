@@ -78241,3 +78241,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_simple_session'
     author:
         - 'Warren Strange <warren.strange@gmail.com>'
+-
+    package_name: pointycastle
+    package_version: v0.10.0+5
+    title: 'v0.10.0+5 of pointycastle'
+    published: '2016-12-08T14:37:25+00:00'
+    id: 'urn:uuid:9d7a1474-f592-5d84-ad70-3777c5ffffdc'
+    link: 'https://pub.dartlang.org/packages/pointycastle'
+    author:
+        - 'The Pointy Castle team'
