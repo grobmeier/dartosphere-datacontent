@@ -78151,3 +78151,39 @@
     link: 'https://pub.dartlang.org/packages/linkcheck'
     author:
         - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: build
+    package_version: v0.6.1
+    title: 'v0.6.1 of build'
+    published: '2016-12-07T23:33:09+00:00'
+    id: 'urn:uuid:3158a400-a9d8-5c96-a00c-e6324de969e6'
+    link: 'https://pub.dartlang.org/packages/build'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: pointycastle
+    package_version: v0.10.0+2
+    title: 'v0.10.0+2 of pointycastle'
+    published: '2016-12-07T23:15:11+00:00'
+    id: 'urn:uuid:a84a72f2-86ac-5b35-a731-1017e864a197'
+    link: 'https://pub.dartlang.org/packages/pointycastle'
+    author:
+        - 'The Pointy Castle team'
+-
+    package_name: angel_route
+    package_version: v1.0.0-dev+17
+    title: 'v1.0.0-dev+17 of angel_route'
+    published: '2016-12-07T23:14:07+00:00'
+    id: 'urn:uuid:11021455-dbdb-5e58-b2e6-7fedd0d4bbd2'
+    link: 'https://pub.dartlang.org/packages/angel_route'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_auth
+    package_version: v1.0.0-dev+13
+    title: 'v1.0.0-dev+13 of angel_auth'
+    published: '2016-12-07T23:09:34+00:00'
+    id: 'urn:uuid:7c7dd98b-f43a-5fa4-8cf9-57a2944025a4'
+    link: 'https://pub.dartlang.org/packages/angel_auth'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
