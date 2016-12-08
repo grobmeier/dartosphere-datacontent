@@ -78223,3 +78223,12 @@
     link: 'https://pub.dartlang.org/packages/stagexl_spine'
     author:
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: bootjack_datepicker
+    package_version: v0.5.7+3
+    title: 'v0.5.7+3 of bootjack_datepicker'
+    published: '2016-12-08T09:57:29+00:00'
+    id: 'urn:uuid:9247e233-2b65-58f4-8096-0cc231f01c4f'
+    link: 'https://pub.dartlang.org/packages/bootjack_datepicker'
+    author:
+        - 'Jimmy Shiau <jimmyshiau@potix.com>'
