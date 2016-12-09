@@ -78376,3 +78376,12 @@
     link: 'https://pub.dartlang.org/packages/compiler_unsupported'
     author:
         - 'Dart2js Team <compiler-dev@dartlang.org>'
+-
+    package_name: fo_components
+    package_version: v0.0.1145
+    title: 'v0.0.1145 of fo_components'
+    published: '2016-12-09T14:41:59+00:00'
+    id: 'urn:uuid:99053e39-cbc6-52fa-b118-fbff7db9b7fb'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
