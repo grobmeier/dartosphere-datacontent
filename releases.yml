@@ -78304,3 +78304,12 @@
     link: 'https://pub.dartlang.org/packages/simplegamelib'
     author:
         - 'Davy Mitchell <daftspaniel@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.30
+    title: 'v1.0.0-dev.30 of angel_framework'
+    published: '2016-12-08T23:04:39+00:00'
+    id: 'urn:uuid:3dc027d4-7046-56eb-aa76-b009361b5710'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
