@@ -78385,3 +78385,39 @@
     link: 'https://pub.dartlang.org/packages/fo_components'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: source_maps
+    package_version: v0.10.1+4
+    title: 'v0.10.1+4 of source_maps'
+    published: '2016-12-09T17:57:53+00:00'
+    id: 'urn:uuid:dbe508a4-a687-5a94-ad97-729585e356e5'
+    link: 'https://pub.dartlang.org/packages/source_maps'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build_runner
+    package_version: v0.1.1
+    title: 'v0.1.1 of build_runner'
+    published: '2016-12-09T17:54:35+00:00'
+    id: 'urn:uuid:0b08c942-6ce5-581b-a354-38a39347ff78'
+    link: 'https://pub.dartlang.org/packages/build_runner'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build_barback
+    package_version: v0.0.3
+    title: 'v0.0.3 of build_barback'
+    published: '2016-12-09T17:54:17+00:00'
+    id: 'urn:uuid:0b010105-51ed-5841-ad72-7854bdfcd7b8'
+    link: 'https://pub.dartlang.org/packages/build_barback'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build
+    package_version: v0.6.3
+    title: 'v0.6.3 of build'
+    published: '2016-12-09T17:53:58+00:00'
+    id: 'urn:uuid:b4fd8124-527b-517d-a5f7-e109455b4d46'
+    link: 'https://pub.dartlang.org/packages/build'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
