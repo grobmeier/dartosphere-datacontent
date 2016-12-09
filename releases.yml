@@ -78340,3 +78340,12 @@
     link: 'https://pub.dartlang.org/packages/ng2_fontawesome'
     author:
         - 'Mark E. Haase <mehaase@gmail.com>'
+-
+    package_name: ng2_fontawesome
+    package_version: v4.7.0+3
+    title: 'v4.7.0+3 of ng2_fontawesome'
+    published: '2016-12-09T06:03:42+00:00'
+    id: 'urn:uuid:b03ab8d1-123d-51e1-a011-a6d7746cf353'
+    link: 'https://pub.dartlang.org/packages/ng2_fontawesome'
+    author:
+        - 'Mark E. Haase <mehaase@gmail.com>'
