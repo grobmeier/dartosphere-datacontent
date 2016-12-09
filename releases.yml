@@ -78322,3 +78322,12 @@
     link: 'https://pub.dartlang.org/packages/angel_client'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angular2_components
+    package_version: v0.2.2
+    title: 'v0.2.2 of angular2_components'
+    published: '2016-12-09T01:13:34+00:00'
+    id: 'urn:uuid:c4c15425-28df-54d2-a983-fc87edce8395'
+    link: 'https://pub.dartlang.org/packages/angular2_components'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
