@@ -78421,3 +78421,12 @@
     link: 'https://pub.dartlang.org/packages/build'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: markdown
+    package_version: v0.11.2
+    title: 'v0.11.2 of markdown'
+    published: '2016-12-09T22:32:38+00:00'
+    id: 'urn:uuid:96b14489-4d79-50e2-ba98-440a4a1d163f'
+    link: 'https://pub.dartlang.org/packages/markdown'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
