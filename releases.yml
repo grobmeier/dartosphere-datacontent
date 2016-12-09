@@ -78313,3 +78313,12 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_client
+    package_version: v1.0.0-dev+16
+    title: 'v1.0.0-dev+16 of angel_client'
+    published: '2016-12-09T00:24:12+00:00'
+    id: 'urn:uuid:5300f727-9659-5eb0-a0f0-00d0a6b5bec9'
+    link: 'https://pub.dartlang.org/packages/angel_client'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
