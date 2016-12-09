@@ -78331,3 +78331,12 @@
     link: 'https://pub.dartlang.org/packages/angular2_components'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: ng2_fontawesome
+    package_version: v4.7.0+2
+    title: 'v4.7.0+2 of ng2_fontawesome'
+    published: '2016-12-09T05:48:07+00:00'
+    id: 'urn:uuid:078d2e1d-e3f4-5bfc-bb62-03e18c080403'
+    link: 'https://pub.dartlang.org/packages/ng2_fontawesome'
+    author:
+        - 'Mark E. Haase <mehaase@gmail.com>'
