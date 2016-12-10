@@ -78457,3 +78457,21 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_client
+    package_version: v1.0.0-dev+20
+    title: 'v1.0.0-dev+20 of angel_client'
+    published: '2016-12-10T17:28:34+00:00'
+    id: 'urn:uuid:1a569bc9-2650-5090-a7f3-a34eb99123f7'
+    link: 'https://pub.dartlang.org/packages/angel_client'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.32
+    title: 'v1.0.0-dev.32 of angel_framework'
+    published: '2016-12-10T17:10:31+00:00'
+    id: 'urn:uuid:19ad6d53-19e7-584c-b0e8-74df65c9a525'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
