@@ -78475,3 +78475,21 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_cli
+    package_version: v1.0.0-dev+5
+    title: 'v1.0.0-dev+5 of angel_cli'
+    published: '2016-12-10T18:52:27+00:00'
+    id: 'urn:uuid:6dbeadf6-fc73-5cce-aa1f-52ae17c0f3f0'
+    link: 'https://pub.dartlang.org/packages/angel_cli'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_test
+    package_version: v1.0.0-dev
+    title: 'v1.0.0-dev of angel_test'
+    published: '2016-12-10T18:11:43+00:00'
+    id: 'urn:uuid:592f7f8e-4f1a-51aa-ba76-1d82e2eb5dab'
+    link: 'https://pub.dartlang.org/packages/angel_test'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
