@@ -78529,3 +78529,12 @@
     link: 'https://pub.dartlang.org/packages/midiparser'
     author:
         - 'Ennis Massey <ennisbaradine@gmail.com>'
+-
+    package_name: dartz
+    package_version: v0.4.4
+    title: 'v0.4.4 of dartz'
+    published: '2016-12-11T10:51:54+00:00'
+    id: 'urn:uuid:af1dd880-26e8-5995-b7fb-b7d5263c1324'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
