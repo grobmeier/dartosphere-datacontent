@@ -78493,3 +78493,12 @@
     link: 'https://pub.dartlang.org/packages/angel_test'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: midiparser
+    package_version: v1.0.0
+    title: 'v1.0.0 of midiparser'
+    published: '2016-12-10T23:48:11+00:00'
+    id: 'urn:uuid:7f81f1bb-e995-5967-a438-bea0dbd5a1b9'
+    link: 'https://pub.dartlang.org/packages/midiparser'
+    author:
+        - 'Ennis Massey <ennisbaradine@gmail.com>'
