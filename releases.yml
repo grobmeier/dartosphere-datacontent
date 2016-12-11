@@ -78502,3 +78502,12 @@
     link: 'https://pub.dartlang.org/packages/midiparser'
     author:
         - 'Ennis Massey <ennisbaradine@gmail.com>'
+-
+    package_name: midiparser
+    package_version: v1.0.1
+    title: 'v1.0.1 of midiparser'
+    published: '2016-12-11T00:33:40+00:00'
+    id: 'urn:uuid:24293a1a-04aa-5c2c-a369-30e88466c042'
+    link: 'https://pub.dartlang.org/packages/midiparser'
+    author:
+        - 'Ennis Massey <ennisbaradine@gmail.com>'
