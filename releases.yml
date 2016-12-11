@@ -78511,3 +78511,21 @@
     link: 'https://pub.dartlang.org/packages/midiparser'
     author:
         - 'Ennis Massey <ennisbaradine@gmail.com>'
+-
+    package_name: angel_errors
+    package_version: v1.0.0-dev
+    title: 'v1.0.0-dev of angel_errors'
+    published: '2016-12-11T01:28:15+00:00'
+    id: 'urn:uuid:9b1d7799-c6e7-5175-a958-3ac89f9a1d72'
+    link: 'https://pub.dartlang.org/packages/angel_errors'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: midiparser
+    package_version: v1.0.3
+    title: 'v1.0.3 of midiparser'
+    published: '2016-12-11T01:07:34+00:00'
+    id: 'urn:uuid:b84222d0-5d66-56bd-a066-65b3a4e61f81'
+    link: 'https://pub.dartlang.org/packages/midiparser'
+    author:
+        - 'Ennis Massey <ennisbaradine@gmail.com>'
