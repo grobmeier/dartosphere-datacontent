@@ -78547,3 +78547,12 @@
     link: 'https://pub.dartlang.org/packages/vane'
     author:
         - 'Robert Åkerblom-Andersson <Robert.nr1@gmail.com>'
+-
+    package_name: dart_barcode
+    package_version: v1.0.0
+    title: 'v1.0.0 of dart_barcode'
+    published: '2016-12-11T19:10:57+00:00'
+    id: 'urn:uuid:10385562-b340-53f2-9821-b183cd6e2dd1'
+    link: 'https://pub.dartlang.org/packages/dart_barcode'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
