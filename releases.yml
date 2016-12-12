@@ -78713,3 +78713,12 @@
         - 'Austin Cummings <austincummings95@gmail.com>'
         - 'Cristian Garcia <cgarcia.e88@gmail.com>'
         - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
+-
+    package_name: angular_barcode
+    package_version: v0.0.2
+    title: 'v0.0.2 of angular_barcode'
+    published: '2016-12-12T20:03:38+00:00'
+    id: 'urn:uuid:57ed027d-28d6-577a-9590-d2d4c676db35'
+    link: 'https://pub.dartlang.org/packages/angular_barcode'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
