@@ -78681,3 +78681,12 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: source_maps
+    package_version: v0.10.1+5
+    title: 'v0.10.1+5 of source_maps'
+    published: '2016-12-12T17:00:25+00:00'
+    id: 'urn:uuid:18f580a9-858d-5c92-8a01-d523cbe1af1b'
+    link: 'https://pub.dartlang.org/packages/source_maps'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
