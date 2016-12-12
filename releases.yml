@@ -78605,3 +78605,12 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1147
+    title: 'v0.0.1147 of fo_components'
+    published: '2016-12-12T11:48:13+00:00'
+    id: 'urn:uuid:00054a83-645b-5a81-aff0-cb505733a77d'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
