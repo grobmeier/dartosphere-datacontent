@@ -78623,3 +78623,22 @@
     link: 'https://pub.dartlang.org/packages/fo_components'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1149
+    title: 'v0.0.1149 of fo_components'
+    published: '2016-12-12T14:00:12+00:00'
+    id: 'urn:uuid:d3e962ee-a478-5bcd-ab62-715822886598'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: jaguar_generator
+    package_version: v0.1.4
+    title: 'v0.1.4 of jaguar_generator'
+    published: '2016-12-12T13:30:33+00:00'
+    id: 'urn:uuid:4f79a3e7-f1c7-5709-b976-05fffa00699e'
+    link: 'https://pub.dartlang.org/packages/jaguar_generator'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
