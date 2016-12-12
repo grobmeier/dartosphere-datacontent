@@ -78700,3 +78700,16 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: redstone
+    package_version: v0.6.8
+    title: 'v0.6.8 of redstone'
+    published: '2016-12-12T19:29:39+00:00'
+    id: 'urn:uuid:c52ed9ff-11c1-5857-8f34-80cb407a8b6f'
+    link: 'https://pub.dartlang.org/packages/redstone'
+    author:
+        - 'Luiz Mineo <luiz.mineo@gmail.com>'
+        - 'Kenneth Endfinger <kaendfinger@gmail.com>'
+        - 'Austin Cummings <austincummings95@gmail.com>'
+        - 'Cristian Garcia <cgarcia.e88@gmail.com>'
+        - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
