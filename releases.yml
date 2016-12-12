@@ -78642,3 +78642,32 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1153
+    title: 'v0.0.1153 of fo_components'
+    published: '2016-12-12T14:24:44+00:00'
+    id: 'urn:uuid:c23f4d82-699e-557d-a7b0-e803427bf638'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: jaguar_mongo
+    package_version: v0.1.0
+    title: 'v0.1.0 of jaguar_mongo'
+    published: '2016-12-12T14:12:33+00:00'
+    id: 'urn:uuid:ffab7af5-dfbf-5e0c-886d-27ab394e9045'
+    link: 'https://pub.dartlang.org/packages/jaguar_mongo'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_generator
+    package_version: v0.1.5
+    title: 'v0.1.5 of jaguar_generator'
+    published: '2016-12-12T14:02:52+00:00'
+    id: 'urn:uuid:20b9f1be-fb39-5522-af91-cdfc7804041a'
+    link: 'https://pub.dartlang.org/packages/jaguar_generator'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
