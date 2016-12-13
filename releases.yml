@@ -78813,3 +78813,12 @@
     link: 'https://pub.dartlang.org/packages/googleapis'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angel_auth
+    package_version: v1.0.0-dev+14
+    title: 'v1.0.0-dev+14 of angel_auth'
+    published: '2016-12-13T16:39:45+00:00'
+    id: 'urn:uuid:5ca90a5d-329e-56fc-beb3-c0102aacf9cc'
+    link: 'https://pub.dartlang.org/packages/angel_auth'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
