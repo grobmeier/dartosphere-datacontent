@@ -78795,3 +78795,21 @@
     link: 'https://pub.dartlang.org/packages/sqltree'
     author:
         - 'Roberto Tassi <roberto.tassi@fromlabs.org>'
+-
+    package_name: googleapis_beta
+    package_version: v0.32.0
+    title: 'v0.32.0 of googleapis_beta'
+    published: '2016-12-13T15:42:12+00:00'
+    id: 'urn:uuid:61125a92-089e-501e-a638-919917a7875a'
+    link: 'https://pub.dartlang.org/packages/googleapis_beta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: googleapis
+    package_version: v0.33.0
+    title: 'v0.33.0 of googleapis'
+    published: '2016-12-13T15:42:02+00:00'
+    id: 'urn:uuid:b81d5acc-78f4-5bce-acca-6d87ef24a95e'
+    link: 'https://pub.dartlang.org/packages/googleapis'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
