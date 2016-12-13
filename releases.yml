@@ -78731,3 +78731,12 @@
     link: 'https://pub.dartlang.org/packages/react'
     author:
         - 'Clean Team <clean@vacuumlabs.com>'
+-
+    package_name: shelf_gzip
+    package_version: v1.0.0
+    title: 'v1.0.0 of shelf_gzip'
+    published: '2016-12-13T00:31:20+00:00'
+    id: 'urn:uuid:167d424d-73e4-5a28-8436-6791bcdcbd31'
+    link: 'https://pub.dartlang.org/packages/shelf_gzip'
+    author:
+        - 'John Ryan <john.p.ryan4@gmail.com>'
