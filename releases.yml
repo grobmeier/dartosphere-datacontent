@@ -78822,3 +78822,12 @@
     link: 'https://pub.dartlang.org/packages/angel_auth'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_cli
+    package_version: v1.0.0-dev+6
+    title: 'v1.0.0-dev+6 of angel_cli'
+    published: '2016-12-13T17:51:01+00:00'
+    id: 'urn:uuid:bed50a59-b700-5fde-b9ec-60e75ccfe9c7'
+    link: 'https://pub.dartlang.org/packages/angel_cli'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
