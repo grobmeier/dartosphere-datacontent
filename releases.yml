@@ -78758,3 +78758,13 @@
     link: 'https://pub.dartlang.org/packages/fo_components'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: serializer
+    package_version: v0.5.1
+    title: 'v0.5.1 of serializer'
+    published: '2016-12-13T11:57:42+00:00'
+    id: 'urn:uuid:08ecedd6-1843-5b28-91ac-92c1afc96390'
+    link: 'https://pub.dartlang.org/packages/serializer'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+        - 'Stéphane Este-Gracias <sestegra@gmail.com>'
