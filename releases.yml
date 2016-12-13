@@ -78749,3 +78749,12 @@
     link: 'https://pub.dartlang.org/packages/postgres'
     author:
         - 'stable|kernel <jobs@stablekernel.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1156
+    title: 'v0.0.1156 of fo_components'
+    published: '2016-12-13T10:55:50+00:00'
+    id: 'urn:uuid:a6a241c2-e865-52c8-a7f6-359f681ea7ee'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
