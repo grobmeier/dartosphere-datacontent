@@ -78899,3 +78899,12 @@
     link: 'https://pub.dartlang.org/packages/material2_dart'
     author:
         - 'ntaoo <ntaoo.g@gmail.com>'
+-
+    package_name: mdl
+    package_version: v1.18.1
+    title: 'v1.18.1 of mdl'
+    published: '2016-12-14T17:10:20+00:00'
+    id: 'urn:uuid:3843c855-7740-5a80-a9a1-5e47e7b32e2c'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
