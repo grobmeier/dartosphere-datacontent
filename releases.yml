@@ -78918,3 +78918,12 @@
     author:
         - 'Jana Moudra <jana.moudra@gmail.com>'
         - 'Kevin Moore <kevmoo@google.com>'
+-
+    package_name: source_maps
+    package_version: v0.10.2
+    title: 'v0.10.2 of source_maps'
+    published: '2016-12-14T19:36:50+00:00'
+    id: 'urn:uuid:03386e53-3bbc-57e4-b47f-cb571a89d44e'
+    link: 'https://pub.dartlang.org/packages/source_maps'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
