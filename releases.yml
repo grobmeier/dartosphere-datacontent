@@ -78841,3 +78841,13 @@
     author:
         - 'Matan Lurey <matanl@google.com>'
         - 'Jonah Williams <jonahwilliams@google.com>'
+-
+    package_name: ng_bootstrap
+    package_version: v0.4.5
+    title: 'v0.4.5 of ng_bootstrap'
+    published: '2016-12-14T06:38:26+00:00'
+    id: 'urn:uuid:50ec175e-10d4-5813-9be9-d1925c079f1c'
+    link: 'https://pub.dartlang.org/packages/ng_bootstrap'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+        - 'Adao Jr. <itsjunnior@gmail.com>'
