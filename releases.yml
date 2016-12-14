@@ -78927,3 +78927,21 @@
     link: 'https://pub.dartlang.org/packages/source_maps'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: source_map_stack_trace
+    package_version: v1.1.4
+    title: 'v1.1.4 of source_map_stack_trace'
+    published: '2016-12-14T22:40:15+00:00'
+    id: 'urn:uuid:0ae51866-6f4d-5353-b683-9ea3d50d805b'
+    link: 'https://pub.dartlang.org/packages/source_map_stack_trace'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dartdoc
+    package_version: v0.9.8+1
+    title: 'v0.9.8+1 of dartdoc'
+    published: '2016-12-14T22:16:32+00:00'
+    id: 'urn:uuid:673bb1b9-cd02-55b4-8527-51095ec4fc6d'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
