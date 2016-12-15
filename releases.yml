@@ -79031,3 +79031,33 @@
     link: 'https://pub.dartlang.org/packages/venosyd_shelf_addons'
     author:
         - 'Sergio Lisan <sels@venosyd.com>'
+-
+    package_name: jaguar_session
+    package_version: v0.1.0
+    title: 'v0.1.0 of jaguar_session'
+    published: '2016-12-15T09:33:21+00:00'
+    id: 'urn:uuid:b22ae8ad-3c65-5377-a557-990295381262'
+    link: 'https://pub.dartlang.org/packages/jaguar_session'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_auth
+    package_version: v0.1.0
+    title: 'v0.1.0 of jaguar_auth'
+    published: '2016-12-15T09:32:58+00:00'
+    id: 'urn:uuid:e471634b-c0ae-5f09-aa4c-5472f6757a5f'
+    link: 'https://pub.dartlang.org/packages/jaguar_auth'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_jwt
+    package_version: v0.1.0
+    title: 'v0.1.0 of jaguar_jwt'
+    published: '2016-12-15T09:31:41+00:00'
+    id: 'urn:uuid:7e7c7f60-c998-598c-9deb-afef32ea18c3'
+    link: 'https://pub.dartlang.org/packages/jaguar_jwt'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
