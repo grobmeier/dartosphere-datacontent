@@ -79080,3 +79080,30 @@
     link: 'https://pub.dartlang.org/packages/incremental_dom_facade'
     author:
         - 'Kulshekhar Kabra <kulshekhar+dart@gmail.com>'
+-
+    package_name: sitegen
+    package_version: v1.6.4
+    title: 'v1.6.4 of sitegen'
+    published: '2016-12-15T15:46:39+00:00'
+    id: 'urn:uuid:b043e2ba-8e61-5287-9987-31e893496d92'
+    link: 'https://pub.dartlang.org/packages/sitegen'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: mdl
+    package_version: v1.18.2
+    title: 'v1.18.2 of mdl'
+    published: '2016-12-15T15:39:54+00:00'
+    id: 'urn:uuid:77becf68-5dfa-5c34-a03a-1702c6917c39'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: packages
+    package_version: v0.1.8
+    title: 'v0.1.8 of packages'
+    published: '2016-12-15T15:30:35+00:00'
+    id: 'urn:uuid:917329e6-849f-5a51-8bc9-20196d956b62'
+    link: 'https://pub.dartlang.org/packages/packages'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
