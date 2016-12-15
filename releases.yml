@@ -78973,3 +78973,23 @@
     link: 'https://pub.dartlang.org/packages/http_parser'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: jaguar
+    package_version: v0.1.2
+    title: 'v0.1.2 of jaguar'
+    published: '2016-12-15T03:09:43+00:00'
+    id: 'urn:uuid:320f7376-9fb3-5da0-96a3-b3546933dc76'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_generator
+    package_version: v0.1.8
+    title: 'v0.1.8 of jaguar_generator'
+    published: '2016-12-15T03:09:23+00:00'
+    id: 'urn:uuid:8c4d5568-5fb7-578f-bd21-0265b06ea43e'
+    link: 'https://pub.dartlang.org/packages/jaguar_generator'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
