@@ -79107,3 +79107,17 @@
     link: 'https://pub.dartlang.org/packages/packages'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: dart_dev
+    package_version: v1.5.3
+    title: 'v1.5.3 of dart_dev'
+    published: '2016-12-15T17:38:17+00:00'
+    id: 'urn:uuid:7047d5ec-e37b-5df8-b248-d64b00dcf810'
+    link: 'https://pub.dartlang.org/packages/dart_dev'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
