@@ -79012,3 +79012,22 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: ng_bootstrap
+    package_version: v0.4.6
+    title: 'v0.4.6 of ng_bootstrap'
+    published: '2016-12-15T05:58:04+00:00'
+    id: 'urn:uuid:44b779f3-3d39-5688-ad6e-c6898cc8a3d9'
+    link: 'https://pub.dartlang.org/packages/ng_bootstrap'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+        - 'Adao Jr. <itsjunnior@gmail.com>'
+-
+    package_name: venosyd_shelf_addons
+    package_version: v1.0.0
+    title: 'v1.0.0 of venosyd_shelf_addons'
+    published: '2016-12-15T05:17:03+00:00'
+    id: 'urn:uuid:5ca444d7-b0a2-54af-a315-c59e24d59aa7'
+    link: 'https://pub.dartlang.org/packages/venosyd_shelf_addons'
+    author:
+        - 'Sergio Lisan <sels@venosyd.com>'
