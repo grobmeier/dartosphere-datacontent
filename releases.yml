@@ -79207,3 +79207,12 @@
     link: 'https://pub.dartlang.org/packages/native_sample'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: pikaday_datepicker
+    package_version: v0.8.5
+    title: 'v0.8.5 of pikaday_datepicker'
+    published: '2016-12-16T19:47:06+00:00'
+    id: 'urn:uuid:94173076-a847-5034-90ba-cc4a87292976'
+    link: 'https://pub.dartlang.org/packages/pikaday_datepicker'
+    author:
+        - 'Stephan Schroeder <simon.void+github@gmail.com>'
