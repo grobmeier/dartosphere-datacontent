@@ -79144,3 +79144,12 @@
     link: 'https://pub.dartlang.org/packages/linkcheck'
     author:
         - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: spell_corrector
+    package_version: v1.0.0
+    title: 'v1.0.0 of spell_corrector'
+    published: '2016-12-16T04:24:58+00:00'
+    id: 'urn:uuid:83966058-a2df-536b-8fad-54db782923b3'
+    link: 'https://pub.dartlang.org/packages/spell_corrector'
+    author:
+        - 'John Ryan <john.p.ryan4@gmail.com>'
