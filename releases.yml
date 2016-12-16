@@ -79135,3 +79135,12 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: linkcheck
+    package_version: v1.0.0
+    title: 'v1.0.0 of linkcheck'
+    published: '2016-12-16T00:10:18+00:00'
+    id: 'urn:uuid:bd5cb23d-9089-58ba-aee3-83d5d369d86b'
+    link: 'https://pub.dartlang.org/packages/linkcheck'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
