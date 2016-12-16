@@ -79216,3 +79216,12 @@
     link: 'https://pub.dartlang.org/packages/pikaday_datepicker'
     author:
         - 'Stephan Schroeder <simon.void+github@gmail.com>'
+-
+    package_name: venosyd_common_validators
+    package_version: v1.0.1
+    title: 'v1.0.1 of venosyd_common_validators'
+    published: '2016-12-16T20:18:19+00:00'
+    id: 'urn:uuid:7d06d787-7db6-5ebb-b0f0-785cdd0c6831'
+    link: 'https://pub.dartlang.org/packages/venosyd_common_validators'
+    author:
+        - 'Sergio Lisan <sels@venosyd.com>'
