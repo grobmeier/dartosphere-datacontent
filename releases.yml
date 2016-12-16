@@ -79153,3 +79153,12 @@
     link: 'https://pub.dartlang.org/packages/spell_corrector'
     author:
         - 'John Ryan <john.p.ryan4@gmail.com>'
+-
+    package_name: native_sample
+    package_version: v0.1.0
+    title: 'v0.1.0 of native_sample'
+    published: '2016-12-16T12:00:22+00:00'
+    id: 'urn:uuid:daee3045-3427-5e2a-a28e-47e4fa0a50e9'
+    link: 'https://pub.dartlang.org/packages/native_sample'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
