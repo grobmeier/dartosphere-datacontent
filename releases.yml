@@ -79225,3 +79225,12 @@
     link: 'https://pub.dartlang.org/packages/venosyd_common_validators'
     author:
         - 'Sergio Lisan <sels@venosyd.com>'
+-
+    package_name: analyzer
+    package_version: v0.29.2
+    title: 'v0.29.2 of analyzer'
+    published: '2016-12-16T21:14:55+00:00'
+    id: 'urn:uuid:63e7785b-530e-511f-98c1-09913afb9e4e'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
