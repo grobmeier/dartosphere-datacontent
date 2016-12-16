@@ -79189,3 +79189,21 @@
     link: 'https://pub.dartlang.org/packages/pikaday_datepicker'
     author:
         - 'Stephan Schroeder <simon.void+github@gmail.com>'
+-
+    package_name: pikaday_datepicker
+    package_version: v0.8.2
+    title: 'v0.8.2 of pikaday_datepicker'
+    published: '2016-12-16T18:29:54+00:00'
+    id: 'urn:uuid:01aac4e6-2d78-5a36-95f1-21d426a333e1'
+    link: 'https://pub.dartlang.org/packages/pikaday_datepicker'
+    author:
+        - 'Stephan Schroeder <simon.void+github@gmail.com>'
+-
+    package_name: native_sample
+    package_version: v0.2.1
+    title: 'v0.2.1 of native_sample'
+    published: '2016-12-16T18:02:31+00:00'
+    id: 'urn:uuid:019cadc5-9a67-56ed-bb6e-61fed0be629b'
+    link: 'https://pub.dartlang.org/packages/native_sample'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
