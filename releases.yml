@@ -79162,3 +79162,12 @@
     link: 'https://pub.dartlang.org/packages/native_sample'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: native_sample
+    package_version: v0.1.1
+    title: 'v0.1.1 of native_sample'
+    published: '2016-12-16T12:06:31+00:00'
+    id: 'urn:uuid:e91cc62a-35a6-5a38-be3b-de7b5fdf19a1'
+    link: 'https://pub.dartlang.org/packages/native_sample'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
