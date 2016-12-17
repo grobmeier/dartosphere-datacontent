@@ -79244,3 +79244,23 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_auth
+    package_version: v0.1.2
+    title: 'v0.1.2 of jaguar_auth'
+    published: '2016-12-16T23:21:07+00:00'
+    id: 'urn:uuid:2b6f96ab-ffdb-57a0-bb8a-1740a984d735'
+    link: 'https://pub.dartlang.org/packages/jaguar_auth'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_session
+    package_version: v0.1.2
+    title: 'v0.1.2 of jaguar_session'
+    published: '2016-12-16T23:18:13+00:00'
+    id: 'urn:uuid:9d30d73f-6f61-5629-83f2-0159d36153ae'
+    link: 'https://pub.dartlang.org/packages/jaguar_session'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
