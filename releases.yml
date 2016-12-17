@@ -79347,3 +79347,30 @@
     link: 'https://pub.dartlang.org/packages/prototype'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: logmaster
+    package_version: v0.1.1
+    title: 'v0.1.1 of logmaster'
+    published: '2016-12-17T18:55:27+00:00'
+    id: 'urn:uuid:d255a828-4cbd-59bd-b25b-3452273f0ca6'
+    link: 'https://pub.dartlang.org/packages/logmaster'
+    author:
+        - 'Roman Snitko <roman.snitko@gmail.com>'
+-
+    package_name: esprima_facade
+    package_version: v1.0.0
+    title: 'v1.0.0 of esprima_facade'
+    published: '2016-12-17T18:33:41+00:00'
+    id: 'urn:uuid:c3158965-0568-5911-8a2f-5bbb8c87bd18'
+    link: 'https://pub.dartlang.org/packages/esprima_facade'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: estree_facade
+    package_version: v1.0.0
+    title: 'v1.0.0 of estree_facade'
+    published: '2016-12-17T18:12:44+00:00'
+    id: 'urn:uuid:8bc92e2b-97c6-50bc-a57f-9bd83ff3fc2c'
+    link: 'https://pub.dartlang.org/packages/estree_facade'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
