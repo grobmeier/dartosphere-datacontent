@@ -79273,3 +79273,12 @@
     link: 'https://pub.dartlang.org/packages/linkcheck'
     author:
         - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: linkcheck
+    package_version: v1.0.2
+    title: 'v1.0.2 of linkcheck'
+    published: '2016-12-17T02:23:03+00:00'
+    id: 'urn:uuid:a5d00dc4-4c07-573b-93c5-b60749877bf4'
+    link: 'https://pub.dartlang.org/packages/linkcheck'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
