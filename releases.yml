@@ -79329,3 +79329,12 @@
     link: 'https://pub.dartlang.org/packages/union_type'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: spreadsheet_decoder
+    package_version: v0.3.2
+    title: 'v0.3.2 of spreadsheet_decoder'
+    published: '2016-12-17T14:11:28+00:00'
+    id: 'urn:uuid:e0a29643-e8c8-57c4-a5cc-3d42dc80ee13'
+    link: 'https://pub.dartlang.org/packages/spreadsheet_decoder'
+    author:
+        - 'Stéphane Este-Gracias <sestegra@gmail.com>'
