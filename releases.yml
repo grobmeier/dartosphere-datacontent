@@ -79392,3 +79392,12 @@
     link: 'https://pub.dartlang.org/packages/trello_dart'
     author:
         - joe_re<joe.tialtngo@gmail.com>
+-
+    package_name: dmi_read
+    package_version: v0.1.0
+    title: 'v0.1.0 of dmi_read'
+    published: '2016-12-18T16:54:21+00:00'
+    id: 'urn:uuid:9df4c545-2299-541a-9e66-e310b5e512f8'
+    link: 'https://pub.dartlang.org/packages/dmi_read'
+    author:
+        - 'Dariusz Anzorge <d.anzorge@gmail.com>'
