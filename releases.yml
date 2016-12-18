@@ -79383,3 +79383,12 @@
     link: 'https://pub.dartlang.org/packages/firebase3'
     author:
         - 'Jana Moudra <jana.moudra@gmail.com>'
+-
+    package_name: trello_dart
+    package_version: v0.0.1
+    title: 'v0.0.1 of trello_dart'
+    published: '2016-12-18T13:03:21+00:00'
+    id: 'urn:uuid:5f88978a-f727-5f57-9599-82a062ba8f3e'
+    link: 'https://pub.dartlang.org/packages/trello_dart'
+    author:
+        - joe_re<joe.tialtngo@gmail.com>
