@@ -79421,3 +79421,12 @@
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
         - 'Adao Jr. <itsjunnior@gmail.com>'
+-
+    package_name: compiler_tools
+    package_version: v1.0.0-dev
+    title: 'v1.0.0-dev of compiler_tools'
+    published: '2016-12-18T22:00:19+00:00'
+    id: 'urn:uuid:6fdb3924-ce7f-595c-9e79-3271256228b3'
+    link: 'https://pub.dartlang.org/packages/compiler_tools'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
