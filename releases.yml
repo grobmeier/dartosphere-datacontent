@@ -79411,3 +79411,13 @@
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
         - 'Adao Jr. <itsjunnior@gmail.com>'
+-
+    package_name: ng_bootstrap
+    package_version: v0.5.1
+    title: 'v0.5.1 of ng_bootstrap'
+    published: '2016-12-18T21:54:04+00:00'
+    id: 'urn:uuid:e5d46e93-cd1f-51f7-af04-c0cf17276726'
+    link: 'https://pub.dartlang.org/packages/ng_bootstrap'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+        - 'Adao Jr. <itsjunnior@gmail.com>'
