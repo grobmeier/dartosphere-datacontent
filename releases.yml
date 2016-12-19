@@ -79439,3 +79439,21 @@
     link: 'https://pub.dartlang.org/packages/vscode'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: source_transformer
+    package_version: v0.1.0
+    title: 'v0.1.0 of source_transformer'
+    published: '2016-12-19T00:54:04+00:00'
+    id: 'urn:uuid:d0640f21-48b3-5df0-9d9f-5b753deef7f2'
+    link: 'https://pub.dartlang.org/packages/source_transformer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: polyglot
+    package_version: v1.0.0-dev
+    title: 'v1.0.0-dev of polyglot'
+    published: '2016-12-19T00:24:42+00:00'
+    id: 'urn:uuid:41ace085-13d9-5d33-b5f5-9a76551a8e77'
+    link: 'https://pub.dartlang.org/packages/polyglot'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
