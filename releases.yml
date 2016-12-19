@@ -79520,3 +79520,21 @@
     link: 'https://pub.dartlang.org/packages/built_value'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: owl_codegen
+    package_version: v0.1.0
+    title: 'v0.1.0 of owl_codegen'
+    published: '2016-12-19T13:45:07+00:00'
+    id: 'urn:uuid:745b437f-6e9e-5fcf-a157-42190085480b'
+    link: 'https://pub.dartlang.org/packages/owl_codegen'
+    author:
+        - 'Istvan Soos <istvan.soos@agilord.com>'
+-
+    package_name: owl
+    package_version: v0.1.0
+    title: 'v0.1.0 of owl'
+    published: '2016-12-19T13:40:16+00:00'
+    id: 'urn:uuid:23cb13e0-5d37-5205-b0a1-d85e022fbddc'
+    link: 'https://pub.dartlang.org/packages/owl'
+    author:
+        - 'Istvan Soos <istvan.soos@agilord.com>'
