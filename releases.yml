@@ -79430,3 +79430,12 @@
     link: 'https://pub.dartlang.org/packages/compiler_tools'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: vscode
+    package_version: v1.0.0
+    title: 'v1.0.0 of vscode'
+    published: '2016-12-18T23:58:32+00:00'
+    id: 'urn:uuid:79bc7413-30ad-5bce-84b8-e3d4fb150d83'
+    link: 'https://pub.dartlang.org/packages/vscode'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
