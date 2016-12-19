@@ -79457,3 +79457,12 @@
     link: 'https://pub.dartlang.org/packages/polyglot'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.33
+    title: 'v1.0.0-dev.33 of angel_framework'
+    published: '2016-12-19T01:38:51+00:00'
+    id: 'urn:uuid:2ab88855-1d2e-5dbc-91f5-a66c337f5c75'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
