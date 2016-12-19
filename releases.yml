@@ -79556,3 +79556,12 @@
     link: 'https://pub.dartlang.org/packages/more'
     author:
         - 'Lukas Renggli <renggli@gmail.com>'
+-
+    package_name: xml
+    package_version: v2.5.0
+    title: 'v2.5.0 of xml'
+    published: '2016-12-19T17:09:50+00:00'
+    id: 'urn:uuid:bf692fe5-4cdd-532b-b468-5240a5a7b695'
+    link: 'https://pub.dartlang.org/packages/xml'
+    author:
+        - 'Lukas Renggli <renggli@gmail.com>'
