@@ -79574,3 +79574,12 @@
     link: 'https://pub.dartlang.org/packages/dna'
     author:
         - 'root ext <root.ext@gmail.com>'
+-
+    package_name: collection
+    package_version: v1.13.0
+    title: 'v1.13.0 of collection'
+    published: '2016-12-19T22:29:47+00:00'
+    id: 'urn:uuid:23997a23-258b-52d4-8623-3d4d7728320d'
+    link: 'https://pub.dartlang.org/packages/collection'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
