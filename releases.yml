@@ -79538,3 +79538,21 @@
     link: 'https://pub.dartlang.org/packages/owl'
     author:
         - 'Istvan Soos <istvan.soos@agilord.com>'
+-
+    package_name: statemachine
+    package_version: v1.2.3
+    title: 'v1.2.3 of statemachine'
+    published: '2016-12-19T16:59:34+00:00'
+    id: 'urn:uuid:d6bbe8cf-803e-55fa-b0f0-edccaf966aa7'
+    link: 'https://pub.dartlang.org/packages/statemachine'
+    author:
+        - 'Lukas Renggli <renggli@gmail.com>'
+-
+    package_name: more
+    package_version: v1.6.0
+    title: 'v1.6.0 of more'
+    published: '2016-12-19T16:31:27+00:00'
+    id: 'urn:uuid:707822f6-0b22-5e6f-89df-a2211c4aac91'
+    link: 'https://pub.dartlang.org/packages/more'
+    author:
+        - 'Lukas Renggli <renggli@gmail.com>'
