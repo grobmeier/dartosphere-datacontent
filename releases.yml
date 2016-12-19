@@ -79466,3 +79466,30 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_test
+    package_version: v1.0.0-dev+1
+    title: 'v1.0.0-dev+1 of angel_test'
+    published: '2016-12-19T04:51:31+00:00'
+    id: 'urn:uuid:5273ef32-e4bb-58e5-9196-b132a418046f'
+    link: 'https://pub.dartlang.org/packages/angel_test'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_route
+    package_version: v1.0.0-dev+18
+    title: 'v1.0.0-dev+18 of angel_route'
+    published: '2016-12-19T04:44:08+00:00'
+    id: 'urn:uuid:44febe53-c565-560c-ad7c-fd8cd031ffa6'
+    link: 'https://pub.dartlang.org/packages/angel_route'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.34
+    title: 'v1.0.0-dev.34 of angel_framework'
+    published: '2016-12-19T04:32:52+00:00'
+    id: 'urn:uuid:9a9a2b37-7509-5430-b33e-2021a4c7bae7'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
