@@ -79565,3 +79565,12 @@
     link: 'https://pub.dartlang.org/packages/xml'
     author:
         - 'Lukas Renggli <renggli@gmail.com>'
+-
+    package_name: dna
+    package_version: v0.0.1
+    title: 'v0.0.1 of dna'
+    published: '2016-12-19T19:44:47+00:00'
+    id: 'urn:uuid:00726938-501e-5278-8c02-9cd695bd055e'
+    link: 'https://pub.dartlang.org/packages/dna'
+    author:
+        - 'root ext <root.ext@gmail.com>'
