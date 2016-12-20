@@ -79619,3 +79619,12 @@
     link: 'https://pub.dartlang.org/packages/ducene'
     author:
         - 'Shinichiro Abe <shinichiro.abe.1@gmail.com>'
+-
+    package_name: exif
+    package_version: v0.1.1
+    title: 'v0.1.1 of exif'
+    published: '2016-12-20T15:02:47+00:00'
+    id: 'urn:uuid:715ae782-72c6-55c1-8b52-1b5ad69fd54b'
+    link: 'https://pub.dartlang.org/packages/exif'
+    author:
+        - 'Taesu Pyo <pyotaesu@gmail.com>'
