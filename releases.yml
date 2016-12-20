@@ -79583,3 +79583,21 @@
     link: 'https://pub.dartlang.org/packages/collection'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: linkcheck
+    package_version: v1.0.4
+    title: 'v1.0.4 of linkcheck'
+    published: '2016-12-20T06:21:50+00:00'
+    id: 'urn:uuid:16c3d34f-79bb-5d28-951b-4311641eca57'
+    link: 'https://pub.dartlang.org/packages/linkcheck'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: source_transformer
+    package_version: v0.1.1
+    title: 'v0.1.1 of source_transformer'
+    published: '2016-12-20T06:08:59+00:00'
+    id: 'urn:uuid:039632d4-c1c1-580e-ae56-1036707028be'
+    link: 'https://pub.dartlang.org/packages/source_transformer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
