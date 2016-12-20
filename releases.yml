@@ -79637,3 +79637,12 @@
     link: 'https://pub.dartlang.org/packages/mdc'
     author:
         - 'Adao Junior'
+-
+    package_name: scheduled_test
+    package_version: v0.12.8+1
+    title: 'v0.12.8+1 of scheduled_test'
+    published: '2016-12-20T20:58:58+00:00'
+    id: 'urn:uuid:8f2e999c-4142-5fdf-88de-53ac8d000a6f'
+    link: 'https://pub.dartlang.org/packages/scheduled_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
