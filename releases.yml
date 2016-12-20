@@ -79628,3 +79628,12 @@
     link: 'https://pub.dartlang.org/packages/exif'
     author:
         - 'Taesu Pyo <pyotaesu@gmail.com>'
+-
+    package_name: mdc
+    package_version: v0.0.1
+    title: 'v0.0.1 of mdc'
+    published: '2016-12-20T17:48:56+00:00'
+    id: 'urn:uuid:8d55772e-5ea5-5968-9130-9861781072e0'
+    link: 'https://pub.dartlang.org/packages/mdc'
+    author:
+        - 'Adao Junior'
