@@ -79601,3 +79601,12 @@
     link: 'https://pub.dartlang.org/packages/source_transformer'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: observable
+    package_version: v0.20.2
+    title: 'v0.20.2 of observable'
+    published: '2016-12-20T07:22:32+00:00'
+    id: 'urn:uuid:654f4c59-2348-5bf7-b30f-028eeedd2157'
+    link: 'https://pub.dartlang.org/packages/observable'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
