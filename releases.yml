@@ -79646,3 +79646,12 @@
     link: 'https://pub.dartlang.org/packages/scheduled_test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: resolver
+    package_version: v0.1.0
+    title: 'v0.1.0 of resolver'
+    published: '2016-12-20T22:31:58+00:00'
+    id: 'urn:uuid:521cde77-1bfe-5283-b110-0cd232323f98'
+    link: 'https://pub.dartlang.org/packages/resolver'
+    author:
+        - 'Matan Lurey <matan@lurey.org>'
