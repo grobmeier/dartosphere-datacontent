@@ -79772,3 +79772,30 @@
     link: 'https://pub.dartlang.org/packages/angel_cli'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_errors
+    package_version: v1.0.0-dev+2
+    title: 'v1.0.0-dev+2 of angel_errors'
+    published: '2016-12-21T18:43:55+00:00'
+    id: 'urn:uuid:ee30d358-ab69-584b-ba05-ecced4d76315'
+    link: 'https://pub.dartlang.org/packages/angel_errors'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_auth
+    package_version: v1.0.0-dev+15
+    title: 'v1.0.0-dev+15 of angel_auth'
+    published: '2016-12-21T18:29:04+00:00'
+    id: 'urn:uuid:1ea166f5-ddda-5a77-918a-71aad36551c6'
+    link: 'https://pub.dartlang.org/packages/angel_auth'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.36
+    title: 'v1.0.0-dev.36 of angel_framework'
+    published: '2016-12-21T18:18:23+00:00'
+    id: 'urn:uuid:0991d824-58ac-5e38-b3c7-7f8960ccb5c4'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
