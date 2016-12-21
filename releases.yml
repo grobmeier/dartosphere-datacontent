@@ -79754,3 +79754,21 @@
     link: 'https://pub.dartlang.org/packages/over_react'
     author:
         - 'Workiva UI Platform Team <uip@workiva.com>'
+-
+    package_name: angel_cors
+    package_version: v1.0.0-dev+2
+    title: 'v1.0.0-dev+2 of angel_cors'
+    published: '2016-12-21T17:43:51+00:00'
+    id: 'urn:uuid:0fe7c940-49b2-5fd9-ae67-b5ef4c678bd0'
+    link: 'https://pub.dartlang.org/packages/angel_cors'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_cli
+    package_version: v1.0.0-dev+7
+    title: 'v1.0.0-dev+7 of angel_cli'
+    published: '2016-12-21T17:34:10+00:00'
+    id: 'urn:uuid:e2fccdc0-2d8b-5602-af04-613dd12758d6'
+    link: 'https://pub.dartlang.org/packages/angel_cli'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
