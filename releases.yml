@@ -79700,3 +79700,21 @@
     link: 'https://pub.dartlang.org/packages/redarx'
     author:
         - 'Erick G. <erick@rxlabz.com>'
+-
+    package_name: scheduled_test
+    package_version: v0.12.9
+    title: 'v0.12.9 of scheduled_test'
+    published: '2016-12-21T01:57:50+00:00'
+    id: 'urn:uuid:5ef47067-d1ac-5f18-bae5-295b150e2e03'
+    link: 'https://pub.dartlang.org/packages/scheduled_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: test
+    package_version: v0.12.18
+    title: 'v0.12.18 of test'
+    published: '2016-12-21T01:54:11+00:00'
+    id: 'urn:uuid:b65b41f5-7751-5ff5-987c-f823f9fd1bcd'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
