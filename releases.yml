@@ -79691,3 +79691,12 @@
     link: 'https://pub.dartlang.org/packages/htmlwhitelist'
     author:
         - 'Roel Spilker <r.spilker@gmail.com>'
+-
+    package_name: redarx
+    package_version: v0.6.0
+    title: 'v0.6.0 of redarx'
+    published: '2016-12-21T00:50:18+00:00'
+    id: 'urn:uuid:18d74523-e518-5aee-87d4-e84e1bf85fda'
+    link: 'https://pub.dartlang.org/packages/redarx'
+    author:
+        - 'Erick G. <erick@rxlabz.com>'
