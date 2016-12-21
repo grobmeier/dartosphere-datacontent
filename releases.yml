@@ -79727,3 +79727,12 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: incremental_dom_facade
+    package_version: v0.0.2
+    title: 'v0.0.2 of incremental_dom_facade'
+    published: '2016-12-21T06:47:26+00:00'
+    id: 'urn:uuid:302392f3-fbfa-5c81-9040-9cefbcd3e8ed'
+    link: 'https://pub.dartlang.org/packages/incremental_dom_facade'
+    author:
+        - 'Kulshekhar Kabra <kulshekhar+dart@gmail.com>'
