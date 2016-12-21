@@ -79736,3 +79736,21 @@
     link: 'https://pub.dartlang.org/packages/incremental_dom_facade'
     author:
         - 'Kulshekhar Kabra <kulshekhar+dart@gmail.com>'
+-
+    package_name: angel_compress
+    package_version: v1.0.0
+    title: 'v1.0.0 of angel_compress'
+    published: '2016-12-21T16:24:07+00:00'
+    id: 'urn:uuid:2afbe174-20b7-5b56-891f-7a4be2b002fc'
+    link: 'https://pub.dartlang.org/packages/angel_compress'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: over_react
+    package_version: v1.3.0
+    title: 'v1.3.0 of over_react'
+    published: '2016-12-21T16:23:59+00:00'
+    id: 'urn:uuid:ef625743-3a3b-5cca-8f03-b945f786cc8f'
+    link: 'https://pub.dartlang.org/packages/over_react'
+    author:
+        - 'Workiva UI Platform Team <uip@workiva.com>'
