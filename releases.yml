@@ -79873,3 +79873,12 @@
     link: 'https://pub.dartlang.org/packages/fo_components'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: xerum
+    package_version: v0.1.1
+    title: 'v0.1.1 of xerum'
+    published: '2016-12-22T13:44:25+00:00'
+    id: 'urn:uuid:41fd8719-fdeb-59af-b87d-1c4bf5db512a'
+    link: 'https://pub.dartlang.org/packages/xerum'
+    author:
+        - 'Mihai Pirvu <uizz@outlook.com>'
