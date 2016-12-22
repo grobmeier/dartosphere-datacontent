@@ -79901,3 +79901,12 @@
     link: 'https://pub.dartlang.org/packages/eqlib'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: angel_auth
+    package_version: v1.0.0-dev+16
+    title: 'v1.0.0-dev+16 of angel_auth'
+    published: '2016-12-22T17:24:14+00:00'
+    id: 'urn:uuid:24d2165b-f3db-5843-9907-a131fac5c30a'
+    link: 'https://pub.dartlang.org/packages/angel_auth'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
