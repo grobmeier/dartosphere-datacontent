@@ -79937,3 +79937,21 @@
     link: 'https://pub.dartlang.org/packages/angel_auth_google'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: incremental_dom_facade
+    package_version: v0.0.3
+    title: 'v0.0.3 of incremental_dom_facade'
+    published: '2016-12-22T19:51:47+00:00'
+    id: 'urn:uuid:a7157a9e-1c1f-58dd-91e0-4da00bba1005'
+    link: 'https://pub.dartlang.org/packages/incremental_dom_facade'
+    author:
+        - 'Kulshekhar Kabra <kulshekhar+dart@gmail.com>'
+-
+    package_name: dna
+    package_version: v0.0.2
+    title: 'v0.0.2 of dna'
+    published: '2016-12-22T19:15:08+00:00'
+    id: 'urn:uuid:575b53e5-148f-553f-9e71-329e8aecc6b0'
+    link: 'https://pub.dartlang.org/packages/dna'
+    author:
+        - 'root ext <root.ext@gmail.com>'
