@@ -79826,3 +79826,32 @@
     link: 'https://pub.dartlang.org/packages/angel_cli'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: stagehand
+    package_version: v1.0.20
+    title: 'v1.0.20 of stagehand'
+    published: '2016-12-21T23:47:16+00:00'
+    id: 'urn:uuid:8a4b79e7-dddd-524a-adec-65922f55585c'
+    link: 'https://pub.dartlang.org/packages/stagehand'
+    author:
+        - 'Seth Ladd <sethladd@google.com>'
+        - 'Devon Carew <devoncarew@google.com>'
+        - 'Kathy Walrath <kathyw@google.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.38
+    title: 'v1.0.0-dev.38 of angel_framework'
+    published: '2016-12-21T23:40:15+00:00'
+    id: 'urn:uuid:da61279a-0f3d-5eb7-a1c7-743b6d6078e5'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_route
+    package_version: v1.0.0-dev+19
+    title: 'v1.0.0-dev+19 of angel_route'
+    published: '2016-12-21T23:28:14+00:00'
+    id: 'urn:uuid:47ebff53-8a8a-5550-be7b-18d60b61876a'
+    link: 'https://pub.dartlang.org/packages/angel_route'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
