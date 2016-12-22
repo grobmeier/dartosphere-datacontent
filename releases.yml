@@ -79855,3 +79855,12 @@
     link: 'https://pub.dartlang.org/packages/angel_route'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: zone_js
+    package_version: v0.0.1
+    title: 'v0.0.1 of zone_js'
+    published: '2016-12-22T00:47:44+00:00'
+    id: 'urn:uuid:c9ed0c1a-3dac-508c-a76e-d5eb7edad337'
+    link: 'https://pub.dartlang.org/packages/zone_js'
+    author:
+        - 'John Ryan <john.p.ryan4@gmail.com>'
