@@ -79864,3 +79864,12 @@
     link: 'https://pub.dartlang.org/packages/zone_js'
     author:
         - 'John Ryan <john.p.ryan4@gmail.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1157
+    title: 'v0.0.1157 of fo_components'
+    published: '2016-12-22T09:08:18+00:00'
+    id: 'urn:uuid:6ecacb3b-d0be-5fdc-83b3-229e6d7acf94'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
