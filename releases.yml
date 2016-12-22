@@ -79892,3 +79892,12 @@
     author:
         - 'David Morgan <davidmorgan@google.com>'
         - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: eqlib
+    package_version: v0.1.0
+    title: 'v0.1.0 of eqlib'
+    published: '2016-12-22T15:30:42+00:00'
+    id: 'urn:uuid:2a67861e-57ff-5a0c-af3e-b6f0269c658b'
+    link: 'https://pub.dartlang.org/packages/eqlib'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
