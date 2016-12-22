@@ -79882,3 +79882,13 @@
     link: 'https://pub.dartlang.org/packages/xerum'
     author:
         - 'Mihai Pirvu <uizz@outlook.com>'
+-
+    package_name: built_collection
+    package_version: v1.3.0
+    title: 'v1.3.0 of built_collection'
+    published: '2016-12-22T14:48:51+00:00'
+    id: 'urn:uuid:55324822-c61f-5951-b229-7d0c81fbf1f0'
+    link: 'https://pub.dartlang.org/packages/built_collection'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+        - 'Matan Lurey <matanl@google.com>'
