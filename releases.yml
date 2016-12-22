@@ -79910,3 +79910,30 @@
     link: 'https://pub.dartlang.org/packages/angel_auth'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: material2_dart
+    package_version: v0.4.4
+    title: 'v0.4.4 of material2_dart'
+    published: '2016-12-22T18:26:44+00:00'
+    id: 'urn:uuid:33508dce-b263-59a2-abc3-71877dcb2471'
+    link: 'https://pub.dartlang.org/packages/material2_dart'
+    author:
+        - 'ntaoo <ntaoo.g@gmail.com>'
+-
+    package_name: body_parser
+    package_version: v1.0.0-dev+4
+    title: 'v1.0.0-dev+4 of body_parser'
+    published: '2016-12-22T18:20:57+00:00'
+    id: 'urn:uuid:196b5b2a-ac4f-54f2-9590-3fd2cc6d0b63'
+    link: 'https://pub.dartlang.org/packages/body_parser'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_auth_google
+    package_version: v1.0.0+1
+    title: 'v1.0.0+1 of angel_auth_google'
+    published: '2016-12-22T18:14:17+00:00'
+    id: 'urn:uuid:d7d812d7-26c7-5975-889a-b658c348de61'
+    link: 'https://pub.dartlang.org/packages/angel_auth_google'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
