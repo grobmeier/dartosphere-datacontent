@@ -79982,3 +79982,12 @@
     link: 'https://pub.dartlang.org/packages/angel_client'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: just_google_jwt_decoder
+    package_version: v0.1.1
+    title: 'v0.1.1 of just_google_jwt_decoder'
+    published: '2016-12-23T12:31:43+00:00'
+    id: 'urn:uuid:bfade659-be6a-5651-99ef-8e7961257ef8'
+    link: 'https://pub.dartlang.org/packages/just_google_jwt_decoder'
+    author:
+        - 'Tomas Szabo <tomas.szabo@deftomat.com>'
