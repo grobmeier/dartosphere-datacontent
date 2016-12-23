@@ -79955,3 +79955,12 @@
     link: 'https://pub.dartlang.org/packages/dna'
     author:
         - 'root ext <root.ext@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.39
+    title: 'v1.0.0-dev.39 of angel_framework'
+    published: '2016-12-23T01:49:44+00:00'
+    id: 'urn:uuid:c09c52fc-3a18-5b63-b555-692dec0924cf'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
