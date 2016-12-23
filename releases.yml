@@ -79991,3 +79991,13 @@
     link: 'https://pub.dartlang.org/packages/just_google_jwt_decoder'
     author:
         - 'Tomas Szabo <tomas.szabo@deftomat.com>'
+-
+    package_name: seltzer
+    package_version: v0.3.0
+    title: 'v0.3.0 of seltzer'
+    published: '2016-12-23T16:32:42+00:00'
+    id: 'urn:uuid:a73e8e29-c479-5361-9b09-530629c90bd9'
+    link: 'https://pub.dartlang.org/packages/seltzer'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
+        - 'Kendal Harland <kjharland@google.com>'
