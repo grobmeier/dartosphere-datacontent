@@ -80010,3 +80010,13 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: jaguar_serializer_mongo
+    package_version: v0.0.1
+    title: 'v0.0.1 of jaguar_serializer_mongo'
+    published: '2016-12-23T22:50:05+00:00'
+    id: 'urn:uuid:518af238-5120-525f-9458-4878f6977bd3'
+    link: 'https://pub.dartlang.org/packages/jaguar_serializer_mongo'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
