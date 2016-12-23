@@ -80001,3 +80001,12 @@
     author:
         - 'Matan Lurey <matanl@google.com>'
         - 'Kendal Harland <kjharland@google.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.40
+    title: 'v1.0.0-dev.40 of angel_framework'
+    published: '2016-12-23T20:54:05+00:00'
+    id: 'urn:uuid:1397a7dd-eee8-550c-8baf-e3e2125f2584'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
