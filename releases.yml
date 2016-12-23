@@ -79964,3 +79964,12 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_auth_twitter
+    package_version: v1.0.0
+    title: 'v1.0.0 of angel_auth_twitter'
+    published: '2016-12-23T02:07:56+00:00'
+    id: 'urn:uuid:009648df-d2cc-5039-80ae-6456959bcf77'
+    link: 'https://pub.dartlang.org/packages/angel_auth_twitter'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
