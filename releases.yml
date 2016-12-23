@@ -79973,3 +79973,12 @@
     link: 'https://pub.dartlang.org/packages/angel_auth_twitter'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_client
+    package_version: v1.0.0-dev+21
+    title: 'v1.0.0-dev+21 of angel_client'
+    published: '2016-12-23T10:24:45+00:00'
+    id: 'urn:uuid:48af206e-cafe-5885-bfb4-fded7c4dc0a6'
+    link: 'https://pub.dartlang.org/packages/angel_client'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
