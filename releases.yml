@@ -80029,3 +80029,12 @@
     link: 'https://pub.dartlang.org/packages/angel_websocket'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_cli
+    package_version: v1.0.0-dev+14
+    title: 'v1.0.0-dev+14 of angel_cli'
+    published: '2016-12-24T04:48:39+00:00'
+    id: 'urn:uuid:c63d1f1f-04d2-5d26-a342-5056c1f75274'
+    link: 'https://pub.dartlang.org/packages/angel_cli'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
