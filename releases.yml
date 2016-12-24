@@ -80047,3 +80047,12 @@
     link: 'https://pub.dartlang.org/packages/angel_cli'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: rxdart
+    package_version: v0.5.1
+    title: 'v0.5.1 of rxdart'
+    published: '2016-12-24T06:56:44+00:00'
+    id: 'urn:uuid:7b707842-0976-526b-8d2e-797fae594809'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
