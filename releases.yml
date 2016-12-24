@@ -80065,3 +80065,12 @@
     link: 'https://pub.dartlang.org/packages/dna'
     author:
         - 'root ext <root.ext@gmail.com>'
+-
+    package_name: angel_multiserver
+    package_version: v1.0.0-dev+2
+    title: 'v1.0.0-dev+2 of angel_multiserver'
+    published: '2016-12-24T18:12:38+00:00'
+    id: 'urn:uuid:58322f57-4a07-5174-b31c-3b987b722633'
+    link: 'https://pub.dartlang.org/packages/angel_multiserver'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
