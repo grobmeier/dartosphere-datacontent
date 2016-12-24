@@ -80038,3 +80038,12 @@
     link: 'https://pub.dartlang.org/packages/angel_cli'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_cli
+    package_version: v1.0.0-dev+15
+    title: 'v1.0.0-dev+15 of angel_cli'
+    published: '2016-12-24T05:24:26+00:00'
+    id: 'urn:uuid:de9cb3da-e20e-5424-bd46-b429cafbcc5a'
+    link: 'https://pub.dartlang.org/packages/angel_cli'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
