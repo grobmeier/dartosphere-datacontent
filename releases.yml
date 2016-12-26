@@ -80133,3 +80133,22 @@
     link: 'https://pub.dartlang.org/packages/eqlib'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: jaguar_generator
+    package_version: v0.1.9
+    title: 'v0.1.9 of jaguar_generator'
+    published: '2016-12-26T01:18:34+00:00'
+    id: 'urn:uuid:cf9f51e9-5718-571a-83cf-03ad97375ef2'
+    link: 'https://pub.dartlang.org/packages/jaguar_generator'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: angel_validate
+    package_version: v0.0.0
+    title: 'v0.0.0 of angel_validate'
+    published: '2016-12-26T01:12:12+00:00'
+    id: 'urn:uuid:c1ce22c6-71ee-5c4d-a5da-fc8c622e14dd'
+    link: 'https://pub.dartlang.org/packages/angel_validate'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
