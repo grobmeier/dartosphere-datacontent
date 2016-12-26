@@ -80211,3 +80211,51 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: polymer_element
+    package_version: v0.2.0
+    title: 'v0.2.0 of polymer_element'
+    published: '2016-12-26T21:41:26+00:00'
+    id: 'urn:uuid:e3e72802-0eab-5b3d-b16e-c412a13a2bf2'
+    link: 'https://pub.dartlang.org/packages/polymer_element'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: dna
+    package_version: v0.2.0
+    title: 'v0.2.0 of dna'
+    published: '2016-12-26T21:24:12+00:00'
+    id: 'urn:uuid:dbaa0cd4-f6a3-5377-8100-98fbd9d6cbe0'
+    link: 'https://pub.dartlang.org/packages/dna'
+    author:
+        - 'root ext <root.ext@gmail.com>'
+-
+    package_name: jaguar
+    package_version: v0.1.3
+    title: 'v0.1.3 of jaguar'
+    published: '2016-12-26T21:14:19+00:00'
+    id: 'urn:uuid:fe739712-6bc5-5409-a642-ee9b1cb34bd1'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_cli
+    package_version: v0.0.7
+    title: 'v0.0.7 of jaguar_cli'
+    published: '2016-12-26T21:12:17+00:00'
+    id: 'urn:uuid:c25ac4b6-319c-5359-9e97-492299290751'
+    link: 'https://pub.dartlang.org/packages/jaguar_cli'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_generator
+    package_version: v0.1.11
+    title: 'v0.1.11 of jaguar_generator'
+    published: '2016-12-26T21:11:21+00:00'
+    id: 'urn:uuid:d239f9fe-ec6c-557f-9c0d-2ac6eb2a61b8'
+    link: 'https://pub.dartlang.org/packages/jaguar_generator'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
