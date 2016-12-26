@@ -80191,3 +80191,23 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_cli
+    package_version: v0.0.5
+    title: 'v0.0.5 of jaguar_cli'
+    published: '2016-12-26T15:39:15+00:00'
+    id: 'urn:uuid:0dbd937a-87e4-5a6f-9de8-6b563d8c121c'
+    link: 'https://pub.dartlang.org/packages/jaguar_cli'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_validate
+    package_version: v0.0.7
+    title: 'v0.0.7 of jaguar_validate'
+    published: '2016-12-26T15:38:02+00:00'
+    id: 'urn:uuid:702c3538-c3ed-539f-8fe6-b1029194228c'
+    link: 'https://pub.dartlang.org/packages/jaguar_validate'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
