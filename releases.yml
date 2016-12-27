@@ -80308,3 +80308,30 @@
     link: 'https://pub.dartlang.org/packages/polymerize'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: braxter_server
+    package_version: v0.1.1
+    title: 'v0.1.1 of braxter_server'
+    published: '2016-12-27T12:15:44+00:00'
+    id: 'urn:uuid:90496ae0-323d-5103-8b97-6119b70fa73a'
+    link: 'https://pub.dartlang.org/packages/braxter_server'
+    author:
+        - 'Mihai Pirvu <uizz@outlook.com>'
+-
+    package_name: braxter_client
+    package_version: v0.1.1
+    title: 'v0.1.1 of braxter_client'
+    published: '2016-12-27T12:13:36+00:00'
+    id: 'urn:uuid:fd1c5663-706a-5393-acb8-ef42139141d9'
+    link: 'https://pub.dartlang.org/packages/braxter_client'
+    author:
+        - 'Mihai Pirvu <uizz@outlook.com>'
+-
+    package_name: braxter_common
+    package_version: v0.1.0
+    title: 'v0.1.0 of braxter_common'
+    published: '2016-12-27T12:04:16+00:00'
+    id: 'urn:uuid:e5eec060-cdb6-5071-ac78-3667b0386a36'
+    link: 'https://pub.dartlang.org/packages/braxter_common'
+    author:
+        - 'Mihai Pirvu <uizz@outlook.com>'
