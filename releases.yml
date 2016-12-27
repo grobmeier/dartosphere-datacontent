@@ -80448,3 +80448,12 @@
     link: 'https://pub.dartlang.org/packages/executor'
     author:
         - 'Istvan Soos <istvan.soos@agilord.com>'
+-
+    package_name: gamepad
+    package_version: v0.1.0-dev+1
+    title: 'v0.1.0-dev+1 of gamepad'
+    published: '2016-12-27T22:00:40+00:00'
+    id: 'urn:uuid:a5b0f1ad-90ed-51b9-83a6-58947597234f'
+    link: 'https://pub.dartlang.org/packages/gamepad'
+    author:
+        - 'Matan Lurey <matan@lurey.org>'
