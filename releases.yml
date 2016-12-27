@@ -80374,3 +80374,22 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: angel_validate
+    package_version: v0.0.2
+    title: 'v0.0.2 of angel_validate'
+    published: '2016-12-27T16:43:45+00:00'
+    id: 'urn:uuid:0df5cc2b-be98-5dcf-9844-32334c7768ab'
+    link: 'https://pub.dartlang.org/packages/angel_validate'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: jaguar_cli
+    package_version: v0.0.12
+    title: 'v0.0.12 of jaguar_cli'
+    published: '2016-12-27T16:29:15+00:00'
+    id: 'urn:uuid:77f8f078-6808-5717-94d9-8f98fb1a28b3'
+    link: 'https://pub.dartlang.org/packages/jaguar_cli'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
