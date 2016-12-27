@@ -80335,3 +80335,32 @@
     link: 'https://pub.dartlang.org/packages/braxter_common'
     author:
         - 'Mihai Pirvu <uizz@outlook.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1158
+    title: 'v0.0.1158 of fo_components'
+    published: '2016-12-27T13:53:10+00:00'
+    id: 'urn:uuid:d8342275-4c5c-514e-b59b-f96e59cbb76f'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: jaguar_generator
+    package_version: v0.1.14
+    title: 'v0.1.14 of jaguar_generator'
+    published: '2016-12-27T13:29:06+00:00'
+    id: 'urn:uuid:f3bb3bb3-7528-5f63-9604-0dbaf17d580d'
+    link: 'https://pub.dartlang.org/packages/jaguar_generator'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar
+    package_version: v0.1.6
+    title: 'v0.1.6 of jaguar'
+    published: '2016-12-27T13:28:05+00:00'
+    id: 'urn:uuid:0d813970-7428-5826-a5a6-d9b93975ecc9'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
