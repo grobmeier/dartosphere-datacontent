@@ -80412,3 +80412,21 @@
     link: 'https://pub.dartlang.org/packages/angel_common'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: zwave
+    package_version: v0.7.0
+    title: 'v0.7.0 of zwave'
+    published: '2016-12-27T18:14:19+00:00'
+    id: 'urn:uuid:aac9d6ce-c5a2-50cd-b7aa-cdaf129b325c'
+    link: 'https://pub.dartlang.org/packages/zwave'
+    author:
+        - 'Dan Rubel <danrubel@google.com>'
+-
+    package_name: dna
+    package_version: v0.2.1
+    title: 'v0.2.1 of dna'
+    published: '2016-12-27T18:05:55+00:00'
+    id: 'urn:uuid:3f5a7b3b-232a-551d-8c24-3a2264536f40'
+    link: 'https://pub.dartlang.org/packages/dna'
+    author:
+        - 'root ext <root.ext@gmail.com>'
