@@ -80457,3 +80457,12 @@
     link: 'https://pub.dartlang.org/packages/gamepad'
     author:
         - 'Matan Lurey <matan@lurey.org>'
+-
+    package_name: dartdoc
+    package_version: v0.9.9
+    title: 'v0.9.9 of dartdoc'
+    published: '2016-12-27T22:53:02+00:00'
+    id: 'urn:uuid:ae7e2c62-1722-5edd-abe2-1658621051e3'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
