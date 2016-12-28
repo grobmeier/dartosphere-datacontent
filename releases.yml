@@ -80624,3 +80624,12 @@
     link: 'https://pub.dartlang.org/packages/angel_template'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: redstone_web_socket
+    package_version: v0.1.0
+    title: 'v0.1.0 of redstone_web_socket'
+    published: '2016-12-28T21:55:21+00:00'
+    id: 'urn:uuid:e76b563c-45e2-545a-98a2-6d2e478b4663'
+    link: 'https://pub.dartlang.org/packages/redstone_web_socket'
+    author:
+        - 'Luiz Mineo <luiz.mineo@gmail.com>'
