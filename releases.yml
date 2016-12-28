@@ -80511,3 +80511,12 @@
     link: 'https://pub.dartlang.org/packages/htmlwhitelist'
     author:
         - 'Roel Spilker <r.spilker@gmail.com>'
+-
+    package_name: phaser
+    package_version: v2.6.2
+    title: 'v2.6.2 of phaser'
+    published: '2016-12-28T01:06:58+00:00'
+    id: 'urn:uuid:de928bc8-b9a5-52e9-ae60-23e0e9f1f3b3'
+    link: 'https://pub.dartlang.org/packages/phaser'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
