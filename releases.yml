@@ -80567,3 +80567,13 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_auth
+    package_version: v0.1.4
+    title: 'v0.1.4 of jaguar_auth'
+    published: '2016-12-28T14:14:52+00:00'
+    id: 'urn:uuid:cca86767-db3a-5258-9611-86879e0fd7ae'
+    link: 'https://pub.dartlang.org/packages/jaguar_auth'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
