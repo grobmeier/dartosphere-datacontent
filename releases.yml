@@ -80530,3 +80530,30 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: ntidote
+    package_version: v0.1.2
+    title: 'v0.1.2 of ntidote'
+    published: '2016-12-28T12:39:35+00:00'
+    id: 'urn:uuid:43632708-9c7d-50fe-bd8c-7f32d79a876d'
+    link: 'https://pub.dartlang.org/packages/ntidote'
+    author:
+        - 'Mihai Pirvu <uizz@outlook.com>'
+-
+    package_name: braxter_common
+    package_version: v0.1.2
+    title: 'v0.1.2 of braxter_common'
+    published: '2016-12-28T12:37:01+00:00'
+    id: 'urn:uuid:b215c663-a9f7-5ce1-a3db-2f008562cad3'
+    link: 'https://pub.dartlang.org/packages/braxter_common'
+    author:
+        - 'Mihai Pirvu <uizz@outlook.com>'
+-
+    package_name: polymerize
+    package_version: v0.4.0+2
+    title: 'v0.4.0+2 of polymerize'
+    published: '2016-12-28T12:18:43+00:00'
+    id: 'urn:uuid:b5428b94-9ad7-5d36-943d-632b49944de1'
+    link: 'https://pub.dartlang.org/packages/polymerize'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
