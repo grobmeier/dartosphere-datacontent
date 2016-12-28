@@ -80484,3 +80484,30 @@
     link: 'https://pub.dartlang.org/packages/polymerize'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: phaser
+    package_version: v2.6.2-beta+1
+    title: 'v2.6.2-beta+1 of phaser'
+    published: '2016-12-28T00:28:18+00:00'
+    id: 'urn:uuid:3a287cf9-69ee-55a3-b943-a04a77c40d18'
+    link: 'https://pub.dartlang.org/packages/phaser'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: polymerize
+    package_version: v0.4.0+1
+    title: 'v0.4.0+1 of polymerize'
+    published: '2016-12-28T00:03:38+00:00'
+    id: 'urn:uuid:d0ed0d07-8fb6-5d0c-82af-23cffa16301c'
+    link: 'https://pub.dartlang.org/packages/polymerize'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: htmlwhitelist
+    package_version: v0.2.0
+    title: 'v0.2.0 of htmlwhitelist'
+    published: '2016-12-28T00:01:40+00:00'
+    id: 'urn:uuid:93a0954e-15dd-51a7-81ee-ef43d9bf3bf2'
+    link: 'https://pub.dartlang.org/packages/htmlwhitelist'
+    author:
+        - 'Roel Spilker <r.spilker@gmail.com>'
