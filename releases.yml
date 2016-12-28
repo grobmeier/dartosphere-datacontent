@@ -80577,3 +80577,41 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: htmlwhitelist
+    package_version: v0.2.1
+    title: 'v0.2.1 of htmlwhitelist'
+    published: '2016-12-28T18:43:18+00:00'
+    id: 'urn:uuid:06e65744-d66b-5c17-bfcb-41c705305756'
+    link: 'https://pub.dartlang.org/packages/htmlwhitelist'
+    author:
+        - 'Roel Spilker <r.spilker@gmail.com>'
+-
+    package_name: dna
+    package_version: v0.2.2
+    title: 'v0.2.2 of dna'
+    published: '2016-12-28T18:30:12+00:00'
+    id: 'urn:uuid:f0390a40-df28-5604-a123-696bb97f5be9'
+    link: 'https://pub.dartlang.org/packages/dna'
+    author:
+        - 'root ext <root.ext@gmail.com>'
+-
+    package_name: jaguar
+    package_version: v0.1.7
+    title: 'v0.1.7 of jaguar'
+    published: '2016-12-28T18:16:06+00:00'
+    id: 'urn:uuid:69479c7c-6f09-5fd2-b9d2-f6890c082d21'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_serializer
+    package_version: v0.1.8
+    title: 'v0.1.8 of jaguar_serializer'
+    published: '2016-12-28T18:15:43+00:00'
+    id: 'urn:uuid:3304cc59-0975-5abe-94bc-1ddc0f0c1da9'
+    link: 'https://pub.dartlang.org/packages/jaguar_serializer'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
