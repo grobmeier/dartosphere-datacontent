@@ -80466,3 +80466,21 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: phaser
+    package_version: v2.6.2-beta
+    title: 'v2.6.2-beta of phaser'
+    published: '2016-12-27T23:58:19+00:00'
+    id: 'urn:uuid:00ed196d-8903-5d4c-a32b-d356d7c5d240'
+    link: 'https://pub.dartlang.org/packages/phaser'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: polymerize
+    package_version: v0.4.0
+    title: 'v0.4.0 of polymerize'
+    published: '2016-12-27T23:04:15+00:00'
+    id: 'urn:uuid:0f0f7c13-c6f6-5472-be46-3c4ba94be508'
+    link: 'https://pub.dartlang.org/packages/polymerize'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
