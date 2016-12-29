@@ -80697,3 +80697,33 @@
     link: 'https://pub.dartlang.org/packages/w_common'
     author:
         - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+-
+    package_name: jaguar_cli
+    package_version: v0.0.13
+    title: 'v0.0.13 of jaguar_cli'
+    published: '2016-12-29T17:30:59+00:00'
+    id: 'urn:uuid:1c8a9821-b6cd-5ac5-b203-aa23b2500cbb'
+    link: 'https://pub.dartlang.org/packages/jaguar_cli'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_generator
+    package_version: v0.1.15
+    title: 'v0.1.15 of jaguar_generator'
+    published: '2016-12-29T17:27:38+00:00'
+    id: 'urn:uuid:733e9d73-e0b5-5b1c-a92d-ed62f7ee19fe'
+    link: 'https://pub.dartlang.org/packages/jaguar_generator'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar
+    package_version: v0.1.9
+    title: 'v0.1.9 of jaguar'
+    published: '2016-12-29T17:20:22+00:00'
+    id: 'urn:uuid:b733f6d5-f17b-5d0d-969d-9fc1fd355a94'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
