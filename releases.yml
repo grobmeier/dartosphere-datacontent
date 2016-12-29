@@ -80669,3 +80669,12 @@
     link: 'https://pub.dartlang.org/packages/executor'
     author:
         - 'Istvan Soos <istvan.soos@agilord.com>'
+-
+    package_name: angular_recaptcha
+    package_version: v0.0.1
+    title: 'v0.0.1 of angular_recaptcha'
+    published: '2016-12-29T11:45:18+00:00'
+    id: 'urn:uuid:8a9e92ec-cc9e-5d0c-bb2d-648bad778208'
+    link: 'https://pub.dartlang.org/packages/angular_recaptcha'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
