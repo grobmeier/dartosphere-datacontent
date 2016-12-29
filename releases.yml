@@ -80678,3 +80678,22 @@
     link: 'https://pub.dartlang.org/packages/angular_recaptcha'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: jaguar
+    package_version: v0.1.8
+    title: 'v0.1.8 of jaguar'
+    published: '2016-12-29T15:52:19+00:00'
+    id: 'urn:uuid:84e766e8-c273-5b72-89e8-687a5d6fe607'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: w_common
+    package_version: v1.2.0
+    title: 'v1.2.0 of w_common'
+    published: '2016-12-29T15:18:57+00:00'
+    id: 'urn:uuid:64fd9c2c-cf01-5025-878a-35350f5d83f8'
+    link: 'https://pub.dartlang.org/packages/w_common'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
