@@ -80651,3 +80651,12 @@
     link: 'https://pub.dartlang.org/packages/polymerize'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: free_mobile
+    package_version: v0.1.0
+    title: 'v0.1.0 of free_mobile'
+    published: '2016-12-29T01:54:49+00:00'
+    id: 'urn:uuid:7050dbc9-2b1c-54da-a70c-fd6ccc271cbb'
+    link: 'https://pub.dartlang.org/packages/free_mobile'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
