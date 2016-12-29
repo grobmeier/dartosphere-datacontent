@@ -80660,3 +80660,12 @@
     link: 'https://pub.dartlang.org/packages/free_mobile'
     author:
         - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: executor
+    package_version: v0.0.3
+    title: 'v0.0.3 of executor'
+    published: '2016-12-29T10:54:54+00:00'
+    id: 'urn:uuid:3c878d9c-653f-5ea4-a5d3-a203c0fad716'
+    link: 'https://pub.dartlang.org/packages/executor'
+    author:
+        - 'Istvan Soos <istvan.soos@agilord.com>'
