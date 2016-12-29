@@ -80633,3 +80633,21 @@
     link: 'https://pub.dartlang.org/packages/redstone_web_socket'
     author:
         - 'Luiz Mineo <luiz.mineo@gmail.com>'
+-
+    package_name: executor
+    package_version: v0.0.2
+    title: 'v0.0.2 of executor'
+    published: '2016-12-28T23:24:06+00:00'
+    id: 'urn:uuid:e24de7c9-1693-5eff-a9fe-de8b344af92c'
+    link: 'https://pub.dartlang.org/packages/executor'
+    author:
+        - 'Istvan Soos <istvan.soos@agilord.com>'
+-
+    package_name: polymerize
+    package_version: v0.4.0+3
+    title: 'v0.4.0+3 of polymerize'
+    published: '2016-12-28T23:13:06+00:00'
+    id: 'urn:uuid:86c2212f-c97f-5be3-a33a-4b593e6cfeb8'
+    link: 'https://pub.dartlang.org/packages/polymerize'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
