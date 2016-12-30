@@ -80736,3 +80736,12 @@
     link: 'https://pub.dartlang.org/packages/dna'
     author:
         - 'root ext <root.ext@gmail.com>'
+-
+    package_name: htmlwhitelist
+    package_version: v0.3.0
+    title: 'v0.3.0 of htmlwhitelist'
+    published: '2016-12-29T23:54:55+00:00'
+    id: 'urn:uuid:ee41ea86-606f-5a3c-86cd-8fea26f43d38'
+    link: 'https://pub.dartlang.org/packages/htmlwhitelist'
+    author:
+        - 'Roel Spilker <r.spilker@gmail.com>'
