@@ -80790,3 +80790,30 @@
     link: 'https://pub.dartlang.org/packages/dna'
     author:
         - 'root ext <root.ext@gmail.com>'
+-
+    package_name: polymer_element
+    package_version: v0.3.0
+    title: 'v0.3.0 of polymer_element'
+    published: '2016-12-31T14:23:42+00:00'
+    id: 'urn:uuid:a0bcb595-4d85-5a47-9c4f-09022cf24e9a'
+    link: 'https://pub.dartlang.org/packages/polymer_element'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: polymerize
+    package_version: v0.4.1
+    title: 'v0.4.1 of polymerize'
+    published: '2016-12-31T14:21:15+00:00'
+    id: 'urn:uuid:0e4e6c7b-4b17-59a7-ae2d-76b9788430e0'
+    link: 'https://pub.dartlang.org/packages/polymerize'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: selectize
+    package_version: v0.1.5
+    title: 'v0.1.5 of selectize'
+    published: '2016-12-31T14:13:46+00:00'
+    id: 'urn:uuid:f9191f8e-0441-586e-a268-6fad014f2473'
+    link: 'https://pub.dartlang.org/packages/selectize'
+    author:
+        - 'CJKAO <kaopeter@gmail.com>'
