@@ -80817,3 +80817,12 @@
     link: 'https://pub.dartlang.org/packages/selectize'
     author:
         - 'CJKAO <kaopeter@gmail.com>'
+-
+    package_name: angel_cli
+    package_version: v1.0.0-dev+16
+    title: 'v1.0.0-dev+16 of angel_cli'
+    published: '2016-12-31T16:50:46+00:00'
+    id: 'urn:uuid:bf518f39-1e23-5bfe-953c-68f0b000b844'
+    link: 'https://pub.dartlang.org/packages/angel_cli'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
