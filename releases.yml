@@ -80745,3 +80745,12 @@
     link: 'https://pub.dartlang.org/packages/htmlwhitelist'
     author:
         - 'Roel Spilker <r.spilker@gmail.com>'
+-
+    package_name: safe_config
+    package_version: v1.1.2
+    title: 'v1.1.2 of safe_config'
+    published: '2016-12-30T23:37:00+00:00'
+    id: 'urn:uuid:a891122d-d596-5c2c-a524-012faf3e8263'
+    link: 'https://pub.dartlang.org/packages/safe_config'
+    author:
+        - 'Joe Conway <joe.conway@stablekernel.com>'
