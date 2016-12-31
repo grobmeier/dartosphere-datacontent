@@ -80781,3 +80781,12 @@
     link: 'https://pub.dartlang.org/packages/svgpath'
     author:
         - SlickTech
+-
+    package_name: dna
+    package_version: v0.4.0
+    title: 'v0.4.0 of dna'
+    published: '2016-12-31T12:01:58+00:00'
+    id: 'urn:uuid:7960d9ea-7970-5572-93a4-cd742a1c3ac2'
+    link: 'https://pub.dartlang.org/packages/dna'
+    author:
+        - 'root ext <root.ext@gmail.com>'
