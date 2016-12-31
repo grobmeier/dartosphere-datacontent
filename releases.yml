@@ -80763,3 +80763,12 @@
     link: 'https://pub.dartlang.org/packages/safe_config'
     author:
         - 'Joe Conway <joe.conway@stablekernel.com>'
+-
+    package_name: simple_moment
+    package_version: v0.0.2
+    title: 'v0.0.2 of simple_moment'
+    published: '2016-12-31T02:52:23+00:00'
+    id: 'urn:uuid:d6b640ee-0018-5c5d-a73e-380abf8e46f3'
+    link: 'https://pub.dartlang.org/packages/simple_moment'
+    author:
+        - 'rinukkusu <rinukkusu@auen.land>'
