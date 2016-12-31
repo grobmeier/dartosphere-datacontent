@@ -80835,3 +80835,13 @@
     link: 'https://pub.dartlang.org/packages/angel_cli'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: seltzer
+    package_version: v0.4.0
+    title: 'v0.4.0 of seltzer'
+    published: '2016-12-31T19:31:25+00:00'
+    id: 'urn:uuid:55be826c-b8e5-5ed9-93ec-bf682ee459dc'
+    link: 'https://pub.dartlang.org/packages/seltzer'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
+        - 'Kendal Harland <kjharland@google.com>'
