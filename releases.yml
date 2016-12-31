@@ -80754,3 +80754,12 @@
     link: 'https://pub.dartlang.org/packages/safe_config'
     author:
         - 'Joe Conway <joe.conway@stablekernel.com>'
+-
+    package_name: safe_config
+    package_version: v1.1.3
+    title: 'v1.1.3 of safe_config'
+    published: '2016-12-31T00:21:26+00:00'
+    id: 'urn:uuid:56760ff5-9028-535c-a8c4-917f470e4920'
+    link: 'https://pub.dartlang.org/packages/safe_config'
+    author:
+        - 'Joe Conway <joe.conway@stablekernel.com>'
