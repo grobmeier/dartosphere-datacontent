@@ -80902,3 +80902,12 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: db_executor
+    package_version: v0.0.1
+    title: 'v0.0.1 of db_executor'
+    published: '2017-01-01T19:54:18+00:00'
+    id: 'urn:uuid:e3805b0c-4e64-543f-8744-58039241969a'
+    link: 'https://pub.dartlang.org/packages/db_executor'
+    author:
+        - 'Istvan Soos <istvan.soos@agilord.com>'
