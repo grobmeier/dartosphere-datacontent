@@ -80864,3 +80864,12 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: executor
+    package_version: v0.0.4
+    title: 'v0.0.4 of executor'
+    published: '2017-01-01T11:12:29+00:00'
+    id: 'urn:uuid:9ff4be6e-9169-505b-9cf7-cf4cffaca171'
+    link: 'https://pub.dartlang.org/packages/executor'
+    author:
+        - 'Istvan Soos <istvan.soos@agilord.com>'
