@@ -80845,3 +80845,22 @@
     author:
         - 'Matan Lurey <matanl@google.com>'
         - 'Kendal Harland <kjharland@google.com>'
+-
+    package_name: akismet
+    package_version: v1.0.0
+    title: 'v1.0.0 of akismet'
+    published: '2017-01-01T00:53:14+00:00'
+    id: 'urn:uuid:98d19e85-76e6-5257-9bc4-f1d0112a80ad'
+    link: 'https://pub.dartlang.org/packages/akismet'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: jaguar_cli
+    package_version: v0.0.14
+    title: 'v0.0.14 of jaguar_cli'
+    published: '2017-01-01T00:06:03+00:00'
+    id: 'urn:uuid:2b356df8-c552-51e3-b27a-375c97f8fa8e'
+    link: 'https://pub.dartlang.org/packages/jaguar_cli'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
