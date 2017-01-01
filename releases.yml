@@ -80873,3 +80873,22 @@
     link: 'https://pub.dartlang.org/packages/executor'
     author:
         - 'Istvan Soos <istvan.soos@agilord.com>'
+-
+    package_name: jaguar_cli
+    package_version: v0.0.15
+    title: 'v0.0.15 of jaguar_cli'
+    published: '2017-01-01T13:55:18+00:00'
+    id: 'urn:uuid:1bbaf0aa-6950-5377-867c-f07048e2df44'
+    link: 'https://pub.dartlang.org/packages/jaguar_cli'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: selectize
+    package_version: v0.1.6
+    title: 'v0.1.6 of selectize'
+    published: '2017-01-01T13:35:54+00:00'
+    id: 'urn:uuid:05a49d19-e075-53ed-bbed-c7f837535ceb'
+    link: 'https://pub.dartlang.org/packages/selectize'
+    author:
+        - 'CJKAO <kaopeter@gmail.com>'
