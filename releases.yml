@@ -80892,3 +80892,13 @@
     link: 'https://pub.dartlang.org/packages/selectize'
     author:
         - 'CJKAO <kaopeter@gmail.com>'
+-
+    package_name: jaguar_cli
+    package_version: v0.0.16
+    title: 'v0.0.16 of jaguar_cli'
+    published: '2017-01-01T15:19:51+00:00'
+    id: 'urn:uuid:56f29dee-3477-5a64-ab83-6d759a587b00'
+    link: 'https://pub.dartlang.org/packages/jaguar_cli'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
