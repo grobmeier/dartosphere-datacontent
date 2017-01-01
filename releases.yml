@@ -80911,3 +80911,22 @@
     link: 'https://pub.dartlang.org/packages/db_executor'
     author:
         - 'Istvan Soos <istvan.soos@agilord.com>'
+-
+    package_name: tavern
+    package_version: v2.0.0
+    title: 'v2.0.0 of tavern'
+    published: '2017-01-01T20:56:06+00:00'
+    id: 'urn:uuid:191ad1c2-45ae-583d-b9df-7b7ad1cd272f'
+    link: 'https://pub.dartlang.org/packages/tavern'
+    author:
+        - 'John Ryan <john.p.ryan4@gmail.com>'
+-
+    package_name: jaguar_query
+    package_version: v0.0.2
+    title: 'v0.0.2 of jaguar_query'
+    published: '2017-01-01T20:09:20+00:00'
+    id: 'urn:uuid:3afb6cee-0ffc-5887-8696-a3f43f485c22'
+    link: 'https://pub.dartlang.org/packages/jaguar_query'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
