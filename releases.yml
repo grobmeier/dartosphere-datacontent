@@ -80930,3 +80930,12 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: annotationscanner
+    package_version: v0.0.1
+    title: 'v0.0.1 of annotationscanner'
+    published: '2017-01-02T13:49:48+00:00'
+    id: 'urn:uuid:28b191fd-7c04-5286-a9c4-676be9983376'
+    link: 'https://pub.dartlang.org/packages/annotationscanner'
+    author:
+        - 'Gerald Leeb <gerald@g-24.net>'
