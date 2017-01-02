@@ -80939,3 +80939,12 @@
     link: 'https://pub.dartlang.org/packages/annotationscanner'
     author:
         - 'Gerald Leeb <gerald@g-24.net>'
+-
+    package_name: eqlib
+    package_version: v0.2.0
+    title: 'v0.2.0 of eqlib'
+    published: '2017-01-02T21:59:02+00:00'
+    id: 'urn:uuid:a6787762-bebd-5a26-a298-835294b9c917'
+    link: 'https://pub.dartlang.org/packages/eqlib'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
