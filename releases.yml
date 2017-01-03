@@ -81048,3 +81048,12 @@
     link: 'https://pub.dartlang.org/packages/dartz'
     author:
         - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: func
+    package_version: v0.1.1
+    title: 'v0.1.1 of func'
+    published: '2017-01-03T19:29:10+00:00'
+    id: 'urn:uuid:76428342-73d1-51b2-b971-e9753b3ce807'
+    link: 'https://pub.dartlang.org/packages/func'
+    author:
+        - 'Dart Dev Compiler team <dev-compiler@dartlang.org>'
