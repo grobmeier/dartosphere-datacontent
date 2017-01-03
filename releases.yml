@@ -81011,3 +81011,13 @@
     link: 'https://pub.dartlang.org/packages/rxdart'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: avl_tree
+    package_version: v0.2.1
+    title: 'v0.2.1 of avl_tree'
+    published: '2017-01-03T13:56:25+00:00'
+    id: 'urn:uuid:5b823da3-fac4-5d53-9581-71f55d1102d3'
+    link: 'https://pub.dartlang.org/packages/avl_tree'
+    author:
+        - 'Karl Guggisberg <karl.guggisberg@guggis.ch>'
+        - 'stewbasic <https://github.com/stewbasic>'
