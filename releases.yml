@@ -80966,3 +80966,30 @@
     link: 'https://pub.dartlang.org/packages/just_google_jwt_decoder'
     author:
         - 'Tomas Szabo <tomas.szabo@deftomat.com>'
+-
+    package_name: rxdart
+    package_version: v0.6.0
+    title: 'v0.6.0 of rxdart'
+    published: '2017-01-03T08:57:59+00:00'
+    id: 'urn:uuid:e931c4bc-f0a6-59b1-9212-aca0396faa56'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: eqlib
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of eqlib'
+    published: '2017-01-03T08:22:06+00:00'
+    id: 'urn:uuid:f1661c8c-0e63-5656-9f72-e830c286a89b'
+    link: 'https://pub.dartlang.org/packages/eqlib'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: just_google_jwt_decoder
+    package_version: v0.1.3
+    title: 'v0.1.3 of just_google_jwt_decoder'
+    published: '2017-01-03T08:09:03+00:00'
+    id: 'urn:uuid:ad35e8f8-4ec9-5986-8bbe-d45227564dff'
+    link: 'https://pub.dartlang.org/packages/just_google_jwt_decoder'
+    author:
+        - 'Tomas Szabo <tomas.szabo@deftomat.com>'
