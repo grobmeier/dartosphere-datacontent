@@ -81030,3 +81030,12 @@
     link: 'https://pub.dartlang.org/packages/selectize'
     author:
         - 'CJKAO <kaopeter@gmail.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1159
+    title: 'v0.0.1159 of fo_components'
+    published: '2017-01-03T16:15:58+00:00'
+    id: 'urn:uuid:2527a075-c043-57ea-a889-f9273d89f119'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
