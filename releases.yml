@@ -81002,3 +81002,12 @@
     link: 'https://pub.dartlang.org/packages/rxdart'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: rxdart
+    package_version: v0.6.1+1
+    title: 'v0.6.1+1 of rxdart'
+    published: '2017-01-03T12:43:40+00:00'
+    id: 'urn:uuid:15351173-e6ff-5092-89f2-e45ca9c9dead'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
