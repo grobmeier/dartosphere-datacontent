@@ -80957,3 +80957,12 @@
     link: 'https://pub.dartlang.org/packages/pubspec_dart'
     author:
         - 'Matan Lurey <matan@lurey.org>'
+-
+    package_name: just_google_jwt_decoder
+    package_version: v0.1.2
+    title: 'v0.1.2 of just_google_jwt_decoder'
+    published: '2017-01-03T07:36:38+00:00'
+    id: 'urn:uuid:c87f3eb4-dd83-5dcf-af0e-9d4073f0d840'
+    link: 'https://pub.dartlang.org/packages/just_google_jwt_decoder'
+    author:
+        - 'Tomas Szabo <tomas.szabo@deftomat.com>'
