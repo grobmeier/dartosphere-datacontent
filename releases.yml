@@ -81021,3 +81021,12 @@
     author:
         - 'Karl Guggisberg <karl.guggisberg@guggis.ch>'
         - 'stewbasic <https://github.com/stewbasic>'
+-
+    package_name: selectize
+    package_version: v0.1.6+1
+    title: 'v0.1.6+1 of selectize'
+    published: '2017-01-03T14:11:19+00:00'
+    id: 'urn:uuid:33e51946-91dd-5cdf-80d2-aa504686679e'
+    link: 'https://pub.dartlang.org/packages/selectize'
+    author:
+        - 'CJKAO <kaopeter@gmail.com>'
