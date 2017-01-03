@@ -80948,3 +80948,12 @@
     link: 'https://pub.dartlang.org/packages/eqlib'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: pubspec_dart
+    package_version: v0.1.0
+    title: 'v0.1.0 of pubspec_dart'
+    published: '2017-01-03T04:17:58+00:00'
+    id: 'urn:uuid:91984f5f-6b26-5375-aa65-77c3d6ff90a6'
+    link: 'https://pub.dartlang.org/packages/pubspec_dart'
+    author:
+        - 'Matan Lurey <matan@lurey.org>'
