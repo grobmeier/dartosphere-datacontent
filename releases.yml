@@ -81148,3 +81148,21 @@
     link: 'https://pub.dartlang.org/packages/htmlwhitelist'
     author:
         - 'Roel Spilker <r.spilker@gmail.com>'
+-
+    package_name: slot_machine
+    package_version: v2.0.0
+    title: 'v2.0.0 of slot_machine'
+    published: '2017-01-04T22:33:44+00:00'
+    id: 'urn:uuid:8fd1324b-e9ee-5d1c-ac8f-edf9f2219d45'
+    link: 'https://pub.dartlang.org/packages/slot_machine'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: vm_service_client
+    package_version: v0.2.3
+    title: 'v0.2.3 of vm_service_client'
+    published: '2017-01-04T22:28:16+00:00'
+    id: 'urn:uuid:3921cc6d-cc73-57fe-b89a-338f2191946e'
+    link: 'https://pub.dartlang.org/packages/vm_service_client'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
