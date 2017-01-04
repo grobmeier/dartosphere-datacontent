@@ -81111,3 +81111,12 @@
     link: 'https://pub.dartlang.org/packages/angular_recaptcha'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: rxdart
+    package_version: v0.6.1+2
+    title: 'v0.6.1+2 of rxdart'
+    published: '2017-01-04T13:27:23+00:00'
+    id: 'urn:uuid:d7e2ef11-c5cb-5460-bbdb-a59ba799cb19'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
