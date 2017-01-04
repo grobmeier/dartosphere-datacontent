@@ -81139,3 +81139,12 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: htmlwhitelist
+    package_version: v0.4.1
+    title: 'v0.4.1 of htmlwhitelist'
+    published: '2017-01-04T21:12:54+00:00'
+    id: 'urn:uuid:6080a26e-799a-53e6-9702-9593936f2c97'
+    link: 'https://pub.dartlang.org/packages/htmlwhitelist'
+    author:
+        - 'Roel Spilker <r.spilker@gmail.com>'
