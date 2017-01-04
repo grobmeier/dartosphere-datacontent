@@ -81120,3 +81120,12 @@
     link: 'https://pub.dartlang.org/packages/rxdart'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: coverage
+    package_version: v0.8.1
+    title: 'v0.8.1 of coverage'
+    published: '2017-01-04T18:55:53+00:00'
+    id: 'urn:uuid:b2ae34e8-ad72-5f2d-bf57-a7422f4ad86b'
+    link: 'https://pub.dartlang.org/packages/coverage'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
