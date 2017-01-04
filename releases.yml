@@ -81093,3 +81093,12 @@
     link: 'https://pub.dartlang.org/packages/tavern'
     author:
         - 'John Ryan <john.p.ryan4@gmail.com>'
+-
+    package_name: elements
+    package_version: v0.9.91
+    title: 'v0.9.91 of elements'
+    published: '2017-01-04T08:25:21+00:00'
+    id: 'urn:uuid:22b81976-e5d3-5678-8d39-51d40af00f83'
+    link: 'https://pub.dartlang.org/packages/elements'
+    author:
+        - 'Patrick Minogue <patrick.minogue@appfoundry.se>'
