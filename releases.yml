@@ -81057,3 +81057,30 @@
     link: 'https://pub.dartlang.org/packages/func'
     author:
         - 'Dart Dev Compiler team <dev-compiler@dartlang.org>'
+-
+    package_name: htmlwhitelist
+    package_version: v0.4.0
+    title: 'v0.4.0 of htmlwhitelist'
+    published: '2017-01-04T00:29:23+00:00'
+    id: 'urn:uuid:8daff831-1d70-59c2-b178-ce0901209b6f'
+    link: 'https://pub.dartlang.org/packages/htmlwhitelist'
+    author:
+        - 'Roel Spilker <r.spilker@gmail.com>'
+-
+    package_name: malison
+    package_version: v0.5.1+1
+    title: 'v0.5.1+1 of malison'
+    published: '2017-01-04T00:20:58+00:00'
+    id: 'urn:uuid:cb462505-8794-51a3-af58-327dcf7f2cf2'
+    link: 'https://pub.dartlang.org/packages/malison'
+    author:
+        - 'Bob Nystrom <robert@stuffwithstuff.com>'
+-
+    package_name: piecemeal
+    package_version: v0.3.0
+    title: 'v0.3.0 of piecemeal'
+    published: '2017-01-04T00:06:26+00:00'
+    id: 'urn:uuid:dd4262f7-935a-5665-9970-d97f89c99e6a'
+    link: 'https://pub.dartlang.org/packages/piecemeal'
+    author:
+        - 'Bob Nystrom <robert@stuffwithstuff.com>'
