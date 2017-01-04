@@ -81129,3 +81129,13 @@
     link: 'https://pub.dartlang.org/packages/coverage'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: jaguar
+    package_version: v0.1.10
+    title: 'v0.1.10 of jaguar'
+    published: '2017-01-04T19:24:24+00:00'
+    id: 'urn:uuid:51a9c538-a8ea-56f3-826a-d773d96988e8'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
