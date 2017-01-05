@@ -81184,3 +81184,12 @@
     link: 'https://pub.dartlang.org/packages/firebase_dart'
     author:
         - 'Rik Bellens <rik.bellens@appsup.be>'
+-
+    package_name: angular_recaptcha
+    package_version: v0.0.3
+    title: 'v0.0.3 of angular_recaptcha'
+    published: '2017-01-05T12:19:14+00:00'
+    id: 'urn:uuid:dd68094c-a964-598d-ac75-0f3aca87c611'
+    link: 'https://pub.dartlang.org/packages/angular_recaptcha'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
