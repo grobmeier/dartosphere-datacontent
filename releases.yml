@@ -81175,3 +81175,12 @@
     link: 'https://pub.dartlang.org/packages/polymerize'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: firebase_dart
+    package_version: v0.5.4
+    title: 'v0.5.4 of firebase_dart'
+    published: '2017-01-05T11:53:59+00:00'
+    id: 'urn:uuid:e7d985fd-c977-51ae-a5b4-47d66573b321'
+    link: 'https://pub.dartlang.org/packages/firebase_dart'
+    author:
+        - 'Rik Bellens <rik.bellens@appsup.be>'
