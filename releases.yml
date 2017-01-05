@@ -81239,3 +81239,12 @@
     link: 'https://pub.dartlang.org/packages/sql'
     author:
         - 'Matan Lurey <matan@lurey.org>'
+-
+    package_name: slot_machine
+    package_version: v2.0.1
+    title: 'v2.0.1 of slot_machine'
+    published: '2017-01-05T22:47:39+00:00'
+    id: 'urn:uuid:3e861f37-abf5-505b-840c-4233ded4cbae'
+    link: 'https://pub.dartlang.org/packages/slot_machine'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
