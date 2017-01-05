@@ -81221,3 +81221,12 @@
     author:
         - 'Stéphane Este-Gracias <sestegra@gmail.com>'
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: project_gen
+    package_version: v0.0.1
+    title: 'v0.0.1 of project_gen'
+    published: '2017-01-05T18:18:12+00:00'
+    id: 'urn:uuid:6a511652-b31a-5a4d-92cb-9c3def56a678'
+    link: 'https://pub.dartlang.org/packages/project_gen'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
