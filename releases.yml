@@ -81166,3 +81166,12 @@
     link: 'https://pub.dartlang.org/packages/vm_service_client'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: polymerize
+    package_version: v0.4.2
+    title: 'v0.4.2 of polymerize'
+    published: '2017-01-04T23:22:23+00:00'
+    id: 'urn:uuid:a8929278-c388-5edf-8d6e-867f754283c6'
+    link: 'https://pub.dartlang.org/packages/polymerize'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
