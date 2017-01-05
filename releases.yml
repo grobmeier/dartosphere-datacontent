@@ -81230,3 +81230,12 @@
     link: 'https://pub.dartlang.org/packages/project_gen'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: sql
+    package_version: v0.1.0-dev
+    title: 'v0.1.0-dev of sql'
+    published: '2017-01-05T20:27:28+00:00'
+    id: 'urn:uuid:f7061ce4-efaf-5354-98de-0c3b4fc32d81'
+    link: 'https://pub.dartlang.org/packages/sql'
+    author:
+        - 'Matan Lurey <matan@lurey.org>'
