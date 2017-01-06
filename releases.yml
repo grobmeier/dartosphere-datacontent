@@ -81248,3 +81248,14 @@
     link: 'https://pub.dartlang.org/packages/slot_machine'
     author:
         - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: file
+    package_version: v1.0.0
+    title: 'v1.0.0 of file'
+    published: '2017-01-06T00:13:48+00:00'
+    id: 'urn:uuid:8e5b2c74-6f62-555c-88e9-54f141f70cbf'
+    link: 'https://pub.dartlang.org/packages/file'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Todd Volkert <tvolkert@google.com>'
