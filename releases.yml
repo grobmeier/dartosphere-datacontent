@@ -81313,3 +81313,12 @@
     link: 'https://pub.dartlang.org/packages/eqlib'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: polymerize
+    package_version: v0.4.3
+    title: 'v0.4.3 of polymerize'
+    published: '2017-01-06T22:50:28+00:00'
+    id: 'urn:uuid:7386587f-66ed-5068-ab49-eabab932db0c'
+    link: 'https://pub.dartlang.org/packages/polymerize'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
