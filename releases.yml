@@ -81295,3 +81295,21 @@
     link: 'https://pub.dartlang.org/packages/slot_machine'
     author:
         - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: pikaday_datepicker
+    package_version: v0.8.6
+    title: 'v0.8.6 of pikaday_datepicker'
+    published: '2017-01-06T14:58:43+00:00'
+    id: 'urn:uuid:de13e18d-d398-5b57-9a64-61b651c8372c'
+    link: 'https://pub.dartlang.org/packages/pikaday_datepicker'
+    author:
+        - 'Stephan Schroeder <simon.void+github@gmail.com>'
+-
+    package_name: eqlib
+    package_version: v0.2.1
+    title: 'v0.2.1 of eqlib'
+    published: '2017-01-06T14:56:46+00:00'
+    id: 'urn:uuid:b51abc76-6172-5514-a778-73fdc6532376'
+    link: 'https://pub.dartlang.org/packages/eqlib'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
