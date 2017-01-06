@@ -81286,3 +81286,12 @@
     link: 'https://pub.dartlang.org/packages/geometric'
     author:
         - 'Matan Lurey <matan@lurey.org>'
+-
+    package_name: slot_machine
+    package_version: v2.1.0
+    title: 'v2.1.0 of slot_machine'
+    published: '2017-01-06T08:07:41+00:00'
+    id: 'urn:uuid:86c753b6-579d-5df0-bd62-c09b89b125e4'
+    link: 'https://pub.dartlang.org/packages/slot_machine'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
