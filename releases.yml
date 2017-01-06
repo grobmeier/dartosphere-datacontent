@@ -81259,3 +81259,12 @@
         - 'Matan Lurey <matanl@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Todd Volkert <tvolkert@google.com>'
+-
+    package_name: term_glyph
+    package_version: v1.0.0
+    title: 'v1.0.0 of term_glyph'
+    published: '2017-01-06T01:48:24+00:00'
+    id: 'urn:uuid:38e8ed33-4fda-59fa-ab82-e74efb14bc2e'
+    link: 'https://pub.dartlang.org/packages/term_glyph'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
