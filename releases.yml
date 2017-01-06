@@ -81268,3 +81268,12 @@
     link: 'https://pub.dartlang.org/packages/term_glyph'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: svgpath
+    package_version: v0.1.0
+    title: 'v0.1.0 of svgpath'
+    published: '2017-01-06T04:33:01+00:00'
+    id: 'urn:uuid:8e321d95-ee53-5e5f-b45f-012bd45908a4'
+    link: 'https://pub.dartlang.org/packages/svgpath'
+    author:
+        - SlickTech
