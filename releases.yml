@@ -81333,3 +81333,12 @@
         - 'Matan Lurey <matanl@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Todd Volkert <tvolkert@google.com>'
+-
+    package_name: source_span
+    package_version: v1.3.1
+    title: 'v1.3.1 of source_span'
+    published: '2017-01-07T01:47:03+00:00'
+    id: 'urn:uuid:653a40c2-906e-5722-914f-327822606415'
+    link: 'https://pub.dartlang.org/packages/source_span'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
