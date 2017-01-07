@@ -81342,3 +81342,12 @@
     link: 'https://pub.dartlang.org/packages/source_span'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: recase
+    package_version: v1.0.0
+    title: 'v1.0.0 of recase'
+    published: '2017-01-07T06:04:13+00:00'
+    id: 'urn:uuid:87ccfe05-c4ba-556d-8b51-97285f26d3dc'
+    link: 'https://pub.dartlang.org/packages/recase'
+    author:
+        - 'Keith Elliott <keith.b.elliott@gmail.com>'
