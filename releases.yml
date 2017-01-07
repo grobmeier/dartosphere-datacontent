@@ -81360,3 +81360,12 @@
     link: 'https://pub.dartlang.org/packages/dartz'
     author:
         - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: simple_sass_transformer
+    package_version: v0.0.1+1
+    title: 'v0.0.1+1 of simple_sass_transformer'
+    published: '2017-01-07T19:48:12+00:00'
+    id: 'urn:uuid:57ccb919-1d01-57bd-ba46-bfbab56f1be6'
+    link: 'https://pub.dartlang.org/packages/simple_sass_transformer'
+    author:
+        - 'Jirayu Luewetwanit'
