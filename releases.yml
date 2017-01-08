@@ -81378,3 +81378,12 @@
     link: 'https://pub.dartlang.org/packages/malison'
     author:
         - 'Bob Nystrom <robert@stuffwithstuff.com>'
+-
+    package_name: slot_machine
+    package_version: v2.1.2
+    title: 'v2.1.2 of slot_machine'
+    published: '2017-01-08T05:37:45+00:00'
+    id: 'urn:uuid:9687ff86-5ce4-584b-89a4-e6d8daaed6fd'
+    link: 'https://pub.dartlang.org/packages/slot_machine'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
