@@ -81369,3 +81369,12 @@
     link: 'https://pub.dartlang.org/packages/simple_sass_transformer'
     author:
         - 'Jirayu Luewetwanit'
+-
+    package_name: malison
+    package_version: v0.6.0
+    title: 'v0.6.0 of malison'
+    published: '2017-01-08T00:50:41+00:00'
+    id: 'urn:uuid:36f1ba54-f4ed-55aa-b880-800e23d7f669'
+    link: 'https://pub.dartlang.org/packages/malison'
+    author:
+        - 'Bob Nystrom <robert@stuffwithstuff.com>'
