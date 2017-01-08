@@ -81396,3 +81396,12 @@
     link: 'https://pub.dartlang.org/packages/eqlib'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: rxdart
+    package_version: v0.6.2
+    title: 'v0.6.2 of rxdart'
+    published: '2017-01-08T17:15:08+00:00'
+    id: 'urn:uuid:934295f9-ab91-5d7e-834c-cf3b64fd0ebc'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
