@@ -81437,3 +81437,12 @@
     link: 'https://pub.dartlang.org/packages/react'
     author:
         - 'Clean Team <clean@vacuumlabs.com>'
+-
+    package_name: source_gen
+    package_version: v0.5.3
+    title: 'v0.5.3 of source_gen'
+    published: '2017-01-09T22:10:19+00:00'
+    id: 'urn:uuid:34c69a26-48c7-5242-a475-6a99d836c743'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
