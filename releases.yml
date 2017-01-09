@@ -81428,3 +81428,12 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: react
+    package_version: v3.1.1
+    title: 'v3.1.1 of react'
+    published: '2017-01-09T16:17:29+00:00'
+    id: 'urn:uuid:d004fdff-208a-5ba8-9808-7658561b3e04'
+    link: 'https://pub.dartlang.org/packages/react'
+    author:
+        - 'Clean Team <clean@vacuumlabs.com>'
