@@ -81446,3 +81446,12 @@
     link: 'https://pub.dartlang.org/packages/source_gen'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: rad_textures
+    package_version: v1.0.20
+    title: 'v1.0.20 of rad_textures'
+    published: '2017-01-10T00:25:01+00:00'
+    id: 'urn:uuid:c485524a-f611-5193-af1a-cea8bfbdff73'
+    link: 'https://pub.dartlang.org/packages/rad_textures'
+    author:
+        - 'John Davis <unicomp21@gmail.com>'
