@@ -81482,3 +81482,13 @@
     link: 'https://pub.dartlang.org/packages/analyzer'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: jaguar
+    package_version: v0.1.12
+    title: 'v0.1.12 of jaguar'
+    published: '2017-01-10T18:14:43+00:00'
+    id: 'urn:uuid:d820c58b-1c26-56bd-8ab7-8eddd97dad3e'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
