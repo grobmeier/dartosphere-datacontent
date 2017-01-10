@@ -81473,3 +81473,12 @@
     link: 'https://pub.dartlang.org/packages/angular_ast'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: analyzer
+    package_version: v0.29.3
+    title: 'v0.29.3 of analyzer'
+    published: '2017-01-10T15:38:13+00:00'
+    id: 'urn:uuid:3210b673-1667-5a2d-b15e-9b534ea80ed8'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
