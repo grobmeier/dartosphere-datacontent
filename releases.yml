@@ -81510,3 +81510,21 @@
     link: 'https://pub.dartlang.org/packages/source_gen'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: code_transformers
+    package_version: v0.5.0+2
+    title: 'v0.5.0+2 of code_transformers'
+    published: '2017-01-10T21:41:38+00:00'
+    id: 'urn:uuid:1d9be497-3753-50d4-acee-0d235e039d23'
+    link: 'https://pub.dartlang.org/packages/code_transformers'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: pikaday
+    package_version: v1.0.0
+    title: 'v1.0.0 of pikaday'
+    published: '2017-01-10T21:35:07+00:00'
+    id: 'urn:uuid:84c378c2-2ed9-58aa-8177-f7d6635acc5d'
+    link: 'https://pub.dartlang.org/packages/pikaday'
+    author:
+        - 'John Ryan <john.p.ryan4@gmail.com>'
