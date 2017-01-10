@@ -81464,3 +81464,12 @@
     link: 'https://pub.dartlang.org/packages/slot_machine'
     author:
         - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: angular_ast
+    package_version: v0.2.0
+    title: 'v0.2.0 of angular_ast'
+    published: '2017-01-10T08:03:36+00:00'
+    id: 'urn:uuid:6fdbf70c-a3ad-55a1-9747-994489a346a6'
+    link: 'https://pub.dartlang.org/packages/angular_ast'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
