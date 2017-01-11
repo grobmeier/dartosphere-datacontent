@@ -81595,3 +81595,12 @@
     link: 'https://pub.dartlang.org/packages/source_gen'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dart_style
+    package_version: v0.2.14
+    title: 'v0.2.14 of dart_style'
+    published: '2017-01-11T18:16:51+00:00'
+    id: 'urn:uuid:5f3ff1e2-98e2-523f-bc5a-a7b91657cb7a'
+    link: 'https://pub.dartlang.org/packages/dart_style'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
