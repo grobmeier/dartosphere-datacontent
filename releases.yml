@@ -81586,3 +81586,12 @@
     link: 'https://pub.dartlang.org/packages/dartx'
     author:
         - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: source_gen
+    package_version: v0.5.3+2
+    title: 'v0.5.3+2 of source_gen'
+    published: '2017-01-11T17:49:28+00:00'
+    id: 'urn:uuid:00472403-9f0d-530e-a963-e0d572c1c488'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
