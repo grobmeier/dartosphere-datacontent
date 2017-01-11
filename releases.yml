@@ -81537,3 +81537,13 @@
     link: 'https://pub.dartlang.org/packages/hypertext'
     author:
         - 'thosakwe <thosakwe@gmail.com>'
+-
+    package_name: ng2gen
+    package_version: v0.2.1+1
+    title: 'v0.2.1+1 of ng2gen'
+    published: '2017-01-11T05:04:14+00:00'
+    id: 'urn:uuid:240448c5-1269-5b15-8d16-56ad56ed5edc'
+    link: 'https://pub.dartlang.org/packages/ng2gen'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
