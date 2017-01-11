@@ -81577,3 +81577,12 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: dartx
+    package_version: v0.0.8
+    title: 'v0.0.8 of dartx'
+    published: '2017-01-11T16:33:48+00:00'
+    id: 'urn:uuid:74b33d0d-e704-5d5b-bb42-993dda5d7ca9'
+    link: 'https://pub.dartlang.org/packages/dartx'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
