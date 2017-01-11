@@ -81613,3 +81613,30 @@
     link: 'https://pub.dartlang.org/packages/platform_detect'
     author:
         - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+-
+    package_name: webdriver
+    package_version: v1.2.2
+    title: 'v1.2.2 of webdriver'
+    published: '2017-01-11T22:54:44+00:00'
+    id: 'urn:uuid:a9292b8b-0233-5229-a84e-ce6eabfa732b'
+    link: 'https://pub.dartlang.org/packages/webdriver'
+    author:
+        - 'Marc Fisher II <fisherii@google.com>'
+-
+    package_name: flutter_stream_friends
+    package_version: v0.3.0
+    title: 'v0.3.0 of flutter_stream_friends'
+    published: '2017-01-11T22:49:26+00:00'
+    id: 'urn:uuid:921d5305-ff0a-5762-a6ae-01759d2b14e8'
+    link: 'https://pub.dartlang.org/packages/flutter_stream_friends'
+    author:
+        - 'brian.egan <brian@brianegan.com>'
+-
+    package_name: redux_epics
+    package_version: v0.5.0
+    title: 'v0.5.0 of redux_epics'
+    published: '2017-01-11T22:48:21+00:00'
+    id: 'urn:uuid:64ca3b20-34fe-5b4f-a595-944880f448af'
+    link: 'https://pub.dartlang.org/packages/redux_epics'
+    author:
+        - 'Brian Egan <brian@brianegan.com>'
