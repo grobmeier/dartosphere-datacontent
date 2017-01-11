@@ -81604,3 +81604,12 @@
     link: 'https://pub.dartlang.org/packages/dart_style'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: platform_detect
+    package_version: v1.1.1
+    title: 'v1.1.1 of platform_detect'
+    published: '2017-01-11T21:32:46+00:00'
+    id: 'urn:uuid:f6912358-6785-5f38-8693-b6b9320a2af8'
+    link: 'https://pub.dartlang.org/packages/platform_detect'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
