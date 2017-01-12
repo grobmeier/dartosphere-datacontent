@@ -81759,3 +81759,30 @@
     link: 'https://pub.dartlang.org/packages/dorm'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: angel_diagnostics
+    package_version: v1.0.0-dev+6
+    title: 'v1.0.0-dev+6 of angel_diagnostics'
+    published: '2017-01-12T20:12:35+00:00'
+    id: 'urn:uuid:00b96e30-b4a6-540d-8e8b-705ce9ced902'
+    link: 'https://pub.dartlang.org/packages/angel_diagnostics'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: webdriver
+    package_version: v1.2.2+1
+    title: 'v1.2.2+1 of webdriver'
+    published: '2017-01-12T20:09:26+00:00'
+    id: 'urn:uuid:6aacd2b4-c197-5bce-981f-96dcac97a6a1'
+    link: 'https://pub.dartlang.org/packages/webdriver'
+    author:
+        - 'Marc Fisher II <fisherii@google.com>'
+-
+    package_name: ng2_modular_admin
+    package_version: v0.0.1
+    title: 'v0.0.1 of ng2_modular_admin'
+    published: '2017-01-12T20:07:29+00:00'
+    id: 'urn:uuid:4c740b14-15ad-50bb-a71d-d8f35eaff7b8'
+    link: 'https://pub.dartlang.org/packages/ng2_modular_admin'
+    author:
+        - 'Mark E. Haase <mehaase@gmail.com>'
