@@ -81696,3 +81696,21 @@
     link: 'https://pub.dartlang.org/packages/angel_proxy'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_route
+    package_version: v1.0.0
+    title: 'v1.0.0 of angel_route'
+    published: '2017-01-12T01:57:39+00:00'
+    id: 'urn:uuid:46c2dcfa-fd1b-572c-863d-c89383f2565b'
+    link: 'https://pub.dartlang.org/packages/angel_route'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.42
+    title: 'v1.0.0-dev.42 of angel_framework'
+    published: '2017-01-12T01:54:04+00:00'
+    id: 'urn:uuid:b020ef52-d72b-54d6-87bd-d56a70f58dbf'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
