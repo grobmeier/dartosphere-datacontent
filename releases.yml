@@ -81741,3 +81741,12 @@
     link: 'https://pub.dartlang.org/packages/fnx_profiler'
     author:
         - 'Tomáš Zvěřina <tomucha@gmail.com>'
+-
+    package_name: dorm
+    package_version: v1.0.39
+    title: 'v1.0.39 of dorm'
+    published: '2017-01-12T14:18:23+00:00'
+    id: 'urn:uuid:29f42e86-572a-59af-848f-4eff6f9dfa21'
+    link: 'https://pub.dartlang.org/packages/dorm'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
