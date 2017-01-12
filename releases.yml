@@ -81649,3 +81649,50 @@
     link: 'https://pub.dartlang.org/packages/flutter_stream_friends'
     author:
         - 'brian.egan <brian@brianegan.com>'
+-
+    package_name: jaguar_postgresql
+    package_version: v0.0.1
+    title: 'v0.0.1 of jaguar_postgresql'
+    published: '2017-01-12T00:59:08+00:00'
+    id: 'urn:uuid:b3cdcebc-4bc8-5f68-9dc9-0ceeb211d17f'
+    link: 'https://pub.dartlang.org/packages/jaguar_postgresql'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_postgres
+    package_version: v0.0.1
+    title: 'v0.0.1 of jaguar_postgres'
+    published: '2017-01-12T00:58:01+00:00'
+    id: 'urn:uuid:9b00cd3a-0f87-5006-9298-f4d31a8a78ce'
+    link: 'https://pub.dartlang.org/packages/jaguar_postgres'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: pageloader
+    package_version: v2.2.5
+    title: 'v2.2.5 of pageloader'
+    published: '2017-01-12T00:44:53+00:00'
+    id: 'urn:uuid:1233714d-00a8-5ec1-bf10-c44dc6f4fed8'
+    link: 'https://pub.dartlang.org/packages/pageloader'
+    author:
+        - 'Marc Fisher II <fisherii@google.com>'
+-
+    package_name: coverage
+    package_version: v0.9.0
+    title: 'v0.9.0 of coverage'
+    published: '2017-01-12T00:44:21+00:00'
+    id: 'urn:uuid:609553a2-daac-54f2-908f-3578c5462513'
+    link: 'https://pub.dartlang.org/packages/coverage'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angel_proxy
+    package_version: v1.0.0-dev+5
+    title: 'v1.0.0-dev+5 of angel_proxy'
+    published: '2017-01-12T00:19:26+00:00'
+    id: 'urn:uuid:3128a4d1-7bef-5a24-916a-ac8b213cb2ff'
+    link: 'https://pub.dartlang.org/packages/angel_proxy'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
