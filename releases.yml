@@ -81714,3 +81714,12 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: ng2_fontawesome
+    package_version: v4.7.0+4
+    title: 'v4.7.0+4 of ng2_fontawesome'
+    published: '2017-01-12T06:30:17+00:00'
+    id: 'urn:uuid:5b1656bf-58de-5bf5-871b-887493b39584'
+    link: 'https://pub.dartlang.org/packages/ng2_fontawesome'
+    author:
+        - 'Mark E. Haase <mehaase@gmail.com>'
