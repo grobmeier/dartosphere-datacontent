@@ -81786,3 +81786,12 @@
     link: 'https://pub.dartlang.org/packages/ng2_modular_admin'
     author:
         - 'Mark E. Haase <mehaase@gmail.com>'
+-
+    package_name: angel_auth_oauth2
+    package_version: v0.0.0
+    title: 'v0.0.0 of angel_auth_oauth2'
+    published: '2017-01-12T22:48:44+00:00'
+    id: 'urn:uuid:421b03cc-4759-5315-81c1-95802d7fbc57'
+    link: 'https://pub.dartlang.org/packages/angel_auth_oauth2'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
