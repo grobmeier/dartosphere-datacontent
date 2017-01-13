@@ -81833,3 +81833,22 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.0.1
+    title: 'v0.0.1 of bokain_models'
+    published: '2017-01-13T10:44:28+00:00'
+    id: 'urn:uuid:a94876b9-0015-5733-a65a-530e6550d3c2'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: jaguar_query_sqljocky
+    package_version: v0.0.2
+    title: 'v0.0.2 of jaguar_query_sqljocky'
+    published: '2017-01-13T10:33:02+00:00'
+    id: 'urn:uuid:81247f49-f26f-5f8d-a141-e659517ca1d0'
+    link: 'https://pub.dartlang.org/packages/jaguar_query_sqljocky'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
