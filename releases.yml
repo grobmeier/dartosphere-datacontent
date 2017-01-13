@@ -81813,3 +81813,23 @@
     link: 'https://pub.dartlang.org/packages/angel_security'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: jaguar_query
+    package_version: v0.0.4
+    title: 'v0.0.4 of jaguar_query'
+    published: '2017-01-13T09:18:00+00:00'
+    id: 'urn:uuid:161cd4ea-cd52-508a-8442-c43db4c7da14'
+    link: 'https://pub.dartlang.org/packages/jaguar_query'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_query_postgresql
+    package_version: v0.0.1
+    title: 'v0.0.1 of jaguar_query_postgresql'
+    published: '2017-01-13T09:16:40+00:00'
+    id: 'urn:uuid:63904e38-d8cc-5af5-be00-a66f1032546b'
+    link: 'https://pub.dartlang.org/packages/jaguar_query_postgresql'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
