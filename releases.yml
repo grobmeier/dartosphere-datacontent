@@ -81795,3 +81795,12 @@
     link: 'https://pub.dartlang.org/packages/angel_auth_oauth2'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_security
+    package_version: v0.0.0-alpha
+    title: 'v0.0.0-alpha of angel_security'
+    published: '2017-01-12T23:57:37+00:00'
+    id: 'urn:uuid:858cd326-88ca-5658-b0e1-b6ab477473e2'
+    link: 'https://pub.dartlang.org/packages/angel_security'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
