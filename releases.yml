@@ -81898,3 +81898,33 @@
     link: 'https://pub.dartlang.org/packages/trotter'
     author:
         - 'Richard Ambler <richthepanda@gmail.com>'
+-
+    package_name: jaguar_generator
+    package_version: v0.1.15+2
+    title: 'v0.1.15+2 of jaguar_generator'
+    published: '2017-01-13T17:53:56+00:00'
+    id: 'urn:uuid:37cdd63d-e1c0-5877-993d-c24c927e86f2'
+    link: 'https://pub.dartlang.org/packages/jaguar_generator'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar
+    package_version: v0.1.14
+    title: 'v0.1.14 of jaguar'
+    published: '2017-01-13T17:37:42+00:00'
+    id: 'urn:uuid:d037209e-27ff-5af1-924d-594d3b625abd'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: swagger
+    package_version: v0.0.1
+    title: 'v0.0.1 of swagger'
+    published: '2017-01-13T17:27:37+00:00'
+    id: 'urn:uuid:2e481615-8a12-5dc0-9ccf-cdd890d3435b'
+    link: 'https://pub.dartlang.org/packages/swagger'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
