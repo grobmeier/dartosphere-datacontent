@@ -81862,3 +81862,39 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.0.11
+    title: 'v0.0.11 of bokain_models'
+    published: '2017-01-13T15:53:35+00:00'
+    id: 'urn:uuid:74f36562-16b4-520e-82bd-dc4d4e9703ca'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: angel_auth
+    package_version: v1.0.0-dev+17
+    title: 'v1.0.0-dev+17 of angel_auth'
+    published: '2017-01-13T15:51:03+00:00'
+    id: 'urn:uuid:ea08eac8-45e2-5ba2-a720-3594cf89a9b2'
+    link: 'https://pub.dartlang.org/packages/angel_auth'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_shelf
+    package_version: v1.0.0
+    title: 'v1.0.0 of angel_shelf'
+    published: '2017-01-13T15:33:53+00:00'
+    id: 'urn:uuid:3050267c-7b6d-5be4-b164-99623048c895'
+    link: 'https://pub.dartlang.org/packages/angel_shelf'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: trotter
+    package_version: v0.8.5
+    title: 'v0.8.5 of trotter'
+    published: '2017-01-13T15:21:12+00:00'
+    id: 'urn:uuid:e5336b7d-c6ad-5623-81cf-0223772d401a'
+    link: 'https://pub.dartlang.org/packages/trotter'
+    author:
+        - 'Richard Ambler <richthepanda@gmail.com>'
