@@ -82064,3 +82064,21 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_multiserver
+    package_version: v1.0.0-dev+3
+    title: 'v1.0.0-dev+3 of angel_multiserver'
+    published: '2017-01-14T16:23:34+00:00'
+    id: 'urn:uuid:8c9d7ff7-40b7-5730-9543-4eb51a835219'
+    link: 'https://pub.dartlang.org/packages/angel_multiserver'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_compress
+    package_version: v1.0.0+2
+    title: 'v1.0.0+2 of angel_compress'
+    published: '2017-01-14T16:04:26+00:00'
+    id: 'urn:uuid:0790fb37-956a-5481-a9a9-773c4c9b17f9'
+    link: 'https://pub.dartlang.org/packages/angel_compress'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
