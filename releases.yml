@@ -81974,3 +81974,12 @@
     link: 'https://pub.dartlang.org/packages/serializable'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: pbsm
+    package_version: v0.1.1
+    title: 'v0.1.1 of pbsm'
+    published: '2017-01-14T11:57:35+00:00'
+    id: 'urn:uuid:5fdaa839-e384-5716-9fe7-a9aa171c5417'
+    link: 'https://pub.dartlang.org/packages/pbsm'
+    author:
+        - 'sh4869 <nobuk4869@gmail.com>'
