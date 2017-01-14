@@ -81947,3 +81947,21 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angel_security
+    package_version: v0.0.0-alpha+2
+    title: 'v0.0.0-alpha+2 of angel_security'
+    published: '2017-01-14T00:45:51+00:00'
+    id: 'urn:uuid:1bcb2e85-926d-52f4-ba28-31db4dbcc348'
+    link: 'https://pub.dartlang.org/packages/angel_security'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.43
+    title: 'v1.0.0-dev.43 of angel_framework'
+    published: '2017-01-14T00:36:17+00:00'
+    id: 'urn:uuid:2a483815-7627-5efd-939d-7b13bc5d191e'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
