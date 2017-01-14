@@ -81938,3 +81938,12 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: dartdoc
+    package_version: v0.9.10
+    title: 'v0.9.10 of dartdoc'
+    published: '2017-01-13T23:29:59+00:00'
+    id: 'urn:uuid:d35ea107-d336-5cf1-8890-d223c4e3da37'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
