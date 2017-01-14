@@ -81983,3 +81983,12 @@
     link: 'https://pub.dartlang.org/packages/pbsm'
     author:
         - 'sh4869 <nobuk4869@gmail.com>'
+-
+    package_name: pbsm
+    package_version: v0.1.2
+    title: 'v0.1.2 of pbsm'
+    published: '2017-01-14T12:01:20+00:00'
+    id: 'urn:uuid:0d833f62-742b-5c04-95fa-065ef0f57ac4'
+    link: 'https://pub.dartlang.org/packages/pbsm'
+    author:
+        - 'sh4869 <nobuk4869@gmail.com>'
