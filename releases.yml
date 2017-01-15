@@ -82110,3 +82110,12 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: serializable
+    package_version: v0.0.2
+    title: 'v0.0.2 of serializable'
+    published: '2017-01-14T23:22:05+00:00'
+    id: 'urn:uuid:ccac9ffd-abc1-5b6e-90aa-6b8d2990dc26'
+    link: 'https://pub.dartlang.org/packages/serializable'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
