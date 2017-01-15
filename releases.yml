@@ -82273,3 +82273,12 @@
     link: 'https://pub.dartlang.org/packages/svgpath'
     author:
         - SlickTech
+-
+    package_name: heron
+    package_version: v0.0.1
+    title: 'v0.0.1 of heron'
+    published: '2017-01-15T21:51:02+00:00'
+    id: 'urn:uuid:2f56ff75-e947-5969-831a-3ba21a12f3f2'
+    link: 'https://pub.dartlang.org/packages/heron'
+    author:
+        - 'Istvan Soos <istvan.soos@agilord.com>'
