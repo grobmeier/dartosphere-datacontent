@@ -82176,3 +82176,23 @@
     link: 'https://pub.dartlang.org/packages/pocket_client'
     author:
         - 'Ne4istb <anechytailov@gmail.com>'
+-
+    package_name: jaguar_mux
+    package_version: v0.0.2
+    title: 'v0.0.2 of jaguar_mux'
+    published: '2017-01-15T13:57:48+00:00'
+    id: 'urn:uuid:8b1b6020-71b4-53b0-a1ff-3d6e5a70453e'
+    link: 'https://pub.dartlang.org/packages/jaguar_mux'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_query
+    package_version: v0.0.5
+    title: 'v0.0.5 of jaguar_query'
+    published: '2017-01-15T13:32:17+00:00'
+    id: 'urn:uuid:da9f78b0-fd15-5482-aab6-5c8f2295b760'
+    link: 'https://pub.dartlang.org/packages/jaguar_query'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
