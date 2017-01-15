@@ -82215,3 +82215,14 @@
     link: 'https://pub.dartlang.org/packages/dart_repl'
     author:
         - 'Andreas ''blackhc'' Kirsch <blackhc@gmail.com>'
+-
+    package_name: slickdart
+    package_version: v0.1.8+6
+    title: 'v0.1.8+6 of slickdart'
+    published: '2017-01-15T16:56:08+00:00'
+    id: 'urn:uuid:776ac959-9c0d-5284-835a-70c51d318112'
+    link: 'https://pub.dartlang.org/packages/slickdart'
+    author:
+        - 'CJKAO <kaopeter@gmail.com>'
+        - tonosama-atlacatl
+        - yyyangd
