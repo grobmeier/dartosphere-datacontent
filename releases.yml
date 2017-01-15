@@ -82246,3 +82246,30 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: dartz
+    package_version: v0.5.1
+    title: 'v0.5.1 of dartz'
+    published: '2017-01-15T19:58:35+00:00'
+    id: 'urn:uuid:06d6c5d4-0947-53d9-8907-3019eae6e9c7'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.47
+    title: 'v1.0.0-dev.47 of angel_framework'
+    published: '2017-01-15T19:52:23+00:00'
+    id: 'urn:uuid:d019f63c-0caf-5a96-a3fe-8686eada7b5a'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: svgpath
+    package_version: v1.0.0
+    title: 'v1.0.0 of svgpath'
+    published: '2017-01-15T19:35:51+00:00'
+    id: 'urn:uuid:b70434a2-4927-58f3-aa33-ad084feb4be5'
+    link: 'https://pub.dartlang.org/packages/svgpath'
+    author:
+        - SlickTech
