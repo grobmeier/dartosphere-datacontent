@@ -82226,3 +82226,23 @@
         - 'CJKAO <kaopeter@gmail.com>'
         - tonosama-atlacatl
         - yyyangd
+-
+    package_name: jaguar_mongo
+    package_version: v0.1.5
+    title: 'v0.1.5 of jaguar_mongo'
+    published: '2017-01-15T18:48:35+00:00'
+    id: 'urn:uuid:8e071f46-33d1-55cc-b6be-4263b1eb8436'
+    link: 'https://pub.dartlang.org/packages/jaguar_mongo'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_query
+    package_version: v0.0.6
+    title: 'v0.0.6 of jaguar_query'
+    published: '2017-01-15T18:44:16+00:00'
+    id: 'urn:uuid:96c3d6b7-66cd-5df7-92f6-e20e76ea6b25'
+    link: 'https://pub.dartlang.org/packages/jaguar_query'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
