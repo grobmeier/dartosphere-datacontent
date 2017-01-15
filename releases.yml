@@ -82167,3 +82167,12 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: pocket_client
+    package_version: v0.1.2
+    title: 'v0.1.2 of pocket_client'
+    published: '2017-01-15T12:56:04+00:00'
+    id: 'urn:uuid:a0a0d21e-44e4-5446-847c-59424f3f79b2'
+    link: 'https://pub.dartlang.org/packages/pocket_client'
+    author:
+        - 'Ne4istb <anechytailov@gmail.com>'
