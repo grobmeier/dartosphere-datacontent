@@ -82119,3 +82119,32 @@
     link: 'https://pub.dartlang.org/packages/serializable'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: jaguar_generator
+    package_version: v0.1.16
+    title: 'v0.1.16 of jaguar_generator'
+    published: '2017-01-15T01:51:47+00:00'
+    id: 'urn:uuid:9b9c3a59-a016-5756-8923-7c67c689d62b'
+    link: 'https://pub.dartlang.org/packages/jaguar_generator'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar
+    package_version: v0.1.15
+    title: 'v0.1.15 of jaguar'
+    published: '2017-01-15T01:43:07+00:00'
+    id: 'urn:uuid:bd1d8898-594b-54f2-a5c8-ceb183dce4c4'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: midiparser
+    package_version: v1.1.0
+    title: 'v1.1.0 of midiparser'
+    published: '2017-01-15T01:20:26+00:00'
+    id: 'urn:uuid:bef90813-dacd-5995-a19c-031470c4e7b5'
+    link: 'https://pub.dartlang.org/packages/midiparser'
+    author:
+        - 'Ennis Massey <ennisbaradine@gmail.com>'
