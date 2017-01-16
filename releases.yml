@@ -82291,3 +82291,12 @@
     link: 'https://pub.dartlang.org/packages/dynamo'
     author:
         - 'Gerald Leeb <gerald@g-24.net>'
+-
+    package_name: dart_repl
+    package_version: v0.9.2
+    title: 'v0.9.2 of dart_repl'
+    published: '2017-01-16T10:00:36+00:00'
+    id: 'urn:uuid:776942a1-16fe-5ab6-8d78-965dce094c72'
+    link: 'https://pub.dartlang.org/packages/dart_repl'
+    author:
+        - 'Andreas ''blackhc'' Kirsch <blackhc@gmail.com>'
