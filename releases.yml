@@ -82282,3 +82282,12 @@
     link: 'https://pub.dartlang.org/packages/heron'
     author:
         - 'Istvan Soos <istvan.soos@agilord.com>'
+-
+    package_name: dynamo
+    package_version: v0.0.1
+    title: 'v0.0.1 of dynamo'
+    published: '2017-01-16T05:15:52+00:00'
+    id: 'urn:uuid:414faf9a-b294-5104-9dd5-2032f68cf0ca'
+    link: 'https://pub.dartlang.org/packages/dynamo'
+    author:
+        - 'Gerald Leeb <gerald@g-24.net>'
