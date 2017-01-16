@@ -82404,3 +82404,12 @@
     link: 'https://pub.dartlang.org/packages/slot_machine'
     author:
         - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: google_maps
+    package_version: v3.2.0+2
+    title: 'v3.2.0+2 of google_maps'
+    published: '2017-01-16T21:19:05+00:00'
+    id: 'urn:uuid:0fc2a745-7994-5f0b-ab28-78d3080441b7'
+    link: 'https://pub.dartlang.org/packages/google_maps'
+    author:
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
