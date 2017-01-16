@@ -82356,3 +82356,13 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_cli
+    package_version: v0.0.18
+    title: 'v0.0.18 of jaguar_cli'
+    published: '2017-01-16T14:28:21+00:00'
+    id: 'urn:uuid:74cacd3a-63ef-50dc-b115-6c3bd5f7a592'
+    link: 'https://pub.dartlang.org/packages/jaguar_cli'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
