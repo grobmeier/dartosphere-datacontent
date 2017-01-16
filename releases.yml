@@ -82366,3 +82366,32 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: slickdart
+    package_version: v0.1.8+8
+    title: 'v0.1.8+8 of slickdart'
+    published: '2017-01-16T16:00:50+00:00'
+    id: 'urn:uuid:a0a488d6-e269-59a0-b672-3c63ee5de9fd'
+    link: 'https://pub.dartlang.org/packages/slickdart'
+    author:
+        - 'CJKAO <kaopeter@gmail.com>'
+        - tonosama-atlacatl
+        - yyyangd
+-
+    package_name: built_value_generator
+    package_version: v0.5.1
+    title: 'v0.5.1 of built_value_generator'
+    published: '2017-01-16T15:45:32+00:00'
+    id: 'urn:uuid:f6584299-c199-55ca-8fa4-e4c292cefc6b'
+    link: 'https://pub.dartlang.org/packages/built_value_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value
+    package_version: v0.5.1
+    title: 'v0.5.1 of built_value'
+    published: '2017-01-16T15:45:19+00:00'
+    id: 'urn:uuid:bd9ea97e-5128-527c-bfa2-1a77e6a140e1'
+    link: 'https://pub.dartlang.org/packages/built_value'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
