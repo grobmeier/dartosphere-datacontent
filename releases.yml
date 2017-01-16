@@ -82395,3 +82395,12 @@
     link: 'https://pub.dartlang.org/packages/built_value'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: slot_machine
+    package_version: v3.1.0
+    title: 'v3.1.0 of slot_machine'
+    published: '2017-01-16T20:01:17+00:00'
+    id: 'urn:uuid:54f7853a-ab8b-57d2-9bcf-67d0f19ba834'
+    link: 'https://pub.dartlang.org/packages/slot_machine'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
