@@ -82327,3 +82327,12 @@
     link: 'https://pub.dartlang.org/packages/dart_repl'
     author:
         - 'Andreas ''blackhc'' Kirsch <blackhc@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.0.12
+    title: 'v0.0.12 of bokain_models'
+    published: '2017-01-16T12:35:36+00:00'
+    id: 'urn:uuid:bcc72cc5-94b8-5db5-b3b1-fbb94c8f9f56'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
