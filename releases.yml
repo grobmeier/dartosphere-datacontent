@@ -82431,3 +82431,12 @@
     link: 'https://pub.dartlang.org/packages/dart_language_server'
     author:
         - 'Nate Bosch <nbosch1@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.0.13
+    title: 'v0.0.13 of bokain_models'
+    published: '2017-01-17T08:59:48+00:00'
+    id: 'urn:uuid:85876b4d-904c-5898-9068-dfd450f135e0'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
