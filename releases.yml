@@ -82449,3 +82449,12 @@
     link: 'https://pub.dartlang.org/packages/pikaday_datepicker'
     author:
         - 'Stephan Schroeder <simon.void+github@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.0.131
+    title: 'v0.0.131 of bokain_models'
+    published: '2017-01-17T12:08:49+00:00'
+    id: 'urn:uuid:1771453f-955d-588b-9404-63e56bb6f22b'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
