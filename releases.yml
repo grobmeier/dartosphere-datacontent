@@ -82422,3 +82422,12 @@
     link: 'https://pub.dartlang.org/packages/oauth'
     author:
         - 'Owen Shepherd <*@owenshepherd.net>'
+-
+    package_name: dart_language_server
+    package_version: v0.0.1
+    title: 'v0.0.1 of dart_language_server'
+    published: '2017-01-17T01:39:27+00:00'
+    id: 'urn:uuid:f0cbe086-3450-5b96-94fa-a426877816a4'
+    link: 'https://pub.dartlang.org/packages/dart_language_server'
+    author:
+        - 'Nate Bosch <nbosch1@gmail.com>'
