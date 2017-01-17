@@ -82485,3 +82485,21 @@
     link: 'https://pub.dartlang.org/packages/fo_components'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: dorm
+    package_version: v1.0.40
+    title: 'v1.0.40 of dorm'
+    published: '2017-01-17T15:00:54+00:00'
+    id: 'urn:uuid:bf61836e-cc7b-59dd-a99a-1f4348ec05c5'
+    link: 'https://pub.dartlang.org/packages/dorm'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: bokain_models
+    package_version: v0.0.133
+    title: 'v0.0.133 of bokain_models'
+    published: '2017-01-17T14:44:10+00:00'
+    id: 'urn:uuid:a0c73b4e-bba2-5ab3-b985-f99ef46f5101'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
