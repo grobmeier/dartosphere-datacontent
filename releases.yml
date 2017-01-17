@@ -82532,3 +82532,12 @@
     link: 'https://pub.dartlang.org/packages/built_value'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: dynamo
+    package_version: v0.0.2
+    title: 'v0.0.2 of dynamo'
+    published: '2017-01-17T20:04:01+00:00'
+    id: 'urn:uuid:b821343b-a16b-5135-883b-2af267ddba04'
+    link: 'https://pub.dartlang.org/packages/dynamo'
+    author:
+        - 'Gerald Leeb <gerald@g-24.net>'
