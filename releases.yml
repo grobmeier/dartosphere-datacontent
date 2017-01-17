@@ -82503,3 +82503,32 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: slickdart
+    package_version: v0.1.8+9
+    title: 'v0.1.8+9 of slickdart'
+    published: '2017-01-17T15:22:57+00:00'
+    id: 'urn:uuid:d7210f83-1cc7-5e67-bada-1e8d1a490459'
+    link: 'https://pub.dartlang.org/packages/slickdart'
+    author:
+        - 'CJKAO <kaopeter@gmail.com>'
+        - tonosama-atlacatl
+        - yyyangd
+-
+    package_name: built_value_generator
+    package_version: v0.5.2
+    title: 'v0.5.2 of built_value_generator'
+    published: '2017-01-17T15:18:29+00:00'
+    id: 'urn:uuid:53149f1a-59ba-56fc-9174-7932d136c850'
+    link: 'https://pub.dartlang.org/packages/built_value_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value
+    package_version: v0.5.2
+    title: 'v0.5.2 of built_value'
+    published: '2017-01-17T15:18:15+00:00'
+    id: 'urn:uuid:f2436cbc-a425-51b7-9cd1-5721ba445231'
+    link: 'https://pub.dartlang.org/packages/built_value'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
