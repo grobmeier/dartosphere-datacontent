@@ -82458,3 +82458,30 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: rxdart
+    package_version: v0.6.3
+    title: 'v0.6.3 of rxdart'
+    published: '2017-01-17T13:46:01+00:00'
+    id: 'urn:uuid:ceb3a1c4-4fb8-5b3a-9bd3-3ea260c39f19'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: heron
+    package_version: v0.0.2
+    title: 'v0.0.2 of heron'
+    published: '2017-01-17T13:32:11+00:00'
+    id: 'urn:uuid:65c98bb0-4b58-5675-9a54-f4923121a084'
+    link: 'https://pub.dartlang.org/packages/heron'
+    author:
+        - 'Istvan Soos <istvan.soos@agilord.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1161
+    title: 'v0.0.1161 of fo_components'
+    published: '2017-01-17T13:09:38+00:00'
+    id: 'urn:uuid:5390bb5c-8d0d-519b-9c2d-7db62e404e35'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
