@@ -82568,3 +82568,12 @@
     link: 'https://pub.dartlang.org/packages/fo_components'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.0.138
+    title: 'v0.0.138 of bokain_models'
+    published: '2017-01-18T17:02:09+00:00'
+    id: 'urn:uuid:b5e5ae74-52c7-5b9d-8195-287b354a139f'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
