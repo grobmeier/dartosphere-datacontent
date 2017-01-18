@@ -82541,3 +82541,12 @@
     link: 'https://pub.dartlang.org/packages/dynamo'
     author:
         - 'Gerald Leeb <gerald@g-24.net>'
+-
+    package_name: bokain_models
+    package_version: v0.0.134
+    title: 'v0.0.134 of bokain_models'
+    published: '2017-01-18T14:05:56+00:00'
+    id: 'urn:uuid:cef0606f-1087-5e5c-a34b-77a36ff3857c'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
