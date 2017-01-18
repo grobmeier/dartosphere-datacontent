@@ -82595,3 +82595,21 @@
     link: 'https://pub.dartlang.org/packages/md_proc'
     author:
         - 'Maxim Dikun <dikmax@gmail.com>'
+-
+    package_name: mdown
+    package_version: v0.11.0+2
+    title: 'v0.11.0+2 of mdown'
+    published: '2017-01-18T21:38:33+00:00'
+    id: 'urn:uuid:77fabe6d-c1b6-5271-b025-bddaaf12660f'
+    link: 'https://pub.dartlang.org/packages/mdown'
+    author:
+        - 'Maxim Dikun <dikmax@gmail.com>'
+-
+    package_name: coverage
+    package_version: v0.9.1
+    title: 'v0.9.1 of coverage'
+    published: '2017-01-18T21:28:11+00:00'
+    id: 'urn:uuid:501c618b-d4a9-596c-acc9-704c0e7e0fa2'
+    link: 'https://pub.dartlang.org/packages/coverage'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
