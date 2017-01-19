@@ -82679,3 +82679,30 @@
     link: 'https://pub.dartlang.org/packages/simple_streams'
     author:
         - 'Nick Anderssohn <ncadevelopment@gmail.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1164
+    title: 'v0.0.1164 of fo_components'
+    published: '2017-01-19T11:41:58+00:00'
+    id: 'urn:uuid:68c4eca2-7750-5cac-a6c4-a0f321051922'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.0.139
+    title: 'v0.0.139 of bokain_models'
+    published: '2017-01-19T11:25:07+00:00'
+    id: 'urn:uuid:efdeb48f-22c6-5de3-9730-24b6be63cf21'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: rxdart
+    package_version: v0.6.3+1
+    title: 'v0.6.3+1 of rxdart'
+    published: '2017-01-19T11:21:54+00:00'
+    id: 'urn:uuid:a2f50d72-dff6-5c11-82bb-7fe8fec60488'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
