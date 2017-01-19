@@ -82661,3 +82661,12 @@
     link: 'https://pub.dartlang.org/packages/dynamo'
     author:
         - 'Gerald Leeb <gerald@g-24.net>'
+-
+    package_name: resource
+    package_version: v2.1.0
+    title: 'v2.1.0 of resource'
+    published: '2017-01-19T08:00:32+00:00'
+    id: 'urn:uuid:8d2fd058-b647-56a6-af39-f090dd99156d'
+    link: 'https://pub.dartlang.org/packages/resource'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
