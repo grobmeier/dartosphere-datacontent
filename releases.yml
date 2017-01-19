@@ -82706,3 +82706,21 @@
     link: 'https://pub.dartlang.org/packages/rxdart'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: rxdart
+    package_version: v0.6.3+2
+    title: 'v0.6.3+2 of rxdart'
+    published: '2017-01-19T14:23:03+00:00'
+    id: 'urn:uuid:99169ee7-3ecf-5bfb-86be-f45825272288'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: bokain_models
+    package_version: v0.0.140
+    title: 'v0.0.140 of bokain_models'
+    published: '2017-01-19T14:11:47+00:00'
+    id: 'urn:uuid:56fd6416-f143-5cfc-bd58-97d2b74ad9ff'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
