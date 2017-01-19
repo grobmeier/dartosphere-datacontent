@@ -82733,3 +82733,26 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: w_transport
+    package_version: v3.0.1
+    title: 'v3.0.1 of w_transport'
+    published: '2017-01-19T19:00:20+00:00'
+    id: 'urn:uuid:d94aa28e-5856-55c5-b488-fb18aada8397'
+    link: 'https://pub.dartlang.org/packages/w_transport'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: lcov
+    package_version: v0.1.0
+    title: 'v0.1.0 of lcov'
+    published: '2017-01-19T18:17:53+00:00'
+    id: 'urn:uuid:ade6f2c6-f143-5499-9265-b23dde7690b1'
+    link: 'https://pub.dartlang.org/packages/lcov'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
