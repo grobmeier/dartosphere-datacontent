@@ -82756,3 +82756,12 @@
     link: 'https://pub.dartlang.org/packages/lcov'
     author:
         - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: bazel_worker
+    package_version: v0.1.2
+    title: 'v0.1.2 of bazel_worker'
+    published: '2017-01-19T20:21:42+00:00'
+    id: 'urn:uuid:080b4c2b-364a-5d9a-9e69-481608de557b'
+    link: 'https://pub.dartlang.org/packages/bazel_worker'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
