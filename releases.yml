@@ -82643,3 +82643,21 @@
         - 'Tom Yeh <tomyeh@rikulo.org>'
         - 'Henri Chen <henrichen@rikulo.org>'
         - 'Simon Pai <simonpai@rikulo.org>'
+-
+    package_name: specify
+    package_version: v1.0.0
+    title: 'v1.0.0 of specify'
+    published: '2017-01-19T06:39:20+00:00'
+    id: 'urn:uuid:3298e2fc-3e13-5fff-bd66-5d9627b3c507'
+    link: 'https://pub.dartlang.org/packages/specify'
+    author:
+        - 'George D. Cooksey, III <texdc3@gmail.com>'
+-
+    package_name: dynamo
+    package_version: v0.0.4
+    title: 'v0.0.4 of dynamo'
+    published: '2017-01-19T06:36:09+00:00'
+    id: 'urn:uuid:39eb19a2-fa40-5042-9e7e-aa0335abb0b1'
+    link: 'https://pub.dartlang.org/packages/dynamo'
+    author:
+        - 'Gerald Leeb <gerald@g-24.net>'
