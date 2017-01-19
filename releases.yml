@@ -82623,3 +82623,23 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: bootjack_datepicker
+    package_version: v0.5.8
+    title: 'v0.5.8 of bootjack_datepicker'
+    published: '2017-01-19T05:53:23+00:00'
+    id: 'urn:uuid:a678944b-a86c-5bb5-b637-dc44eda81822'
+    link: 'https://pub.dartlang.org/packages/bootjack_datepicker'
+    author:
+        - 'Jimmy Shiau <jimmyshiau@potix.com>'
+-
+    package_name: rikulo_commons
+    package_version: v2.3.1+1
+    title: 'v2.3.1+1 of rikulo_commons'
+    published: '2017-01-19T05:14:41+00:00'
+    id: 'urn:uuid:e3059216-b2ad-5367-9cee-ea5b476bd1ea'
+    link: 'https://pub.dartlang.org/packages/rikulo_commons'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+        - 'Henri Chen <henrichen@rikulo.org>'
+        - 'Simon Pai <simonpai@rikulo.org>'
