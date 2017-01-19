@@ -82670,3 +82670,12 @@
     link: 'https://pub.dartlang.org/packages/resource'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: simple_streams
+    package_version: v1.0.1
+    title: 'v1.0.1 of simple_streams'
+    published: '2017-01-19T08:57:41+00:00'
+    id: 'urn:uuid:87defec2-256a-5c19-a036-25695d5d2d0a'
+    link: 'https://pub.dartlang.org/packages/simple_streams'
+    author:
+        - 'Nick Anderssohn <ncadevelopment@gmail.com>'
