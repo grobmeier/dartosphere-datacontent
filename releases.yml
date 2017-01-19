@@ -82613,3 +82613,13 @@
     link: 'https://pub.dartlang.org/packages/coverage'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: jaguar
+    package_version: v0.1.16
+    title: 'v0.1.16 of jaguar'
+    published: '2017-01-19T01:04:57+00:00'
+    id: 'urn:uuid:7387e105-35cc-570c-9ff9-44f35bea9c97'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
