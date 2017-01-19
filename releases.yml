@@ -82765,3 +82765,12 @@
     link: 'https://pub.dartlang.org/packages/bazel_worker'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: stream_channel
+    package_version: v1.6.0
+    title: 'v1.6.0 of stream_channel'
+    published: '2017-01-19T21:43:44+00:00'
+    id: 'urn:uuid:fd20a721-563e-583b-9c40-e5dbb0fe24f7'
+    link: 'https://pub.dartlang.org/packages/stream_channel'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
