@@ -82864,3 +82864,12 @@
     link: 'https://pub.dartlang.org/packages/owl'
     author:
         - 'Istvan Soos <istvan.soos@agilord.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.49
+    title: 'v1.0.0-dev.49 of angel_framework'
+    published: '2017-01-20T22:40:58+00:00'
+    id: 'urn:uuid:92ee7d4c-ac47-5a10-93d1-177f5d35abf3'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
