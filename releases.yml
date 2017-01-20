@@ -82801,3 +82801,21 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.0.145
+    title: 'v0.0.145 of bokain_models'
+    published: '2017-01-20T14:36:02+00:00'
+    id: 'urn:uuid:9c6c97fe-b44a-58ec-b255-02101367cd78'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: pbsm
+    package_version: v0.1.4
+    title: 'v0.1.4 of pbsm'
+    published: '2017-01-20T14:02:45+00:00'
+    id: 'urn:uuid:9f01bf22-348d-5c0f-8da2-e54f26e8c5c7'
+    link: 'https://pub.dartlang.org/packages/pbsm'
+    author:
+        - 'sh4869 <nobuk4869@gmail.com>'
