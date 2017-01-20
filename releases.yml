@@ -82783,3 +82783,12 @@
     link: 'https://pub.dartlang.org/packages/rxdart'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: dynamo
+    package_version: v0.1.0
+    title: 'v0.1.0 of dynamo'
+    published: '2017-01-20T12:06:40+00:00'
+    id: 'urn:uuid:292b0874-3616-5dd7-bced-140a9c4d8706'
+    link: 'https://pub.dartlang.org/packages/dynamo'
+    author:
+        - 'Gerald Leeb <gerald@g-24.net>'
