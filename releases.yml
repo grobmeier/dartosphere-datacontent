@@ -82819,3 +82819,12 @@
     link: 'https://pub.dartlang.org/packages/pbsm'
     author:
         - 'sh4869 <nobuk4869@gmail.com>'
+-
+    package_name: eqlib
+    package_version: v0.3.1
+    title: 'v0.3.1 of eqlib'
+    published: '2017-01-20T15:01:44+00:00'
+    id: 'urn:uuid:c220199c-b360-5f65-89e2-fb411440ce29'
+    link: 'https://pub.dartlang.org/packages/eqlib'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
