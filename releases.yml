@@ -82774,3 +82774,12 @@
     link: 'https://pub.dartlang.org/packages/stream_channel'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: rxdart
+    package_version: v0.6.3+3
+    title: 'v0.6.3+3 of rxdart'
+    published: '2017-01-20T09:23:31+00:00'
+    id: 'urn:uuid:0e134de0-be77-5593-8ade-7d87d8cb7438'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
