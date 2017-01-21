@@ -82937,3 +82937,13 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar
+    package_version: v0.2.2
+    title: 'v0.2.2 of jaguar'
+    published: '2017-01-21T17:13:05+00:00'
+    id: 'urn:uuid:5d817e87-d1f9-554d-8dfc-0a32cde47e9a'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
