@@ -82909,3 +82909,12 @@
     link: 'https://pub.dartlang.org/packages/process'
     author:
         - 'Todd Volkert <tvolkert@google.com>'
+-
+    package_name: angel_security
+    package_version: v0.0.0-alpha+4
+    title: 'v0.0.0-alpha+4 of angel_security'
+    published: '2017-01-21T03:39:48+00:00'
+    id: 'urn:uuid:61049aea-6ba4-5575-920c-145a58bac82b'
+    link: 'https://pub.dartlang.org/packages/angel_security'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
