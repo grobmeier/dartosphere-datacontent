@@ -82918,3 +82918,12 @@
     link: 'https://pub.dartlang.org/packages/angel_security'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: specify
+    package_version: v1.0.1
+    title: 'v1.0.1 of specify'
+    published: '2017-01-21T05:03:47+00:00'
+    id: 'urn:uuid:dff52f32-b3be-5fc0-b698-f13eecdde59c'
+    link: 'https://pub.dartlang.org/packages/specify'
+    author:
+        - 'George D. Cooksey, III <texdc3@gmail.com>'
