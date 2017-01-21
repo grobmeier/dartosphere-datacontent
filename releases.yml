@@ -82873,3 +82873,30 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: presubmit
+    package_version: v0.0.1
+    title: 'v0.0.1 of presubmit'
+    published: '2017-01-20T23:27:43+00:00'
+    id: 'urn:uuid:bfc3158c-7907-5398-b805-c385e11b0d6c'
+    link: 'https://pub.dartlang.org/packages/presubmit'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: analyzer
+    package_version: v0.29.5
+    title: 'v0.29.5 of analyzer'
+    published: '2017-01-20T23:22:44+00:00'
+    id: 'urn:uuid:92f63de3-916a-5914-b9b3-a26ce5da846b'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angel_auth
+    package_version: v1.0.0-dev+18
+    title: 'v1.0.0-dev+18 of angel_auth'
+    published: '2017-01-20T23:15:16+00:00'
+    id: 'urn:uuid:e334a143-7469-5219-984c-7972cb8b91cb'
+    link: 'https://pub.dartlang.org/packages/angel_auth'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
