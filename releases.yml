@@ -82996,3 +82996,53 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_postgresql
+    package_version: v0.2.0
+    title: 'v0.2.0 of jaguar_postgresql'
+    published: '2017-01-21T22:00:34+00:00'
+    id: 'urn:uuid:40c621d2-1686-5517-bf77-9b427019c83c'
+    link: 'https://pub.dartlang.org/packages/jaguar_postgresql'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_mustache
+    package_version: v0.2.0
+    title: 'v0.2.0 of jaguar_mustache'
+    published: '2017-01-21T21:45:22+00:00'
+    id: 'urn:uuid:cb0c61c4-ab1a-552e-8b25-b16bc8432c21'
+    link: 'https://pub.dartlang.org/packages/jaguar_mustache'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_mongo
+    package_version: v0.2.0
+    title: 'v0.2.0 of jaguar_mongo'
+    published: '2017-01-21T21:34:01+00:00'
+    id: 'urn:uuid:4a5c0998-ba85-5b55-b63e-8ac28498cb3a'
+    link: 'https://pub.dartlang.org/packages/jaguar_mongo'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_auth
+    package_version: v0.2.1
+    title: 'v0.2.1 of jaguar_auth'
+    published: '2017-01-21T21:29:52+00:00'
+    id: 'urn:uuid:49d2b437-77fe-571e-8784-b9405c72b8d3'
+    link: 'https://pub.dartlang.org/packages/jaguar_auth'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_session
+    package_version: v0.2.1
+    title: 'v0.2.1 of jaguar_session'
+    published: '2017-01-21T21:12:08+00:00'
+    id: 'urn:uuid:e2974586-7d44-52c6-80bb-779504d5bf5a'
+    link: 'https://pub.dartlang.org/packages/jaguar_session'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
