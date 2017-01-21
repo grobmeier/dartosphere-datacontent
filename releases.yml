@@ -82900,3 +82900,12 @@
     link: 'https://pub.dartlang.org/packages/angel_auth'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: process
+    package_version: v1.0.0
+    title: 'v1.0.0 of process'
+    published: '2017-01-21T02:04:49+00:00'
+    id: 'urn:uuid:4ef5360c-1a4d-56da-9d16-97f689be7ade'
+    link: 'https://pub.dartlang.org/packages/process'
+    author:
+        - 'Todd Volkert <tvolkert@google.com>'
