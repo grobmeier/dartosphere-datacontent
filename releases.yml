@@ -83122,3 +83122,13 @@
     link: 'https://pub.dartlang.org/packages/lcov'
     author:
         - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: redstone_database_mongo
+    package_version: v0.3.0
+    title: 'v0.3.0 of redstone_database_mongo'
+    published: '2017-01-22T17:10:13+00:00'
+    id: 'urn:uuid:8e3a2e77-85ad-5f75-b417-4a88dbddb41e'
+    link: 'https://pub.dartlang.org/packages/redstone_database_mongo'
+    author:
+        - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
