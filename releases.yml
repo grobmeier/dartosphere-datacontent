@@ -83104,3 +83104,12 @@
     link: 'https://pub.dartlang.org/packages/lcov'
     author:
         - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: reddit
+    package_version: v0.4.0
+    title: 'v0.4.0 of reddit'
+    published: '2017-01-22T13:48:07+00:00'
+    id: 'urn:uuid:90065c6e-b122-5225-9984-87cd6cd2b0de'
+    link: 'https://pub.dartlang.org/packages/reddit'
+    author:
+        - 'Steven Roose <stevenroose@gmail.com>'
