@@ -83113,3 +83113,12 @@
     link: 'https://pub.dartlang.org/packages/reddit'
     author:
         - 'Steven Roose <stevenroose@gmail.com>'
+-
+    package_name: lcov
+    package_version: v0.3.0
+    title: 'v0.3.0 of lcov'
+    published: '2017-01-22T16:40:51+00:00'
+    id: 'urn:uuid:c65024f8-fad3-52a9-974f-a91f16bf93fb'
+    link: 'https://pub.dartlang.org/packages/lcov'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
