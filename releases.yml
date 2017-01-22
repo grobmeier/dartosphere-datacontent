@@ -83132,3 +83132,12 @@
     author:
         - 'Stéphane Este-Gracias <sestegra@gmail.com>'
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: icu_server
+    package_version: v0.0.2
+    title: 'v0.0.2 of icu_server'
+    published: '2017-01-22T19:09:04+00:00'
+    id: 'urn:uuid:e3003f5f-61be-5691-a4e2-ee60f2615cc8'
+    link: 'https://pub.dartlang.org/packages/icu_server'
+    author:
+        - 'Raiv Teja Gudapati <tejainece@gmail.com>'
