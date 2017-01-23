@@ -83204,3 +83204,12 @@
     link: 'https://pub.dartlang.org/packages/firebase_dart'
     author:
         - 'Rik Bellens <rik.bellens@appsup.be>'
+-
+    package_name: firebase_dart
+    package_version: v0.5.6
+    title: 'v0.5.6 of firebase_dart'
+    published: '2017-01-23T15:35:38+00:00'
+    id: 'urn:uuid:f2a0543d-020a-519b-b143-dcff885c5113'
+    link: 'https://pub.dartlang.org/packages/firebase_dart'
+    author:
+        - 'Rik Bellens <rik.bellens@appsup.be>'
