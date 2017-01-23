@@ -83213,3 +83213,26 @@
     link: 'https://pub.dartlang.org/packages/firebase_dart'
     author:
         - 'Rik Bellens <rik.bellens@appsup.be>'
+-
+    package_name: react
+    package_version: v3.2.0
+    title: 'v3.2.0 of react'
+    published: '2017-01-23T17:31:44+00:00'
+    id: 'urn:uuid:3566f755-090f-515c-b18d-dfb8226a0370'
+    link: 'https://pub.dartlang.org/packages/react'
+    author:
+        - 'Clean Team <clean@vacuumlabs.com>'
+-
+    package_name: dart_dev
+    package_version: v1.6.0
+    title: 'v1.6.0 of dart_dev'
+    published: '2017-01-23T17:16:34+00:00'
+    id: 'urn:uuid:9231f594-5ccc-538d-a21d-3743e37a2c49'
+    link: 'https://pub.dartlang.org/packages/dart_dev'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
