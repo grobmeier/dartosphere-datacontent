@@ -83177,3 +83177,21 @@
     link: 'https://pub.dartlang.org/packages/rxdart'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: bokain_models
+    package_version: v0.0.149
+    title: 'v0.0.149 of bokain_models'
+    published: '2017-01-23T13:42:56+00:00'
+    id: 'urn:uuid:5a5460a2-0f9f-53b0-9320-54d2cf5adcef'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: isolate
+    package_version: v1.0.0
+    title: 'v1.0.0 of isolate'
+    published: '2017-01-23T13:36:21+00:00'
+    id: 'urn:uuid:578cbe67-ba89-5b41-bf4a-34739bf34816'
+    link: 'https://pub.dartlang.org/packages/isolate'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
