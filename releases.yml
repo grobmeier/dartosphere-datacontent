@@ -83236,3 +83236,12 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: dart_style
+    package_version: v0.2.15
+    title: 'v0.2.15 of dart_style'
+    published: '2017-01-23T21:47:43+00:00'
+    id: 'urn:uuid:c8ae0ff3-a882-562a-890f-177ee9d1e9a5'
+    link: 'https://pub.dartlang.org/packages/dart_style'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
