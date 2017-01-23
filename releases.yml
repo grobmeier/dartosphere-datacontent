@@ -83195,3 +83195,12 @@
     link: 'https://pub.dartlang.org/packages/isolate'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: firebase_dart
+    package_version: v0.5.5
+    title: 'v0.5.5 of firebase_dart'
+    published: '2017-01-23T14:48:59+00:00'
+    id: 'urn:uuid:46a1d047-51b2-543b-889b-5afc680c45c2'
+    link: 'https://pub.dartlang.org/packages/firebase_dart'
+    author:
+        - 'Rik Bellens <rik.bellens@appsup.be>'
