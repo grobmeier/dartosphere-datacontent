@@ -83159,3 +83159,12 @@
     link: 'https://pub.dartlang.org/packages/googleapis_beta'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: bokain_models
+    package_version: v0.0.146
+    title: 'v0.0.146 of bokain_models'
+    published: '2017-01-23T10:45:18+00:00'
+    id: 'urn:uuid:9da5a23d-25de-59f4-820e-2bb096f4970a'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
