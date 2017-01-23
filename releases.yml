@@ -83141,3 +83141,21 @@
     link: 'https://pub.dartlang.org/packages/icu_server'
     author:
         - 'Raiv Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: googleapis
+    package_version: v0.34.0
+    title: 'v0.34.0 of googleapis'
+    published: '2017-01-23T09:54:08+00:00'
+    id: 'urn:uuid:c86c0c34-e538-5309-9c6c-fed0dd702d2a'
+    link: 'https://pub.dartlang.org/packages/googleapis'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: googleapis_beta
+    package_version: v0.32.1
+    title: 'v0.32.1 of googleapis_beta'
+    published: '2017-01-23T09:54:07+00:00'
+    id: 'urn:uuid:57cc6abe-965c-512e-a3ef-7095a231e43b'
+    link: 'https://pub.dartlang.org/packages/googleapis_beta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
