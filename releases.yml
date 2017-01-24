@@ -83272,3 +83272,12 @@
     link: 'https://pub.dartlang.org/packages/heron'
     author:
         - 'Istvan Soos <istvan.soos@agilord.com>'
+-
+    package_name: firebase_dart
+    package_version: v0.5.7
+    title: 'v0.5.7 of firebase_dart'
+    published: '2017-01-24T15:22:26+00:00'
+    id: 'urn:uuid:e999c3cf-faf9-5a6f-a311-bee83eaebd42'
+    link: 'https://pub.dartlang.org/packages/firebase_dart'
+    author:
+        - 'Rik Bellens <rik.bellens@appsup.be>'
