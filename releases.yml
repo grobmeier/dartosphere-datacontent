@@ -83290,3 +83290,42 @@
     link: 'https://pub.dartlang.org/packages/over_react'
     author:
         - 'Workiva UI Platform Team <uip@workiva.com>'
+-
+    package_name: jaguar_cli
+    package_version: v0.0.20
+    title: 'v0.0.20 of jaguar_cli'
+    published: '2017-01-24T17:50:02+00:00'
+    id: 'urn:uuid:4fc6f3df-b893-5fc2-a2f6-f9122aa9d635'
+    link: 'https://pub.dartlang.org/packages/jaguar_cli'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_generator
+    package_version: v0.2.1
+    title: 'v0.2.1 of jaguar_generator'
+    published: '2017-01-24T17:44:29+00:00'
+    id: 'urn:uuid:cd80228d-2e2c-5f98-9e85-0a7ab830a096'
+    link: 'https://pub.dartlang.org/packages/jaguar_generator'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar
+    package_version: v0.2.6
+    title: 'v0.2.6 of jaguar'
+    published: '2017-01-24T17:39:09+00:00'
+    id: 'urn:uuid:5d8deb55-2212-5d8b-b295-4fcad3ff5d97'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: process
+    package_version: v1.0.1
+    title: 'v1.0.1 of process'
+    published: '2017-01-24T17:08:32+00:00'
+    id: 'urn:uuid:f05d9717-0b7c-578b-a0fc-dce46552ad4a'
+    link: 'https://pub.dartlang.org/packages/process'
+    author:
+        - 'Todd Volkert <tvolkert@google.com>'
