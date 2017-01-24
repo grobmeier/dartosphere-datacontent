@@ -83329,3 +83329,22 @@
     link: 'https://pub.dartlang.org/packages/process'
     author:
         - 'Todd Volkert <tvolkert@google.com>'
+-
+    package_name: jaguar_static_file
+    package_version: v0.2.1
+    title: 'v0.2.1 of jaguar_static_file'
+    published: '2017-01-24T18:29:39+00:00'
+    id: 'urn:uuid:01be09f9-9998-50fe-a4cd-f0fcb3b66931'
+    link: 'https://pub.dartlang.org/packages/jaguar_static_file'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: leveldb
+    package_version: v2.0.3
+    title: 'v2.0.3 of leveldb'
+    published: '2017-01-24T18:08:38+00:00'
+    id: 'urn:uuid:18d3c177-9ed1-5ef7-931a-144becabb4b0'
+    link: 'https://pub.dartlang.org/packages/leveldb'
+    author:
+        - 'Adam Lofts <adam.lofts@gmail.com>'
