@@ -83357,3 +83357,24 @@
     link: 'https://pub.dartlang.org/packages/async'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: byte_array
+    package_version: v0.0.1
+    title: 'v0.0.1 of byte_array'
+    published: '2017-01-24T22:47:24+00:00'
+    id: 'urn:uuid:3eca73e3-7da5-5aa4-adf4-076a38b501ae'
+    link: 'https://pub.dartlang.org/packages/byte_array'
+    author:
+        - 'Mark Nordine <marknordine@gmail.com>'
+-
+    package_name: transformer_utils
+    package_version: v0.1.2
+    title: 'v0.1.2 of transformer_utils'
+    published: '2017-01-24T22:46:58+00:00'
+    id: 'urn:uuid:ce7dfe21-0405-583e-a8ef-ce98d352eee6'
+    link: 'https://pub.dartlang.org/packages/transformer_utils'
+    author:
+        - 'Workiva UI Platform Team <uip@workiva.com>'
+        - 'Workiva Client Platform Team <cp@workiva.com>'
+        - 'Greg Littlefield <greg.littlefield@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
