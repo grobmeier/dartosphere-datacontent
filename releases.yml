@@ -83281,3 +83281,12 @@
     link: 'https://pub.dartlang.org/packages/firebase_dart'
     author:
         - 'Rik Bellens <rik.bellens@appsup.be>'
+-
+    package_name: over_react
+    package_version: v1.4.0
+    title: 'v1.4.0 of over_react'
+    published: '2017-01-24T16:49:41+00:00'
+    id: 'urn:uuid:af73f628-6f1b-5c4f-9a42-d1235e47ee2a'
+    link: 'https://pub.dartlang.org/packages/over_react'
+    author:
+        - 'Workiva UI Platform Team <uip@workiva.com>'
