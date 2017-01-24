@@ -83263,3 +83263,12 @@
     link: 'https://pub.dartlang.org/packages/access'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: heron
+    package_version: v0.1.0
+    title: 'v0.1.0 of heron'
+    published: '2017-01-24T08:35:46+00:00'
+    id: 'urn:uuid:179e5332-3c3f-50d0-a354-8ade6a228893'
+    link: 'https://pub.dartlang.org/packages/heron'
+    author:
+        - 'Istvan Soos <istvan.soos@agilord.com>'
