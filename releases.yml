@@ -83245,3 +83245,12 @@
     link: 'https://pub.dartlang.org/packages/dart_style'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: built_mirrors
+    package_version: v0.0.1
+    title: 'v0.0.1 of built_mirrors'
+    published: '2017-01-24T03:24:01+00:00'
+    id: 'urn:uuid:06464322-af6c-584c-9424-e3cb4a34e302'
+    link: 'https://pub.dartlang.org/packages/built_mirrors'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
