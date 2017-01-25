@@ -83446,3 +83446,39 @@
     link: 'https://pub.dartlang.org/packages/platform'
     author:
         - 'Todd Volkert <tvolkert@google.com>'
+-
+    package_name: angel_user_agent
+    package_version: v1.0.1
+    title: 'v1.0.1 of angel_user_agent'
+    published: '2017-01-25T22:51:27+00:00'
+    id: 'urn:uuid:0bbdf3bc-619e-5a43-9e97-2ca5155483bb'
+    link: 'https://pub.dartlang.org/packages/angel_user_agent'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_proxy
+    package_version: v1.0.0-dev+6
+    title: 'v1.0.0-dev+6 of angel_proxy'
+    published: '2017-01-25T22:43:40+00:00'
+    id: 'urn:uuid:0f419594-d408-5e24-8ed0-fa52e832aca0'
+    link: 'https://pub.dartlang.org/packages/angel_proxy'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_static
+    package_version: v1.1.1
+    title: 'v1.1.1 of angel_static'
+    published: '2017-01-25T22:40:54+00:00'
+    id: 'urn:uuid:78d12a09-b38e-50b9-942f-beda4440ab6b'
+    link: 'https://pub.dartlang.org/packages/angel_static'
+    author:
+        - 'thosakwe <thosakwe@gmail.com>'
+-
+    package_name: monkey_lang
+    package_version: v0.9.0
+    title: 'v0.9.0 of monkey_lang'
+    published: '2017-01-25T22:04:13+00:00'
+    id: 'urn:uuid:0abab3dc-3233-5484-8178-52441210d059'
+    link: 'https://pub.dartlang.org/packages/monkey_lang'
+    author:
+        - 'Marc Reichelt <mcreichelt@gmail.com>'
