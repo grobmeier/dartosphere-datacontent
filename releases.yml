@@ -83414,3 +83414,17 @@
     link: 'https://pub.dartlang.org/packages/byte_array'
     author:
         - 'Mark Nordine <marknordine@gmail.com>'
+-
+    package_name: dart_dev
+    package_version: v1.7.0
+    title: 'v1.7.0 of dart_dev'
+    published: '2017-01-25T18:53:08+00:00'
+    id: 'urn:uuid:a6713aaa-c792-5ed1-a417-cc7b2f234255'
+    link: 'https://pub.dartlang.org/packages/dart_dev'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
