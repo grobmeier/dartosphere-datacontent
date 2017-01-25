@@ -83396,3 +83396,12 @@
     link: 'https://pub.dartlang.org/packages/built_mirrors'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: live_charts
+    package_version: v0.0.1
+    title: 'v0.0.1 of live_charts'
+    published: '2017-01-25T13:35:13+00:00'
+    id: 'urn:uuid:8d6a238c-07df-50fb-b0d5-ddc7386f69f4'
+    link: 'https://pub.dartlang.org/packages/live_charts'
+    author:
+        - 'rinukkusu <rinukkusu@auen.land>'
