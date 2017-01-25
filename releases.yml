@@ -83378,3 +83378,12 @@
         - 'Workiva Client Platform Team <cp@workiva.com>'
         - 'Greg Littlefield <greg.littlefield@workiva.com>'
         - 'Evan Weible <evan.weible@workiva.com>'
+-
+    package_name: built_mirrors
+    package_version: v0.0.2
+    title: 'v0.0.2 of built_mirrors'
+    published: '2017-01-25T02:42:12+00:00'
+    id: 'urn:uuid:08d66f7c-4972-58f2-8496-4fcb4fd8d7a7'
+    link: 'https://pub.dartlang.org/packages/built_mirrors'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
