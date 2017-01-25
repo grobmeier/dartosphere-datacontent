@@ -83405,3 +83405,12 @@
     link: 'https://pub.dartlang.org/packages/live_charts'
     author:
         - 'rinukkusu <rinukkusu@auen.land>'
+-
+    package_name: byte_array
+    package_version: v0.0.2
+    title: 'v0.0.2 of byte_array'
+    published: '2017-01-25T14:20:32+00:00'
+    id: 'urn:uuid:106b57e7-7c77-5eb0-b6dc-990186085069'
+    link: 'https://pub.dartlang.org/packages/byte_array'
+    author:
+        - 'Mark Nordine <marknordine@gmail.com>'
