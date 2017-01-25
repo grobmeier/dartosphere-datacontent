@@ -83387,3 +83387,12 @@
     link: 'https://pub.dartlang.org/packages/built_mirrors'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: built_mirrors
+    package_version: v0.0.3
+    title: 'v0.0.3 of built_mirrors'
+    published: '2017-01-25T04:30:16+00:00'
+    id: 'urn:uuid:82768ac7-9ff2-53f8-b7f2-7e6218bdad4c'
+    link: 'https://pub.dartlang.org/packages/built_mirrors'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
