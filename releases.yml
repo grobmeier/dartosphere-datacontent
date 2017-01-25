@@ -83428,3 +83428,12 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: platform
+    package_version: v1.0.0
+    title: 'v1.0.0 of platform'
+    published: '2017-01-25T20:25:16+00:00'
+    id: 'urn:uuid:b672f1f1-55f3-5477-b2ed-287d11efa35c'
+    link: 'https://pub.dartlang.org/packages/platform'
+    author:
+        - 'Todd Volkert <tvolkert@google.com>'
