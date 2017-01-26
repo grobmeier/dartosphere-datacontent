@@ -83572,3 +83572,12 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: mdown
+    package_version: v0.12.0
+    title: 'v0.12.0 of mdown'
+    published: '2017-01-26T19:23:49+00:00'
+    id: 'urn:uuid:7c4d253a-b367-5310-b7e0-4cf08abba9ae'
+    link: 'https://pub.dartlang.org/packages/mdown'
+    author:
+        - 'Maxim Dikun <dikmax@gmail.com>'
