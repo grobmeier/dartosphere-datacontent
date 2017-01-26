@@ -83482,3 +83482,30 @@
     link: 'https://pub.dartlang.org/packages/monkey_lang'
     author:
         - 'Marc Reichelt <mcreichelt@gmail.com>'
+-
+    package_name: angel_validate
+    package_version: v1.0.0
+    title: 'v1.0.0 of angel_validate'
+    published: '2017-01-25T23:03:39+00:00'
+    id: 'urn:uuid:0d2a97ed-0637-5716-9534-7eb24717c7a2'
+    link: 'https://pub.dartlang.org/packages/angel_validate'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: stream_channel
+    package_version: v1.6.1
+    title: 'v1.6.1 of stream_channel'
+    published: '2017-01-25T23:02:22+00:00'
+    id: 'urn:uuid:f0c5f86f-b541-564d-97e3-65b16a991dac'
+    link: 'https://pub.dartlang.org/packages/stream_channel'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: monkey_lang
+    package_version: v0.9.1
+    title: 'v0.9.1 of monkey_lang'
+    published: '2017-01-25T23:01:18+00:00'
+    id: 'urn:uuid:4e9500d5-1c0f-53a8-a77f-d516fdb26478'
+    link: 'https://pub.dartlang.org/packages/monkey_lang'
+    author:
+        - 'Marc Reichelt <mcreichelt@gmail.com>'
