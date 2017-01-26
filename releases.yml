@@ -83554,3 +83554,12 @@
     link: 'https://pub.dartlang.org/packages/live_charts'
     author:
         - 'rinukkusu <rinukkusu@auen.land>'
+-
+    package_name: bokain_models
+    package_version: v0.0.150
+    title: 'v0.0.150 of bokain_models'
+    published: '2017-01-26T14:51:20+00:00'
+    id: 'urn:uuid:8d4bec80-3144-5cea-a517-fb6dcc2adb6c'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
