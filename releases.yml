@@ -83545,3 +83545,12 @@
     link: 'https://pub.dartlang.org/packages/cassowary'
     author:
         - 'Chromium Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: live_charts
+    package_version: v0.0.2
+    title: 'v0.0.2 of live_charts'
+    published: '2017-01-26T10:32:14+00:00'
+    id: 'urn:uuid:205dc0e2-001a-53a9-8e58-a2cbf5d40130'
+    link: 'https://pub.dartlang.org/packages/live_charts'
+    author:
+        - 'rinukkusu <rinukkusu@auen.land>'
