@@ -83563,3 +83563,12 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.0.151
+    title: 'v0.0.151 of bokain_models'
+    published: '2017-01-26T15:15:47+00:00'
+    id: 'urn:uuid:d78ea2b7-7a2e-5036-afbf-d3be5ad08d9a'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
