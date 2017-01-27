@@ -83623,3 +83623,12 @@
     link: 'https://pub.dartlang.org/packages/rxdart'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: heron
+    package_version: v0.1.1
+    title: 'v0.1.1 of heron'
+    published: '2017-01-27T09:09:32+00:00'
+    id: 'urn:uuid:d82d5093-c83b-5561-ae4c-ca8c376819b5'
+    link: 'https://pub.dartlang.org/packages/heron'
+    author:
+        - 'Istvan Soos <istvan.soos@agilord.com>'
