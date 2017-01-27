@@ -83632,3 +83632,12 @@
     link: 'https://pub.dartlang.org/packages/heron'
     author:
         - 'Istvan Soos <istvan.soos@agilord.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1166
+    title: 'v0.0.1166 of fo_components'
+    published: '2017-01-27T11:53:53+00:00'
+    id: 'urn:uuid:9ab9980f-0711-5d28-8662-3ac8b74e3075'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
