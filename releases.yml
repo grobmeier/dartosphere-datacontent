@@ -83595,3 +83595,13 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: jaguar_cors
+    package_version: v0.0.1
+    title: 'v0.0.1 of jaguar_cors'
+    published: '2017-01-27T00:26:44+00:00'
+    id: 'urn:uuid:1a8ed876-96c6-5292-b7a0-40296ae148cb'
+    link: 'https://pub.dartlang.org/packages/jaguar_cors'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
