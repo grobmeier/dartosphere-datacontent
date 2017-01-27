@@ -83742,3 +83742,12 @@
     link: 'https://pub.dartlang.org/packages/build'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dom
+    package_version: v0.1.0
+    title: 'v0.1.0 of dom'
+    published: '2017-01-27T22:18:59+00:00'
+    id: 'urn:uuid:6f649367-1df9-5414-8689-1f8a91df760a'
+    link: 'https://pub.dartlang.org/packages/dom'
+    author:
+        - 'Matan Lurey <matan@lurey.org>'
