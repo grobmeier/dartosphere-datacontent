@@ -83670,3 +83670,12 @@
     author:
         - 'Stéphane Este-Gracias <sestegra@gmail.com>'
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: code_transformers
+    package_version: v0.5.1
+    title: 'v0.5.1 of code_transformers'
+    published: '2017-01-27T18:57:18+00:00'
+    id: 'urn:uuid:eb897047-a2a0-5803-8b0c-466904922a7c'
+    link: 'https://pub.dartlang.org/packages/code_transformers'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
