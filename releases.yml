@@ -83679,3 +83679,21 @@
     link: 'https://pub.dartlang.org/packages/code_transformers'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dart_analysis_client
+    package_version: v0.0.2
+    title: 'v0.0.2 of dart_analysis_client'
+    published: '2017-01-27T19:52:34+00:00'
+    id: 'urn:uuid:550884a1-84c4-5088-91f5-92f3429d92f8'
+    link: 'https://pub.dartlang.org/packages/dart_analysis_client'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: hex
+    package_version: v0.1.1
+    title: 'v0.1.1 of hex'
+    published: '2017-01-27T19:03:30+00:00'
+    id: 'urn:uuid:4c78bd54-e76e-57e9-b6dd-d3fc6ceabbe1'
+    link: 'https://pub.dartlang.org/packages/hex'
+    author:
+        - 'Steven Roose <stevenroose@gmail.com>'
