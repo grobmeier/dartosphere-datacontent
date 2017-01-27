@@ -83614,3 +83614,12 @@
     link: 'https://pub.dartlang.org/packages/serializable'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: rxdart
+    package_version: v0.6.3+5
+    title: 'v0.6.3+5 of rxdart'
+    published: '2017-01-27T08:44:00+00:00'
+    id: 'urn:uuid:16a35e58-1430-55b1-9fff-2c1ac36d6442'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
