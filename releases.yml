@@ -83760,3 +83760,30 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: revolver
+    package_version: v1.0.1+1
+    title: 'v1.0.1+1 of revolver'
+    published: '2017-01-28T04:37:55+00:00'
+    id: 'urn:uuid:d147db82-dba4-541c-bf84-fdd45f373420'
+    link: 'https://pub.dartlang.org/packages/revolver'
+    author:
+        - 'Keith Elliott <keith.b.elliott@gmail.com>'
+-
+    package_name: recase
+    package_version: v1.0.0+1
+    title: 'v1.0.0+1 of recase'
+    published: '2017-01-28T04:36:30+00:00'
+    id: 'urn:uuid:c7384f2c-5511-5965-9365-5646a8020d7a'
+    link: 'https://pub.dartlang.org/packages/recase'
+    author:
+        - 'Keith Elliott <keith.b.elliott@gmail.com>'
+-
+    package_name: nero
+    package_version: v1.0.0-dev+6
+    title: 'v1.0.0-dev+6 of nero'
+    published: '2017-01-28T04:05:31+00:00'
+    id: 'urn:uuid:f162b3e6-8299-5701-a179-487d1ca7b74c'
+    link: 'https://pub.dartlang.org/packages/nero'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
