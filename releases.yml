@@ -83787,3 +83787,39 @@
     link: 'https://pub.dartlang.org/packages/nero'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: sdk
+    package_version: v0.1.0
+    title: 'v0.1.0 of sdk'
+    published: '2017-01-28T19:00:21+00:00'
+    id: 'urn:uuid:d553408f-55fd-5add-befc-3ae4dcfca573'
+    link: 'https://pub.dartlang.org/packages/sdk'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: dson
+    package_version: v0.4.0
+    title: 'v0.4.0 of dson'
+    published: '2017-01-28T19:00:17+00:00'
+    id: 'urn:uuid:07bec1e2-6725-595b-9c8b-93833aedf636'
+    link: 'https://pub.dartlang.org/packages/dson'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: serializable
+    package_version: v0.1.1
+    title: 'v0.1.1 of serializable'
+    published: '2017-01-28T18:21:13+00:00'
+    id: 'urn:uuid:705d8059-bad2-5f26-b9e8-22435ca05b0b'
+    link: 'https://pub.dartlang.org/packages/serializable'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: built_mirrors
+    package_version: v0.0.4
+    title: 'v0.0.4 of built_mirrors'
+    published: '2017-01-28T18:11:34+00:00'
+    id: 'urn:uuid:0fb94de4-1699-5310-a759-29a3adc7725b'
+    link: 'https://pub.dartlang.org/packages/built_mirrors'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
