@@ -83850,3 +83850,30 @@
     link: 'https://pub.dartlang.org/packages/angel_security'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_test
+    package_version: v1.0.0
+    title: 'v1.0.0 of angel_test'
+    published: '2017-01-28T21:41:01+00:00'
+    id: 'urn:uuid:248fe78a-f7f2-59e1-9bd4-c7b665196fb8'
+    link: 'https://pub.dartlang.org/packages/angel_test'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_websocket
+    package_version: v1.0.0-dev+7
+    title: 'v1.0.0-dev+7 of angel_websocket'
+    published: '2017-01-28T21:38:39+00:00'
+    id: 'urn:uuid:0408e60f-e832-521d-a129-f51f13880404'
+    link: 'https://pub.dartlang.org/packages/angel_websocket'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.52
+    title: 'v1.0.0-dev.52 of angel_framework'
+    published: '2017-01-28T21:25:16+00:00'
+    id: 'urn:uuid:1784cfc9-7ffe-5deb-bd74-771a8b6f35b4'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
