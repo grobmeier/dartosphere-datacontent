@@ -83940,3 +83940,21 @@
     link: 'https://pub.dartlang.org/packages/dartz'
     author:
         - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: angel_security
+    package_version: v0.0.6
+    title: 'v0.0.6 of angel_security'
+    published: '2017-01-29T20:21:59+00:00'
+    id: 'urn:uuid:fe249685-af70-5a25-a5f8-0d90e43778ea'
+    link: 'https://pub.dartlang.org/packages/angel_security'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_websocket
+    package_version: v1.0.0-dev+8
+    title: 'v1.0.0-dev+8 of angel_websocket'
+    published: '2017-01-29T20:02:27+00:00'
+    id: 'urn:uuid:6b18bf85-e11c-524f-baf9-f074a8aeb656'
+    link: 'https://pub.dartlang.org/packages/angel_websocket'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
