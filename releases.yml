@@ -83922,3 +83922,21 @@
     link: 'https://pub.dartlang.org/packages/icu_server'
     author:
         - 'Raiv Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.53
+    title: 'v1.0.0-dev.53 of angel_framework'
+    published: '2017-01-29T19:49:16+00:00'
+    id: 'urn:uuid:767b2624-4fa8-5172-8da2-8149dfbb1ee5'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: dartz
+    package_version: v0.5.2
+    title: 'v0.5.2 of dartz'
+    published: '2017-01-29T19:19:55+00:00'
+    id: 'urn:uuid:ababbff5-60ba-5589-bbfa-cd18b7333390'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
