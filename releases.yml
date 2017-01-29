@@ -83877,3 +83877,21 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: dom
+    package_version: v0.2.0
+    title: 'v0.2.0 of dom'
+    published: '2017-01-29T01:54:13+00:00'
+    id: 'urn:uuid:78fec06e-b282-5aa6-b6aa-502abc150ef1'
+    link: 'https://pub.dartlang.org/packages/dom'
+    author:
+        - 'Matan Lurey <matan@lurey.org>'
+-
+    package_name: build_test
+    package_version: v0.4.0+1
+    title: 'v0.4.0+1 of build_test'
+    published: '2017-01-29T01:24:30+00:00'
+    id: 'urn:uuid:0c8402ee-d490-503a-b4c4-e3aadce650ce'
+    link: 'https://pub.dartlang.org/packages/build_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
