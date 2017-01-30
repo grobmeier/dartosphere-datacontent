@@ -83967,3 +83967,21 @@
     link: 'https://pub.dartlang.org/packages/angel_seeder'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_relations
+    package_version: v1.0.0-alpha
+    title: 'v1.0.0-alpha of angel_relations'
+    published: '2017-01-30T02:39:05+00:00'
+    id: 'urn:uuid:19e8447e-691c-5dd5-97eb-b94a569cd433'
+    link: 'https://pub.dartlang.org/packages/angel_relations'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: md_example_inserter
+    package_version: v0.0.1
+    title: 'v0.0.1 of md_example_inserter'
+    published: '2017-01-30T02:23:36+00:00'
+    id: 'urn:uuid:093c9b71-a091-5ba5-af44-359ca8f3a40c'
+    link: 'https://pub.dartlang.org/packages/md_example_inserter'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
