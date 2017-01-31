@@ -84021,3 +84021,12 @@
     link: 'https://pub.dartlang.org/packages/build_runner'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angel_client
+    package_version: v1.0.0-dev+22
+    title: 'v1.0.0-dev+22 of angel_client'
+    published: '2017-01-31T04:01:09+00:00'
+    id: 'urn:uuid:d4f77981-24cf-5cec-a575-e1ba5a36fe0e'
+    link: 'https://pub.dartlang.org/packages/angel_client'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
