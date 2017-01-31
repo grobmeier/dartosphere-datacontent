@@ -84030,3 +84030,12 @@
     link: 'https://pub.dartlang.org/packages/angel_client'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: built_mirrors
+    package_version: v0.0.5
+    title: 'v0.0.5 of built_mirrors'
+    published: '2017-01-31T06:50:09+00:00'
+    id: 'urn:uuid:f80db837-e71e-59d2-9634-069409c90362'
+    link: 'https://pub.dartlang.org/packages/built_mirrors'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
