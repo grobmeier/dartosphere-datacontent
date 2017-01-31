@@ -84039,3 +84039,21 @@
     link: 'https://pub.dartlang.org/packages/built_mirrors'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: built_value_generator
+    package_version: v0.5.3
+    title: 'v0.5.3 of built_value_generator'
+    published: '2017-01-31T10:32:27+00:00'
+    id: 'urn:uuid:c0af1d0d-bafd-5f6c-965f-35b3850d5079'
+    link: 'https://pub.dartlang.org/packages/built_value_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value
+    package_version: v0.5.3
+    title: 'v0.5.3 of built_value'
+    published: '2017-01-31T10:32:07+00:00'
+    id: 'urn:uuid:587a94d7-0d48-5516-aee0-d6bb0d328ad3'
+    link: 'https://pub.dartlang.org/packages/built_value'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
