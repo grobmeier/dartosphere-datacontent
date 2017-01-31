@@ -84075,3 +84075,12 @@
     link: 'https://pub.dartlang.org/packages/validate'
     author:
         - 'Mike Mitterer  <office@mikemitterer.at>'
+-
+    package_name: srec_codec
+    package_version: v0.0.1
+    title: 'v0.0.1 of srec_codec'
+    published: '2017-01-31T15:20:48+00:00'
+    id: 'urn:uuid:7fcd07e2-d450-5aca-86e0-054b323a168e'
+    link: 'https://pub.dartlang.org/packages/srec_codec'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
