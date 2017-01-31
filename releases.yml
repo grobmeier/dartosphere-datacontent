@@ -84093,3 +84093,12 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: emoticons
+    package_version: v0.1.0
+    title: 'v0.1.0 of emoticons'
+    published: '2017-01-31T21:42:49+00:00'
+    id: 'urn:uuid:7c3fb36e-621e-58d6-b0bd-e92c12e2a2da'
+    link: 'https://pub.dartlang.org/packages/emoticons'
+    author:
+        - 'Muhammed Ali Sit <sitmuhammedali@gmail.com>'
