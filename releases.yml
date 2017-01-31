@@ -84066,3 +84066,12 @@
     link: 'https://pub.dartlang.org/packages/rxdart'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: validate
+    package_version: v1.5.4
+    title: 'v1.5.4 of validate'
+    published: '2017-01-31T14:02:56+00:00'
+    id: 'urn:uuid:8618f3cc-9cf8-579d-9b69-6569f1e0f14e'
+    link: 'https://pub.dartlang.org/packages/validate'
+    author:
+        - 'Mike Mitterer  <office@mikemitterer.at>'
