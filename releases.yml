@@ -84147,3 +84147,12 @@
     link: 'https://pub.dartlang.org/packages/built_mirrors'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: dson
+    package_version: v0.4.1
+    title: 'v0.4.1 of dson'
+    published: '2017-02-01T07:52:17+00:00'
+    id: 'urn:uuid:1ee0966a-1e40-53f9-a21a-96494666b7b6'
+    link: 'https://pub.dartlang.org/packages/dson'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
