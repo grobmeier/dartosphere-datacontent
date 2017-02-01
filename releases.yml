@@ -84138,3 +84138,12 @@
     link: 'https://pub.dartlang.org/packages/serializable'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: built_mirrors
+    package_version: v0.0.8
+    title: 'v0.0.8 of built_mirrors'
+    published: '2017-02-01T06:04:45+00:00'
+    id: 'urn:uuid:e296ffd6-9192-5826-b6e3-788d401bed0e'
+    link: 'https://pub.dartlang.org/packages/built_mirrors'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
