@@ -84111,3 +84111,12 @@
     link: 'https://pub.dartlang.org/packages/angel_common'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: built_mirrors
+    package_version: v0.0.6
+    title: 'v0.0.6 of built_mirrors'
+    published: '2017-02-01T04:14:50+00:00'
+    id: 'urn:uuid:fda75c54-e6ba-5af5-821c-d0c412ef0442'
+    link: 'https://pub.dartlang.org/packages/built_mirrors'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
