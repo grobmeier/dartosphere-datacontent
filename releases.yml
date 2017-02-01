@@ -84174,3 +84174,30 @@
     link: 'https://pub.dartlang.org/packages/resource'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: fo_components
+    package_version: v0.0.1168
+    title: 'v0.0.1168 of fo_components'
+    published: '2017-02-01T15:38:47+00:00'
+    id: 'urn:uuid:bce2456d-90db-5938-951f-4119d4e3d3a6'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: rxdart
+    package_version: v0.7.1+1
+    title: 'v0.7.1+1 of rxdart'
+    published: '2017-02-01T15:33:18+00:00'
+    id: 'urn:uuid:bb697dc3-2e2a-5560-8103-f9f4d212cc56'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: bokain_models
+    package_version: v0.0.152
+    title: 'v0.0.152 of bokain_models'
+    published: '2017-02-01T15:08:30+00:00'
+    id: 'urn:uuid:55874661-572c-5140-ac89-de466fdb1a82'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
