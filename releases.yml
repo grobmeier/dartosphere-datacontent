@@ -84237,3 +84237,21 @@
     link: 'https://pub.dartlang.org/packages/openid_client'
     author:
         - 'Rik Bellens <rik.bellens@appsup.be>'
+-
+    package_name: angel_cli
+    package_version: v1.0.0-dev+19
+    title: 'v1.0.0-dev+19 of angel_cli'
+    published: '2017-02-01T22:56:36+00:00'
+    id: 'urn:uuid:2b63c54f-aa90-542f-b64c-df30efac7ad0'
+    link: 'https://pub.dartlang.org/packages/angel_cli'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: doksan
+    package_version: v0.0.2
+    title: 'v0.0.2 of doksan'
+    published: '2017-02-01T22:46:14+00:00'
+    id: 'urn:uuid:ae859ae0-5c7b-5a88-a7e2-e3b9c1ea1957'
+    link: 'https://pub.dartlang.org/packages/doksan'
+    author:
+        - 'Muhammed Ali Sit <sitmuhammedali@gmail.com>'
