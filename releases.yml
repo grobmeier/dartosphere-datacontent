@@ -84102,3 +84102,12 @@
     link: 'https://pub.dartlang.org/packages/emoticons'
     author:
         - 'Muhammed Ali Sit <sitmuhammedali@gmail.com>'
+-
+    package_name: angel_common
+    package_version: v1.0.0-beta
+    title: 'v1.0.0-beta of angel_common'
+    published: '2017-02-01T02:39:45+00:00'
+    id: 'urn:uuid:48659375-61de-57b1-8449-b01a8ff257cc'
+    link: 'https://pub.dartlang.org/packages/angel_common'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
