@@ -84165,3 +84165,12 @@
     link: 'https://pub.dartlang.org/packages/pbsm'
     author:
         - 'sh4869 <nobuk4869@gmail.com>'
+-
+    package_name: resource
+    package_version: v2.1.1
+    title: 'v2.1.1 of resource'
+    published: '2017-02-01T12:47:09+00:00'
+    id: 'urn:uuid:fe034c7e-6acc-5eb9-a99c-76febbfa87be'
+    link: 'https://pub.dartlang.org/packages/resource'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
