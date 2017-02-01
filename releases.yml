@@ -84219,3 +84219,21 @@
     link: 'https://pub.dartlang.org/packages/openid_client'
     author:
         - 'Rik Bellens <rik.bellens@appsup.be>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.54
+    title: 'v1.0.0-dev.54 of angel_framework'
+    published: '2017-02-01T21:43:56+00:00'
+    id: 'urn:uuid:ee762b63-fed8-520f-b6ae-ce70da5b64ff'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: openid_client
+    package_version: v0.1.1
+    title: 'v0.1.1 of openid_client'
+    published: '2017-02-01T21:18:42+00:00'
+    id: 'urn:uuid:76f33a6b-7030-5e78-995c-c59259a2501b'
+    link: 'https://pub.dartlang.org/packages/openid_client'
+    author:
+        - 'Rik Bellens <rik.bellens@appsup.be>'
