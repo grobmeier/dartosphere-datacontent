@@ -84120,3 +84120,21 @@
     link: 'https://pub.dartlang.org/packages/built_mirrors'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: built_mirrors
+    package_version: v0.0.7
+    title: 'v0.0.7 of built_mirrors'
+    published: '2017-02-01T05:32:23+00:00'
+    id: 'urn:uuid:3a75dc97-da12-5618-a7e8-55f725ca3b96'
+    link: 'https://pub.dartlang.org/packages/built_mirrors'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: serializable
+    package_version: v0.1.2
+    title: 'v0.1.2 of serializable'
+    published: '2017-02-01T05:02:01+00:00'
+    id: 'urn:uuid:936579d1-6323-541d-917c-e7168c8e8c2b'
+    link: 'https://pub.dartlang.org/packages/serializable'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
