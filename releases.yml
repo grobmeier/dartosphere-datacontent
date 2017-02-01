@@ -84210,3 +84210,12 @@
     link: 'https://pub.dartlang.org/packages/analyzer'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: openid_client
+    package_version: v0.1.0
+    title: 'v0.1.0 of openid_client'
+    published: '2017-02-01T20:38:41+00:00'
+    id: 'urn:uuid:9297c8ed-9b90-5f18-8a6b-ba47c9c0be35'
+    link: 'https://pub.dartlang.org/packages/openid_client'
+    author:
+        - 'Rik Bellens <rik.bellens@appsup.be>'
