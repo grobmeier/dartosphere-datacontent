@@ -84156,3 +84156,12 @@
     link: 'https://pub.dartlang.org/packages/dson'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: pbsm
+    package_version: v0.1.5
+    title: 'v0.1.5 of pbsm'
+    published: '2017-02-01T08:22:29+00:00'
+    id: 'urn:uuid:3d3247c4-1ebe-5220-9f2c-09dbb88d1582'
+    link: 'https://pub.dartlang.org/packages/pbsm'
+    author:
+        - 'sh4869 <nobuk4869@gmail.com>'
