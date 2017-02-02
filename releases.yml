@@ -84318,3 +84318,12 @@
     link: 'https://pub.dartlang.org/packages/rxdart'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1176
+    title: 'v0.0.1176 of fo_components'
+    published: '2017-02-02T10:35:57+00:00'
+    id: 'urn:uuid:ca61c16a-a0b4-5b37-a56e-69af5c355c99'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
