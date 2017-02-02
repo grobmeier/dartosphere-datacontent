@@ -84255,3 +84255,30 @@
     link: 'https://pub.dartlang.org/packages/doksan'
     author:
         - 'Muhammed Ali Sit <sitmuhammedali@gmail.com>'
+-
+    package_name: angel_security
+    package_version: v0.0.7
+    title: 'v0.0.7 of angel_security'
+    published: '2017-02-01T23:38:31+00:00'
+    id: 'urn:uuid:978df37d-d4e3-5c6b-946d-050932dfbf63'
+    link: 'https://pub.dartlang.org/packages/angel_security'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_cli
+    package_version: v1.0.0-dev+20
+    title: 'v1.0.0-dev+20 of angel_cli'
+    published: '2017-02-01T23:34:28+00:00'
+    id: 'urn:uuid:3a15aae2-fcb3-581a-80c8-79919a0ec9d0'
+    link: 'https://pub.dartlang.org/packages/angel_cli'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: doksan
+    package_version: v0.0.3
+    title: 'v0.0.3 of doksan'
+    published: '2017-02-01T23:03:19+00:00'
+    id: 'urn:uuid:ea6d2cb0-c05a-5a8c-951e-65bebe95fcef'
+    link: 'https://pub.dartlang.org/packages/doksan'
+    author:
+        - 'Muhammed Ali Sit <sitmuhammedali@gmail.com>'
