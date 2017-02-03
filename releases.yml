@@ -84429,3 +84429,21 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: haystack
+    package_version: v0.4.20
+    title: 'v0.4.20 of haystack'
+    published: '2017-02-03T13:01:03+00:00'
+    id: 'urn:uuid:0b9adac1-ef12-56ae-8ba1-f4838eaa4aad'
+    link: 'https://pub.dartlang.org/packages/haystack'
+    author:
+        - 'Dmitriy Vasilyev <dmitry@bassg.com>'
+-
+    package_name: bokain_models
+    package_version: v0.1.5
+    title: 'v0.1.5 of bokain_models'
+    published: '2017-02-03T12:13:18+00:00'
+    id: 'urn:uuid:080e1788-3e42-5351-8d04-de4904de6d8a'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
