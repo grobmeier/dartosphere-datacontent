@@ -84465,3 +84465,12 @@
     link: 'https://pub.dartlang.org/packages/doksan'
     author:
         - 'Muhammed Ali Sit <sitmuhammedali@gmail.com>'
+-
+    package_name: stagexl
+    package_version: v1.1.0
+    title: 'v1.1.0 of stagexl'
+    published: '2017-02-03T19:50:38+00:00'
+    id: 'urn:uuid:34895de9-b048-5d60-9613-7ea908078766'
+    link: 'https://pub.dartlang.org/packages/stagexl'
+    author:
+        - 'Bernhard Pichler <support@stagexl.org>'
