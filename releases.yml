@@ -84392,3 +84392,12 @@
     link: 'https://pub.dartlang.org/packages/dart2js_info'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: bokain_models
+    package_version: v0.0.155
+    title: 'v0.0.155 of bokain_models'
+    published: '2017-02-03T08:44:24+00:00'
+    id: 'urn:uuid:a1f37233-df05-5a81-b752-2835ed5d4ee1'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
