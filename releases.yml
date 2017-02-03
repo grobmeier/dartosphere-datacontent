@@ -84447,3 +84447,21 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: emoticons
+    package_version: v0.1.1
+    title: 'v0.1.1 of emoticons'
+    published: '2017-02-03T18:08:26+00:00'
+    id: 'urn:uuid:801fd236-0ed4-5b77-b9db-d4197df62331'
+    link: 'https://pub.dartlang.org/packages/emoticons'
+    author:
+        - 'Muhammed Ali Sit <sitmuhammedali@gmail.com>'
+-
+    package_name: doksan
+    package_version: v0.0.5
+    title: 'v0.0.5 of doksan'
+    published: '2017-02-03T18:01:38+00:00'
+    id: 'urn:uuid:0dfe9ce9-086d-596d-badc-0966749648f0'
+    link: 'https://pub.dartlang.org/packages/doksan'
+    author:
+        - 'Muhammed Ali Sit <sitmuhammedali@gmail.com>'
