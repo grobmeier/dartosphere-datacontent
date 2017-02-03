@@ -84383,3 +84383,12 @@
     link: 'https://pub.dartlang.org/packages/doksan'
     author:
         - 'Muhammed Ali Sit <sitmuhammedali@gmail.com>'
+-
+    package_name: dart2js_info
+    package_version: v0.5.3
+    title: 'v0.5.3 of dart2js_info'
+    published: '2017-02-03T01:04:55+00:00'
+    id: 'urn:uuid:72ca8a1f-9fd1-5063-af64-700ec33ae017'
+    link: 'https://pub.dartlang.org/packages/dart2js_info'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
