@@ -84401,3 +84401,12 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.1.1
+    title: 'v0.1.1 of bokain_models'
+    published: '2017-02-03T09:46:34+00:00'
+    id: 'urn:uuid:a21bbb02-40b3-517e-8a59-46c2df9dfb4b'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
