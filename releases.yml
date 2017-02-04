@@ -84539,3 +84539,13 @@
     link: 'https://pub.dartlang.org/packages/dazel'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: jaguar
+    package_version: v0.2.7
+    title: 'v0.2.7 of jaguar'
+    published: '2017-02-04T09:43:32+00:00'
+    id: 'urn:uuid:3d6a7d33-6133-5b07-9898-ead041425054'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
