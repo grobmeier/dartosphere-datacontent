@@ -84549,3 +84549,13 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_generator
+    package_version: v0.2.3
+    title: 'v0.2.3 of jaguar_generator'
+    published: '2017-02-04T21:53:13+00:00'
+    id: 'urn:uuid:f11693c9-4ed4-56f3-a748-55c62ad006fd'
+    link: 'https://pub.dartlang.org/packages/jaguar_generator'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
