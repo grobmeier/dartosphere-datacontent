@@ -84627,3 +84627,12 @@
     link: 'https://pub.dartlang.org/packages/specify'
     author:
         - 'George D. Cooksey, III <texdc3@gmail.com>'
+-
+    package_name: bootstrapped
+    package_version: v0.1.0
+    title: 'v0.1.0 of bootstrapped'
+    published: '2017-02-05T06:27:45+00:00'
+    id: 'urn:uuid:f1c7e001-d14a-506f-8bc0-962fdf8a215b'
+    link: 'https://pub.dartlang.org/packages/bootstrapped'
+    author:
+        - 'Benjamin Campbell <i@benjic.me>'
