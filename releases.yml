@@ -84645,3 +84645,12 @@
     link: 'https://pub.dartlang.org/packages/bwu_datagrid'
     author:
         - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+-
+    package_name: json_compressor
+    package_version: v1.0.0
+    title: 'v1.0.0 of json_compressor'
+    published: '2017-02-05T16:16:10+00:00'
+    id: 'urn:uuid:5f8361f0-9403-58eb-8661-8bd5a26754fb'
+    link: 'https://pub.dartlang.org/packages/json_compressor'
+    author:
+        - 'Stephan Schröder <simon.void+github@gmail.com>'
