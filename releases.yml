@@ -84636,3 +84636,12 @@
     link: 'https://pub.dartlang.org/packages/bootstrapped'
     author:
         - 'Benjamin Campbell <i@benjic.me>'
+-
+    package_name: bwu_datagrid
+    package_version: v0.0.26
+    title: 'v0.0.26 of bwu_datagrid'
+    published: '2017-02-05T14:36:07+00:00'
+    id: 'urn:uuid:456b4aef-0ad6-57cd-a959-509ef62c7dd8'
+    link: 'https://pub.dartlang.org/packages/bwu_datagrid'
+    author:
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
