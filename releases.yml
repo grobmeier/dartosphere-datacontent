@@ -84579,3 +84579,22 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_reflect
+    package_version: v0.0.8
+    title: 'v0.0.8 of jaguar_reflect'
+    published: '2017-02-04T23:55:54+00:00'
+    id: 'urn:uuid:a2c518b8-1dd8-581d-a3f4-fb463536030a'
+    link: 'https://pub.dartlang.org/packages/jaguar_reflect'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: doksan
+    package_version: v0.0.6
+    title: 'v0.0.6 of doksan'
+    published: '2017-02-04T23:08:58+00:00'
+    id: 'urn:uuid:2ab69c3a-63e2-5486-bb3a-ff4c414529bb'
+    link: 'https://pub.dartlang.org/packages/doksan'
+    author:
+        - 'Muhammed Ali Sit <sitmuhammedali@gmail.com>'
