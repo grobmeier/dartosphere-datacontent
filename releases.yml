@@ -84995,3 +84995,12 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: rxdart
+    package_version: v0.8.2
+    title: 'v0.8.2 of rxdart'
+    published: '2017-02-06T16:17:01+00:00'
+    id: 'urn:uuid:2b1d9ac1-c49c-5668-a144-cca05ab01490'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
