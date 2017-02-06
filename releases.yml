@@ -84731,3 +84731,22 @@
     link: 'https://pub.dartlang.org/packages/monkey2dart'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: jaguar_facebook_client
+    package_version: v0.0.3
+    title: 'v0.0.3 of jaguar_facebook_client'
+    published: '2017-02-05T23:47:29+00:00'
+    id: 'urn:uuid:86880f6a-6767-52e2-80b3-81b8a7165af0'
+    link: 'https://pub.dartlang.org/packages/jaguar_facebook_client'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: monkey2dart
+    package_version: v1.0.0-alpha+1
+    title: 'v1.0.0-alpha+1 of monkey2dart'
+    published: '2017-02-05T23:05:29+00:00'
+    id: 'urn:uuid:7d9f4d3e-a50f-5ca8-bed0-6cf440a62c78'
+    link: 'https://pub.dartlang.org/packages/monkey2dart'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
