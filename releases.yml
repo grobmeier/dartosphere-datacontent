@@ -84908,3 +84908,21 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.1.6
+    title: 'v0.1.6 of bokain_models'
+    published: '2017-02-06T11:51:58+00:00'
+    id: 'urn:uuid:532ee59d-e842-57e4-b4b2-5ab4552a89d0'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: resource
+    package_version: v2.1.2
+    title: 'v2.1.2 of resource'
+    published: '2017-02-06T11:35:40+00:00'
+    id: 'urn:uuid:ac783fff-4f09-523c-b207-e7eeca17a518'
+    link: 'https://pub.dartlang.org/packages/resource'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
