@@ -85063,3 +85063,12 @@
     link: 'https://pub.dartlang.org/packages/usage'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: vector_math
+    package_version: v2.0.4
+    title: 'v2.0.4 of vector_math'
+    published: '2017-02-06T22:06:37+00:00'
+    id: 'urn:uuid:f646c926-7ad9-55a7-9862-54fccd050962'
+    link: 'https://pub.dartlang.org/packages/vector_math'
+    author:
+        - 'John McCutchan <john@johnmccutchan.com>'
