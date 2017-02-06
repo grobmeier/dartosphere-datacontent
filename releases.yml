@@ -84954,3 +84954,21 @@
     link: 'https://pub.dartlang.org/packages/openid_client'
     author:
         - 'Rik Bellens <rik.bellens@appsup.be>'
+-
+    package_name: bokain_models
+    package_version: v0.1.14
+    title: 'v0.1.14 of bokain_models'
+    published: '2017-02-06T13:39:06+00:00'
+    id: 'urn:uuid:d2536ad6-94fb-5f39-b46b-7daec56c3bb4'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: mdl
+    package_version: v1.18.3
+    title: 'v1.18.3 of mdl'
+    published: '2017-02-06T13:08:44+00:00'
+    id: 'urn:uuid:4c4c9a5c-2c0d-564d-89f1-3b7bf0b48655'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
