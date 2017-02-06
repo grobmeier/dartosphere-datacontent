@@ -84750,3 +84750,23 @@
     link: 'https://pub.dartlang.org/packages/monkey2dart'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: jaguar_facebook_client
+    package_version: v0.0.4
+    title: 'v0.0.4 of jaguar_facebook_client'
+    published: '2017-02-06T00:45:09+00:00'
+    id: 'urn:uuid:50604abf-ff21-5b0d-9f22-413ba429ea3a'
+    link: 'https://pub.dartlang.org/packages/jaguar_facebook_client'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: arm7_tdmi
+    package_version: v0.0.1-dev
+    title: 'v0.0.1-dev of arm7_tdmi'
+    published: '2017-02-06T00:26:20+00:00'
+    id: 'urn:uuid:237f0190-67f0-55c0-9c39-3d88dc3ba328'
+    link: 'https://pub.dartlang.org/packages/arm7_tdmi'
+    author:
+        - 'Matan Lurey <matan@lurey.org>'
+        - 'Kendal Harland <kendaljharland@gmail.com>'
