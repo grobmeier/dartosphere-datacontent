@@ -85045,3 +85045,21 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: archive
+    package_version: v1.0.28
+    title: 'v1.0.28 of archive'
+    published: '2017-02-06T19:40:45+00:00'
+    id: 'urn:uuid:c2d0c188-bee9-59cd-87f7-c59ce9a4ea27'
+    link: 'https://pub.dartlang.org/packages/archive'
+    author:
+        - 'Brendan Duncan <brendanduncan@gmail.com>'
+-
+    package_name: usage
+    package_version: v3.0.0
+    title: 'v3.0.0 of usage'
+    published: '2017-02-06T19:25:07+00:00'
+    id: 'urn:uuid:f9dba39f-b34b-501f-9573-8f958db6f09a'
+    link: 'https://pub.dartlang.org/packages/usage'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
