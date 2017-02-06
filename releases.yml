@@ -84972,3 +84972,26 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: w_transport
+    package_version: v3.0.2
+    title: 'v3.0.2 of w_transport'
+    published: '2017-02-06T15:31:23+00:00'
+    id: 'urn:uuid:f13b7565-d7f8-5638-9834-4a5ef4493aed'
+    link: 'https://pub.dartlang.org/packages/w_transport'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: bokain_models
+    package_version: v0.1.15
+    title: 'v0.1.15 of bokain_models'
+    published: '2017-02-06T15:04:05+00:00'
+    id: 'urn:uuid:b0b72521-d63f-5711-8422-62894c8d47f3'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
