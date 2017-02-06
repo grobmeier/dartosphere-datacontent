@@ -84770,3 +84770,12 @@
     author:
         - 'Matan Lurey <matan@lurey.org>'
         - 'Kendal Harland <kendaljharland@gmail.com>'
+-
+    package_name: monkey_lang
+    package_version: v0.9.5
+    title: 'v0.9.5 of monkey_lang'
+    published: '2017-02-06T08:13:43+00:00'
+    id: 'urn:uuid:2f37d3bb-1dd7-5874-a699-b3e20ccae9b9'
+    link: 'https://pub.dartlang.org/packages/monkey_lang'
+    author:
+        - 'Marc Reichelt <mcreichelt@gmail.com>'
