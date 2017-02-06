@@ -85031,3 +85031,17 @@
     link: 'https://pub.dartlang.org/packages/isolate_cluster'
     author:
         - 'Oliver Damm <oliver.damm@gmx.de>'
+-
+    package_name: dart_dev
+    package_version: v1.7.1
+    title: 'v1.7.1 of dart_dev'
+    published: '2017-02-06T18:50:00+00:00'
+    id: 'urn:uuid:747e3ca6-a753-5131-94ff-7b35f32dfdc1'
+    link: 'https://pub.dartlang.org/packages/dart_dev'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
