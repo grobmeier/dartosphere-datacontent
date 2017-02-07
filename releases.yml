@@ -85150,3 +85150,12 @@
     link: 'https://pub.dartlang.org/packages/simple_preprocessor'
     author:
         - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: angular_test
+    package_version: v1.0.0-alpha+5
+    title: 'v1.0.0-alpha+5 of angular_test'
+    published: '2017-02-07T22:37:41+00:00'
+    id: 'urn:uuid:a5e945e2-12db-5255-ae27-1a8f394f6565'
+    link: 'https://pub.dartlang.org/packages/angular_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
