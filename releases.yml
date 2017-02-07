@@ -85141,3 +85141,12 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: simple_preprocessor
+    package_version: v0.0.3
+    title: 'v0.0.3 of simple_preprocessor'
+    published: '2017-02-07T20:32:25+00:00'
+    id: 'urn:uuid:57f824a1-fb20-5bf5-977f-9e9bdfc5e8de'
+    link: 'https://pub.dartlang.org/packages/simple_preprocessor'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
