@@ -85091,3 +85091,13 @@
     author:
         - 'Matan Lurey <matan@lurey.org>'
         - 'Kendal Harland <kendaljharland@gmail.com>'
+-
+    package_name: jaguar
+    package_version: v0.3.1
+    title: 'v0.3.1 of jaguar'
+    published: '2017-02-07T06:58:38+00:00'
+    id: 'urn:uuid:02cea83e-0c24-57e3-bd0f-547d4f1859fd'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
