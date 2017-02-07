@@ -85131,3 +85131,13 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_dev_proxy
+    package_version: v0.0.2
+    title: 'v0.0.2 of jaguar_dev_proxy'
+    published: '2017-02-07T15:25:28+00:00'
+    id: 'urn:uuid:44e44d85-2455-530d-a4d2-fc6b29103dbb'
+    link: 'https://pub.dartlang.org/packages/jaguar_dev_proxy'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
