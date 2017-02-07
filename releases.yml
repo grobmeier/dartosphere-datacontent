@@ -85081,3 +85081,13 @@
     link: 'https://pub.dartlang.org/packages/async'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: binary
+    package_version: v0.0.0
+    title: 'v0.0.0 of binary'
+    published: '2017-02-07T04:54:19+00:00'
+    id: 'urn:uuid:082b0450-3f51-5098-af84-da33a5d5f2c2'
+    link: 'https://pub.dartlang.org/packages/binary'
+    author:
+        - 'Matan Lurey <matan@lurey.org>'
+        - 'Kendal Harland <kendaljharland@gmail.com>'
