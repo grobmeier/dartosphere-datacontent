@@ -85072,3 +85072,12 @@
     link: 'https://pub.dartlang.org/packages/vector_math'
     author:
         - 'John McCutchan <john@johnmccutchan.com>'
+-
+    package_name: async
+    package_version: v1.13.0
+    title: 'v1.13.0 of async'
+    published: '2017-02-06T23:40:52+00:00'
+    id: 'urn:uuid:749acfa4-290a-57e8-9f84-8b6c168df449'
+    link: 'https://pub.dartlang.org/packages/async'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
