@@ -85251,3 +85251,12 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: assortment
+    package_version: v0.1.4
+    title: 'v0.1.4 of assortment'
+    published: '2017-02-08T21:39:32+00:00'
+    id: 'urn:uuid:250eb1ce-6ae0-5ec6-990b-87f142328aa7'
+    link: 'https://pub.dartlang.org/packages/assortment'
+    author:
+        - 'Christopher Best <bestchris@gmail.com>'
