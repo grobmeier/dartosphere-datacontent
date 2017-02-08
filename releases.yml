@@ -85214,3 +85214,12 @@
     author:
         - 'Matan Lurey <matan@lurey.org>'
         - 'Kendal Harland <kendaljharland@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.1.16
+    title: 'v0.1.16 of bokain_models'
+    published: '2017-02-08T08:28:57+00:00'
+    id: 'urn:uuid:1fb3381c-f018-51d7-8a3a-b9b26da8970b'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
