@@ -85195,3 +85195,12 @@
     link: 'https://pub.dartlang.org/packages/startr'
     author:
         - 'Damon Douglas <douglas.damon@gmail.com>'
+-
+    package_name: startr
+    package_version: v0.2.3
+    title: 'v0.2.3 of startr'
+    published: '2017-02-08T02:39:28+00:00'
+    id: 'urn:uuid:611f4487-fb4a-5885-b8e9-c568e8635c62'
+    link: 'https://pub.dartlang.org/packages/startr'
+    author:
+        - 'Damon Douglas <douglas.damon@gmail.com>'
