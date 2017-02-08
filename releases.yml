@@ -85260,3 +85260,12 @@
     link: 'https://pub.dartlang.org/packages/assortment'
     author:
         - 'Christopher Best <bestchris@gmail.com>'
+-
+    package_name: ng2_modular_admin
+    package_version: v0.0.2
+    title: 'v0.0.2 of ng2_modular_admin'
+    published: '2017-02-08T22:07:59+00:00'
+    id: 'urn:uuid:240590db-130b-5b38-8f54-a09d0adfb785'
+    link: 'https://pub.dartlang.org/packages/ng2_modular_admin'
+    author:
+        - 'Mark E. Haase <mehaase@gmail.com>'
