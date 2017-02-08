@@ -85204,3 +85204,13 @@
     link: 'https://pub.dartlang.org/packages/startr'
     author:
         - 'Damon Douglas <douglas.damon@gmail.com>'
+-
+    package_name: binary
+    package_version: v0.0.1
+    title: 'v0.0.1 of binary'
+    published: '2017-02-08T04:49:48+00:00'
+    id: 'urn:uuid:c891e0b5-ecfd-5206-b2d7-2f8e3d80a644'
+    link: 'https://pub.dartlang.org/packages/binary'
+    author:
+        - 'Matan Lurey <matan@lurey.org>'
+        - 'Kendal Harland <kendaljharland@gmail.com>'
