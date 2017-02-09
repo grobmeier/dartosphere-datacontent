@@ -85279,3 +85279,13 @@
     author:
         - 'Matan Lurey <matan@lurey.org>'
         - 'Kendal Harland <kendaljharland@gmail.com>'
+-
+    package_name: jaguar_reflect
+    package_version: v0.3.1
+    title: 'v0.3.1 of jaguar_reflect'
+    published: '2017-02-09T10:36:06+00:00'
+    id: 'urn:uuid:7d3e9601-c9c7-5212-b71d-42cb9074a714'
+    link: 'https://pub.dartlang.org/packages/jaguar_reflect'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
