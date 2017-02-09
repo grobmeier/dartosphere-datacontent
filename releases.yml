@@ -85309,3 +85309,22 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: binary
+    package_version: v0.0.3
+    title: 'v0.0.3 of binary'
+    published: '2017-02-09T15:50:47+00:00'
+    id: 'urn:uuid:eb0f077e-bd74-5556-b2a6-900a0e155c17'
+    link: 'https://pub.dartlang.org/packages/binary'
+    author:
+        - 'Matan Lurey <matan@lurey.org>'
+        - 'Kendal Harland <kendaljharland@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.1.18
+    title: 'v0.1.18 of bokain_models'
+    published: '2017-02-09T15:05:41+00:00'
+    id: 'urn:uuid:4785cf5e-29ac-51ae-8d76-ee79e1af59f9'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
