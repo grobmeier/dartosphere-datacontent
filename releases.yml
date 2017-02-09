@@ -85269,3 +85269,13 @@
     link: 'https://pub.dartlang.org/packages/ng2_modular_admin'
     author:
         - 'Mark E. Haase <mehaase@gmail.com>'
+-
+    package_name: binary
+    package_version: v0.0.2
+    title: 'v0.0.2 of binary'
+    published: '2017-02-09T04:31:08+00:00'
+    id: 'urn:uuid:53e8c219-7728-5c4e-ba70-6b71b81a028b'
+    link: 'https://pub.dartlang.org/packages/binary'
+    author:
+        - 'Matan Lurey <matan@lurey.org>'
+        - 'Kendal Harland <kendaljharland@gmail.com>'
