@@ -85299,3 +85299,13 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_reflect
+    package_version: v0.3.4
+    title: 'v0.3.4 of jaguar_reflect'
+    published: '2017-02-09T14:08:23+00:00'
+    id: 'urn:uuid:b2474e05-3ff6-5c44-bbdf-aa32c296cf53'
+    link: 'https://pub.dartlang.org/packages/jaguar_reflect'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
