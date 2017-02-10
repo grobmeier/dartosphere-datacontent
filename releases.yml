@@ -85342,3 +85342,12 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: bokain_models
+    package_version: v0.1.20
+    title: 'v0.1.20 of bokain_models'
+    published: '2017-02-10T09:20:17+00:00'
+    id: 'urn:uuid:b3b50f58-bae9-5bb2-9040-4b9fd35c5aca'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
