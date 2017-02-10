@@ -85351,3 +85351,12 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1181
+    title: 'v0.0.1181 of fo_components'
+    published: '2017-02-10T14:59:56+00:00'
+    id: 'urn:uuid:ac1ff093-e4ff-51b7-9015-7f6cf192b1c6'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
