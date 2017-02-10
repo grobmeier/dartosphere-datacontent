@@ -85396,3 +85396,12 @@
     link: 'https://pub.dartlang.org/packages/fo_components'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: sortedmap
+    package_version: v0.1.2
+    title: 'v0.1.2 of sortedmap'
+    published: '2017-02-10T19:22:54+00:00'
+    id: 'urn:uuid:433d6ffb-9050-5034-b2ad-a6e65001a576'
+    link: 'https://pub.dartlang.org/packages/sortedmap'
+    author:
+        - 'Rik Bellens <rik.bellens@appsup.be>'
