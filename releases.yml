@@ -85414,3 +85414,12 @@
     link: 'https://pub.dartlang.org/packages/scheduled_test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dart2js_info
+    package_version: v0.5.3+1
+    title: 'v0.5.3+1 of dart2js_info'
+    published: '2017-02-10T21:46:02+00:00'
+    id: 'urn:uuid:858a8192-1731-559c-93f8-d302d6aba1eb'
+    link: 'https://pub.dartlang.org/packages/dart2js_info'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
