@@ -85405,3 +85405,12 @@
     link: 'https://pub.dartlang.org/packages/sortedmap'
     author:
         - 'Rik Bellens <rik.bellens@appsup.be>'
+-
+    package_name: scheduled_test
+    package_version: v0.12.10+1
+    title: 'v0.12.10+1 of scheduled_test'
+    published: '2017-02-10T20:23:48+00:00'
+    id: 'urn:uuid:0cbef50b-bf8e-5834-81c8-652e3946a588'
+    link: 'https://pub.dartlang.org/packages/scheduled_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
