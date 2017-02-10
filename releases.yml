@@ -85378,3 +85378,21 @@
     link: 'https://pub.dartlang.org/packages/fo_components'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: dobx
+    package_version: v0.5.1
+    title: 'v0.5.1 of dobx'
+    published: '2017-02-10T16:41:15+00:00'
+    id: 'urn:uuid:19df969a-7f77-5fe1-ba59-160227fd179a'
+    link: 'https://pub.dartlang.org/packages/dobx'
+    author:
+        - 'dyu <davidyu@cebu.io>'
+-
+    package_name: fo_components
+    package_version: v0.0.1192
+    title: 'v0.0.1192 of fo_components'
+    published: '2017-02-10T16:28:37+00:00'
+    id: 'urn:uuid:73904a78-5b01-5b28-8ca0-e77e1c8b17d1'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
