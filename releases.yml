@@ -85486,3 +85486,12 @@
     link: 'https://pub.dartlang.org/packages/dartnet'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: vane
+    package_version: v0.8.2+1
+    title: 'v0.8.2+1 of vane'
+    published: '2017-02-11T15:05:49+00:00'
+    id: 'urn:uuid:92fea1a2-0932-5c1b-aaea-09b0581e2493'
+    link: 'https://pub.dartlang.org/packages/vane'
+    author:
+        - 'Robert Åkerblom-Andersson <Robert.nr1@gmail.com>'
