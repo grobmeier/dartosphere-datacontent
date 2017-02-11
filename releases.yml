@@ -85450,3 +85450,12 @@
     link: 'https://pub.dartlang.org/packages/build'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build
+    package_version: v0.7.1+1
+    title: 'v0.7.1+1 of build'
+    published: '2017-02-11T01:56:31+00:00'
+    id: 'urn:uuid:d080a618-d8f9-5c01-be9a-99d1325b6b49'
+    link: 'https://pub.dartlang.org/packages/build'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
