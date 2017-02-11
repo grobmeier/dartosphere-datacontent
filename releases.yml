@@ -85504,3 +85504,12 @@
     link: 'https://pub.dartlang.org/packages/multibtree'
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: dartnet
+    package_version: v0.0.2
+    title: 'v0.0.2 of dartnet'
+    published: '2017-02-11T19:29:48+00:00'
+    id: 'urn:uuid:b6c4c0a9-44d0-5d45-9cc4-05740e203e7a'
+    link: 'https://pub.dartlang.org/packages/dartnet'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
