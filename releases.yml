@@ -85423,3 +85423,30 @@
     link: 'https://pub.dartlang.org/packages/dart2js_info'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: process
+    package_version: v1.1.0
+    title: 'v1.1.0 of process'
+    published: '2017-02-11T00:38:29+00:00'
+    id: 'urn:uuid:171fd7e1-be10-5c83-ae74-a622535d5716'
+    link: 'https://pub.dartlang.org/packages/process'
+    author:
+        - 'Todd Volkert <tvolkert@google.com>'
+-
+    package_name: build_barback
+    package_version: v0.1.1
+    title: 'v0.1.1 of build_barback'
+    published: '2017-02-11T00:36:27+00:00'
+    id: 'urn:uuid:0026ed03-732b-581e-b6a4-51904137e7aa'
+    link: 'https://pub.dartlang.org/packages/build_barback'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build
+    package_version: v0.7.1
+    title: 'v0.7.1 of build'
+    published: '2017-02-11T00:35:48+00:00'
+    id: 'urn:uuid:eb093657-6026-552b-9a5a-42932845ea3b'
+    link: 'https://pub.dartlang.org/packages/build'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
