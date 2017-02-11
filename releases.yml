@@ -85477,3 +85477,12 @@
     link: 'https://pub.dartlang.org/packages/lcov'
     author:
         - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: dartnet
+    package_version: v0.0.1+2
+    title: 'v0.0.1+2 of dartnet'
+    published: '2017-02-11T13:14:16+00:00'
+    id: 'urn:uuid:fd9a765b-effc-5bb1-9a6c-6aace5e47970'
+    link: 'https://pub.dartlang.org/packages/dartnet'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
