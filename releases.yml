@@ -85614,3 +85614,12 @@
     link: 'https://pub.dartlang.org/packages/angular_recaptcha'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: angel_client
+    package_version: v1.0.0-dev+23
+    title: 'v1.0.0-dev+23 of angel_client'
+    published: '2017-02-12T19:58:28+00:00'
+    id: 'urn:uuid:0fd8db3b-35d6-5ae8-8d4c-49a1698ad7d0'
+    link: 'https://pub.dartlang.org/packages/angel_client'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
