@@ -85596,3 +85596,12 @@
     link: 'https://pub.dartlang.org/packages/fft'
     author:
         - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: multibtree
+    package_version: v0.0.3
+    title: 'v0.0.3 of multibtree'
+    published: '2017-02-12T12:35:46+00:00'
+    id: 'urn:uuid:8ecb1dba-de38-519a-88a1-fa536d50077f'
+    link: 'https://pub.dartlang.org/packages/multibtree'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
