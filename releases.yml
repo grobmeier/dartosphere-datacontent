@@ -85522,3 +85522,13 @@
     link: 'https://pub.dartlang.org/packages/greencat'
     author:
         - 'Alexei Diaz <alexei.eleusis@gmail.com>'
+-
+    package_name: binary
+    package_version: v0.0.4
+    title: 'v0.0.4 of binary'
+    published: '2017-02-11T23:37:01+00:00'
+    id: 'urn:uuid:535ec321-a5f2-515a-8ade-399615338fc4'
+    link: 'https://pub.dartlang.org/packages/binary'
+    author:
+        - 'Matan Lurey <matan@lurey.org>'
+        - 'Kendal Harland <kendaljharland@gmail.com>'
