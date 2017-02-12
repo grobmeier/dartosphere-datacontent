@@ -85550,3 +85550,12 @@
     link: 'https://pub.dartlang.org/packages/dart_language_server'
     author:
         - 'Nate Bosch <nbosch1@gmail.com>'
+-
+    package_name: mdialog
+    package_version: v0.0.2
+    title: 'v0.0.2 of mdialog'
+    published: '2017-02-12T07:55:18+00:00'
+    id: 'urn:uuid:451e279d-e8fa-58b5-bc1d-132c2c8248e2'
+    link: 'https://pub.dartlang.org/packages/mdialog'
+    author:
+        - 'Gonzalo Chumillas <gchumillas@email.com>'
