@@ -85532,3 +85532,12 @@
     author:
         - 'Matan Lurey <matan@lurey.org>'
         - 'Kendal Harland <kendaljharland@gmail.com>'
+-
+    package_name: angel_websocket
+    package_version: v1.0.0-dev+10
+    title: 'v1.0.0-dev+10 of angel_websocket'
+    published: '2017-02-12T03:12:33+00:00'
+    id: 'urn:uuid:9d0f8ed6-606d-5563-bfb4-8736f117dbd3'
+    link: 'https://pub.dartlang.org/packages/angel_websocket'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
