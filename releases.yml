@@ -85605,3 +85605,12 @@
     link: 'https://pub.dartlang.org/packages/multibtree'
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: angular_recaptcha
+    package_version: v0.0.4
+    title: 'v0.0.4 of angular_recaptcha'
+    published: '2017-02-12T18:38:15+00:00'
+    id: 'urn:uuid:2314802e-778e-5f67-9420-314bf3fa312b'
+    link: 'https://pub.dartlang.org/packages/angular_recaptcha'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
