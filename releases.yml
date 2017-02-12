@@ -85559,3 +85559,12 @@
     link: 'https://pub.dartlang.org/packages/mdialog'
     author:
         - 'Gonzalo Chumillas <gchumillas@email.com>'
+-
+    package_name: multibtree
+    package_version: v0.0.2
+    title: 'v0.0.2 of multibtree'
+    published: '2017-02-12T08:56:39+00:00'
+    id: 'urn:uuid:15dbd65f-3482-51b2-9aaa-19a5cae5ca61'
+    link: 'https://pub.dartlang.org/packages/multibtree'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
