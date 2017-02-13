@@ -85662,3 +85662,14 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: rikulo_commons
+    package_version: v2.3.2
+    title: 'v2.3.2 of rikulo_commons'
+    published: '2017-02-13T08:51:29+00:00'
+    id: 'urn:uuid:8dcc537a-0ad4-59b9-a567-af5e388994ec'
+    link: 'https://pub.dartlang.org/packages/rikulo_commons'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+        - 'Henri Chen <henrichen@rikulo.org>'
+        - 'Simon Pai <simonpai@rikulo.org>'
