@@ -85653,3 +85653,12 @@
     author:
         - 'Matan Lurey <matan@lurey.org>'
         - 'Kendal Harland <kendaljharland@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.55
+    title: 'v1.0.0-dev.55 of angel_framework'
+    published: '2017-02-13T00:39:00+00:00'
+    id: 'urn:uuid:81619fed-8644-5776-b727-0f7530a771f6'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
