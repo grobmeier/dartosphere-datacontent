@@ -85748,3 +85748,21 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: mod97
+    package_version: v0.0.1
+    title: 'v0.0.1 of mod97'
+    published: '2017-02-13T20:44:39+00:00'
+    id: 'urn:uuid:4ee61f77-19d4-5692-ac0c-8cb97b0d3462'
+    link: 'https://pub.dartlang.org/packages/mod97'
+    author:
+        - 'Christian Loitsch <christian@loitsch.com>'
+-
+    package_name: dartnet
+    package_version: v0.1.0
+    title: 'v0.1.0 of dartnet'
+    published: '2017-02-13T20:35:47+00:00'
+    id: 'urn:uuid:05ed5a1a-cce5-5801-8d75-305db0475773'
+    link: 'https://pub.dartlang.org/packages/dartnet'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
