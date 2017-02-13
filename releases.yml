@@ -85691,3 +85691,12 @@
     link: 'https://pub.dartlang.org/packages/fft'
     author:
         - 'Edouard Tavinor <edouardtavinor@gmail.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1193
+    title: 'v0.0.1193 of fo_components'
+    published: '2017-02-13T15:55:28+00:00'
+    id: 'urn:uuid:0f3fe870-33b4-50a6-8c9e-ee4bc264bf44'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
