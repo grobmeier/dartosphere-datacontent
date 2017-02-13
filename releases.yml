@@ -85643,3 +85643,13 @@
         - 'Matan Lurey <matanl@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Todd Volkert <tvolkert@google.com>'
+-
+    package_name: arm7_tdmi
+    package_version: v0.0.1-dev+2
+    title: 'v0.0.1-dev+2 of arm7_tdmi'
+    published: '2017-02-12T23:00:31+00:00'
+    id: 'urn:uuid:dc0c5210-0d05-5522-94e1-0e4e1e4d1b8d'
+    link: 'https://pub.dartlang.org/packages/arm7_tdmi'
+    author:
+        - 'Matan Lurey <matan@lurey.org>'
+        - 'Kendal Harland <kendaljharland@gmail.com>'
