@@ -85821,3 +85821,12 @@
     link: 'https://pub.dartlang.org/packages/built_mirrors'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: doksan
+    package_version: v0.0.8
+    title: 'v0.0.8 of doksan'
+    published: '2017-02-14T04:04:06+00:00'
+    id: 'urn:uuid:bdedbcec-1607-5f6a-a2b8-4298bf970a33'
+    link: 'https://pub.dartlang.org/packages/doksan'
+    author:
+        - 'Muhammed Ali Sit <sitmuhammedali@gmail.com>'
