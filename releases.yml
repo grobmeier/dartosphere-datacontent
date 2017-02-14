@@ -85939,3 +85939,12 @@
     link: 'https://pub.dartlang.org/packages/source_gen'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: fo_components
+    package_version: v0.0.1200
+    title: 'v0.0.1200 of fo_components'
+    published: '2017-02-14T21:50:55+00:00'
+    id: 'urn:uuid:9d79cef8-5e40-5e34-9309-25284e294af6'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
