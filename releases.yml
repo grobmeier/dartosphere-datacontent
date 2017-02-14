@@ -85921,3 +85921,12 @@
     link: 'https://pub.dartlang.org/packages/my_complex'
     author:
         - 'Edouard Tavinor <email@example.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1196
+    title: 'v0.0.1196 of fo_components'
+    published: '2017-02-14T19:19:45+00:00'
+    id: 'urn:uuid:ee161f7f-9003-58ac-86ad-db09c7cb4637'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
