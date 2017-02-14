@@ -85948,3 +85948,21 @@
     link: 'https://pub.dartlang.org/packages/fo_components'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: compiler_unsupported
+    package_version: v1.22.0
+    title: 'v1.22.0 of compiler_unsupported'
+    published: '2017-02-14T22:54:14+00:00'
+    id: 'urn:uuid:d0f0068c-2a2c-59ae-bc76-1ce27d19d3b0'
+    link: 'https://pub.dartlang.org/packages/compiler_unsupported'
+    author:
+        - 'Dart2js Team <compiler-dev@dartlang.org>'
+-
+    package_name: fo_components
+    package_version: v0.0.1201
+    title: 'v0.0.1201 of fo_components'
+    published: '2017-02-14T22:09:11+00:00'
+    id: 'urn:uuid:866913ce-6e4e-50a6-95ab-36abc8800dd2'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
