@@ -85902,3 +85902,22 @@
     link: 'https://pub.dartlang.org/packages/my_complex'
     author:
         - 'Edouard Tavinor <email@example.com>'
+-
+    package_name: jaguar_oauth_facebook
+    package_version: v0.0.2
+    title: 'v0.0.2 of jaguar_oauth_facebook'
+    published: '2017-02-14T17:32:48+00:00'
+    id: 'urn:uuid:95906db7-3202-5594-bc2e-f888ec73f27a'
+    link: 'https://pub.dartlang.org/packages/jaguar_oauth_facebook'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: my_complex
+    package_version: v0.0.4
+    title: 'v0.0.4 of my_complex'
+    published: '2017-02-14T17:01:33+00:00'
+    id: 'urn:uuid:1dab07de-a930-5034-ae7b-c30ff342ade9'
+    link: 'https://pub.dartlang.org/packages/my_complex'
+    author:
+        - 'Edouard Tavinor <email@example.com>'
