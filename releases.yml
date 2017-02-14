@@ -85794,3 +85794,30 @@
     author:
         - 'Todd Volkert <tvolkert@google.com>'
         - 'Michael Goderbauer <goderbauer@google.com>'
+-
+    package_name: dson
+    package_version: v0.5.0
+    title: 'v0.5.0 of dson'
+    published: '2017-02-14T03:47:54+00:00'
+    id: 'urn:uuid:20b97834-495e-5fdd-8957-602ddaa7f981'
+    link: 'https://pub.dartlang.org/packages/dson'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: serializable
+    package_version: v0.2.0
+    title: 'v0.2.0 of serializable'
+    published: '2017-02-14T03:43:24+00:00'
+    id: 'urn:uuid:7412d8dd-e2be-571d-a5d3-3b5225485d5a'
+    link: 'https://pub.dartlang.org/packages/serializable'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: built_mirrors
+    package_version: v0.1.0
+    title: 'v0.1.0 of built_mirrors'
+    published: '2017-02-14T03:35:35+00:00'
+    id: 'urn:uuid:7420bddd-0f70-54b9-920f-12eeaaca97e4'
+    link: 'https://pub.dartlang.org/packages/built_mirrors'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
