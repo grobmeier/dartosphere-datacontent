@@ -85893,3 +85893,12 @@
     link: 'https://pub.dartlang.org/packages/iban'
     author:
         - 'Christian Loitsch <christian@loitsch.com>'
+-
+    package_name: my_complex
+    package_version: v0.0.3
+    title: 'v0.0.3 of my_complex'
+    published: '2017-02-14T11:25:25+00:00'
+    id: 'urn:uuid:be750c6c-32cf-5467-916e-c9f0d2b951d0'
+    link: 'https://pub.dartlang.org/packages/my_complex'
+    author:
+        - 'Edouard Tavinor <email@example.com>'
