@@ -85966,3 +85966,12 @@
     link: 'https://pub.dartlang.org/packages/fo_components'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: csv
+    package_version: v3.1.2
+    title: 'v3.1.2 of csv'
+    published: '2017-02-15T04:30:35+00:00'
+    id: 'urn:uuid:96bce57a-81bd-5ad8-bd8b-4682361612ae'
+    link: 'https://pub.dartlang.org/packages/csv'
+    author:
+        - 'Christian Loitsch <christian@loitsch.com>'
