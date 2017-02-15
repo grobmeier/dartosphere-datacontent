@@ -86013,3 +86013,22 @@
     link: 'https://pub.dartlang.org/packages/dobx'
     author:
         - 'dyu <davidyu@cebu.io>'
+-
+    package_name: jaguar_auth
+    package_version: v0.3.2
+    title: 'v0.3.2 of jaguar_auth'
+    published: '2017-02-15T14:43:23+00:00'
+    id: 'urn:uuid:2cbea579-194c-58a8-b479-e79c5e425c1c'
+    link: 'https://pub.dartlang.org/packages/jaguar_auth'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: gitlab
+    package_version: v0.1.0
+    title: 'v0.1.0 of gitlab'
+    published: '2017-02-15T14:18:33+00:00'
+    id: 'urn:uuid:b7994b8f-ca2b-59dd-87d7-e37009b68596'
+    link: 'https://pub.dartlang.org/packages/gitlab'
+    author:
+        - 'Matias Meno <m@tias.me>'
