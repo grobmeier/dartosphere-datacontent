@@ -85975,3 +85975,13 @@
     link: 'https://pub.dartlang.org/packages/csv'
     author:
         - 'Christian Loitsch <christian@loitsch.com>'
+-
+    package_name: jaguar_auth
+    package_version: v0.3.1
+    title: 'v0.3.1 of jaguar_auth'
+    published: '2017-02-15T09:33:34+00:00'
+    id: 'urn:uuid:61673b3d-26ff-5cc6-a417-3920f63ef7f5'
+    link: 'https://pub.dartlang.org/packages/jaguar_auth'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
