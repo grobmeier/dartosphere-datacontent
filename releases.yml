@@ -86050,3 +86050,12 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: json_rpc_2
+    package_version: v2.0.4
+    title: 'v2.0.4 of json_rpc_2'
+    published: '2017-02-15T19:43:16+00:00'
+    id: 'urn:uuid:e9e2f1f0-211a-573e-b04a-0d8a4920dce1'
+    link: 'https://pub.dartlang.org/packages/json_rpc_2'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
