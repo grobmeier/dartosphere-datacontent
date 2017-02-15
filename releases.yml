@@ -86032,3 +86032,21 @@
     link: 'https://pub.dartlang.org/packages/gitlab'
     author:
         - 'Matias Meno <m@tias.me>'
+-
+    package_name: gitlab
+    package_version: v0.1.2
+    title: 'v0.1.2 of gitlab'
+    published: '2017-02-15T16:49:50+00:00'
+    id: 'urn:uuid:c066a438-0686-5f40-b4c0-a1119d5f91c8'
+    link: 'https://pub.dartlang.org/packages/gitlab'
+    author:
+        - 'Matias Meno <m@tias.me>'
+-
+    package_name: dartdoc
+    package_version: v0.9.12
+    title: 'v0.9.12 of dartdoc'
+    published: '2017-02-15T16:32:42+00:00'
+    id: 'urn:uuid:e0f40694-8840-5719-8fd6-f714b06a5b52'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
