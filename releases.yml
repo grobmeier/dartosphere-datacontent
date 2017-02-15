@@ -86068,3 +86068,12 @@
     link: 'https://pub.dartlang.org/packages/stack_trace'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: async
+    package_version: v1.13.1
+    title: 'v1.13.1 of async'
+    published: '2017-02-15T22:22:07+00:00'
+    id: 'urn:uuid:579c7f42-c0c5-5c7c-a723-b0e5911e61e3'
+    link: 'https://pub.dartlang.org/packages/async'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
