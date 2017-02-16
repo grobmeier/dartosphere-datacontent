@@ -86086,3 +86086,12 @@
     link: 'https://pub.dartlang.org/packages/build'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: _bazel_codegen
+    package_version: v0.0.3
+    title: 'v0.0.3 of _bazel_codegen'
+    published: '2017-02-16T01:09:48+00:00'
+    id: 'urn:uuid:a4921c26-929d-554d-9159-004dfbb4e78d'
+    link: 'https://pub.dartlang.org/packages/_bazel_codegen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
