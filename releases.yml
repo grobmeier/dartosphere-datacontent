@@ -86113,3 +86113,12 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.1.33
+    title: 'v0.1.33 of bokain_models'
+    published: '2017-02-16T09:52:08+00:00'
+    id: 'urn:uuid:db82aac6-8a20-5c36-ac8a-c866c84200f4'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
