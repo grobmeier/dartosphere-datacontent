@@ -86185,3 +86185,30 @@
     link: 'https://pub.dartlang.org/packages/jaguar_generator_config'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: analyzer
+    package_version: v0.29.7
+    title: 'v0.29.7 of analyzer'
+    published: '2017-02-16T21:23:57+00:00'
+    id: 'urn:uuid:63fcfa06-cb7f-50e7-aaaa-59ade428075c'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: test
+    package_version: v0.12.19+1
+    title: 'v0.12.19+1 of test'
+    published: '2017-02-16T21:12:16+00:00'
+    id: 'urn:uuid:60c0d8b9-9256-5fc9-a710-b592f067e2bd'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: pool
+    package_version: v1.3.0
+    title: 'v1.3.0 of pool'
+    published: '2017-02-16T21:10:59+00:00'
+    id: 'urn:uuid:67688b23-2d3e-50d8-b5b1-53c387716651'
+    link: 'https://pub.dartlang.org/packages/pool'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
