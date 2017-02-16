@@ -86176,3 +86176,12 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: jaguar_generator_config
+    package_version: v0.0.1
+    title: 'v0.0.1 of jaguar_generator_config'
+    published: '2017-02-16T16:41:19+00:00'
+    id: 'urn:uuid:90fe8d58-7085-5182-9a13-a02a101351fd'
+    link: 'https://pub.dartlang.org/packages/jaguar_generator_config'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
