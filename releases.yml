@@ -86212,3 +86212,12 @@
     link: 'https://pub.dartlang.org/packages/pool'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: completion
+    package_version: v0.1.6
+    title: 'v0.1.6 of completion'
+    published: '2017-02-16T22:04:36+00:00'
+    id: 'urn:uuid:785cca5a-958f-5689-854d-3940bc598a51'
+    link: 'https://pub.dartlang.org/packages/completion'
+    author:
+        - 'Kevin Moore <github@j832.com>'
