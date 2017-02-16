@@ -86077,3 +86077,12 @@
     link: 'https://pub.dartlang.org/packages/async'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build
+    package_version: v0.7.2
+    title: 'v0.7.2 of build'
+    published: '2017-02-16T00:48:06+00:00'
+    id: 'urn:uuid:dcf42252-cb5f-5514-83c8-9a81c16620c7'
+    link: 'https://pub.dartlang.org/packages/build'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
