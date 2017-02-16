@@ -86104,3 +86104,12 @@
     link: 'https://pub.dartlang.org/packages/dobx'
     author:
         - 'dyu <davidyu@cebu.io>'
+-
+    package_name: bokain_models
+    package_version: v0.1.25
+    title: 'v0.1.25 of bokain_models'
+    published: '2017-02-16T08:52:50+00:00'
+    id: 'urn:uuid:6a918f22-5294-5df7-836e-7773f5b89bc7'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
