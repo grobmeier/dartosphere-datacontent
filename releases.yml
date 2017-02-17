@@ -86221,3 +86221,12 @@
     link: 'https://pub.dartlang.org/packages/completion'
     author:
         - 'Kevin Moore <github@j832.com>'
+-
+    package_name: http
+    package_version: v0.11.3+10
+    title: 'v0.11.3+10 of http'
+    published: '2017-02-16T23:44:29+00:00'
+    id: 'urn:uuid:8bb41d21-00ea-535f-a356-d1aa30c2eb20'
+    link: 'https://pub.dartlang.org/packages/http'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
