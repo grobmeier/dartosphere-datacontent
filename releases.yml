@@ -86230,3 +86230,12 @@
     link: 'https://pub.dartlang.org/packages/http'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: built_mirrors
+    package_version: v0.1.1
+    title: 'v0.1.1 of built_mirrors'
+    published: '2017-02-17T02:45:06+00:00'
+    id: 'urn:uuid:94c14931-1162-524f-b8f5-fc9358e698e7'
+    link: 'https://pub.dartlang.org/packages/built_mirrors'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
