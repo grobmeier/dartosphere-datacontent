@@ -86266,3 +86266,12 @@
     link: 'https://pub.dartlang.org/packages/coveralls'
     author:
         - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: venosyd_common_validators
+    package_version: v1.0.2
+    title: 'v1.0.2 of venosyd_common_validators'
+    published: '2017-02-17T19:45:56+00:00'
+    id: 'urn:uuid:501b3a3b-40c9-5836-a7a6-b506fc7f29a2'
+    link: 'https://pub.dartlang.org/packages/venosyd_common_validators'
+    author:
+        - 'Sergio Lisan <sels@venosyd.com>'
