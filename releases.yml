@@ -86257,3 +86257,12 @@
     link: 'https://pub.dartlang.org/packages/coveralls'
     author:
         - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: coveralls
+    package_version: v0.1.1
+    title: 'v0.1.1 of coveralls'
+    published: '2017-02-17T12:17:35+00:00'
+    id: 'urn:uuid:e06472df-a872-57d7-88b7-93dcb37ec7f3'
+    link: 'https://pub.dartlang.org/packages/coveralls'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
