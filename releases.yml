@@ -86311,3 +86311,12 @@
     link: 'https://pub.dartlang.org/packages/akismet'
     author:
         - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: replace_content
+    package_version: v0.0.1
+    title: 'v0.0.1 of replace_content'
+    published: '2017-02-18T14:34:08+00:00'
+    id: 'urn:uuid:f8449929-7895-58ba-a743-4c452e52b42a'
+    link: 'https://pub.dartlang.org/packages/replace_content'
+    author:
+        - 'Man Hoang <jolleekin@outlook.com>'
