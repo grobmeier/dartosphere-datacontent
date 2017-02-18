@@ -86293,3 +86293,12 @@
     link: 'https://pub.dartlang.org/packages/lcov'
     author:
         - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: stagexl
+    package_version: v1.1.0+1
+    title: 'v1.1.0+1 of stagexl'
+    published: '2017-02-18T07:45:44+00:00'
+    id: 'urn:uuid:6ab05d4b-6544-534c-97cf-188e0c9cddb8'
+    link: 'https://pub.dartlang.org/packages/stagexl'
+    author:
+        - 'Bernhard Pichler <support@stagexl.org>'
