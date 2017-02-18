@@ -86275,3 +86275,12 @@
     link: 'https://pub.dartlang.org/packages/venosyd_common_validators'
     author:
         - 'Sergio Lisan <sels@venosyd.com>'
+-
+    package_name: dazel
+    package_version: v0.3.2
+    title: 'v0.3.2 of dazel'
+    published: '2017-02-17T21:33:23+00:00'
+    id: 'urn:uuid:7a48be02-2b16-56af-a67c-79dcb9db156b'
+    link: 'https://pub.dartlang.org/packages/dazel'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
