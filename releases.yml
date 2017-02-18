@@ -86284,3 +86284,12 @@
     link: 'https://pub.dartlang.org/packages/dazel'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: lcov
+    package_version: v0.4.0
+    title: 'v0.4.0 of lcov'
+    published: '2017-02-18T00:59:42+00:00'
+    id: 'urn:uuid:05107795-c9f4-509b-928d-c0e9a2e5b156'
+    link: 'https://pub.dartlang.org/packages/lcov'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
