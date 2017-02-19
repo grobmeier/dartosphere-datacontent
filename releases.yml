@@ -86567,3 +86567,31 @@
     link: 'https://pub.dartlang.org/packages/dartz'
     author:
         - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: jaguar
+    package_version: v0.4.1
+    title: 'v0.4.1 of jaguar'
+    published: '2017-02-19T21:59:44+00:00'
+    id: 'urn:uuid:2b63023d-4c21-51d6-b9d2-68b9131ef275'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: rational
+    package_version: v0.1.10
+    title: 'v0.1.10 of rational'
+    published: '2017-02-19T21:45:16+00:00'
+    id: 'urn:uuid:c3bae660-4b69-5a34-9915-a05c567bd911'
+    link: 'https://pub.dartlang.org/packages/rational'
+    author:
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+-
+    package_name: service_worker
+    package_version: v0.0.1
+    title: 'v0.0.1 of service_worker'
+    published: '2017-02-19T21:12:45+00:00'
+    id: 'urn:uuid:81adc741-0be9-5cab-ae5a-90aaf6b546b8'
+    link: 'https://pub.dartlang.org/packages/service_worker'
+    author:
+        - 'Istvan Soos <istvan.soos@gmail.com>'
