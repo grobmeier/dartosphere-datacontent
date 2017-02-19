@@ -86549,3 +86549,21 @@
     link: 'https://pub.dartlang.org/packages/angel_mongo'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: haystack
+    package_version: v0.4.20+1
+    title: 'v0.4.20+1 of haystack'
+    published: '2017-02-19T19:11:06+00:00'
+    id: 'urn:uuid:9c1a6cca-b20d-5c93-888a-29c6c0138791'
+    link: 'https://pub.dartlang.org/packages/haystack'
+    author:
+        - 'Dmitriy Vasilyev <dmitry@bassg.com>'
+-
+    package_name: dartz
+    package_version: v0.5.3
+    title: 'v0.5.3 of dartz'
+    published: '2017-02-19T19:06:27+00:00'
+    id: 'urn:uuid:211de028-b24c-5184-8ddd-a218c4cd2880'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
