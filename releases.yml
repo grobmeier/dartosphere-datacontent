@@ -86381,3 +86381,43 @@
     author:
         - 'Matan Lurey <matan@lurey.org>'
         - 'Kendal Harland <kendaljharland@gmail.com>'
+-
+    package_name: jaguar_auth
+    package_version: v0.4.0
+    title: 'v0.4.0 of jaguar_auth'
+    published: '2017-02-19T08:54:36+00:00'
+    id: 'urn:uuid:f6d7eb2a-beb4-5558-bdb5-56b035373ae0'
+    link: 'https://pub.dartlang.org/packages/jaguar_auth'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_session
+    package_version: v0.4.0
+    title: 'v0.4.0 of jaguar_session'
+    published: '2017-02-19T08:35:46+00:00'
+    id: 'urn:uuid:c63a9b2a-7064-5bd9-b797-90275862258e'
+    link: 'https://pub.dartlang.org/packages/jaguar_session'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_dev_proxy
+    package_version: v0.0.3
+    title: 'v0.0.3 of jaguar_dev_proxy'
+    published: '2017-02-19T08:30:06+00:00'
+    id: 'urn:uuid:eaf9499a-11c7-5044-9ba4-20dc88e1d9cb'
+    link: 'https://pub.dartlang.org/packages/jaguar_dev_proxy'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_reflect
+    package_version: v0.4.1
+    title: 'v0.4.1 of jaguar_reflect'
+    published: '2017-02-19T08:25:36+00:00'
+    id: 'urn:uuid:d25647cf-21d3-5313-9e11-835c61fed388'
+    link: 'https://pub.dartlang.org/packages/jaguar_reflect'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
