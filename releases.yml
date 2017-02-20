@@ -86614,3 +86614,12 @@
     link: 'https://pub.dartlang.org/packages/rational'
     author:
         - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+-
+    package_name: async
+    package_version: v1.13.2
+    title: 'v1.13.2 of async'
+    published: '2017-02-20T11:35:45+00:00'
+    id: 'urn:uuid:b7640c25-61fc-57de-a1a5-8cf6e0c7bc3a'
+    link: 'https://pub.dartlang.org/packages/async'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
