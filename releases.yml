@@ -86704,3 +86704,12 @@
     link: 'https://pub.dartlang.org/packages/built_mirrors'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: dart_language_server
+    package_version: v0.0.4
+    title: 'v0.0.4 of dart_language_server'
+    published: '2017-02-21T06:19:18+00:00'
+    id: 'urn:uuid:0c49d685-2ad5-5b21-abb5-f5d74fa1ed82'
+    link: 'https://pub.dartlang.org/packages/dart_language_server'
+    author:
+        - 'Nate Bosch <nbosch1@gmail.com>'
