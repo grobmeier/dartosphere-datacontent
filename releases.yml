@@ -86686,3 +86686,12 @@
     link: 'https://pub.dartlang.org/packages/markd'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: serializable
+    package_version: v0.2.1
+    title: 'v0.2.1 of serializable'
+    published: '2017-02-21T02:41:02+00:00'
+    id: 'urn:uuid:ac859a2f-074b-5b36-886a-d0f212c396eb'
+    link: 'https://pub.dartlang.org/packages/serializable'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
