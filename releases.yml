@@ -86668,3 +86668,12 @@
     link: 'https://pub.dartlang.org/packages/js_wrapping'
     author:
         - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+-
+    package_name: dart_language_server
+    package_version: v0.0.3
+    title: 'v0.0.3 of dart_language_server'
+    published: '2017-02-20T23:24:37+00:00'
+    id: 'urn:uuid:225e0fd2-fc15-52d2-aba7-30eb1a5d9ede'
+    link: 'https://pub.dartlang.org/packages/dart_language_server'
+    author:
+        - 'Nate Bosch <nbosch1@gmail.com>'
