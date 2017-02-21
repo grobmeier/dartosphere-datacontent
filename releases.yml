@@ -86695,3 +86695,12 @@
     link: 'https://pub.dartlang.org/packages/serializable'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: built_mirrors
+    package_version: v0.1.2
+    title: 'v0.1.2 of built_mirrors'
+    published: '2017-02-21T04:05:28+00:00'
+    id: 'urn:uuid:9e29b78a-2d8f-596b-9222-7cdc7c72474b'
+    link: 'https://pub.dartlang.org/packages/built_mirrors'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
