@@ -86752,3 +86752,14 @@
     link: 'https://pub.dartlang.org/packages/html5'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: file
+    package_version: v2.1.0
+    title: 'v2.1.0 of file'
+    published: '2017-02-21T19:09:31+00:00'
+    id: 'urn:uuid:1c918cb4-57ce-5388-a435-ca090d326085'
+    link: 'https://pub.dartlang.org/packages/file'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Todd Volkert <tvolkert@google.com>'
