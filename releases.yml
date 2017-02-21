@@ -86713,3 +86713,33 @@
     link: 'https://pub.dartlang.org/packages/dart_language_server'
     author:
         - 'Nate Bosch <nbosch1@gmail.com>'
+-
+    package_name: jaguar
+    package_version: v0.4.2
+    title: 'v0.4.2 of jaguar'
+    published: '2017-02-21T09:59:10+00:00'
+    id: 'urn:uuid:4862020f-91e4-5afc-aafb-ea5d243399f4'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_mongo_data_store
+    package_version: v0.0.2
+    title: 'v0.0.2 of jaguar_mongo_data_store'
+    published: '2017-02-21T09:15:34+00:00'
+    id: 'urn:uuid:e8d0f92f-7b2c-5371-8af3-000339280080'
+    link: 'https://pub.dartlang.org/packages/jaguar_mongo_data_store'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_data_store
+    package_version: v0.0.1
+    title: 'v0.0.1 of jaguar_data_store'
+    published: '2017-02-21T09:09:46+00:00'
+    id: 'urn:uuid:1deb7445-e2ca-5aa4-9686-79b4e37a4560'
+    link: 'https://pub.dartlang.org/packages/jaguar_data_store'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
