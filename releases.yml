@@ -86677,3 +86677,12 @@
     link: 'https://pub.dartlang.org/packages/dart_language_server'
     author:
         - 'Nate Bosch <nbosch1@gmail.com>'
+-
+    package_name: markd
+    package_version: v0.11.3
+    title: 'v0.11.3 of markd'
+    published: '2017-02-21T01:21:06+00:00'
+    id: 'urn:uuid:8727a4be-50e5-5c18-8298-0f97c9869be5'
+    link: 'https://pub.dartlang.org/packages/markd'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
