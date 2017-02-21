@@ -86743,3 +86743,12 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: html5
+    package_version: v0.0.1
+    title: 'v0.0.1 of html5'
+    published: '2017-02-21T15:05:46+00:00'
+    id: 'urn:uuid:13c622b8-aa89-51fb-9b2f-b74c820d0506'
+    link: 'https://pub.dartlang.org/packages/html5'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
