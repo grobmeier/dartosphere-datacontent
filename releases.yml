@@ -86835,3 +86835,12 @@
     link: 'https://pub.dartlang.org/packages/drails_di'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: custom_elements
+    package_version: v1.0.0
+    title: 'v1.0.0 of custom_elements'
+    published: '2017-02-22T11:46:01+00:00'
+    id: 'urn:uuid:2e80ccf4-833c-500f-9823-45d12f970019'
+    link: 'https://pub.dartlang.org/packages/custom_elements'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@drafintech.it>'
