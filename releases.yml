@@ -86781,3 +86781,12 @@
     link: 'https://pub.dartlang.org/packages/polymerize'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: test
+    package_version: v0.12.20
+    title: 'v0.12.20 of test'
+    published: '2017-02-22T00:24:10+00:00'
+    id: 'urn:uuid:26787a2e-c838-58ce-a1ac-ebc40c9d3b30'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
