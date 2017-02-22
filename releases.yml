@@ -86873,3 +86873,39 @@
     link: 'https://pub.dartlang.org/packages/dartnet'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: angel_websocket
+    package_version: v1.0.1
+    title: 'v1.0.1 of angel_websocket'
+    published: '2017-02-22T22:34:43+00:00'
+    id: 'urn:uuid:dca40f51-e0a1-53c6-9114-16de161da227'
+    link: 'https://pub.dartlang.org/packages/angel_websocket'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_client
+    package_version: v1.0.0
+    title: 'v1.0.0 of angel_client'
+    published: '2017-02-22T22:22:17+00:00'
+    id: 'urn:uuid:2ffb9155-574d-5b0e-a582-98ca09c9d2b6'
+    link: 'https://pub.dartlang.org/packages/angel_client'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: dartnet
+    package_version: v0.1.2
+    title: 'v0.1.2 of dartnet'
+    published: '2017-02-22T22:03:21+00:00'
+    id: 'urn:uuid:f5ba475b-d697-53f6-9b0b-ea3bae0e5565'
+    link: 'https://pub.dartlang.org/packages/dartnet'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: angel_rethink
+    package_version: v1.0.1
+    title: 'v1.0.1 of angel_rethink'
+    published: '2017-02-22T22:02:16+00:00'
+    id: 'urn:uuid:ff5e180c-fb39-52e0-ab2f-3333ab07be5f'
+    link: 'https://pub.dartlang.org/packages/angel_rethink'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
