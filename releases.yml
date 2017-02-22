@@ -86799,3 +86799,12 @@
     link: 'https://pub.dartlang.org/packages/simple_streams'
     author:
         - 'Nick Anderssohn <ncadevelopment@gmail.com>'
+-
+    package_name: simple_streams
+    package_version: v1.0.3
+    title: 'v1.0.3 of simple_streams'
+    published: '2017-02-22T02:03:40+00:00'
+    id: 'urn:uuid:2c093636-3d81-53f8-b961-4046cfd64cc2'
+    link: 'https://pub.dartlang.org/packages/simple_streams'
+    author:
+        - 'Nick Anderssohn <ncadevelopment@gmail.com>'
