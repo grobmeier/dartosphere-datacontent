@@ -86844,3 +86844,12 @@
     link: 'https://pub.dartlang.org/packages/custom_elements'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@drafintech.it>'
+-
+    package_name: over_react
+    package_version: v1.6.0
+    title: 'v1.6.0 of over_react'
+    published: '2017-02-22T19:43:12+00:00'
+    id: 'urn:uuid:41cff3b9-7632-5657-95a9-3eff2822b404'
+    link: 'https://pub.dartlang.org/packages/over_react'
+    author:
+        - 'Workiva UI Platform Team <uip@workiva.com>'
