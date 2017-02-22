@@ -86853,3 +86853,23 @@
     link: 'https://pub.dartlang.org/packages/over_react'
     author:
         - 'Workiva UI Platform Team <uip@workiva.com>'
+-
+    package_name: file
+    package_version: v2.2.0
+    title: 'v2.2.0 of file'
+    published: '2017-02-22T21:24:27+00:00'
+    id: 'urn:uuid:5db34dbc-b7f8-5d12-8efc-57eb90ae5992'
+    link: 'https://pub.dartlang.org/packages/file'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Todd Volkert <tvolkert@google.com>'
+-
+    package_name: dartnet
+    package_version: v0.1.1
+    title: 'v0.1.1 of dartnet'
+    published: '2017-02-22T21:13:36+00:00'
+    id: 'urn:uuid:48acfc8b-672a-5707-84ca-71fa3b8d14dd'
+    link: 'https://pub.dartlang.org/packages/dartnet'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
