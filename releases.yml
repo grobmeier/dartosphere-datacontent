@@ -87037,3 +87037,13 @@
     link: 'https://pub.dartlang.org/packages/service_worker'
     author:
         - 'Istvan Soos <istvan.soos@gmail.com>'
+-
+    package_name: jaguar
+    package_version: v0.4.3
+    title: 'v0.4.3 of jaguar'
+    published: '2017-02-23T13:37:16+00:00'
+    id: 'urn:uuid:d192acf3-ebf3-59cc-845f-d5e89166f2c4'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
