@@ -86945,3 +86945,39 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.57
+    title: 'v1.0.0-dev.57 of angel_framework'
+    published: '2017-02-23T01:19:33+00:00'
+    id: 'urn:uuid:6578f6f1-315a-51f2-ad20-d44c3f1ee464'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_auth_oauth2
+    package_version: v1.0.0
+    title: 'v1.0.0 of angel_auth_oauth2'
+    published: '2017-02-23T01:13:32+00:00'
+    id: 'urn:uuid:1324cb32-3a85-553e-afc2-bf9953993996'
+    link: 'https://pub.dartlang.org/packages/angel_auth_oauth2'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_rethink
+    package_version: v1.0.2
+    title: 'v1.0.2 of angel_rethink'
+    published: '2017-02-23T01:08:01+00:00'
+    id: 'urn:uuid:299ce7c4-89cd-532f-b851-8fbe58d7d629'
+    link: 'https://pub.dartlang.org/packages/angel_rethink'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_mongo
+    package_version: v1.1.4
+    title: 'v1.1.4 of angel_mongo'
+    published: '2017-02-23T01:03:38+00:00'
+    id: 'urn:uuid:e4fe1c09-dda9-51dc-b761-2b56049fd9a6'
+    link: 'https://pub.dartlang.org/packages/angel_mongo'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
