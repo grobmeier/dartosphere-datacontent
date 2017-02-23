@@ -87067,3 +87067,23 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_data_store
+    package_version: v0.0.3
+    title: 'v0.0.3 of jaguar_data_store'
+    published: '2017-02-23T21:46:25+00:00'
+    id: 'urn:uuid:77bca6f3-2fd9-5c7f-a14f-fca032a0dabe'
+    link: 'https://pub.dartlang.org/packages/jaguar_data_store'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_orm
+    package_version: v0.0.3
+    title: 'v0.0.3 of jaguar_orm'
+    published: '2017-02-23T21:29:46+00:00'
+    id: 'urn:uuid:59319150-7b42-5cca-845f-a1fcfc8daf4c'
+    link: 'https://pub.dartlang.org/packages/jaguar_orm'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
