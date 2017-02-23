@@ -87009,3 +87009,22 @@
     author:
         - 'Greg Lowe <greg@vis.net.nz>'
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: stream
+    package_version: v1.6.6+1
+    title: 'v1.6.6+1 of stream'
+    published: '2017-02-23T10:40:09+00:00'
+    id: 'urn:uuid:64e22b11-0846-5573-9346-e084a5104f06'
+    link: 'https://pub.dartlang.org/packages/stream'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: postgresql2
+    package_version: v0.3.4
+    title: 'v0.3.4 of postgresql2'
+    published: '2017-02-23T10:06:42+00:00'
+    id: 'urn:uuid:d9b84d6f-85b4-5066-98b1-7dcc63aab793'
+    link: 'https://pub.dartlang.org/packages/postgresql2'
+    author:
+        - 'Greg Lowe <greg@vis.net.nz>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
