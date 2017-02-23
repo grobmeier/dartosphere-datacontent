@@ -87057,3 +87057,13 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_query
+    package_version: v0.0.10
+    title: 'v0.0.10 of jaguar_query'
+    published: '2017-02-23T20:43:58+00:00'
+    id: 'urn:uuid:aa7422a6-300f-5218-a4d7-e4e3fe5784d7'
+    link: 'https://pub.dartlang.org/packages/jaguar_query'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
