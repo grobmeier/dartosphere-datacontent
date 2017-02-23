@@ -86981,3 +86981,12 @@
     link: 'https://pub.dartlang.org/packages/angel_mongo'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_cli
+    package_version: v1.0.1
+    title: 'v1.0.1 of angel_cli'
+    published: '2017-02-23T02:48:22+00:00'
+    id: 'urn:uuid:809c2bbe-a5bd-5820-9b49-79609e4d0849'
+    link: 'https://pub.dartlang.org/packages/angel_cli'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
