@@ -86999,3 +86999,13 @@
     link: 'https://pub.dartlang.org/packages/stream'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: postgresql2
+    package_version: v0.3.3+6
+    title: 'v0.3.3+6 of postgresql2'
+    published: '2017-02-23T09:49:29+00:00'
+    id: 'urn:uuid:c0e90af8-3320-526f-865a-56a250de84ea'
+    link: 'https://pub.dartlang.org/packages/postgresql2'
+    author:
+        - 'Greg Lowe <greg@vis.net.nz>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
