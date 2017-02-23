@@ -86927,3 +86927,21 @@
     link: 'https://pub.dartlang.org/packages/angel_seeder'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_mongo
+    package_version: v1.1.3
+    title: 'v1.1.3 of angel_mongo'
+    published: '2017-02-23T01:00:19+00:00'
+    id: 'urn:uuid:824857ba-b9b8-5dd5-884b-b9e3edd410d2'
+    link: 'https://pub.dartlang.org/packages/angel_mongo'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.56
+    title: 'v1.0.0-dev.56 of angel_framework'
+    published: '2017-02-23T00:57:07+00:00'
+    id: 'urn:uuid:b180fb11-349c-5aa4-90be-efdda042f20b'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
