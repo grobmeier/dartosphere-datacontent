@@ -86909,3 +86909,21 @@
     link: 'https://pub.dartlang.org/packages/angel_rethink'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_static
+    package_version: v1.1.2
+    title: 'v1.1.2 of angel_static'
+    published: '2017-02-22T23:43:25+00:00'
+    id: 'urn:uuid:daa45666-c1a9-5a43-9e4d-005c2ae338fc'
+    link: 'https://pub.dartlang.org/packages/angel_static'
+    author:
+        - 'thosakwe <thosakwe@gmail.com>'
+-
+    package_name: angel_seeder
+    package_version: v1.0.0
+    title: 'v1.0.0 of angel_seeder'
+    published: '2017-02-22T23:03:20+00:00'
+    id: 'urn:uuid:1cbf898f-9688-591b-8b49-567c651fe14a'
+    link: 'https://pub.dartlang.org/packages/angel_seeder'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
