@@ -87028,3 +87028,12 @@
     author:
         - 'Greg Lowe <greg@vis.net.nz>'
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: service_worker
+    package_version: v0.0.2
+    title: 'v0.0.2 of service_worker'
+    published: '2017-02-23T12:58:57+00:00'
+    id: 'urn:uuid:c1a614ce-9fe7-5524-b9e8-35203b6d81b1'
+    link: 'https://pub.dartlang.org/packages/service_worker'
+    author:
+        - 'Istvan Soos <istvan.soos@gmail.com>'
