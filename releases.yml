@@ -86990,3 +86990,12 @@
     link: 'https://pub.dartlang.org/packages/angel_cli'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: stream
+    package_version: v1.6.6
+    title: 'v1.6.6 of stream'
+    published: '2017-02-23T08:26:22+00:00'
+    id: 'urn:uuid:b2bb1d28-8092-59f2-be41-92b5c65945d6'
+    link: 'https://pub.dartlang.org/packages/stream'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
