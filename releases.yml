@@ -87172,3 +87172,30 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: plotly
+    package_version: v0.0.6+1
+    title: 'v0.0.6+1 of plotly'
+    published: '2017-02-24T16:28:34+00:00'
+    id: 'urn:uuid:dd793699-f15b-5f87-b62d-66617f08b8ab'
+    link: 'https://pub.dartlang.org/packages/plotly'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: tw_pub_proxy_server
+    package_version: v0.0.7
+    title: 'v0.0.7 of tw_pub_proxy_server'
+    published: '2017-02-24T16:24:05+00:00'
+    id: 'urn:uuid:3764cafe-6f39-586f-8b01-661e6ae2d78d'
+    link: 'https://pub.dartlang.org/packages/tw_pub_proxy_server'
+    author:
+        - 'Eric Snorteland <esnorteland@trustwave.com>'
+-
+    package_name: reflectable
+    package_version: v1.0.2
+    title: 'v1.0.2 of reflectable'
+    published: '2017-02-24T16:20:51+00:00'
+    id: 'urn:uuid:b9d39ecf-3ac9-5b52-9607-6d381e15c67a'
+    link: 'https://pub.dartlang.org/packages/reflectable'
+    author:
+        - 'The Dart Team <dart@google.com>'
