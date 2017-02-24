@@ -87199,3 +87199,21 @@
     link: 'https://pub.dartlang.org/packages/reflectable'
     author:
         - 'The Dart Team <dart@google.com>'
+-
+    package_name: dazel
+    package_version: v0.3.3
+    title: 'v0.3.3 of dazel'
+    published: '2017-02-24T17:27:37+00:00'
+    id: 'urn:uuid:9c376aea-f8f5-5714-b859-189512d5e5b7'
+    link: 'https://pub.dartlang.org/packages/dazel'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: money
+    package_version: v0.1.6
+    title: 'v0.1.6 of money'
+    published: '2017-02-24T17:13:27+00:00'
+    id: 'urn:uuid:4c25e17a-1fd1-53f5-a43f-10f28268dc32'
+    link: 'https://pub.dartlang.org/packages/money'
+    author:
+        - 'Roman Shamritskiy <roman@litgroup.ru>'
