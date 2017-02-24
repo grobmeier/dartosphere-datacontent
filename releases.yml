@@ -87134,3 +87134,22 @@
     link: 'https://pub.dartlang.org/packages/webreflect'
     author:
         - 'kari__ <master@readeasy.top>'
+-
+    package_name: jaguar_data_store
+    package_version: v0.0.4
+    title: 'v0.0.4 of jaguar_data_store'
+    published: '2017-02-24T13:52:05+00:00'
+    id: 'urn:uuid:8f2f2bce-0f67-5396-b43d-d3e52761df4b'
+    link: 'https://pub.dartlang.org/packages/jaguar_data_store'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: dartnet
+    package_version: v0.2.0
+    title: 'v0.2.0 of dartnet'
+    published: '2017-02-24T13:03:12+00:00'
+    id: 'urn:uuid:2d8772a3-8d4b-52d2-800b-70eb835fc3e7'
+    link: 'https://pub.dartlang.org/packages/dartnet'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
