@@ -87244,3 +87244,12 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: observable
+    package_version: v0.20.4
+    title: 'v0.20.4 of observable'
+    published: '2017-02-25T04:21:45+00:00'
+    id: 'urn:uuid:98971659-b3ad-5a1a-bd36-6253284802eb'
+    link: 'https://pub.dartlang.org/packages/observable'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
