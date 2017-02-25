@@ -87263,3 +87263,13 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_data_store
+    package_version: v0.0.6
+    title: 'v0.0.6 of jaguar_data_store'
+    published: '2017-02-25T08:14:25+00:00'
+    id: 'urn:uuid:4151ad2b-eaab-5cb9-b1df-c4013fb3df9d'
+    link: 'https://pub.dartlang.org/packages/jaguar_data_store'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
