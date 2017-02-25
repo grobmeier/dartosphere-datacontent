@@ -87292,3 +87292,40 @@
     link: 'https://pub.dartlang.org/packages/twit'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.59
+    title: 'v1.0.0-dev.59 of angel_framework'
+    published: '2017-02-25T20:57:38+00:00'
+    id: 'urn:uuid:ef272b15-0f49-5e39-a718-a7dabbdebd14'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: jaguar_data_store
+    package_version: v0.0.7
+    title: 'v0.0.7 of jaguar_data_store'
+    published: '2017-02-25T20:45:55+00:00'
+    id: 'urn:uuid:d6f3aa29-e78a-5159-aa86-5128c78e1982'
+    link: 'https://pub.dartlang.org/packages/jaguar_data_store'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: angel_auth_twitter
+    package_version: v1.0.1
+    title: 'v1.0.1 of angel_auth_twitter'
+    published: '2017-02-25T20:21:20+00:00'
+    id: 'urn:uuid:ca1674b1-79a3-5464-9992-1a4bac589f36'
+    link: 'https://pub.dartlang.org/packages/angel_auth_twitter'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: presubmit
+    package_version: v0.0.2
+    title: 'v0.0.2 of presubmit'
+    published: '2017-02-25T20:14:27+00:00'
+    id: 'urn:uuid:df4330f2-e574-54a6-a088-6904cc373653'
+    link: 'https://pub.dartlang.org/packages/presubmit'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
