@@ -87226,3 +87226,12 @@
     link: 'https://pub.dartlang.org/packages/service_worker'
     author:
         - 'Istvan Soos <istvan.soos@gmail.com>'
+-
+    package_name: angel_multiserver
+    package_version: v1.0.0
+    title: 'v1.0.0 of angel_multiserver'
+    published: '2017-02-24T23:34:05+00:00'
+    id: 'urn:uuid:cd771ef8-2c41-57c6-a577-7e6c5f038224'
+    link: 'https://pub.dartlang.org/packages/angel_multiserver'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
