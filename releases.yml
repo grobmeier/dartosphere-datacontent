@@ -87283,3 +87283,12 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: twit
+    package_version: v0.0.0
+    title: 'v0.0.0 of twit'
+    published: '2017-02-25T19:33:39+00:00'
+    id: 'urn:uuid:cfab2780-c087-5ccb-bec0-589c07a5ac24'
+    link: 'https://pub.dartlang.org/packages/twit'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
