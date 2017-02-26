@@ -87443,3 +87443,40 @@
     link: 'https://pub.dartlang.org/packages/polymerize'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: mdialog
+    package_version: v0.0.3
+    title: 'v0.0.3 of mdialog'
+    published: '2017-02-26T21:53:56+00:00'
+    id: 'urn:uuid:7b4f9e60-172f-550d-8429-401b62ba9070'
+    link: 'https://pub.dartlang.org/packages/mdialog'
+    author:
+        - 'Gonzalo Chumillas <gchumillas@email.com>'
+-
+    package_name: angel_multiserver
+    package_version: v1.0.4
+    title: 'v1.0.4 of angel_multiserver'
+    published: '2017-02-26T21:51:35+00:00'
+    id: 'urn:uuid:9a65fca3-381f-5d09-88ca-167c791567e1'
+    link: 'https://pub.dartlang.org/packages/angel_multiserver'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.60
+    title: 'v1.0.0-dev.60 of angel_framework'
+    published: '2017-02-26T21:31:19+00:00'
+    id: 'urn:uuid:120b4711-a797-58f9-bf28-3c54d421528e'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: jaguar_query_postgresql
+    package_version: v0.0.2
+    title: 'v0.0.2 of jaguar_query_postgresql'
+    published: '2017-02-26T21:04:13+00:00'
+    id: 'urn:uuid:be331045-8ec2-5204-8fc5-73fc7a8b5046'
+    link: 'https://pub.dartlang.org/packages/jaguar_query_postgresql'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
