@@ -87424,3 +87424,22 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_query
+    package_version: v0.0.14
+    title: 'v0.0.14 of jaguar_query'
+    published: '2017-02-26T20:23:24+00:00'
+    id: 'urn:uuid:8419c98a-a6d7-57ed-ae10-48e81035a2a0'
+    link: 'https://pub.dartlang.org/packages/jaguar_query'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: polymerize
+    package_version: v0.4.7
+    title: 'v0.4.7 of polymerize'
+    published: '2017-02-26T20:09:46+00:00'
+    id: 'urn:uuid:595b2902-6668-5f1b-a22c-c11d200aac09'
+    link: 'https://pub.dartlang.org/packages/polymerize'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
