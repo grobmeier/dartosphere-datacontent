@@ -87395,3 +87395,22 @@
     link: 'https://pub.dartlang.org/packages/html5'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: jaguar_query
+    package_version: v0.0.11
+    title: 'v0.0.11 of jaguar_query'
+    published: '2017-02-26T15:55:35+00:00'
+    id: 'urn:uuid:4281623e-0e91-56d6-a95a-da298ba241dc'
+    link: 'https://pub.dartlang.org/packages/jaguar_query'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: pikaday_datepicker_angular2
+    package_version: v1.0.0
+    title: 'v1.0.0 of pikaday_datepicker_angular2'
+    published: '2017-02-26T15:45:22+00:00'
+    id: 'urn:uuid:8d19dc31-20eb-5fba-a634-68a067323c28'
+    link: 'https://pub.dartlang.org/packages/pikaday_datepicker_angular2'
+    author:
+        - 'Stephan Schroeder <simon.void+github@gmail.com>'
