@@ -87480,3 +87480,22 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_query
+    package_version: v0.0.17
+    title: 'v0.0.17 of jaguar_query'
+    published: '2017-02-26T22:57:29+00:00'
+    id: 'urn:uuid:1f216909-67d9-59ad-881b-f835985e5cb2'
+    link: 'https://pub.dartlang.org/packages/jaguar_query'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: html5
+    package_version: v0.0.3
+    title: 'v0.0.3 of html5'
+    published: '2017-02-26T22:21:03+00:00'
+    id: 'urn:uuid:ff73b9c9-affe-541a-8513-da2d3e1e2dfb'
+    link: 'https://pub.dartlang.org/packages/html5'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
