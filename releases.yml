@@ -87377,3 +87377,21 @@
     link: 'https://pub.dartlang.org/packages/polymerize'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: pikaday_datepicker
+    package_version: v2.0.0
+    title: 'v2.0.0 of pikaday_datepicker'
+    published: '2017-02-26T14:44:33+00:00'
+    id: 'urn:uuid:8eb312ed-d5ee-552f-b9b4-afed73267c3a'
+    link: 'https://pub.dartlang.org/packages/pikaday_datepicker'
+    author:
+        - 'Stephan Schroeder <simon.void+github@gmail.com>'
+-
+    package_name: html5
+    package_version: v0.0.2
+    title: 'v0.0.2 of html5'
+    published: '2017-02-26T14:05:15+00:00'
+    id: 'urn:uuid:b5a09769-a841-55ac-96bd-549e5be4df6e'
+    link: 'https://pub.dartlang.org/packages/html5'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
