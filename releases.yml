@@ -87414,3 +87414,13 @@
     link: 'https://pub.dartlang.org/packages/pikaday_datepicker_angular2'
     author:
         - 'Stephan Schroeder <simon.void+github@gmail.com>'
+-
+    package_name: jaguar_query
+    package_version: v0.0.12
+    title: 'v0.0.12 of jaguar_query'
+    published: '2017-02-26T16:50:34+00:00'
+    id: 'urn:uuid:44ac8e60-0cea-5f92-b9ee-05db8c64d7ed'
+    link: 'https://pub.dartlang.org/packages/jaguar_query'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
