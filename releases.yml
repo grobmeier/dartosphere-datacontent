@@ -87527,3 +87527,12 @@
     author:
         - 'Daniel Domberger <daniel.domberger@exit.live>'
         - 'Martin Flucka <martin.flucka@exit.live>'
+-
+    package_name: less_dart
+    package_version: v1.0.0
+    title: 'v1.0.0 of less_dart'
+    published: '2017-02-27T16:55:08+00:00'
+    id: 'urn:uuid:3dc3ed17-eebd-54f2-8535-3100e89a8b46'
+    link: 'https://pub.dartlang.org/packages/less_dart'
+    author:
+        - 'Adalberto Lacruz <adalberto.lacruz@gmail.com>'
