@@ -87508,3 +87508,12 @@
     link: 'https://pub.dartlang.org/packages/angel_static'
     author:
         - 'thosakwe <thosakwe@gmail.com>'
+-
+    package_name: angel_multiserver
+    package_version: v1.0.5
+    title: 'v1.0.5 of angel_multiserver'
+    published: '2017-02-27T04:38:20+00:00'
+    id: 'urn:uuid:fc9cce23-11e8-5741-8066-5651dccd1157'
+    link: 'https://pub.dartlang.org/packages/angel_multiserver'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
