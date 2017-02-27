@@ -87554,3 +87554,14 @@
     link: 'https://pub.dartlang.org/packages/dogma_rest_connection'
     author:
         - 'Don Olmstead <don.j.olmstead@gmail.com>'
+-
+    package_name: file
+    package_version: v2.3.0
+    title: 'v2.3.0 of file'
+    published: '2017-02-27T21:28:41+00:00'
+    id: 'urn:uuid:f6392cfd-7fdb-5828-a029-5e15182fc52d'
+    link: 'https://pub.dartlang.org/packages/file'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Todd Volkert <tvolkert@google.com>'
