@@ -87517,3 +87517,13 @@
     link: 'https://pub.dartlang.org/packages/angel_multiserver'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: currency_cloud
+    package_version: v0.0.8
+    title: 'v0.0.8 of currency_cloud'
+    published: '2017-02-27T15:07:40+00:00'
+    id: 'urn:uuid:ef15d88b-02ae-54c3-8221-f7ce4991fddb'
+    link: 'https://pub.dartlang.org/packages/currency_cloud'
+    author:
+        - 'Daniel Domberger <daniel.domberger@exit.live>'
+        - 'Martin Flucka <martin.flucka@exit.live>'
