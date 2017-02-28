@@ -87620,3 +87620,48 @@
     link: 'https://pub.dartlang.org/packages/domelement'
     author:
         - 'Gonzalo Chumillas <gchumillas@email.com>'
+-
+    package_name: built_value_generator
+    package_version: v0.5.4
+    title: 'v0.5.4 of built_value_generator'
+    published: '2017-02-28T13:53:52+00:00'
+    id: 'urn:uuid:d935965f-87f4-5f1e-a154-6c5a9eb45103'
+    link: 'https://pub.dartlang.org/packages/built_value_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value
+    package_version: v0.5.4
+    title: 'v0.5.4 of built_value'
+    published: '2017-02-28T13:53:13+00:00'
+    id: 'urn:uuid:eb3c1b4f-573f-5955-b7f2-cb885f586484'
+    link: 'https://pub.dartlang.org/packages/built_value'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: polymerize
+    package_version: v0.4.8
+    title: 'v0.4.8 of polymerize'
+    published: '2017-02-28T13:46:25+00:00'
+    id: 'urn:uuid:2a437c89-ab65-5447-804b-c1f47497fdf4'
+    link: 'https://pub.dartlang.org/packages/polymerize'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: polymer_element
+    package_version: v0.4.0
+    title: 'v0.4.0 of polymer_element'
+    published: '2017-02-28T13:34:27+00:00'
+    id: 'urn:uuid:28a7879a-606f-5c62-ba4d-0ea3ee5d62fc'
+    link: 'https://pub.dartlang.org/packages/polymer_element'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: html5
+    package_version: v0.0.4
+    title: 'v0.0.4 of html5'
+    published: '2017-02-28T13:24:43+00:00'
+    id: 'urn:uuid:eba93f72-fc29-5498-a89f-be00a6dc3169'
+    link: 'https://pub.dartlang.org/packages/html5'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
