@@ -87692,3 +87692,12 @@
     link: 'https://pub.dartlang.org/packages/angel_websocket'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: gitlab
+    package_version: v0.1.3
+    title: 'v0.1.3 of gitlab'
+    published: '2017-02-28T15:47:48+00:00'
+    id: 'urn:uuid:b5e53fa8-ddc9-5a7e-9a10-cba8531ba7c9'
+    link: 'https://pub.dartlang.org/packages/gitlab'
+    author:
+        - 'Matias Meno <m@tias.me>'
