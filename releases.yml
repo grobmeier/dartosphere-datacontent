@@ -87665,3 +87665,30 @@
     link: 'https://pub.dartlang.org/packages/html5'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: packages
+    package_version: v0.1.9
+    title: 'v0.1.9 of packages'
+    published: '2017-02-28T15:00:57+00:00'
+    id: 'urn:uuid:8115edac-1c2f-5268-bdd7-81760cf52851'
+    link: 'https://pub.dartlang.org/packages/packages'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: angel_multiserver
+    package_version: v1.0.6
+    title: 'v1.0.6 of angel_multiserver'
+    published: '2017-02-28T14:48:53+00:00'
+    id: 'urn:uuid:ce7e2317-dfd2-56f3-ace3-748e847f66bd'
+    link: 'https://pub.dartlang.org/packages/angel_multiserver'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_websocket
+    package_version: v1.0.2
+    title: 'v1.0.2 of angel_websocket'
+    published: '2017-02-28T14:16:40+00:00'
+    id: 'urn:uuid:6d4fc802-82c2-52b5-b564-8254770a4c31'
+    link: 'https://pub.dartlang.org/packages/angel_websocket'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
