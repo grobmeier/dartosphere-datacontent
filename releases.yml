@@ -87602,3 +87602,21 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: mdialog
+    package_version: v0.0.4
+    title: 'v0.0.4 of mdialog'
+    published: '2017-02-28T12:41:27+00:00'
+    id: 'urn:uuid:2a41500f-5bcf-5a63-a6e6-57faeb08cdd3'
+    link: 'https://pub.dartlang.org/packages/mdialog'
+    author:
+        - 'Gonzalo Chumillas <gchumillas@email.com>'
+-
+    package_name: domelement
+    package_version: v1.0.0
+    title: 'v1.0.0 of domelement'
+    published: '2017-02-28T12:38:53+00:00'
+    id: 'urn:uuid:96050980-b69b-59e9-ae5c-29cb72a8ff42'
+    link: 'https://pub.dartlang.org/packages/domelement'
+    author:
+        - 'Gonzalo Chumillas <gchumillas@email.com>'
