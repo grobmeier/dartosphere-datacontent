@@ -87701,3 +87701,12 @@
     link: 'https://pub.dartlang.org/packages/gitlab'
     author:
         - 'Matias Meno <m@tias.me>'
+-
+    package_name: sass_var_transformer
+    package_version: v0.1.0
+    title: 'v0.1.0 of sass_var_transformer'
+    published: '2017-02-28T16:04:06+00:00'
+    id: 'urn:uuid:5b29f6d2-be41-57a4-8112-74605cb41717'
+    link: 'https://pub.dartlang.org/packages/sass_var_transformer'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
