@@ -87584,3 +87584,12 @@
     link: 'https://pub.dartlang.org/packages/_bazel_codegen'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: pikaday_datepicker_angular2
+    package_version: v1.0.1
+    title: 'v1.0.1 of pikaday_datepicker_angular2'
+    published: '2017-02-28T08:11:02+00:00'
+    id: 'urn:uuid:e3ec0e05-8c30-5f11-9f64-de0aaf0c52ea'
+    link: 'https://pub.dartlang.org/packages/pikaday_datepicker_angular2'
+    author:
+        - 'Stephan Schroeder <simon.void+github@gmail.com>'
