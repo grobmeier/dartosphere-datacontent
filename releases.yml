@@ -87746,3 +87746,21 @@
     link: 'https://pub.dartlang.org/packages/analyzer'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: speakeasy
+    package_version: v0.0.2
+    title: 'v0.0.2 of speakeasy'
+    published: '2017-02-28T22:32:15+00:00'
+    id: 'urn:uuid:2fe603d2-14e6-535b-b97c-e6022dc742bd'
+    link: 'https://pub.dartlang.org/packages/speakeasy'
+    author:
+        - 'Don Olmstead <don.j.olmstead@gmail.com>'
+-
+    package_name: angel_auth
+    package_version: v1.0.0
+    title: 'v1.0.0 of angel_auth'
+    published: '2017-02-28T22:16:37+00:00'
+    id: 'urn:uuid:778fe66a-c806-50c2-a5d6-e2fe936b2f4c'
+    link: 'https://pub.dartlang.org/packages/angel_auth'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
