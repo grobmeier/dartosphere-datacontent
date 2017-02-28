@@ -87565,3 +87565,22 @@
         - 'Matan Lurey <matanl@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Todd Volkert <tvolkert@google.com>'
+-
+    package_name: ng_bootstrap
+    package_version: v0.5.2
+    title: 'v0.5.2 of ng_bootstrap'
+    published: '2017-02-28T03:53:13+00:00'
+    id: 'urn:uuid:59979df2-f188-50af-8319-da4b727772fe'
+    link: 'https://pub.dartlang.org/packages/ng_bootstrap'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+        - 'Adao Jr. <itsjunnior@gmail.com>'
+-
+    package_name: _bazel_codegen
+    package_version: v0.1.0
+    title: 'v0.1.0 of _bazel_codegen'
+    published: '2017-02-28T03:15:06+00:00'
+    id: 'urn:uuid:a4ea61bb-9033-5764-84c8-ef7473a41d44'
+    link: 'https://pub.dartlang.org/packages/_bazel_codegen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
