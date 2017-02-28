@@ -87593,3 +87593,12 @@
     link: 'https://pub.dartlang.org/packages/pikaday_datepicker_angular2'
     author:
         - 'Stephan Schroeder <simon.void+github@gmail.com>'
+-
+    package_name: mdl
+    package_version: v1.18.4
+    title: 'v1.18.4 of mdl'
+    published: '2017-02-28T09:36:26+00:00'
+    id: 'urn:uuid:1844b8b9-590e-5224-9adf-ed17c545f629'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
