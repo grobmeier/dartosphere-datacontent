@@ -87773,3 +87773,12 @@
     link: 'https://pub.dartlang.org/packages/doksan'
     author:
         - 'Muhammed Ali Sit <sitmuhammedali@gmail.com>'
+-
+    package_name: markd
+    package_version: v0.11.3+2
+    title: 'v0.11.3+2 of markd'
+    published: '2017-03-01T02:05:32+00:00'
+    id: 'urn:uuid:30587d18-8bd1-5570-a5ee-337936903de4'
+    link: 'https://pub.dartlang.org/packages/markd'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
