@@ -87764,3 +87764,12 @@
     link: 'https://pub.dartlang.org/packages/angel_auth'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: doksan
+    package_version: v0.0.9
+    title: 'v0.0.9 of doksan'
+    published: '2017-03-01T00:07:32+00:00'
+    id: 'urn:uuid:f34f0e35-c8f9-542e-af48-1fc1b4045093'
+    link: 'https://pub.dartlang.org/packages/doksan'
+    author:
+        - 'Muhammed Ali Sit <sitmuhammedali@gmail.com>'
