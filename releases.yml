@@ -87791,3 +87791,12 @@
     link: 'https://pub.dartlang.org/packages/gpmx'
     author:
         - 'axetroy <troy450409405@gmail.com>'
+-
+    package_name: polymer_element
+    package_version: v0.4.1
+    title: 'v0.4.1 of polymer_element'
+    published: '2017-03-01T17:35:20+00:00'
+    id: 'urn:uuid:ea612580-343b-512e-b5ff-b055399c716f'
+    link: 'https://pub.dartlang.org/packages/polymer_element'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
