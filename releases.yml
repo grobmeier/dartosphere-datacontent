@@ -87809,3 +87809,12 @@
     link: 'https://pub.dartlang.org/packages/angel_task'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: test
+    package_version: v0.12.20+1
+    title: 'v0.12.20+1 of test'
+    published: '2017-03-01T22:25:06+00:00'
+    id: 'urn:uuid:2af3b8b7-f4d4-536b-ba1d-3683a7bbce59'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
