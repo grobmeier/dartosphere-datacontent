@@ -87854,3 +87854,49 @@
     link: 'https://pub.dartlang.org/packages/angel_cli'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_rethink
+    package_version: v1.0.3
+    title: 'v1.0.3 of angel_rethink'
+    published: '2017-03-02T04:30:53+00:00'
+    id: 'urn:uuid:cb0edb0e-e462-5ee8-99f6-26912037917b'
+    link: 'https://pub.dartlang.org/packages/angel_rethink'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: rethinkdb_driver2
+    package_version: v2.3.1
+    title: 'v2.3.1 of rethinkdb_driver2'
+    published: '2017-03-02T04:27:07+00:00'
+    id: 'urn:uuid:e6a24a51-7964-54e5-8a44-bfb0f6e7f73e'
+    link: 'https://pub.dartlang.org/packages/rethinkdb_driver2'
+    author:
+        - 'William Welch <billywelch@gmail.com>'
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_diagnostics
+    package_version: v1.0.0
+    title: 'v1.0.0 of angel_diagnostics'
+    published: '2017-03-02T04:08:52+00:00'
+    id: 'urn:uuid:f0aa7c50-793a-5398-966b-42b0cf53e4a4'
+    link: 'https://pub.dartlang.org/packages/angel_diagnostics'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.61
+    title: 'v1.0.0-dev.61 of angel_framework'
+    published: '2017-03-02T04:05:05+00:00'
+    id: 'urn:uuid:960a19bb-e590-5e6a-8472-0702f5c481d5'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_static
+    package_version: v1.1.4
+    title: 'v1.1.4 of angel_static'
+    published: '2017-03-02T04:01:40+00:00'
+    id: 'urn:uuid:2825c503-79a7-580a-8de8-64c82839aea7'
+    link: 'https://pub.dartlang.org/packages/angel_static'
+    author:
+        - 'thosakwe <thosakwe@gmail.com>'
