@@ -87982,3 +87982,21 @@
     link: 'https://pub.dartlang.org/packages/jaguar_ban_ip'
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: service_worker
+    package_version: v0.0.6
+    title: 'v0.0.6 of service_worker'
+    published: '2017-03-02T21:56:12+00:00'
+    id: 'urn:uuid:5e5add70-946d-5f70-86ff-b1cc813852d4'
+    link: 'https://pub.dartlang.org/packages/service_worker'
+    author:
+        - 'Istvan Soos <istvan.soos@gmail.com>'
+-
+    package_name: angel_auth
+    package_version: v1.0.1
+    title: 'v1.0.1 of angel_auth'
+    published: '2017-03-02T21:30:23+00:00'
+    id: 'urn:uuid:9cb37fbe-6e43-5bd8-b8f3-e5105f6253ef'
+    link: 'https://pub.dartlang.org/packages/angel_auth'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
