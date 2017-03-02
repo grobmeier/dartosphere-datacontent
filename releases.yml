@@ -87818,3 +87818,39 @@
     link: 'https://pub.dartlang.org/packages/test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angel_websocket
+    package_version: v1.0.3
+    title: 'v1.0.3 of angel_websocket'
+    published: '2017-03-02T03:54:52+00:00'
+    id: 'urn:uuid:fa0df94e-9613-565e-8258-ed267fae3a1e'
+    link: 'https://pub.dartlang.org/packages/angel_websocket'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: protocols
+    package_version: v0.1.0
+    title: 'v0.1.0 of protocols'
+    published: '2017-03-02T03:39:39+00:00'
+    id: 'urn:uuid:155c2899-c493-535f-8484-2e17646a1cad'
+    link: 'https://pub.dartlang.org/packages/protocols'
+    author:
+        - 'axetroy <troy450409405@gmail.com>'
+-
+    package_name: angel_proxy
+    package_version: v1.0.0
+    title: 'v1.0.0 of angel_proxy'
+    published: '2017-03-02T03:38:28+00:00'
+    id: 'urn:uuid:62aa6ab5-334f-52f8-b2f7-da5be3f449a7'
+    link: 'https://pub.dartlang.org/packages/angel_proxy'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_cli
+    package_version: v1.0.3
+    title: 'v1.0.3 of angel_cli'
+    published: '2017-03-02T03:31:12+00:00'
+    id: 'urn:uuid:cae9df22-ad56-58fc-9a30-2958e8e60cee'
+    link: 'https://pub.dartlang.org/packages/angel_cli'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
