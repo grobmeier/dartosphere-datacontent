@@ -87964,3 +87964,21 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: plotly
+    package_version: v0.0.6+2
+    title: 'v0.0.6+2 of plotly'
+    published: '2017-03-02T17:53:15+00:00'
+    id: 'urn:uuid:dddf52a6-6a8f-53fd-b3f6-a75fe54ee216'
+    link: 'https://pub.dartlang.org/packages/plotly'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: jaguar_ban_ip
+    package_version: v0.0.1
+    title: 'v0.0.1 of jaguar_ban_ip'
+    published: '2017-03-02T17:19:32+00:00'
+    id: 'urn:uuid:2308c350-4287-5a51-9690-17e1936d8b30'
+    link: 'https://pub.dartlang.org/packages/jaguar_ban_ip'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
