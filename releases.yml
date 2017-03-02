@@ -87927,3 +87927,12 @@
     link: 'https://pub.dartlang.org/packages/url_parse'
     author:
         - 'axetroy <troy450409405@gmail.com>'
+-
+    package_name: git_url_parse
+    package_version: v0.1.0
+    title: 'v0.1.0 of git_url_parse'
+    published: '2017-03-02T09:39:09+00:00'
+    id: 'urn:uuid:c391d2df-d32f-5519-8ec6-eacbfe52fce1'
+    link: 'https://pub.dartlang.org/packages/git_url_parse'
+    author:
+        - 'axetroy <troy450409405@gmail.com>'
