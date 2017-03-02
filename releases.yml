@@ -87936,3 +87936,21 @@
     link: 'https://pub.dartlang.org/packages/git_url_parse'
     author:
         - 'axetroy <troy450409405@gmail.com>'
+-
+    package_name: service_worker
+    package_version: v0.0.5
+    title: 'v0.0.5 of service_worker'
+    published: '2017-03-02T14:45:39+00:00'
+    id: 'urn:uuid:c89c28ea-42ef-5c81-ab57-275dcdc4cb1a'
+    link: 'https://pub.dartlang.org/packages/service_worker'
+    author:
+        - 'Istvan Soos <istvan.soos@gmail.com>'
+-
+    package_name: aqueduct
+    package_version: v2.0.0
+    title: 'v2.0.0 of aqueduct'
+    published: '2017-03-02T14:23:08+00:00'
+    id: 'urn:uuid:65a0d6bc-362d-552f-a148-3371807908b5'
+    link: 'https://pub.dartlang.org/packages/aqueduct'
+    author:
+        - 'stable|kernel <http://stablekernel.com>'
