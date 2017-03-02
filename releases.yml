@@ -87900,3 +87900,12 @@
     link: 'https://pub.dartlang.org/packages/angel_static'
     author:
         - 'thosakwe <thosakwe@gmail.com>'
+-
+    package_name: sass_builder
+    package_version: v0.0.2
+    title: 'v0.0.2 of sass_builder'
+    published: '2017-03-02T05:53:36+00:00'
+    id: 'urn:uuid:ba0301ff-e641-5775-a484-dcc14373f25a'
+    link: 'https://pub.dartlang.org/packages/sass_builder'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
