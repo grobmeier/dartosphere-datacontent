@@ -88126,3 +88126,12 @@
     link: 'https://pub.dartlang.org/packages/fcm_push'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: over_react
+    package_version: v1.7.0
+    title: 'v1.7.0 of over_react'
+    published: '2017-03-03T20:20:19+00:00'
+    id: 'urn:uuid:a74b36fc-d49c-5ebf-b816-077f4cda90cb'
+    link: 'https://pub.dartlang.org/packages/over_react'
+    author:
+        - 'Workiva UI Platform Team <uip@workiva.com>'
