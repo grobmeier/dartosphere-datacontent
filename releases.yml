@@ -88090,3 +88090,21 @@
     link: 'https://pub.dartlang.org/packages/w_common'
     author:
         - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+-
+    package_name: fcm_push
+    package_version: v1.0.0
+    title: 'v1.0.0 of fcm_push'
+    published: '2017-03-03T16:58:55+00:00'
+    id: 'urn:uuid:9a78bca1-478c-558b-80da-4fd2bab361f6'
+    link: 'https://pub.dartlang.org/packages/fcm_push'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: plotly
+    package_version: v0.7.0
+    title: 'v0.7.0 of plotly'
+    published: '2017-03-03T16:23:25+00:00'
+    id: 'urn:uuid:cd6766f2-98d4-53f3-b425-ab8ee0aa2d0a'
+    link: 'https://pub.dartlang.org/packages/plotly'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
