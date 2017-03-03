@@ -88027,3 +88027,12 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: service_worker
+    package_version: v0.0.7
+    title: 'v0.0.7 of service_worker'
+    published: '2017-03-03T08:53:42+00:00'
+    id: 'urn:uuid:9c7de7a6-dc97-5877-b056-23ff6d9816d7'
+    link: 'https://pub.dartlang.org/packages/service_worker'
+    author:
+        - 'Istvan Soos <istvan.soos@gmail.com>'
