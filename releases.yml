@@ -88063,3 +88063,30 @@
     link: 'https://pub.dartlang.org/packages/dart_coveralls'
     author:
         - 'Axel Christ <adracus@gmail.com>'
+-
+    package_name: built_value_generator
+    package_version: v0.5.5
+    title: 'v0.5.5 of built_value_generator'
+    published: '2017-03-03T15:33:24+00:00'
+    id: 'urn:uuid:6ff90ba1-8c24-5f9b-9475-92ba3597ccea'
+    link: 'https://pub.dartlang.org/packages/built_value_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value
+    package_version: v0.5.5
+    title: 'v0.5.5 of built_value'
+    published: '2017-03-03T15:32:39+00:00'
+    id: 'urn:uuid:e844a839-e6be-526a-8dcf-00a1deff739a'
+    link: 'https://pub.dartlang.org/packages/built_value'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: w_common
+    package_version: v1.3.0
+    title: 'v1.3.0 of w_common'
+    published: '2017-03-03T15:11:07+00:00'
+    id: 'urn:uuid:38c1ece0-bd30-599f-bbf4-fc4a1dd1cacf'
+    link: 'https://pub.dartlang.org/packages/w_common'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
