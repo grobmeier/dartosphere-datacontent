@@ -88153,3 +88153,12 @@
     link: 'https://pub.dartlang.org/packages/pbsm'
     author:
         - 'sh4869 <nobuk4869@gmail.com>'
+-
+    package_name: ee
+    package_version: v0.0.1
+    title: 'v0.0.1 of ee'
+    published: '2017-03-04T09:57:03+00:00'
+    id: 'urn:uuid:278cede3-56a0-5e60-8989-6a6522d2c442'
+    link: 'https://pub.dartlang.org/packages/ee'
+    author:
+        - 'axetroy <troy450409405@gmail.com>'
