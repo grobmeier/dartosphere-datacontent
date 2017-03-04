@@ -88135,3 +88135,12 @@
     link: 'https://pub.dartlang.org/packages/over_react'
     author:
         - 'Workiva UI Platform Team <uip@workiva.com>'
+-
+    package_name: angel_cli
+    package_version: v1.0.4
+    title: 'v1.0.4 of angel_cli'
+    published: '2017-03-04T04:16:33+00:00'
+    id: 'urn:uuid:e9ea2b7f-801f-5fb7-9d6b-cafd85fbedeb'
+    link: 'https://pub.dartlang.org/packages/angel_cli'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
