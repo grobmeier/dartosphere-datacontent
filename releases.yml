@@ -88182,3 +88182,24 @@
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: jaguar_serializer_mongo
+    package_version: v0.0.2
+    title: 'v0.0.2 of jaguar_serializer_mongo'
+    published: '2017-03-04T16:15:46+00:00'
+    id: 'urn:uuid:1ee86813-e974-562a-9db8-6d436c41a81c'
+    link: 'https://pub.dartlang.org/packages/jaguar_serializer_mongo'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_serializer
+    package_version: v0.2.1
+    title: 'v0.2.1 of jaguar_serializer'
+    published: '2017-03-04T16:07:49+00:00'
+    id: 'urn:uuid:7969a3fe-ebba-5a20-94ec-ee78dd028c04'
+    link: 'https://pub.dartlang.org/packages/jaguar_serializer'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
