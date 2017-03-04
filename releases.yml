@@ -88144,3 +88144,12 @@
     link: 'https://pub.dartlang.org/packages/angel_cli'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: pbsm
+    package_version: v0.1.6
+    title: 'v0.1.6 of pbsm'
+    published: '2017-03-04T08:26:20+00:00'
+    id: 'urn:uuid:5888dada-5c44-5a69-89e9-dc4c8630b652'
+    link: 'https://pub.dartlang.org/packages/pbsm'
+    author:
+        - 'sh4869 <nobuk4869@gmail.com>'
