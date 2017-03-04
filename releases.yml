@@ -88162,3 +88162,12 @@
     link: 'https://pub.dartlang.org/packages/ee'
     author:
         - 'axetroy <troy450409405@gmail.com>'
+-
+    package_name: ee
+    package_version: v0.0.3
+    title: 'v0.0.3 of ee'
+    published: '2017-03-04T10:23:23+00:00'
+    id: 'urn:uuid:220502d8-8017-574d-a690-5fc17f553729'
+    link: 'https://pub.dartlang.org/packages/ee'
+    author:
+        - 'axetroy <troy450409405@gmail.com>'
