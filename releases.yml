@@ -88316,3 +88316,13 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_orm
+    package_version: v0.0.4
+    title: 'v0.0.4 of jaguar_orm'
+    published: '2017-03-05T16:41:00+00:00'
+    id: 'urn:uuid:de418e1f-429e-5e6b-8811-9668d3d45916'
+    link: 'https://pub.dartlang.org/packages/jaguar_orm'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
