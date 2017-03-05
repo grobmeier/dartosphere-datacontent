@@ -88266,3 +88266,12 @@
     link: 'https://pub.dartlang.org/packages/angel_file_security'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: protobuf_runner
+    package_version: v1.0.0
+    title: 'v1.0.0 of protobuf_runner'
+    published: '2017-03-05T06:32:52+00:00'
+    id: 'urn:uuid:42e0cdf8-310c-557e-8e63-76cff2c76e5b'
+    link: 'https://pub.dartlang.org/packages/protobuf_runner'
+    author:
+        - 'John Ryan <john.p.ryan4@gmail.com>'
