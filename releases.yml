@@ -88248,3 +88248,21 @@
     link: 'https://pub.dartlang.org/packages/angel_relations'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.64
+    title: 'v1.0.0-dev.64 of angel_framework'
+    published: '2017-03-04T23:10:07+00:00'
+    id: 'urn:uuid:99910f91-3c88-5ae2-abcd-e7ef4ac356c9'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_file_security
+    package_version: v1.0.0
+    title: 'v1.0.0 of angel_file_security'
+    published: '2017-03-04T23:05:39+00:00'
+    id: 'urn:uuid:749f12d1-74a3-5c5d-a372-247937a60a23'
+    link: 'https://pub.dartlang.org/packages/angel_file_security'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
