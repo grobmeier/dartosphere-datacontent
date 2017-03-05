@@ -88326,3 +88326,22 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: dartz
+    package_version: v0.5.4
+    title: 'v0.5.4 of dartz'
+    published: '2017-03-05T17:45:01+00:00'
+    id: 'urn:uuid:e65df281-82d8-59c2-b197-af00f08ef428'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: jaguar_cli
+    package_version: v0.0.23
+    title: 'v0.0.23 of jaguar_cli'
+    published: '2017-03-05T17:15:28+00:00'
+    id: 'urn:uuid:9ec9669c-8905-541b-9ee2-8636a352a4f0'
+    link: 'https://pub.dartlang.org/packages/jaguar_cli'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
