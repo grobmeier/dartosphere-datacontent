@@ -88306,3 +88306,13 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_validate
+    package_version: v0.0.9
+    title: 'v0.0.9 of jaguar_validate'
+    published: '2017-03-05T15:06:24+00:00'
+    id: 'urn:uuid:dd554568-2ff8-5b5c-815a-068317ce338c'
+    link: 'https://pub.dartlang.org/packages/jaguar_validate'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
