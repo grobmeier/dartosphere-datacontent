@@ -88444,3 +88444,12 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: isolate_cluster
+    package_version: v0.15.0
+    title: 'v0.15.0 of isolate_cluster'
+    published: '2017-03-06T18:21:14+00:00'
+    id: 'urn:uuid:15d9eed1-398b-5f7a-8fb1-23f023d3b9ae'
+    link: 'https://pub.dartlang.org/packages/isolate_cluster'
+    author:
+        - 'Oliver Damm <oliver.damm@gmx.de>'
