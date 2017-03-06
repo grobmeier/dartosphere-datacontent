@@ -88453,3 +88453,12 @@
     link: 'https://pub.dartlang.org/packages/isolate_cluster'
     author:
         - 'Oliver Damm <oliver.damm@gmx.de>'
+-
+    package_name: http
+    package_version: v0.11.3+11
+    title: 'v0.11.3+11 of http'
+    published: '2017-03-06T20:37:44+00:00'
+    id: 'urn:uuid:71906254-3d83-5ba9-9ce3-b80dad6e6f9a'
+    link: 'https://pub.dartlang.org/packages/http'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
