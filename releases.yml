@@ -88435,3 +88435,12 @@
     link: 'https://pub.dartlang.org/packages/gcloud'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: mdl
+    package_version: v1.18.5
+    title: 'v1.18.5 of mdl'
+    published: '2017-03-06T17:06:54+00:00'
+    id: 'urn:uuid:d72e3680-9c4b-563d-b6db-10c9eec789c3'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
