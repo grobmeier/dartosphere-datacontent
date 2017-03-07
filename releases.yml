@@ -88648,3 +88648,39 @@
     link: 'https://pub.dartlang.org/packages/body_parser'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_client
+    package_version: v1.0.2
+    title: 'v1.0.2 of angel_client'
+    published: '2017-03-07T21:54:28+00:00'
+    id: 'urn:uuid:67eabf42-398d-56d0-b817-015b722654ce'
+    link: 'https://pub.dartlang.org/packages/angel_client'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: body_parser
+    package_version: v1.0.1
+    title: 'v1.0.1 of body_parser'
+    published: '2017-03-07T21:29:27+00:00'
+    id: 'urn:uuid:9a3a4c00-a750-522d-9545-fb000c396a70'
+    link: 'https://pub.dartlang.org/packages/body_parser'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_rethink
+    package_version: v1.0.5
+    title: 'v1.0.5 of angel_rethink'
+    published: '2017-03-07T21:23:21+00:00'
+    id: 'urn:uuid:be9b4bd0-d0eb-5113-8968-192fb68f8afe'
+    link: 'https://pub.dartlang.org/packages/angel_rethink'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: _bazel_codegen
+    package_version: v0.1.1
+    title: 'v0.1.1 of _bazel_codegen'
+    published: '2017-03-07T21:09:45+00:00'
+    id: 'urn:uuid:c14f33d4-6c48-53af-a558-fe5bec43351c'
+    link: 'https://pub.dartlang.org/packages/_bazel_codegen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
