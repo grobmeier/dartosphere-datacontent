@@ -88489,3 +88489,22 @@
     link: 'https://pub.dartlang.org/packages/english_words'
     author:
         - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: isolate_cluster
+    package_version: v0.15.1
+    title: 'v0.15.1 of isolate_cluster'
+    published: '2017-03-07T05:41:33+00:00'
+    id: 'urn:uuid:22f4ea8d-dd24-5c50-9639-cb6f8c917078'
+    link: 'https://pub.dartlang.org/packages/isolate_cluster'
+    author:
+        - 'Oliver Damm <oliver.damm@gmx.de>'
+-
+    package_name: jaguar_query_postgresql
+    package_version: v0.0.3
+    title: 'v0.0.3 of jaguar_query_postgresql'
+    published: '2017-03-07T05:21:32+00:00'
+    id: 'urn:uuid:e8c97fc5-c669-5941-9d1b-ce14395f8dbb'
+    link: 'https://pub.dartlang.org/packages/jaguar_query_postgresql'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
