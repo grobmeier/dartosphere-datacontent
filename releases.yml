@@ -88480,3 +88480,12 @@
     link: 'https://pub.dartlang.org/packages/angel_multiserver'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: english_words
+    package_version: v1.0.1
+    title: 'v1.0.1 of english_words'
+    published: '2017-03-07T01:26:51+00:00'
+    id: 'urn:uuid:92207703-8f43-50ec-9f89-63197285120e'
+    link: 'https://pub.dartlang.org/packages/english_words'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
