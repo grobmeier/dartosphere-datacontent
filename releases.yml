@@ -88562,3 +88562,12 @@
     link: 'https://pub.dartlang.org/packages/sortedmap'
     author:
         - 'Rik Bellens <rik.bellens@appsup.be>'
+-
+    package_name: service_worker
+    package_version: v0.0.8
+    title: 'v0.0.8 of service_worker'
+    published: '2017-03-07T15:46:27+00:00'
+    id: 'urn:uuid:668c7b6f-6ad1-5aa2-9d2d-00305dfb28d3'
+    link: 'https://pub.dartlang.org/packages/service_worker'
+    author:
+        - 'Istvan Soos <istvan.soos@gmail.com>'
