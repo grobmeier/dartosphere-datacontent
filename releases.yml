@@ -88462,3 +88462,12 @@
     link: 'https://pub.dartlang.org/packages/http'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: test
+    package_version: v0.12.20+2
+    title: 'v0.12.20+2 of test'
+    published: '2017-03-06T23:22:25+00:00'
+    id: 'urn:uuid:dbb354d0-005c-5a01-a256-ca31e5da7d61'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
