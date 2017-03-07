@@ -88621,3 +88621,12 @@
     link: 'https://pub.dartlang.org/packages/polymerize'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: source_maps
+    package_version: v0.10.3
+    title: 'v0.10.3 of source_maps'
+    published: '2017-03-07T19:32:13+00:00'
+    id: 'urn:uuid:c9158768-bc25-5a7e-9452-a960822daf60'
+    link: 'https://pub.dartlang.org/packages/source_maps'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
