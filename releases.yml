@@ -88508,3 +88508,12 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.1.42
+    title: 'v0.1.42 of bokain_models'
+    published: '2017-03-07T09:35:18+00:00'
+    id: 'urn:uuid:09f12c8a-41e8-5089-af30-54647141375c'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
