@@ -88720,3 +88720,12 @@
     link: 'https://pub.dartlang.org/packages/angel_rethink'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: build_test
+    package_version: v0.4.1
+    title: 'v0.4.1 of build_test'
+    published: '2017-03-07T23:14:42+00:00'
+    id: 'urn:uuid:df94c9b3-4edf-57bc-8ffe-18b71d8252df'
+    link: 'https://pub.dartlang.org/packages/build_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
