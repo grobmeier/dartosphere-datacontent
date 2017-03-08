@@ -88729,3 +88729,30 @@
     link: 'https://pub.dartlang.org/packages/build_test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: stack_trace
+    package_version: v1.7.2
+    title: 'v1.7.2 of stack_trace'
+    published: '2017-03-08T00:53:24+00:00'
+    id: 'urn:uuid:a7dd0702-6aea-5de3-b6b4-6f0d457e692e'
+    link: 'https://pub.dartlang.org/packages/stack_trace'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: pikaday
+    package_version: v1.1.0
+    title: 'v1.1.0 of pikaday'
+    published: '2017-03-08T00:39:58+00:00'
+    id: 'urn:uuid:db5d89a2-24fe-5d29-b547-538deefa804f'
+    link: 'https://pub.dartlang.org/packages/pikaday'
+    author:
+        - 'John Ryan <john.p.ryan4@gmail.com>'
+-
+    package_name: http_client
+    package_version: v0.1.0+1
+    title: 'v0.1.0+1 of http_client'
+    published: '2017-03-08T00:15:55+00:00'
+    id: 'urn:uuid:75f69014-0b76-5bba-abff-4f52315ba898'
+    link: 'https://pub.dartlang.org/packages/http_client'
+    author:
+        - 'Istvan Soos <istvan.soos@gmail.com>'
