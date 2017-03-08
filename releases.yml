@@ -88856,3 +88856,12 @@
     link: 'https://pub.dartlang.org/packages/plotly'
     author:
         - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: haystack
+    package_version: v0.4.20+2
+    title: 'v0.4.20+2 of haystack'
+    published: '2017-03-08T19:19:51+00:00'
+    id: 'urn:uuid:2ec83a19-b645-52e7-8226-3748c8a88c04'
+    link: 'https://pub.dartlang.org/packages/haystack'
+    author:
+        - 'Dmitriy Vasilyev <dmitry@bassg.com>'
