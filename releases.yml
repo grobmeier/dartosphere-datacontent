@@ -88838,3 +88838,21 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: english_words
+    package_version: v1.1.0
+    title: 'v1.1.0 of english_words'
+    published: '2017-03-08T17:38:52+00:00'
+    id: 'urn:uuid:8ac22fd0-938e-57ea-97f3-9d4a095ffe1d'
+    link: 'https://pub.dartlang.org/packages/english_words'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: plotly
+    package_version: v0.7.1
+    title: 'v0.7.1 of plotly'
+    published: '2017-03-08T17:16:43+00:00'
+    id: 'urn:uuid:42d69ca1-875a-545e-9464-3462b061de7e'
+    link: 'https://pub.dartlang.org/packages/plotly'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
