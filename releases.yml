@@ -88901,3 +88901,21 @@
     link: 'https://pub.dartlang.org/packages/polymer_element'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: angel_configuration
+    package_version: v1.0.3
+    title: 'v1.0.3 of angel_configuration'
+    published: '2017-03-08T22:55:31+00:00'
+    id: 'urn:uuid:396b21d2-501a-526b-9386-771ba939bec6'
+    link: 'https://pub.dartlang.org/packages/angel_configuration'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: polymer_element
+    package_version: v0.5.4
+    title: 'v0.5.4 of polymer_element'
+    published: '2017-03-08T22:41:05+00:00'
+    id: 'urn:uuid:4eb36286-e993-575c-abf7-2cac647e1fb2'
+    link: 'https://pub.dartlang.org/packages/polymer_element'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
