@@ -88775,3 +88775,12 @@
     author:
         - 'Fernando Quinonez <fernando.andres.quinonez.granados@gmail.com>'
         - 'Antonio Goez <antoniogoez@gmail.com>'
+-
+    package_name: dson
+    package_version: v0.5.0+2
+    title: 'v0.5.0+2 of dson'
+    published: '2017-03-08T04:47:18+00:00'
+    id: 'urn:uuid:85a8bc5c-5424-5aab-b8dd-9e008169d97c'
+    link: 'https://pub.dartlang.org/packages/dson'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
