@@ -88829,3 +88829,12 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: bokain_models
+    package_version: v0.1.50
+    title: 'v0.1.50 of bokain_models'
+    published: '2017-03-08T15:45:33+00:00'
+    id: 'urn:uuid:6e8e2846-e680-5f0b-8b15-1e9f9ef1151f'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
