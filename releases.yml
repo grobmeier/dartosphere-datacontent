@@ -88784,3 +88784,12 @@
     link: 'https://pub.dartlang.org/packages/dson'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: polymerize
+    package_version: v0.5.3
+    title: 'v0.5.3 of polymerize'
+    published: '2017-03-08T10:18:59+00:00'
+    id: 'urn:uuid:b30c3301-702f-5ee9-809c-5ef93dbddf97'
+    link: 'https://pub.dartlang.org/packages/polymerize'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
