@@ -88802,3 +88802,21 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.1.47
+    title: 'v0.1.47 of bokain_models'
+    published: '2017-03-08T12:30:31+00:00'
+    id: 'urn:uuid:cc2c4160-f224-5a73-b406-2bfdd02e3348'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1204
+    title: 'v0.0.1204 of fo_components'
+    published: '2017-03-08T12:21:43+00:00'
+    id: 'urn:uuid:58323a1e-5820-5c93-8ec9-cb5d503585a8'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
