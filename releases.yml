@@ -88756,3 +88756,12 @@
     link: 'https://pub.dartlang.org/packages/http_client'
     author:
         - 'Istvan Soos <istvan.soos@gmail.com>'
+-
+    package_name: stripe_facade
+    package_version: v1.0.0
+    title: 'v1.0.0 of stripe_facade'
+    published: '2017-03-08T01:53:04+00:00'
+    id: 'urn:uuid:a626d578-6c0a-51ba-adfb-955a3f6eca3e'
+    link: 'https://pub.dartlang.org/packages/stripe_facade'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
