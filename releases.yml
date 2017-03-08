@@ -88793,3 +88793,12 @@
     link: 'https://pub.dartlang.org/packages/polymerize'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.1.44
+    title: 'v0.1.44 of bokain_models'
+    published: '2017-03-08T11:55:42+00:00'
+    id: 'urn:uuid:ef96ceb0-b308-5b1c-b2ba-b0e1db91aa24'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
