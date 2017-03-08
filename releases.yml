@@ -88865,3 +88865,12 @@
     link: 'https://pub.dartlang.org/packages/haystack'
     author:
         - 'Dmitriy Vasilyev <dmitry@bassg.com>'
+-
+    package_name: pwa
+    package_version: v0.0.2
+    title: 'v0.0.2 of pwa'
+    published: '2017-03-08T20:48:25+00:00'
+    id: 'urn:uuid:8e3cce7a-d96b-5da4-bb96-baab38ecb42c'
+    link: 'https://pub.dartlang.org/packages/pwa'
+    author:
+        - 'Istvan Soos <istvan.soos@gmail.com>'
