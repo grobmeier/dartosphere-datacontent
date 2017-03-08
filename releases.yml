@@ -88820,3 +88820,12 @@
     link: 'https://pub.dartlang.org/packages/fo_components'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: mdl
+    package_version: v1.19.0
+    title: 'v1.19.0 of mdl'
+    published: '2017-03-08T14:42:12+00:00'
+    id: 'urn:uuid:2309b783-0925-55fc-81f0-66b4d1018ad1'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
