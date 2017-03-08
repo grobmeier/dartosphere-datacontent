@@ -88874,3 +88874,30 @@
     link: 'https://pub.dartlang.org/packages/pwa'
     author:
         - 'Istvan Soos <istvan.soos@gmail.com>'
+-
+    package_name: aws_client
+    package_version: v0.0.1
+    title: 'v0.0.1 of aws_client'
+    published: '2017-03-08T21:46:25+00:00'
+    id: 'urn:uuid:07009eac-7097-5d98-a82f-73946f71cbd4'
+    link: 'https://pub.dartlang.org/packages/aws_client'
+    author:
+        - 'Istvan Soos <istvan.soos@agilord.com>'
+-
+    package_name: polymerize
+    package_version: v0.5.4
+    title: 'v0.5.4 of polymerize'
+    published: '2017-03-08T21:38:03+00:00'
+    id: 'urn:uuid:f5fa5e95-cb80-5aca-9f92-e7163f842bc8'
+    link: 'https://pub.dartlang.org/packages/polymerize'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: polymer_element
+    package_version: v0.5.3
+    title: 'v0.5.3 of polymer_element'
+    published: '2017-03-08T21:22:09+00:00'
+    id: 'urn:uuid:9d3b83d0-ee7e-5ca1-a1ec-61dcfe7223bc'
+    link: 'https://pub.dartlang.org/packages/polymer_element'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
