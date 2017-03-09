@@ -88955,3 +88955,12 @@
     link: 'https://pub.dartlang.org/packages/polymerize'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: polymerize
+    package_version: v0.6.0+2
+    title: 'v0.6.0+2 of polymerize'
+    published: '2017-03-09T11:51:41+00:00'
+    id: 'urn:uuid:1347e243-9b0b-50a6-b052-4d932efad539'
+    link: 'https://pub.dartlang.org/packages/polymerize'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
