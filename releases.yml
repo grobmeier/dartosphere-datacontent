@@ -89018,3 +89018,12 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: platform_detect
+    package_version: v1.2.0
+    title: 'v1.2.0 of platform_detect'
+    published: '2017-03-09T20:51:44+00:00'
+    id: 'urn:uuid:639ed4bc-ef76-5dd6-84e9-97a39f50f699'
+    link: 'https://pub.dartlang.org/packages/platform_detect'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
