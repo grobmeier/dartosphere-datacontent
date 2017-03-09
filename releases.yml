@@ -89027,3 +89027,12 @@
     link: 'https://pub.dartlang.org/packages/platform_detect'
     author:
         - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+-
+    package_name: build_native
+    package_version: v0.0.0
+    title: 'v0.0.0 of build_native'
+    published: '2017-03-09T21:17:37+00:00'
+    id: 'urn:uuid:a0298df7-542c-5ee2-9057-9a3f5a94f2d7'
+    link: 'https://pub.dartlang.org/packages/build_native'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
