@@ -89009,3 +89009,12 @@
     link: 'https://pub.dartlang.org/packages/pwa'
     author:
         - 'Istvan Soos <istvan.soos@gmail.com>'
+-
+    package_name: mdl
+    package_version: v1.19.1
+    title: 'v1.19.1 of mdl'
+    published: '2017-03-09T18:34:04+00:00'
+    id: 'urn:uuid:805f1a91-ffcf-5cdf-a204-307f07a3c943'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
