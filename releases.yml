@@ -89000,3 +89000,12 @@
     link: 'https://pub.dartlang.org/packages/custom_elements'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@drafintech.it>'
+-
+    package_name: pwa
+    package_version: v0.0.3
+    title: 'v0.0.3 of pwa'
+    published: '2017-03-09T17:33:50+00:00'
+    id: 'urn:uuid:d97fd304-6c77-5714-99e7-f2c47395c278'
+    link: 'https://pub.dartlang.org/packages/pwa'
+    author:
+        - 'Istvan Soos <istvan.soos@gmail.com>'
