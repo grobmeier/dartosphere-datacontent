@@ -88973,3 +88973,12 @@
     link: 'https://pub.dartlang.org/packages/memcache'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: memcache
+    package_version: v0.2.1+1
+    title: 'v0.2.1+1 of memcache'
+    published: '2017-03-09T13:43:41+00:00'
+    id: 'urn:uuid:e3dabd33-dee1-5d41-a37f-717ac2370327'
+    link: 'https://pub.dartlang.org/packages/memcache'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
