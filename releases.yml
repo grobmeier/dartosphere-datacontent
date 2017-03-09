@@ -88919,3 +88919,30 @@
     link: 'https://pub.dartlang.org/packages/polymer_element'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: polymerize
+    package_version: v0.6.0
+    title: 'v0.6.0 of polymerize'
+    published: '2017-03-08T23:51:04+00:00'
+    id: 'urn:uuid:e10dbc60-89d1-5519-85be-aa0f18ad3290'
+    link: 'https://pub.dartlang.org/packages/polymerize'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: polymer_element
+    package_version: v0.6.0+1
+    title: 'v0.6.0+1 of polymer_element'
+    published: '2017-03-08T23:47:03+00:00'
+    id: 'urn:uuid:70c75db4-9d18-5bce-bfc8-4dd8a237f6bc'
+    link: 'https://pub.dartlang.org/packages/polymer_element'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: html5
+    package_version: v0.0.5
+    title: 'v0.0.5 of html5'
+    published: '2017-03-08T23:40:58+00:00'
+    id: 'urn:uuid:1d1aa859-dea0-5fac-bcc9-8e26cc3f6be9'
+    link: 'https://pub.dartlang.org/packages/html5'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
