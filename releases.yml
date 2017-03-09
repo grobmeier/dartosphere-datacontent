@@ -89036,3 +89036,12 @@
     link: 'https://pub.dartlang.org/packages/build_native'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: english_words
+    package_version: v1.1.2
+    title: 'v1.1.2 of english_words'
+    published: '2017-03-09T22:48:00+00:00'
+    id: 'urn:uuid:42da4ac0-4016-5095-9d0f-de27146b25d6'
+    link: 'https://pub.dartlang.org/packages/english_words'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
