@@ -88964,3 +88964,12 @@
     link: 'https://pub.dartlang.org/packages/polymerize'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: memcache
+    package_version: v0.2.1
+    title: 'v0.2.1 of memcache'
+    published: '2017-03-09T12:41:25+00:00'
+    id: 'urn:uuid:97fe93d9-0650-52bf-97cd-cbe18cbabf10'
+    link: 'https://pub.dartlang.org/packages/memcache'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
