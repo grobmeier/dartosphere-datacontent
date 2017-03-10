@@ -89145,3 +89145,12 @@
     author:
         - 'Dmitriy Fibulwinter <fibulwinter@gmail.com>'
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: aqueduct
+    package_version: v2.0.1
+    title: 'v2.0.1 of aqueduct'
+    published: '2017-03-10T21:00:28+00:00'
+    id: 'urn:uuid:b82dac7a-8327-5ae5-a029-231ce76a9b73'
+    link: 'https://pub.dartlang.org/packages/aqueduct'
+    author:
+        - 'stable|kernel <http://stablekernel.com>'
