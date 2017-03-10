@@ -89135,3 +89135,13 @@
     link: 'https://pub.dartlang.org/packages/editex'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: mockito
+    package_version: v2.0.2
+    title: 'v2.0.2 of mockito'
+    published: '2017-03-10T18:34:00+00:00'
+    id: 'urn:uuid:b4237678-aabf-55c1-aa08-c2535faee83d'
+    link: 'https://pub.dartlang.org/packages/mockito'
+    author:
+        - 'Dmitriy Fibulwinter <fibulwinter@gmail.com>'
+        - 'Dart Team <misc@dartlang.org>'
