@@ -89045,3 +89045,12 @@
     link: 'https://pub.dartlang.org/packages/english_words'
     author:
         - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: stack_trace
+    package_version: v1.7.3
+    title: 'v1.7.3 of stack_trace'
+    published: '2017-03-10T02:23:27+00:00'
+    id: 'urn:uuid:484c22d1-7533-5d8c-9edc-57988818c044'
+    link: 'https://pub.dartlang.org/packages/stack_trace'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
