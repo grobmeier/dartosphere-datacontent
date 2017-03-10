@@ -89117,3 +89117,12 @@
     link: 'https://pub.dartlang.org/packages/eqlib'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: polymerize
+    package_version: v0.6.1
+    title: 'v0.6.1 of polymerize'
+    published: '2017-03-10T13:43:15+00:00'
+    id: 'urn:uuid:817e7fd9-b79c-50fb-aa14-4028ae2c3877'
+    link: 'https://pub.dartlang.org/packages/polymerize'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
