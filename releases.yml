@@ -89126,3 +89126,12 @@
     link: 'https://pub.dartlang.org/packages/polymerize'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: editex
+    package_version: v0.0.1
+    title: 'v0.0.1 of editex'
+    published: '2017-03-10T15:05:19+00:00'
+    id: 'urn:uuid:bad698ed-5ec6-571e-9eb2-aeb6c64ee2c8'
+    link: 'https://pub.dartlang.org/packages/editex'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
