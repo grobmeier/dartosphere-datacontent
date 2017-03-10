@@ -89063,3 +89063,12 @@
     link: 'https://pub.dartlang.org/packages/angel_cli'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.1.52
+    title: 'v0.1.52 of bokain_models'
+    published: '2017-03-10T08:44:27+00:00'
+    id: 'urn:uuid:9ddbd1fd-0a15-531e-9279-81b6cd55d43d'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
