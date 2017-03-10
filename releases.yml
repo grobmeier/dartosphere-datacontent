@@ -89108,3 +89108,12 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: eqlib
+    package_version: v0.4.0
+    title: 'v0.4.0 of eqlib'
+    published: '2017-03-10T11:44:32+00:00'
+    id: 'urn:uuid:525bba8b-f6b7-5e4c-ae1f-bc3430e1f340'
+    link: 'https://pub.dartlang.org/packages/eqlib'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
