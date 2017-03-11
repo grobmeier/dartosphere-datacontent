@@ -89201,3 +89201,12 @@
     link: 'https://pub.dartlang.org/packages/test_descriptor'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.68
+    title: 'v1.0.0-dev.68 of angel_framework'
+    published: '2017-03-11T07:18:47+00:00'
+    id: 'urn:uuid:571bc846-59fc-5617-8866-d7c63fe6e497'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
