@@ -89210,3 +89210,12 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: json2dart
+    package_version: v1.0.2
+    title: 'v1.0.2 of json2dart'
+    published: '2017-03-11T15:22:28+00:00'
+    id: 'urn:uuid:7c6bd592-40cc-57c0-964f-b0ae0ededc70'
+    link: 'https://pub.dartlang.org/packages/json2dart'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
