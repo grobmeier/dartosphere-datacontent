@@ -89219,3 +89219,21 @@
     link: 'https://pub.dartlang.org/packages/json2dart'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: editex
+    package_version: v0.0.2
+    title: 'v0.0.2 of editex'
+    published: '2017-03-11T20:42:20+00:00'
+    id: 'urn:uuid:8fa4dc13-dec8-5c52-965d-ba5e4041f504'
+    link: 'https://pub.dartlang.org/packages/editex'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: twit
+    package_version: v0.0.2
+    title: 'v0.0.2 of twit'
+    published: '2017-03-11T20:31:45+00:00'
+    id: 'urn:uuid:b00adddf-4f14-55be-96cd-c8158f6520b5'
+    link: 'https://pub.dartlang.org/packages/twit'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
