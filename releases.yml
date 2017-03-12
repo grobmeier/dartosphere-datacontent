@@ -89264,3 +89264,12 @@
     link: 'https://pub.dartlang.org/packages/simple_sass_transformer'
     author:
         - 'Jirayu Luewetwanit <furrary@gmail.com>'
+-
+    package_name: editex
+    package_version: v0.0.3
+    title: 'v0.0.3 of editex'
+    published: '2017-03-12T13:27:03+00:00'
+    id: 'urn:uuid:72909db0-a1df-5d1b-82bd-821e7ae7495b'
+    link: 'https://pub.dartlang.org/packages/editex'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
