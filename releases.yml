@@ -89255,3 +89255,12 @@
     link: 'https://pub.dartlang.org/packages/node_preamble'
     author:
         - 'Michael Bullington <mikebullingtn@gmail.com>'
+-
+    package_name: simple_sass_transformer
+    package_version: v0.0.2
+    title: 'v0.0.2 of simple_sass_transformer'
+    published: '2017-03-12T10:14:14+00:00'
+    id: 'urn:uuid:79b6293f-005a-5272-98df-dc2ecd57eaac'
+    link: 'https://pub.dartlang.org/packages/simple_sass_transformer'
+    author:
+        - 'Jirayu Luewetwanit <furrary@gmail.com>'
