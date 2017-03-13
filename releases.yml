@@ -89365,3 +89365,12 @@
     link: 'https://pub.dartlang.org/packages/entity'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: eqlib
+    package_version: v0.4.1
+    title: 'v0.4.1 of eqlib'
+    published: '2017-03-13T14:36:04+00:00'
+    id: 'urn:uuid:e35fc26a-2680-5ac6-b1cc-bbe6d6ae3e00'
+    link: 'https://pub.dartlang.org/packages/eqlib'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
