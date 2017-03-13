@@ -89318,3 +89318,23 @@
     link: 'https://pub.dartlang.org/packages/build_runner'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: rikulo_commons
+    package_version: v2.3.3
+    title: 'v2.3.3 of rikulo_commons'
+    published: '2017-03-13T11:39:33+00:00'
+    id: 'urn:uuid:7aee2a3e-efe1-59f4-a4d5-0cc6a76ad6a4'
+    link: 'https://pub.dartlang.org/packages/rikulo_commons'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+        - 'Henri Chen <henrichen@rikulo.org>'
+        - 'Simon Pai <simonpai@rikulo.org>'
+-
+    package_name: googleapis_auth
+    package_version: v0.2.3+6
+    title: 'v0.2.3+6 of googleapis_auth'
+    published: '2017-03-13T11:19:46+00:00'
+    id: 'urn:uuid:9f1c85ea-00ca-51b6-b690-079c6969681c'
+    link: 'https://pub.dartlang.org/packages/googleapis_auth'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
