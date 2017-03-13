@@ -89392,3 +89392,21 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: unifmt
+    package_version: v0.2.11
+    title: 'v0.2.11 of unifmt'
+    published: '2017-03-13T18:43:17+00:00'
+    id: 'urn:uuid:671b7b45-724d-5f30-8588-fb1b3f54d268'
+    link: 'https://pub.dartlang.org/packages/unifmt'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: plotly
+    package_version: v0.7.1+1
+    title: 'v0.7.1+1 of plotly'
+    published: '2017-03-13T18:07:25+00:00'
+    id: 'urn:uuid:b0ec3444-5a83-5ea3-b7dc-dd11b47b42a2'
+    link: 'https://pub.dartlang.org/packages/plotly'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
