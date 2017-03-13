@@ -89410,3 +89410,12 @@
     link: 'https://pub.dartlang.org/packages/plotly'
     author:
         - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: polymerize
+    package_version: v0.7.1
+    title: 'v0.7.1 of polymerize'
+    published: '2017-03-13T21:24:23+00:00'
+    id: 'urn:uuid:d3a58504-dc97-5d58-9798-4211149066b5'
+    link: 'https://pub.dartlang.org/packages/polymerize'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
