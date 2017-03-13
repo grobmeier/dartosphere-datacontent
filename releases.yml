@@ -89282,3 +89282,30 @@
     link: 'https://pub.dartlang.org/packages/simple_sass_transformer'
     author:
         - 'Jirayu Luewetwanit <furrary@gmail.com>'
+-
+    package_name: polymerize
+    package_version: v0.7.0+1
+    title: 'v0.7.0+1 of polymerize'
+    published: '2017-03-12T23:40:28+00:00'
+    id: 'urn:uuid:69d6e841-3491-536a-91fb-da406016cbef'
+    link: 'https://pub.dartlang.org/packages/polymerize'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: angel_seeder
+    package_version: v1.0.1
+    title: 'v1.0.1 of angel_seeder'
+    published: '2017-03-12T23:34:01+00:00'
+    id: 'urn:uuid:120e2a8d-cbf0-505c-ace2-44b5af0aa78f'
+    link: 'https://pub.dartlang.org/packages/angel_seeder'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: polymer_element
+    package_version: v0.7.0
+    title: 'v0.7.0 of polymer_element'
+    published: '2017-03-12T23:23:26+00:00'
+    id: 'urn:uuid:addc625a-4552-52ae-858a-03c5bf4c498f'
+    link: 'https://pub.dartlang.org/packages/polymer_element'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
