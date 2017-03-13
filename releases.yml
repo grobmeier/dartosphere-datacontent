@@ -89374,3 +89374,21 @@
     link: 'https://pub.dartlang.org/packages/eqlib'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: haystack
+    package_version: v0.4.20+4
+    title: 'v0.4.20+4 of haystack'
+    published: '2017-03-13T17:48:55+00:00'
+    id: 'urn:uuid:5608c45c-d0b1-519e-ae47-94fa32377522'
+    link: 'https://pub.dartlang.org/packages/haystack'
+    author:
+        - 'Dmitriy Vasilyev <dmitry@bassg.com>'
+-
+    package_name: bokain_models
+    package_version: v0.1.58
+    title: 'v0.1.58 of bokain_models'
+    published: '2017-03-13T17:10:45+00:00'
+    id: 'urn:uuid:2902bb4f-0aa9-55d5-9df3-95f8cc5ff801'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
