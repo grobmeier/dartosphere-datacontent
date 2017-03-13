@@ -89419,3 +89419,12 @@
     link: 'https://pub.dartlang.org/packages/polymerize'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: tzolkin
+    package_version: v1.0.3
+    title: 'v1.0.3 of tzolkin'
+    published: '2017-03-13T22:27:42+00:00'
+    id: 'urn:uuid:d274ac8c-0479-5384-83c1-7b875da88ee5'
+    link: 'https://pub.dartlang.org/packages/tzolkin'
+    author:
+        - 'John Ryan <john.p.ryan4@gmail.com>'
