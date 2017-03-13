@@ -89309,3 +89309,12 @@
     link: 'https://pub.dartlang.org/packages/polymer_element'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: build_runner
+    package_version: v0.3.0+1
+    title: 'v0.3.0+1 of build_runner'
+    published: '2017-03-13T02:02:18+00:00'
+    id: 'urn:uuid:1ba59b52-7a10-5da7-b0ce-314363666640'
+    link: 'https://pub.dartlang.org/packages/build_runner'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
