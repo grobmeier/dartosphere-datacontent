@@ -89492,3 +89492,14 @@
     link: 'https://pub.dartlang.org/packages/eqdb_client'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: rikulo_commons
+    package_version: v2.3.4
+    title: 'v2.3.4 of rikulo_commons'
+    published: '2017-03-14T15:25:38+00:00'
+    id: 'urn:uuid:c3835e70-0ecf-512e-bbc0-a9f0c2926a14'
+    link: 'https://pub.dartlang.org/packages/rikulo_commons'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+        - 'Henri Chen <henrichen@rikulo.org>'
+        - 'Simon Pai <simonpai@rikulo.org>'
