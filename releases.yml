@@ -89464,3 +89464,13 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: color
+    package_version: v2.0.1
+    title: 'v2.0.1 of color'
+    published: '2017-03-14T09:48:02+00:00'
+    id: 'urn:uuid:ce485ee8-d155-566f-bb9c-3660de0ac89b'
+    link: 'https://pub.dartlang.org/packages/color'
+    author:
+        - 'Michael Fenwick <mike@mikefenwick.com>'
+        - 'Tim Kluge <timklge@wh2.tu-dresden.de>'
