@@ -89446,3 +89446,12 @@
     link: 'https://pub.dartlang.org/packages/scheduled_test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: soy
+    package_version: v0.0.0
+    title: 'v0.0.0 of soy'
+    published: '2017-03-14T03:15:45+00:00'
+    id: 'urn:uuid:b4ab8e8d-31a5-5c2f-ba29-df3b6d6d7f42'
+    link: 'https://pub.dartlang.org/packages/soy'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
