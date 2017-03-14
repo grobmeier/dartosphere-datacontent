@@ -89503,3 +89503,30 @@
         - 'Tom Yeh <tomyeh@rikulo.org>'
         - 'Henri Chen <henrichen@rikulo.org>'
         - 'Simon Pai <simonpai@rikulo.org>'
+-
+    package_name: bokain_models
+    package_version: v0.1.62
+    title: 'v0.1.62 of bokain_models'
+    published: '2017-03-14T16:56:00+00:00'
+    id: 'urn:uuid:aa185d1a-c09f-5aa2-8b02-bc689e9ce397'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: eqdb_client
+    package_version: v0.0.3
+    title: 'v0.0.3 of eqdb_client'
+    published: '2017-03-14T16:50:03+00:00'
+    id: 'urn:uuid:5a7b59e7-411b-571c-aa3f-cf3270d3b64c'
+    link: 'https://pub.dartlang.org/packages/eqdb_client'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: soy
+    package_version: v0.0.1
+    title: 'v0.0.1 of soy'
+    published: '2017-03-14T16:07:43+00:00'
+    id: 'urn:uuid:04d7d6d6-61f7-5b07-b4d8-723f2c4fdcab'
+    link: 'https://pub.dartlang.org/packages/soy'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
