@@ -89474,3 +89474,12 @@
     author:
         - 'Michael Fenwick <mike@mikefenwick.com>'
         - 'Tim Kluge <timklge@wh2.tu-dresden.de>'
+-
+    package_name: editex
+    package_version: v0.0.4
+    title: 'v0.0.4 of editex'
+    published: '2017-03-14T10:46:40+00:00'
+    id: 'urn:uuid:7b9f13b6-a023-5c10-955b-cbca6383fe1e'
+    link: 'https://pub.dartlang.org/packages/editex'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
