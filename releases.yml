@@ -89483,3 +89483,12 @@
     link: 'https://pub.dartlang.org/packages/editex'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: eqdb_client
+    package_version: v0.0.2
+    title: 'v0.0.2 of eqdb_client'
+    published: '2017-03-14T14:06:13+00:00'
+    id: 'urn:uuid:0ceae159-5e1e-5c9d-adce-755cb51b3cc2'
+    link: 'https://pub.dartlang.org/packages/eqdb_client'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
