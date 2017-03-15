@@ -89559,3 +89559,12 @@
         - 'Matan Lurey <matanl@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Todd Volkert <tvolkert@google.com>'
+-
+    package_name: postgres
+    package_version: v0.9.5
+    title: 'v0.9.5 of postgres'
+    published: '2017-03-15T19:57:22+00:00'
+    id: 'urn:uuid:6dfe37e4-df86-5a18-8613-0ff29bdd207b'
+    link: 'https://pub.dartlang.org/packages/postgres'
+    author:
+        - 'stable|kernel <jobs@stablekernel.com>'
