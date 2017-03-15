@@ -89599,3 +89599,30 @@
         - 'Evan Weible <evan.weible@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: eqlib
+    package_version: v0.5.0
+    title: 'v0.5.0 of eqlib'
+    published: '2017-03-15T21:58:08+00:00'
+    id: 'urn:uuid:d6a5a640-266e-53e2-91d2-0c55db32e7bb'
+    link: 'https://pub.dartlang.org/packages/eqlib'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: scanner
+    package_version: v1.0.0
+    title: 'v1.0.0 of scanner'
+    published: '2017-03-15T21:40:44+00:00'
+    id: 'urn:uuid:fe00207b-b446-5d1e-9ff8-171faaf8a19b'
+    link: 'https://pub.dartlang.org/packages/scanner'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: stream_reader
+    package_version: v1.0.2
+    title: 'v1.0.2 of stream_reader'
+    published: '2017-03-15T21:06:50+00:00'
+    id: 'urn:uuid:3ad65816-062e-5b5a-a36b-2e0b9e2dbd36'
+    link: 'https://pub.dartlang.org/packages/stream_reader'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
