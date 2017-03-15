@@ -89530,3 +89530,12 @@
     link: 'https://pub.dartlang.org/packages/soy'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1205
+    title: 'v0.0.1205 of fo_components'
+    published: '2017-03-15T12:06:22+00:00'
+    id: 'urn:uuid:845801df-ea94-5efd-80b7-7845f2ba3b08'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
