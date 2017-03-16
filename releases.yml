@@ -89773,3 +89773,12 @@
     link: 'https://pub.dartlang.org/packages/fo_components'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: pwa
+    package_version: v0.0.5
+    title: 'v0.0.5 of pwa'
+    published: '2017-03-16T15:01:57+00:00'
+    id: 'urn:uuid:aa93b32d-39be-5785-adc7-6a32e9db90ea'
+    link: 'https://pub.dartlang.org/packages/pwa'
+    author:
+        - 'Istvan Soos <istvan.soos@gmail.com>'
