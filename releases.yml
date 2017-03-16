@@ -89800,3 +89800,12 @@
     link: 'https://pub.dartlang.org/packages/angular_recaptcha'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: haystack
+    package_version: v0.4.20+5
+    title: 'v0.4.20+5 of haystack'
+    published: '2017-03-16T19:52:46+00:00'
+    id: 'urn:uuid:4251a786-af88-52e0-bebb-f5c3262badd2'
+    link: 'https://pub.dartlang.org/packages/haystack'
+    author:
+        - 'Dmitriy Vasilyev <dmitry@bassg.com>'
