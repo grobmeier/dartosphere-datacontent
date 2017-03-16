@@ -89665,3 +89665,25 @@
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
         - 'Adao Jr. <itsjunnior@gmail.com>'
+-
+    package_name: rikulo_commons
+    package_version: v2.3.5
+    title: 'v2.3.5 of rikulo_commons'
+    published: '2017-03-16T08:19:24+00:00'
+    id: 'urn:uuid:b7fe5c7d-e320-5653-bbc8-805ebb4dc6a6'
+    link: 'https://pub.dartlang.org/packages/rikulo_commons'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+        - 'Henri Chen <henrichen@rikulo.org>'
+        - 'Simon Pai <simonpai@rikulo.org>'
+-
+    package_name: bootjack
+    package_version: v0.6.7
+    title: 'v0.6.7 of bootjack'
+    published: '2017-03-16T08:05:39+00:00'
+    id: 'urn:uuid:cb2984ee-c3db-595d-ae6c-ebe6214b89c7'
+    link: 'https://pub.dartlang.org/packages/bootjack'
+    author:
+        - 'Simon Pai <simonpai@rikulo.org>'
+        - 'Jimmy Shiau <jimmyshiau@potix.com>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
