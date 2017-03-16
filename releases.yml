@@ -89782,3 +89782,12 @@
     link: 'https://pub.dartlang.org/packages/pwa'
     author:
         - 'Istvan Soos <istvan.soos@gmail.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1237
+    title: 'v0.0.1237 of fo_components'
+    published: '2017-03-16T16:43:16+00:00'
+    id: 'urn:uuid:80786dc6-61fc-503f-9e92-8f33689acacc'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
