@@ -89809,3 +89809,12 @@
     link: 'https://pub.dartlang.org/packages/haystack'
     author:
         - 'Dmitriy Vasilyev <dmitry@bassg.com>'
+-
+    package_name: over_react
+    package_version: v1.8.0
+    title: 'v1.8.0 of over_react'
+    published: '2017-03-16T20:17:19+00:00'
+    id: 'urn:uuid:29284573-df30-59fc-898a-1ca65275bb03'
+    link: 'https://pub.dartlang.org/packages/over_react'
+    author:
+        - 'Workiva UI Platform Team <uip@workiva.com>'
