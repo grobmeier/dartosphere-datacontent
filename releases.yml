@@ -89718,3 +89718,22 @@
         - 'Simon Pai <simonpai@rikulo.org>'
         - 'Jimmy Shiau <jimmyshiau@potix.com>'
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: fo_components
+    package_version: v0.0.1218
+    title: 'v0.0.1218 of fo_components'
+    published: '2017-03-16T10:56:53+00:00'
+    id: 'urn:uuid:e2504431-4de3-5c19-b4ff-30c948950e34'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: bootjack_datepicker
+    package_version: v0.5.8+1
+    title: 'v0.5.8+1 of bootjack_datepicker'
+    published: '2017-03-16T10:05:30+00:00'
+    id: 'urn:uuid:7bb9fa58-defc-57d3-87a3-10f0559bbdbb'
+    link: 'https://pub.dartlang.org/packages/bootjack_datepicker'
+    author:
+        - 'Jimmy Shiau <jimmyshiau@potix.com>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
