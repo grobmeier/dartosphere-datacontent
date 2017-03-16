@@ -89755,3 +89755,12 @@
     link: 'https://pub.dartlang.org/packages/fo_components'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1226
+    title: 'v0.0.1226 of fo_components'
+    published: '2017-03-16T13:53:50+00:00'
+    id: 'urn:uuid:7c92b39c-130c-5c2d-9f3f-78a23a8ab85d'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
