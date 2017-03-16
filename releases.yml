@@ -89791,3 +89791,12 @@
     link: 'https://pub.dartlang.org/packages/fo_components'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: angular_recaptcha
+    package_version: v0.0.5
+    title: 'v0.0.5 of angular_recaptcha'
+    published: '2017-03-16T17:18:26+00:00'
+    id: 'urn:uuid:cb03ed0e-ca41-55c0-8129-8404207cae20'
+    link: 'https://pub.dartlang.org/packages/angular_recaptcha'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
