@@ -89856,3 +89856,21 @@
     link: 'https://pub.dartlang.org/packages/angular_test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: entity
+    package_version: v0.9.3+2
+    title: 'v0.9.3+2 of entity'
+    published: '2017-03-17T09:49:06+00:00'
+    id: 'urn:uuid:103c8f89-cadb-5f32-bb6a-a30da8f86ffe'
+    link: 'https://pub.dartlang.org/packages/entity'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: fo_components
+    package_version: v0.0.1238
+    title: 'v0.0.1238 of fo_components'
+    published: '2017-03-17T09:21:54+00:00'
+    id: 'urn:uuid:1252cf9f-84ae-52fb-92a8-ac413111f237'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
