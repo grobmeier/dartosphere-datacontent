@@ -89973,3 +89973,21 @@
     link: 'https://pub.dartlang.org/packages/mustache4dart'
     author:
         - 'Georgios Valotasios <valotas@gmail.com>'
+-
+    package_name: aws_client
+    package_version: v0.0.2
+    title: 'v0.0.2 of aws_client'
+    published: '2017-03-17T19:24:41+00:00'
+    id: 'urn:uuid:ce75f8b0-ce01-50f2-81b5-92d6aef3cb63'
+    link: 'https://pub.dartlang.org/packages/aws_client'
+    author:
+        - 'Istvan Soos <istvan.soos@agilord.com>'
+-
+    package_name: angel_client
+    package_version: v1.0.3
+    title: 'v1.0.3 of angel_client'
+    published: '2017-03-17T19:21:22+00:00'
+    id: 'urn:uuid:03642063-4ba7-5fb8-9bc5-84fab064e3dd'
+    link: 'https://pub.dartlang.org/packages/angel_client'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
