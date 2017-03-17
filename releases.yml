@@ -89946,3 +89946,12 @@
     link: 'https://pub.dartlang.org/packages/angel_auth_twitter'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_route
+    package_version: v1.0.1
+    title: 'v1.0.1 of angel_route'
+    published: '2017-03-17T17:36:20+00:00'
+    id: 'urn:uuid:c91f45a1-9966-5aa9-9857-171a16f99dda'
+    link: 'https://pub.dartlang.org/packages/angel_route'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
