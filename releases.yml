@@ -89955,3 +89955,21 @@
     link: 'https://pub.dartlang.org/packages/angel_route'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: dart2js_info
+    package_version: v0.5.4+1
+    title: 'v0.5.4+1 of dart2js_info'
+    published: '2017-03-17T18:48:18+00:00'
+    id: 'urn:uuid:d2383d94-ff5b-5b0e-b98e-e076f315d227'
+    link: 'https://pub.dartlang.org/packages/dart2js_info'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: mustache4dart
+    package_version: v1.0.12
+    title: 'v1.0.12 of mustache4dart'
+    published: '2017-03-17T18:24:47+00:00'
+    id: 'urn:uuid:8508dab0-bde1-5393-8928-202c06698ced'
+    link: 'https://pub.dartlang.org/packages/mustache4dart'
+    author:
+        - 'Georgios Valotasios <valotas@gmail.com>'
