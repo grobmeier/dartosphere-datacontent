@@ -89910,3 +89910,21 @@
     link: 'https://pub.dartlang.org/packages/fo_components'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.1.66
+    title: 'v0.1.66 of bokain_models'
+    published: '2017-03-17T15:11:27+00:00'
+    id: 'urn:uuid:fa910cbc-a00c-5cb1-a918-2bd6571bf2c9'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: http2
+    package_version: v0.1.1+2
+    title: 'v0.1.1+2 of http2'
+    published: '2017-03-17T15:11:12+00:00'
+    id: 'urn:uuid:221444d8-7fb2-52bc-893f-a1d3fbb56a04'
+    link: 'https://pub.dartlang.org/packages/http2'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
