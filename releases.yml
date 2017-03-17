@@ -89928,3 +89928,21 @@
     link: 'https://pub.dartlang.org/packages/http2'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: twit
+    package_version: v0.0.4
+    title: 'v0.0.4 of twit'
+    published: '2017-03-17T16:32:35+00:00'
+    id: 'urn:uuid:81ea7986-8fd9-516b-9d0a-ef8ef28e75a8'
+    link: 'https://pub.dartlang.org/packages/twit'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_auth_twitter
+    package_version: v1.0.2
+    title: 'v1.0.2 of angel_auth_twitter'
+    published: '2017-03-17T16:20:19+00:00'
+    id: 'urn:uuid:95f3410c-0fc7-51b9-a046-8dae5f163a14'
+    link: 'https://pub.dartlang.org/packages/angel_auth_twitter'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
