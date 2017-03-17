@@ -89901,3 +89901,12 @@
     link: 'https://pub.dartlang.org/packages/mdown'
     author:
         - 'Maxim Dikun <dikmax@gmail.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1253
+    title: 'v0.0.1253 of fo_components'
+    published: '2017-03-17T14:29:00+00:00'
+    id: 'urn:uuid:62a0e752-eac2-5a7d-aff7-b352ffca0b5e'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
