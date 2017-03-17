@@ -89838,3 +89838,12 @@
     link: 'https://pub.dartlang.org/packages/platform'
     author:
         - 'Todd Volkert <tvolkert@google.com>'
+-
+    package_name: dartsteem
+    package_version: v1.0.0
+    title: 'v1.0.0 of dartsteem'
+    published: '2017-03-17T03:15:24+00:00'
+    id: 'urn:uuid:8fd7c2ee-e906-54c7-a0d8-09ae754d6d06'
+    link: 'https://pub.dartlang.org/packages/dartsteem'
+    author:
+        - 'Jacob Gadikian <faddat@gmail.com>'
