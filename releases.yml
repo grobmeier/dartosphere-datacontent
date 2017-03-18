@@ -90001,3 +90001,14 @@
     author:
         - 'Matan Lurey <matan@lurey.org>'
         - 'Kendal Harland <kendaljharland@gmail.com>'
+-
+    package_name: dquery
+    package_version: v0.8.5+3
+    title: 'v0.8.5+3 of dquery'
+    published: '2017-03-18T05:16:17+00:00'
+    id: 'urn:uuid:34a3ab1f-99d0-57ea-a726-130e6c608f1c'
+    link: 'https://pub.dartlang.org/packages/dquery'
+    author:
+        - 'Simon Pai <simonpai@rikulo.org>'
+        - 'Jimmy Shiau <jimmyshiau@rikulo.org>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
