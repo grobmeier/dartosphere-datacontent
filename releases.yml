@@ -90012,3 +90012,12 @@
         - 'Simon Pai <simonpai@rikulo.org>'
         - 'Jimmy Shiau <jimmyshiau@rikulo.org>'
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: editex
+    package_version: v0.0.5
+    title: 'v0.0.5 of editex'
+    published: '2017-03-18T11:22:44+00:00'
+    id: 'urn:uuid:19e0b690-f0b7-5e92-ba56-648940761f7b'
+    link: 'https://pub.dartlang.org/packages/editex'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
