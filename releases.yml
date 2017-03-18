@@ -89991,3 +89991,13 @@
     link: 'https://pub.dartlang.org/packages/angel_client'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: binary
+    package_version: v0.1.1
+    title: 'v0.1.1 of binary'
+    published: '2017-03-18T04:36:50+00:00'
+    id: 'urn:uuid:9ba80d7b-9449-5155-a99f-5993fe3c95ba'
+    link: 'https://pub.dartlang.org/packages/binary'
+    author:
+        - 'Matan Lurey <matan@lurey.org>'
+        - 'Kendal Harland <kendaljharland@gmail.com>'
