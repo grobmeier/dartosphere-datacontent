@@ -90021,3 +90021,13 @@
     link: 'https://pub.dartlang.org/packages/editex'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: binary
+    package_version: v0.1.2
+    title: 'v0.1.2 of binary'
+    published: '2017-03-19T03:03:20+00:00'
+    id: 'urn:uuid:407eb25c-32d9-5370-9b4f-318d316982f4'
+    link: 'https://pub.dartlang.org/packages/binary'
+    author:
+        - 'Matan Lurey <matan@lurey.org>'
+        - 'Kendal Harland <kendaljharland@gmail.com>'
