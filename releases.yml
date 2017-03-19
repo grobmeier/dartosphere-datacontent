@@ -90050,3 +90050,12 @@
     author:
         - 'Jana Moudra <jana.moudra@gmail.com>'
         - 'Kevin Moore <kevmoo@google.com>'
+-
+    package_name: eqlib
+    package_version: v0.5.1
+    title: 'v0.5.1 of eqlib'
+    published: '2017-03-19T18:12:59+00:00'
+    id: 'urn:uuid:ad44ed2b-b407-5bba-a1d7-a4f5f0f64881'
+    link: 'https://pub.dartlang.org/packages/eqlib'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
