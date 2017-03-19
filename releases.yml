@@ -90031,3 +90031,22 @@
     author:
         - 'Matan Lurey <matan@lurey.org>'
         - 'Kendal Harland <kendaljharland@gmail.com>'
+-
+    package_name: humanhash
+    package_version: v1.0.0
+    title: 'v1.0.0 of humanhash'
+    published: '2017-03-19T17:34:20+00:00'
+    id: 'urn:uuid:9e012dae-0ea1-595d-b8f3-b75286614b07'
+    link: 'https://pub.dartlang.org/packages/humanhash'
+    author:
+        - 'John Ryan <john.p.ryan4@gmail.com>'
+-
+    package_name: firebase
+    package_version: v3.0.1
+    title: 'v3.0.1 of firebase'
+    published: '2017-03-19T17:21:22+00:00'
+    id: 'urn:uuid:75f26bdc-3d09-5e9b-856a-a504cf88abc9'
+    link: 'https://pub.dartlang.org/packages/firebase'
+    author:
+        - 'Jana Moudra <jana.moudra@gmail.com>'
+        - 'Kevin Moore <kevmoo@google.com>'
