@@ -90059,3 +90059,12 @@
     link: 'https://pub.dartlang.org/packages/eqlib'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: dartz
+    package_version: v0.5.5
+    title: 'v0.5.5 of dartz'
+    published: '2017-03-19T20:10:43+00:00'
+    id: 'urn:uuid:7f96d5de-03d7-513a-8307-04352ac8da41'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
