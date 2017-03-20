@@ -90068,3 +90068,30 @@
     link: 'https://pub.dartlang.org/packages/dartz'
     author:
         - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: dazel
+    package_version: v0.3.5
+    title: 'v0.3.5 of dazel'
+    published: '2017-03-20T17:33:34+00:00'
+    id: 'urn:uuid:3b55cebd-c3c0-5ace-a899-6221b379ae5f'
+    link: 'https://pub.dartlang.org/packages/dazel'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: bazel_worker
+    package_version: v0.1.3
+    title: 'v0.1.3 of bazel_worker'
+    published: '2017-03-20T17:31:03+00:00'
+    id: 'urn:uuid:92bfa03f-f45d-56d4-abae-abe1184f0316'
+    link: 'https://pub.dartlang.org/packages/bazel_worker'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: pwa
+    package_version: v0.1.0
+    title: 'v0.1.0 of pwa'
+    published: '2017-03-20T17:20:32+00:00'
+    id: 'urn:uuid:92f84b9b-2299-5f58-850a-9e564fb78ad0'
+    link: 'https://pub.dartlang.org/packages/pwa'
+    author:
+        - 'Istvan Soos <istvan.soos@gmail.com>'
