@@ -90114,3 +90114,17 @@
     link: 'https://pub.dartlang.org/packages/angel_route'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: w_transport
+    package_version: v3.0.3
+    title: 'v3.0.3 of w_transport'
+    published: '2017-03-20T20:38:21+00:00'
+    id: 'urn:uuid:7e5270ea-80b3-5a95-bdb6-a57b843cdc09'
+    link: 'https://pub.dartlang.org/packages/w_transport'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
