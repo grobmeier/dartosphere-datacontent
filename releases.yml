@@ -90095,3 +90095,22 @@
     link: 'https://pub.dartlang.org/packages/pwa'
     author:
         - 'Istvan Soos <istvan.soos@gmail.com>'
+-
+    package_name: repub
+    package_version: v1.0.0-beta
+    title: 'v1.0.0-beta of repub'
+    published: '2017-03-20T19:53:46+00:00'
+    id: 'urn:uuid:e91b9112-67f0-5690-839b-5e6b46dcd37c'
+    link: 'https://pub.dartlang.org/packages/repub'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angel_route
+    package_version: v1.0.3
+    title: 'v1.0.3 of angel_route'
+    published: '2017-03-20T19:47:04+00:00'
+    id: 'urn:uuid:ad840deb-7a9f-52e1-9ddd-0af5f928a88e'
+    link: 'https://pub.dartlang.org/packages/angel_route'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
