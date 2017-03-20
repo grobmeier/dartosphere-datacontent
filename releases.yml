@@ -90128,3 +90128,12 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: jfmt
+    package_version: v1.0.1
+    title: 'v1.0.1 of jfmt'
+    published: '2017-03-20T21:24:15+00:00'
+    id: 'urn:uuid:197ad1e0-b1da-56c7-a49e-87bfc97be928'
+    link: 'https://pub.dartlang.org/packages/jfmt'
+    author:
+        - 'Kevin Moore <kevmoo@google.com>'
