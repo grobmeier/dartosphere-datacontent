@@ -90173,3 +90173,12 @@
     link: 'https://pub.dartlang.org/packages/rpc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: bokain_models
+    package_version: v0.1.68
+    title: 'v0.1.68 of bokain_models'
+    published: '2017-03-21T12:22:44+00:00'
+    id: 'urn:uuid:6da33c8c-d625-52cd-87b7-a44ced9af422'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
