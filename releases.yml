@@ -90146,3 +90146,21 @@
     link: 'https://pub.dartlang.org/packages/dartsteem'
     author:
         - 'Jacob Gadikian <faddat@gmail.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1254
+    title: 'v0.0.1254 of fo_components'
+    published: '2017-03-21T10:55:26+00:00'
+    id: 'urn:uuid:415d6dc7-caff-59a8-9fa5-5c8be516fc0f'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.1.67
+    title: 'v0.1.67 of bokain_models'
+    published: '2017-03-21T10:06:31+00:00'
+    id: 'urn:uuid:f00f43b6-21ab-5ffc-b935-2a56ba103280'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
