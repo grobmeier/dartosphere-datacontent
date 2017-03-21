@@ -90182,3 +90182,12 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: http_proxy_client
+    package_version: v1.0.0
+    title: 'v1.0.0 of http_proxy_client'
+    published: '2017-03-21T16:34:10+00:00'
+    id: 'urn:uuid:7a33596e-6c47-5adb-b9e6-c72c4de6ca51'
+    link: 'https://pub.dartlang.org/packages/http_proxy_client'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
