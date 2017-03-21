@@ -90137,3 +90137,12 @@
     link: 'https://pub.dartlang.org/packages/jfmt'
     author:
         - 'Kevin Moore <kevmoo@google.com>'
+-
+    package_name: dartsteem
+    package_version: v1.0.1
+    title: 'v1.0.1 of dartsteem'
+    published: '2017-03-21T02:20:56+00:00'
+    id: 'urn:uuid:940e8673-036b-5e67-b621-bf6bc58645ba'
+    link: 'https://pub.dartlang.org/packages/dartsteem'
+    author:
+        - 'Jacob Gadikian <faddat@gmail.com>'
