@@ -90238,3 +90238,12 @@
     link: 'https://pub.dartlang.org/packages/markd'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: pwa
+    package_version: v0.1.1
+    title: 'v0.1.1 of pwa'
+    published: '2017-03-22T13:54:33+00:00'
+    id: 'urn:uuid:d2bd2b80-2147-5dec-82f5-1a7232dd3b5d'
+    link: 'https://pub.dartlang.org/packages/pwa'
+    author:
+        - 'Istvan Soos <istvan.soos@gmail.com>'
