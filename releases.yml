@@ -90229,3 +90229,12 @@
     link: 'https://pub.dartlang.org/packages/sass4dart'
     author:
         - 'Dart Team <misc@dartlang.org>, Jeromy Streets <halverneus@gmail.com>'
+-
+    package_name: markd
+    package_version: v0.11.3+4
+    title: 'v0.11.3+4 of markd'
+    published: '2017-03-22T03:50:27+00:00'
+    id: 'urn:uuid:03eb3342-94d5-5389-95c0-817f48524269'
+    link: 'https://pub.dartlang.org/packages/markd'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
