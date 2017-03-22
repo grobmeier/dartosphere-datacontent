@@ -90211,3 +90211,12 @@
     link: 'https://pub.dartlang.org/packages/rxdart'
     author:
         - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: dart_style
+    package_version: v1.0.0
+    title: 'v1.0.0 of dart_style'
+    published: '2017-03-21T23:36:57+00:00'
+    id: 'urn:uuid:4180e75a-ed9e-57be-a8d6-cec569dd8fb9'
+    link: 'https://pub.dartlang.org/packages/dart_style'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
