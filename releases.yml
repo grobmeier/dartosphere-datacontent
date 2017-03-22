@@ -90220,3 +90220,12 @@
     link: 'https://pub.dartlang.org/packages/dart_style'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: sass4dart
+    package_version: v0.0.9-9.4
+    title: 'v0.0.9-9.4 of sass4dart'
+    published: '2017-03-22T02:38:13+00:00'
+    id: 'urn:uuid:3196d2c7-aaf1-5ecf-9ffa-074b588a295a'
+    link: 'https://pub.dartlang.org/packages/sass4dart'
+    author:
+        - 'Dart Team <misc@dartlang.org>, Jeromy Streets <halverneus@gmail.com>'
