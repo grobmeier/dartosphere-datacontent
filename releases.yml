@@ -90274,3 +90274,22 @@
     link: 'https://pub.dartlang.org/packages/built_value'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: rxdart
+    package_version: v0.10.1
+    title: 'v0.10.1 of rxdart'
+    published: '2017-03-22T23:55:39+00:00'
+    id: 'urn:uuid:ed2aeda5-a222-5a43-be5b-ea630bf20f17'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
+        - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: pwa
+    package_version: v0.1.2
+    title: 'v0.1.2 of pwa'
+    published: '2017-03-22T23:10:33+00:00'
+    id: 'urn:uuid:e24e28f1-fa68-53ad-99d3-5f1c2e39d665'
+    link: 'https://pub.dartlang.org/packages/pwa'
+    author:
+        - 'Istvan Soos <istvan.soos@gmail.com>'
