@@ -90340,3 +90340,21 @@
     link: 'https://pub.dartlang.org/packages/test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: source_maps
+    package_version: v0.10.4
+    title: 'v0.10.4 of source_maps'
+    published: '2017-03-23T21:52:21+00:00'
+    id: 'urn:uuid:417c65dc-85e1-59a4-b150-65a3f5b5e721'
+    link: 'https://pub.dartlang.org/packages/source_maps'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: barback
+    package_version: v0.15.2+10
+    title: 'v0.15.2+10 of barback'
+    published: '2017-03-23T21:51:58+00:00'
+    id: 'urn:uuid:62ec7500-ee21-54cf-998f-447fa4f3c773'
+    link: 'https://pub.dartlang.org/packages/barback'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
