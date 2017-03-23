@@ -90293,3 +90293,13 @@
     link: 'https://pub.dartlang.org/packages/pwa'
     author:
         - 'Istvan Soos <istvan.soos@gmail.com>'
+-
+    package_name: rikulo_highcharts
+    package_version: v0.1.0
+    title: 'v0.1.0 of rikulo_highcharts'
+    published: '2017-03-23T06:54:07+00:00'
+    id: 'urn:uuid:5f2c2e40-4aa5-5477-a586-44ba0a9d8f34'
+    link: 'https://pub.dartlang.org/packages/rikulo_highcharts'
+    author:
+        - 'Jimmy Shiau <jimmyshiau@potix.com>'
+        - 'Jerry Chen <jerrychen@potix.com>'
