@@ -90303,3 +90303,22 @@
     author:
         - 'Jimmy Shiau <jimmyshiau@potix.com>'
         - 'Jerry Chen <jerrychen@potix.com>'
+-
+    package_name: flickr
+    package_version: v0.0.1
+    title: 'v0.0.1 of flickr'
+    published: '2017-03-23T07:37:22+00:00'
+    id: 'urn:uuid:e1fd8ece-ff04-58df-8e6c-e77b1d777e4d'
+    link: 'https://pub.dartlang.org/packages/flickr'
+    author:
+        - 'Damon Douglas <douglas.damon@gmail.com>'
+-
+    package_name: rikulo_highcharts
+    package_version: v0.1.0+2
+    title: 'v0.1.0+2 of rikulo_highcharts'
+    published: '2017-03-23T07:32:02+00:00'
+    id: 'urn:uuid:3d09734f-370b-5646-b08e-b2110fd4d2fd'
+    link: 'https://pub.dartlang.org/packages/rikulo_highcharts'
+    author:
+        - 'Jimmy Shiau <jimmyshiau@potix.com>'
+        - 'Jerry Chen <jerrychen@potix.com>'
