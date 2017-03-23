@@ -90322,3 +90322,12 @@
     author:
         - 'Jimmy Shiau <jimmyshiau@potix.com>'
         - 'Jerry Chen <jerrychen@potix.com>'
+-
+    package_name: stream
+    package_version: v1.6.7
+    title: 'v1.6.7 of stream'
+    published: '2017-03-23T10:42:24+00:00'
+    id: 'urn:uuid:d3c11aab-022d-5702-a4f7-73f0538700f9'
+    link: 'https://pub.dartlang.org/packages/stream'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
