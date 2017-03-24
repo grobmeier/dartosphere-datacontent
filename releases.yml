@@ -90460,3 +90460,12 @@
     author:
         - 'Alexander Polyankin <alexander.polyankin@team.wrike.com>'
         - 'Max Grebenschikov <maxim.grebenshikov@team.wrike.com>'
+-
+    package_name: angel_cli
+    package_version: v1.0.7
+    title: 'v1.0.7 of angel_cli'
+    published: '2017-03-24T20:26:58+00:00'
+    id: 'urn:uuid:2b21603a-03a1-58ad-a0d9-e72b2f70969e'
+    link: 'https://pub.dartlang.org/packages/angel_cli'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
