@@ -90367,3 +90367,12 @@
     link: 'https://pub.dartlang.org/packages/t_stats'
     author:
         - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: julian
+    package_version: v0.1.2
+    title: 'v0.1.2 of julian'
+    published: '2017-03-24T04:26:28+00:00'
+    id: 'urn:uuid:1f249e58-486c-546d-800d-c3b21abf074f'
+    link: 'https://pub.dartlang.org/packages/julian'
+    author:
+        - 'Christian Stewart'
