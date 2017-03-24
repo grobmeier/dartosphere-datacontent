@@ -90441,3 +90441,22 @@
     link: 'https://pub.dartlang.org/packages/name_from_symbol'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: check_for_update
+    package_version: v1.0.1
+    title: 'v1.0.1 of check_for_update'
+    published: '2017-03-24T19:50:37+00:00'
+    id: 'urn:uuid:2249802a-6785-50ef-8b06-372e6793e1d6'
+    link: 'https://pub.dartlang.org/packages/check_for_update'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: memoize
+    package_version: v1.1.0
+    title: 'v1.1.0 of memoize'
+    published: '2017-03-24T19:43:16+00:00'
+    id: 'urn:uuid:ba23c5d2-c0f0-591f-963e-fea0fb51ed15'
+    link: 'https://pub.dartlang.org/packages/memoize'
+    author:
+        - 'Alexander Polyankin <alexander.polyankin@team.wrike.com>'
+        - 'Max Grebenschikov <maxim.grebenshikov@team.wrike.com>'
