@@ -90358,3 +90358,12 @@
     link: 'https://pub.dartlang.org/packages/barback'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: t_stats
+    package_version: v1.0.0
+    title: 'v1.0.0 of t_stats'
+    published: '2017-03-24T01:35:06+00:00'
+    id: 'urn:uuid:42867779-507a-52b1-a3d7-d344d905f6c4'
+    link: 'https://pub.dartlang.org/packages/t_stats'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
