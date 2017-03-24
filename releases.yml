@@ -90396,3 +90396,30 @@
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
         - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+-
+    package_name: simulator_eurl_sasu
+    package_version: v0.0.8
+    title: 'v0.0.8 of simulator_eurl_sasu'
+    published: '2017-03-24T15:49:13+00:00'
+    id: 'urn:uuid:1d94de16-0503-5e14-b6e2-4393ba36fa07'
+    link: 'https://pub.dartlang.org/packages/simulator_eurl_sasu'
+    author:
+        - 'Matthieu MAQUEVICE <matthieu.maquevice@imoteq.com>'
+-
+    package_name: aws_client
+    package_version: v0.1.0
+    title: 'v0.1.0 of aws_client'
+    published: '2017-03-24T15:06:14+00:00'
+    id: 'urn:uuid:0d3cbdbd-d305-5788-a8f5-4a75dea5bdf9'
+    link: 'https://pub.dartlang.org/packages/aws_client'
+    author:
+        - 'Istvan Soos <istvan.soos@agilord.com>'
+-
+    package_name: http_client
+    package_version: v0.2.0
+    title: 'v0.2.0 of http_client'
+    published: '2017-03-24T15:01:47+00:00'
+    id: 'urn:uuid:0887e7d7-5d10-5713-9390-c1398ea6cd56'
+    link: 'https://pub.dartlang.org/packages/http_client'
+    author:
+        - 'Istvan Soos <istvan.soos@gmail.com>'
