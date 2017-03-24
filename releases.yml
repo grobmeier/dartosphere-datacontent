@@ -90423,3 +90423,21 @@
     link: 'https://pub.dartlang.org/packages/http_client'
     author:
         - 'Istvan Soos <istvan.soos@gmail.com>'
+-
+    package_name: analyzer
+    package_version: v0.29.9
+    title: 'v0.29.9 of analyzer'
+    published: '2017-03-24T16:39:52+00:00'
+    id: 'urn:uuid:f7b8623c-5031-53fa-9685-d01a9af1bd04'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: name_from_symbol
+    package_version: v1.0.0
+    title: 'v1.0.0 of name_from_symbol'
+    published: '2017-03-24T16:23:30+00:00'
+    id: 'urn:uuid:6f5ac8d7-bdde-5d09-af38-6ec206db079e'
+    link: 'https://pub.dartlang.org/packages/name_from_symbol'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
