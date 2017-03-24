@@ -90376,3 +90376,23 @@
     link: 'https://pub.dartlang.org/packages/julian'
     author:
         - 'Christian Stewart'
+-
+    package_name: redstone_database_plugin
+    package_version: v0.3.1
+    title: 'v0.3.1 of redstone_database_plugin'
+    published: '2017-03-24T09:55:00+00:00'
+    id: 'urn:uuid:6bbc53a7-2ee5-5992-9507-a4f667fce21b'
+    link: 'https://pub.dartlang.org/packages/redstone_database_plugin'
+    author:
+        - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: serializer
+    package_version: v0.6.0
+    title: 'v0.6.0 of serializer'
+    published: '2017-03-24T09:48:54+00:00'
+    id: 'urn:uuid:c3f7b3eb-4a87-54e5-84e4-14a2c03c070c'
+    link: 'https://pub.dartlang.org/packages/serializer'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+        - 'Stéphane Este-Gracias <sestegra@gmail.com>'
