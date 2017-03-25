@@ -90586,3 +90586,12 @@
     link: 'https://pub.dartlang.org/packages/angel_test'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_cli
+    package_version: v1.0.9
+    title: 'v1.0.9 of angel_cli'
+    published: '2017-03-25T22:39:42+00:00'
+    id: 'urn:uuid:ee457784-7804-58a5-86ab-72003dcd61cd'
+    link: 'https://pub.dartlang.org/packages/angel_cli'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
