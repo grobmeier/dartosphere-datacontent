@@ -90577,3 +90577,12 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: angel_test
+    package_version: v1.0.2
+    title: 'v1.0.2 of angel_test'
+    published: '2017-03-25T15:27:05+00:00'
+    id: 'urn:uuid:f06b8683-e5d7-567b-b371-71d16e1a43cc'
+    link: 'https://pub.dartlang.org/packages/angel_test'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
