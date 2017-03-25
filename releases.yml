@@ -90505,3 +90505,21 @@
     link: 'https://pub.dartlang.org/packages/dart_style'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: coveralls
+    package_version: v0.3.0
+    title: 'v0.3.0 of coveralls'
+    published: '2017-03-25T01:42:56+00:00'
+    id: 'urn:uuid:a9baf395-754b-590d-b430-568e94228618'
+    link: 'https://pub.dartlang.org/packages/coveralls'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: lcov
+    package_version: v1.0.0
+    title: 'v1.0.0 of lcov'
+    published: '2017-03-25T01:32:02+00:00'
+    id: 'urn:uuid:c7c90719-5f48-56b2-b5bf-d36ad238ea72'
+    link: 'https://pub.dartlang.org/packages/lcov'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
