@@ -90523,3 +90523,21 @@
     link: 'https://pub.dartlang.org/packages/lcov'
     author:
         - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: akismet
+    package_version: v2.1.0
+    title: 'v2.1.0 of akismet'
+    published: '2017-03-25T02:28:52+00:00'
+    id: 'urn:uuid:a2cad231-4b94-5a93-8be3-f5263d5edf4f'
+    link: 'https://pub.dartlang.org/packages/akismet'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: free_mobile
+    package_version: v1.0.0
+    title: 'v1.0.0 of free_mobile'
+    published: '2017-03-25T02:10:32+00:00'
+    id: 'urn:uuid:4acaeee8-9c2d-5887-af8b-dfefd357bdb1'
+    link: 'https://pub.dartlang.org/packages/free_mobile'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
