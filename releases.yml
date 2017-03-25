@@ -90559,3 +90559,21 @@
     link: 'https://pub.dartlang.org/packages/mock_request'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1255
+    title: 'v0.0.1255 of fo_components'
+    published: '2017-03-25T09:36:15+00:00'
+    id: 'urn:uuid:dce25123-2ba2-5054-9706-e3e2d27c8b7c'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.1.69
+    title: 'v0.1.69 of bokain_models'
+    published: '2017-03-25T09:34:58+00:00'
+    id: 'urn:uuid:bd67c36c-1473-5305-bacb-04941d2ed5a2'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
