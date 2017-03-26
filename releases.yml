@@ -90604,3 +90604,12 @@
     link: 'https://pub.dartlang.org/packages/eqlib'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: collection
+    package_version: v1.14.0
+    title: 'v1.14.0 of collection'
+    published: '2017-03-26T20:41:05+00:00'
+    id: 'urn:uuid:5735a8ea-574b-52c6-8af3-b31d477e7d18'
+    link: 'https://pub.dartlang.org/packages/collection'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
