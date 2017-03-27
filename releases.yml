@@ -90668,3 +90668,12 @@
     author:
         - 'Robert Muth <robert@muth.org>'
         - 'Ray Hulha <java4life@gmail.com>'
+-
+    package_name: eqdb_client
+    package_version: v0.0.4
+    title: 'v0.0.4 of eqdb_client'
+    published: '2017-03-27T16:16:33+00:00'
+    id: 'urn:uuid:1d66ec85-e911-539b-8bd7-c5c791648cf7'
+    link: 'https://pub.dartlang.org/packages/eqdb_client'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
