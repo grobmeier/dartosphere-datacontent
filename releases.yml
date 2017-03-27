@@ -90714,3 +90714,23 @@
     link: 'https://pub.dartlang.org/packages/chartjs'
     author:
         - 'Kevin Moore <kevmoo+github@google.com>'
+-
+    package_name: protobuf
+    package_version: v0.5.3+1
+    title: 'v0.5.3+1 of protobuf'
+    published: '2017-03-27T19:44:50+00:00'
+    id: 'urn:uuid:9d2164a4-9bf2-5395-a69e-b78ffa845945'
+    link: 'https://pub.dartlang.org/packages/protobuf'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: file
+    package_version: v2.3.2
+    title: 'v2.3.2 of file'
+    published: '2017-03-27T19:23:22+00:00'
+    id: 'urn:uuid:b3e7bbfd-db4d-57b0-9cb3-d22afdf09a0d'
+    link: 'https://pub.dartlang.org/packages/file'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Todd Volkert <tvolkert@google.com>'
