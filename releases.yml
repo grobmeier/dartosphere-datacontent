@@ -90677,3 +90677,13 @@
     link: 'https://pub.dartlang.org/packages/eqdb_client'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: process
+    package_version: v2.0.2
+    title: 'v2.0.2 of process'
+    published: '2017-03-27T17:42:26+00:00'
+    id: 'urn:uuid:c9fbea36-5145-545e-929f-ab42ebd54280'
+    link: 'https://pub.dartlang.org/packages/process'
+    author:
+        - 'Todd Volkert <tvolkert@google.com>'
+        - 'Michael Goderbauer <goderbauer@google.com>'
