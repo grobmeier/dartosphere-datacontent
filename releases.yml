@@ -90613,3 +90613,12 @@
     link: 'https://pub.dartlang.org/packages/collection'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: attributable
+    package_version: v0.1.2
+    title: 'v0.1.2 of attributable'
+    published: '2017-03-27T06:24:07+00:00'
+    id: 'urn:uuid:9ffd81a3-6cf1-51f5-bc2a-c7498637bd17'
+    link: 'https://pub.dartlang.org/packages/attributable'
+    author:
+        - 'Roman Snitko <roman.snitko@gmail.com>'
