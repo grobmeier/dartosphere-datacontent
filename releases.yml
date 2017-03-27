@@ -90687,3 +90687,30 @@
     author:
         - 'Todd Volkert <tvolkert@google.com>'
         - 'Michael Goderbauer <goderbauer@google.com>'
+-
+    package_name: editex
+    package_version: v0.0.6
+    title: 'v0.0.6 of editex'
+    published: '2017-03-27T18:50:08+00:00'
+    id: 'urn:uuid:b87098a0-5ecd-545d-a1c4-780df722eab1'
+    link: 'https://pub.dartlang.org/packages/editex'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: service_worker
+    package_version: v0.0.9
+    title: 'v0.0.9 of service_worker'
+    published: '2017-03-27T18:48:31+00:00'
+    id: 'urn:uuid:788d63ca-9bcd-55da-a9e1-a988a1a37307'
+    link: 'https://pub.dartlang.org/packages/service_worker'
+    author:
+        - 'Istvan Soos <istvan.soos@gmail.com>'
+-
+    package_name: chartjs
+    package_version: v0.3.2
+    title: 'v0.3.2 of chartjs'
+    published: '2017-03-27T18:37:07+00:00'
+    id: 'urn:uuid:a3c42cfd-892a-5190-80ed-7c6bc620a073'
+    link: 'https://pub.dartlang.org/packages/chartjs'
+    author:
+        - 'Kevin Moore <kevmoo+github@google.com>'
