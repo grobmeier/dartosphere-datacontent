@@ -90761,3 +90761,21 @@
     link: 'https://pub.dartlang.org/packages/dart_irc'
     author:
         - nah
+-
+    package_name: editex
+    package_version: v0.0.7
+    title: 'v0.0.7 of editex'
+    published: '2017-03-28T12:51:01+00:00'
+    id: 'urn:uuid:c6494fca-ccc7-5a97-8b5f-15e7e54ca686'
+    link: 'https://pub.dartlang.org/packages/editex'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: eqlib
+    package_version: v0.6.2
+    title: 'v0.6.2 of eqlib'
+    published: '2017-03-28T12:33:04+00:00'
+    id: 'urn:uuid:1d0c03cb-4798-543b-a34b-6a48a6165118'
+    link: 'https://pub.dartlang.org/packages/eqlib'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
