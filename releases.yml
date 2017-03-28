@@ -90743,3 +90743,12 @@
     link: 'https://pub.dartlang.org/packages/usage'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dart_irc
+    package_version: v0.1.2
+    title: 'v0.1.2 of dart_irc'
+    published: '2017-03-28T01:23:37+00:00'
+    id: 'urn:uuid:a6198c65-2154-5b0d-a08a-26c4bd40f305'
+    link: 'https://pub.dartlang.org/packages/dart_irc'
+    author:
+        - nah
