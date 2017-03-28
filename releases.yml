@@ -90833,3 +90833,13 @@
     link: 'https://pub.dartlang.org/packages/editex'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: chrome
+    package_version: v0.9.3
+    title: 'v0.9.3 of chrome'
+    published: '2017-03-28T17:40:36+00:00'
+    id: 'urn:uuid:ceb53bb3-0c15-5aa1-97b7-98a12c11708f'
+    link: 'https://pub.dartlang.org/packages/chrome'
+    author:
+        - 'Adam Bender <adambender@gmail.com>'
+        - 'Ben Holtz <bholtz@cs.stanford.edu>'
