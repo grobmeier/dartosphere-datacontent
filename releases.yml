@@ -91083,3 +91083,12 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: editex
+    package_version: v0.0.8
+    title: 'v0.0.8 of editex'
+    published: '2017-03-29T11:16:30+00:00'
+    id: 'urn:uuid:0c28efc8-1089-5c5e-abe4-3ee79fe36505'
+    link: 'https://pub.dartlang.org/packages/editex'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
