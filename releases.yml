@@ -91002,3 +91002,39 @@
     link: 'https://pub.dartlang.org/packages/protobuf'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angel_validate
+    package_version: v1.0.1
+    title: 'v1.0.1 of angel_validate'
+    published: '2017-03-29T02:57:00+00:00'
+    id: 'urn:uuid:3d755d88-0b95-52be-9d62-ce724bc953cb'
+    link: 'https://pub.dartlang.org/packages/angel_validate'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_file_security
+    package_version: v1.0.1
+    title: 'v1.0.1 of angel_file_security'
+    published: '2017-03-29T02:49:58+00:00'
+    id: 'urn:uuid:108362cf-dfc3-5fc9-9e42-695f49d20941'
+    link: 'https://pub.dartlang.org/packages/angel_file_security'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_security
+    package_version: v1.0.2
+    title: 'v1.0.2 of angel_security'
+    published: '2017-03-29T02:45:06+00:00'
+    id: 'urn:uuid:9671504f-2c43-5398-8ac8-2704ea2cd76f'
+    link: 'https://pub.dartlang.org/packages/angel_security'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_test
+    package_version: v1.0.4
+    title: 'v1.0.4 of angel_test'
+    published: '2017-03-29T02:30:35+00:00'
+    id: 'urn:uuid:316afcc3-5b7f-5cf2-9cef-728d62642ff7'
+    link: 'https://pub.dartlang.org/packages/angel_test'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
