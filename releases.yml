@@ -91038,3 +91038,12 @@
     link: 'https://pub.dartlang.org/packages/angel_test'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: dart_language_server
+    package_version: v0.0.5
+    title: 'v0.0.5 of dart_language_server'
+    published: '2017-03-29T06:06:50+00:00'
+    id: 'urn:uuid:a2389cf8-8351-5d1d-a948-ff8c3941ca07'
+    link: 'https://pub.dartlang.org/packages/dart_language_server'
+    author:
+        - 'Nate Bosch <nbosch1@gmail.com>'
