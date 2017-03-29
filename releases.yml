@@ -91110,3 +91110,12 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: angular_test
+    package_version: v1.0.0-beta
+    title: 'v1.0.0-beta of angular_test'
+    published: '2017-03-29T18:31:38+00:00'
+    id: 'urn:uuid:036cf176-461d-5c44-98c5-8790908d7537'
+    link: 'https://pub.dartlang.org/packages/angular_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
