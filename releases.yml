@@ -91047,3 +91047,12 @@
     link: 'https://pub.dartlang.org/packages/dart_language_server'
     author:
         - 'Nate Bosch <nbosch1@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.1.70
+    title: 'v0.1.70 of bokain_models'
+    published: '2017-03-29T08:45:14+00:00'
+    id: 'urn:uuid:fcea126e-7aa3-57bf-81bc-6de51d992170'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
