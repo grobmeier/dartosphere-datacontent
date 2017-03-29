@@ -90975,3 +90975,30 @@
     link: 'https://pub.dartlang.org/packages/query_builder'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_test
+    package_version: v1.0.3
+    title: 'v1.0.3 of angel_test'
+    published: '2017-03-29T02:00:37+00:00'
+    id: 'urn:uuid:b59e2b89-4122-5fab-b08e-a630eb88e767'
+    link: 'https://pub.dartlang.org/packages/angel_test'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_client
+    package_version: v1.0.4
+    title: 'v1.0.4 of angel_client'
+    published: '2017-03-29T01:52:06+00:00'
+    id: 'urn:uuid:fbb539d7-be87-5e8f-b268-43e51bb52718'
+    link: 'https://pub.dartlang.org/packages/angel_client'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: protobuf
+    package_version: v0.5.3+2
+    title: 'v0.5.3+2 of protobuf'
+    published: '2017-03-29T01:00:57+00:00'
+    id: 'urn:uuid:c6363873-ee19-5d8a-87cc-e5816b0b9c4e'
+    link: 'https://pub.dartlang.org/packages/protobuf'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
