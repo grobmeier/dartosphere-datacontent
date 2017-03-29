@@ -91065,3 +91065,21 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: eqdb_client
+    package_version: v0.0.5
+    title: 'v0.0.5 of eqdb_client'
+    published: '2017-03-29T10:44:17+00:00'
+    id: 'urn:uuid:7ff492eb-81b1-5550-86c2-cd5231d3cc3b'
+    link: 'https://pub.dartlang.org/packages/eqdb_client'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.1.72
+    title: 'v0.1.72 of bokain_models'
+    published: '2017-03-29T10:10:15+00:00'
+    id: 'urn:uuid:3d14fb97-c671-5708-9408-61591efdbf5d'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
