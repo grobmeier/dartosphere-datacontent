@@ -91092,3 +91092,12 @@
     link: 'https://pub.dartlang.org/packages/editex'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.1.74
+    title: 'v0.1.74 of bokain_models'
+    published: '2017-03-29T12:30:33+00:00'
+    id: 'urn:uuid:fc994bb1-a489-58ee-83fe-04dc5a5826af'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
