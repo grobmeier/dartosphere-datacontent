@@ -90939,3 +90939,39 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.70
+    title: 'v1.0.0-dev.70 of angel_framework'
+    published: '2017-03-29T00:37:02+00:00'
+    id: 'urn:uuid:c3417721-4f26-510a-8bdf-aefa2198a64b'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_auth
+    package_version: v1.0.2
+    title: 'v1.0.2 of angel_auth'
+    published: '2017-03-29T00:31:33+00:00'
+    id: 'urn:uuid:3ba5ae37-64e0-586c-8b60-5f11a0965f48'
+    link: 'https://pub.dartlang.org/packages/angel_auth'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: query_builder_in_memory
+    package_version: v0.0.0
+    title: 'v0.0.0 of query_builder_in_memory'
+    published: '2017-03-29T00:18:19+00:00'
+    id: 'urn:uuid:45c779d2-8d5e-5f6d-be8c-480a0ab5d634'
+    link: 'https://pub.dartlang.org/packages/query_builder_in_memory'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: query_builder
+    package_version: v0.0.0
+    title: 'v0.0.0 of query_builder'
+    published: '2017-03-29T00:12:31+00:00'
+    id: 'urn:uuid:33e1258f-0363-5ae5-8309-0721f5846bbb'
+    link: 'https://pub.dartlang.org/packages/query_builder'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
