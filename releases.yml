@@ -91256,3 +91256,13 @@
     link: 'https://pub.dartlang.org/packages/pbkdf2'
     author:
         - 'James Ots <code@jamesots.com>'
+-
+    package_name: chrome
+    package_version: v0.9.31
+    title: 'v0.9.31 of chrome'
+    published: '2017-03-30T22:57:19+00:00'
+    id: 'urn:uuid:aa7a6831-cbb4-5762-9a4f-f27a53362417'
+    link: 'https://pub.dartlang.org/packages/chrome'
+    author:
+        - 'Adam Bender <adambender@gmail.com>'
+        - 'Ben Holtz <bholtz@cs.stanford.edu>'
