@@ -91211,3 +91211,12 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: analyzer
+    package_version: v0.29.10
+    title: 'v0.29.10 of analyzer'
+    published: '2017-03-30T17:10:06+00:00'
+    id: 'urn:uuid:cb8bc966-edbc-53f6-9708-973389571c2f'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
