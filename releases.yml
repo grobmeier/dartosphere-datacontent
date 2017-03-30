@@ -91137,3 +91137,12 @@
     link: 'https://pub.dartlang.org/packages/version'
     author:
         - 'Matthew Barbour <sanmadjack@gmail.com>'
+-
+    package_name: dobx_gen
+    package_version: v0.2.0
+    title: 'v0.2.0 of dobx_gen'
+    published: '2017-03-30T08:04:43+00:00'
+    id: 'urn:uuid:fbf7af81-fa31-57b8-b2c1-accfdff792cb'
+    link: 'https://pub.dartlang.org/packages/dobx_gen'
+    author:
+        - 'dyu <davidyu@cebu.io>'
