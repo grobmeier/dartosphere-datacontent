@@ -91165,3 +91165,12 @@
     author:
         - 'Jimmy Shiau <jimmyshiau@potix.com>'
         - 'Jerry Chen <jerrychen@potix.com>'
+-
+    package_name: dobx_ds
+    package_version: v0.2.0
+    title: 'v0.2.0 of dobx_ds'
+    published: '2017-03-30T11:22:40+00:00'
+    id: 'urn:uuid:0b7b8b67-6c33-5b3c-ae7a-624ea5c6b290'
+    link: 'https://pub.dartlang.org/packages/dobx_ds'
+    author:
+        - 'dyu <davidyu@cebu.io>'
