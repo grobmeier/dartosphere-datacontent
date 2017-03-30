@@ -91229,3 +91229,30 @@
     link: 'https://pub.dartlang.org/packages/executor'
     author:
         - 'Istvan Soos <istvan.soos@agilord.com>'
+-
+    package_name: cron
+    package_version: v0.0.1
+    title: 'v0.0.1 of cron'
+    published: '2017-03-30T21:47:40+00:00'
+    id: 'urn:uuid:faa17fc6-2ad5-5235-b176-3689a3972475'
+    link: 'https://pub.dartlang.org/packages/cron'
+    author:
+        - 'Istvan Soos <istvan.soos@agilord.com>'
+-
+    package_name: angular_test
+    package_version: v1.0.0-beta+1
+    title: 'v1.0.0-beta+1 of angular_test'
+    published: '2017-03-30T21:36:48+00:00'
+    id: 'urn:uuid:7245152b-d1e3-56a1-8119-73120aabdac9'
+    link: 'https://pub.dartlang.org/packages/angular_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: pbkdf2
+    package_version: v0.2.0
+    title: 'v0.2.0 of pbkdf2'
+    published: '2017-03-30T21:14:56+00:00'
+    id: 'urn:uuid:eb719ffa-f217-5a14-9cfe-02586391c6a4'
+    link: 'https://pub.dartlang.org/packages/pbkdf2'
+    author:
+        - 'James Ots <code@jamesots.com>'
