@@ -91220,3 +91220,12 @@
     link: 'https://pub.dartlang.org/packages/analyzer'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: executor
+    package_version: v0.1.0
+    title: 'v0.1.0 of executor'
+    published: '2017-03-30T20:03:29+00:00'
+    id: 'urn:uuid:18f74fff-fc9d-5859-a221-2083481d03c0'
+    link: 'https://pub.dartlang.org/packages/executor'
+    author:
+        - 'Istvan Soos <istvan.soos@agilord.com>'
