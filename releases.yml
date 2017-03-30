@@ -91202,3 +91202,12 @@
     author:
         - 'Robert Muth <robert@muth.org>'
         - 'Ray Hulha <java4life@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.1.78
+    title: 'v0.1.78 of bokain_models'
+    published: '2017-03-30T14:01:59+00:00'
+    id: 'urn:uuid:1791748d-b207-5026-be0f-f572e321a200'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
