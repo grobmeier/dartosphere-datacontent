@@ -91146,3 +91146,22 @@
     link: 'https://pub.dartlang.org/packages/dobx_gen'
     author:
         - 'dyu <davidyu@cebu.io>'
+-
+    package_name: bokain_models
+    package_version: v0.1.77
+    title: 'v0.1.77 of bokain_models'
+    published: '2017-03-30T10:27:39+00:00'
+    id: 'urn:uuid:9b5c825d-e1c0-5d09-94d5-41ce7c498856'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: rikulo_highcharts
+    package_version: v0.1.0+3
+    title: 'v0.1.0+3 of rikulo_highcharts'
+    published: '2017-03-30T10:23:59+00:00'
+    id: 'urn:uuid:6d90422c-cf6b-59bf-9421-0dae2207b74f'
+    link: 'https://pub.dartlang.org/packages/rikulo_highcharts'
+    author:
+        - 'Jimmy Shiau <jimmyshiau@potix.com>'
+        - 'Jerry Chen <jerrychen@potix.com>'
