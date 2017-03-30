@@ -91119,3 +91119,21 @@
     link: 'https://pub.dartlang.org/packages/angular_test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: http
+    package_version: v0.11.3+13
+    title: 'v0.11.3+13 of http'
+    published: '2017-03-30T00:43:51+00:00'
+    id: 'urn:uuid:2d9b57ba-74cb-5a4c-8847-81e885d0cc80'
+    link: 'https://pub.dartlang.org/packages/http'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: version
+    package_version: v1.0.0
+    title: 'v1.0.0 of version'
+    published: '2017-03-30T00:05:14+00:00'
+    id: 'urn:uuid:6a23592d-7ceb-57cf-9e42-e1215c7ccb58'
+    link: 'https://pub.dartlang.org/packages/version'
+    author:
+        - 'Matthew Barbour <sanmadjack@gmail.com>'
