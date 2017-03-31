@@ -91352,3 +91352,12 @@
     link: 'https://pub.dartlang.org/packages/plotly'
     author:
         - 'Richard Lincoln <r.w.lincoln@gmail.com>'
+-
+    package_name: dartson
+    package_version: v0.2.7
+    title: 'v0.2.7 of dartson'
+    published: '2017-03-31T19:27:40+00:00'
+    id: 'urn:uuid:af0c188d-2896-5350-912b-b1f08bd49054'
+    link: 'https://pub.dartlang.org/packages/dartson'
+    author:
+        - 'Eric Schneller <eric@schnellers.name>'
