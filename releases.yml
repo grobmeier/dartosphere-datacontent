@@ -91379,3 +91379,12 @@
     link: 'https://pub.dartlang.org/packages/cron'
     author:
         - 'Istvan Soos <istvan.soos@agilord.com>'
+-
+    package_name: meta
+    package_version: v1.0.5
+    title: 'v1.0.5 of meta'
+    published: '2017-03-31T21:44:34+00:00'
+    id: 'urn:uuid:c06fe15f-981f-5a35-b7a7-2cd365c8fa99'
+    link: 'https://pub.dartlang.org/packages/meta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
