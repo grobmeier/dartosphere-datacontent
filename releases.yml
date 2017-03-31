@@ -91302,3 +91302,12 @@
     link: 'https://pub.dartlang.org/packages/built_value'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: js_mimicry
+    package_version: v1.0.0
+    title: 'v1.0.0 of js_mimicry'
+    published: '2017-03-31T13:44:21+00:00'
+    id: 'urn:uuid:dcef506f-1972-568e-8f68-bf6a33ec00e7'
+    link: 'https://pub.dartlang.org/packages/js_mimicry'
+    author:
+        - 'Igor Demyanov <igor.demyanov@gmail.com>'
