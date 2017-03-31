@@ -91275,3 +91275,12 @@
     link: 'https://pub.dartlang.org/packages/http_status'
     author:
         - 'Andrea Cantafio <kk4r.1m@gmail.com>'
+-
+    package_name: code_builder
+    package_version: v1.0.0
+    title: 'v1.0.0 of code_builder'
+    published: '2017-03-31T00:41:29+00:00'
+    id: 'urn:uuid:d1ef448b-327d-5a55-b22a-623a298befbc'
+    link: 'https://pub.dartlang.org/packages/code_builder'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
