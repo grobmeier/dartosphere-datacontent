@@ -91343,3 +91343,12 @@
     link: 'https://pub.dartlang.org/packages/http_status'
     author:
         - 'Andrea Cantafio <kk4r.1m@gmail.com>'
+-
+    package_name: plotly
+    package_version: v0.7.1+2
+    title: 'v0.7.1+2 of plotly'
+    published: '2017-03-31T18:51:43+00:00'
+    id: 'urn:uuid:bf50bb49-ee16-55a1-bf83-4bbe425d980d'
+    link: 'https://pub.dartlang.org/packages/plotly'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
