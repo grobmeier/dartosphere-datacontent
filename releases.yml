@@ -91415,3 +91415,12 @@
     link: 'https://pub.dartlang.org/packages/test_debug'
     author:
         - 'Eric Schneller <eric@schnellers.name>'
+-
+    package_name: source_gen
+    package_version: v0.5.4+3
+    title: 'v0.5.4+3 of source_gen'
+    published: '2017-04-01T22:13:00+00:00'
+    id: 'urn:uuid:a6af804d-f31c-5a8c-949b-8350b13db13d'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
