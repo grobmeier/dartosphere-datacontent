@@ -91406,3 +91406,12 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: test_debug
+    package_version: v0.1.0
+    title: 'v0.1.0 of test_debug'
+    published: '2017-04-01T07:35:42+00:00'
+    id: 'urn:uuid:2eccced8-65d3-554c-926e-0fddd3fc878c'
+    link: 'https://pub.dartlang.org/packages/test_debug'
+    author:
+        - 'Eric Schneller <eric@schnellers.name>'
