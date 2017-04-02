@@ -91487,3 +91487,13 @@
     link: 'https://pub.dartlang.org/packages/owl'
     author:
         - 'Istvan Soos <istvan.soos@agilord.com>'
+-
+    package_name: chronosgl
+    package_version: v2.1.0
+    title: 'v2.1.0 of chronosgl'
+    published: '2017-04-02T22:10:15+00:00'
+    id: 'urn:uuid:a533609d-dbc3-5772-95df-c4da61ecbef7'
+    link: 'https://pub.dartlang.org/packages/chronosgl'
+    author:
+        - 'Robert Muth <robert@muth.org>'
+        - 'Ray Hulha <java4life@gmail.com>'
