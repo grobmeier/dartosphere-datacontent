@@ -91433,3 +91433,12 @@
     link: 'https://pub.dartlang.org/packages/angel_proxy'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: flake_uuid
+    package_version: v0.1.0
+    title: 'v0.1.0 of flake_uuid'
+    published: '2017-04-02T08:57:12+00:00'
+    id: 'urn:uuid:9f45378a-08f0-5dd7-afdc-8f28ace2b81e'
+    link: 'https://pub.dartlang.org/packages/flake_uuid'
+    author:
+        - 'Istvan Soos <istvan.soos@agilord.com>'
