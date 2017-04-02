@@ -91442,3 +91442,12 @@
     link: 'https://pub.dartlang.org/packages/flake_uuid'
     author:
         - 'Istvan Soos <istvan.soos@agilord.com>'
+-
+    package_name: transform_sass
+    package_version: v0.1.0
+    title: 'v0.1.0 of transform_sass'
+    published: '2017-04-02T18:32:20+00:00'
+    id: 'urn:uuid:3bb7c81e-8e68-5e17-9338-31366312f50c'
+    link: 'https://pub.dartlang.org/packages/transform_sass'
+    author:
+        - 'Jeromy Streets <halverneus@gmail.com>'
