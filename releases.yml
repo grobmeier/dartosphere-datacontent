@@ -91451,3 +91451,21 @@
     link: 'https://pub.dartlang.org/packages/transform_sass'
     author:
         - 'Jeromy Streets <halverneus@gmail.com>'
+-
+    package_name: angel_proxy
+    package_version: v1.0.2
+    title: 'v1.0.2 of angel_proxy'
+    published: '2017-04-02T19:27:57+00:00'
+    id: 'urn:uuid:cdbe7d12-96e6-5742-9ab1-f6fdd546d22c'
+    link: 'https://pub.dartlang.org/packages/angel_proxy'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.72
+    title: 'v1.0.0-dev.72 of angel_framework'
+    published: '2017-04-02T19:13:56+00:00'
+    id: 'urn:uuid:8252152c-8a11-5ca2-9c47-6e4478143744'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
