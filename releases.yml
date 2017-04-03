@@ -91525,3 +91525,12 @@
     link: 'https://pub.dartlang.org/packages/appengine'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dartdoc
+    package_version: v0.9.13
+    title: 'v0.9.13 of dartdoc'
+    published: '2017-04-03T20:21:49+00:00'
+    id: 'urn:uuid:55206acf-cf11-5530-b188-60b38b219838'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
