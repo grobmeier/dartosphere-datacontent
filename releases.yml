@@ -91534,3 +91534,21 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: eqlib
+    package_version: v0.7.1
+    title: 'v0.7.1 of eqlib'
+    published: '2017-04-03T21:18:41+00:00'
+    id: 'urn:uuid:567af737-7a71-5aad-89c1-d3045c9fde5e'
+    link: 'https://pub.dartlang.org/packages/eqlib'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: eqdb_client
+    package_version: v0.0.6
+    title: 'v0.0.6 of eqdb_client'
+    published: '2017-04-03T21:10:15+00:00'
+    id: 'urn:uuid:f351a91c-db2a-5d99-a0b4-8811dcc4b12d'
+    link: 'https://pub.dartlang.org/packages/eqdb_client'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
