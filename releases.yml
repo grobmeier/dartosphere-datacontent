@@ -91497,3 +91497,31 @@
     author:
         - 'Robert Muth <robert@muth.org>'
         - 'Ray Hulha <java4life@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0-dev.73
+    title: 'v1.0.0-dev.73 of angel_framework'
+    published: '2017-04-03T19:43:45+00:00'
+    id: 'urn:uuid:6b72aaa7-0fd8-56a6-a6f2-ab54df5320f8'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: rxdart
+    package_version: v0.10.2
+    title: 'v0.10.2 of rxdart'
+    published: '2017-04-03T19:39:14+00:00'
+    id: 'urn:uuid:e431bbd2-a8ac-5ba6-ba6a-ac11b2fec85d'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
+        - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: appengine
+    package_version: v0.4.0+1
+    title: 'v0.4.0+1 of appengine'
+    published: '2017-04-03T19:26:44+00:00'
+    id: 'urn:uuid:a17a205c-8c0d-5d86-9441-03311873bcd7'
+    link: 'https://pub.dartlang.org/packages/appengine'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
