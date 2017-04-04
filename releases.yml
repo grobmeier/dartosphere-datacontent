@@ -91597,3 +91597,12 @@
     link: 'https://pub.dartlang.org/packages/dobx_ds'
     author:
         - 'dyu <davidyu@cebu.io>'
+-
+    package_name: _bazel_codegen
+    package_version: v0.1.2
+    title: 'v0.1.2 of _bazel_codegen'
+    published: '2017-04-04T17:55:40+00:00'
+    id: 'urn:uuid:6fc4601a-24d4-5609-9dd6-25d627f97be0'
+    link: 'https://pub.dartlang.org/packages/_bazel_codegen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
