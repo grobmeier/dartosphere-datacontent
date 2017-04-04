@@ -91579,3 +91579,21 @@
     link: 'https://pub.dartlang.org/packages/eqlib'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: angular_test
+    package_version: v1.0.0-beta+2
+    title: 'v1.0.0-beta+2 of angular_test'
+    published: '2017-04-04T16:43:21+00:00'
+    id: 'urn:uuid:3141ec6a-a5b8-51c4-8a1c-e7689a2db253'
+    link: 'https://pub.dartlang.org/packages/angular_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dobx_ds
+    package_version: v0.4.0
+    title: 'v0.4.0 of dobx_ds'
+    published: '2017-04-04T16:28:24+00:00'
+    id: 'urn:uuid:69c968c0-88a0-5ac2-9f8b-dc3c905f85d0'
+    link: 'https://pub.dartlang.org/packages/dobx_ds'
+    author:
+        - 'dyu <davidyu@cebu.io>'
