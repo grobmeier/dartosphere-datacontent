@@ -91570,3 +91570,12 @@
     link: 'https://pub.dartlang.org/packages/dobx_ds'
     author:
         - 'dyu <davidyu@cebu.io>'
+-
+    package_name: eqlib
+    package_version: v0.8.0
+    title: 'v0.8.0 of eqlib'
+    published: '2017-04-04T10:52:45+00:00'
+    id: 'urn:uuid:7a199f75-adc6-5c58-9a60-ab1226b519c7'
+    link: 'https://pub.dartlang.org/packages/eqlib'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
