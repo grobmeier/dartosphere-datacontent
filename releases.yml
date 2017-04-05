@@ -91765,3 +91765,12 @@
     link: 'https://pub.dartlang.org/packages/platform'
     author:
         - 'Todd Volkert <tvolkert@google.com>'
+-
+    package_name: angel_mustache
+    package_version: v1.0.3
+    title: 'v1.0.3 of angel_mustache'
+    published: '2017-04-05T22:44:53+00:00'
+    id: 'urn:uuid:e7a7473d-db4e-5c78-92c7-c99c1a564a8c'
+    link: 'https://pub.dartlang.org/packages/angel_mustache'
+    author:
+        - 'thosakwe <thosakwe@gmail.com>'
