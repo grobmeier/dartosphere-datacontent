@@ -91710,3 +91710,12 @@
     link: 'https://pub.dartlang.org/packages/pwa'
     author:
         - 'Istvan Soos <istvan.soos@gmail.com>'
+-
+    package_name: pageloader
+    package_version: v2.2.6
+    title: 'v2.2.6 of pageloader'
+    published: '2017-04-05T18:08:50+00:00'
+    id: 'urn:uuid:11152768-cf63-5d49-858f-268b35367153'
+    link: 'https://pub.dartlang.org/packages/pageloader'
+    author:
+        - 'Marc Fisher II <fisherii@google.com>'
