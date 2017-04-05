@@ -91719,3 +91719,12 @@
     link: 'https://pub.dartlang.org/packages/pageloader'
     author:
         - 'Marc Fisher II <fisherii@google.com>'
+-
+    package_name: bazel_worker
+    package_version: v0.1.4
+    title: 'v0.1.4 of bazel_worker'
+    published: '2017-04-05T19:18:11+00:00'
+    id: 'urn:uuid:5a25e64b-7d41-5848-9b31-abcf60bab323'
+    link: 'https://pub.dartlang.org/packages/bazel_worker'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
