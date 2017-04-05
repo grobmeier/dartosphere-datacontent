@@ -91746,3 +91746,22 @@
     link: 'https://pub.dartlang.org/packages/editex'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: process
+    package_version: v2.0.3
+    title: 'v2.0.3 of process'
+    published: '2017-04-05T21:44:22+00:00'
+    id: 'urn:uuid:caa0d71b-9ffe-5297-8850-df60e73a2025'
+    link: 'https://pub.dartlang.org/packages/process'
+    author:
+        - 'Todd Volkert <tvolkert@google.com>'
+        - 'Michael Goderbauer <goderbauer@google.com>'
+-
+    package_name: platform
+    package_version: v2.0.0
+    title: 'v2.0.0 of platform'
+    published: '2017-04-05T21:30:18+00:00'
+    id: 'urn:uuid:d4d7e0e4-678d-50b0-a1d4-4bec72f6c2d8'
+    link: 'https://pub.dartlang.org/packages/platform'
+    author:
+        - 'Todd Volkert <tvolkert@google.com>'
