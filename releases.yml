@@ -91647,3 +91647,21 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: dorm
+    package_version: v1.0.41
+    title: 'v1.0.41 of dorm'
+    published: '2017-04-05T11:25:52+00:00'
+    id: 'urn:uuid:d16c3fc0-1aa8-5b97-9653-20a1056a5cde'
+    link: 'https://pub.dartlang.org/packages/dorm'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
+-
+    package_name: bokain_models
+    package_version: v0.1.81
+    title: 'v0.1.81 of bokain_models'
+    published: '2017-04-05T11:12:20+00:00'
+    id: 'urn:uuid:152aeb2a-5a23-5223-9af7-59d9ba8d4432'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
