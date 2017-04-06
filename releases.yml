@@ -91833,3 +91833,12 @@
     link: 'https://pub.dartlang.org/packages/eqlib'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1261
+    title: 'v0.0.1261 of fo_components'
+    published: '2017-04-06T12:39:35+00:00'
+    id: 'urn:uuid:3cc9cfb8-35e5-5710-adc0-035c75798432'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
