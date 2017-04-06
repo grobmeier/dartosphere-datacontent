@@ -91774,3 +91774,14 @@
     link: 'https://pub.dartlang.org/packages/angel_mustache'
     author:
         - 'thosakwe <thosakwe@gmail.com>'
+-
+    package_name: charted
+    package_version: v0.4.2
+    title: 'v0.4.2 of charted'
+    published: '2017-04-05T23:35:32+00:00'
+    id: 'urn:uuid:cc97df4a-d80e-51a2-9b99-1ea937ff71d8'
+    link: 'https://pub.dartlang.org/packages/charted'
+    author:
+        - 'Prasad Sunkari <prsd@google.com>'
+        - 'Michael Cheng <midoringo@google.com>'
+        - 'Yan Qiao <yqiao@google.com>'
