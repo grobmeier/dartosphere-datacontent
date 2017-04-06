@@ -91806,3 +91806,12 @@
         - 'Prasad Sunkari <prsd@google.com>'
         - 'Michael Cheng <midoringo@google.com>'
         - 'Yan Qiao <yqiao@google.com>'
+-
+    package_name: markdown
+    package_version: v0.11.3
+    title: 'v0.11.3 of markdown'
+    published: '2017-04-06T04:23:05+00:00'
+    id: 'urn:uuid:fd1fb37a-ccf7-5d4c-ae59-eb4e3700a977'
+    link: 'https://pub.dartlang.org/packages/markdown'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
