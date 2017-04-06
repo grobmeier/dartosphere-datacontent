@@ -91785,3 +91785,24 @@
         - 'Prasad Sunkari <prsd@google.com>'
         - 'Michael Cheng <midoringo@google.com>'
         - 'Yan Qiao <yqiao@google.com>'
+-
+    package_name: calzone
+    package_version: v0.3.0
+    title: 'v0.3.0 of calzone'
+    published: '2017-04-06T00:45:29+00:00'
+    id: 'urn:uuid:3174d0a7-8630-5412-abbe-256daafaeb3e'
+    link: 'https://pub.dartlang.org/packages/calzone'
+    author:
+        - 'Michael Bullington <m.bullington@dglogik.com>'
+        - 'Kenneth Endfinger <k.endfinger@dglogik.com>'
+-
+    package_name: charted
+    package_version: v0.4.3
+    title: 'v0.4.3 of charted'
+    published: '2017-04-06T00:32:07+00:00'
+    id: 'urn:uuid:ce763b6e-bf78-5589-bd2b-80e3706c75b3'
+    link: 'https://pub.dartlang.org/packages/charted'
+    author:
+        - 'Prasad Sunkari <prsd@google.com>'
+        - 'Michael Cheng <midoringo@google.com>'
+        - 'Yan Qiao <yqiao@google.com>'
