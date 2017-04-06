@@ -91889,3 +91889,12 @@
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: dart_style
+    package_version: v1.0.3
+    title: 'v1.0.3 of dart_style'
+    published: '2017-04-06T20:15:19+00:00'
+    id: 'urn:uuid:a627a016-dbf5-5eb9-8d83-0c6c82a3e6b8'
+    link: 'https://pub.dartlang.org/packages/dart_style'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
