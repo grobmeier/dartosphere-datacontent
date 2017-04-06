@@ -91815,3 +91815,12 @@
     link: 'https://pub.dartlang.org/packages/markdown'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: bokain_models
+    package_version: v0.1.86
+    title: 'v0.1.86 of bokain_models'
+    published: '2017-04-06T10:31:57+00:00'
+    id: 'urn:uuid:862c32fa-0bef-5b4a-a409-5db7083beb6b'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
