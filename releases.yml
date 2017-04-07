@@ -91947,3 +91947,12 @@
     author:
         - 'David Morgan <davidmorgan@google.com>'
         - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: aqueduct
+    package_version: v2.0.2
+    title: 'v2.0.2 of aqueduct'
+    published: '2017-04-07T14:14:53+00:00'
+    id: 'urn:uuid:71462237-71cf-5607-a127-98331a9fd87b'
+    link: 'https://pub.dartlang.org/packages/aqueduct'
+    author:
+        - 'stable|kernel <http://stablekernel.com>'
