@@ -91909,3 +91909,13 @@
         - 'Prasad Sunkari <prsd@google.com>'
         - 'Michael Cheng <midoringo@google.com>'
         - 'Yan Qiao <yqiao@google.com>'
+-
+    package_name: rikulo_highcharts
+    package_version: v0.1.0+4
+    title: 'v0.1.0+4 of rikulo_highcharts'
+    published: '2017-04-07T09:59:45+00:00'
+    id: 'urn:uuid:ab00f8b0-615e-5d0e-aa73-e0169d9c0119'
+    link: 'https://pub.dartlang.org/packages/rikulo_highcharts'
+    author:
+        - 'Jimmy Shiau <jimmyshiau@potix.com>'
+        - 'Jerry Chen <jerrychen@potix.com>'
