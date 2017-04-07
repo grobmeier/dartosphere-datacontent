@@ -91965,3 +91965,21 @@
     link: 'https://pub.dartlang.org/packages/w_common'
     author:
         - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+-
+    package_name: css_colors
+    package_version: v1.0.0
+    title: 'v1.0.0 of css_colors'
+    published: '2017-04-07T17:44:00+00:00'
+    id: 'urn:uuid:ffd23cb6-6960-56a7-a1f5-06fca7c37c4a'
+    link: 'https://pub.dartlang.org/packages/css_colors'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: linter
+    package_version: v0.1.30
+    title: 'v0.1.30 of linter'
+    published: '2017-04-07T17:22:47+00:00'
+    id: 'urn:uuid:a608c7ba-05c8-5396-872a-594215a9589a'
+    link: 'https://pub.dartlang.org/packages/linter'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
