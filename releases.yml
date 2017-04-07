@@ -91919,3 +91919,31 @@
     author:
         - 'Jimmy Shiau <jimmyshiau@potix.com>'
         - 'Jerry Chen <jerrychen@potix.com>'
+-
+    package_name: built_value_generator
+    package_version: v1.0.1
+    title: 'v1.0.1 of built_value_generator'
+    published: '2017-04-07T12:25:38+00:00'
+    id: 'urn:uuid:f404e4be-6819-5ebc-80ef-ce23af72f523'
+    link: 'https://pub.dartlang.org/packages/built_value_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value
+    package_version: v1.0.1
+    title: 'v1.0.1 of built_value'
+    published: '2017-04-07T12:24:41+00:00'
+    id: 'urn:uuid:0b7b569e-3042-5a0a-b8d1-66748e7a0711'
+    link: 'https://pub.dartlang.org/packages/built_value'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_collection
+    package_version: v1.3.1
+    title: 'v1.3.1 of built_collection'
+    published: '2017-04-07T12:13:57+00:00'
+    id: 'urn:uuid:31615ccb-9da3-5e07-bde9-0ab090f5510f'
+    link: 'https://pub.dartlang.org/packages/built_collection'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+        - 'Matan Lurey <matanl@google.com>'
