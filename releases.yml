@@ -91956,3 +91956,12 @@
     link: 'https://pub.dartlang.org/packages/aqueduct'
     author:
         - 'stable|kernel <http://stablekernel.com>'
+-
+    package_name: w_common
+    package_version: v1.4.1
+    title: 'v1.4.1 of w_common'
+    published: '2017-04-07T15:35:48+00:00'
+    id: 'urn:uuid:f945c72b-cd8f-50d0-8480-8ad49a614869'
+    link: 'https://pub.dartlang.org/packages/w_common'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
