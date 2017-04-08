@@ -92010,3 +92010,21 @@
     link: 'https://pub.dartlang.org/packages/dartodef'
     author:
         - 'Eric Schneller <eric@schnellers.name>'
+-
+    package_name: owl_codegen
+    package_version: v0.2.1
+    title: 'v0.2.1 of owl_codegen'
+    published: '2017-04-08T15:51:21+00:00'
+    id: 'urn:uuid:be7958ca-1c97-5141-8d76-0d64edfd9e37'
+    link: 'https://pub.dartlang.org/packages/owl_codegen'
+    author:
+        - 'Istvan Soos <istvan.soos@agilord.com>'
+-
+    package_name: owl
+    package_version: v0.2.1
+    title: 'v0.2.1 of owl'
+    published: '2017-04-08T15:51:09+00:00'
+    id: 'urn:uuid:1fd90a20-3a05-5c83-8bc5-fc79116ef7b7'
+    link: 'https://pub.dartlang.org/packages/owl'
+    author:
+        - 'Istvan Soos <istvan.soos@agilord.com>'
