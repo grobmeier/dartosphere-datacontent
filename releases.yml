@@ -92046,3 +92046,12 @@
     link: 'https://pub.dartlang.org/packages/eqlib'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: editex
+    package_version: v0.1.1
+    title: 'v0.1.1 of editex'
+    published: '2017-04-09T21:17:30+00:00'
+    id: 'urn:uuid:5a8796b9-fa02-53d9-b259-6eab390d6568'
+    link: 'https://pub.dartlang.org/packages/editex'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
