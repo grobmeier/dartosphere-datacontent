@@ -92037,3 +92037,12 @@
     link: 'https://pub.dartlang.org/packages/http_client'
     author:
         - 'Istvan Soos <istvan.soos@gmail.com>'
+-
+    package_name: eqlib
+    package_version: v0.9.0
+    title: 'v0.9.0 of eqlib'
+    published: '2017-04-09T15:01:19+00:00'
+    id: 'urn:uuid:f5750f5a-6453-5e8a-b286-bb1618896098'
+    link: 'https://pub.dartlang.org/packages/eqlib'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
