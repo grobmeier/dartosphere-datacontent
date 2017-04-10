@@ -92199,3 +92199,12 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: editex
+    package_version: v0.1.3
+    title: 'v0.1.3 of editex'
+    published: '2017-04-10T16:55:07+00:00'
+    id: 'urn:uuid:987f4377-ad6a-53c8-ab90-32d30f5b188e'
+    link: 'https://pub.dartlang.org/packages/editex'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
