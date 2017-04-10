@@ -92190,3 +92190,12 @@
     link: 'https://pub.dartlang.org/packages/angel_cli'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0+1
+    title: 'v1.0.0+1 of angel_framework'
+    published: '2017-04-10T14:46:40+00:00'
+    id: 'urn:uuid:93891e6a-a6a6-5cdd-839a-bfbba4f3ad2b'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
