@@ -92154,3 +92154,30 @@
     link: 'https://pub.dartlang.org/packages/firebase_dart'
     author:
         - 'Rik Bellens <rik.bellens@appsup.be>'
+-
+    package_name: editex
+    package_version: v0.1.2
+    title: 'v0.1.2 of editex'
+    published: '2017-04-10T10:42:20+00:00'
+    id: 'urn:uuid:286b4759-649d-5162-a9c0-23ceef4810ef'
+    link: 'https://pub.dartlang.org/packages/editex'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: eqdb_client
+    package_version: v0.0.8
+    title: 'v0.0.8 of eqdb_client'
+    published: '2017-04-10T10:13:06+00:00'
+    id: 'urn:uuid:914da28b-3318-509a-b3b1-52652ad130f0'
+    link: 'https://pub.dartlang.org/packages/eqdb_client'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: eqlib
+    package_version: v0.9.1
+    title: 'v0.9.1 of eqlib'
+    published: '2017-04-10T10:06:13+00:00'
+    id: 'urn:uuid:24e0a450-0db0-57ae-9aef-1a9cc41e85b8'
+    link: 'https://pub.dartlang.org/packages/eqlib'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
