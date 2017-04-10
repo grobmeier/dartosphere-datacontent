@@ -92136,3 +92136,12 @@
     link: 'https://pub.dartlang.org/packages/angel_rethink'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: eqdb_client
+    package_version: v0.0.7
+    title: 'v0.0.7 of eqdb_client'
+    published: '2017-04-10T08:52:39+00:00'
+    id: 'urn:uuid:33b39e07-1703-5ea0-b1f9-bcbe652d2035'
+    link: 'https://pub.dartlang.org/packages/eqdb_client'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
