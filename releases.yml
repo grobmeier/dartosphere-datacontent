@@ -92073,3 +92073,66 @@
     link: 'https://pub.dartlang.org/packages/angel_websocket'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_common
+    package_version: v1.0.0
+    title: 'v1.0.0 of angel_common'
+    published: '2017-04-10T02:53:14+00:00'
+    id: 'urn:uuid:a670d857-2aff-51e0-ba1e-af93e74e7dc3'
+    link: 'https://pub.dartlang.org/packages/angel_common'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_errors
+    package_version: v1.0.0
+    title: 'v1.0.0 of angel_errors'
+    published: '2017-04-10T02:51:23+00:00'
+    id: 'urn:uuid:d92880a9-3a6b-54d6-8653-a7558d838c50'
+    link: 'https://pub.dartlang.org/packages/angel_errors'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_cors
+    package_version: v1.0.0
+    title: 'v1.0.0 of angel_cors'
+    published: '2017-04-10T02:47:26+00:00'
+    id: 'urn:uuid:c973bb46-6ef0-513e-9c2d-7aebfc48a746'
+    link: 'https://pub.dartlang.org/packages/angel_cors'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.0
+    title: 'v1.0.0 of angel_framework'
+    published: '2017-04-10T02:39:33+00:00'
+    id: 'urn:uuid:d850a406-e25f-5acc-b558-83b2b182867b'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_diagnostics
+    package_version: v1.0.1
+    title: 'v1.0.1 of angel_diagnostics'
+    published: '2017-04-10T02:34:45+00:00'
+    id: 'urn:uuid:ea5507fd-c2a8-50b9-9f3c-c155ecfb3e46'
+    link: 'https://pub.dartlang.org/packages/angel_diagnostics'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_mongo
+    package_version: v1.1.5
+    title: 'v1.1.5 of angel_mongo'
+    published: '2017-04-10T02:28:26+00:00'
+    id: 'urn:uuid:c44512bc-de9c-5a04-8225-3887a03686cf'
+    link: 'https://pub.dartlang.org/packages/angel_mongo'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_rethink
+    package_version: v1.0.7
+    title: 'v1.0.7 of angel_rethink'
+    published: '2017-04-10T02:11:45+00:00'
+    id: 'urn:uuid:6ce5ed83-f7ed-5123-a4ed-5635a09bee97'
+    link: 'https://pub.dartlang.org/packages/angel_rethink'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
