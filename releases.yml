@@ -92208,3 +92208,12 @@
     link: 'https://pub.dartlang.org/packages/editex'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: eqlib
+    package_version: v0.10.0
+    title: 'v0.10.0 of eqlib'
+    published: '2017-04-10T20:23:03+00:00'
+    id: 'urn:uuid:c6ce8f86-efad-541d-8d41-0f207f4eb7fa'
+    link: 'https://pub.dartlang.org/packages/eqlib'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
