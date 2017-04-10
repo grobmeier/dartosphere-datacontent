@@ -92217,3 +92217,12 @@
     link: 'https://pub.dartlang.org/packages/eqlib'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: test
+    package_version: v0.12.20+10
+    title: 'v0.12.20+10 of test'
+    published: '2017-04-10T22:34:34+00:00'
+    id: 'urn:uuid:93c15eba-8cff-553c-b58d-eb525224a324'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
