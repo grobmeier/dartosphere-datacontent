@@ -92244,3 +92244,12 @@
     link: 'https://pub.dartlang.org/packages/firebase_dart'
     author:
         - 'Rik Bellens <rik.bellens@appsup.be>'
+-
+    package_name: cbor
+    package_version: v1.0.0
+    title: 'v1.0.0 of cbor'
+    published: '2017-04-11T10:32:33+00:00'
+    id: 'urn:uuid:a62b7f48-a894-5032-9a16-8bd8833b289f'
+    link: 'https://pub.dartlang.org/packages/cbor'
+    author:
+        - 'Steve Hamblett <steve.hamblett@linux.com>'
