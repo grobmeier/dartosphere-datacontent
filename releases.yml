@@ -92253,3 +92253,21 @@
     link: 'https://pub.dartlang.org/packages/cbor'
     author:
         - 'Steve Hamblett <steve.hamblett@linux.com>'
+-
+    package_name: cleverbot
+    package_version: v0.0.3
+    title: 'v0.0.3 of cleverbot'
+    published: '2017-04-11T13:52:24+00:00'
+    id: 'urn:uuid:cd4827fa-6db1-521e-accc-dcf9a603ced8'
+    link: 'https://pub.dartlang.org/packages/cleverbot'
+    author:
+        - 'rinukkusu <rinukkusu@auen.land>'
+-
+    package_name: bokain_models
+    package_version: v0.2.10
+    title: 'v0.2.10 of bokain_models'
+    published: '2017-04-11T13:48:37+00:00'
+    id: 'urn:uuid:9858fa69-f4bc-5bdf-9cec-6323336d8327'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
