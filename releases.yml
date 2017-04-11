@@ -92317,3 +92317,21 @@
     link: 'https://pub.dartlang.org/packages/cleverbot'
     author:
         - 'rinukkusu <rinukkusu@auen.land>'
+-
+    package_name: spell_corrector
+    package_version: v1.0.1
+    title: 'v1.0.1 of spell_corrector'
+    published: '2017-04-11T16:38:10+00:00'
+    id: 'urn:uuid:52e3fa5d-8457-58e4-b3e5-c1f0028385c4'
+    link: 'https://pub.dartlang.org/packages/spell_corrector'
+    author:
+        - 'John Ryan <john.p.ryan4@gmail.com>'
+-
+    package_name: html_builder
+    package_version: v1.0.0+1
+    title: 'v1.0.0+1 of html_builder'
+    published: '2017-04-11T16:25:27+00:00'
+    id: 'urn:uuid:21f2a359-3037-55b2-a239-c644a6efdf71'
+    link: 'https://pub.dartlang.org/packages/html_builder'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
