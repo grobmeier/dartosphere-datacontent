@@ -92271,3 +92271,40 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: built_collection
+    package_version: v1.4.0
+    title: 'v1.4.0 of built_collection'
+    published: '2017-04-11T14:51:47+00:00'
+    id: 'urn:uuid:5136b316-20ea-5e86-984d-2b874177d3e5'
+    link: 'https://pub.dartlang.org/packages/built_collection'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+        - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: cleverbot
+    package_version: v0.0.6
+    title: 'v0.0.6 of cleverbot'
+    published: '2017-04-11T14:51:05+00:00'
+    id: 'urn:uuid:aab9ee54-3f3a-59f6-8ad3-4e22b4e37dfa'
+    link: 'https://pub.dartlang.org/packages/cleverbot'
+    author:
+        - 'rinukkusu <rinukkusu@auen.land>'
+-
+    package_name: fo_components
+    package_version: v0.0.1265
+    title: 'v0.0.1265 of fo_components'
+    published: '2017-04-11T14:50:10+00:00'
+    id: 'urn:uuid:56041ea5-44e6-5f2d-b887-de9d5a3832c8'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: stream
+    package_version: v1.6.7+1
+    title: 'v1.6.7+1 of stream'
+    published: '2017-04-11T14:06:37+00:00'
+    id: 'urn:uuid:21d331a3-1c7a-5e3d-ae2e-e3c2bea9feca'
+    link: 'https://pub.dartlang.org/packages/stream'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
