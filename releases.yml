@@ -92335,3 +92335,12 @@
     link: 'https://pub.dartlang.org/packages/html_builder'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: cleverbot
+    package_version: v0.0.9
+    title: 'v0.0.9 of cleverbot'
+    published: '2017-04-11T17:42:21+00:00'
+    id: 'urn:uuid:b67aa5f1-6f3e-5d19-bff9-294f61c15cdc'
+    link: 'https://pub.dartlang.org/packages/cleverbot'
+    author:
+        - 'rinukkusu <rinukkusu@auen.land>'
