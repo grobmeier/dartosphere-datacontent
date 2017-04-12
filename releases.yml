@@ -92455,3 +92455,21 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: eqlib
+    package_version: v0.11.1+1
+    title: 'v0.11.1+1 of eqlib'
+    published: '2017-04-12T16:56:45+00:00'
+    id: 'urn:uuid:65cdd03e-6ee1-549f-9d42-716170d09634'
+    link: 'https://pub.dartlang.org/packages/eqlib'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: platform_detect
+    package_version: v1.3.0
+    title: 'v1.3.0 of platform_detect'
+    published: '2017-04-12T16:01:39+00:00'
+    id: 'urn:uuid:bcaa5983-95d9-503a-aa69-cae85f8888b1'
+    link: 'https://pub.dartlang.org/packages/platform_detect'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
