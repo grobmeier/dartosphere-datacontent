@@ -92381,3 +92381,23 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.2.14
+    title: 'v0.2.14 of bokain_models'
+    published: '2017-04-12T11:40:23+00:00'
+    id: 'urn:uuid:e2f857c1-62a8-5309-962a-dcfcf10073ae'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: bootjack
+    package_version: v0.6.7+2
+    title: 'v0.6.7+2 of bootjack'
+    published: '2017-04-12T11:11:58+00:00'
+    id: 'urn:uuid:600cb419-a548-5796-a364-61937a1477d7'
+    link: 'https://pub.dartlang.org/packages/bootjack'
+    author:
+        - 'Simon Pai <simonpai@rikulo.org>'
+        - 'Jimmy Shiau <jimmyshiau@potix.com>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
