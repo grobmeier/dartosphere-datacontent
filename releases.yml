@@ -92344,3 +92344,21 @@
     link: 'https://pub.dartlang.org/packages/cleverbot'
     author:
         - 'rinukkusu <rinukkusu@auen.land>'
+-
+    package_name: rikulo_security
+    package_version: v0.8.5
+    title: 'v0.8.5 of rikulo_security'
+    published: '2017-04-12T03:05:14+00:00'
+    id: 'urn:uuid:cacb32f3-a72d-5f38-aa30-1a01b9717e68'
+    link: 'https://pub.dartlang.org/packages/rikulo_security'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: stream
+    package_version: v1.6.8
+    title: 'v1.6.8 of stream'
+    published: '2017-04-12T03:03:38+00:00'
+    id: 'urn:uuid:96890c3f-fcab-5260-8aeb-6b578fa27b4e'
+    link: 'https://pub.dartlang.org/packages/stream'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
