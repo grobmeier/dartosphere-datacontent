@@ -92419,3 +92419,30 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.2.17
+    title: 'v0.2.17 of bokain_models'
+    published: '2017-04-12T13:39:39+00:00'
+    id: 'urn:uuid:d005d0a7-28f6-5714-81e3-85b74058c915'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: eqlib
+    package_version: v0.11.0+1
+    title: 'v0.11.0+1 of eqlib'
+    published: '2017-04-12T13:26:45+00:00'
+    id: 'urn:uuid:f952136f-b39c-5b82-80b8-52d15208d4c9'
+    link: 'https://pub.dartlang.org/packages/eqlib'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: cleverbot
+    package_version: v0.1.0
+    title: 'v0.1.0 of cleverbot'
+    published: '2017-04-12T13:18:39+00:00'
+    id: 'urn:uuid:f6d3e7c3-ed12-52e5-a203-5131667871b3'
+    link: 'https://pub.dartlang.org/packages/cleverbot'
+    author:
+        - 'rinukkusu <rinukkusu@auen.land>'
