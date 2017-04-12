@@ -92362,3 +92362,22 @@
     link: 'https://pub.dartlang.org/packages/stream'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: postgresql2
+    package_version: v0.3.4+1
+    title: 'v0.3.4+1 of postgresql2'
+    published: '2017-04-12T10:43:42+00:00'
+    id: 'urn:uuid:431ac14c-6ba5-5b26-94b7-c2534be70317'
+    link: 'https://pub.dartlang.org/packages/postgresql2'
+    author:
+        - 'Greg Lowe <greg@vis.net.nz>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: bokain_models
+    package_version: v0.2.13
+    title: 'v0.2.13 of bokain_models'
+    published: '2017-04-12T08:28:12+00:00'
+    id: 'urn:uuid:6a15fede-3209-5125-9cc6-8f147ad35288'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
