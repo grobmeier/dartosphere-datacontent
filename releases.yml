@@ -92446,3 +92446,12 @@
     link: 'https://pub.dartlang.org/packages/cleverbot'
     author:
         - 'rinukkusu <rinukkusu@auen.land>'
+-
+    package_name: bokain_models
+    package_version: v0.2.20
+    title: 'v0.2.20 of bokain_models'
+    published: '2017-04-12T14:24:10+00:00'
+    id: 'urn:uuid:9efa6e02-fe37-5b36-a673-40ce30426192'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
