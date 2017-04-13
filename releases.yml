@@ -92539,3 +92539,12 @@
     author:
         - 'Darius Kryszczuk <darius.kryszczuk@gmail.com>'
         - 'Tomas Zverina <tomucha@gmail.com>'
+-
+    package_name: build
+    package_version: v0.7.3
+    title: 'v0.7.3 of build'
+    published: '2017-04-13T18:33:13+00:00'
+    id: 'urn:uuid:4ee291d2-ed95-5784-a43c-fea1b6cadb8d'
+    link: 'https://pub.dartlang.org/packages/build'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
