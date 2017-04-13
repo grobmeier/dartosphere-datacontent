@@ -92548,3 +92548,30 @@
     link: 'https://pub.dartlang.org/packages/build'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build_test
+    package_version: v0.5.1
+    title: 'v0.5.1 of build_test'
+    published: '2017-04-13T21:59:55+00:00'
+    id: 'urn:uuid:5283a1db-0278-5c87-b205-e5f4506849fe'
+    link: 'https://pub.dartlang.org/packages/build_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build_barback
+    package_version: v0.1.2
+    title: 'v0.1.2 of build_barback'
+    published: '2017-04-13T21:59:03+00:00'
+    id: 'urn:uuid:d2313ee1-a4b8-5181-9f65-35760b62e50e'
+    link: 'https://pub.dartlang.org/packages/build_barback'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build
+    package_version: v0.8.0
+    title: 'v0.8.0 of build'
+    published: '2017-04-13T21:33:03+00:00'
+    id: 'urn:uuid:778fa7d2-91e6-57bb-a497-afb8be759b65'
+    link: 'https://pub.dartlang.org/packages/build'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
