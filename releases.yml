@@ -92529,3 +92529,13 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: czech
+    package_version: v0.0.9
+    title: 'v0.0.9 of czech'
+    published: '2017-04-13T15:44:26+00:00'
+    id: 'urn:uuid:c75ed090-052c-5852-a5c9-95a345020d8d'
+    link: 'https://pub.dartlang.org/packages/czech'
+    author:
+        - 'Darius Kryszczuk <darius.kryszczuk@gmail.com>'
+        - 'Tomas Zverina <tomucha@gmail.com>'
