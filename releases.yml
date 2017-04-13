@@ -92482,3 +92482,14 @@
     link: 'https://pub.dartlang.org/packages/csslib'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: rikulo_commons
+    package_version: v2.3.6
+    title: 'v2.3.6 of rikulo_commons'
+    published: '2017-04-13T01:45:15+00:00'
+    id: 'urn:uuid:26d8ccc3-f701-54e2-94d4-35e876434f63'
+    link: 'https://pub.dartlang.org/packages/rikulo_commons'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+        - 'Henri Chen <henrichen@rikulo.org>'
+        - 'Simon Pai <simonpai@rikulo.org>'
