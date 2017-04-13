@@ -92511,3 +92511,12 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.2.25
+    title: 'v0.2.25 of bokain_models'
+    published: '2017-04-13T10:48:11+00:00'
+    id: 'urn:uuid:04358871-8756-5056-9899-98dcca5e63c5'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
