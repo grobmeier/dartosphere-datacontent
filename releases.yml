@@ -92662,3 +92662,12 @@
     link: 'https://pub.dartlang.org/packages/func'
     author:
         - 'Dart Dev Compiler team <dev-compiler@dartlang.org>'
+-
+    package_name: shelf_serve
+    package_version: v0.2.5
+    title: 'v0.2.5 of shelf_serve'
+    published: '2017-04-14T21:01:30+00:00'
+    id: 'urn:uuid:22603ac3-d426-5204-bd79-ada354969581'
+    link: 'https://pub.dartlang.org/packages/shelf_serve'
+    author:
+        - 'Rik Bellens <rik.bellens@appsup.be>'
