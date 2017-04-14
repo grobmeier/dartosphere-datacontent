@@ -92603,3 +92603,12 @@
     link: 'https://pub.dartlang.org/packages/pubinit'
     author:
         - 'Ophelien DUPARC <ophelien.duparc@gmail.com>'
+-
+    package_name: pubinit
+    package_version: v0.0.4
+    title: 'v0.0.4 of pubinit'
+    published: '2017-04-14T10:15:03+00:00'
+    id: 'urn:uuid:167926f8-28e2-5573-a469-e6278442e1b6'
+    link: 'https://pub.dartlang.org/packages/pubinit'
+    author:
+        - 'Ophelien DUPARC <ophelien.duparc@gmail.com>'
