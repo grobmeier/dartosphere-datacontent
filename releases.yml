@@ -92635,3 +92635,12 @@
     link: 'https://pub.dartlang.org/packages/eqdb_client'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: eqlib
+    package_version: v0.11.2
+    title: 'v0.11.2 of eqlib'
+    published: '2017-04-14T19:21:21+00:00'
+    id: 'urn:uuid:faef5689-a6d7-5d07-b48a-2650e353c773'
+    link: 'https://pub.dartlang.org/packages/eqlib'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
