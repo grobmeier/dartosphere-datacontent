@@ -92644,3 +92644,21 @@
     link: 'https://pub.dartlang.org/packages/eqlib'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: shelf_serve
+    package_version: v0.2.4
+    title: 'v0.2.4 of shelf_serve'
+    published: '2017-04-14T20:53:53+00:00'
+    id: 'urn:uuid:b6de544f-4549-5520-ae67-378d01734187'
+    link: 'https://pub.dartlang.org/packages/shelf_serve'
+    author:
+        - 'Rik Bellens <rik.bellens@appsup.be>'
+-
+    package_name: func
+    package_version: v1.0.0
+    title: 'v1.0.0 of func'
+    published: '2017-04-14T20:18:35+00:00'
+    id: 'urn:uuid:318ed274-8ce7-5913-a357-02f87cfac34e'
+    link: 'https://pub.dartlang.org/packages/func'
+    author:
+        - 'Dart Dev Compiler team <dev-compiler@dartlang.org>'
