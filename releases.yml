@@ -92612,3 +92612,26 @@
     link: 'https://pub.dartlang.org/packages/pubinit'
     author:
         - 'Ophelien DUPARC <ophelien.duparc@gmail.com>'
+-
+    package_name: w_flux
+    package_version: v2.7.0
+    title: 'v2.7.0 of w_flux'
+    published: '2017-04-14T14:44:30+00:00'
+    id: 'urn:uuid:1fe874e5-26e3-5d63-9807-413a3af10919'
+    link: 'https://pub.dartlang.org/packages/w_flux'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: eqdb_client
+    package_version: v0.0.9
+    title: 'v0.0.9 of eqdb_client'
+    published: '2017-04-14T14:11:25+00:00'
+    id: 'urn:uuid:f8166818-eaef-50da-a390-10a9bb132b8d'
+    link: 'https://pub.dartlang.org/packages/eqdb_client'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
