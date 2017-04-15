@@ -92671,3 +92671,12 @@
     link: 'https://pub.dartlang.org/packages/shelf_serve'
     author:
         - 'Rik Bellens <rik.bellens@appsup.be>'
+-
+    package_name: http_client
+    package_version: v0.2.2
+    title: 'v0.2.2 of http_client'
+    published: '2017-04-15T08:16:29+00:00'
+    id: 'urn:uuid:118092df-92eb-5092-a51f-1912fad01a3c'
+    link: 'https://pub.dartlang.org/packages/http_client'
+    author:
+        - 'Istvan Soos <istvan.soos@gmail.com>'
