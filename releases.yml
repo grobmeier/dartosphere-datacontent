@@ -92689,3 +92689,12 @@
     link: 'https://pub.dartlang.org/packages/eqlib'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.1
+    title: 'v1.0.1 of angel_framework'
+    published: '2017-04-15T17:42:34+00:00'
+    id: 'urn:uuid:f18a1588-4ff2-573b-81ac-38a67c1497d5'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
