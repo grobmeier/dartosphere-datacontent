@@ -92755,3 +92755,12 @@
     author:
         - 'Darius Kryszczuk <darius.kryszczuk@gmail.com>'
         - 'Tomas Zverina <tomucha@gmail.com>'
+-
+    package_name: faker
+    package_version: v0.0.5
+    title: 'v0.0.5 of faker'
+    published: '2017-04-16T09:10:04+00:00'
+    id: 'urn:uuid:fce18ea9-3dad-54b0-b549-2c543f5beed7'
+    link: 'https://pub.dartlang.org/packages/faker'
+    author:
+        - 'Jesper Håkansson <jesper@jesperh.se>'
