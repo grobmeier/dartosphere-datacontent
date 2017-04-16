@@ -92764,3 +92764,12 @@
     link: 'https://pub.dartlang.org/packages/faker'
     author:
         - 'Jesper Håkansson <jesper@jesperh.se>'
+-
+    package_name: resize_sensor_component
+    package_version: v0.0.1
+    title: 'v0.0.1 of resize_sensor_component'
+    published: '2017-04-16T17:14:58+00:00'
+    id: 'urn:uuid:f4ab2f0e-3c26-5899-8504-39211b046704'
+    link: 'https://pub.dartlang.org/packages/resize_sensor_component'
+    author:
+        - 'Zdeněk Mlčoch <mlcoch.zdenek@gmail.com>'
