@@ -92745,3 +92745,13 @@
     link: 'https://pub.dartlang.org/packages/eqlib'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: czech
+    package_version: v0.1.2
+    title: 'v0.1.2 of czech'
+    published: '2017-04-16T06:51:40+00:00'
+    id: 'urn:uuid:695515f0-ec57-5030-9227-78d134442471'
+    link: 'https://pub.dartlang.org/packages/czech'
+    author:
+        - 'Darius Kryszczuk <darius.kryszczuk@gmail.com>'
+        - 'Tomas Zverina <tomucha@gmail.com>'
