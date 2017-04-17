@@ -92874,3 +92874,13 @@
     link: 'https://pub.dartlang.org/packages/dart2js_info'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: firebase
+    package_version: v3.0.2
+    title: 'v3.0.2 of firebase'
+    published: '2017-04-17T19:42:14+00:00'
+    id: 'urn:uuid:fc1e2c35-921d-59e6-8fae-0dbb6ad59dd1'
+    link: 'https://pub.dartlang.org/packages/firebase'
+    author:
+        - 'Jana Moudra <jana.moudra@gmail.com>'
+        - 'Kevin Moore <kevmoo@google.com>'
