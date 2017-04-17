@@ -92828,3 +92828,13 @@
     link: 'https://pub.dartlang.org/packages/access'
     author:
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: rikulo_highcharts
+    package_version: v0.1.0+5
+    title: 'v0.1.0+5 of rikulo_highcharts'
+    published: '2017-04-17T07:50:39+00:00'
+    id: 'urn:uuid:a41bd76d-6fc4-5897-b213-8359c62fb618'
+    link: 'https://pub.dartlang.org/packages/rikulo_highcharts'
+    author:
+        - 'Jimmy Shiau <jimmyshiau@potix.com>'
+        - 'Jerry Chen <jerrychen@potix.com>'
