@@ -92856,3 +92856,12 @@
     link: 'https://pub.dartlang.org/packages/angel_websocket'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: dartdoc
+    package_version: v0.10.0
+    title: 'v0.10.0 of dartdoc'
+    published: '2017-04-17T14:56:44+00:00'
+    id: 'urn:uuid:e7390588-19ea-5c98-b504-32a90bb6e956'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
