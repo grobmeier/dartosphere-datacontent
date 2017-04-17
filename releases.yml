@@ -92865,3 +92865,12 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dart2js_info
+    package_version: v0.5.4+2
+    title: 'v0.5.4+2 of dart2js_info'
+    published: '2017-04-17T17:32:50+00:00'
+    id: 'urn:uuid:48e3b221-49a1-5206-a27c-896a8dfc9234'
+    link: 'https://pub.dartlang.org/packages/dart2js_info'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
