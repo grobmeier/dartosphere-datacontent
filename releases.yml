@@ -92773,3 +92773,21 @@
     link: 'https://pub.dartlang.org/packages/resize_sensor_component'
     author:
         - 'Zdeněk Mlčoch <mlcoch.zdenek@gmail.com>'
+-
+    package_name: recompose_dart
+    package_version: v0.0.3
+    title: 'v0.0.3 of recompose_dart'
+    published: '2017-04-16T23:58:31+00:00'
+    id: 'urn:uuid:beeaacb8-e690-539f-b045-68afbdf56ffc'
+    link: 'https://pub.dartlang.org/packages/recompose_dart'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: built_redux
+    package_version: v0.0.3
+    title: 'v0.0.3 of built_redux'
+    published: '2017-04-16T23:31:34+00:00'
+    id: 'urn:uuid:f0731da6-f393-57e0-a430-a03e7c29e11a'
+    link: 'https://pub.dartlang.org/packages/built_redux'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
