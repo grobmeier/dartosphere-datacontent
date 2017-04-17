@@ -92810,3 +92810,12 @@
     link: 'https://pub.dartlang.org/packages/recompose_dart'
     author:
         - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: dart_language_server
+    package_version: v0.0.6
+    title: 'v0.0.6 of dart_language_server'
+    published: '2017-04-17T01:19:03+00:00'
+    id: 'urn:uuid:91b3b528-29c0-5aeb-8d96-35b46a7a3f91'
+    link: 'https://pub.dartlang.org/packages/dart_language_server'
+    author:
+        - 'Nate Bosch <nbosch1@gmail.com>'
