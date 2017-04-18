@@ -92920,3 +92920,21 @@
     link: 'https://pub.dartlang.org/packages/recompose_dart'
     author:
         - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: googleapis_beta
+    package_version: v0.36.0
+    title: 'v0.36.0 of googleapis_beta'
+    published: '2017-04-18T10:30:59+00:00'
+    id: 'urn:uuid:3cefb9d0-79fe-5b4a-842c-75bfa359cda2'
+    link: 'https://pub.dartlang.org/packages/googleapis_beta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: googleapis
+    package_version: v0.38.0
+    title: 'v0.38.0 of googleapis'
+    published: '2017-04-18T10:30:51+00:00'
+    id: 'urn:uuid:630bc19d-746f-50f5-91c3-077b9ed0d3ba'
+    link: 'https://pub.dartlang.org/packages/googleapis'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
