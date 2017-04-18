@@ -93001,3 +93001,12 @@
     link: 'https://pub.dartlang.org/packages/build_runner'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: source_gen
+    package_version: v0.5.5
+    title: 'v0.5.5 of source_gen'
+    published: '2017-04-18T20:49:14+00:00'
+    id: 'urn:uuid:f6d6addd-3fd1-58d3-a711-42cb6756ee97'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
