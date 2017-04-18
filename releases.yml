@@ -92983,3 +92983,12 @@
     link: 'https://pub.dartlang.org/packages/dart_updater'
     author:
         - 'Joel Trottier-Hebert (Pacane) <iamquebecois@gmail.com>'
+-
+    package_name: build_runner
+    package_version: v0.3.1
+    title: 'v0.3.1 of build_runner'
+    published: '2017-04-18T18:17:17+00:00'
+    id: 'urn:uuid:eb56b04e-f2e0-5cc4-96f5-e5a3736d892e'
+    link: 'https://pub.dartlang.org/packages/build_runner'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
