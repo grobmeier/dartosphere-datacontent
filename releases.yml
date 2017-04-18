@@ -92902,3 +92902,21 @@
     link: 'https://pub.dartlang.org/packages/built_redux'
     author:
         - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: built_redux
+    package_version: v0.0.5
+    title: 'v0.0.5 of built_redux'
+    published: '2017-04-18T01:42:38+00:00'
+    id: 'urn:uuid:46bd2750-1f07-567f-9d54-40cc39a3702b'
+    link: 'https://pub.dartlang.org/packages/built_redux'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: recompose_dart
+    package_version: v0.0.5
+    title: 'v0.0.5 of recompose_dart'
+    published: '2017-04-18T01:27:45+00:00'
+    id: 'urn:uuid:d98bb763-a893-50fe-acc8-805a8ac42c4c'
+    link: 'https://pub.dartlang.org/packages/recompose_dart'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
