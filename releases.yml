@@ -92965,3 +92965,21 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: build_test
+    package_version: v0.5.2
+    title: 'v0.5.2 of build_test'
+    published: '2017-04-18T16:54:10+00:00'
+    id: 'urn:uuid:4105f447-8fd3-5d5f-a3e7-86950fb28e33'
+    link: 'https://pub.dartlang.org/packages/build_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dart_updater
+    package_version: v0.2.0
+    title: 'v0.2.0 of dart_updater'
+    published: '2017-04-18T16:36:00+00:00'
+    id: 'urn:uuid:d4304064-714a-59c0-8fc7-d4124ebf5805'
+    link: 'https://pub.dartlang.org/packages/dart_updater'
+    author:
+        - 'Joel Trottier-Hebert (Pacane) <iamquebecois@gmail.com>'
