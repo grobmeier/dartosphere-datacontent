@@ -92947,3 +92947,12 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.2.28
+    title: 'v0.2.28 of bokain_models'
+    published: '2017-04-18T13:05:27+00:00'
+    id: 'urn:uuid:41a078b6-6196-57e4-b125-fc4caf816514'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
