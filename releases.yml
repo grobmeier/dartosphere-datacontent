@@ -92938,3 +92938,12 @@
     link: 'https://pub.dartlang.org/packages/googleapis'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: bokain_models
+    package_version: v0.2.27
+    title: 'v0.2.27 of bokain_models'
+    published: '2017-04-18T13:00:34+00:00'
+    id: 'urn:uuid:fdf23b0a-27b4-51cb-90e1-4c02b1c88238'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
