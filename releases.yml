@@ -92956,3 +92956,12 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.2.31
+    title: 'v0.2.31 of bokain_models'
+    published: '2017-04-18T15:28:19+00:00'
+    id: 'urn:uuid:a2b2a9e5-2da8-558e-9ab0-4c020b39f130'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
