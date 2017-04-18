@@ -92893,3 +92893,12 @@
     link: 'https://pub.dartlang.org/packages/_bazel_codegen'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: built_redux
+    package_version: v0.0.4
+    title: 'v0.0.4 of built_redux'
+    published: '2017-04-18T00:03:49+00:00'
+    id: 'urn:uuid:93de6474-c9e3-576d-bab0-cbca138f23b5'
+    link: 'https://pub.dartlang.org/packages/built_redux'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
