@@ -92992,3 +92992,12 @@
     link: 'https://pub.dartlang.org/packages/build_runner'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build_runner
+    package_version: v0.3.1+1
+    title: 'v0.3.1+1 of build_runner'
+    published: '2017-04-18T19:48:16+00:00'
+    id: 'urn:uuid:c941671f-8e8a-5603-9592-5a32f971330c'
+    link: 'https://pub.dartlang.org/packages/build_runner'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
