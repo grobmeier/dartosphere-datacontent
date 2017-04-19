@@ -93019,3 +93019,12 @@
     link: 'https://pub.dartlang.org/packages/recompose_dart'
     author:
         - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: recompose_dart
+    package_version: v0.0.8
+    title: 'v0.0.8 of recompose_dart'
+    published: '2017-04-19T05:35:54+00:00'
+    id: 'urn:uuid:338f8ec5-e642-5086-918e-337e1f9cfd1a'
+    link: 'https://pub.dartlang.org/packages/recompose_dart'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
