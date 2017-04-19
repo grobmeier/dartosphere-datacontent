@@ -93037,3 +93037,12 @@
     link: 'https://pub.dartlang.org/packages/query_builder'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: polymer_element
+    package_version: v0.7.0+1
+    title: 'v0.7.0+1 of polymer_element'
+    published: '2017-04-19T15:06:01+00:00'
+    id: 'urn:uuid:5f0f3126-a532-54a2-9018-ecebe6573ad7'
+    link: 'https://pub.dartlang.org/packages/polymer_element'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
