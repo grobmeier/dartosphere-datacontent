@@ -93028,3 +93028,12 @@
     link: 'https://pub.dartlang.org/packages/recompose_dart'
     author:
         - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: query_builder
+    package_version: v0.0.1
+    title: 'v0.0.1 of query_builder'
+    published: '2017-04-19T09:12:05+00:00'
+    id: 'urn:uuid:292b5fda-b9c1-5e4d-a0bc-b94518db388e'
+    link: 'https://pub.dartlang.org/packages/query_builder'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
