@@ -93055,3 +93055,12 @@
     link: 'https://pub.dartlang.org/packages/platform_detect'
     author:
         - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+-
+    package_name: dartz
+    package_version: v0.5.6
+    title: 'v0.5.6 of dartz'
+    published: '2017-04-19T17:16:28+00:00'
+    id: 'urn:uuid:d4bc99c7-73f1-59d8-b3ca-80a649b750b8'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
