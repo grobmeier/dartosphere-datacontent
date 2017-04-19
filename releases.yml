@@ -93010,3 +93010,12 @@
     link: 'https://pub.dartlang.org/packages/source_gen'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: recompose_dart
+    package_version: v0.0.7
+    title: 'v0.0.7 of recompose_dart'
+    published: '2017-04-19T02:15:19+00:00'
+    id: 'urn:uuid:40e0e28c-7d50-5e6b-8ed4-3fb50e082e20'
+    link: 'https://pub.dartlang.org/packages/recompose_dart'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
