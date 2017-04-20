@@ -93109,3 +93109,12 @@
     link: 'https://pub.dartlang.org/packages/url_launcher'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: bokain_models
+    package_version: v0.2.32
+    title: 'v0.2.32 of bokain_models'
+    published: '2017-04-20T12:07:21+00:00'
+    id: 'urn:uuid:f27ce352-b8e4-52ef-a44f-fa73ed4fef77'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
