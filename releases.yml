@@ -93118,3 +93118,12 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: protobuf
+    package_version: v0.5.4
+    title: 'v0.5.4 of protobuf'
+    published: '2017-04-20T14:28:09+00:00'
+    id: 'urn:uuid:749a64dd-bc9c-520c-9ec6-e4ce42171a4a'
+    link: 'https://pub.dartlang.org/packages/protobuf'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
