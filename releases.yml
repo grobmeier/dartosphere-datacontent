@@ -93064,3 +93064,30 @@
     link: 'https://pub.dartlang.org/packages/dartz'
     author:
         - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: flutter_flux
+    package_version: v4.0.1
+    title: 'v4.0.1 of flutter_flux'
+    published: '2017-04-19T23:40:54+00:00'
+    id: 'urn:uuid:ab5fa838-efd4-5509-ae0b-f5784ff3b2fd'
+    link: 'https://pub.dartlang.org/packages/flutter_flux'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: dart_repl
+    package_version: v0.11.1
+    title: 'v0.11.1 of dart_repl'
+    published: '2017-04-19T23:17:44+00:00'
+    id: 'urn:uuid:41745c2f-d400-5a1a-bccf-8e5e0579c2b5'
+    link: 'https://pub.dartlang.org/packages/dart_repl'
+    author:
+        - 'Andreas ''blackhc'' Kirsch <blackhc@gmail.com>'
+-
+    package_name: dart_repl_sandbox
+    package_version: v0.11.1
+    title: 'v0.11.1 of dart_repl_sandbox'
+    published: '2017-04-19T23:12:47+00:00'
+    id: 'urn:uuid:fcb86419-8adf-5cbc-99e9-936680de9b26'
+    link: 'https://pub.dartlang.org/packages/dart_repl_sandbox'
+    author:
+        - 'Andreas ''blackhc'' Kirsch <blackhc@gmail.com>'
