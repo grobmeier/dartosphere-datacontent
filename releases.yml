@@ -93100,3 +93100,12 @@
     link: 'https://pub.dartlang.org/packages/markov_dart'
     author:
         - 'rinukkusu <rinukkusu@auen.land>'
+-
+    package_name: url_launcher
+    package_version: v0.1.1
+    title: 'v0.1.1 of url_launcher'
+    published: '2017-04-20T11:36:05+00:00'
+    id: 'urn:uuid:4c1a4cb7-a4e4-5af1-a8f1-760f61ee1d40'
+    link: 'https://pub.dartlang.org/packages/url_launcher'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
