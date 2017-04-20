@@ -93091,3 +93091,12 @@
     link: 'https://pub.dartlang.org/packages/dart_repl_sandbox'
     author:
         - 'Andreas ''blackhc'' Kirsch <blackhc@gmail.com>'
+-
+    package_name: markov_dart
+    package_version: v0.1.0
+    title: 'v0.1.0 of markov_dart'
+    published: '2017-04-20T09:49:38+00:00'
+    id: 'urn:uuid:44d0971d-8161-5057-a5f9-ee3583c37343'
+    link: 'https://pub.dartlang.org/packages/markov_dart'
+    author:
+        - 'rinukkusu <rinukkusu@auen.land>'
