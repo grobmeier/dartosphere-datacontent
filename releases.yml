@@ -93127,3 +93127,12 @@
     link: 'https://pub.dartlang.org/packages/protobuf'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: sprintf
+    package_version: v3.0.0
+    title: 'v3.0.0 of sprintf'
+    published: '2017-04-20T19:48:24+00:00'
+    id: 'urn:uuid:c8db7ca6-3183-5aa6-aee5-a4db91e9c82c'
+    link: 'https://pub.dartlang.org/packages/sprintf'
+    author:
+        - 'Richard Eames <dartsprintf@naddiseo.ca>'
