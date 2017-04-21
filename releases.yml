@@ -93154,3 +93154,12 @@
     link: 'https://pub.dartlang.org/packages/eqdb_client'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: angular_components
+    package_version: v0.5.0-beta
+    title: 'v0.5.0-beta of angular_components'
+    published: '2017-04-21T22:40:15+00:00'
+    id: 'urn:uuid:20450508-dbb5-5f00-9187-bc199bbb9129'
+    link: 'https://pub.dartlang.org/packages/angular_components'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
