@@ -93145,3 +93145,12 @@
     link: 'https://pub.dartlang.org/packages/kernel'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: eqdb_client
+    package_version: v0.0.11
+    title: 'v0.0.11 of eqdb_client'
+    published: '2017-04-21T17:18:25+00:00'
+    id: 'urn:uuid:6ce0c1ae-4812-5706-8d7d-9f704721cbe3'
+    link: 'https://pub.dartlang.org/packages/eqdb_client'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
