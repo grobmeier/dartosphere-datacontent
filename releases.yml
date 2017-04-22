@@ -93163,3 +93163,12 @@
     link: 'https://pub.dartlang.org/packages/angular_components'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angular_components
+    package_version: v0.5.0-beta+1
+    title: 'v0.5.0-beta+1 of angular_components'
+    published: '2017-04-21T23:11:39+00:00'
+    id: 'urn:uuid:366fc032-7a44-5446-9dd1-e041b9ebcd8a'
+    link: 'https://pub.dartlang.org/packages/angular_components'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
