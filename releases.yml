@@ -93208,3 +93208,12 @@
     link: 'https://pub.dartlang.org/packages/angel_proxy'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: eqlib
+    package_version: v0.13.0+1
+    title: 'v0.13.0+1 of eqlib'
+    published: '2017-04-22T20:13:37+00:00'
+    id: 'urn:uuid:afd5307a-a8fa-58a2-8972-7b2a70ca2fbc'
+    link: 'https://pub.dartlang.org/packages/eqlib'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
