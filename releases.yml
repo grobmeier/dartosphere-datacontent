@@ -93172,3 +93172,12 @@
     link: 'https://pub.dartlang.org/packages/angular_components'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: polymerize
+    package_version: v0.7.1+1
+    title: 'v0.7.1+1 of polymerize'
+    published: '2017-04-22T08:21:13+00:00'
+    id: 'urn:uuid:64e8a9ee-ea4d-50b0-adc1-5db0a66c7ff9'
+    link: 'https://pub.dartlang.org/packages/polymerize'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
