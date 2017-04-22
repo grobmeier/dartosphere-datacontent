@@ -93199,3 +93199,12 @@
     link: 'https://pub.dartlang.org/packages/built_redux'
     author:
         - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: angel_proxy
+    package_version: v1.0.5+1
+    title: 'v1.0.5+1 of angel_proxy'
+    published: '2017-04-22T19:03:06+00:00'
+    id: 'urn:uuid:bb5020b0-8c9c-59e9-b4b6-574382c5266a'
+    link: 'https://pub.dartlang.org/packages/angel_proxy'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
