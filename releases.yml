@@ -93181,3 +93181,21 @@
     link: 'https://pub.dartlang.org/packages/polymerize'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: angel_proxy
+    package_version: v1.0.4
+    title: 'v1.0.4 of angel_proxy'
+    published: '2017-04-22T18:54:50+00:00'
+    id: 'urn:uuid:5b119097-7b85-53b2-97bd-7a0233bb4915'
+    link: 'https://pub.dartlang.org/packages/angel_proxy'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: built_redux
+    package_version: v0.0.6
+    title: 'v0.0.6 of built_redux'
+    published: '2017-04-22T18:04:05+00:00'
+    id: 'urn:uuid:b942dd25-29b6-5e83-a465-d7001b9d3383'
+    link: 'https://pub.dartlang.org/packages/built_redux'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
