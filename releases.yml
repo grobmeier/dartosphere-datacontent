@@ -93217,3 +93217,21 @@
     link: 'https://pub.dartlang.org/packages/eqlib'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: built_redux
+    package_version: v0.0.7
+    title: 'v0.0.7 of built_redux'
+    published: '2017-04-22T21:50:18+00:00'
+    id: 'urn:uuid:95ee08e9-b41c-5d75-9b92-cce35390c115'
+    link: 'https://pub.dartlang.org/packages/built_redux'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: service_worker
+    package_version: v0.0.11
+    title: 'v0.0.11 of service_worker'
+    published: '2017-04-22T21:03:45+00:00'
+    id: 'urn:uuid:400e7596-0125-5812-8cec-4659ca79d999'
+    link: 'https://pub.dartlang.org/packages/service_worker'
+    author:
+        - 'Istvan Soos <istvan.soos@gmail.com>'
