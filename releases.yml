@@ -93262,3 +93262,12 @@
     link: 'https://pub.dartlang.org/packages/built_redux'
     author:
         - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: angel_websocket
+    package_version: v1.0.6+1
+    title: 'v1.0.6+1 of angel_websocket'
+    published: '2017-04-23T18:52:55+00:00'
+    id: 'urn:uuid:336a0a39-94ee-55e1-8b27-3f757570d4ba'
+    link: 'https://pub.dartlang.org/packages/angel_websocket'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
