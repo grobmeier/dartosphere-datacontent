@@ -93235,3 +93235,12 @@
     link: 'https://pub.dartlang.org/packages/service_worker'
     author:
         - 'Istvan Soos <istvan.soos@gmail.com>'
+-
+    package_name: built_redux
+    package_version: v0.1.0
+    title: 'v0.1.0 of built_redux'
+    published: '2017-04-22T23:45:43+00:00'
+    id: 'urn:uuid:20a6ed9b-caa0-515d-928f-352d5c87d89e'
+    link: 'https://pub.dartlang.org/packages/built_redux'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
