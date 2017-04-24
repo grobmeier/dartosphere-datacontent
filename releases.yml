@@ -93289,3 +93289,21 @@
     link: 'https://pub.dartlang.org/packages/url_launcher'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: observable_roles
+    package_version: v0.1.4
+    title: 'v0.1.4 of observable_roles'
+    published: '2017-04-24T11:40:18+00:00'
+    id: 'urn:uuid:fdefdfa8-0844-5ec8-ba96-0ed0b5a903dd'
+    link: 'https://pub.dartlang.org/packages/observable_roles'
+    author:
+        - 'Roman Snitko <roman.snitko@gmail.com>'
+-
+    package_name: dartifact
+    package_version: v0.6.8
+    title: 'v0.6.8 of dartifact'
+    published: '2017-04-24T11:07:47+00:00'
+    id: 'urn:uuid:51fb5392-1a0d-53cc-9c9e-8d8870e10675'
+    link: 'https://pub.dartlang.org/packages/dartifact'
+    author:
+        - 'Roman Snitko <roman.snitko@gmail.com>'
