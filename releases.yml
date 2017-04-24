@@ -93362,3 +93362,12 @@
     link: 'https://pub.dartlang.org/packages/dartifact'
     author:
         - 'Roman Snitko <roman.snitko@gmail.com>'
+-
+    package_name: dartifact
+    package_version: v0.6.84
+    title: 'v0.6.84 of dartifact'
+    published: '2017-04-24T15:46:50+00:00'
+    id: 'urn:uuid:fcee11a5-0dcf-5b45-af65-105c1cfc1f29'
+    link: 'https://pub.dartlang.org/packages/dartifact'
+    author:
+        - 'Roman Snitko <roman.snitko@gmail.com>'
