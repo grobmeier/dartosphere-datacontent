@@ -93307,3 +93307,40 @@
     link: 'https://pub.dartlang.org/packages/dartifact'
     author:
         - 'Roman Snitko <roman.snitko@gmail.com>'
+-
+    package_name: memoize
+    package_version: v1.2.0
+    title: 'v1.2.0 of memoize'
+    published: '2017-04-24T12:52:09+00:00'
+    id: 'urn:uuid:6d973c93-f740-53b9-b931-d07e6965bc45'
+    link: 'https://pub.dartlang.org/packages/memoize'
+    author:
+        - 'Alexander Polyankin <alexander.polyankin@team.wrike.com>'
+        - 'Max Grebenschikov <maxim.grebenshikov@team.wrike.com>'
+-
+    package_name: dartifact
+    package_version: v0.6.81
+    title: 'v0.6.81 of dartifact'
+    published: '2017-04-24T12:45:24+00:00'
+    id: 'urn:uuid:e8c66663-4073-570e-a28b-7ee9dadc5388'
+    link: 'https://pub.dartlang.org/packages/dartifact'
+    author:
+        - 'Roman Snitko <roman.snitko@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.2.33
+    title: 'v0.2.33 of bokain_models'
+    published: '2017-04-24T12:35:36+00:00'
+    id: 'urn:uuid:9139eeae-1395-5b6c-a616-8a30dce6e153'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: observable_roles
+    package_version: v0.1.41
+    title: 'v0.1.41 of observable_roles'
+    published: '2017-04-24T12:03:55+00:00'
+    id: 'urn:uuid:3b7f595b-7307-5b1b-afdf-927674983876'
+    link: 'https://pub.dartlang.org/packages/observable_roles'
+    author:
+        - 'Roman Snitko <roman.snitko@gmail.com>'
