@@ -93425,3 +93425,12 @@
     link: 'https://pub.dartlang.org/packages/material_toolbar'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: material_toolbar
+    package_version: v2.0.2
+    title: 'v2.0.2 of material_toolbar'
+    published: '2017-04-24T21:37:02+00:00'
+    id: 'urn:uuid:a9bfa40d-af7e-5f4e-a47a-ccc35dd40966'
+    link: 'https://pub.dartlang.org/packages/material_toolbar'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
