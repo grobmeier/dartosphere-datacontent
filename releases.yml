@@ -93271,3 +93271,12 @@
     link: 'https://pub.dartlang.org/packages/angel_websocket'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: usage
+    package_version: v3.1.0
+    title: 'v3.1.0 of usage'
+    published: '2017-04-24T02:30:13+00:00'
+    id: 'urn:uuid:739695c0-84b5-5ac1-9376-d79e7ada2a06'
+    link: 'https://pub.dartlang.org/packages/usage'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
