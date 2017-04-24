@@ -93380,3 +93380,48 @@
     link: 'https://pub.dartlang.org/packages/material_toolbar'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_proxy
+    package_version: v1.0.6
+    title: 'v1.0.6 of angel_proxy'
+    published: '2017-04-24T20:47:04+00:00'
+    id: 'urn:uuid:ac4afd06-5975-5066-be2e-46c94710769c'
+    link: 'https://pub.dartlang.org/packages/angel_proxy'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: material_menu
+    package_version: v2.0.1
+    title: 'v2.0.1 of material_menu'
+    published: '2017-04-24T20:30:43+00:00'
+    id: 'urn:uuid:782f5ede-b45c-5589-8cdf-5e930250a7cb'
+    link: 'https://pub.dartlang.org/packages/material_menu'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: material_sidenav
+    package_version: v2.0.0
+    title: 'v2.0.0 of material_sidenav'
+    published: '2017-04-24T20:24:29+00:00'
+    id: 'urn:uuid:38fab47f-9d4c-55d4-ac23-b5ea226580e1'
+    link: 'https://pub.dartlang.org/packages/material_sidenav'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: landgrab
+    package_version: v0.0.1
+    title: 'v0.0.1 of landgrab'
+    published: '2017-04-24T20:18:45+00:00'
+    id: 'urn:uuid:d0d1cc54-75e4-5b62-a1ca-f8aca4aa47f8'
+    link: 'https://pub.dartlang.org/packages/landgrab'
+    author:
+        - jwowillo
+-
+    package_name: material_toolbar
+    package_version: v2.0.1
+    title: 'v2.0.1 of material_toolbar'
+    published: '2017-04-24T20:11:04+00:00'
+    id: 'urn:uuid:9a6fd06d-f73f-5900-a177-49541ef671b6'
+    link: 'https://pub.dartlang.org/packages/material_toolbar'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
