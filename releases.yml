@@ -93479,3 +93479,39 @@
     link: 'https://pub.dartlang.org/packages/eventsource'
     author:
         - 'Steven Roose <stevenroose@gmail.com>'
+-
+    package_name: build_runner
+    package_version: v0.3.2
+    title: 'v0.3.2 of build_runner'
+    published: '2017-04-25T18:03:51+00:00'
+    id: 'urn:uuid:1e267fb4-6fd0-5da6-abe2-6cd335c45084'
+    link: 'https://pub.dartlang.org/packages/build_runner'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build_barback
+    package_version: v0.2.0
+    title: 'v0.2.0 of build_barback'
+    published: '2017-04-25T18:03:29+00:00'
+    id: 'urn:uuid:5086eec1-52c4-5546-823a-98ccbb209f24'
+    link: 'https://pub.dartlang.org/packages/build_barback'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build_test
+    package_version: v0.6.0
+    title: 'v0.6.0 of build_test'
+    published: '2017-04-25T18:03:05+00:00'
+    id: 'urn:uuid:4b1f127b-f2af-59b3-bf00-2ce7b1b3dda2'
+    link: 'https://pub.dartlang.org/packages/build_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build
+    package_version: v0.9.0
+    title: 'v0.9.0 of build'
+    published: '2017-04-25T18:02:43+00:00'
+    id: 'urn:uuid:8dfdc92d-96e8-59a7-9798-3858e3026f05'
+    link: 'https://pub.dartlang.org/packages/build'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
