@@ -93470,3 +93470,12 @@
     link: 'https://pub.dartlang.org/packages/angel_auth'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: eventsource
+    package_version: v0.1.0+2
+    title: 'v0.1.0+2 of eventsource'
+    published: '2017-04-25T11:01:40+00:00'
+    id: 'urn:uuid:22b29019-2593-5f08-9200-495c05bba7d2'
+    link: 'https://pub.dartlang.org/packages/eventsource'
+    author:
+        - 'Steven Roose <stevenroose@gmail.com>'
