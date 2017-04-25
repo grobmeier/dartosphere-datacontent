@@ -93533,3 +93533,12 @@
     link: 'https://pub.dartlang.org/packages/source_gen'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: plotly
+    package_version: v0.7.3
+    title: 'v0.7.3 of plotly'
+    published: '2017-04-25T20:27:44+00:00'
+    id: 'urn:uuid:582bd8e3-cfae-5083-99ec-54e469319cc6'
+    link: 'https://pub.dartlang.org/packages/plotly'
+    author:
+        - 'Richard Lincoln <r.w.lincoln@gmail.com>'
