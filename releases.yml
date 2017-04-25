@@ -93515,3 +93515,21 @@
     link: 'https://pub.dartlang.org/packages/build'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: _bazel_codegen
+    package_version: v0.1.5
+    title: 'v0.1.5 of _bazel_codegen'
+    published: '2017-04-25T19:12:55+00:00'
+    id: 'urn:uuid:eaecaf1e-22bd-54dc-836c-48a364bb3812'
+    link: 'https://pub.dartlang.org/packages/_bazel_codegen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: source_gen
+    package_version: v0.5.6
+    title: 'v0.5.6 of source_gen'
+    published: '2017-04-25T19:09:33+00:00'
+    id: 'urn:uuid:290183ec-e0bd-57e4-bd06-a7e36a9778ce'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
