@@ -93605,3 +93605,30 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: pwa
+    package_version: v0.1.4
+    title: 'v0.1.4 of pwa'
+    published: '2017-04-26T08:44:37+00:00'
+    id: 'urn:uuid:2fc44832-87a0-50f2-992a-1594892c2641'
+    link: 'https://pub.dartlang.org/packages/pwa'
+    author:
+        - 'Istvan Soos <istvan.soos@gmail.com>'
+-
+    package_name: service_worker
+    package_version: v0.0.12
+    title: 'v0.0.12 of service_worker'
+    published: '2017-04-26T08:34:29+00:00'
+    id: 'urn:uuid:841fa953-a3ad-5123-accb-dcc3be0156cf'
+    link: 'https://pub.dartlang.org/packages/service_worker'
+    author:
+        - 'Istvan Soos <istvan.soos@gmail.com>'
+-
+    package_name: leveldb
+    package_version: v3.0.0
+    title: 'v3.0.0 of leveldb'
+    published: '2017-04-26T08:29:16+00:00'
+    id: 'urn:uuid:01237bf7-13ed-5f5c-9cfd-34333d5417e7'
+    link: 'https://pub.dartlang.org/packages/leveldb'
+    author:
+        - 'Adam Lofts <adam.lofts@gmail.com>'
