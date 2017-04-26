@@ -93587,3 +93587,12 @@
     link: 'https://pub.dartlang.org/packages/sync_http'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: bokain_models
+    package_version: v0.2.38
+    title: 'v0.2.38 of bokain_models'
+    published: '2017-04-26T06:52:54+00:00'
+    id: 'urn:uuid:880076ea-84f2-5b73-9004-f8a1db0a1403'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
