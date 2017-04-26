@@ -93668,3 +93668,12 @@
     link: 'https://pub.dartlang.org/packages/angel_validate'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: aqueduct
+    package_version: v2.0.3
+    title: 'v2.0.3 of aqueduct'
+    published: '2017-04-26T13:15:40+00:00'
+    id: 'urn:uuid:fbe67633-798a-5aa9-866e-0c52309ebbfb'
+    link: 'https://pub.dartlang.org/packages/aqueduct'
+    author:
+        - 'stable|kernel <http://stablekernel.com>'
