@@ -93677,3 +93677,30 @@
     link: 'https://pub.dartlang.org/packages/aqueduct'
     author:
         - 'stable|kernel <http://stablekernel.com>'
+-
+    package_name: angel_auth
+    package_version: v1.0.4
+    title: 'v1.0.4 of angel_auth'
+    published: '2017-04-26T13:59:36+00:00'
+    id: 'urn:uuid:9c1f6d6f-dd7f-5492-91ad-4ee235c83b37'
+    link: 'https://pub.dartlang.org/packages/angel_auth'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_cli
+    package_version: v1.0.11
+    title: 'v1.0.11 of angel_cli'
+    published: '2017-04-26T13:22:45+00:00'
+    id: 'urn:uuid:6d8aa111-39d5-54bd-8bf3-a9a62bf34924'
+    link: 'https://pub.dartlang.org/packages/angel_cli'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: aqueduct
+    package_version: v2.0.3+1
+    title: 'v2.0.3+1 of aqueduct'
+    published: '2017-04-26T13:20:30+00:00'
+    id: 'urn:uuid:fdc4f254-2c94-5285-80c3-1ccccfc9ff0f'
+    link: 'https://pub.dartlang.org/packages/aqueduct'
+    author:
+        - 'stable|kernel <http://stablekernel.com>'
