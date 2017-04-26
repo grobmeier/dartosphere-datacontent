@@ -93560,3 +93560,12 @@
     link: 'https://pub.dartlang.org/packages/build'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: sync_http
+    package_version: v0.1.0
+    title: 'v0.1.0 of sync_http'
+    published: '2017-04-25T23:37:39+00:00'
+    id: 'urn:uuid:dc50ed6a-5d31-53bf-b0a7-3e8e4ece901e'
+    link: 'https://pub.dartlang.org/packages/sync_http'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
