@@ -93569,3 +93569,21 @@
     link: 'https://pub.dartlang.org/packages/sync_http'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: _bazel_codegen
+    package_version: v0.1.6
+    title: 'v0.1.6 of _bazel_codegen'
+    published: '2017-04-26T00:04:00+00:00'
+    id: 'urn:uuid:103fe9be-6bdb-5ec6-b43a-b1a54954d7c3'
+    link: 'https://pub.dartlang.org/packages/_bazel_codegen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: sync_http
+    package_version: v0.1.1
+    title: 'v0.1.1 of sync_http'
+    published: '2017-04-26T00:03:42+00:00'
+    id: 'urn:uuid:04279de3-7165-5b6c-8c2e-026fa2ff8f19'
+    link: 'https://pub.dartlang.org/packages/sync_http'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
