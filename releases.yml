@@ -93722,3 +93722,12 @@
     link: 'https://pub.dartlang.org/packages/angel_auth'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.2.43
+    title: 'v0.2.43 of bokain_models'
+    published: '2017-04-26T15:09:36+00:00'
+    id: 'urn:uuid:ecb7b0a1-8c7d-53e7-a759-962eca6d7087'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
