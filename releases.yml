@@ -93796,3 +93796,30 @@
     author:
         - 'Jana Moudra <jana.moudra@gmail.com>'
         - 'Kevin Moore <kevmoo@google.com>'
+-
+    package_name: aqueduct
+    package_version: v2.1.0
+    title: 'v2.1.0 of aqueduct'
+    published: '2017-04-27T21:11:34+00:00'
+    id: 'urn:uuid:68959787-6b23-5fd0-ad9e-678919a9152e'
+    link: 'https://pub.dartlang.org/packages/aqueduct'
+    author:
+        - 'stable|kernel <http://stablekernel.com>'
+-
+    package_name: angular2_components
+    package_version: v0.5.0
+    title: 'v0.5.0 of angular2_components'
+    published: '2017-04-27T19:59:02+00:00'
+    id: 'urn:uuid:9f184f5c-b90c-5e50-8313-63eaa2a6b702'
+    link: 'https://pub.dartlang.org/packages/angular2_components'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angular_components
+    package_version: v0.5.0
+    title: 'v0.5.0 of angular_components'
+    published: '2017-04-27T19:56:31+00:00'
+    id: 'urn:uuid:3760a69e-b9d5-5808-815f-34d15cbf0cf5'
+    link: 'https://pub.dartlang.org/packages/angular_components'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
