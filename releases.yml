@@ -93777,3 +93777,22 @@
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
         - 'Adao Jr. <itsjunnior@gmail.com>'
+-
+    package_name: angular2
+    package_version: v3.0.0
+    title: 'v3.0.0 of angular2'
+    published: '2017-04-27T17:07:27+00:00'
+    id: 'urn:uuid:230720f9-1095-5850-a395-746a83a56b26'
+    link: 'https://pub.dartlang.org/packages/angular2'
+    author:
+        - 'Dart Team <web@dartlang.org>'
+-
+    package_name: firebase
+    package_version: v3.1.0
+    title: 'v3.1.0 of firebase'
+    published: '2017-04-27T16:59:30+00:00'
+    id: 'urn:uuid:364ee4b9-407f-55d2-afe3-f5a0a5fbf35b'
+    link: 'https://pub.dartlang.org/packages/firebase'
+    author:
+        - 'Jana Moudra <jana.moudra@gmail.com>'
+        - 'Kevin Moore <kevmoo@google.com>'
