@@ -93843,3 +93843,13 @@
     author:
         - 'Tobe O <thosakwe@gmail.com>'
         - 'Craig Campbell'
+-
+    package_name: ng_bootstrap
+    package_version: v0.6.3
+    title: 'v0.6.3 of ng_bootstrap'
+    published: '2017-04-28T02:44:51+00:00'
+    id: 'urn:uuid:daeec856-695c-565c-8405-c03b2067958b'
+    link: 'https://pub.dartlang.org/packages/ng_bootstrap'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+        - 'Adao Jr. <itsjunnior@gmail.com>'
