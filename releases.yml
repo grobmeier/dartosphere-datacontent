@@ -93853,3 +93853,21 @@
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
         - 'Adao Jr. <itsjunnior@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.2.45
+    title: 'v0.2.45 of bokain_models'
+    published: '2017-04-28T08:39:30+00:00'
+    id: 'urn:uuid:281a9f99-89a3-5170-9045-ec23ced2b1c1'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: appengine
+    package_version: v0.4.0+2
+    title: 'v0.4.0+2 of appengine'
+    published: '2017-04-28T08:28:57+00:00'
+    id: 'urn:uuid:1337b417-7313-5209-9748-2c70f548d62e'
+    link: 'https://pub.dartlang.org/packages/appengine'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
