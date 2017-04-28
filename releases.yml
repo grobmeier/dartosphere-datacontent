@@ -93898,3 +93898,21 @@
     link: 'https://pub.dartlang.org/packages/polymer_element'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: scribe
+    package_version: v0.2.1
+    title: 'v0.2.1 of scribe'
+    published: '2017-04-28T15:38:03+00:00'
+    id: 'urn:uuid:396c91ef-1fd4-5a83-a618-9f7dd23e7e16'
+    link: 'https://pub.dartlang.org/packages/scribe'
+    author:
+        - 'stable|kernel <http://stablekernel.com>'
+-
+    package_name: bokain_models
+    package_version: v0.2.47
+    title: 'v0.2.47 of bokain_models'
+    published: '2017-04-28T14:28:20+00:00'
+    id: 'urn:uuid:43b427dd-6081-56ed-afe4-e5f88a5d03b4'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
