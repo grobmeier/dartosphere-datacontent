@@ -93871,3 +93871,30 @@
     link: 'https://pub.dartlang.org/packages/appengine'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: bokain_models
+    package_version: v0.2.46
+    title: 'v0.2.46 of bokain_models'
+    published: '2017-04-28T13:43:43+00:00'
+    id: 'urn:uuid:d52d6824-e0d7-5514-861f-db43f6d88232'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: polymerize
+    package_version: v0.7.2
+    title: 'v0.7.2 of polymerize'
+    published: '2017-04-28T13:27:04+00:00'
+    id: 'urn:uuid:d3d44fed-a8f5-5c95-ae57-c690fdead48d'
+    link: 'https://pub.dartlang.org/packages/polymerize'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: polymer_element
+    package_version: v2.0.0+rc.7
+    title: 'v2.0.0+rc.7 of polymer_element'
+    published: '2017-04-28T13:17:15+00:00'
+    id: 'urn:uuid:51d93e4b-0c14-54ff-ad41-630ab27eaa45'
+    link: 'https://pub.dartlang.org/packages/polymer_element'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
