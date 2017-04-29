@@ -93954,3 +93954,39 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: editex
+    package_version: v0.1.5
+    title: 'v0.1.5 of editex'
+    published: '2017-04-29T17:21:33+00:00'
+    id: 'urn:uuid:a6e08ea2-b17a-5057-8df0-cc9dd696cb84'
+    link: 'https://pub.dartlang.org/packages/editex'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.2.55
+    title: 'v0.2.55 of bokain_models'
+    published: '2017-04-29T16:16:37+00:00'
+    id: 'urn:uuid:c4b6e611-6007-5b33-b474-f247bd94c3f8'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: eqlib
+    package_version: v0.13.1
+    title: 'v0.13.1 of eqlib'
+    published: '2017-04-29T15:39:52+00:00'
+    id: 'urn:uuid:b1caae93-a5b8-56c6-84ab-c8364d448053'
+    link: 'https://pub.dartlang.org/packages/eqlib'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: eqdb_client
+    package_version: v0.0.12
+    title: 'v0.0.12 of eqdb_client'
+    published: '2017-04-29T14:06:16+00:00'
+    id: 'urn:uuid:03af64a6-cad8-56de-9f20-03374c25e530'
+    link: 'https://pub.dartlang.org/packages/eqdb_client'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
