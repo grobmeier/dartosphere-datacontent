@@ -93945,3 +93945,12 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.2.52
+    title: 'v0.2.52 of bokain_models'
+    published: '2017-04-29T09:50:01+00:00'
+    id: 'urn:uuid:010b3eca-acb9-5bf2-9a4c-1f0265a78328'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
