@@ -93990,3 +93990,12 @@
     link: 'https://pub.dartlang.org/packages/eqdb_client'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.2.57
+    title: 'v0.2.57 of bokain_models'
+    published: '2017-04-30T09:57:04+00:00'
+    id: 'urn:uuid:3f883cec-5201-5848-82a3-7e03e2a685a7'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
