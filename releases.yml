@@ -93999,3 +93999,21 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: editex
+    package_version: v0.1.6
+    title: 'v0.1.6 of editex'
+    published: '2017-04-30T17:08:47+00:00'
+    id: 'urn:uuid:05d2ca62-a418-51d5-a73b-7a53b1dd08bc'
+    link: 'https://pub.dartlang.org/packages/editex'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: eqdb_client
+    package_version: v0.0.13
+    title: 'v0.0.13 of eqdb_client'
+    published: '2017-04-30T16:37:32+00:00'
+    id: 'urn:uuid:0d178c88-203c-580e-99c6-79db435bd9c4'
+    link: 'https://pub.dartlang.org/packages/eqdb_client'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
