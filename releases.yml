@@ -94053,3 +94053,12 @@
     link: 'https://pub.dartlang.org/packages/fps'
     author:
         - 'Matan Lurey <matan@lurey.org>'
+-
+    package_name: url_launcher
+    package_version: v0.3.1
+    title: 'v0.3.1 of url_launcher'
+    published: '2017-05-01T08:18:29+00:00'
+    id: 'urn:uuid:d7426423-30b9-5965-ab00-cf5c2c6405ed'
+    link: 'https://pub.dartlang.org/packages/url_launcher'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
