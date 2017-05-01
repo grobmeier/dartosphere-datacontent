@@ -94062,3 +94062,12 @@
     link: 'https://pub.dartlang.org/packages/url_launcher'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: mastodon
+    package_version: v0.0.2
+    title: 'v0.0.2 of mastodon'
+    published: '2017-05-01T12:20:42+00:00'
+    id: 'urn:uuid:5ff75e41-6f97-5413-89ab-5f4d4e27d85e'
+    link: 'https://pub.dartlang.org/packages/mastodon'
+    author:
+        - 'Michael Davies <mykdavies@gmail.com>'
