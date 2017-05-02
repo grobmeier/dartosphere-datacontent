@@ -94184,3 +94184,30 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: stream_transform
+    package_version: v0.0.1
+    title: 'v0.0.1 of stream_transform'
+    published: '2017-05-02T21:18:12+00:00'
+    id: 'urn:uuid:c6aae95d-60d7-5b99-b097-debe2104dc62'
+    link: 'https://pub.dartlang.org/packages/stream_transform'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: editex
+    package_version: v0.1.7
+    title: 'v0.1.7 of editex'
+    published: '2017-05-02T20:51:56+00:00'
+    id: 'urn:uuid:73ba6ccf-831e-58e1-9a05-266d65b45174'
+    link: 'https://pub.dartlang.org/packages/editex'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: polymer_date_picker
+    package_version: v0.0.3
+    title: 'v0.0.3 of polymer_date_picker'
+    published: '2017-05-02T20:32:48+00:00'
+    id: 'urn:uuid:85781180-aa3d-50bd-90c5-d47a346aa5de'
+    link: 'https://pub.dartlang.org/packages/polymer_date_picker'
+    author:
+        - 'Emerson Moura <olimou@gmail.com>'
