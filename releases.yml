@@ -94125,3 +94125,62 @@
     link: 'https://pub.dartlang.org/packages/gitlab'
     author:
         - 'Matias Meno <m@tias.me>'
+-
+    package_name: over_react
+    package_version: v1.9.0
+    title: 'v1.9.0 of over_react'
+    published: '2017-05-02T16:59:41+00:00'
+    id: 'urn:uuid:2c0c8279-64c8-5167-af92-f4d1ae49b965'
+    link: 'https://pub.dartlang.org/packages/over_react'
+    author:
+        - 'Workiva UI Platform Team <uip@workiva.com>'
+-
+    package_name: analyzer
+    package_version: v0.29.11
+    title: 'v0.29.11 of analyzer'
+    published: '2017-05-02T16:46:22+00:00'
+    id: 'urn:uuid:67b00101-bd73-5a4f-9e4e-7cdf7e854715'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: test
+    package_version: v0.12.20+11
+    title: 'v0.12.20+11 of test'
+    published: '2017-05-02T16:41:37+00:00'
+    id: 'urn:uuid:be9b466c-d5fd-5e5a-8211-3bed549f646f'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: w_module
+    package_version: v1.2.2
+    title: 'v1.2.2 of w_module'
+    published: '2017-05-02T15:44:08+00:00'
+    id: 'urn:uuid:ed64ddf7-eb98-583f-be17-18d623a41f8d'
+    link: 'https://pub.dartlang.org/packages/w_module'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: gitlab
+    package_version: v0.2.1
+    title: 'v0.2.1 of gitlab'
+    published: '2017-05-02T14:33:36+00:00'
+    id: 'urn:uuid:c3e76180-26ef-522c-bcb6-cb4c29144405'
+    link: 'https://pub.dartlang.org/packages/gitlab'
+    author:
+        - 'Matias Meno <m@tias.me>'
+-
+    package_name: bokain_models
+    package_version: v0.2.59
+    title: 'v0.2.59 of bokain_models'
+    published: '2017-05-02T14:26:05+00:00'
+    id: 'urn:uuid:26b1a304-c7a6-5f5f-806e-af13a189c7f2'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
