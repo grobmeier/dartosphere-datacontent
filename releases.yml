@@ -94080,3 +94080,12 @@
     link: 'https://pub.dartlang.org/packages/mastodon'
     author:
         - 'Michael Davies <mykdavies@gmail.com>'
+-
+    package_name: sass_builder
+    package_version: v0.0.3
+    title: 'v0.0.3 of sass_builder'
+    published: '2017-05-02T01:35:46+00:00'
+    id: 'urn:uuid:95f7dc61-695c-5430-b5bf-101eeb0f26ae'
+    link: 'https://pub.dartlang.org/packages/sass_builder'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
