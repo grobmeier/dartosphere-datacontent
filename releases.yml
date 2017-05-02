@@ -94116,3 +94116,12 @@
     link: 'https://pub.dartlang.org/packages/built_mirrors'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: gitlab
+    package_version: v0.2.0
+    title: 'v0.2.0 of gitlab'
+    published: '2017-05-02T11:30:07+00:00'
+    id: 'urn:uuid:3b76354e-6110-58bf-bc2d-00c99a1beab1'
+    link: 'https://pub.dartlang.org/packages/gitlab'
+    author:
+        - 'Matias Meno <m@tias.me>'
