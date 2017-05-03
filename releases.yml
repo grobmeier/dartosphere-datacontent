@@ -94238,3 +94238,12 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: path_provider
+    package_version: v0.1.0
+    title: 'v0.1.0 of path_provider'
+    published: '2017-05-03T13:02:53+00:00'
+    id: 'urn:uuid:8804bd39-8664-5081-bd9b-38fd4f19a14a'
+    link: 'https://pub.dartlang.org/packages/path_provider'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
