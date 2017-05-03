@@ -94310,3 +94310,41 @@
     link: 'https://pub.dartlang.org/packages/fortune'
     author:
         - 'rinukkusu <rinukkusu@auen.land>'
+-
+    package_name: angular_components
+    package_version: v0.5.1
+    title: 'v0.5.1 of angular_components'
+    published: '2017-05-03T21:13:01+00:00'
+    id: 'urn:uuid:1dd4e54c-8e89-5ffe-bd60-51f179360176'
+    link: 'https://pub.dartlang.org/packages/angular_components'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: charted
+    package_version: v0.4.6
+    title: 'v0.4.6 of charted'
+    published: '2017-05-03T20:58:10+00:00'
+    id: 'urn:uuid:c56bf988-c2f7-591a-9012-bc26fe2eb0a7'
+    link: 'https://pub.dartlang.org/packages/charted'
+    author:
+        - 'Prasad Sunkari <prsd@google.com>'
+        - 'Michael Cheng <midoringo@google.com>'
+        - 'Yan Qiao <yqiao@google.com>'
+-
+    package_name: polymer_date_picker
+    package_version: v0.0.4
+    title: 'v0.0.4 of polymer_date_picker'
+    published: '2017-05-03T20:54:43+00:00'
+    id: 'urn:uuid:9ce320ff-a42b-5f9a-9f08-119ec651eb6a'
+    link: 'https://pub.dartlang.org/packages/polymer_date_picker'
+    author:
+        - 'Emerson Moura <olimou@gmail.com>'
+-
+    package_name: executor
+    package_version: v0.1.2
+    title: 'v0.1.2 of executor'
+    published: '2017-05-03T19:37:48+00:00'
+    id: 'urn:uuid:b3162848-7947-5ad3-b2be-a71137822717'
+    link: 'https://pub.dartlang.org/packages/executor'
+    author:
+        - 'Istvan Soos <istvan.soos@agilord.com>'
