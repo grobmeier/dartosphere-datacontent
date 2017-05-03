@@ -94229,3 +94229,12 @@
     link: 'https://pub.dartlang.org/packages/smoke'
     author:
         - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
+-
+    package_name: mdl
+    package_version: v1.19.4
+    title: 'v1.19.4 of mdl'
+    published: '2017-05-03T09:03:48+00:00'
+    id: 'urn:uuid:fc87510b-90cd-5755-8153-1c6859a7128c'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
