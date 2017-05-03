@@ -94211,3 +94211,21 @@
     link: 'https://pub.dartlang.org/packages/polymer_date_picker'
     author:
         - 'Emerson Moura <olimou@gmail.com>'
+-
+    package_name: code_builder
+    package_version: v1.0.2
+    title: 'v1.0.2 of code_builder'
+    published: '2017-05-02T22:17:00+00:00'
+    id: 'urn:uuid:76d70968-a0cf-5bbf-959a-ba30632f7a7e'
+    link: 'https://pub.dartlang.org/packages/code_builder'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: smoke
+    package_version: v0.3.6+3
+    title: 'v0.3.6+3 of smoke'
+    published: '2017-05-02T22:07:06+00:00'
+    id: 'urn:uuid:1bff6df2-b054-55c6-89d3-4871c8024e40'
+    link: 'https://pub.dartlang.org/packages/smoke'
+    author:
+        - 'Polymer.dart Authors <web-ui-dev@dartlang.org>'
