@@ -94393,3 +94393,21 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: path_provider
+    package_version: v0.1.1
+    title: 'v0.1.1 of path_provider'
+    published: '2017-05-04T09:24:22+00:00'
+    id: 'urn:uuid:4eabaa13-85da-541a-8317-2ba0b0283ea2'
+    link: 'https://pub.dartlang.org/packages/path_provider'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: nuxeo_client
+    package_version: v0.3.2
+    title: 'v0.3.2 of nuxeo_client'
+    published: '2017-05-04T08:23:13+00:00'
+    id: 'urn:uuid:b0555ba6-6549-51aa-bde1-64228ba1f8b7'
+    link: 'https://pub.dartlang.org/packages/nuxeo_client'
+    author:
+        - 'Nelson Silva <nsilva@nuxeo.com>'
