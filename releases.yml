@@ -94411,3 +94411,49 @@
     link: 'https://pub.dartlang.org/packages/nuxeo_client'
     author:
         - 'Nelson Silva <nsilva@nuxeo.com>'
+-
+    package_name: jaguar_serializer_mongo
+    package_version: v0.0.3
+    title: 'v0.0.3 of jaguar_serializer_mongo'
+    published: '2017-05-04T13:59:37+00:00'
+    id: 'urn:uuid:1a4432d0-91fb-52ea-bd92-9a2c44e095b1'
+    link: 'https://pub.dartlang.org/packages/jaguar_serializer_mongo'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: mdl
+    package_version: v1.20.1
+    title: 'v1.20.1 of mdl'
+    published: '2017-05-04T13:50:48+00:00'
+    id: 'urn:uuid:0a8e826b-2ab6-502e-a1be-af2ad172fd49'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: url_launcher
+    package_version: v0.3.2
+    title: 'v0.3.2 of url_launcher'
+    published: '2017-05-04T13:30:10+00:00'
+    id: 'urn:uuid:1f9aa4e8-bf5f-5bbf-a994-ea92429710d8'
+    link: 'https://pub.dartlang.org/packages/url_launcher'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: cbor
+    package_version: v1.0.1
+    title: 'v1.0.1 of cbor'
+    published: '2017-05-04T12:10:48+00:00'
+    id: 'urn:uuid:ec002639-41eb-5fa3-ac16-c6070df1a139'
+    link: 'https://pub.dartlang.org/packages/cbor'
+    author:
+        - 'Steve Hamblett <steve.hamblett@linux.com>'
+-
+    package_name: appengine
+    package_version: v0.4.0+3
+    title: 'v0.4.0+3 of appengine'
+    published: '2017-05-04T10:07:17+00:00'
+    id: 'urn:uuid:73d69c80-2f7d-59a0-b363-2adaf084c580'
+    link: 'https://pub.dartlang.org/packages/appengine'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
