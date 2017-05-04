@@ -94384,3 +94384,12 @@
     link: 'https://pub.dartlang.org/packages/analyzer'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: bokain_models
+    package_version: v0.2.61
+    title: 'v0.2.61 of bokain_models'
+    published: '2017-05-04T04:38:34+00:00'
+    id: 'urn:uuid:964c5ac3-a2bd-53ca-b463-eef61dce027f'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
