@@ -94457,3 +94457,30 @@
     link: 'https://pub.dartlang.org/packages/appengine'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dart_style
+    package_version: v1.0.5
+    title: 'v1.0.5 of dart_style'
+    published: '2017-05-04T17:49:39+00:00'
+    id: 'urn:uuid:3b7ce953-c232-507a-8776-ff744c9d6da0'
+    link: 'https://pub.dartlang.org/packages/dart_style'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: bokain_models
+    package_version: v0.2.63
+    title: 'v0.2.63 of bokain_models'
+    published: '2017-05-04T14:21:51+00:00'
+    id: 'urn:uuid:7bc2cfa4-b702-596e-a037-07cb02972745'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: package_config
+    package_version: v1.0.1
+    title: 'v1.0.1 of package_config'
+    published: '2017-05-04T14:14:09+00:00'
+    id: 'urn:uuid:4b07e62f-0ee8-59ec-852a-5d29802c9f11'
+    link: 'https://pub.dartlang.org/packages/package_config'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
