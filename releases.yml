@@ -94538,3 +94538,21 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: firebase_messaging
+    package_version: v0.0.1+1
+    title: 'v0.0.1+1 of firebase_messaging'
+    published: '2017-05-05T01:02:06+00:00'
+    id: 'urn:uuid:6519307b-ddc3-522f-8e0c-c5f0f8b72c2b'
+    link: 'https://pub.dartlang.org/packages/firebase_messaging'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: base_href_rewriter
+    package_version: v1.0.1
+    title: 'v1.0.1 of base_href_rewriter'
+    published: '2017-05-04T22:46:14+00:00'
+    id: 'urn:uuid:922a1dc2-6a0d-5c66-aee5-fb18d06dd359'
+    link: 'https://pub.dartlang.org/packages/base_href_rewriter'
+    author:
+        - 'Tais P. Hansen <tais.hansen@gmail.com>'
