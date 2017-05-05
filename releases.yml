@@ -94556,3 +94556,21 @@
     link: 'https://pub.dartlang.org/packages/base_href_rewriter'
     author:
         - 'Tais P. Hansen <tais.hansen@gmail.com>'
+-
+    package_name: url_launcher
+    package_version: v0.3.3
+    title: 'v0.3.3 of url_launcher'
+    published: '2017-05-05T09:34:09+00:00'
+    id: 'urn:uuid:03600ca6-ecc4-5fa2-b7ec-9512f0c87b03'
+    link: 'https://pub.dartlang.org/packages/url_launcher'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: bokain_models
+    package_version: v0.2.64
+    title: 'v0.2.64 of bokain_models'
+    published: '2017-05-05T08:54:07+00:00'
+    id: 'urn:uuid:bbeaa0da-6ff9-549f-aa05-d8aa4204f2e6'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
