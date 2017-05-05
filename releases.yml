@@ -94592,3 +94592,49 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: source_gen
+    package_version: v0.5.7
+    title: 'v0.5.7 of source_gen'
+    published: '2017-05-05T16:46:44+00:00'
+    id: 'urn:uuid:ddbb00ad-7703-5339-a940-2cfb644cc6a4'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: service_worker
+    package_version: v0.0.13
+    title: 'v0.0.13 of service_worker'
+    published: '2017-05-05T16:07:45+00:00'
+    id: 'urn:uuid:59b33f6d-9003-5511-b8ca-50986c9184d2'
+    link: 'https://pub.dartlang.org/packages/service_worker'
+    author:
+        - 'Istvan Soos <istvan.soos@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.2.74
+    title: 'v0.2.74 of bokain_models'
+    published: '2017-05-05T15:23:06+00:00'
+    id: 'urn:uuid:0a9e9933-f2f5-53a7-be36-409daf32bd5e'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: serializer
+    package_version: v0.6.1
+    title: 'v0.6.1 of serializer'
+    published: '2017-05-05T14:39:12+00:00'
+    id: 'urn:uuid:f44c1778-5cd1-5639-bfbc-668fcecf7d90'
+    link: 'https://pub.dartlang.org/packages/serializer'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+        - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1285
+    title: 'v0.0.1285 of fo_components'
+    published: '2017-05-05T14:24:45+00:00'
+    id: 'urn:uuid:566f9f3e-ae02-54ef-9bd8-43038f4f202f'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
