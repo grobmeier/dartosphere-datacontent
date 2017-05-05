@@ -94574,3 +94574,21 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1279
+    title: 'v0.0.1279 of fo_components'
+    published: '2017-05-05T13:55:44+00:00'
+    id: 'urn:uuid:e44b45e2-b40c-5fde-b458-4afc51bbd713'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.2.66
+    title: 'v0.2.66 of bokain_models'
+    published: '2017-05-05T13:21:01+00:00'
+    id: 'urn:uuid:e91c9f6b-7904-5f19-b19c-7118dc35f589'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
