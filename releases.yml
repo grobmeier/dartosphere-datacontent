@@ -94692,3 +94692,12 @@
     link: 'https://pub.dartlang.org/packages/signature_pad'
     author:
         - 'John Ryan <john.p.ryan4@gmail.com>'
+-
+    package_name: parsejs
+    package_version: v1.2.0
+    title: 'v1.2.0 of parsejs'
+    published: '2017-05-06T08:48:48+00:00'
+    id: 'urn:uuid:cb08d5ef-1320-5582-bcd6-6a2d26f94673'
+    link: 'https://pub.dartlang.org/packages/parsejs'
+    author:
+        - 'Asger Feldthaus <asger.feldthaus@gmail.com>'
