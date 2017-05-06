@@ -94674,3 +94674,21 @@
     link: 'https://pub.dartlang.org/packages/stream_transform'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: stream_transform
+    package_version: v0.0.3
+    title: 'v0.0.3 of stream_transform'
+    published: '2017-05-06T01:17:59+00:00'
+    id: 'urn:uuid:209e2fec-3d16-50af-996c-3aa3d7442978'
+    link: 'https://pub.dartlang.org/packages/stream_transform'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: signature_pad
+    package_version: v1.0.1
+    title: 'v1.0.1 of signature_pad'
+    published: '2017-05-05T23:12:49+00:00'
+    id: 'urn:uuid:563ee634-9d0e-50e3-a43e-5fca703d8ae4'
+    link: 'https://pub.dartlang.org/packages/signature_pad'
+    author:
+        - 'John Ryan <john.p.ryan4@gmail.com>'
