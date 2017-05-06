@@ -94701,3 +94701,12 @@
     link: 'https://pub.dartlang.org/packages/parsejs'
     author:
         - 'Asger Feldthaus <asger.feldthaus@gmail.com>'
+-
+    package_name: stagexl
+    package_version: v1.2.0
+    title: 'v1.2.0 of stagexl'
+    published: '2017-05-06T12:27:59+00:00'
+    id: 'urn:uuid:7221be66-1548-51d5-83f0-b693ee03342c'
+    link: 'https://pub.dartlang.org/packages/stagexl'
+    author:
+        - 'Bernhard Pichler <support@stagexl.org>'
