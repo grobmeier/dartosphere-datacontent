@@ -94710,3 +94710,23 @@
     link: 'https://pub.dartlang.org/packages/stagexl'
     author:
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: flake_uuid
+    package_version: v0.1.1
+    title: 'v0.1.1 of flake_uuid'
+    published: '2017-05-06T17:15:24+00:00'
+    id: 'urn:uuid:7f7cbb87-3a40-5f78-b60f-cfb664c768bf'
+    link: 'https://pub.dartlang.org/packages/flake_uuid'
+    author:
+        - 'Istvan Soos <istvan.soos@agilord.com>'
+-
+    package_name: jaguar_serializer
+    package_version: v0.3.1+1
+    title: 'v0.3.1+1 of jaguar_serializer'
+    published: '2017-05-06T16:14:03+00:00'
+    id: 'urn:uuid:66407f4b-f872-5a68-83b0-1fe951fb8425'
+    link: 'https://pub.dartlang.org/packages/jaguar_serializer'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
