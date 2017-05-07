@@ -94739,3 +94739,12 @@
     link: 'https://pub.dartlang.org/packages/stream_transform'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: built_redux
+    package_version: v0.1.4
+    title: 'v0.1.4 of built_redux'
+    published: '2017-05-07T17:49:57+00:00'
+    id: 'urn:uuid:a04ad1e5-b86e-52fe-9cf6-91544704b488'
+    link: 'https://pub.dartlang.org/packages/built_redux'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
