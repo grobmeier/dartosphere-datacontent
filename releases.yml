@@ -94730,3 +94730,12 @@
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: stream_transform
+    package_version: v0.0.4
+    title: 'v0.0.4 of stream_transform'
+    published: '2017-05-07T05:08:23+00:00'
+    id: 'urn:uuid:f4d02245-b5ab-51aa-bbc1-f5922ad27b6d'
+    link: 'https://pub.dartlang.org/packages/stream_transform'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
