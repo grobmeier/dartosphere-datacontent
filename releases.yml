@@ -94804,3 +94804,21 @@
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: linter
+    package_version: v0.1.31
+    title: 'v0.1.31 of linter'
+    published: '2017-05-08T19:42:55+00:00'
+    id: 'urn:uuid:ca669f20-7a8f-5669-bb13-13248a8c35ad'
+    link: 'https://pub.dartlang.org/packages/linter'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: stream_transform
+    package_version: v0.0.5
+    title: 'v0.0.5 of stream_transform'
+    published: '2017-05-08T19:29:30+00:00'
+    id: 'urn:uuid:56c9f0b4-1276-5a81-b9e0-e8e9fa313da4'
+    link: 'https://pub.dartlang.org/packages/stream_transform'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
