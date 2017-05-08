@@ -94748,3 +94748,21 @@
     link: 'https://pub.dartlang.org/packages/built_redux'
     author:
         - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: exifdart
+    package_version: v0.5.0+2
+    title: 'v0.5.0+2 of exifdart'
+    published: '2017-05-08T09:12:27+00:00'
+    id: 'urn:uuid:2799a66c-dda7-57ec-a0fc-eef0687d650d'
+    link: 'https://pub.dartlang.org/packages/exifdart'
+    author:
+        - 'Peter Siroki <psiroki@users.noreply.github.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1286
+    title: 'v0.0.1286 of fo_components'
+    published: '2017-05-08T09:03:38+00:00'
+    id: 'urn:uuid:ade28cd5-fae6-5afe-be51-3919ef6244b7'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
