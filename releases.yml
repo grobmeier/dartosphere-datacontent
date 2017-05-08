@@ -94766,3 +94766,21 @@
     link: 'https://pub.dartlang.org/packages/fo_components'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: url_launcher
+    package_version: v0.3.5
+    title: 'v0.3.5 of url_launcher'
+    published: '2017-05-08T13:07:25+00:00'
+    id: 'urn:uuid:df5b8e5a-46eb-5bf6-a415-cd138e57cdb2'
+    link: 'https://pub.dartlang.org/packages/url_launcher'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: path_provider
+    package_version: v0.1.2
+    title: 'v0.1.2 of path_provider'
+    published: '2017-05-08T12:13:22+00:00'
+    id: 'urn:uuid:ad44b09a-2d33-5540-9d3d-f7f7ecb7e721'
+    link: 'https://pub.dartlang.org/packages/path_provider'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
