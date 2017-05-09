@@ -94822,3 +94822,21 @@
     link: 'https://pub.dartlang.org/packages/stream_transform'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: bokain_models
+    package_version: v0.2.85
+    title: 'v0.2.85 of bokain_models'
+    published: '2017-05-09T05:56:29+00:00'
+    id: 'urn:uuid:86c41e3e-121e-5135-8670-ae4e05a0125c'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: doksan
+    package_version: v0.0.10
+    title: 'v0.0.10 of doksan'
+    published: '2017-05-09T03:05:56+00:00'
+    id: 'urn:uuid:f6ef9f9a-5271-5d75-b798-26879ab4030b'
+    link: 'https://pub.dartlang.org/packages/doksan'
+    author:
+        - 'Muhammed Ali Sit <sitmuhammedali@gmail.com>'
