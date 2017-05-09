@@ -94867,3 +94867,21 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.2.93
+    title: 'v0.2.93 of bokain_models'
+    published: '2017-05-09T13:35:56+00:00'
+    id: 'urn:uuid:37f26cc2-e22a-5b3c-b74b-e2881a2bbecd'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: url_launcher
+    package_version: v0.4.0
+    title: 'v0.4.0 of url_launcher'
+    published: '2017-05-09T11:23:28+00:00'
+    id: 'urn:uuid:ba338fbc-3df9-57b8-ad22-cbd95da4419f'
+    link: 'https://pub.dartlang.org/packages/url_launcher'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
