@@ -94885,3 +94885,21 @@
     link: 'https://pub.dartlang.org/packages/url_launcher'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: dartdoc
+    package_version: v0.11.1
+    title: 'v0.11.1 of dartdoc'
+    published: '2017-05-09T15:19:19+00:00'
+    id: 'urn:uuid:f824146b-09f2-5c6a-ba17-3aadfac805bd'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: bokain_models
+    package_version: v0.2.96
+    title: 'v0.2.96 of bokain_models'
+    published: '2017-05-09T15:08:43+00:00'
+    id: 'urn:uuid:e51f519a-088e-5366-a65d-bd2ad73e0940'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
