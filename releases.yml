@@ -94840,3 +94840,30 @@
     link: 'https://pub.dartlang.org/packages/doksan'
     author:
         - 'Muhammed Ali Sit <sitmuhammedali@gmail.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1289
+    title: 'v0.0.1289 of fo_components'
+    published: '2017-05-09T09:51:49+00:00'
+    id: 'urn:uuid:fd1a2570-1257-57bb-9062-59fca97c76a9'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: url_launcher
+    package_version: v0.3.6
+    title: 'v0.3.6 of url_launcher'
+    published: '2017-05-09T09:34:49+00:00'
+    id: 'urn:uuid:eb2bbb51-8d99-5e9b-9d33-8191e44403c8'
+    link: 'https://pub.dartlang.org/packages/url_launcher'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: bokain_models
+    package_version: v0.2.86
+    title: 'v0.2.86 of bokain_models'
+    published: '2017-05-09T06:00:17+00:00'
+    id: 'urn:uuid:35af394e-0230-598e-becb-beded20aabb2'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
