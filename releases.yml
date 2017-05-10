@@ -95011,3 +95011,41 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: vertx_dart_sockjs
+    package_version: v3.4.1
+    title: 'v3.4.1 of vertx_dart_sockjs'
+    published: '2017-05-10T16:59:32+00:00'
+    id: 'urn:uuid:70daf433-35c2-59e4-b278-cc8e0396633b'
+    link: 'https://pub.dartlang.org/packages/vertx_dart_sockjs'
+    author:
+        - 'Michel Werren <michel.werren@source-motion.ch>'
+-
+    package_name: stagehand
+    package_version: v1.1.2
+    title: 'v1.1.2 of stagehand'
+    published: '2017-05-10T15:41:42+00:00'
+    id: 'urn:uuid:45cd0ef2-5032-59f4-a317-a016bc5bdc30'
+    link: 'https://pub.dartlang.org/packages/stagehand'
+    author:
+        - 'Seth Ladd <sethladd@google.com>'
+        - 'Devon Carew <devoncarew@google.com>'
+        - 'Kathy Walrath <kathyw@google.com>'
+-
+    package_name: tuneup
+    package_version: v0.3.1
+    title: 'v0.3.1 of tuneup'
+    published: '2017-05-10T15:15:18+00:00'
+    id: 'urn:uuid:7d3f0cdb-555a-533a-b1ae-820742970ea5'
+    link: 'https://pub.dartlang.org/packages/tuneup'
+    author:
+        - 'Devon Carew <devoncarew@google.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1291
+    title: 'v0.0.1291 of fo_components'
+    published: '2017-05-10T14:12:09+00:00'
+    id: 'urn:uuid:55fb1e0d-da63-59ef-a838-86409ae04df0'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
