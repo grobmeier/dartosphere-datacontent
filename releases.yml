@@ -94930,3 +94930,21 @@
     link: 'https://pub.dartlang.org/packages/url_launcher'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: dart_style
+    package_version: v1.0.6
+    title: 'v1.0.6 of dart_style'
+    published: '2017-05-10T00:29:47+00:00'
+    id: 'urn:uuid:146edcb9-ae79-5fc0-a33e-9255e02266a9'
+    link: 'https://pub.dartlang.org/packages/dart_style'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: firebase_messaging
+    package_version: v0.0.2
+    title: 'v0.0.2 of firebase_messaging'
+    published: '2017-05-09T22:42:18+00:00'
+    id: 'urn:uuid:f0cdea20-7f60-5089-9503-6a0226a15816'
+    link: 'https://pub.dartlang.org/packages/firebase_messaging'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
