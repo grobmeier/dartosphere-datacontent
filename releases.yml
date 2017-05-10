@@ -94975,3 +94975,12 @@
     link: 'https://pub.dartlang.org/packages/analysis_server_lib'
     author:
         - 'Devon Carew <devoncarew@google.com>'
+-
+    package_name: bokain_models
+    package_version: v0.2.109
+    title: 'v0.2.109 of bokain_models'
+    published: '2017-05-10T08:24:32+00:00'
+    id: 'urn:uuid:2efe4ede-723b-59e8-847e-ed84344523aa'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
