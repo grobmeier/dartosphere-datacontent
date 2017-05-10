@@ -95049,3 +95049,21 @@
     link: 'https://pub.dartlang.org/packages/fo_components'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: mustache4dart
+    package_version: v1.1.0
+    title: 'v1.1.0 of mustache4dart'
+    published: '2017-05-10T20:30:22+00:00'
+    id: 'urn:uuid:52a7f08d-a896-5538-8db4-96dfe1680df5'
+    link: 'https://pub.dartlang.org/packages/mustache4dart'
+    author:
+        - 'Georgios Valotasios <valotas@gmail.com>'
+-
+    package_name: dartdoc
+    package_version: v0.11.2
+    title: 'v0.11.2 of dartdoc'
+    published: '2017-05-10T18:03:01+00:00'
+    id: 'urn:uuid:3ef0922c-3f3f-5a84-b3f5-6efc4ec1ee88'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
