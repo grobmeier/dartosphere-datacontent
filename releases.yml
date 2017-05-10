@@ -94984,3 +94984,30 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1290
+    title: 'v0.0.1290 of fo_components'
+    published: '2017-05-10T12:49:47+00:00'
+    id: 'urn:uuid:e39d3dae-ef36-5ee7-b2d9-83d0b6772013'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: path_provider
+    package_version: v0.2.0
+    title: 'v0.2.0 of path_provider'
+    published: '2017-05-10T12:16:51+00:00'
+    id: 'urn:uuid:ea752264-7429-5f50-9327-d920bf4fa53f'
+    link: 'https://pub.dartlang.org/packages/path_provider'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: bokain_models
+    package_version: v0.2.112
+    title: 'v0.2.112 of bokain_models'
+    published: '2017-05-10T12:10:04+00:00'
+    id: 'urn:uuid:4e02500d-a13d-5a8f-9a68-b9ef0fbd3e69'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
