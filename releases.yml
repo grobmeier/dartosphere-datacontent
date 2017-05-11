@@ -95121,3 +95121,21 @@
     link: 'https://pub.dartlang.org/packages/shared_preferences'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: english_words
+    package_version: v2.0.1
+    title: 'v2.0.1 of english_words'
+    published: '2017-05-11T17:52:29+00:00'
+    id: 'urn:uuid:6e57b426-7c9d-5a0b-8820-f070579e2bd3'
+    link: 'https://pub.dartlang.org/packages/english_words'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: service_worker
+    package_version: v0.0.14
+    title: 'v0.0.14 of service_worker'
+    published: '2017-05-11T15:42:19+00:00'
+    id: 'urn:uuid:40281beb-42c6-537b-a4f8-72fd9df18a6c'
+    link: 'https://pub.dartlang.org/packages/service_worker'
+    author:
+        - 'Istvan Soos <istvan.soos@gmail.com>'
