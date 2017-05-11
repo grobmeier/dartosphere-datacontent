@@ -95139,3 +95139,75 @@
     link: 'https://pub.dartlang.org/packages/service_worker'
     author:
         - 'Istvan Soos <istvan.soos@gmail.com>'
+-
+    package_name: zoomable_image
+    package_version: v1.0.3
+    title: 'v1.0.3 of zoomable_image'
+    published: '2017-05-11T21:12:56+00:00'
+    id: 'urn:uuid:a921f19f-a2cf-533a-a8f1-3ea7c392b64c'
+    link: 'https://pub.dartlang.org/packages/zoomable_image'
+    author:
+        - 'perlatus <perlatus@zoomable_image.email.vczf.io>'
+-
+    package_name: firebase_database
+    package_version: v0.0.2
+    title: 'v0.0.2 of firebase_database'
+    published: '2017-05-11T18:59:43+00:00'
+    id: 'urn:uuid:dd257e4f-c842-5797-a7e7-092bf344a13f'
+    link: 'https://pub.dartlang.org/packages/firebase_database'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: firebase_auth
+    package_version: v0.0.1
+    title: 'v0.0.1 of firebase_auth'
+    published: '2017-05-11T18:44:09+00:00'
+    id: 'urn:uuid:14621249-0b4c-5d24-85fe-758befad97cb'
+    link: 'https://pub.dartlang.org/packages/firebase_auth'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: firebase_storage
+    package_version: v0.0.1
+    title: 'v0.0.1 of firebase_storage'
+    published: '2017-05-11T18:43:11+00:00'
+    id: 'urn:uuid:cfc16684-abe9-5e80-a89d-278a72040b54'
+    link: 'https://pub.dartlang.org/packages/firebase_storage'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: firebase_messaging
+    package_version: v0.0.2+1
+    title: 'v0.0.2+1 of firebase_messaging'
+    published: '2017-05-11T18:37:07+00:00'
+    id: 'urn:uuid:1b7ae8d7-5e74-5607-a63e-07021feed1bd'
+    link: 'https://pub.dartlang.org/packages/firebase_messaging'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: image_picker
+    package_version: v0.0.1
+    title: 'v0.0.1 of image_picker'
+    published: '2017-05-11T18:34:33+00:00'
+    id: 'urn:uuid:37b2b022-8cff-5fe5-8cd8-8b6065ea74f4'
+    link: 'https://pub.dartlang.org/packages/image_picker'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: firebase_analytics
+    package_version: v0.0.1
+    title: 'v0.0.1 of firebase_analytics'
+    published: '2017-05-11T18:31:47+00:00'
+    id: 'urn:uuid:95acf9a9-3f14-5c42-bdb7-24c86e2f8044'
+    link: 'https://pub.dartlang.org/packages/firebase_analytics'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: english_words
+    package_version: v2.0.2
+    title: 'v2.0.2 of english_words'
+    published: '2017-05-11T18:05:49+00:00'
+    id: 'urn:uuid:a080cfa3-e80e-573e-bf1d-769679e2c2e5'
+    link: 'https://pub.dartlang.org/packages/english_words'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
