@@ -95076,3 +95076,21 @@
     link: 'https://pub.dartlang.org/packages/serializable'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.2.113
+    title: 'v0.2.113 of bokain_models'
+    published: '2017-05-11T08:25:44+00:00'
+    id: 'urn:uuid:4db9a237-7de2-51ab-a06f-883e675a5c2d'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1293
+    title: 'v0.0.1293 of fo_components'
+    published: '2017-05-11T07:53:46+00:00'
+    id: 'urn:uuid:bb3bb4b5-4bf6-52ff-88e5-562fcce9be4e'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
