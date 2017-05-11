@@ -95094,3 +95094,30 @@
     link: 'https://pub.dartlang.org/packages/fo_components'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.2.120
+    title: 'v0.2.120 of bokain_models'
+    published: '2017-05-11T12:47:21+00:00'
+    id: 'urn:uuid:588510f3-e8d0-5b8c-8945-db77f10e5418'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: share
+    package_version: v0.2.0
+    title: 'v0.2.0 of share'
+    published: '2017-05-11T11:12:43+00:00'
+    id: 'urn:uuid:71da493e-e779-58b1-b75d-e507aca5409f'
+    link: 'https://pub.dartlang.org/packages/share'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: shared_preferences
+    package_version: v0.2.0
+    title: 'v0.2.0 of shared_preferences'
+    published: '2017-05-11T10:45:03+00:00'
+    id: 'urn:uuid:eafe4099-90e3-552c-b020-8f00ee10b522'
+    link: 'https://pub.dartlang.org/packages/shared_preferences'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
