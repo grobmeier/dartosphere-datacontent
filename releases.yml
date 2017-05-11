@@ -95067,3 +95067,12 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: serializable
+    package_version: v0.3.1
+    title: 'v0.3.1 of serializable'
+    published: '2017-05-11T03:40:46+00:00'
+    id: 'urn:uuid:d59a1244-45db-583b-9bb1-cf32a79687fe'
+    link: 'https://pub.dartlang.org/packages/serializable'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
