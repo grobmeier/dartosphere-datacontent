@@ -95211,3 +95211,30 @@
     link: 'https://pub.dartlang.org/packages/english_words'
     author:
         - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: crclib
+    package_version: v1.0.0
+    title: 'v1.0.0 of crclib'
+    published: '2017-05-11T23:54:19+00:00'
+    id: 'urn:uuid:e9270205-5653-553d-8274-4f389fd569a9'
+    link: 'https://pub.dartlang.org/packages/crclib'
+    author:
+        - 'Nam T. Nguyen <namnguyen@google.com>'
+-
+    package_name: epub
+    package_version: v1.0.0
+    title: 'v1.0.0 of epub'
+    published: '2017-05-11T23:27:15+00:00'
+    id: 'urn:uuid:3d451cae-2e28-5f80-9176-8db1dee8ee2e'
+    link: 'https://pub.dartlang.org/packages/epub'
+    author:
+        - 'Colin Nelson <colin@ifdevthentalk.com>'
+-
+    package_name: pwa
+    package_version: v0.1.5
+    title: 'v0.1.5 of pwa'
+    published: '2017-05-11T22:01:07+00:00'
+    id: 'urn:uuid:fe9a8f10-efaf-569f-9474-2cc996fa21ce'
+    link: 'https://pub.dartlang.org/packages/pwa'
+    author:
+        - 'Istvan Soos <istvan.soos@gmail.com>'
