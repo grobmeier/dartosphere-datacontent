@@ -95256,3 +95256,39 @@
     link: 'https://pub.dartlang.org/packages/pwa'
     author:
         - 'Istvan Soos <istvan.soos@gmail.com>'
+-
+    package_name: csslib
+    package_version: v0.13.6
+    title: 'v0.13.6 of csslib'
+    published: '2017-05-12T21:15:02+00:00'
+    id: 'urn:uuid:c56a1ebd-6657-52ac-ba92-5f6cd2cdc398'
+    link: 'https://pub.dartlang.org/packages/csslib'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: code_builder
+    package_version: v1.0.3
+    title: 'v1.0.3 of code_builder'
+    published: '2017-05-12T20:09:25+00:00'
+    id: 'urn:uuid:bbbea98d-0202-59ea-b1ed-3f458e84d14d'
+    link: 'https://pub.dartlang.org/packages/code_builder'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: epub
+    package_version: v1.1.0
+    title: 'v1.1.0 of epub'
+    published: '2017-05-12T20:04:17+00:00'
+    id: 'urn:uuid:70ed28d8-b682-5787-b135-62d1a56e3ff9'
+    link: 'https://pub.dartlang.org/packages/epub'
+    author:
+        - 'Colin Nelson <colin@ifdevthentalk.com>'
+-
+    package_name: google_sign_in
+    package_version: v0.0.1
+    title: 'v0.0.1 of google_sign_in'
+    published: '2017-05-12T18:02:08+00:00'
+    id: 'urn:uuid:bedf9eb3-71b4-53af-ae43-c589236b8ab1'
+    link: 'https://pub.dartlang.org/packages/google_sign_in'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
