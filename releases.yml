@@ -95292,3 +95292,48 @@
     link: 'https://pub.dartlang.org/packages/google_sign_in'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: angel_validate
+    package_version: v1.0.2+4
+    title: 'v1.0.2+4 of angel_validate'
+    published: '2017-05-13T01:25:13+00:00'
+    id: 'urn:uuid:093a0419-4414-5e23-8b3a-c89640f7bda1'
+    link: 'https://pub.dartlang.org/packages/angel_validate'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: zoomable_image
+    package_version: v1.0.4
+    title: 'v1.0.4 of zoomable_image'
+    published: '2017-05-13T00:32:14+00:00'
+    id: 'urn:uuid:cbcea013-11fe-5e39-af85-740166499686'
+    link: 'https://pub.dartlang.org/packages/zoomable_image'
+    author:
+        - 'perlatus <perlatus@zoomable_image.email.vczf.io>'
+-
+    package_name: build
+    package_version: v0.9.3
+    title: 'v0.9.3 of build'
+    published: '2017-05-13T00:31:30+00:00'
+    id: 'urn:uuid:fb963304-cf60-5383-90b7-444403ccddf6'
+    link: 'https://pub.dartlang.org/packages/build'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: english_words
+    package_version: v2.0.3
+    title: 'v2.0.3 of english_words'
+    published: '2017-05-12T23:42:27+00:00'
+    id: 'urn:uuid:cf52ff8f-9812-5a37-b02b-b11ea2b0a3ac'
+    link: 'https://pub.dartlang.org/packages/english_words'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: flutter_plugin_tools
+    package_version: v0.0.1-dev1
+    title: 'v0.0.1-dev1 of flutter_plugin_tools'
+    published: '2017-05-12T23:08:21+00:00'
+    id: 'urn:uuid:cd1f8066-824b-579b-b3fc-096aab87f565'
+    link: 'https://pub.dartlang.org/packages/flutter_plugin_tools'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
