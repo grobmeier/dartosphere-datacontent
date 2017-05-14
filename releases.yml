@@ -95373,3 +95373,21 @@
     link: 'https://pub.dartlang.org/packages/flutter_webview_plugin'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: Flutter_Nectar
+    package_version: v0.1.0
+    title: 'v0.1.0 of Flutter_Nectar'
+    published: '2017-05-14T18:54:36+00:00'
+    id: 'urn:uuid:0fb2f859-8322-5048-b70d-808294511d7c'
+    link: 'https://pub.dartlang.org/packages/Flutter_Nectar'
+    author:
+        - 'Robert Felker'
+-
+    package_name: epub
+    package_version: v1.1.2
+    title: 'v1.1.2 of epub'
+    published: '2017-05-14T18:24:18+00:00'
+    id: 'urn:uuid:d4d5625e-6348-5d79-b0a8-c889c9dd133b'
+    link: 'https://pub.dartlang.org/packages/epub'
+    author:
+        - 'Colin Nelson <colin@ifdevthentalk.com>'
