@@ -95364,3 +95364,12 @@
     link: 'https://pub.dartlang.org/packages/flutter_webview_plugin'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: flutter_webview_plugin
+    package_version: v0.0.2
+    title: 'v0.0.2 of flutter_webview_plugin'
+    published: '2017-05-14T14:19:53+00:00'
+    id: 'urn:uuid:85c2d183-eb30-5737-96b3-1143319164fc'
+    link: 'https://pub.dartlang.org/packages/flutter_webview_plugin'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
