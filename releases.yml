@@ -95346,3 +95346,12 @@
     link: 'https://pub.dartlang.org/packages/analysis_server_lib'
     author:
         - 'Devon Carew <devoncarew@google.com>'
+-
+    package_name: fluro
+    package_version: v1.0.0
+    title: 'v1.0.0 of fluro'
+    published: '2017-05-14T05:03:35+00:00'
+    id: 'urn:uuid:36cd5d00-9b5a-5eb1-ae8d-5b384970078d'
+    link: 'https://pub.dartlang.org/packages/fluro'
+    author:
+        - 'Posse Productions LLC <apps@goposse.com>'
