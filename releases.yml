@@ -95355,3 +95355,12 @@
     link: 'https://pub.dartlang.org/packages/fluro'
     author:
         - 'Posse Productions LLC <apps@goposse.com>'
+-
+    package_name: flutter_webview_plugin
+    package_version: v0.0.1
+    title: 'v0.0.1 of flutter_webview_plugin'
+    published: '2017-05-14T12:20:01+00:00'
+    id: 'urn:uuid:4e6bb2a4-4570-5fc4-b7b1-1be470b0b90a'
+    link: 'https://pub.dartlang.org/packages/flutter_webview_plugin'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
