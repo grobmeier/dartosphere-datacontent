@@ -95473,3 +95473,12 @@
     link: 'https://pub.dartlang.org/packages/dart_webcrypto'
     author:
         - 'Andreas Reiter <andreas.reiter@iaik.tugraz.at>'
+-
+    package_name: url_launcher
+    package_version: v0.4.2
+    title: 'v0.4.2 of url_launcher'
+    published: '2017-05-15T11:11:25+00:00'
+    id: 'urn:uuid:44408cf8-9b3f-5fe7-9e39-a566e8c475e7'
+    link: 'https://pub.dartlang.org/packages/url_launcher'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
