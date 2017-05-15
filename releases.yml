@@ -95509,3 +95509,60 @@
     link: 'https://pub.dartlang.org/packages/pwa'
     author:
         - 'Istvan Soos <istvan.soos@gmail.com>'
+-
+    package_name: coveralls
+    package_version: v1.0.0
+    title: 'v1.0.0 of coveralls'
+    published: '2017-05-15T21:57:18+00:00'
+    id: 'urn:uuid:d2ad6959-bc75-5062-9484-858d2c8dc16a'
+    link: 'https://pub.dartlang.org/packages/coveralls'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: over_react
+    package_version: v1.9.2
+    title: 'v1.9.2 of over_react'
+    published: '2017-05-15T21:20:31+00:00'
+    id: 'urn:uuid:33ea33fd-ba52-559d-9bfe-04f42042be1d'
+    link: 'https://pub.dartlang.org/packages/over_react'
+    author:
+        - 'Workiva UI Platform Team <uip@workiva.com>'
+-
+    package_name: transformer_test
+    package_version: v0.2.1+2
+    title: 'v0.2.1+2 of transformer_test'
+    published: '2017-05-15T20:21:18+00:00'
+    id: 'urn:uuid:1816f339-ff69-5906-ba06-e10b1936e1fb'
+    link: 'https://pub.dartlang.org/packages/transformer_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: video_launcher
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of video_launcher'
+    published: '2017-05-15T19:52:07+00:00'
+    id: 'urn:uuid:e0a29bf8-6842-5e66-8423-75ebfe3199be'
+    link: 'https://pub.dartlang.org/packages/video_launcher'
+    author:
+        - 'Erick Ghaumez <rx.devlabz@gmail.com>'
+-
+    package_name: zoomable_image
+    package_version: v1.0.5
+    title: 'v1.0.5 of zoomable_image'
+    published: '2017-05-15T19:25:14+00:00'
+    id: 'urn:uuid:bcdeeef0-7d15-5108-b835-c5d563a5671e'
+    link: 'https://pub.dartlang.org/packages/zoomable_image'
+    author:
+        - 'perlatus <perlatus@zoomable_image.email.vczf.io>'
+-
+    package_name: transformer_utils
+    package_version: v0.1.3
+    title: 'v0.1.3 of transformer_utils'
+    published: '2017-05-15T18:12:48+00:00'
+    id: 'urn:uuid:08f6b894-4e8f-572b-b26e-125474c2e213'
+    link: 'https://pub.dartlang.org/packages/transformer_utils'
+    author:
+        - 'Workiva UI Platform Team <uip@workiva.com>'
+        - 'Workiva Client Platform Team <cp@workiva.com>'
+        - 'Greg Littlefield <greg.littlefield@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
