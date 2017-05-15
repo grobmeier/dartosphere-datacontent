@@ -95428,3 +95428,30 @@
     link: 'https://pub.dartlang.org/packages/built_redux'
     author:
         - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: image
+    package_version: v1.1.27
+    title: 'v1.1.27 of image'
+    published: '2017-05-15T04:31:22+00:00'
+    id: 'urn:uuid:268af59a-fd05-5cca-870f-dba70531d6a7'
+    link: 'https://pub.dartlang.org/packages/image'
+    author:
+        - 'Brendan Duncan <brendanduncan@gmail.com>'
+-
+    package_name: dart_language_server
+    package_version: v0.0.7
+    title: 'v0.0.7 of dart_language_server'
+    published: '2017-05-15T02:57:45+00:00'
+    id: 'urn:uuid:df876627-2100-5479-9656-4542876569f1'
+    link: 'https://pub.dartlang.org/packages/dart_language_server'
+    author:
+        - 'Nate Bosch <nbosch1@gmail.com>'
+-
+    package_name: elf
+    package_version: v0.0.0
+    title: 'v0.0.0 of elf'
+    published: '2017-05-15T02:43:17+00:00'
+    id: 'urn:uuid:9258c79f-24fe-5e3e-8431-80ea2204e7ff'
+    link: 'https://pub.dartlang.org/packages/elf'
+    author:
+        - 'Kendal Harland <kendaljharland@gmail.com>'
