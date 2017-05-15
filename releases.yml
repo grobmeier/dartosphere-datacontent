@@ -95482,3 +95482,30 @@
     link: 'https://pub.dartlang.org/packages/url_launcher'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: video_launcher
+    package_version: v0.2.0
+    title: 'v0.2.0 of video_launcher'
+    published: '2017-05-15T17:22:56+00:00'
+    id: 'urn:uuid:f8602d51-b146-5de8-a7fa-11eae3239c41'
+    link: 'https://pub.dartlang.org/packages/video_launcher'
+    author:
+        - 'Erick Ghaumez <rx.devlabz@gmail.com>'
+-
+    package_name: htgen
+    package_version: v0.0.1
+    title: 'v0.0.1 of htgen'
+    published: '2017-05-15T15:30:13+00:00'
+    id: 'urn:uuid:509b4f44-e05d-5a14-ac65-c8be030e3b91'
+    link: 'https://pub.dartlang.org/packages/htgen'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: pwa
+    package_version: v0.1.7
+    title: 'v0.1.7 of pwa'
+    published: '2017-05-15T14:37:43+00:00'
+    id: 'urn:uuid:afda665e-1409-565f-ae86-780bbdd2aa0d'
+    link: 'https://pub.dartlang.org/packages/pwa'
+    author:
+        - 'Istvan Soos <istvan.soos@gmail.com>'
