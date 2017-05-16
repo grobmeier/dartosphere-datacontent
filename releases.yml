@@ -95575,3 +95575,21 @@
     link: 'https://pub.dartlang.org/packages/flutter_plugin_tools'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: drails_validator
+    package_version: v0.1.0
+    title: 'v0.1.0 of drails_validator'
+    published: '2017-05-16T04:36:07+00:00'
+    id: 'urn:uuid:a5b01071-8fa6-5400-9c80-484e26826fcd'
+    link: 'https://pub.dartlang.org/packages/drails_validator'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: built_mirrors
+    package_version: v0.2.1
+    title: 'v0.2.1 of built_mirrors'
+    published: '2017-05-16T04:05:44+00:00'
+    id: 'urn:uuid:0ffa31ed-de15-50f2-8c6e-99c787d4b1b6'
+    link: 'https://pub.dartlang.org/packages/built_mirrors'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
