@@ -95566,3 +95566,12 @@
         - 'Workiva Client Platform Team <cp@workiva.com>'
         - 'Greg Littlefield <greg.littlefield@workiva.com>'
         - 'Evan Weible <evan.weible@workiva.com>'
+-
+    package_name: flutter_plugin_tools
+    package_version: v0.0.1
+    title: 'v0.0.1 of flutter_plugin_tools'
+    published: '2017-05-15T22:54:23+00:00'
+    id: 'urn:uuid:afc46c48-1103-5236-8c97-8f72731068fc'
+    link: 'https://pub.dartlang.org/packages/flutter_plugin_tools'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
