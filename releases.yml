@@ -95622,3 +95622,39 @@
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1305
+    title: 'v0.0.1305 of fo_components'
+    published: '2017-05-16T21:14:24+00:00'
+    id: 'urn:uuid:2e34715f-e650-53e1-b6dd-a3c370ab05af'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: firebase_auth
+    package_version: v0.0.2
+    title: 'v0.0.2 of firebase_auth'
+    published: '2017-05-16T20:53:17+00:00'
+    id: 'urn:uuid:01782aa0-160f-5551-9347-9101cbc97f95'
+    link: 'https://pub.dartlang.org/packages/firebase_auth'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: image_picker
+    package_version: v0.0.2
+    title: 'v0.0.2 of image_picker'
+    published: '2017-05-16T18:33:17+00:00'
+    id: 'urn:uuid:118f544b-c5e8-5c47-91c7-7e724a307e24'
+    link: 'https://pub.dartlang.org/packages/image_picker'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: battery
+    package_version: v0.0.1
+    title: 'v0.0.1 of battery'
+    published: '2017-05-16T18:33:00+00:00'
+    id: 'urn:uuid:cf11cb89-b691-5349-a503-b922f58ef32c'
+    link: 'https://pub.dartlang.org/packages/battery'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
