@@ -95611,3 +95611,14 @@
     link: 'https://pub.dartlang.org/packages/uix'
     author:
         - 'Boris Kaul <localvoid@gmail.com>'
+-
+    package_name: jaguar_serializer
+    package_version: v0.3.3
+    title: 'v0.3.3 of jaguar_serializer'
+    published: '2017-05-16T16:10:30+00:00'
+    id: 'urn:uuid:6efea3f4-a470-56c6-9e36-e2019b8d5516'
+    link: 'https://pub.dartlang.org/packages/jaguar_serializer'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
