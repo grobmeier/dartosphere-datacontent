@@ -95593,3 +95593,12 @@
     link: 'https://pub.dartlang.org/packages/built_mirrors'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: video_launcher
+    package_version: v0.2.1
+    title: 'v0.2.1 of video_launcher'
+    published: '2017-05-16T08:15:52+00:00'
+    id: 'urn:uuid:d421fd94-3d64-560c-8fe0-a8c2a22dc564'
+    link: 'https://pub.dartlang.org/packages/video_launcher'
+    author:
+        - 'Erick Ghaumez <erick@rxla.bz>'
