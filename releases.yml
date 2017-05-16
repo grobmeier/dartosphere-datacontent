@@ -95602,3 +95602,12 @@
     link: 'https://pub.dartlang.org/packages/video_launcher'
     author:
         - 'Erick Ghaumez <erick@rxla.bz>'
+-
+    package_name: uix
+    package_version: v0.7.2
+    title: 'v0.7.2 of uix'
+    published: '2017-05-16T12:34:26+00:00'
+    id: 'urn:uuid:f4946a17-4990-5255-a24d-acd4bffa44e5'
+    link: 'https://pub.dartlang.org/packages/uix'
+    author:
+        - 'Boris Kaul <localvoid@gmail.com>'
