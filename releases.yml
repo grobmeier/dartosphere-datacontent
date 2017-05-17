@@ -95658,3 +95658,86 @@
     link: 'https://pub.dartlang.org/packages/battery'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: image_picker
+    package_version: v0.0.2+1
+    title: 'v0.0.2+1 of image_picker'
+    published: '2017-05-17T00:01:08+00:00'
+    id: 'urn:uuid:511cc463-f23d-50c1-85aa-89c98ca81e36'
+    link: 'https://pub.dartlang.org/packages/image_picker'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: google_sign_in
+    package_version: v0.0.2
+    title: 'v0.0.2 of google_sign_in'
+    published: '2017-05-17T00:00:47+00:00'
+    id: 'urn:uuid:95806aeb-a54f-55ef-b5b4-cd11d11d3af9'
+    link: 'https://pub.dartlang.org/packages/google_sign_in'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: firebase_storage
+    package_version: v0.0.2
+    title: 'v0.0.2 of firebase_storage'
+    published: '2017-05-17T00:00:26+00:00'
+    id: 'urn:uuid:e5913f91-05f3-5a95-9cfd-f90cba2d8b49'
+    link: 'https://pub.dartlang.org/packages/firebase_storage'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: firebase_messaging
+    package_version: v0.0.3
+    title: 'v0.0.3 of firebase_messaging'
+    published: '2017-05-17T00:00:06+00:00'
+    id: 'urn:uuid:f1709aca-2231-5990-9dc2-152ec1000fd4'
+    link: 'https://pub.dartlang.org/packages/firebase_messaging'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: firebase_database
+    package_version: v0.0.3
+    title: 'v0.0.3 of firebase_database'
+    published: '2017-05-16T23:59:48+00:00'
+    id: 'urn:uuid:f7450832-32d6-5077-b97f-e16769d155f5'
+    link: 'https://pub.dartlang.org/packages/firebase_database'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: firebase_auth
+    package_version: v0.0.2+1
+    title: 'v0.0.2+1 of firebase_auth'
+    published: '2017-05-16T23:59:10+00:00'
+    id: 'urn:uuid:e1340f40-699f-5c0a-b2bc-b85695dd6bd3'
+    link: 'https://pub.dartlang.org/packages/firebase_auth'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: firebase_analytics
+    package_version: v0.0.2
+    title: 'v0.0.2 of firebase_analytics'
+    published: '2017-05-16T23:58:28+00:00'
+    id: 'urn:uuid:01ef96da-c7e8-51d4-97ca-7d63ac06e704'
+    link: 'https://pub.dartlang.org/packages/firebase_analytics'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: battery
+    package_version: v0.0.1+1
+    title: 'v0.0.1+1 of battery'
+    published: '2017-05-16T23:57:20+00:00'
+    id: 'urn:uuid:846409da-59c8-583e-acc3-e27313080fd2'
+    link: 'https://pub.dartlang.org/packages/battery'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: stagehand
+    package_version: v1.1.3
+    title: 'v1.1.3 of stagehand'
+    published: '2017-05-16T22:28:21+00:00'
+    id: 'urn:uuid:c76ad153-297a-5deb-9764-f1b2e13d7bcd'
+    link: 'https://pub.dartlang.org/packages/stagehand'
+    author:
+        - 'Seth Ladd <sethladd@google.com>'
+        - 'Devon Carew <devoncarew@google.com>'
+        - 'Kathy Walrath <kathyw@google.com>'
