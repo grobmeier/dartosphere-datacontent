@@ -95777,3 +95777,57 @@
     link: 'https://pub.dartlang.org/packages/pool'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: fo_components
+    package_version: v0.0.1315
+    title: 'v0.0.1315 of fo_components'
+    published: '2017-05-17T09:41:48+00:00'
+    id: 'urn:uuid:21bc4895-57b5-5608-a9cb-bcce43b1d4ea'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: fullscreen_mode
+    package_version: v1.0.0
+    title: 'v1.0.0 of fullscreen_mode'
+    published: '2017-05-17T07:46:23+00:00'
+    id: 'urn:uuid:96dc591a-0a0f-5a8c-b144-2037afc89503'
+    link: 'https://pub.dartlang.org/packages/fullscreen_mode'
+    author:
+        - 'perlatus <perlatus@fullscreen_mode.email.vczf.io>'
+-
+    package_name: shared_preferences
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of shared_preferences'
+    published: '2017-05-17T07:37:42+00:00'
+    id: 'urn:uuid:3089179f-420e-530a-bf9b-f47e3cfef33b'
+    link: 'https://pub.dartlang.org/packages/shared_preferences'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: share
+    package_version: v0.2.1
+    title: 'v0.2.1 of share'
+    published: '2017-05-17T07:37:21+00:00'
+    id: 'urn:uuid:40e7d09f-8406-57cd-b7e9-ac4407075e5a'
+    link: 'https://pub.dartlang.org/packages/share'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: path_provider
+    package_version: v0.2.1+1
+    title: 'v0.2.1+1 of path_provider'
+    published: '2017-05-17T07:36:57+00:00'
+    id: 'urn:uuid:2162c554-4222-55f4-a538-ba6c591689d6'
+    link: 'https://pub.dartlang.org/packages/path_provider'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: url_launcher
+    package_version: v0.4.2+1
+    title: 'v0.4.2+1 of url_launcher'
+    published: '2017-05-17T07:36:20+00:00'
+    id: 'urn:uuid:b73bfdfb-664d-51dd-8c07-5f15b1c53231'
+    link: 'https://pub.dartlang.org/packages/url_launcher'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
