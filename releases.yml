@@ -95849,3 +95849,21 @@
     link: 'https://pub.dartlang.org/packages/cli_util'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: pikaday_datepicker_angular2
+    package_version: v2.0.0
+    title: 'v2.0.0 of pikaday_datepicker_angular2'
+    published: '2017-05-17T20:48:11+00:00'
+    id: 'urn:uuid:85906444-6504-5f6f-9f7c-7b1ef7e4cd46'
+    link: 'https://pub.dartlang.org/packages/pikaday_datepicker_angular2'
+    author:
+        - 'Stephan Schroeder <simon.void+github@gmail.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1316
+    title: 'v0.0.1316 of fo_components'
+    published: '2017-05-17T18:38:53+00:00'
+    id: 'urn:uuid:676c55ac-4f01-5684-8d0d-5a71bfffd0f0'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
