@@ -95894,3 +95894,30 @@
     link: 'https://pub.dartlang.org/packages/bokain_models'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: bus
+    package_version: v0.0.3
+    title: 'v0.0.3 of bus'
+    published: '2017-05-18T21:56:36+00:00'
+    id: 'urn:uuid:7c6c78ab-20d4-573e-849f-395852c514c1'
+    link: 'https://pub.dartlang.org/packages/bus'
+    author:
+        - 'Keenan Thompson <email@example.com>'
+-
+    package_name: firebase_database
+    package_version: v0.0.4
+    title: 'v0.0.4 of firebase_database'
+    published: '2017-05-18T20:41:05+00:00'
+    id: 'urn:uuid:329e6294-61f1-5d1c-bc74-3e9931f351c4'
+    link: 'https://pub.dartlang.org/packages/firebase_database'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: zoomable_image
+    package_version: v1.1.0
+    title: 'v1.1.0 of zoomable_image'
+    published: '2017-05-18T20:01:28+00:00'
+    id: 'urn:uuid:115ce036-9582-5941-bba9-395c5e3fba41'
+    link: 'https://pub.dartlang.org/packages/zoomable_image'
+    author:
+        - 'perlatus <perlatus@zoomable_image.email.vczf.io>'
