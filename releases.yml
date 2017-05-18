@@ -95867,3 +95867,21 @@
     link: 'https://pub.dartlang.org/packages/fo_components'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: code_transformers
+    package_version: v0.5.1+3
+    title: 'v0.5.1+3 of code_transformers'
+    published: '2017-05-18T01:04:14+00:00'
+    id: 'urn:uuid:3871b4d9-e6b3-5a18-96c0-8d8b60521643'
+    link: 'https://pub.dartlang.org/packages/code_transformers'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: async
+    package_version: v1.13.3
+    title: 'v1.13.3 of async'
+    published: '2017-05-17T22:00:45+00:00'
+    id: 'urn:uuid:6e83132b-d08e-5343-bba7-7cd180f2030d'
+    link: 'https://pub.dartlang.org/packages/async'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
