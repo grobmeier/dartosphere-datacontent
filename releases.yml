@@ -95885,3 +95885,12 @@
     link: 'https://pub.dartlang.org/packages/async'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: bokain_models
+    package_version: v0.2.123
+    title: 'v0.2.123 of bokain_models'
+    published: '2017-05-18T07:29:00+00:00'
+    id: 'urn:uuid:800a7583-9de2-5b8e-a86e-1741d610935b'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
