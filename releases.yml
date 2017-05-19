@@ -95948,3 +95948,12 @@
     link: 'https://pub.dartlang.org/packages/bus'
     author:
         - 'Keenan Thompson <email@example.com>'
+-
+    package_name: angular_recaptcha
+    package_version: v0.0.6
+    title: 'v0.0.6 of angular_recaptcha'
+    published: '2017-05-19T13:36:39+00:00'
+    id: 'urn:uuid:9f64c55a-1676-5a96-9fda-f526d6579174'
+    link: 'https://pub.dartlang.org/packages/angular_recaptcha'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
