@@ -95975,3 +95975,26 @@
     link: 'https://pub.dartlang.org/packages/bus'
     author:
         - 'Keenan Thompson <email@example.com>'
+-
+    package_name: dart_dev
+    package_version: v1.7.4
+    title: 'v1.7.4 of dart_dev'
+    published: '2017-05-19T20:12:27+00:00'
+    id: 'urn:uuid:3b31bc3b-8fb0-531e-b952-bc85c8bad581'
+    link: 'https://pub.dartlang.org/packages/dart_dev'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: bus
+    package_version: v0.0.10
+    title: 'v0.0.10 of bus'
+    published: '2017-05-19T19:41:16+00:00'
+    id: 'urn:uuid:a5a2d9da-3767-5da0-b894-fcbf84ba2fd6'
+    link: 'https://pub.dartlang.org/packages/bus'
+    author:
+        - 'Keenan Thompson <keenan@keenant.com>'
