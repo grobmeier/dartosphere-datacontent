@@ -95957,3 +95957,21 @@
     link: 'https://pub.dartlang.org/packages/angular_recaptcha'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: platform
+    package_version: v2.1.0
+    title: 'v2.1.0 of platform'
+    published: '2017-05-19T16:23:23+00:00'
+    id: 'urn:uuid:e82e4017-61c2-5652-9f19-7b60ca5dd36d'
+    link: 'https://pub.dartlang.org/packages/platform'
+    author:
+        - 'Todd Volkert <tvolkert@google.com>'
+-
+    package_name: bus
+    package_version: v0.0.7
+    title: 'v0.0.7 of bus'
+    published: '2017-05-19T15:20:53+00:00'
+    id: 'urn:uuid:fd99f626-9818-5171-816c-1805afd5fe9c'
+    link: 'https://pub.dartlang.org/packages/bus'
+    author:
+        - 'Keenan Thompson <email@example.com>'
