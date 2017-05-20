@@ -95998,3 +95998,12 @@
     link: 'https://pub.dartlang.org/packages/bus'
     author:
         - 'Keenan Thompson <keenan@keenant.com>'
+-
+    package_name: mocha
+    package_version: v0.0.2
+    title: 'v0.0.2 of mocha'
+    published: '2017-05-19T22:58:10+00:00'
+    id: 'urn:uuid:b4a4b902-aeb7-5be7-bf7b-d7cf35c46e09'
+    link: 'https://pub.dartlang.org/packages/mocha'
+    author:
+        - 'Keenan Thompson <keenan@keenant.com>'
