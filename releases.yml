@@ -96034,3 +96034,12 @@
     link: 'https://pub.dartlang.org/packages/analysis_server_lib'
     author:
         - 'Devon Carew <devoncarew@google.com>'
+-
+    package_name: analyzer
+    package_version: v0.30.0+2
+    title: 'v0.30.0+2 of analyzer'
+    published: '2017-05-21T03:47:10+00:00'
+    id: 'urn:uuid:2cc40dd8-89f4-52de-b24d-99e2df061343'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
