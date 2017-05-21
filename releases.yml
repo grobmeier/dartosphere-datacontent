@@ -96052,3 +96052,12 @@
     link: 'https://pub.dartlang.org/packages/fo_components'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: polymer_element
+    package_version: v2.0.0+rc.10
+    title: 'v2.0.0+rc.10 of polymer_element'
+    published: '2017-05-21T21:46:57+00:00'
+    id: 'urn:uuid:d715dfe2-e0e0-536e-ae84-441b26298b15'
+    link: 'https://pub.dartlang.org/packages/polymer_element'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
