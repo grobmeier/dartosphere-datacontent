@@ -96043,3 +96043,12 @@
     link: 'https://pub.dartlang.org/packages/analyzer'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: fo_components
+    package_version: v0.0.1320
+    title: 'v0.0.1320 of fo_components'
+    published: '2017-05-21T13:53:21+00:00'
+    id: 'urn:uuid:c1822391-d851-5b14-a8ce-21cb2e4349d4'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
