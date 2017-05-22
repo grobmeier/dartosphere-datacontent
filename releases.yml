@@ -96115,3 +96115,57 @@
     link: 'https://pub.dartlang.org/packages/fo_components'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: polymerize
+    package_version: v0.8.2
+    title: 'v0.8.2 of polymerize'
+    published: '2017-05-22T13:11:20+00:00'
+    id: 'urn:uuid:2bdbe0af-2e5f-5f6c-96df-f31116f31d97'
+    link: 'https://pub.dartlang.org/packages/polymerize'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: collection
+    package_version: v1.14.1
+    title: 'v1.14.1 of collection'
+    published: '2017-05-22T12:53:42+00:00'
+    id: 'urn:uuid:040707a8-b070-51eb-9fb5-7cc7bfe21608'
+    link: 'https://pub.dartlang.org/packages/collection'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: built_value_test
+    package_version: v1.1.1
+    title: 'v1.1.1 of built_value_test'
+    published: '2017-05-22T12:35:06+00:00'
+    id: 'urn:uuid:8cb2218e-af9c-523b-8e56-90b96e2d8add'
+    link: 'https://pub.dartlang.org/packages/built_value_test'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value_generator
+    package_version: v1.1.1
+    title: 'v1.1.1 of built_value_generator'
+    published: '2017-05-22T12:28:56+00:00'
+    id: 'urn:uuid:7b00d103-d7a0-5f46-907c-15ea8f6c0334'
+    link: 'https://pub.dartlang.org/packages/built_value_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value
+    package_version: v1.1.1
+    title: 'v1.1.1 of built_value'
+    published: '2017-05-22T12:28:19+00:00'
+    id: 'urn:uuid:d436b8b4-35ea-5c76-9979-02b09332fe3e'
+    link: 'https://pub.dartlang.org/packages/built_value'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1337
+    title: 'v0.0.1337 of fo_components'
+    published: '2017-05-22T11:51:11+00:00'
+    id: 'urn:uuid:f2cdad77-3661-5b62-935a-a6869cbf35eb'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
