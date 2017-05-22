@@ -96097,3 +96097,21 @@
     link: 'https://pub.dartlang.org/packages/angular2'
     author:
         - 'Dart Team <web@dartlang.org>'
+-
+    package_name: bit_pattern
+    package_version: v0.0.1
+    title: 'v0.0.1 of bit_pattern'
+    published: '2017-05-22T09:12:35+00:00'
+    id: 'urn:uuid:289782a2-f227-5127-b4a3-6a72348efc4a'
+    link: 'https://pub.dartlang.org/packages/bit_pattern'
+    author:
+        - 'Kendal Harland <kendaljharland@gmail.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1336
+    title: 'v0.0.1336 of fo_components'
+    published: '2017-05-22T08:43:07+00:00'
+    id: 'urn:uuid:bd380a9f-e4aa-5f6a-ad92-65e666c2f7dc'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
