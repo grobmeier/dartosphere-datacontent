@@ -96169,3 +96169,39 @@
     link: 'https://pub.dartlang.org/packages/fo_components'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: polymerize
+    package_version: v0.8.3
+    title: 'v0.8.3 of polymerize'
+    published: '2017-05-22T16:54:16+00:00'
+    id: 'urn:uuid:6e61db7c-daca-5409-9e99-901e969ad469'
+    link: 'https://pub.dartlang.org/packages/polymerize'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: polymer_element
+    package_version: v2.0.0+rc.11
+    title: 'v2.0.0+rc.11 of polymer_element'
+    published: '2017-05-22T16:51:34+00:00'
+    id: 'urn:uuid:99acde0e-e208-5445-ae44-00a43ecddd7b'
+    link: 'https://pub.dartlang.org/packages/polymer_element'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: initialize
+    package_version: v0.6.2+6
+    title: 'v0.6.2+6 of initialize'
+    published: '2017-05-22T16:25:13+00:00'
+    id: 'urn:uuid:4a3a45eb-44e4-5635-8e73-c3bbb1a770ce'
+    link: 'https://pub.dartlang.org/packages/initialize'
+    author:
+        - 'Polymer.dart Authors <web@dartlang.org>'
+-
+    package_name: shelf_serve
+    package_version: v0.2.7
+    title: 'v0.2.7 of shelf_serve'
+    published: '2017-05-22T15:02:10+00:00'
+    id: 'urn:uuid:4e4614b8-3e24-52e2-a23c-5e161972fbce'
+    link: 'https://pub.dartlang.org/packages/shelf_serve'
+    author:
+        - 'Rik Bellens <rik.bellens@appsup.be>'
