@@ -96061,3 +96061,30 @@
     link: 'https://pub.dartlang.org/packages/polymer_element'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: html5
+    package_version: v0.0.6
+    title: 'v0.0.6 of html5'
+    published: '2017-05-21T22:14:33+00:00'
+    id: 'urn:uuid:11f207db-22b1-570f-b266-a225c191dc02'
+    link: 'https://pub.dartlang.org/packages/html5'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: polymerize_common
+    package_version: v1.0.0
+    title: 'v1.0.0 of polymerize_common'
+    published: '2017-05-21T22:08:34+00:00'
+    id: 'urn:uuid:21f4d18d-6d27-592b-96c6-65f5b08b5309'
+    link: 'https://pub.dartlang.org/packages/polymerize_common'
+    author:
+        - 'polymer-dart <info@polymer-dart.com>'
+-
+    package_name: polymerize
+    package_version: v0.8.1
+    title: 'v0.8.1 of polymerize'
+    published: '2017-05-21T22:05:03+00:00'
+    id: 'urn:uuid:782ce2e0-8951-59a2-9805-ef0ad8e7ae1d'
+    link: 'https://pub.dartlang.org/packages/polymerize'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
