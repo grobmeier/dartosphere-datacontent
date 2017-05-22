@@ -96088,3 +96088,12 @@
     link: 'https://pub.dartlang.org/packages/polymerize'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: angular2
+    package_version: v3.1.0
+    title: 'v3.1.0 of angular2'
+    published: '2017-05-22T05:07:26+00:00'
+    id: 'urn:uuid:ff86ba71-8509-5d27-9026-5abd337a7f0c'
+    link: 'https://pub.dartlang.org/packages/angular2'
+    author:
+        - 'Dart Team <web@dartlang.org>'
