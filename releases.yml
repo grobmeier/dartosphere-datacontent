@@ -96250,3 +96250,21 @@
     link: 'https://pub.dartlang.org/packages/shelf_test_handler'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: sembast
+    package_version: v1.3.7
+    title: 'v1.3.7 of sembast'
+    published: '2017-05-23T08:07:08+00:00'
+    id: 'urn:uuid:709ba38d-eef7-5886-99d8-ee0c2d894baa'
+    link: 'https://pub.dartlang.org/packages/sembast'
+    author:
+        - 'Alexandre Roux Tekartik <alex.tekartik.pub@gmail.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1338
+    title: 'v0.0.1338 of fo_components'
+    published: '2017-05-23T06:43:02+00:00'
+    id: 'urn:uuid:4fb31023-4f16-5baf-9d51-291854778958'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
