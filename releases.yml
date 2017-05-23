@@ -96232,3 +96232,21 @@
     link: 'https://pub.dartlang.org/packages/string_scanner'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: clone
+    package_version: v0.1.0
+    title: 'v0.1.0 of clone'
+    published: '2017-05-23T05:33:51+00:00'
+    id: 'urn:uuid:e5ade327-7541-581f-80b9-771b15eae938'
+    link: 'https://pub.dartlang.org/packages/clone'
+    author:
+        - 'Matan Lurey <matan@lurey.org>'
+-
+    package_name: shelf_test_handler
+    package_version: v1.0.0-rc.1
+    title: 'v1.0.0-rc.1 of shelf_test_handler'
+    published: '2017-05-23T05:07:44+00:00'
+    id: 'urn:uuid:69c334ed-834a-5852-b68d-e49f302957bf'
+    link: 'https://pub.dartlang.org/packages/shelf_test_handler'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
