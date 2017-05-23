@@ -96268,3 +96268,12 @@
     link: 'https://pub.dartlang.org/packages/fo_components'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: discoveryapis_generator
+    package_version: v0.8.0+2
+    title: 'v0.8.0+2 of discoveryapis_generator'
+    published: '2017-05-23T13:17:14+00:00'
+    id: 'urn:uuid:67e1272b-209d-5542-8d79-be3125383f65'
+    link: 'https://pub.dartlang.org/packages/discoveryapis_generator'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
