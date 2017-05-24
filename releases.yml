@@ -96380,3 +96380,50 @@
     link: 'https://pub.dartlang.org/packages/sweetalert_angular_dart'
     author:
         - 'Nick Ng <ngyewch@gmail.com>'
+-
+    package_name: polymer_element
+    package_version: v2.0.0+rc.12
+    title: 'v2.0.0+rc.12 of polymer_element'
+    published: '2017-05-24T13:55:26+00:00'
+    id: 'urn:uuid:bf228ad3-2b70-5514-b2c1-41c6adfcc487'
+    link: 'https://pub.dartlang.org/packages/polymer_element'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: eqlib
+    package_version: v0.14.0
+    title: 'v0.14.0 of eqlib'
+    published: '2017-05-24T13:21:48+00:00'
+    id: 'urn:uuid:c3eb3322-a8a6-56d7-87ac-e657fe6617be'
+    link: 'https://pub.dartlang.org/packages/eqlib'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: firebase_flutter
+    package_version: v0.1.2
+    title: 'v0.1.2 of firebase_flutter'
+    published: '2017-05-24T11:23:57+00:00'
+    id: 'urn:uuid:954ba937-26cf-5771-8f78-5674cdb32879'
+    link: 'https://pub.dartlang.org/packages/firebase_flutter'
+    author:
+        - 'Anant Narayanan <anant@kix.in>'
+        - 'Seth Ladd <sethladd@gmail.com>'
+        - 'Kevin Moore <github@j832.com>'
+-
+    package_name: dropzone_angular_dart
+    package_version: v0.2.0
+    title: 'v0.2.0 of dropzone_angular_dart'
+    published: '2017-05-24T10:59:47+00:00'
+    id: 'urn:uuid:ba81cded-fb8f-5c7d-8277-372fae1b908f'
+    link: 'https://pub.dartlang.org/packages/dropzone_angular_dart'
+    author:
+        - 'Nick Ng <ngyewch@gmail.com>'
+-
+    package_name: _discoveryapis_commons
+    package_version: v0.1.4
+    title: 'v0.1.4 of _discoveryapis_commons'
+    published: '2017-05-24T10:22:19+00:00'
+    id: 'urn:uuid:788f953d-35c3-59be-8225-eda2e572ecfd'
+    link: 'https://pub.dartlang.org/packages/_discoveryapis_commons'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
