@@ -96565,3 +96565,48 @@
     link: 'https://pub.dartlang.org/packages/fo_components'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.2.125
+    title: 'v0.2.125 of bokain_models'
+    published: '2017-05-25T13:56:09+00:00'
+    id: 'urn:uuid:f726ded3-8351-55e6-bc90-931cb6f8f42b'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1351
+    title: 'v0.0.1351 of fo_components'
+    published: '2017-05-25T12:51:04+00:00'
+    id: 'urn:uuid:66cbb1e5-3aa3-5c83-96be-cd917f0d2dc5'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: audioplayer
+    package_version: v0.1.0+2
+    title: 'v0.1.0+2 of audioplayer'
+    published: '2017-05-25T11:57:06+00:00'
+    id: 'urn:uuid:1fdbbcd8-aa5a-507a-8331-13fcb499b979'
+    link: 'https://pub.dartlang.org/packages/audioplayer'
+    author:
+        - 'Erick Ghaumez <erick@rxla.bz>'
+-
+    package_name: stagexl
+    package_version: v1.2.0+2
+    title: 'v1.2.0+2 of stagexl'
+    published: '2017-05-25T10:35:04+00:00'
+    id: 'urn:uuid:adcf6a89-8183-570d-ac19-822603a550b4'
+    link: 'https://pub.dartlang.org/packages/stagexl'
+    author:
+        - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: video_launcher
+    package_version: v0.2.2
+    title: 'v0.2.2 of video_launcher'
+    published: '2017-05-25T10:15:14+00:00'
+    id: 'urn:uuid:e4ea6678-7daa-5a58-ab7a-d3b0bc608883'
+    link: 'https://pub.dartlang.org/packages/video_launcher'
+    author:
+        - 'Erick Ghaumez <erick@rxla.bz>'
