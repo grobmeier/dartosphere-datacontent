@@ -96667,3 +96667,12 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: archive
+    package_version: v1.0.29
+    title: 'v1.0.29 of archive'
+    published: '2017-05-25T20:02:00+00:00'
+    id: 'urn:uuid:6fa38b7e-90ee-5230-9417-6241233cd452'
+    link: 'https://pub.dartlang.org/packages/archive'
+    author:
+        - 'Brendan Duncan <brendanduncan@gmail.com>'
