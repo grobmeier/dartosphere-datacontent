@@ -96610,3 +96610,60 @@
     link: 'https://pub.dartlang.org/packages/video_launcher'
     author:
         - 'Erick Ghaumez <erick@rxla.bz>'
+-
+    package_name: flutter_stream_friends
+    package_version: v0.5.0
+    title: 'v0.5.0 of flutter_stream_friends'
+    published: '2017-05-25T17:46:16+00:00'
+    id: 'urn:uuid:0e2d8a67-dc4c-551e-87b0-fa1c84d9e39b'
+    link: 'https://pub.dartlang.org/packages/flutter_stream_friends'
+    author:
+        - 'brian.egan <brian@brianegan.com>'
+-
+    package_name: rxdart
+    package_version: v0.11.0
+    title: 'v0.11.0 of rxdart'
+    published: '2017-05-25T17:20:25+00:00'
+    id: 'urn:uuid:a636b9b8-2ebc-50e3-80d6-ca2233d46dea'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
+        - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: platform_detect
+    package_version: v1.3.2
+    title: 'v1.3.2 of platform_detect'
+    published: '2017-05-25T16:42:45+00:00'
+    id: 'urn:uuid:2b581835-8b0b-58eb-ad5e-55bdd26ac6c1'
+    link: 'https://pub.dartlang.org/packages/platform_detect'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+-
+    package_name: over_react_test
+    package_version: v1.0.0
+    title: 'v1.0.0 of over_react_test'
+    published: '2017-05-25T16:34:04+00:00'
+    id: 'urn:uuid:7736bac3-6eda-50df-8d04-a488d25da240'
+    link: 'https://pub.dartlang.org/packages/over_react_test'
+    author:
+        - 'Workiva UI Platform Team <uip@workiva.com>'
+-
+    package_name: jaguar_auth
+    package_version: v0.5.1
+    title: 'v0.5.1 of jaguar_auth'
+    published: '2017-05-25T16:11:24+00:00'
+    id: 'urn:uuid:58d6350b-4c01-5cad-a7ab-f083efc8eb76'
+    link: 'https://pub.dartlang.org/packages/jaguar_auth'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_common
+    package_version: v0.0.2
+    title: 'v0.0.2 of jaguar_common'
+    published: '2017-05-25T16:09:01+00:00'
+    id: 'urn:uuid:83dbac24-96e8-5135-9d11-e3a099bd1ef0'
+    link: 'https://pub.dartlang.org/packages/jaguar_common'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
