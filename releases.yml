@@ -96510,3 +96510,21 @@
     link: 'https://pub.dartlang.org/packages/darksky_weather'
     author:
         - 'rinukkusu <rinukkusu@auen.land>'
+-
+    package_name: grinder_php_minify
+    package_version: v0.2.0
+    title: 'v0.2.0 of grinder_php_minify'
+    published: '2017-05-24T23:44:46+00:00'
+    id: 'urn:uuid:f1b831ef-2bfa-56a5-9b16-eb4d3a93a4f9'
+    link: 'https://pub.dartlang.org/packages/grinder_php_minify'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: angular_components
+    package_version: v0.5.2
+    title: 'v0.5.2 of angular_components'
+    published: '2017-05-24T22:51:00+00:00'
+    id: 'urn:uuid:54d1f983-0895-50f7-b575-f8cd85e56815'
+    link: 'https://pub.dartlang.org/packages/angular_components'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
