@@ -96806,3 +96806,31 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: audioplayer
+    package_version: v0.2.0
+    title: 'v0.2.0 of audioplayer'
+    published: '2017-05-26T16:32:31+00:00'
+    id: 'urn:uuid:7d466e6e-de86-5c5b-add5-b5b44fb84e9d'
+    link: 'https://pub.dartlang.org/packages/audioplayer'
+    author:
+        - 'Erick Ghaumez <erick@rxla.bz>'
+-
+    package_name: jaguar_reflect
+    package_version: v0.4.4
+    title: 'v0.4.4 of jaguar_reflect'
+    published: '2017-05-26T15:41:52+00:00'
+    id: 'urn:uuid:09e1e479-ab9e-54b6-a708-546ad49d0e4a'
+    link: 'https://pub.dartlang.org/packages/jaguar_reflect'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.2.139
+    title: 'v0.2.139 of bokain_models'
+    published: '2017-05-26T15:33:48+00:00'
+    id: 'urn:uuid:64dd874b-de76-5796-8d43-a9e14bd30640'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
