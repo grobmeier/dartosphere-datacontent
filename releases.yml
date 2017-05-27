@@ -96870,3 +96870,26 @@
     link: 'https://pub.dartlang.org/packages/cli_util'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: matcher
+    package_version: v0.12.1+1
+    title: 'v0.12.1+1 of matcher'
+    published: '2017-05-27T00:34:25+00:00'
+    id: 'urn:uuid:ff29d889-8643-5edb-a555-3fdd134acbfb'
+    link: 'https://pub.dartlang.org/packages/matcher'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: w_module
+    package_version: v1.2.3
+    title: 'v1.2.3 of w_module'
+    published: '2017-05-26T22:38:28+00:00'
+    id: 'urn:uuid:a5f4b33a-6c27-5d76-89f6-898ec5d1ead1'
+    link: 'https://pub.dartlang.org/packages/w_module'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
