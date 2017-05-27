@@ -96956,3 +96956,57 @@
     link: 'https://pub.dartlang.org/packages/flutter_webview_plugin'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: free_mobile
+    package_version: v2.0.0
+    title: 'v2.0.0 of free_mobile'
+    published: '2017-05-27T17:45:50+00:00'
+    id: 'urn:uuid:908541bd-14db-54d9-8b93-4fb67904a44c'
+    link: 'https://pub.dartlang.org/packages/free_mobile'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: ebisu_cpp
+    package_version: v0.3.24
+    title: 'v0.3.24 of ebisu_cpp'
+    published: '2017-05-27T17:14:21+00:00'
+    id: 'urn:uuid:3aadc662-468e-52d1-aa97-9d00e7fd6549'
+    link: 'https://pub.dartlang.org/packages/ebisu_cpp'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: kilobyte
+    package_version: v0.1.0+2
+    title: 'v0.1.0+2 of kilobyte'
+    published: '2017-05-27T17:08:56+00:00'
+    id: 'urn:uuid:f8d17756-115c-52c2-be72-451a6c189df1'
+    link: 'https://pub.dartlang.org/packages/kilobyte'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: angel_paginate
+    package_version: v1.0.0+2
+    title: 'v1.0.0+2 of angel_paginate'
+    published: '2017-05-27T14:23:55+00:00'
+    id: 'urn:uuid:e058ffca-44c7-56a3-a475-31f6af6395d8'
+    link: 'https://pub.dartlang.org/packages/angel_paginate'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_toggle
+    package_version: v1.0.0
+    title: 'v1.0.0 of angel_toggle'
+    published: '2017-05-27T14:13:06+00:00'
+    id: 'urn:uuid:99cb2d42-8d10-5832-8244-9f2a10efd92a'
+    link: 'https://pub.dartlang.org/packages/angel_toggle'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: ebisu
+    package_version: v0.7.4
+    title: 'v0.7.4 of ebisu'
+    published: '2017-05-27T14:11:12+00:00'
+    id: 'urn:uuid:baa731ce-d13f-58ac-9319-1defe7185aa1'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
