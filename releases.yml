@@ -97010,3 +97010,39 @@
     link: 'https://pub.dartlang.org/packages/ebisu'
     author:
         - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: ebisu
+    package_version: v0.7.6
+    title: 'v0.7.6 of ebisu'
+    published: '2017-05-27T20:03:46+00:00'
+    id: 'urn:uuid:1f4501c2-fd17-56c1-b09c-480b52e4e12a'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: ebisu_pod
+    package_version: v0.0.10
+    title: 'v0.0.10 of ebisu_pod'
+    published: '2017-05-27T18:31:47+00:00'
+    id: 'urn:uuid:926fdc62-a336-5971-9180-b96248012812'
+    link: 'https://pub.dartlang.org/packages/ebisu_pod'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: ebisu_cpp
+    package_version: v0.3.25
+    title: 'v0.3.25 of ebisu_cpp'
+    published: '2017-05-27T18:21:58+00:00'
+    id: 'urn:uuid:8802a34f-8b6a-58e0-8fde-8bded2515980'
+    link: 'https://pub.dartlang.org/packages/ebisu_cpp'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: id
+    package_version: v1.0.16
+    title: 'v1.0.16 of id'
+    published: '2017-05-27T18:02:47+00:00'
+    id: 'urn:uuid:6ed3b296-320f-500a-8b16-da36175f7bf5'
+    link: 'https://pub.dartlang.org/packages/id'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
