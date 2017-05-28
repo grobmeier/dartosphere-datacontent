@@ -97111,3 +97111,57 @@
     link: 'https://pub.dartlang.org/packages/twitch'
     author:
         - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: polymerize
+    package_version: v0.8.5
+    title: 'v0.8.5 of polymerize'
+    published: '2017-05-28T21:44:54+00:00'
+    id: 'urn:uuid:a1340fcd-7a63-5d59-b641-9d4c5914556b'
+    link: 'https://pub.dartlang.org/packages/polymerize'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: polymer_element
+    package_version: v2.0.0+rc.13
+    title: 'v2.0.0+rc.13 of polymer_element'
+    published: '2017-05-28T21:44:45+00:00'
+    id: 'urn:uuid:03a5fed6-4011-533d-91db-faa9966c98fc'
+    link: 'https://pub.dartlang.org/packages/polymer_element'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: epub
+    package_version: v1.2.1
+    title: 'v1.2.1 of epub'
+    published: '2017-05-28T20:37:55+00:00'
+    id: 'urn:uuid:110adb38-768e-5413-be1c-645ada892e4d'
+    link: 'https://pub.dartlang.org/packages/epub'
+    author:
+        - 'Colin Nelson <colin@ifdevthentalk.com>'
+-
+    package_name: twitch
+    package_version: v0.3.0
+    title: 'v0.3.0 of twitch'
+    published: '2017-05-28T20:15:18+00:00'
+    id: 'urn:uuid:9f1c2d83-1427-5c67-b52c-e6957089af6b'
+    link: 'https://pub.dartlang.org/packages/twitch'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: ebisu
+    package_version: v0.7.7
+    title: 'v0.7.7 of ebisu'
+    published: '2017-05-28T18:44:32+00:00'
+    id: 'urn:uuid:e9bda3b9-4f74-51d6-b54d-77bdddbd6601'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
+-
+    package_name: angel_paginate
+    package_version: v1.0.0+3
+    title: 'v1.0.0+3 of angel_paginate'
+    published: '2017-05-28T18:22:48+00:00'
+    id: 'urn:uuid:f0daa650-9afa-56a5-ad35-741638585b4d'
+    link: 'https://pub.dartlang.org/packages/angel_paginate'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
