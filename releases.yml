@@ -97237,3 +97237,21 @@
     link: 'https://pub.dartlang.org/packages/built_value'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1366
+    title: 'v0.0.1366 of fo_components'
+    published: '2017-05-29T17:57:13+00:00'
+    id: 'urn:uuid:4fc3fbb7-991f-5ff2-872c-e7e1611472a2'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: slack_rtm
+    package_version: v0.0.1
+    title: 'v0.0.1 of slack_rtm'
+    published: '2017-05-29T14:02:28+00:00'
+    id: 'urn:uuid:92d97732-ebcb-51f9-8d89-4a80eb4a4042'
+    link: 'https://pub.dartlang.org/packages/slack_rtm'
+    author:
+        - 'Koga Kazuo <obiwanko@me.com>'
