@@ -97165,3 +97165,21 @@
     link: 'https://pub.dartlang.org/packages/angel_paginate'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: fluro
+    package_version: v1.1.0
+    title: 'v1.1.0 of fluro'
+    published: '2017-05-29T01:15:47+00:00'
+    id: 'urn:uuid:a51a41e5-618f-51a3-ba7e-4d56247adb84'
+    link: 'https://pub.dartlang.org/packages/fluro'
+    author:
+        - 'Posse Productions LLC <apps@goposse.com>'
+-
+    package_name: mime_type
+    package_version: v0.2.1
+    title: 'v0.2.1 of mime_type'
+    published: '2017-05-29T00:55:36+00:00'
+    id: 'urn:uuid:a8804708-4278-5f1b-83d7-691c2434d427'
+    link: 'https://pub.dartlang.org/packages/mime_type'
+    author:
+        - 'Terry Mitsuoka <TerryMitsuoka@gmail.com>'
