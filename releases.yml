@@ -97255,3 +97255,12 @@
     link: 'https://pub.dartlang.org/packages/slack_rtm'
     author:
         - 'Koga Kazuo <obiwanko@me.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1367
+    title: 'v0.0.1367 of fo_components'
+    published: '2017-05-29T19:21:33+00:00'
+    id: 'urn:uuid:995db1fb-49c6-52de-b684-113f9cd2c53a'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
