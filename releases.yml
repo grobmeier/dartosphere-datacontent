@@ -97300,3 +97300,21 @@
     link: 'https://pub.dartlang.org/packages/angular_fire'
     author:
         - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1376
+    title: 'v0.0.1376 of fo_components'
+    published: '2017-05-30T09:24:28+00:00'
+    id: 'urn:uuid:f3b95ed1-6086-5287-a904-a69bc645909c'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: angular_fire
+    package_version: v0.1.1
+    title: 'v0.1.1 of angular_fire'
+    published: '2017-05-30T07:04:32+00:00'
+    id: 'urn:uuid:2a3ef5aa-a0d8-5934-8bec-17f579d9ad7a'
+    link: 'https://pub.dartlang.org/packages/angular_fire'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
