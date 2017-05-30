@@ -97282,3 +97282,21 @@
     link: 'https://pub.dartlang.org/packages/cynic'
     author:
         - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: html_unescape
+    package_version: v0.1.5
+    title: 'v0.1.5 of html_unescape'
+    published: '2017-05-30T03:57:17+00:00'
+    id: 'urn:uuid:5d5946e8-d7d8-5816-be2f-f30aa3eb28d9'
+    link: 'https://pub.dartlang.org/packages/html_unescape'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: angular_fire
+    package_version: v0.1.0
+    title: 'v0.1.0 of angular_fire'
+    published: '2017-05-30T02:37:04+00:00'
+    id: 'urn:uuid:3fe0bed3-d477-5d51-8c8a-88da52682758'
+    link: 'https://pub.dartlang.org/packages/angular_fire'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
