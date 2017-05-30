@@ -97363,3 +97363,21 @@
     link: 'https://pub.dartlang.org/packages/flutter_firebase'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: editex
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of editex'
+    published: '2017-05-30T21:27:03+00:00'
+    id: 'urn:uuid:47f2ec3f-b48f-56da-bfd4-e43ca7281ef1'
+    link: 'https://pub.dartlang.org/packages/editex'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: csslib
+    package_version: v0.14.0
+    title: 'v0.14.0 of csslib'
+    published: '2017-05-30T20:18:04+00:00'
+    id: 'urn:uuid:5e747f09-9701-5560-a1e5-b7fd74e1fbfd'
+    link: 'https://pub.dartlang.org/packages/csslib'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
