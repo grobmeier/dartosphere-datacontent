@@ -97390,3 +97390,21 @@
     link: 'https://pub.dartlang.org/packages/editex'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.2.148
+    title: 'v0.2.148 of bokain_models'
+    published: '2017-05-31T08:28:44+00:00'
+    id: 'urn:uuid:0c08f272-73b3-505a-8985-ef57e0aaad13'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: dice
+    package_version: v1.7.0
+    title: 'v1.7.0 of dice'
+    published: '2017-05-31T07:16:32+00:00'
+    id: 'urn:uuid:554bb159-6c6a-5fb8-a499-a17d03eb8ffe'
+    link: 'https://pub.dartlang.org/packages/dice'
+    author:
+        - 'Lars Tackmann <lars@solvr.io>'
