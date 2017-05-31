@@ -97435,3 +97435,30 @@
     link: 'https://pub.dartlang.org/packages/editex'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: dart_language_server
+    package_version: v0.0.8
+    title: 'v0.0.8 of dart_language_server'
+    published: '2017-05-31T20:53:56+00:00'
+    id: 'urn:uuid:7ac9740f-951b-51d0-81f2-3b806cc8b80a'
+    link: 'https://pub.dartlang.org/packages/dart_language_server'
+    author:
+        - 'Nate Bosch <nbosch1@gmail.com>'
+-
+    package_name: kiwano
+    package_version: v0.0.2
+    title: 'v0.0.2 of kiwano'
+    published: '2017-05-31T19:34:59+00:00'
+    id: 'urn:uuid:650a7065-d435-5a97-946a-509648390db6'
+    link: 'https://pub.dartlang.org/packages/kiwano'
+    author:
+        - 'Keenan Thompson <keenan@keenant.com>'
+-
+    package_name: html
+    package_version: v0.13.2
+    title: 'v0.13.2 of html'
+    published: '2017-05-31T19:31:13+00:00'
+    id: 'urn:uuid:6a8a35a3-102c-576e-8570-c31780f97261'
+    link: 'https://pub.dartlang.org/packages/html'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
