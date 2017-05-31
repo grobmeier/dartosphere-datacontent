@@ -97408,3 +97408,30 @@
     link: 'https://pub.dartlang.org/packages/dice'
     author:
         - 'Lars Tackmann <lars@solvr.io>'
+-
+    package_name: fo_components
+    package_version: v0.0.1390
+    title: 'v0.0.1390 of fo_components'
+    published: '2017-05-31T13:03:25+00:00'
+    id: 'urn:uuid:87064d14-04e7-5769-9b16-6ed73fa8aee0'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.2.151
+    title: 'v0.2.151 of bokain_models'
+    published: '2017-05-31T12:52:14+00:00'
+    id: 'urn:uuid:c090f44b-3271-5da3-9866-8652d9bdfa01'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: editex
+    package_version: v0.2.1
+    title: 'v0.2.1 of editex'
+    published: '2017-05-31T11:30:21+00:00'
+    id: 'urn:uuid:05ee5b34-9fd5-5996-b80e-b60a2cd6525e'
+    link: 'https://pub.dartlang.org/packages/editex'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
