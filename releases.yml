@@ -97381,3 +97381,12 @@
     link: 'https://pub.dartlang.org/packages/csslib'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: editex
+    package_version: v0.2.0+2
+    title: 'v0.2.0+2 of editex'
+    published: '2017-05-30T22:23:43+00:00'
+    id: 'urn:uuid:b6069b0b-121a-5764-acad-9fef2905f803'
+    link: 'https://pub.dartlang.org/packages/editex'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
