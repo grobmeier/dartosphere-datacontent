@@ -97489,3 +97489,12 @@
     link: 'https://pub.dartlang.org/packages/dartspatcher'
     author:
         - 'Davide Bausach <info@getdbjs.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1399
+    title: 'v0.0.1399 of fo_components'
+    published: '2017-06-01T13:14:26+00:00'
+    id: 'urn:uuid:c587185b-6150-569d-b6a3-1361b915e61e'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
