@@ -97516,3 +97516,58 @@
     link: 'https://pub.dartlang.org/packages/modern_charts'
     author:
         - 'Man Hoang <jolleekin@outlook.com>'
+-
+    package_name: test_process
+    package_version: v1.0.0-rc.2
+    title: 'v1.0.0-rc.2 of test_process'
+    published: '2017-06-01T21:08:26+00:00'
+    id: 'urn:uuid:9dc13506-1e71-574d-a3fb-361a94e31acd'
+    link: 'https://pub.dartlang.org/packages/test_process'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: test_descriptor
+    package_version: v1.0.1
+    title: 'v1.0.1 of test_descriptor'
+    published: '2017-06-01T21:05:19+00:00'
+    id: 'urn:uuid:42312785-675a-50ef-b4c0-201e4e220736'
+    link: 'https://pub.dartlang.org/packages/test_descriptor'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: gitter
+    package_version: v0.1.0+1
+    title: 'v0.1.0+1 of gitter'
+    published: '2017-06-01T21:01:00+00:00'
+    id: 'urn:uuid:4f8c07d2-5db4-5004-8519-0acf9f1ea286'
+    link: 'https://pub.dartlang.org/packages/gitter'
+    author:
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: tzolkin
+    package_version: v1.1.0
+    title: 'v1.1.0 of tzolkin'
+    published: '2017-06-01T20:28:59+00:00'
+    id: 'urn:uuid:fb2329d7-bdfc-571f-b8fb-1e143009ffba'
+    link: 'https://pub.dartlang.org/packages/tzolkin'
+    author:
+        - 'John Ryan <john.p.ryan4@gmail.com>'
+-
+    package_name: aqueduct
+    package_version: v2.2.0
+    title: 'v2.2.0 of aqueduct'
+    published: '2017-06-01T20:01:15+00:00'
+    id: 'urn:uuid:360ff58a-b85e-51f9-b063-30fb440e4640'
+    link: 'https://pub.dartlang.org/packages/aqueduct'
+    author:
+        - 'stable|kernel <http://stablekernel.com>'
+-
+    package_name: password_hash
+    package_version: v1.0.0
+    title: 'v1.0.0 of password_hash'
+    published: '2017-06-01T18:33:00+00:00'
+    id: 'urn:uuid:9b30f1b2-805a-5a89-b7c3-b31d28013708'
+    link: 'https://pub.dartlang.org/packages/password_hash'
+    author:
+        - 'Joe Conway <joe.conway@stablekernel.com>'
