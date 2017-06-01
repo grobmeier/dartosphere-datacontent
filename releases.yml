@@ -97471,3 +97471,12 @@
     link: 'https://pub.dartlang.org/packages/angular_fire'
     author:
         - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: angular_fire
+    package_version: v0.2.1
+    title: 'v0.2.1 of angular_fire'
+    published: '2017-06-01T03:17:07+00:00'
+    id: 'urn:uuid:f1d33015-b311-53c5-aaae-8a90a20cd2ee'
+    link: 'https://pub.dartlang.org/packages/angular_fire'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
