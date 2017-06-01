@@ -97498,3 +97498,21 @@
     link: 'https://pub.dartlang.org/packages/fo_components'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: source_gen
+    package_version: v0.5.8
+    title: 'v0.5.8 of source_gen'
+    published: '2017-06-01T17:56:53+00:00'
+    id: 'urn:uuid:db530563-65cd-527d-b446-ebbe26e908f0'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: modern_charts
+    package_version: v0.1.2
+    title: 'v0.1.2 of modern_charts'
+    published: '2017-06-01T15:22:52+00:00'
+    id: 'urn:uuid:e036d72d-5670-5328-bda3-07c3b28b3752'
+    link: 'https://pub.dartlang.org/packages/modern_charts'
+    author:
+        - 'Man Hoang <jolleekin@outlook.com>'
