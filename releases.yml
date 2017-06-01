@@ -97480,3 +97480,12 @@
     link: 'https://pub.dartlang.org/packages/angular_fire'
     author:
         - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: dartspatcher
+    package_version: v0.1.1
+    title: 'v0.1.1 of dartspatcher'
+    published: '2017-06-01T08:34:31+00:00'
+    id: 'urn:uuid:93e031c1-728a-549a-a7d3-382c03f2cb46'
+    link: 'https://pub.dartlang.org/packages/dartspatcher'
+    author:
+        - 'Davide Bausach <info@getdbjs.com>'
