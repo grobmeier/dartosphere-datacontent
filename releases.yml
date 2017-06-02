@@ -97571,3 +97571,30 @@
     link: 'https://pub.dartlang.org/packages/password_hash'
     author:
         - 'Joe Conway <joe.conway@stablekernel.com>'
+-
+    package_name: admob
+    package_version: v0.1.1
+    title: 'v0.1.1 of admob'
+    published: '2017-06-02T05:01:59+00:00'
+    id: 'urn:uuid:e36b0e0a-d37c-57a2-8f22-8095c68a3ada'
+    link: 'https://pub.dartlang.org/packages/admob'
+    author:
+        - 'Brett Nesbitt <brett.aaron.nesbitt@gmailcom>'
+-
+    package_name: pana
+    package_version: v0.2.1
+    title: 'v0.2.1 of pana'
+    published: '2017-06-02T02:12:59+00:00'
+    id: 'urn:uuid:28892399-b4e5-5270-ac8e-c72018d98d1c'
+    link: 'https://pub.dartlang.org/packages/pana'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: aqueduct
+    package_version: v2.2.1
+    title: 'v2.2.1 of aqueduct'
+    published: '2017-06-02T02:03:29+00:00'
+    id: 'urn:uuid:095fde2d-5bc0-58fb-bd1c-4f30a7d2664a'
+    link: 'https://pub.dartlang.org/packages/aqueduct'
+    author:
+        - 'stable|kernel <http://stablekernel.com>'
