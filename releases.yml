@@ -97634,3 +97634,30 @@
     link: 'https://pub.dartlang.org/packages/crypt'
     author:
         - 'Hoylen Sue <hoylen@hoylen.com>'
+-
+    package_name: admob
+    package_version: v0.1.23
+    title: 'v0.1.23 of admob'
+    published: '2017-06-02T17:51:52+00:00'
+    id: 'urn:uuid:fd825892-f360-5b0e-960d-25b3c9f8de5a'
+    link: 'https://pub.dartlang.org/packages/admob'
+    author:
+        - 'Brett Nesbitt <brett.aaron.nesbitt@gmailcom>'
+-
+    package_name: qedb_client
+    package_version: v0.1.0
+    title: 'v0.1.0 of qedb_client'
+    published: '2017-06-02T17:35:48+00:00'
+    id: 'urn:uuid:2166410b-80ba-539f-895e-0fe2ed7de8bc'
+    link: 'https://pub.dartlang.org/packages/qedb_client'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1432
+    title: 'v0.0.1432 of fo_components'
+    published: '2017-06-02T16:36:34+00:00'
+    id: 'urn:uuid:a14cc8d8-9779-5db1-b262-ddeb1ad30402'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
