@@ -97598,3 +97598,39 @@
     link: 'https://pub.dartlang.org/packages/aqueduct'
     author:
         - 'stable|kernel <http://stablekernel.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1416
+    title: 'v0.0.1416 of fo_components'
+    published: '2017-06-02T13:55:12+00:00'
+    id: 'urn:uuid:f140b3b9-bc3f-5abb-af10-ea2465100794'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: admob
+    package_version: v0.1.22
+    title: 'v0.1.22 of admob'
+    published: '2017-06-02T13:46:58+00:00'
+    id: 'urn:uuid:f692c5d6-45ca-5670-9452-ae2c2c3bd2bf'
+    link: 'https://pub.dartlang.org/packages/admob'
+    author:
+        - 'Brett Nesbitt <brett.aaron.nesbitt@gmailcom>'
+-
+    package_name: access
+    package_version: v0.10.1
+    title: 'v0.10.1 of access'
+    published: '2017-06-02T11:36:45+00:00'
+    id: 'urn:uuid:4c3c06c3-1f0f-5bc1-925d-4654f85e8161'
+    link: 'https://pub.dartlang.org/packages/access'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: crypt
+    package_version: v1.0.3
+    title: 'v1.0.3 of crypt'
+    published: '2017-06-02T11:21:56+00:00'
+    id: 'urn:uuid:3594bfe0-1972-5fe0-aba8-b97773ab5498'
+    link: 'https://pub.dartlang.org/packages/crypt'
+    author:
+        - 'Hoylen Sue <hoylen@hoylen.com>'
