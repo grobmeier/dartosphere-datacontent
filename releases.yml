@@ -97688,3 +97688,13 @@
     link: 'https://pub.dartlang.org/packages/oauth2'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: rxdart
+    package_version: v0.12.0
+    title: 'v0.12.0 of rxdart'
+    published: '2017-06-02T23:34:40+00:00'
+    id: 'urn:uuid:a8de08e0-8f7c-53d4-a67f-919191363379'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
+        - 'Brian Egan <brian@brianegan.com>'
