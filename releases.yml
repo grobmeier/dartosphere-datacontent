@@ -97788,3 +97788,12 @@
     link: 'https://pub.dartlang.org/packages/grinder_smartling'
     author:
         - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: angel_cli
+    package_version: v1.0.12
+    title: 'v1.0.12 of angel_cli'
+    published: '2017-06-04T02:19:53+00:00'
+    id: 'urn:uuid:4351f20a-16bf-521b-8359-676c5f7f1cfd'
+    link: 'https://pub.dartlang.org/packages/angel_cli'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
