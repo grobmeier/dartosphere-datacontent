@@ -97898,3 +97898,31 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: eqlib
+    package_version: v0.14.2+1
+    title: 'v0.14.2+1 of eqlib'
+    published: '2017-06-04T19:14:43+00:00'
+    id: 'urn:uuid:8d25db28-acf3-57d6-a266-024c3cd62d43'
+    link: 'https://pub.dartlang.org/packages/eqlib'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: scheduled_notifications
+    package_version: v0.0.1
+    title: 'v0.0.1 of scheduled_notifications'
+    published: '2017-06-04T18:37:19+00:00'
+    id: 'urn:uuid:c6e8fe7c-9bda-5dd7-a9e1-440001d52fc9'
+    link: 'https://pub.dartlang.org/packages/scheduled_notifications'
+    author:
+        - 'Tobias Westergaard Kjeldsen<tobias@wkjeldsen.dk>'
+-
+    package_name: jaguar_session
+    package_version: v0.5.3
+    title: 'v0.5.3 of jaguar_session'
+    published: '2017-06-04T18:11:02+00:00'
+    id: 'urn:uuid:50cc0ab3-1e34-53ed-a235-f481472463cb'
+    link: 'https://pub.dartlang.org/packages/jaguar_session'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
