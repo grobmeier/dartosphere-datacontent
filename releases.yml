@@ -97797,3 +97797,74 @@
     link: 'https://pub.dartlang.org/packages/angel_cli'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: jaguar_cli
+    package_version: v0.0.24
+    title: 'v0.0.24 of jaguar_cli'
+    published: '2017-06-04T09:56:16+00:00'
+    id: 'urn:uuid:ad0cc8d3-16ce-537a-b6ac-1b5b63f63a76'
+    link: 'https://pub.dartlang.org/packages/jaguar_cli'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_serializer
+    package_version: v0.3.6
+    title: 'v0.3.6 of jaguar_serializer'
+    published: '2017-06-04T09:49:23+00:00'
+    id: 'urn:uuid:8705441a-7078-5bdb-830c-77791f3c36f4'
+    link: 'https://pub.dartlang.org/packages/jaguar_serializer'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: jaguar_generator
+    package_version: v0.5.3
+    title: 'v0.5.3 of jaguar_generator'
+    published: '2017-06-04T09:40:07+00:00'
+    id: 'urn:uuid:1d3dfbc1-8889-5ac7-bf22-c321fbffa00b'
+    link: 'https://pub.dartlang.org/packages/jaguar_generator'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_validate
+    package_version: v0.0.11
+    title: 'v0.0.11 of jaguar_validate'
+    published: '2017-06-04T09:34:28+00:00'
+    id: 'urn:uuid:2a0863f4-2dd5-5e8a-a3d9-a114b8211669'
+    link: 'https://pub.dartlang.org/packages/jaguar_validate'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_orm
+    package_version: v0.1.2
+    title: 'v0.1.2 of jaguar_orm'
+    published: '2017-06-04T09:31:52+00:00'
+    id: 'urn:uuid:4f26a8ec-f09f-5884-9ba0-aacd2bba274c'
+    link: 'https://pub.dartlang.org/packages/jaguar_orm'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_query
+    package_version: v0.0.18
+    title: 'v0.0.18 of jaguar_query'
+    published: '2017-06-04T08:40:22+00:00'
+    id: 'urn:uuid:71070a63-9274-585c-bbb3-0dcddea28c69'
+    link: 'https://pub.dartlang.org/packages/jaguar_query'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar
+    package_version: v0.5.0
+    title: 'v0.5.0 of jaguar'
+    published: '2017-06-04T08:00:03+00:00'
+    id: 'urn:uuid:60bf0379-56f5-5cab-9620-d8838ab7bac1'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
