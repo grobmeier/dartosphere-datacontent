@@ -97779,3 +97779,12 @@
     link: 'https://pub.dartlang.org/packages/angel_test'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: grinder_smartling
+    package_version: v0.1.0
+    title: 'v0.1.0 of grinder_smartling'
+    published: '2017-06-03T23:33:05+00:00'
+    id: 'urn:uuid:ed0e1fcb-8611-56b5-a7ad-9a3992fe1ceb'
+    link: 'https://pub.dartlang.org/packages/grinder_smartling'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
