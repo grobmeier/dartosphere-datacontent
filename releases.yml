@@ -98069,3 +98069,48 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: scheduled_notifications
+    package_version: v0.0.2
+    title: 'v0.0.2 of scheduled_notifications'
+    published: '2017-06-05T21:02:48+00:00'
+    id: 'urn:uuid:f8820b06-b526-5ab3-967d-ac3cd00f9186'
+    link: 'https://pub.dartlang.org/packages/scheduled_notifications'
+    author:
+        - 'Tobias Westergaard Kjeldsen<tobias@wkjeldsen.dk>'
+-
+    package_name: shared_preferences
+    package_version: v0.2.4+1
+    title: 'v0.2.4+1 of shared_preferences'
+    published: '2017-06-05T19:59:16+00:00'
+    id: 'urn:uuid:3de76b59-1c9d-598e-90b9-8dd052b9c71e'
+    link: 'https://pub.dartlang.org/packages/shared_preferences'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: test
+    package_version: v0.12.21
+    title: 'v0.12.21 of test'
+    published: '2017-06-05T19:33:32+00:00'
+    id: 'urn:uuid:61464255-df77-5cc8-a36c-a624eb10fda2'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: firebase_database
+    package_version: v0.0.6
+    title: 'v0.0.6 of firebase_database'
+    published: '2017-06-05T19:29:09+00:00'
+    id: 'urn:uuid:9f7344d1-26cc-5b97-8526-acf352c4cfe7'
+    link: 'https://pub.dartlang.org/packages/firebase_database'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: pikaday_datepicker_angular2
+    package_version: v2.1.4
+    title: 'v2.1.4 of pikaday_datepicker_angular2'
+    published: '2017-06-05T19:27:51+00:00'
+    id: 'urn:uuid:e1f0d426-1b29-5807-accb-9b92b6f63bf7'
+    link: 'https://pub.dartlang.org/packages/pikaday_datepicker_angular2'
+    author:
+        - 'Stephan Schroeder <simon.void+github@gmail.com>'
