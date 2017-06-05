@@ -98003,3 +98003,69 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: google_sign_in
+    package_version: v0.0.3
+    title: 'v0.0.3 of google_sign_in'
+    published: '2017-06-05T17:44:31+00:00'
+    id: 'urn:uuid:b52aa11f-40a4-5328-9966-a475b9e40786'
+    link: 'https://pub.dartlang.org/packages/google_sign_in'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: firebase_auth
+    package_version: v0.0.3+1
+    title: 'v0.0.3+1 of firebase_auth'
+    published: '2017-06-05T17:29:08+00:00'
+    id: 'urn:uuid:dc157fb3-67c7-5ed6-b955-e0783e7bf629'
+    link: 'https://pub.dartlang.org/packages/firebase_auth'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: intl_translation
+    package_version: v0.15.0
+    title: 'v0.15.0 of intl_translation'
+    published: '2017-06-05T17:27:04+00:00'
+    id: 'urn:uuid:5bafc72e-1491-52fb-994f-eba7df4d0256'
+    link: 'https://pub.dartlang.org/packages/intl_translation'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: jaguar_session
+    package_version: v0.5.4
+    title: 'v0.5.4 of jaguar_session'
+    published: '2017-06-05T16:13:01+00:00'
+    id: 'urn:uuid:2a2fd7a3-bcb8-5d0f-84e7-ae2036c4071d'
+    link: 'https://pub.dartlang.org/packages/jaguar_session'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: modern_charts
+    package_version: v0.1.3
+    title: 'v0.1.3 of modern_charts'
+    published: '2017-06-05T15:51:04+00:00'
+    id: 'urn:uuid:cac92103-d5a7-5491-9714-93d60da6f476'
+    link: 'https://pub.dartlang.org/packages/modern_charts'
+    author:
+        - 'Man Hoang <jolleekin@outlook.com>'
+-
+    package_name: jaguar_auth
+    package_version: v0.6.2
+    title: 'v0.6.2 of jaguar_auth'
+    published: '2017-06-05T15:31:11+00:00'
+    id: 'urn:uuid:aff81565-2c3c-56f2-b415-68074e065d42'
+    link: 'https://pub.dartlang.org/packages/jaguar_auth'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_common
+    package_version: v0.2.0
+    title: 'v0.2.0 of jaguar_common'
+    published: '2017-06-05T14:41:34+00:00'
+    id: 'urn:uuid:caa18731-6e8b-51a5-9d85-e5d033f3aa88'
+    link: 'https://pub.dartlang.org/packages/jaguar_common'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
