@@ -97973,3 +97973,33 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_cli
+    package_version: v0.0.25
+    title: 'v0.0.25 of jaguar_cli'
+    published: '2017-06-05T12:22:44+00:00'
+    id: 'urn:uuid:21af5656-9c50-56f1-aaef-f2bf91c1a712'
+    link: 'https://pub.dartlang.org/packages/jaguar_cli'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_generator
+    package_version: v0.6.0
+    title: 'v0.6.0 of jaguar_generator'
+    published: '2017-06-05T12:19:35+00:00'
+    id: 'urn:uuid:9e3b02b5-1960-5bf0-9e4d-802c39c4eb73'
+    link: 'https://pub.dartlang.org/packages/jaguar_generator'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar
+    package_version: v0.5.1
+    title: 'v0.5.1 of jaguar'
+    published: '2017-06-05T12:18:51+00:00'
+    id: 'urn:uuid:a5dc3a16-a6b2-567c-b786-bbb6e0ebbcfd'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
