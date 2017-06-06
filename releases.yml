@@ -98152,3 +98152,21 @@
     link: 'https://pub.dartlang.org/packages/dnd'
     author:
         - 'Marco Jakob <majakob@gmx.ch>'
+-
+    package_name: modern_charts
+    package_version: v0.1.4
+    title: 'v0.1.4 of modern_charts'
+    published: '2017-06-06T04:07:20+00:00'
+    id: 'urn:uuid:670e4ced-e24e-51d1-88e4-bbc31ef50ca4'
+    link: 'https://pub.dartlang.org/packages/modern_charts'
+    author:
+        - 'Man Hoang <jolleekin@outlook.com>'
+-
+    package_name: safe_config
+    package_version: v1.2.0
+    title: 'v1.2.0 of safe_config'
+    published: '2017-06-06T02:24:01+00:00'
+    id: 'urn:uuid:2f345006-081b-5254-b448-68a8b324ca67'
+    link: 'https://pub.dartlang.org/packages/safe_config'
+    author:
+        - 'Joe Conway <joe.conway@stablekernel.com>'
