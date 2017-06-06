@@ -98215,3 +98215,68 @@
     link: 'https://pub.dartlang.org/packages/k_means_cluster'
     author:
         - 'Richard Ambler <rambler@ibwya.net>'
+-
+    package_name: admob
+    package_version: v0.1.24
+    title: 'v0.1.24 of admob'
+    published: '2017-06-06T13:58:01+00:00'
+    id: 'urn:uuid:ab739c00-b779-559d-a360-ccfc6591e8c3'
+    link: 'https://pub.dartlang.org/packages/admob'
+    author:
+        - 'Brett Nesbitt <brett.aaron.nesbitt@gmailcom>'
+-
+    package_name: angel_hot
+    package_version: v1.0.0-rc.3
+    title: 'v1.0.0-rc.3 of angel_hot'
+    published: '2017-06-06T13:03:35+00:00'
+    id: 'urn:uuid:19e643e6-6b62-5f1d-8b20-b70dff08e6a4'
+    link: 'https://pub.dartlang.org/packages/angel_hot'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_route
+    package_version: v1.0.4
+    title: 'v1.0.4 of angel_route'
+    published: '2017-06-06T12:49:17+00:00'
+    id: 'urn:uuid:b8507d8a-6296-5eed-a694-3561b5d7d2e2'
+    link: 'https://pub.dartlang.org/packages/angel_route'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_cli
+    package_version: v1.1.0
+    title: 'v1.1.0 of angel_cli'
+    published: '2017-06-06T12:23:39+00:00'
+    id: 'urn:uuid:96cc75d6-3bf9-5a12-9d06-3b22eca867d5'
+    link: 'https://pub.dartlang.org/packages/angel_cli'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: entify
+    package_version: v0.1.0
+    title: 'v0.1.0 of entify'
+    published: '2017-06-06T11:52:59+00:00'
+    id: 'urn:uuid:d41cd24e-fc08-554c-b2cd-348e6fde18e3'
+    link: 'https://pub.dartlang.org/packages/entify'
+    author:
+        - 'Peter Siroki <psiroki@skawa.hu>'
+-
+    package_name: jaguar_mux
+    package_version: v0.5.0
+    title: 'v0.5.0 of jaguar_mux'
+    published: '2017-06-06T10:59:11+00:00'
+    id: 'urn:uuid:af145596-0a12-561e-833a-b90976717f4f'
+    link: 'https://pub.dartlang.org/packages/jaguar_mux'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_reflect
+    package_version: v0.5.1
+    title: 'v0.5.1 of jaguar_reflect'
+    published: '2017-06-06T10:31:02+00:00'
+    id: 'urn:uuid:5754f7ca-3c06-5eda-b21c-458d97fcd499'
+    link: 'https://pub.dartlang.org/packages/jaguar_reflect'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
