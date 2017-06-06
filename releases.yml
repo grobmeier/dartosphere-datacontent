@@ -98170,3 +98170,48 @@
     link: 'https://pub.dartlang.org/packages/safe_config'
     author:
         - 'Joe Conway <joe.conway@stablekernel.com>'
+-
+    package_name: html_builder
+    package_version: v1.0.1
+    title: 'v1.0.1 of html_builder'
+    published: '2017-06-06T09:45:39+00:00'
+    id: 'urn:uuid:d28d8d6e-5458-5a1a-b7dc-df2552090efa'
+    link: 'https://pub.dartlang.org/packages/html_builder'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: built_mirrors
+    package_version: v0.2.3
+    title: 'v0.2.3 of built_mirrors'
+    published: '2017-06-06T09:08:17+00:00'
+    id: 'urn:uuid:d33c7823-4f41-596c-b48e-6f87eef6c0be'
+    link: 'https://pub.dartlang.org/packages/built_mirrors'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1433
+    title: 'v0.0.1433 of fo_components'
+    published: '2017-06-06T08:43:12+00:00'
+    id: 'urn:uuid:47f398c9-dd26-552f-8160-3a6da7345aac'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: modern_charts
+    package_version: v0.1.5
+    title: 'v0.1.5 of modern_charts'
+    published: '2017-06-06T07:48:11+00:00'
+    id: 'urn:uuid:45cea126-103e-5e1a-b5ee-749af49eb397'
+    link: 'https://pub.dartlang.org/packages/modern_charts'
+    author:
+        - 'Man Hoang <jolleekin@outlook.com>'
+-
+    package_name: k_means_cluster
+    package_version: v0.1.1
+    title: 'v0.1.1 of k_means_cluster'
+    published: '2017-06-06T06:22:40+00:00'
+    id: 'urn:uuid:a5749c36-091d-56b6-bd78-e811b9ff0ee3'
+    link: 'https://pub.dartlang.org/packages/k_means_cluster'
+    author:
+        - 'Richard Ambler <rambler@ibwya.net>'
