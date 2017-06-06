@@ -98114,3 +98114,41 @@
     link: 'https://pub.dartlang.org/packages/pikaday_datepicker_angular2'
     author:
         - 'Stephan Schroeder <simon.void+github@gmail.com>'
+-
+    package_name: jaguar_reflect
+    package_version: v0.5.0
+    title: 'v0.5.0 of jaguar_reflect'
+    published: '2017-06-06T00:22:39+00:00'
+    id: 'urn:uuid:6d70ea3c-0631-5a7b-8801-a22879a842d3'
+    link: 'https://pub.dartlang.org/packages/jaguar_reflect'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar
+    package_version: v0.5.2
+    title: 'v0.5.2 of jaguar'
+    published: '2017-06-06T00:21:54+00:00'
+    id: 'urn:uuid:7a938ac3-6cb8-5eab-b0e1-95f05efcc140'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: tzolkin
+    package_version: v2.0.0
+    title: 'v2.0.0 of tzolkin'
+    published: '2017-06-06T00:01:31+00:00'
+    id: 'urn:uuid:6f81be1f-df85-55f5-a74c-9f3b7f2791bf'
+    link: 'https://pub.dartlang.org/packages/tzolkin'
+    author:
+        - 'John Ryan <john.p.ryan4@gmail.com>'
+-
+    package_name: dnd
+    package_version: v0.3.6
+    title: 'v0.3.6 of dnd'
+    published: '2017-06-05T23:48:14+00:00'
+    id: 'urn:uuid:ee52affa-6619-58bb-8d72-4bfcdb3c9613'
+    link: 'https://pub.dartlang.org/packages/dnd'
+    author:
+        - 'Marco Jakob <majakob@gmx.ch>'
