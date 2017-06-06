@@ -98350,3 +98350,40 @@
     link: 'https://pub.dartlang.org/packages/admob'
     author:
         - 'Brett Nesbitt <brett.aaron.nesbitt@gmailcom>'
+-
+    package_name: jaguar_static_file
+    package_version: v0.5.0
+    title: 'v0.5.0 of jaguar_static_file'
+    published: '2017-06-06T21:47:29+00:00'
+    id: 'urn:uuid:90f70d34-78fd-5b84-9b62-4acc3508490d'
+    link: 'https://pub.dartlang.org/packages/jaguar_static_file'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1435
+    title: 'v0.0.1435 of fo_components'
+    published: '2017-06-06T21:27:41+00:00'
+    id: 'urn:uuid:bfa60b70-d18f-5889-a919-6bc58e11b704'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: scheduled_notifications
+    package_version: v0.0.3
+    title: 'v0.0.3 of scheduled_notifications'
+    published: '2017-06-06T20:18:49+00:00'
+    id: 'urn:uuid:049a5d1a-2f82-5be4-9931-8f0a14327f7d'
+    link: 'https://pub.dartlang.org/packages/scheduled_notifications'
+    author:
+        - 'Tobias Westergaard Kjeldsen<tobias@wkjeldsen.dk>'
+-
+    package_name: pana
+    package_version: v0.2.2
+    title: 'v0.2.2 of pana'
+    published: '2017-06-06T19:48:08+00:00'
+    id: 'urn:uuid:18c16645-f0d7-5346-b867-17e8a511b52d'
+    link: 'https://pub.dartlang.org/packages/pana'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
