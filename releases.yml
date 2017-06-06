@@ -98280,3 +98280,73 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: entify
+    package_version: v0.1.1+2
+    title: 'v0.1.1+2 of entify'
+    published: '2017-06-06T17:18:02+00:00'
+    id: 'urn:uuid:a375ad92-5fb3-5494-99f5-7943a5cc0ade'
+    link: 'https://pub.dartlang.org/packages/entify'
+    author:
+        - 'Peter Siroki <psiroki@skawa.hu>'
+-
+    package_name: dartspatcher
+    package_version: v0.2.0
+    title: 'v0.2.0 of dartspatcher'
+    published: '2017-06-06T17:17:27+00:00'
+    id: 'urn:uuid:410b890b-3a4d-5c93-9a56-879b808f593b'
+    link: 'https://pub.dartlang.org/packages/dartspatcher'
+    author:
+        - 'Davide Bausach <info@getdbjs.com>'
+-
+    package_name: jaguar_query_postgresql
+    package_version: v0.0.4
+    title: 'v0.0.4 of jaguar_query_postgresql'
+    published: '2017-06-06T16:12:09+00:00'
+    id: 'urn:uuid:9222b54d-903c-568b-af55-2301e152a975'
+    link: 'https://pub.dartlang.org/packages/jaguar_query_postgresql'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: dart_dev
+    package_version: v1.7.6
+    title: 'v1.7.6 of dart_dev'
+    published: '2017-06-06T16:03:54+00:00'
+    id: 'urn:uuid:90a1c43e-2dea-504c-b17a-2b4fd02d6322'
+    link: 'https://pub.dartlang.org/packages/dart_dev'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: jaguar
+    package_version: v0.5.3
+    title: 'v0.5.3 of jaguar'
+    published: '2017-06-06T15:57:17+00:00'
+    id: 'urn:uuid:1b68def7-bacc-57fd-9f09-fa464ff4d5a0'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: lists
+    package_version: v0.0.22
+    title: 'v0.0.22 of lists'
+    published: '2017-06-06T15:46:11+00:00'
+    id: 'urn:uuid:3423c184-d58e-5c5f-93ca-5f51882ba7ac'
+    link: 'https://pub.dartlang.org/packages/lists'
+    author:
+        - 'Andrew Mezoni <andrew.mezoni@gmail.com>'
+-
+    package_name: admob
+    package_version: v0.1.25
+    title: 'v0.1.25 of admob'
+    published: '2017-06-06T14:03:20+00:00'
+    id: 'urn:uuid:fe8c05b5-0330-5b24-bc07-bd3a31764af3'
+    link: 'https://pub.dartlang.org/packages/admob'
+    author:
+        - 'Brett Nesbitt <brett.aaron.nesbitt@gmailcom>'
