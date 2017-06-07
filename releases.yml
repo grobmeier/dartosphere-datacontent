@@ -98508,3 +98508,54 @@
     link: 'https://pub.dartlang.org/packages/dartins'
     author:
         - 'Nathan Kerr <nathanker@gmail.com>'
+-
+    package_name: jaguar_postgres
+    package_version: v0.5.0
+    title: 'v0.5.0 of jaguar_postgres'
+    published: '2017-06-07T21:57:35+00:00'
+    id: 'urn:uuid:6d019365-ae53-5ebc-ba50-e695ebee3f30'
+    link: 'https://pub.dartlang.org/packages/jaguar_postgres'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_shelf
+    package_version: v0.1.0
+    title: 'v0.1.0 of jaguar_shelf'
+    published: '2017-06-07T21:47:17+00:00'
+    id: 'urn:uuid:eac10f32-20a5-5510-a2dd-49f1e9ed02aa'
+    link: 'https://pub.dartlang.org/packages/jaguar_shelf'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_oauth_facebook
+    package_version: v0.1.0
+    title: 'v0.1.0 of jaguar_oauth_facebook'
+    published: '2017-06-07T21:34:42+00:00'
+    id: 'urn:uuid:497c1ecb-8429-5b8e-9da1-ebf6e510631c'
+    link: 'https://pub.dartlang.org/packages/jaguar_oauth_facebook'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_oauth
+    package_version: v0.1.0
+    title: 'v0.1.0 of jaguar_oauth'
+    published: '2017-06-07T21:17:12+00:00'
+    id: 'urn:uuid:099cb4bc-ee56-583e-9606-4ba9fa19a3f0'
+    link: 'https://pub.dartlang.org/packages/jaguar_oauth'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_serializer
+    package_version: v0.3.7
+    title: 'v0.3.7 of jaguar_serializer'
+    published: '2017-06-07T20:13:59+00:00'
+    id: 'urn:uuid:23820bd7-c7fa-5426-9cd4-453b0f7e3d17'
+    link: 'https://pub.dartlang.org/packages/jaguar_serializer'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
