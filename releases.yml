@@ -98444,3 +98444,30 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: bokain_models
+    package_version: v0.2.152
+    title: 'v0.2.152 of bokain_models'
+    published: '2017-06-07T08:06:07+00:00'
+    id: 'urn:uuid:075cbf88-b438-523e-81b3-aad3e2839a49'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1437
+    title: 'v0.0.1437 of fo_components'
+    published: '2017-06-07T07:07:42+00:00'
+    id: 'urn:uuid:a05b16d7-76af-5537-b078-38c796a945b5'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: connectivity_status
+    package_version: v0.1.1+2
+    title: 'v0.1.1+2 of connectivity_status'
+    published: '2017-06-07T06:37:32+00:00'
+    id: 'urn:uuid:f4cb478c-b12a-5c8e-a2b5-c75785e8766d'
+    link: 'https://pub.dartlang.org/packages/connectivity_status'
+    author:
+        - 'Erick Ghaumez <erick@rxla.bz>'
