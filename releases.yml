@@ -98661,3 +98661,21 @@
     link: 'https://pub.dartlang.org/packages/chartjs'
     author:
         - 'Kevin Moore <kevmoo+github@google.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1438
+    title: 'v0.0.1438 of fo_components'
+    published: '2017-06-08T07:44:19+00:00'
+    id: 'urn:uuid:09e78006-c652-5ecb-99a0-7f6260e20b2f'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: stagexl
+    package_version: v1.2.0+3
+    title: 'v1.2.0+3 of stagexl'
+    published: '2017-06-08T06:33:17+00:00'
+    id: 'urn:uuid:a4d7acb4-53bc-5b10-b212-07de406daf45'
+    link: 'https://pub.dartlang.org/packages/stagexl'
+    author:
+        - 'Bernhard Pichler <support@stagexl.org>'
