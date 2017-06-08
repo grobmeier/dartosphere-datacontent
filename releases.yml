@@ -98634,3 +98634,30 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: simple_streams
+    package_version: v1.1.0
+    title: 'v1.1.0 of simple_streams'
+    published: '2017-06-08T05:16:41+00:00'
+    id: 'urn:uuid:2170f016-381e-5960-a204-0a741070e852'
+    link: 'https://pub.dartlang.org/packages/simple_streams'
+    author:
+        - 'Nick Anderssohn <ncadevelopment@gmail.com>'
+-
+    package_name: soniq
+    package_version: v0.0.1
+    title: 'v0.0.1 of soniq'
+    published: '2017-06-08T04:54:17+00:00'
+    id: 'urn:uuid:a1d2666a-7ffa-5092-b8d7-1c2ac20fb267'
+    link: 'https://pub.dartlang.org/packages/soniq'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: chartjs
+    package_version: v0.4.0
+    title: 'v0.4.0 of chartjs'
+    published: '2017-06-08T04:14:09+00:00'
+    id: 'urn:uuid:143c5db3-9496-5743-87f5-0426c1d08a21'
+    link: 'https://pub.dartlang.org/packages/chartjs'
+    author:
+        - 'Kevin Moore <kevmoo+github@google.com>'
