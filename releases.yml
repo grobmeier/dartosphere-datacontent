@@ -98725,3 +98725,30 @@
     link: 'https://pub.dartlang.org/packages/circle_indicator'
     author:
         - 'long1eu <home@long1.eu>'
+-
+    package_name: dbscan
+    package_version: v0.1.1
+    title: 'v0.1.1 of dbscan'
+    published: '2017-06-08T19:39:46+00:00'
+    id: 'urn:uuid:38d65436-8c67-513f-bc5c-410785a48439'
+    link: 'https://pub.dartlang.org/packages/dbscan'
+    author:
+        - 'erikrahtjen <erik.rahtjen@stablekernel.com>'
+-
+    package_name: circle_indicator
+    package_version: v0.0.5
+    title: 'v0.0.5 of circle_indicator'
+    published: '2017-06-08T19:25:45+00:00'
+    id: 'urn:uuid:d148c338-24ca-5fb9-950c-d18c8d4cd4aa'
+    link: 'https://pub.dartlang.org/packages/circle_indicator'
+    author:
+        - 'long1eu <home@long1.eu>'
+-
+    package_name: google_sign_in
+    package_version: v0.0.4
+    title: 'v0.0.4 of google_sign_in'
+    published: '2017-06-08T18:44:24+00:00'
+    id: 'urn:uuid:1855888a-e5ae-51f5-9806-d87f70e0c930'
+    link: 'https://pub.dartlang.org/packages/google_sign_in'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
