@@ -98679,3 +98679,21 @@
     link: 'https://pub.dartlang.org/packages/stagexl'
     author:
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: bokain_models
+    package_version: v0.2.162
+    title: 'v0.2.162 of bokain_models'
+    published: '2017-06-08T13:51:19+00:00'
+    id: 'urn:uuid:54d0a052-77f2-5f8a-8011-720ac10935d9'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: modern_charts
+    package_version: v0.1.6
+    title: 'v0.1.6 of modern_charts'
+    published: '2017-06-08T13:23:40+00:00'
+    id: 'urn:uuid:f6d69154-297a-5b01-9b76-a914a8acfc31'
+    link: 'https://pub.dartlang.org/packages/modern_charts'
+    author:
+        - 'Man Hoang <jolleekin@outlook.com>'
