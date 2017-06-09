@@ -98863,3 +98863,40 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: spritewidget
+    package_version: v0.9.2
+    title: 'v0.9.2 of spritewidget'
+    published: '2017-06-09T21:52:26+00:00'
+    id: 'urn:uuid:5bc1c3ff-d694-508c-83c1-12dbb31384fc'
+    link: 'https://pub.dartlang.org/packages/spritewidget'
+    author:
+        - 'Viktor Lidholt <viktorlidholt@gmail.com>'
+-
+    package_name: ulid
+    package_version: v1.0.0
+    title: 'v1.0.0 of ulid'
+    published: '2017-06-09T21:08:52+00:00'
+    id: 'urn:uuid:f5c6ec7f-8afa-5a6a-8f3e-4d28f96ed22a'
+    link: 'https://pub.dartlang.org/packages/ulid'
+    author:
+        - 'Istvan Soos <istvan.soos@agilord.com>'
+-
+    package_name: webkit_inspection_protocol
+    package_version: v0.2.2
+    title: 'v0.2.2 of webkit_inspection_protocol'
+    published: '2017-06-09T20:24:31+00:00'
+    id: 'urn:uuid:af8e8e3d-da97-5bc8-8472-438b9d7d6804'
+    link: 'https://pub.dartlang.org/packages/webkit_inspection_protocol'
+    author:
+        - 'Devon Carew <devoncarew@google.com>'
+        - 'Marc Fisher <fisherii@google.com>'
+-
+    package_name: circle_indicator
+    package_version: v0.0.7
+    title: 'v0.0.7 of circle_indicator'
+    published: '2017-06-09T20:01:02+00:00'
+    id: 'urn:uuid:4e286260-aa37-5f3a-a58b-a62a6f9d0353'
+    link: 'https://pub.dartlang.org/packages/circle_indicator'
+    author:
+        - 'long1eu <home@long1.eu>'
