@@ -98816,3 +98816,50 @@
     link: 'https://pub.dartlang.org/packages/polymerize'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: jaguar_static_file
+    package_version: v0.5.1
+    title: 'v0.5.1 of jaguar_static_file'
+    published: '2017-06-09T16:47:25+00:00'
+    id: 'urn:uuid:89b6774f-db2c-542f-a043-f286ecbb8361'
+    link: 'https://pub.dartlang.org/packages/jaguar_static_file'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: static_dom
+    package_version: v0.0.1
+    title: 'v0.0.1 of static_dom'
+    published: '2017-06-09T16:46:09+00:00'
+    id: 'urn:uuid:b8d6aacb-7a46-5e6f-bed4-7b2bf193dbec'
+    link: 'https://pub.dartlang.org/packages/static_dom'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: admob
+    package_version: v0.1.27
+    title: 'v0.1.27 of admob'
+    published: '2017-06-09T15:39:30+00:00'
+    id: 'urn:uuid:2258500b-07a1-5476-9372-a9b3d5423d99'
+    link: 'https://pub.dartlang.org/packages/admob'
+    author:
+        - 'Brett Nesbitt <brett.aaron.nesbitt@gmailcom>'
+-
+    package_name: bokain_models
+    package_version: v0.2.163
+    title: 'v0.2.163 of bokain_models'
+    published: '2017-06-09T14:28:52+00:00'
+    id: 'urn:uuid:c81030c6-b80e-5395-82f8-dc270fdf96bb'
+    link: 'https://pub.dartlang.org/packages/bokain_models'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: jaguar
+    package_version: v0.5.5
+    title: 'v0.5.5 of jaguar'
+    published: '2017-06-09T14:17:26+00:00'
+    id: 'urn:uuid:12d13a98-ce98-511f-9a51-10ecfb8f0a95'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
