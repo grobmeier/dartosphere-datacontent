@@ -98789,3 +98789,12 @@
     link: 'https://pub.dartlang.org/packages/path'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: circle_indicator
+    package_version: v0.0.6
+    title: 'v0.0.6 of circle_indicator'
+    published: '2017-06-09T07:05:10+00:00'
+    id: 'urn:uuid:5476cdcd-a5d0-593a-bfc3-cce79e437983'
+    link: 'https://pub.dartlang.org/packages/circle_indicator'
+    author:
+        - 'long1eu <home@long1.eu>'
