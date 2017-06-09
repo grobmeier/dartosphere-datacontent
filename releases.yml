@@ -98752,3 +98752,40 @@
     link: 'https://pub.dartlang.org/packages/google_sign_in'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: hanzo
+    package_version: v0.1.1
+    title: 'v0.1.1 of hanzo'
+    published: '2017-06-09T01:21:40+00:00'
+    id: 'urn:uuid:5a6777d7-80ad-5afb-981c-3aab360af6aa'
+    link: 'https://pub.dartlang.org/packages/hanzo'
+    author:
+        - 'Andres Araujo <a.araujo.azua@gmail.com>'
+-
+    package_name: flutter_plugin_tools
+    package_version: v0.0.3
+    title: 'v0.0.3 of flutter_plugin_tools'
+    published: '2017-06-08T22:52:05+00:00'
+    id: 'urn:uuid:022b19c3-ca59-5a5a-89c0-56ae4ccac5cd'
+    link: 'https://pub.dartlang.org/packages/flutter_plugin_tools'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: jaguar
+    package_version: v0.5.4
+    title: 'v0.5.4 of jaguar'
+    published: '2017-06-08T22:26:25+00:00'
+    id: 'urn:uuid:f8d80bd7-916e-554b-818a-16bbc7a3cce6'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: path
+    package_version: v1.4.2
+    title: 'v1.4.2 of path'
+    published: '2017-06-08T22:19:09+00:00'
+    id: 'urn:uuid:102cf790-0c7a-5625-b21a-0841bcc656ef'
+    link: 'https://pub.dartlang.org/packages/path'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
