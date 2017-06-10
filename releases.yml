@@ -98900,3 +98900,12 @@
     link: 'https://pub.dartlang.org/packages/circle_indicator'
     author:
         - 'long1eu <home@long1.eu>'
+-
+    package_name: spritewidget
+    package_version: v0.9.3
+    title: 'v0.9.3 of spritewidget'
+    published: '2017-06-09T22:00:18+00:00'
+    id: 'urn:uuid:77dab538-e679-5627-beee-da8928d19e1b'
+    link: 'https://pub.dartlang.org/packages/spritewidget'
+    author:
+        - 'Viktor Lidholt <viktorlidholt@gmail.com>'
