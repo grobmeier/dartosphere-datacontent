@@ -98976,3 +98976,12 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1446
+    title: 'v0.0.1446 of fo_components'
+    published: '2017-06-10T21:36:39+00:00'
+    id: 'urn:uuid:1f8c39f2-431b-5cf8-98e3-8a4bfaf4debf'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
