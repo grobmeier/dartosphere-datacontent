@@ -99031,3 +99031,12 @@
     link: 'https://pub.dartlang.org/packages/query_builder_sql'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: scheduled_notifications
+    package_version: v0.0.4
+    title: 'v0.0.4 of scheduled_notifications'
+    published: '2017-06-11T11:25:23+00:00'
+    id: 'urn:uuid:ea7b7b29-eaff-58b3-8608-05f595228e83'
+    link: 'https://pub.dartlang.org/packages/scheduled_notifications'
+    author:
+        - 'Tobias Westergaard Kjeldsen<tobias@wkjeldsen.dk>'
