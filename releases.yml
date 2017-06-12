@@ -99178,3 +99178,41 @@
     link: 'https://pub.dartlang.org/packages/discoveryapis_generator'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: stagehand
+    package_version: v1.1.4
+    title: 'v1.1.4 of stagehand'
+    published: '2017-06-12T21:46:34+00:00'
+    id: 'urn:uuid:79aca110-0f65-5b34-acbe-50d12dc60eae'
+    link: 'https://pub.dartlang.org/packages/stagehand'
+    author:
+        - 'Seth Ladd <sethladd@google.com>'
+        - 'Devon Carew <devoncarew@google.com>'
+        - 'Kathy Walrath <kathyw@google.com>'
+-
+    package_name: quick_actions
+    package_version: v0.0.1+1
+    title: 'v0.0.1+1 of quick_actions'
+    published: '2017-06-12T19:31:55+00:00'
+    id: 'urn:uuid:37254463-81ad-5ff3-be0b-6a838459192a'
+    link: 'https://pub.dartlang.org/packages/quick_actions'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: connectivity
+    package_version: v0.0.1+1
+    title: 'v0.0.1+1 of connectivity'
+    published: '2017-06-12T19:31:44+00:00'
+    id: 'urn:uuid:0b2cb3f8-2b37-55b5-96ac-06e1d6cf98da'
+    link: 'https://pub.dartlang.org/packages/connectivity'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: angel_hot
+    package_version: v1.0.0
+    title: 'v1.0.0 of angel_hot'
+    published: '2017-06-12T19:27:01+00:00'
+    id: 'urn:uuid:14ac21da-6f4a-524c-b457-b413659d9a76'
+    link: 'https://pub.dartlang.org/packages/angel_hot'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
