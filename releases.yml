@@ -99115,3 +99115,66 @@
     link: 'https://pub.dartlang.org/packages/flutter_animated'
     author:
         - 'Nano WANG'
+-
+    package_name: quick_actions
+    package_version: v0.0.1
+    title: 'v0.0.1 of quick_actions'
+    published: '2017-06-12T17:41:55+00:00'
+    id: 'urn:uuid:29e8a1e8-6910-5313-a589-7d8d13f87479'
+    link: 'https://pub.dartlang.org/packages/quick_actions'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: package_info
+    package_version: v0.0.1
+    title: 'v0.0.1 of package_info'
+    published: '2017-06-12T17:28:41+00:00'
+    id: 'urn:uuid:88ac6126-150f-5f8d-bdf8-4891578491d7'
+    link: 'https://pub.dartlang.org/packages/package_info'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: connectivity
+    package_version: v0.0.1
+    title: 'v0.0.1 of connectivity'
+    published: '2017-06-12T17:27:54+00:00'
+    id: 'urn:uuid:42d5c3cf-0e1e-57dd-b6e5-69cf65691e7b'
+    link: 'https://pub.dartlang.org/packages/connectivity'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: speech_recognition
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of speech_recognition'
+    published: '2017-06-12T15:36:46+00:00'
+    id: 'urn:uuid:e75e5e4c-a3e0-5f17-b68d-08a4d5910eeb'
+    link: 'https://pub.dartlang.org/packages/speech_recognition'
+    author:
+        - 'Erick Ghaumez <erick@rxla.bz>'
+-
+    package_name: googleapis
+    package_version: v0.40.0
+    title: 'v0.40.0 of googleapis'
+    published: '2017-06-12T15:02:10+00:00'
+    id: 'urn:uuid:46de22ba-f7da-59de-9615-cfe7e9f9c966'
+    link: 'https://pub.dartlang.org/packages/googleapis'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: googleapis_beta
+    package_version: v0.38.0
+    title: 'v0.38.0 of googleapis_beta'
+    published: '2017-06-12T15:02:01+00:00'
+    id: 'urn:uuid:abd0b700-766d-5c7c-86c8-11f9399c28f3'
+    link: 'https://pub.dartlang.org/packages/googleapis_beta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: discoveryapis_generator
+    package_version: v0.9.0
+    title: 'v0.9.0 of discoveryapis_generator'
+    published: '2017-06-12T14:38:29+00:00'
+    id: 'urn:uuid:4730ee86-dd3e-5f28-944f-834a0141f801'
+    link: 'https://pub.dartlang.org/packages/discoveryapis_generator'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
