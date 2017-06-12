@@ -99078,3 +99078,40 @@
     author:
         - 'Matan Lurey <matanl@google.com>'
         - 'Robert Felker <felker.robert@gmail.com>'
+-
+    package_name: firebase
+    package_version: v3.2.0
+    title: 'v3.2.0 of firebase'
+    published: '2017-06-12T09:42:32+00:00'
+    id: 'urn:uuid:c9f3824e-cc78-568d-a9b4-169ea8003ee9'
+    link: 'https://pub.dartlang.org/packages/firebase'
+    author:
+        - 'Jana Moudra <jana.moudra@gmail.com>'
+        - 'Kevin Moore <kevmoo@google.com>'
+-
+    package_name: pana
+    package_version: v0.2.3
+    title: 'v0.2.3 of pana'
+    published: '2017-06-12T09:34:58+00:00'
+    id: 'urn:uuid:0d0cbd22-8cb1-5187-96d3-80bc63ded1c5'
+    link: 'https://pub.dartlang.org/packages/pana'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: protoc_plugin
+    package_version: v0.7.2
+    title: 'v0.7.2 of protoc_plugin'
+    published: '2017-06-12T09:09:38+00:00'
+    id: 'urn:uuid:d2354daf-f8e6-5ed6-9524-203ea29ad350'
+    link: 'https://pub.dartlang.org/packages/protoc_plugin'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: flutter_animated
+    package_version: v0.0.1
+    title: 'v0.0.1 of flutter_animated'
+    published: '2017-06-12T08:06:54+00:00'
+    id: 'urn:uuid:a6e944a5-7da3-58ff-b52a-8181ac230450'
+    link: 'https://pub.dartlang.org/packages/flutter_animated'
+    author:
+        - 'Nano WANG'
