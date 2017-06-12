@@ -99068,3 +99068,13 @@
     author:
         - 'Matan Lurey <matanl@google.com>'
         - 'Kendal Harland <kjharland@google.com>'
+-
+    package_name: cynic
+    package_version: v0.2.0
+    title: 'v0.2.0 of cynic'
+    published: '2017-06-11T23:36:09+00:00'
+    id: 'urn:uuid:a2da2a57-e93f-5c5c-b6eb-c58424a3aeab'
+    link: 'https://pub.dartlang.org/packages/cynic'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
+        - 'Robert Felker <felker.robert@gmail.com>'
