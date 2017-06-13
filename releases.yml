@@ -99243,3 +99243,66 @@
     link: 'https://pub.dartlang.org/packages/mock_request'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: polymerize
+    package_version: v0.9.0
+    title: 'v0.9.0 of polymerize'
+    published: '2017-06-13T09:50:19+00:00'
+    id: 'urn:uuid:99fca1b5-2dc0-5977-b4d8-e9101ded7de2'
+    link: 'https://pub.dartlang.org/packages/polymerize'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: html5
+    package_version: v0.1.0+1
+    title: 'v0.1.0+1 of html5'
+    published: '2017-06-13T09:48:29+00:00'
+    id: 'urn:uuid:04dfb56e-3209-5ca8-bf01-dae1d48ad84f'
+    link: 'https://pub.dartlang.org/packages/html5'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: polymerize_common
+    package_version: v1.0.1
+    title: 'v1.0.1 of polymerize_common'
+    published: '2017-06-13T09:48:14+00:00'
+    id: 'urn:uuid:1de466da-304f-54b3-8b4a-62557f6db8aa'
+    link: 'https://pub.dartlang.org/packages/polymerize_common'
+    author:
+        - 'polymer-dart <info@polymer-dart.com>'
+-
+    package_name: polymer_element
+    package_version: v2.0.2
+    title: 'v2.0.2 of polymer_element'
+    published: '2017-06-13T09:48:14+00:00'
+    id: 'urn:uuid:112139e6-1cf5-5dc3-a691-eb89e3d79177'
+    link: 'https://pub.dartlang.org/packages/polymer_element'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: flutter_animated
+    package_version: v0.0.2
+    title: 'v0.0.2 of flutter_animated'
+    published: '2017-06-13T09:27:49+00:00'
+    id: 'urn:uuid:6df37bfd-28b4-5b90-b29b-7866ac45f184'
+    link: 'https://pub.dartlang.org/packages/flutter_animated'
+    author:
+        - 'Nano WANG'
+-
+    package_name: markdown
+    package_version: v0.11.4
+    title: 'v0.11.4 of markdown'
+    published: '2017-06-13T08:23:37+00:00'
+    id: 'urn:uuid:13370350-048f-5aa1-9397-be041d776cbd'
+    link: 'https://pub.dartlang.org/packages/markdown'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: markd
+    package_version: v0.11.3+5
+    title: 'v0.11.3+5 of markd'
+    published: '2017-06-13T07:59:41+00:00'
+    id: 'urn:uuid:55f2df40-b9c6-5742-aedd-467abce04046'
+    link: 'https://pub.dartlang.org/packages/markd'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
