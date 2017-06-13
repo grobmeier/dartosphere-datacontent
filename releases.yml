@@ -99216,3 +99216,30 @@
     link: 'https://pub.dartlang.org/packages/angel_hot'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: test
+    package_version: v0.12.22
+    title: 'v0.12.22 of test'
+    published: '2017-06-13T00:22:32+00:00'
+    id: 'urn:uuid:0ae02467-459c-5c93-b6db-afb2a5049074'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angel_shelf
+    package_version: v1.1.0
+    title: 'v1.1.0 of angel_shelf'
+    published: '2017-06-12T23:53:46+00:00'
+    id: 'urn:uuid:933faf17-9545-5480-87be-78eba561550b'
+    link: 'https://pub.dartlang.org/packages/angel_shelf'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: mock_request
+    package_version: v1.0.1
+    title: 'v1.0.1 of mock_request'
+    published: '2017-06-12T22:29:16+00:00'
+    id: 'urn:uuid:8a441d80-0330-5b9f-a3e1-86ec8cf17389'
+    link: 'https://pub.dartlang.org/packages/mock_request'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
