@@ -99306,3 +99306,26 @@
     link: 'https://pub.dartlang.org/packages/markd'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dart_dev
+    package_version: v1.7.7
+    title: 'v1.7.7 of dart_dev'
+    published: '2017-06-13T13:26:59+00:00'
+    id: 'urn:uuid:3b2170c5-9813-5b82-9ebd-6273cb3e32f8'
+    link: 'https://pub.dartlang.org/packages/dart_dev'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: wamp_client
+    package_version: v0.1.1
+    title: 'v0.1.1 of wamp_client'
+    published: '2017-06-13T10:56:37+00:00'
+    id: 'urn:uuid:f259b5fc-5755-5ad0-852e-c0151f361ea5'
+    link: 'https://pub.dartlang.org/packages/wamp_client'
+    author:
+        - 'Koga Kazuo <obiwanko@me.com>'
