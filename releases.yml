@@ -99397,3 +99397,30 @@
     link: 'https://pub.dartlang.org/packages/analysis_server_lib'
     author:
         - 'Devon Carew <devoncarew@google.com>'
+-
+    package_name: fo_components
+    package_version: v0.0.1449
+    title: 'v0.0.1449 of fo_components'
+    published: '2017-06-13T21:54:42+00:00'
+    id: 'urn:uuid:55128598-806a-54ba-8774-15630831ae1a'
+    link: 'https://pub.dartlang.org/packages/fo_components'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: jsonp
+    package_version: v2.1.0
+    title: 'v2.1.0 of jsonp'
+    published: '2017-06-13T20:18:23+00:00'
+    id: 'urn:uuid:ceb578a6-9666-50ab-a3ad-c5018e913390'
+    link: 'https://pub.dartlang.org/packages/jsonp'
+    author:
+        - 'Matthew Franglen <matthew.franglen@gmail.com>'
+-
+    package_name: mustache4dart
+    package_version: v2.0.0
+    title: 'v2.0.0 of mustache4dart'
+    published: '2017-06-13T19:23:50+00:00'
+    id: 'urn:uuid:8d061d22-85e5-50cc-98e4-e3806227fab8'
+    link: 'https://pub.dartlang.org/packages/mustache4dart'
+    author:
+        - 'Georgios Valotasios <valotas@gmail.com>'
