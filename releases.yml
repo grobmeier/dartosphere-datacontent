@@ -99460,3 +99460,35 @@
     link: 'https://pub.dartlang.org/packages/fo_components'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: woomera
+    package_version: v1.0.5
+    title: 'v1.0.5 of woomera'
+    published: '2017-06-14T04:30:18+00:00'
+    id: 'urn:uuid:5345e3fd-a8d2-5c34-a1f0-4cb4538d05d8'
+    link: 'https://pub.dartlang.org/packages/woomera'
+    author:
+        - 'Hoylen Sue <hoylen@hoylen.com>'
+-
+    package_name: fluri
+    package_version: v1.2.2
+    title: 'v1.2.2 of fluri'
+    published: '2017-06-14T04:09:27+00:00'
+    id: 'urn:uuid:4b909cc2-5837-58eb-a84b-ce14d3cd8380'
+    link: 'https://pub.dartlang.org/packages/fluri'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <evan.weible@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: angel_hot
+    package_version: v1.0.1
+    title: 'v1.0.1 of angel_hot'
+    published: '2017-06-14T03:35:16+00:00'
+    id: 'urn:uuid:354a0f1f-68b6-5f13-b861-704af2977e9c'
+    link: 'https://pub.dartlang.org/packages/angel_hot'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
