@@ -99519,3 +99519,21 @@
     link: 'https://pub.dartlang.org/packages/html5'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: polymer_element
+    package_version: v2.0.3
+    title: 'v2.0.3 of polymer_element'
+    published: '2017-06-14T16:58:18+00:00'
+    id: 'urn:uuid:b1753e24-1282-51a0-b508-170d1748a925'
+    link: 'https://pub.dartlang.org/packages/polymer_element'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: html5
+    package_version: v0.1.3
+    title: 'v0.1.3 of html5'
+    published: '2017-06-14T16:12:53+00:00'
+    id: 'urn:uuid:6841b7bc-62dd-57bd-8214-6f7b7321c56d'
+    link: 'https://pub.dartlang.org/packages/html5'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
