@@ -99537,3 +99537,21 @@
     link: 'https://pub.dartlang.org/packages/html5'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: scheduled_test
+    package_version: v0.12.11+1
+    title: 'v0.12.11+1 of scheduled_test'
+    published: '2017-06-14T21:18:30+00:00'
+    id: 'urn:uuid:ddedec16-fbd3-5ad9-b400-7b009e6343cb'
+    link: 'https://pub.dartlang.org/packages/scheduled_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angel_configuration
+    package_version: v1.0.4
+    title: 'v1.0.4 of angel_configuration'
+    published: '2017-06-14T18:48:36+00:00'
+    id: 'urn:uuid:a2fbd530-88c6-5875-a36d-eb4786b90a5e'
+    link: 'https://pub.dartlang.org/packages/angel_configuration'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
