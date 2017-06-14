@@ -99492,3 +99492,21 @@
     link: 'https://pub.dartlang.org/packages/angel_hot'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: flutter_animated
+    package_version: v0.0.3
+    title: 'v0.0.3 of flutter_animated'
+    published: '2017-06-14T09:58:08+00:00'
+    id: 'urn:uuid:d71d180c-6a0b-5e7a-91a4-4c67fcd06c00'
+    link: 'https://pub.dartlang.org/packages/flutter_animated'
+    author:
+        - 'Nano WANG'
+-
+    package_name: angel_static
+    package_version: v1.1.4+2
+    title: 'v1.1.4+2 of angel_static'
+    published: '2017-06-14T09:37:50+00:00'
+    id: 'urn:uuid:c376f603-d37c-5bcf-8a72-c47aedb247a4'
+    link: 'https://pub.dartlang.org/packages/angel_static'
+    author:
+        - 'thosakwe <thosakwe@gmail.com>'
