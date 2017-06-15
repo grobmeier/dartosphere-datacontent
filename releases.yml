@@ -99555,3 +99555,39 @@
     link: 'https://pub.dartlang.org/packages/angel_configuration'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: drails_validator
+    package_version: v0.2.0
+    title: 'v0.2.0 of drails_validator'
+    published: '2017-06-15T01:15:22+00:00'
+    id: 'urn:uuid:60584e72-2871-5d60-b629-733f6edc9425'
+    link: 'https://pub.dartlang.org/packages/drails_validator'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: angel_cli
+    package_version: v1.1.2
+    title: 'v1.1.2 of angel_cli'
+    published: '2017-06-15T01:15:05+00:00'
+    id: 'urn:uuid:e63607b4-4dee-509a-b753-d17bfd2d57d9'
+    link: 'https://pub.dartlang.org/packages/angel_cli'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: args
+    package_version: v1.0.0
+    title: 'v1.0.0 of args'
+    published: '2017-06-14T22:26:41+00:00'
+    id: 'urn:uuid:70c5dae4-47e6-530d-bd09-4ef8fe8f8dde'
+    link: 'https://pub.dartlang.org/packages/args'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: flutter_plugin_tools
+    package_version: v0.0.4
+    title: 'v0.0.4 of flutter_plugin_tools'
+    published: '2017-06-14T22:04:59+00:00'
+    id: 'urn:uuid:3a36cd5b-2e0b-5b8e-af67-3fb4f9bd0c1c'
+    link: 'https://pub.dartlang.org/packages/flutter_plugin_tools'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
