@@ -99600,3 +99600,12 @@
     link: 'https://pub.dartlang.org/packages/service_worker'
     author:
         - 'Istvan Soos <istvan.soos@gmail.com>'
+-
+    package_name: sensors
+    package_version: v0.1.0
+    title: 'v0.1.0 of sensors'
+    published: '2017-06-15T12:31:20+00:00'
+    id: 'urn:uuid:425b2041-0303-5b6e-864f-e9e6efa99534'
+    link: 'https://pub.dartlang.org/packages/sensors'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
