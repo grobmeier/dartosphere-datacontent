@@ -99591,3 +99591,12 @@
     link: 'https://pub.dartlang.org/packages/flutter_plugin_tools'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: service_worker
+    package_version: v0.0.15
+    title: 'v0.0.15 of service_worker'
+    published: '2017-06-15T09:13:10+00:00'
+    id: 'urn:uuid:a3c24ed4-a81d-525d-9c03-0bcb1d6b8bf0'
+    link: 'https://pub.dartlang.org/packages/service_worker'
+    author:
+        - 'Istvan Soos <istvan.soos@gmail.com>'
