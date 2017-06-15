@@ -99609,3 +99609,27 @@
     link: 'https://pub.dartlang.org/packages/sensors'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: over_react
+    package_version: v1.11.0
+    title: 'v1.11.0 of over_react'
+    published: '2017-06-15T16:48:56+00:00'
+    id: 'urn:uuid:fbbe8ea5-e121-5e99-b86a-96a3946825d1'
+    link: 'https://pub.dartlang.org/packages/over_react'
+    author:
+        - 'Workiva UI Platform Team <uip@workiva.com>'
+-
+    package_name: dart_to_js_script_rewriter
+    package_version: v1.0.3
+    title: 'v1.0.3 of dart_to_js_script_rewriter'
+    published: '2017-06-15T16:45:53+00:00'
+    id: 'urn:uuid:ecea77b9-f781-5bf7-8515-e4f335c39a8c'
+    link: 'https://pub.dartlang.org/packages/dart_to_js_script_rewriter'
+    author:
+        - 'Seth Ladd <sethladd@gmail.com>'
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
