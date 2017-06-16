@@ -99750,3 +99750,73 @@
     link: 'https://pub.dartlang.org/packages/firebase_auth'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: decimal
+    package_version: v0.1.4
+    title: 'v0.1.4 of decimal'
+    published: '2017-06-16T21:29:25+00:00'
+    id: 'urn:uuid:8f7a40bc-cc6a-52f4-9135-942efc877cdf'
+    link: 'https://pub.dartlang.org/packages/decimal'
+    author:
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+-
+    package_name: rational
+    package_version: v0.1.11
+    title: 'v0.1.11 of rational'
+    published: '2017-06-16T20:18:49+00:00'
+    id: 'urn:uuid:513def08-3992-58ce-bd0a-f9c784aed49d'
+    link: 'https://pub.dartlang.org/packages/rational'
+    author:
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+-
+    package_name: firebase_database
+    package_version: v0.0.7
+    title: 'v0.0.7 of firebase_database'
+    published: '2017-06-16T20:16:14+00:00'
+    id: 'urn:uuid:c2ccc5f1-00b9-53ff-9a31-3737c26840a8'
+    link: 'https://pub.dartlang.org/packages/firebase_database'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: vm_service_lib
+    package_version: v0.3.3
+    title: 'v0.3.3 of vm_service_lib'
+    published: '2017-06-16T19:20:29+00:00'
+    id: 'urn:uuid:b2388417-4ede-54e7-82c0-6ed69e266fb7'
+    link: 'https://pub.dartlang.org/packages/vm_service_lib'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: webkit_inspection_protocol
+    package_version: v0.3.1
+    title: 'v0.3.1 of webkit_inspection_protocol'
+    published: '2017-06-16T19:19:13+00:00'
+    id: 'urn:uuid:b1a6baef-9c97-5456-b28c-cf95be1f780e'
+    link: 'https://pub.dartlang.org/packages/webkit_inspection_protocol'
+    author:
+        - 'Devon Carew <devoncarew@google.com>'
+        - 'Marc Fisher <fisherii@google.com>'
+-
+    package_name: ng_bootstrap
+    package_version: v0.6.5
+    title: 'v0.6.5 of ng_bootstrap'
+    published: '2017-06-16T19:00:17+00:00'
+    id: 'urn:uuid:c5ecc252-faae-5f7a-93f1-cf27ec1048c5'
+    link: 'https://pub.dartlang.org/packages/ng_bootstrap'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+        - 'Adao Jr. <itsjunnior@gmail.com>'
+-
+    package_name: w_flux
+    package_version: v2.7.2
+    title: 'v2.7.2 of w_flux'
+    published: '2017-06-16T18:07:14+00:00'
+    id: 'urn:uuid:091eb2ee-899d-56be-95e0-1c18cd3ef5dc'
+    link: 'https://pub.dartlang.org/packages/w_flux'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
