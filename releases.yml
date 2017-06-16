@@ -99705,3 +99705,21 @@
     link: 'https://pub.dartlang.org/packages/timeago'
     author:
         - 'Andres Araujo <a.araujo.azua@gmail.com>'
+-
+    package_name: angel_static
+    package_version: v1.2.2+4
+    title: 'v1.2.2+4 of angel_static'
+    published: '2017-06-16T03:31:00+00:00'
+    id: 'urn:uuid:9dc6fd5b-4cf9-5d5c-97a5-f5aa3ee1cb67'
+    link: 'https://pub.dartlang.org/packages/angel_static'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_cli
+    package_version: v1.1.4
+    title: 'v1.1.4 of angel_cli'
+    published: '2017-06-16T02:57:44+00:00'
+    id: 'urn:uuid:217dfbfd-8227-56bd-8891-49155f7d9d9a'
+    link: 'https://pub.dartlang.org/packages/angel_cli'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
