@@ -99687,3 +99687,21 @@
     link: 'https://pub.dartlang.org/packages/angel_range'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: intl
+    package_version: v0.15.1
+    title: 'v0.15.1 of intl'
+    published: '2017-06-15T23:41:27+00:00'
+    id: 'urn:uuid:688e57d8-391d-5ff2-92c5-2bf8254f2ff8'
+    link: 'https://pub.dartlang.org/packages/intl'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: timeago
+    package_version: v1.0.2
+    title: 'v1.0.2 of timeago'
+    published: '2017-06-15T22:16:22+00:00'
+    id: 'urn:uuid:e4250412-2961-5648-92be-27b67a94834a'
+    link: 'https://pub.dartlang.org/packages/timeago'
+    author:
+        - 'Andres Araujo <a.araujo.azua@gmail.com>'
