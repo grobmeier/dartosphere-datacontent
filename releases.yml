@@ -99723,3 +99723,30 @@
     link: 'https://pub.dartlang.org/packages/angel_cli'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: image_picker
+    package_version: v0.0.3
+    title: 'v0.0.3 of image_picker'
+    published: '2017-06-16T17:24:51+00:00'
+    id: 'urn:uuid:e7bc661b-21fa-549d-8500-7e2888ff5904'
+    link: 'https://pub.dartlang.org/packages/image_picker'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: code_builder
+    package_version: v1.0.4
+    title: 'v1.0.4 of code_builder'
+    published: '2017-06-16T15:48:34+00:00'
+    id: 'urn:uuid:2537df45-3eb6-5615-b73d-42a7a16e716f'
+    link: 'https://pub.dartlang.org/packages/code_builder'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: firebase_auth
+    package_version: v0.0.4
+    title: 'v0.0.4 of firebase_auth'
+    published: '2017-06-16T14:36:16+00:00'
+    id: 'urn:uuid:6438ad67-8907-50a7-a164-f8d0b11e50cd'
+    link: 'https://pub.dartlang.org/packages/firebase_auth'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
