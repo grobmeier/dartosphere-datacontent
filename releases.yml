@@ -99875,3 +99875,52 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_data_store
+    package_version: v0.0.13
+    title: 'v0.0.13 of jaguar_data_store'
+    published: '2017-06-17T21:35:28+00:00'
+    id: 'urn:uuid:7298071e-4308-5670-99f7-a124ad96f09b'
+    link: 'https://pub.dartlang.org/packages/jaguar_data_store'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_session_mongo
+    package_version: v0.0.1
+    title: 'v0.0.1 of jaguar_session_mongo'
+    published: '2017-06-17T21:01:47+00:00'
+    id: 'urn:uuid:97310d4f-fda9-5d52-acfd-5a1354276031'
+    link: 'https://pub.dartlang.org/packages/jaguar_session_mongo'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_session
+    package_version: v0.6.1
+    title: 'v0.6.1 of jaguar_session'
+    published: '2017-06-17T19:16:17+00:00'
+    id: 'urn:uuid:4b230fd3-98e3-5337-b2c1-7260de2ddcb8'
+    link: 'https://pub.dartlang.org/packages/jaguar_session'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_auth
+    package_version: v0.7.0
+    title: 'v0.7.0 of jaguar_auth'
+    published: '2017-06-17T19:11:58+00:00'
+    id: 'urn:uuid:1b46bafd-bc55-5a57-b75f-8d7b0fa4581f'
+    link: 'https://pub.dartlang.org/packages/jaguar_auth'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: intl_helper
+    package_version: v0.1.1
+    title: 'v0.1.1 of intl_helper'
+    published: '2017-06-17T19:07:29+00:00'
+    id: 'urn:uuid:a4b74a13-005f-530c-979f-df207d72cd50'
+    link: 'https://pub.dartlang.org/packages/intl_helper'
+    author:
+        - 'HEFE <hefe.mk@gmail.com>'
