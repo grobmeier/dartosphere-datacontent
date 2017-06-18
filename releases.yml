@@ -99924,3 +99924,13 @@
     link: 'https://pub.dartlang.org/packages/intl_helper'
     author:
         - 'HEFE <hefe.mk@gmail.com>'
+-
+    package_name: jaguar_mongo_data_store
+    package_version: v0.2.2
+    title: 'v0.2.2 of jaguar_mongo_data_store'
+    published: '2017-06-17T23:17:11+00:00'
+    id: 'urn:uuid:4b8950d3-ec62-5978-9f42-368f88924ab4'
+    link: 'https://pub.dartlang.org/packages/jaguar_mongo_data_store'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
