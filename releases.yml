@@ -99934,3 +99934,30 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: emoticons
+    package_version: v0.1.2
+    title: 'v0.1.2 of emoticons'
+    published: '2017-06-18T05:04:48+00:00'
+    id: 'urn:uuid:be88756a-0810-5308-a7eb-a7e72e433c1c'
+    link: 'https://pub.dartlang.org/packages/emoticons'
+    author:
+        - 'Muhammed Ali Sit <sitmuhammedali@gmail.com>'
+-
+    package_name: node_interop
+    package_version: v0.0.1+2
+    title: 'v0.0.1+2 of node_interop'
+    published: '2017-06-18T04:11:11+00:00'
+    id: 'urn:uuid:b021e558-ddf4-5b73-9016-c25dddf1344f'
+    link: 'https://pub.dartlang.org/packages/node_interop'
+    author:
+        - 'Anatoly Pulyaevskiy <anatoly.pulyaevskiy@gmail.com>'
+-
+    package_name: firebase_functions_interop
+    package_version: v0.0.1
+    title: 'v0.0.1 of firebase_functions_interop'
+    published: '2017-06-18T03:25:13+00:00'
+    id: 'urn:uuid:3cab52ce-247d-5f20-a150-78174041ed4a'
+    link: 'https://pub.dartlang.org/packages/firebase_functions_interop'
+    author:
+        - 'Anatoly Pulyaevskiy <anatoly.pulyaevskiy@gmail.com>'
