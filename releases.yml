@@ -99961,3 +99961,70 @@
     link: 'https://pub.dartlang.org/packages/firebase_functions_interop'
     author:
         - 'Anatoly Pulyaevskiy <anatoly.pulyaevskiy@gmail.com>'
+-
+    package_name: jaguar
+    package_version: v0.5.8
+    title: 'v0.5.8 of jaguar'
+    published: '2017-06-18T13:20:33+00:00'
+    id: 'urn:uuid:90b5dd93-6f32-5218-83b4-83b762a559e1'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: polymerize
+    package_version: v0.9.1
+    title: 'v0.9.1 of polymerize'
+    published: '2017-06-18T12:59:15+00:00'
+    id: 'urn:uuid:846228f5-f4ca-5934-b4e1-4913cb18ad89'
+    link: 'https://pub.dartlang.org/packages/polymerize'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: html5
+    package_version: v0.1.4
+    title: 'v0.1.4 of html5'
+    published: '2017-06-18T12:52:23+00:00'
+    id: 'urn:uuid:ef43d7b4-45eb-5b2c-9737-67bd4ce5b03f'
+    link: 'https://pub.dartlang.org/packages/html5'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: polymer_element
+    package_version: v2.0.4
+    title: 'v2.0.4 of polymer_element'
+    published: '2017-06-18T12:49:40+00:00'
+    id: 'urn:uuid:a67ae492-e8b2-5348-becc-f979466c8511'
+    link: 'https://pub.dartlang.org/packages/polymer_element'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: jaguar_session
+    package_version: v0.7.1
+    title: 'v0.7.1 of jaguar_session'
+    published: '2017-06-18T12:16:34+00:00'
+    id: 'urn:uuid:98639017-c100-573a-b8ef-9164594781b9'
+    link: 'https://pub.dartlang.org/packages/jaguar_session'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_auth
+    package_version: v0.8.0
+    title: 'v0.8.0 of jaguar_auth'
+    published: '2017-06-18T11:38:29+00:00'
+    id: 'urn:uuid:ded52867-6779-54f5-81cd-a72a9ed1a6a9'
+    link: 'https://pub.dartlang.org/packages/jaguar_auth'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_jwt
+    package_version: v0.2.0
+    title: 'v0.2.0 of jaguar_jwt'
+    published: '2017-06-18T11:26:31+00:00'
+    id: 'urn:uuid:20c7a6b9-d4f3-5c9c-8ca9-389bc90aba0d'
+    link: 'https://pub.dartlang.org/packages/jaguar_jwt'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
