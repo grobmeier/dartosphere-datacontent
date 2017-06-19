@@ -100064,3 +100064,21 @@
     link: 'https://pub.dartlang.org/packages/toml'
     author:
         - 'Justin Andresen <jan.dresen.95@gmail.com>'
+-
+    package_name: angular_quill
+    package_version: v0.0.5
+    title: 'v0.0.5 of angular_quill'
+    published: '2017-06-19T15:40:46+00:00'
+    id: 'urn:uuid:92322e5e-3e7d-53b2-b9fe-76043f3283f8'
+    link: 'https://pub.dartlang.org/packages/angular_quill'
+    author:
+        - 'Adam Lofts <adam.lofts@gmail.com>'
+-
+    package_name: vm_service_lib
+    package_version: v0.3.4
+    title: 'v0.3.4 of vm_service_lib'
+    published: '2017-06-19T14:12:31+00:00'
+    id: 'urn:uuid:549ab25a-d447-534d-98ce-79d7a84a0c22'
+    link: 'https://pub.dartlang.org/packages/vm_service_lib'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
