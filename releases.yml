@@ -100055,3 +100055,12 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: toml
+    package_version: v0.5.1
+    title: 'v0.5.1 of toml'
+    published: '2017-06-19T09:16:08+00:00'
+    id: 'urn:uuid:98459c0e-153c-5037-94f7-2a6b8b09bf27'
+    link: 'https://pub.dartlang.org/packages/toml'
+    author:
+        - 'Justin Andresen <jan.dresen.95@gmail.com>'
