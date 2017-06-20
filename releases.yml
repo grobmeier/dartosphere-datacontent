@@ -100175,3 +100175,93 @@
     link: 'https://pub.dartlang.org/packages/angel_shelf'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: google_maps
+    package_version: v3.2.1
+    title: 'v3.2.1 of google_maps'
+    published: '2017-06-20T21:19:47+00:00'
+    id: 'urn:uuid:00edb451-a1fb-5fa2-ab2d-0e558f873b4c'
+    link: 'https://pub.dartlang.org/packages/google_maps'
+    author:
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+-
+    package_name: js_wrapping_generator
+    package_version: v0.4.0
+    title: 'v0.4.0 of js_wrapping_generator'
+    published: '2017-06-20T21:17:42+00:00'
+    id: 'urn:uuid:98a2b1ad-41a7-53e9-b763-97bf31378c6e'
+    link: 'https://pub.dartlang.org/packages/js_wrapping_generator'
+    author:
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+-
+    package_name: js_wrapping
+    package_version: v0.4.0
+    title: 'v0.4.0 of js_wrapping'
+    published: '2017-06-20T21:13:47+00:00'
+    id: 'urn:uuid:aaa33824-0a6c-5503-bc54-4c489e6b12ac'
+    link: 'https://pub.dartlang.org/packages/js_wrapping'
+    author:
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+-
+    package_name: dartdoc
+    package_version: v0.13.0+1
+    title: 'v0.13.0+1 of dartdoc'
+    published: '2017-06-20T20:48:04+00:00'
+    id: 'urn:uuid:ec49163d-a0ce-563f-ae24-e497fa56754d'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: firebase_database
+    package_version: v0.0.9
+    title: 'v0.0.9 of firebase_database'
+    published: '2017-06-20T20:16:18+00:00'
+    id: 'urn:uuid:90b0a031-e1a4-528c-9c44-a7747ad6abfb'
+    link: 'https://pub.dartlang.org/packages/firebase_database'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: image_picker
+    package_version: v0.1.0
+    title: 'v0.1.0 of image_picker'
+    published: '2017-06-20T20:15:27+00:00'
+    id: 'urn:uuid:28bf3347-60fb-5bfa-9059-9da87e861ab4'
+    link: 'https://pub.dartlang.org/packages/image_picker'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: google_sign_in
+    package_version: v0.2.0
+    title: 'v0.2.0 of google_sign_in'
+    published: '2017-06-20T20:15:03+00:00'
+    id: 'urn:uuid:f68c078c-3eb9-52a4-83eb-03e1ced5aae7'
+    link: 'https://pub.dartlang.org/packages/google_sign_in'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: firebase_storage
+    package_version: v0.0.4
+    title: 'v0.0.4 of firebase_storage'
+    published: '2017-06-20T20:14:45+00:00'
+    id: 'urn:uuid:02bb8a7d-f5fe-554c-a937-f39c357d7c32'
+    link: 'https://pub.dartlang.org/packages/firebase_storage'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: firebase_messaging
+    package_version: v0.0.4
+    title: 'v0.0.4 of firebase_messaging'
+    published: '2017-06-20T20:14:26+00:00'
+    id: 'urn:uuid:454656a8-b290-5e5c-bf79-730565452730'
+    link: 'https://pub.dartlang.org/packages/firebase_messaging'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: firebase_auth
+    package_version: v0.1.0
+    title: 'v0.1.0 of firebase_auth'
+    published: '2017-06-20T20:13:29+00:00'
+    id: 'urn:uuid:65fbe0b0-9ac3-50aa-8b82-42e55c7f94ff'
+    link: 'https://pub.dartlang.org/packages/firebase_auth'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
