@@ -100148,3 +100148,30 @@
     author:
         - 'David Morgan <davidmorgan@google.com>'
         - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: firebase_database
+    package_version: v0.0.8
+    title: 'v0.0.8 of firebase_database'
+    published: '2017-06-20T16:50:42+00:00'
+    id: 'urn:uuid:3aa1bcb0-ef6d-5295-972f-0f760a05cb79'
+    link: 'https://pub.dartlang.org/packages/firebase_database'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.5
+    title: 'v1.0.5 of angel_framework'
+    published: '2017-06-20T16:48:22+00:00'
+    id: 'urn:uuid:6d4bcaac-aaac-5d85-90e2-a64d4955335e'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_shelf
+    package_version: v1.1.1
+    title: 'v1.1.1 of angel_shelf'
+    published: '2017-06-20T16:23:42+00:00'
+    id: 'urn:uuid:d070b059-a367-5e53-b2d9-cecf42b84616'
+    link: 'https://pub.dartlang.org/packages/angel_shelf'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
