@@ -100102,3 +100102,12 @@
     link: 'https://pub.dartlang.org/packages/usage'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: transform_sass
+    package_version: v0.2.4
+    title: 'v0.2.4 of transform_sass'
+    published: '2017-06-20T04:57:41+00:00'
+    id: 'urn:uuid:452be348-fd2b-57ca-8bb4-ac5c59d2fb87'
+    link: 'https://pub.dartlang.org/packages/transform_sass'
+    author:
+        - 'Jeromy Streets <halverneus@gmail.com>'
