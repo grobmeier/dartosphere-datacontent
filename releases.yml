@@ -100111,3 +100111,30 @@
     link: 'https://pub.dartlang.org/packages/transform_sass'
     author:
         - 'Jeromy Streets <halverneus@gmail.com>'
+-
+    package_name: idb_shim
+    package_version: v1.3.7
+    title: 'v1.3.7 of idb_shim'
+    published: '2017-06-20T08:27:44+00:00'
+    id: 'urn:uuid:7d67413e-4ef7-5a2d-9314-af2865dfaeb5'
+    link: 'https://pub.dartlang.org/packages/idb_shim'
+    author:
+        - 'Alexandre Roux Tekartik <alex.tekartik.pub@gmail.com>'
+-
+    package_name: sembast
+    package_version: v1.3.9
+    title: 'v1.3.9 of sembast'
+    published: '2017-06-20T08:17:29+00:00'
+    id: 'urn:uuid:f74fc9cc-4a30-5302-acee-ae5afff0ebcd'
+    link: 'https://pub.dartlang.org/packages/sembast'
+    author:
+        - 'Alexandre Roux Tekartik <alex.tekartik.pub@gmail.com>'
+-
+    package_name: flutter_animated
+    package_version: v0.0.4
+    title: 'v0.0.4 of flutter_animated'
+    published: '2017-06-20T07:43:37+00:00'
+    id: 'urn:uuid:a549b580-3720-545c-84c6-bcbc38736f5c'
+    link: 'https://pub.dartlang.org/packages/flutter_animated'
+    author:
+        - 'Nano WANG'
