@@ -100302,3 +100302,21 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: mustache4dart
+    package_version: v2.1.0
+    title: 'v2.1.0 of mustache4dart'
+    published: '2017-06-21T20:42:44+00:00'
+    id: 'urn:uuid:01b5ffd3-6701-5501-be6a-dbdc4cb4d095'
+    link: 'https://pub.dartlang.org/packages/mustache4dart'
+    author:
+        - 'Georgios Valotasios <valotas@gmail.com>'
+-
+    package_name: euclid
+    package_version: v0.0.1
+    title: 'v0.0.1 of euclid'
+    published: '2017-06-21T19:35:54+00:00'
+    id: 'urn:uuid:c35bfce1-b57e-52d7-8405-37097370ea2e'
+    link: 'https://pub.dartlang.org/packages/euclid'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
