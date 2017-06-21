@@ -100265,3 +100265,21 @@
     link: 'https://pub.dartlang.org/packages/firebase_auth'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: sentry
+    package_version: v0.0.1
+    title: 'v0.0.1 of sentry'
+    published: '2017-06-21T01:35:02+00:00'
+    id: 'urn:uuid:d80099aa-620a-5833-917e-7f656c0a2154'
+    link: 'https://pub.dartlang.org/packages/sentry'
+    author:
+        - 'Yegor Jbanov <yjbanov@google.com>'
+-
+    package_name: angel_serialize
+    package_version: v1.0.0-alpha
+    title: 'v1.0.0-alpha of angel_serialize'
+    published: '2017-06-20T22:14:59+00:00'
+    id: 'urn:uuid:ded9b893-dacc-5e61-afab-3eea25689794'
+    link: 'https://pub.dartlang.org/packages/angel_serialize'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
