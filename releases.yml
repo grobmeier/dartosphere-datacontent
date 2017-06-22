@@ -100320,3 +100320,12 @@
     link: 'https://pub.dartlang.org/packages/euclid'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: sentry
+    package_version: v0.0.2
+    title: 'v0.0.2 of sentry'
+    published: '2017-06-21T22:28:18+00:00'
+    id: 'urn:uuid:495e9212-6483-53c1-923d-1d98eb3014ba'
+    link: 'https://pub.dartlang.org/packages/sentry'
+    author:
+        - 'Yegor Jbanov <yjbanov@google.com>'
