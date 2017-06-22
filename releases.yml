@@ -100356,3 +100356,30 @@
     link: 'https://pub.dartlang.org/packages/polymerize'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: dartisan
+    package_version: v0.0.0
+    title: 'v0.0.0 of dartisan'
+    published: '2017-06-22T21:39:28+00:00'
+    id: 'urn:uuid:f3cc137c-b77b-53a8-838e-3829c5d578e8'
+    link: 'https://pub.dartlang.org/packages/dartisan'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: firebase_database
+    package_version: v0.0.11
+    title: 'v0.0.11 of firebase_database'
+    published: '2017-06-22T21:14:49+00:00'
+    id: 'urn:uuid:0487aa95-dbde-550e-85eb-4949d2634d7a'
+    link: 'https://pub.dartlang.org/packages/firebase_database'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: vm_service_lib
+    package_version: v0.3.5
+    title: 'v0.3.5 of vm_service_lib'
+    published: '2017-06-22T20:09:13+00:00'
+    id: 'urn:uuid:2470efcb-9aa1-56d7-af03-f318eabcf8cc'
+    link: 'https://pub.dartlang.org/packages/vm_service_lib'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
