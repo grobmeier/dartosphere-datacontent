@@ -100329,3 +100329,30 @@
     link: 'https://pub.dartlang.org/packages/sentry'
     author:
         - 'Yegor Jbanov <yjbanov@google.com>'
+-
+    package_name: firebase_database
+    package_version: v0.0.10
+    title: 'v0.0.10 of firebase_database'
+    published: '2017-06-22T17:57:34+00:00'
+    id: 'urn:uuid:89f0f365-a8c8-522f-88a9-f0d3bf425238'
+    link: 'https://pub.dartlang.org/packages/firebase_database'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: google_sign_in
+    package_version: v0.2.1
+    title: 'v0.2.1 of google_sign_in'
+    published: '2017-06-22T17:11:30+00:00'
+    id: 'urn:uuid:ee236f24-82a3-5b42-bddc-3130f45c7a4e'
+    link: 'https://pub.dartlang.org/packages/google_sign_in'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: polymerize
+    package_version: v0.9.2
+    title: 'v0.9.2 of polymerize'
+    published: '2017-06-22T15:03:26+00:00'
+    id: 'urn:uuid:0fe9296d-d5fb-553b-b204-935c95bb2972'
+    link: 'https://pub.dartlang.org/packages/polymerize'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
