@@ -100428,3 +100428,21 @@
     link: 'https://pub.dartlang.org/packages/polymerize_common'
     author:
         - 'polymer-dart <info@polymer-dart.com>'
+-
+    package_name: test
+    package_version: v0.12.23
+    title: 'v0.12.23 of test'
+    published: '2017-06-23T17:34:27+00:00'
+    id: 'urn:uuid:8054e04a-4ca9-5859-90f7-8c576d914cb6'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: source_gen
+    package_version: v0.5.9
+    title: 'v0.5.9 of source_gen'
+    published: '2017-06-23T16:23:50+00:00'
+    id: 'urn:uuid:71d14a04-3b49-50cb-9bd3-5740b1a0e01a'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
