@@ -100383,3 +100383,21 @@
     link: 'https://pub.dartlang.org/packages/vm_service_lib'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: shelf
+    package_version: v0.6.8
+    title: 'v0.6.8 of shelf'
+    published: '2017-06-23T00:27:45+00:00'
+    id: 'urn:uuid:a43bee03-c755-5fc2-8ed2-747cbfb07c70'
+    link: 'https://pub.dartlang.org/packages/shelf'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: sentry
+    package_version: v0.0.3
+    title: 'v0.0.3 of sentry'
+    published: '2017-06-23T00:00:09+00:00'
+    id: 'urn:uuid:b08e3984-1b38-556e-97cc-a178f6db9914'
+    link: 'https://pub.dartlang.org/packages/sentry'
+    author:
+        - 'Yegor Jbanov <yjbanov@google.com>'
