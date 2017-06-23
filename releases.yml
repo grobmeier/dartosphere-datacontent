@@ -100410,3 +100410,21 @@
     link: 'https://pub.dartlang.org/packages/bazel_ipc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: polymerize
+    package_version: v0.9.3
+    title: 'v0.9.3 of polymerize'
+    published: '2017-06-23T08:18:18+00:00'
+    id: 'urn:uuid:1f5b6d41-6f34-559b-ad65-e77806441d79'
+    link: 'https://pub.dartlang.org/packages/polymerize'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: polymerize_common
+    package_version: v1.0.2
+    title: 'v1.0.2 of polymerize_common'
+    published: '2017-06-23T08:13:12+00:00'
+    id: 'urn:uuid:23566725-03f7-5051-9030-2a85e738312a'
+    link: 'https://pub.dartlang.org/packages/polymerize_common'
+    author:
+        - 'polymer-dart <info@polymer-dart.com>'
