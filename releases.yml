@@ -100464,3 +100464,12 @@
     link: 'https://pub.dartlang.org/packages/react'
     author:
         - 'Clean Team <clean@vacuumlabs.com>'
+-
+    package_name: font_awesome_flutter
+    package_version: v4.7.2
+    title: 'v4.7.2 of font_awesome_flutter'
+    published: '2017-06-23T22:28:54+00:00'
+    id: 'urn:uuid:4793e0ac-0bb2-5354-9a3e-3733fb1dfc59'
+    link: 'https://pub.dartlang.org/packages/font_awesome_flutter'
+    author:
+        - 'Brian Egan <brian@brianegan.com>'
