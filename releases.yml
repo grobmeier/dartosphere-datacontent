@@ -100483,3 +100483,12 @@
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
         - 'Toufik Zitouni <toufiksapps@gmail.com>'
+-
+    package_name: minibus
+    package_version: v0.0.1
+    title: 'v0.0.1 of minibus'
+    published: '2017-06-24T13:14:33+00:00'
+    id: 'urn:uuid:c353bfea-631e-55a9-8716-01332f8f8847'
+    link: 'https://pub.dartlang.org/packages/minibus'
+    author:
+        - 'Davy Mitchell <daftspaniel@gmail.com>'
