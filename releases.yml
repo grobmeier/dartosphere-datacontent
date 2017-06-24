@@ -100492,3 +100492,21 @@
     link: 'https://pub.dartlang.org/packages/minibus'
     author:
         - 'Davy Mitchell <daftspaniel@gmail.com>'
+-
+    package_name: open_iconic_flutter
+    package_version: v0.1.0
+    title: 'v0.1.0 of open_iconic_flutter'
+    published: '2017-06-24T16:23:50+00:00'
+    id: 'urn:uuid:3df24f4f-9e92-5955-9418-f335e9c670a9'
+    link: 'https://pub.dartlang.org/packages/open_iconic_flutter'
+    author:
+        - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: stagexl_spine
+    package_version: v0.9.0
+    title: 'v0.9.0 of stagexl_spine'
+    published: '2017-06-24T15:21:37+00:00'
+    id: 'urn:uuid:8dee6170-041a-5501-b9c1-a434722c42b4'
+    link: 'https://pub.dartlang.org/packages/stagexl_spine'
+    author:
+        - 'Bernhard Pichler <support@stagexl.org>'
