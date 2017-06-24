@@ -100473,3 +100473,13 @@
     link: 'https://pub.dartlang.org/packages/font_awesome_flutter'
     author:
         - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: flutter_webview_plugin
+    package_version: v0.0.5
+    title: 'v0.0.5 of flutter_webview_plugin'
+    published: '2017-06-24T09:24:48+00:00'
+    id: 'urn:uuid:76b5930b-3c22-5e65-926e-aae06eb3c6ba'
+    link: 'https://pub.dartlang.org/packages/flutter_webview_plugin'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+        - 'Toufik Zitouni <toufiksapps@gmail.com>'
