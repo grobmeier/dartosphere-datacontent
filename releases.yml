@@ -100519,3 +100519,22 @@
     link: 'https://pub.dartlang.org/packages/stagexl_spine'
     author:
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: twitch
+    package_version: v0.3.2
+    title: 'v0.3.2 of twitch'
+    published: '2017-06-25T16:12:19+00:00'
+    id: 'urn:uuid:112b89bc-e4dc-500d-bfe7-2ff1d967d8c2'
+    link: 'https://pub.dartlang.org/packages/twitch'
+    author:
+        - 'Brian Egan <brian@brianegan.com>'
+        - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: process_run
+    package_version: v0.5.1
+    title: 'v0.5.1 of process_run'
+    published: '2017-06-25T14:00:04+00:00'
+    id: 'urn:uuid:010bcff6-6f51-5455-b64c-6dce1e061ffa'
+    link: 'https://pub.dartlang.org/packages/process_run'
+    author:
+        - 'Tekartik <dev@tekartik.com>'
