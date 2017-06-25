@@ -100510,3 +100510,12 @@
     link: 'https://pub.dartlang.org/packages/stagexl_spine'
     author:
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: stagexl_spine
+    package_version: v0.9.0+1
+    title: 'v0.9.0+1 of stagexl_spine'
+    published: '2017-06-25T08:03:48+00:00'
+    id: 'urn:uuid:d13d14f9-b050-5f0d-bf26-698a0e992697'
+    link: 'https://pub.dartlang.org/packages/stagexl_spine'
+    author:
+        - 'Bernhard Pichler <support@stagexl.org>'
