@@ -100538,3 +100538,22 @@
     link: 'https://pub.dartlang.org/packages/process_run'
     author:
         - 'Tekartik <dev@tekartik.com>'
+-
+    package_name: rxdart
+    package_version: v0.13.0
+    title: 'v0.13.0 of rxdart'
+    published: '2017-06-25T19:49:42+00:00'
+    id: 'urn:uuid:ef73561c-c489-5304-ab7a-6eedabe3b251'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
+        - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: search_bar
+    package_version: v1.0.1
+    title: 'v1.0.1 of search_bar'
+    published: '2017-06-25T19:09:00+00:00'
+    id: 'urn:uuid:8bae76b0-118f-5464-833c-7eb9b156f4d6'
+    link: 'https://pub.dartlang.org/packages/search_bar'
+    author:
+        - 'Spencer <spencer@frozor.io>'
