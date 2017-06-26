@@ -100557,3 +100557,39 @@
     link: 'https://pub.dartlang.org/packages/search_bar'
     author:
         - 'Spencer <spencer@frozor.io>'
+-
+    package_name: dartcord
+    package_version: v0.1.0
+    title: 'v0.1.0 of dartcord'
+    published: '2017-06-26T11:57:32+00:00'
+    id: 'urn:uuid:ff741747-6f72-5fd4-8a85-9c380e31e399'
+    link: 'https://pub.dartlang.org/packages/dartcord'
+    author:
+        - 'Jackson Rakena <jacksonrakena13@gmail.com>'
+-
+    package_name: built_value_test
+    package_version: v1.1.4
+    title: 'v1.1.4 of built_value_test'
+    published: '2017-06-26T11:23:17+00:00'
+    id: 'urn:uuid:20c26876-6adc-595a-9d63-db47297d9ad5'
+    link: 'https://pub.dartlang.org/packages/built_value_test'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value_generator
+    package_version: v1.1.4
+    title: 'v1.1.4 of built_value_generator'
+    published: '2017-06-26T11:22:05+00:00'
+    id: 'urn:uuid:a4f75fd0-0afa-57cb-8650-af6c7d36055f'
+    link: 'https://pub.dartlang.org/packages/built_value_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value
+    package_version: v1.1.4
+    title: 'v1.1.4 of built_value'
+    published: '2017-06-26T11:21:28+00:00'
+    id: 'urn:uuid:3cbdc2fa-d16e-5426-846c-4f577bb4dabf'
+    link: 'https://pub.dartlang.org/packages/built_value'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
