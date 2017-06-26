@@ -100593,3 +100593,44 @@
     link: 'https://pub.dartlang.org/packages/built_value'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: test
+    package_version: v0.12.23+1
+    title: 'v0.12.23+1 of test'
+    published: '2017-06-26T17:28:56+00:00'
+    id: 'urn:uuid:f4087b4f-ceee-52bf-97cc-5e9e2a313c2e'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: w_common
+    package_version: v1.5.0
+    title: 'v1.5.0 of w_common'
+    published: '2017-06-26T16:52:35+00:00'
+    id: 'urn:uuid:651f3aa7-a4f4-5d93-b8b6-38999bde69e4'
+    link: 'https://pub.dartlang.org/packages/w_common'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+-
+    package_name: w_module
+    package_version: v1.2.5
+    title: 'v1.2.5 of w_module'
+    published: '2017-06-26T16:12:02+00:00'
+    id: 'urn:uuid:6e6c1b63-02e2-5ef0-a95f-38eb2c5ba815'
+    link: 'https://pub.dartlang.org/packages/w_module'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: gitlab
+    package_version: v0.2.2
+    title: 'v0.2.2 of gitlab'
+    published: '2017-06-26T15:01:46+00:00'
+    id: 'urn:uuid:37ca01f8-7d52-5309-b1cd-de26327ccc01'
+    link: 'https://pub.dartlang.org/packages/gitlab'
+    author:
+        - 'Matias Meno <m@tias.me>'
