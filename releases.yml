@@ -100634,3 +100634,21 @@
     link: 'https://pub.dartlang.org/packages/gitlab'
     author:
         - 'Matias Meno <m@tias.me>'
+-
+    package_name: lab_rat_storage
+    package_version: v1.0.2
+    title: 'v1.0.2 of lab_rat_storage'
+    published: '2017-06-26T20:52:56+00:00'
+    id: 'urn:uuid:87668ff4-796d-5252-9a77-7dd70bd753e0'
+    link: 'https://pub.dartlang.org/packages/lab_rat_storage'
+    author:
+        - 'Laboratory Rat <Oleg.Timofeev20@gmail.com>'
+-
+    package_name: dartcord
+    package_version: v0.1.1
+    title: 'v0.1.1 of dartcord'
+    published: '2017-06-26T19:40:16+00:00'
+    id: 'urn:uuid:9707dfba-f7c2-57fc-b178-a9ab485b93e9'
+    link: 'https://pub.dartlang.org/packages/dartcord'
+    author:
+        - 'Jackson Rakena <jacksonrakena13@gmail.com>'
