@@ -100700,3 +100700,30 @@
     link: 'https://pub.dartlang.org/packages/sembast'
     author:
         - 'Alexandre Roux Tekartik <alex.tekartik.pub@gmail.com>'
+-
+    package_name: lab_rat_storage
+    package_version: v1.0.4
+    title: 'v1.0.4 of lab_rat_storage'
+    published: '2017-06-27T17:26:27+00:00'
+    id: 'urn:uuid:a7546174-cdc2-567d-8c27-650c2823ffbe'
+    link: 'https://pub.dartlang.org/packages/lab_rat_storage'
+    author:
+        - 'Laboratory Rat <Oleg.Timofeev20@gmail.com>'
+-
+    package_name: fs_shim
+    package_version: v0.7.0
+    title: 'v0.7.0 of fs_shim'
+    published: '2017-06-27T14:47:50+00:00'
+    id: 'urn:uuid:48effa8f-ed05-5553-b2aa-0b9b1225f24e'
+    link: 'https://pub.dartlang.org/packages/fs_shim'
+    author:
+        - 'Tekartik <alex@tekartik.com>'
+-
+    package_name: cellular_automaton
+    package_version: v0.0.1
+    title: 'v0.0.1 of cellular_automaton'
+    published: '2017-06-27T14:29:39+00:00'
+    id: 'urn:uuid:03234ff6-fec4-5ea1-8aad-cdc27c47b991'
+    link: 'https://pub.dartlang.org/packages/cellular_automaton'
+    author:
+        - 'jimmyff <jimmyff@jimmyff.uk>'
