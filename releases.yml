@@ -100664,3 +100664,12 @@
         - 'Dan Rubel <danrubel@google.com>'
         - 'Matthew Butler <butler.matthew@gmail.com>'
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: flutter_search_bar
+    package_version: v1.0.2
+    title: 'v1.0.2 of flutter_search_bar'
+    published: '2017-06-27T02:12:44+00:00'
+    id: 'urn:uuid:6863ef14-8772-59bb-9cde-97ce7f08efb1'
+    link: 'https://pub.dartlang.org/packages/flutter_search_bar'
+    author:
+        - 'Spencer <spencer@frozor.io>'
