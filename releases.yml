@@ -100727,3 +100727,66 @@
     link: 'https://pub.dartlang.org/packages/cellular_automaton'
     author:
         - 'jimmyff <jimmyff@jimmyff.uk>'
+-
+    package_name: flutter_color_picker
+    package_version: v0.0.1
+    title: 'v0.0.1 of flutter_color_picker'
+    published: '2017-06-27T20:49:22+00:00'
+    id: 'urn:uuid:322ef6b6-9155-5604-86b2-937036f57786'
+    link: 'https://pub.dartlang.org/packages/flutter_color_picker'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: flutter_search_bar
+    package_version: v1.0.4
+    title: 'v1.0.4 of flutter_search_bar'
+    published: '2017-06-27T19:56:08+00:00'
+    id: 'urn:uuid:dedcfa9e-5085-5fe8-900e-0a4e9894651f'
+    link: 'https://pub.dartlang.org/packages/flutter_search_bar'
+    author:
+        - 'Spencer <spencer@frozor.io>'
+-
+    package_name: w_common
+    package_version: v1.6.0
+    title: 'v1.6.0 of w_common'
+    published: '2017-06-27T19:04:14+00:00'
+    id: 'urn:uuid:d8f78a9b-439f-58b7-8489-46839e0a11cb'
+    link: 'https://pub.dartlang.org/packages/w_common'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+-
+    package_name: stagexl_gaf
+    package_version: v0.1.4+1
+    title: 'v0.1.4+1 of stagexl_gaf'
+    published: '2017-06-27T19:00:56+00:00'
+    id: 'urn:uuid:f0c04810-84cd-5d9d-bb99-83e4268d6c0f'
+    link: 'https://pub.dartlang.org/packages/stagexl_gaf'
+    author:
+        - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: stagexl_flump
+    package_version: v0.3.7
+    title: 'v0.3.7 of stagexl_flump'
+    published: '2017-06-27T18:49:33+00:00'
+    id: 'urn:uuid:2b75ca78-5bea-5eba-9abf-801258040147'
+    link: 'https://pub.dartlang.org/packages/stagexl_flump'
+    author:
+        - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: stagexl_isometric
+    package_version: v0.1.2
+    title: 'v0.1.2 of stagexl_isometric'
+    published: '2017-06-27T18:40:44+00:00'
+    id: 'urn:uuid:514ca4ef-769b-5646-8d85-96c1f9fc25bd'
+    link: 'https://pub.dartlang.org/packages/stagexl_isometric'
+    author:
+        - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: stagexl_particle
+    package_version: v0.3.8
+    title: 'v0.3.8 of stagexl_particle'
+    published: '2017-06-27T18:36:35+00:00'
+    id: 'urn:uuid:ac465c9a-3631-56ea-8152-95cc34385ab3'
+    link: 'https://pub.dartlang.org/packages/stagexl_particle'
+    author:
+        - 'Bernhard Pichler <support@stagexl.org>'
