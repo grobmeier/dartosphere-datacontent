@@ -100673,3 +100673,12 @@
     link: 'https://pub.dartlang.org/packages/flutter_search_bar'
     author:
         - 'Spencer <spencer@frozor.io>'
+-
+    package_name: dnd
+    package_version: v0.4.0
+    title: 'v0.4.0 of dnd'
+    published: '2017-06-27T09:25:19+00:00'
+    id: 'urn:uuid:782759a2-c4e4-544c-a118-bc7981025eae'
+    link: 'https://pub.dartlang.org/packages/dnd'
+    author:
+        - 'Marco Jakob <majakob@gmx.ch>'
