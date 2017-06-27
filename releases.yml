@@ -100682,3 +100682,21 @@
     link: 'https://pub.dartlang.org/packages/dnd'
     author:
         - 'Marco Jakob <majakob@gmx.ch>'
+-
+    package_name: idb_shim
+    package_version: v1.4.0
+    title: 'v1.4.0 of idb_shim'
+    published: '2017-06-27T13:37:00+00:00'
+    id: 'urn:uuid:4a9fb026-a494-52c6-82d8-a97da5cd5c02'
+    link: 'https://pub.dartlang.org/packages/idb_shim'
+    author:
+        - 'Alexandre Roux Tekartik <alex.tekartik.pub@gmail.com>'
+-
+    package_name: sembast
+    package_version: v1.4.0
+    title: 'v1.4.0 of sembast'
+    published: '2017-06-27T13:26:04+00:00'
+    id: 'urn:uuid:141e9aa5-56c4-505b-85ed-22d7cea2e4ef'
+    link: 'https://pub.dartlang.org/packages/sembast'
+    author:
+        - 'Alexandre Roux Tekartik <alex.tekartik.pub@gmail.com>'
