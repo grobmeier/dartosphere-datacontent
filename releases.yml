@@ -100790,3 +100790,12 @@
     link: 'https://pub.dartlang.org/packages/stagexl_particle'
     author:
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: minibus
+    package_version: v0.0.2
+    title: 'v0.0.2 of minibus'
+    published: '2017-06-28T05:47:45+00:00'
+    id: 'urn:uuid:1aa60f9d-cb84-5bd3-a3c7-e0c282126db0'
+    link: 'https://pub.dartlang.org/packages/minibus'
+    author:
+        - 'Davy Mitchell <daftspaniel@gmail.com>'
