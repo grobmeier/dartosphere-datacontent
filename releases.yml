@@ -100808,3 +100808,21 @@
     link: 'https://pub.dartlang.org/packages/sqflite'
     author:
         - 'Tekartik <alex@tekartik.com>'
+-
+    package_name: archive
+    package_version: v1.0.31
+    title: 'v1.0.31 of archive'
+    published: '2017-06-28T17:31:35+00:00'
+    id: 'urn:uuid:4f0f33ca-1028-53e0-a7c6-d69000285ec7'
+    link: 'https://pub.dartlang.org/packages/archive'
+    author:
+        - 'Brendan Duncan <brendanduncan@gmail.com>'
+-
+    package_name: ebisu
+    package_version: v0.7.9
+    title: 'v0.7.9 of ebisu'
+    published: '2017-06-28T14:49:01+00:00'
+    id: 'urn:uuid:b9bff7ec-ce3e-5d35-9d54-aa7f06351df7'
+    link: 'https://pub.dartlang.org/packages/ebisu'
+    author:
+        - 'Daniel Davidson <dbdavidson@yahoo.com>'
