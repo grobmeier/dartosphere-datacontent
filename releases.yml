@@ -100799,3 +100799,12 @@
     link: 'https://pub.dartlang.org/packages/minibus'
     author:
         - 'Davy Mitchell <daftspaniel@gmail.com>'
+-
+    package_name: sqflite
+    package_version: v0.1.0
+    title: 'v0.1.0 of sqflite'
+    published: '2017-06-28T12:48:08+00:00'
+    id: 'urn:uuid:09ba0f7d-214b-55b3-a1d7-e40395c911c9'
+    link: 'https://pub.dartlang.org/packages/sqflite'
+    author:
+        - 'Tekartik <alex@tekartik.com>'
