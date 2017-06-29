@@ -100943,3 +100943,21 @@
     link: 'https://pub.dartlang.org/packages/rl_matrix'
     author:
         - 'R.S. Schermer <roland0507@gmail.com>'
+-
+    package_name: react
+    package_version: v3.4.2
+    title: 'v3.4.2 of react'
+    published: '2017-06-29T20:39:28+00:00'
+    id: 'urn:uuid:b8f34105-c83a-590c-988c-e66ec7594e9c'
+    link: 'https://pub.dartlang.org/packages/react'
+    author:
+        - 'Clean Team <clean@vacuumlabs.com>'
+-
+    package_name: stack_trace
+    package_version: v1.7.4
+    title: 'v1.7.4 of stack_trace'
+    published: '2017-06-29T19:59:24+00:00'
+    id: 'urn:uuid:3274fe91-d430-5e3c-8653-77de4a38c8c8'
+    link: 'https://pub.dartlang.org/packages/stack_trace'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
