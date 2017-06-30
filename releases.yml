@@ -101015,3 +101015,31 @@
     link: 'https://pub.dartlang.org/packages/glutils'
     author:
         - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.6
+    title: 'v1.0.6 of angel_framework'
+    published: '2017-06-30T21:23:38+00:00'
+    id: 'urn:uuid:d040e4c5-3346-5d55-a8f2-89205c9eb932'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: node_interop
+    package_version: v0.0.2
+    title: 'v0.0.2 of node_interop'
+    published: '2017-06-30T19:22:38+00:00'
+    id: 'urn:uuid:caa07bc4-ecdd-5ed6-85f5-ed3e1868b3ed'
+    link: 'https://pub.dartlang.org/packages/node_interop'
+    author:
+        - 'Anatoly Pulyaevskiy <anatoly.pulyaevskiy@gmail.com>'
+-
+    package_name: rxdart
+    package_version: v0.13.1
+    title: 'v0.13.1 of rxdart'
+    published: '2017-06-30T19:17:31+00:00'
+    id: 'urn:uuid:88bbf3b1-626f-5251-b8b7-a6a6c07e6027'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
+        - 'Brian Egan <brian@brianegan.com>'
