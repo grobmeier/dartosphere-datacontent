@@ -100961,3 +100961,30 @@
     link: 'https://pub.dartlang.org/packages/stack_trace'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: polymerize
+    package_version: v0.9.4
+    title: 'v0.9.4 of polymerize'
+    published: '2017-06-30T09:48:31+00:00'
+    id: 'urn:uuid:e8d26dbb-1be7-549b-94d4-0a53ac72d618'
+    link: 'https://pub.dartlang.org/packages/polymerize'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: html5
+    package_version: v0.1.5
+    title: 'v0.1.5 of html5'
+    published: '2017-06-30T08:52:33+00:00'
+    id: 'urn:uuid:011e7047-ecc4-5853-8287-75e9dabd87ca'
+    link: 'https://pub.dartlang.org/packages/html5'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: tripledes
+    package_version: v2.0.0
+    title: 'v2.0.0 of tripledes'
+    published: '2017-06-30T06:09:56+00:00'
+    id: 'urn:uuid:9e9f0d9c-89b1-532d-90db-11b92e724ac4'
+    link: 'https://pub.dartlang.org/packages/tripledes'
+    author:
+        - 'John Ryan <john.p.ryan4@gmail.com>'
