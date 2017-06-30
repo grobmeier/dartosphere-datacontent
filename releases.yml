@@ -100997,3 +100997,21 @@
     link: 'https://pub.dartlang.org/packages/polymer_element'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: node_preamble
+    package_version: v1.4.0
+    title: 'v1.4.0 of node_preamble'
+    published: '2017-06-30T16:15:07+00:00'
+    id: 'urn:uuid:334c0fc9-d046-5070-b80a-9831c3e56be7'
+    link: 'https://pub.dartlang.org/packages/node_preamble'
+    author:
+        - 'Michael Bullington <mikebullingtn@gmail.com>'
+-
+    package_name: glutils
+    package_version: v0.0.1
+    title: 'v0.0.1 of glutils'
+    published: '2017-06-30T14:03:57+00:00'
+    id: 'urn:uuid:143f0478-9ec7-5268-9937-05945eae7caf'
+    link: 'https://pub.dartlang.org/packages/glutils'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
