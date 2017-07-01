@@ -101090,3 +101090,30 @@
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
         - 'Adao Jr. <itsjunnior@gmail.com>'
+-
+    package_name: usage
+    package_version: v3.3.0
+    title: 'v3.3.0 of usage'
+    published: '2017-07-01T20:36:28+00:00'
+    id: 'urn:uuid:4ebe5e65-02bb-549e-93b9-d3d58723ae04'
+    link: 'https://pub.dartlang.org/packages/usage'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: stagexl_spine
+    package_version: v0.9.0+2
+    title: 'v0.9.0+2 of stagexl_spine'
+    published: '2017-07-01T19:59:39+00:00'
+    id: 'urn:uuid:e691a4b3-576a-5d59-8d36-959a3aa231c0'
+    link: 'https://pub.dartlang.org/packages/stagexl_spine'
+    author:
+        - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: service_worker
+    package_version: v0.0.16
+    title: 'v0.0.16 of service_worker'
+    published: '2017-07-01T19:53:29+00:00'
+    id: 'urn:uuid:809143dc-4217-56e7-914b-932f7b4f1d56'
+    link: 'https://pub.dartlang.org/packages/service_worker'
+    author:
+        - 'Istvan Soos <istvan.soos@gmail.com>'
