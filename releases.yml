@@ -101043,3 +101043,40 @@
     author:
         - 'Frank Pepermans <frank@igindo.com>'
         - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: ng_bootstrap
+    package_version: v0.6.6
+    title: 'v0.6.6 of ng_bootstrap'
+    published: '2017-07-01T01:02:00+00:00'
+    id: 'urn:uuid:72c976ac-3ab4-591f-b70e-26a64c20475b'
+    link: 'https://pub.dartlang.org/packages/ng_bootstrap'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+        - 'Adao Jr. <itsjunnior@gmail.com>'
+-
+    package_name: dacsslide
+    package_version: v0.1.2
+    title: 'v0.1.2 of dacsslide'
+    published: '2017-06-30T23:25:33+00:00'
+    id: 'urn:uuid:46b17534-54f3-58c8-8d64-3899cbca624f'
+    link: 'https://pub.dartlang.org/packages/dacsslide'
+    author:
+        - 'Valentyn Shybanov <olostan@gmail.com>'
+-
+    package_name: angel_websocket
+    package_version: v1.0.8
+    title: 'v1.0.8 of angel_websocket'
+    published: '2017-06-30T23:09:11+00:00'
+    id: 'urn:uuid:42a54f4d-bfac-56c3-8abe-c5c572b869d9'
+    link: 'https://pub.dartlang.org/packages/angel_websocket'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_client
+    package_version: v1.0.7
+    title: 'v1.0.7 of angel_client'
+    published: '2017-06-30T22:56:52+00:00'
+    id: 'urn:uuid:ce2b0f9f-f409-5cf0-ae67-77c0b85ddeb5'
+    link: 'https://pub.dartlang.org/packages/angel_client'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
