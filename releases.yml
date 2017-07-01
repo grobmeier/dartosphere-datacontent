@@ -101080,3 +101080,13 @@
     link: 'https://pub.dartlang.org/packages/angel_client'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: ng_bootstrap
+    package_version: v0.6.6+1
+    title: 'v0.6.6+1 of ng_bootstrap'
+    published: '2017-07-01T02:49:00+00:00'
+    id: 'urn:uuid:fc6f6a7f-15cd-57e0-9d0f-93520ce029d8'
+    link: 'https://pub.dartlang.org/packages/ng_bootstrap'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+        - 'Adao Jr. <itsjunnior@gmail.com>'
