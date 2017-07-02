@@ -101126,3 +101126,30 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: qedb_client
+    package_version: v0.1.1
+    title: 'v0.1.1 of qedb_client'
+    published: '2017-07-02T11:39:52+00:00'
+    id: 'urn:uuid:444eb642-0f4e-5560-9d61-3e1fce02e2e8'
+    link: 'https://pub.dartlang.org/packages/qedb_client'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: cellular_automata
+    package_version: v0.2.0
+    title: 'v0.2.0 of cellular_automata'
+    published: '2017-07-02T11:06:55+00:00'
+    id: 'urn:uuid:7eb26ec2-3a2a-529b-8b3b-3b2565b9537a'
+    link: 'https://pub.dartlang.org/packages/cellular_automata'
+    author:
+        - 'jimmyff <jimmyff@jimmyff.uk>'
+-
+    package_name: node_interop
+    package_version: v0.0.3
+    title: 'v0.0.3 of node_interop'
+    published: '2017-07-02T10:19:06+00:00'
+    id: 'urn:uuid:2979d296-fab3-5f65-955c-838fe11c7866'
+    link: 'https://pub.dartlang.org/packages/node_interop'
+    author:
+        - 'Anatoly Pulyaevskiy <anatoly.pulyaevskiy@gmail.com>'
