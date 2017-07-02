@@ -101117,3 +101117,12 @@
     link: 'https://pub.dartlang.org/packages/service_worker'
     author:
         - 'Istvan Soos <istvan.soos@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.6+1
+    title: 'v1.0.6+1 of angel_framework'
+    published: '2017-07-02T01:56:40+00:00'
+    id: 'urn:uuid:f0ad792a-29fb-568c-9203-a0f2e0e495b5'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
