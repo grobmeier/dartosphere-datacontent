@@ -101248,3 +101248,12 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: cellular_automaton
+    package_version: v0.1.1
+    title: 'v0.1.1 of cellular_automaton'
+    published: '2017-07-03T11:11:11+00:00'
+    id: 'urn:uuid:fd15d6fa-76bd-5f10-b8d7-11e6b070dac0'
+    link: 'https://pub.dartlang.org/packages/cellular_automaton'
+    author:
+        - 'jimmyff <jimmyff@jimmyff.uk>'
