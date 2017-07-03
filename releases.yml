@@ -101257,3 +101257,31 @@
     link: 'https://pub.dartlang.org/packages/cellular_automaton'
     author:
         - 'jimmyff <jimmyff@jimmyff.uk>'
+-
+    package_name: cellular_automata
+    package_version: v0.3.0
+    title: 'v0.3.0 of cellular_automata'
+    published: '2017-07-03T21:07:14+00:00'
+    id: 'urn:uuid:fe90552b-d684-548a-b2f5-ff52ec292be9'
+    link: 'https://pub.dartlang.org/packages/cellular_automata'
+    author:
+        - 'jimmyff <jimmyff@jimmyff.uk>'
+-
+    package_name: color
+    package_version: v2.0.2
+    title: 'v2.0.2 of color'
+    published: '2017-07-03T20:52:58+00:00'
+    id: 'urn:uuid:0ae2c045-9135-53bf-b4e7-ac03867e6e93'
+    link: 'https://pub.dartlang.org/packages/color'
+    author:
+        - 'Michael Fenwick <mike@mikefenwick.com>'
+        - 'Tim Kluge <timklge@wh2.tu-dresden.de>'
+-
+    package_name: np8080
+    package_version: v0.0.21
+    title: 'v0.0.21 of np8080'
+    published: '2017-07-03T18:03:55+00:00'
+    id: 'urn:uuid:d0bbced2-906a-5873-897f-6a3b1411096a'
+    link: 'https://pub.dartlang.org/packages/np8080'
+    author:
+        - 'Davy Mitchell <daftspaniel@gmail.com>'
