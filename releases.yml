@@ -101181,3 +101181,21 @@
     link: 'https://pub.dartlang.org/packages/owl_codegen'
     author:
         - 'Istvan Soos <istvan.soos@agilord.com>'
+-
+    package_name: http2_bridge
+    package_version: v1.0.0-alpha
+    title: 'v1.0.0-alpha of http2_bridge'
+    published: '2017-07-03T01:10:34+00:00'
+    id: 'urn:uuid:f3f301c4-d4be-5cc3-989e-fc00d14f73f8'
+    link: 'https://pub.dartlang.org/packages/http2_bridge'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: mock_request
+    package_version: v1.0.2
+    title: 'v1.0.2 of mock_request'
+    published: '2017-07-02T22:40:11+00:00'
+    id: 'urn:uuid:2e290fcf-39c6-59ff-b717-7768610f3160'
+    link: 'https://pub.dartlang.org/packages/mock_request'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
