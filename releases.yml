@@ -101321,3 +101321,26 @@
     link: 'https://pub.dartlang.org/packages/petitparser'
     author:
         - 'Lukas Renggli <renggli@gmail.com>'
+-
+    package_name: d_components
+    package_version: v0.0.1
+    title: 'v0.0.1 of d_components'
+    published: '2017-07-04T16:49:31+00:00'
+    id: 'urn:uuid:f63af50e-03c0-5c7c-8600-8d6be5da176b'
+    link: 'https://pub.dartlang.org/packages/d_components'
+    author:
+        - 'Dejan Marlovic <dmarlovic83@gmail.com>'
+-
+    package_name: w_transport
+    package_version: v3.0.4
+    title: 'v3.0.4 of w_transport'
+    published: '2017-07-04T14:04:40+00:00'
+    id: 'urn:uuid:5890836d-e338-5fa5-8390-64a6c97d91d3'
+    link: 'https://pub.dartlang.org/packages/w_transport'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
