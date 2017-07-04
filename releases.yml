@@ -101285,3 +101285,12 @@
     link: 'https://pub.dartlang.org/packages/np8080'
     author:
         - 'Davy Mitchell <daftspaniel@gmail.com>'
+-
+    package_name: dart_language_server
+    package_version: v0.0.11
+    title: 'v0.0.11 of dart_language_server'
+    published: '2017-07-04T00:13:31+00:00'
+    id: 'urn:uuid:c2f708e9-3ea9-5ce2-a67e-6e425681fb37'
+    link: 'https://pub.dartlang.org/packages/dart_language_server'
+    author:
+        - 'Nate Bosch <nbosch1@gmail.com>'
