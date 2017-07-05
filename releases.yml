@@ -101391,3 +101391,43 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: protoc_plugin
+    package_version: v0.7.3
+    title: 'v0.7.3 of protoc_plugin'
+    published: '2017-07-05T13:25:11+00:00'
+    id: 'urn:uuid:65a6a50f-d83e-56dc-9033-ae99cebecf07'
+    link: 'https://pub.dartlang.org/packages/protoc_plugin'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: jaguar_query
+    package_version: v0.0.25
+    title: 'v0.0.25 of jaguar_query'
+    published: '2017-07-05T12:59:40+00:00'
+    id: 'urn:uuid:6377fbe7-2cb1-5e98-bb39-4db63bd8eeb4'
+    link: 'https://pub.dartlang.org/packages/jaguar_query'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: xcvbnm
+    package_version: v0.5.5
+    title: 'v0.5.5 of xcvbnm'
+    published: '2017-07-05T12:48:00+00:00'
+    id: 'urn:uuid:712cbe90-6595-5135-9e92-e264f4185596'
+    link: 'https://pub.dartlang.org/packages/xcvbnm'
+    author:
+        - 'Werner Gaisbauer <werner.gaisbauer@exitlive.io>'
+        - 'Alex Tekartik <alex@tekartik.com>'
+        - 'Matias Meno <matias.meno@exitlive.io>'
+        - 'Martin Flucka <martin.flucka@gmail.com>'
+-
+    package_name: gitlab
+    package_version: v0.2.3
+    title: 'v0.2.3 of gitlab'
+    published: '2017-07-05T12:12:35+00:00'
+    id: 'urn:uuid:5b9b5bbd-3a9c-50d6-9227-91e7118c3b40'
+    link: 'https://pub.dartlang.org/packages/gitlab'
+    author:
+        - 'Matias Meno <m@tias.me>'
