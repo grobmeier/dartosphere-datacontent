@@ -101381,3 +101381,13 @@
     link: 'https://pub.dartlang.org/packages/zwave'
     author:
         - 'Dan Rubel <danrubel@google.com>'
+-
+    package_name: jaguar
+    package_version: v0.5.11
+    title: 'v0.5.11 of jaguar'
+    published: '2017-07-05T09:37:33+00:00'
+    id: 'urn:uuid:7e428d5f-fe3a-5a13-ac59-cbd4d2c647b6'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
