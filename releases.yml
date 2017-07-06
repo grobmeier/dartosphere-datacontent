@@ -101648,3 +101648,21 @@
     link: 'https://pub.dartlang.org/packages/angular2_mdl'
     author:
         - 'Nikaoly Chesnokov <nikolaychesnokov@gmail.com>'
+-
+    package_name: vector_math
+    package_version: v2.0.5
+    title: 'v2.0.5 of vector_math'
+    published: '2017-07-06T19:30:40+00:00'
+    id: 'urn:uuid:18134374-fb40-585c-8162-ca916ff42f01'
+    link: 'https://pub.dartlang.org/packages/vector_math'
+    author:
+        - 'John McCutchan <john@johnmccutchan.com>'
+-
+    package_name: itd_flutter_spinner_widget
+    package_version: v0.0.1
+    title: 'v0.0.1 of itd_flutter_spinner_widget'
+    published: '2017-07-06T18:29:52+00:00'
+    id: 'urn:uuid:e0b43fff-15e7-5bb2-bdce-c21c2499ae6b'
+    link: 'https://pub.dartlang.org/packages/itd_flutter_spinner_widget'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
