@@ -101546,3 +101546,14 @@
     link: 'https://pub.dartlang.org/packages/graphql_parser'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: bootjack
+    package_version: v0.6.8
+    title: 'v0.6.8 of bootjack'
+    published: '2017-07-06T02:44:45+00:00'
+    id: 'urn:uuid:95a7c3d5-5188-5f9c-9b17-3a59dce95905'
+    link: 'https://pub.dartlang.org/packages/bootjack'
+    author:
+        - 'Simon Pai <simonpai@rikulo.org>'
+        - 'Jimmy Shiau <jimmyshiau@potix.com>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
