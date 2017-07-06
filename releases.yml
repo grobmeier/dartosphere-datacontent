@@ -101528,3 +101528,21 @@
     link: 'https://pub.dartlang.org/packages/over_react_test'
     author:
         - 'Workiva UI Platform Team <uip@workiva.com>'
+-
+    package_name: dart_style
+    package_version: v1.0.7
+    title: 'v1.0.7 of dart_style'
+    published: '2017-07-06T00:12:54+00:00'
+    id: 'urn:uuid:b5ebb488-a531-58a1-a7be-e3a339114d59'
+    link: 'https://pub.dartlang.org/packages/dart_style'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: graphql_parser
+    package_version: v1.0.0+1
+    title: 'v1.0.0+1 of graphql_parser'
+    published: '2017-07-05T22:44:24+00:00'
+    id: 'urn:uuid:9501adce-2a87-5641-9fcd-367a3892a4a5'
+    link: 'https://pub.dartlang.org/packages/graphql_parser'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
