@@ -101689,3 +101689,21 @@
     link: 'https://pub.dartlang.org/packages/dl_console'
     author:
         - 'Derek Li <dereksangshi2000@gmail.com>'
+-
+    package_name: collection
+    package_version: v1.14.2
+    title: 'v1.14.2 of collection'
+    published: '2017-07-07T09:04:23+00:00'
+    id: 'urn:uuid:db0a63c0-8227-5eac-8c42-6090f8cd567e'
+    link: 'https://pub.dartlang.org/packages/collection'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: lodash
+    package_version: v0.0.1
+    title: 'v0.0.1 of lodash'
+    published: '2017-07-07T09:02:09+00:00'
+    id: 'urn:uuid:9b1bf0f4-ea3b-5517-ac73-3f2c27bfd1ac'
+    link: 'https://pub.dartlang.org/packages/lodash'
+    author:
+        - 'SuperPaintman <SuperPaintmanDeveloper@gmail.com>'
