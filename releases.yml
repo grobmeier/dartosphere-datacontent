@@ -101666,3 +101666,17 @@
     link: 'https://pub.dartlang.org/packages/itd_flutter_spinner_widget'
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: w_transport
+    package_version: v3.0.5
+    title: 'v3.0.5 of w_transport'
+    published: '2017-07-06T22:24:44+00:00'
+    id: 'urn:uuid:4646ca3f-3e47-5267-9693-40adfc5de2f7'
+    link: 'https://pub.dartlang.org/packages/w_transport'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
