@@ -101707,3 +101707,66 @@
     link: 'https://pub.dartlang.org/packages/lodash'
     author:
         - 'SuperPaintman <SuperPaintmanDeveloper@gmail.com>'
+-
+    package_name: sqflite
+    package_version: v0.2.1
+    title: 'v0.2.1 of sqflite'
+    published: '2017-07-07T13:48:30+00:00'
+    id: 'urn:uuid:1ea9ff83-514e-56a4-86e4-1bdcb5873a2e'
+    link: 'https://pub.dartlang.org/packages/sqflite'
+    author:
+        - 'Tekartik <alex@tekartik.com>'
+-
+    package_name: angular2_mdl
+    package_version: v0.1.4
+    title: 'v0.1.4 of angular2_mdl'
+    published: '2017-07-07T13:36:32+00:00'
+    id: 'urn:uuid:9b9730e9-07dd-5987-9e2e-447f94932480'
+    link: 'https://pub.dartlang.org/packages/angular2_mdl'
+    author:
+        - 'Nikaoly Chesnokov <nikolaychesnokov@gmail.com>'
+-
+    package_name: location
+    package_version: v1.0.1
+    title: 'v1.0.1 of location'
+    published: '2017-07-07T13:06:07+00:00'
+    id: 'urn:uuid:6699fc3d-863c-50be-a0ad-fc27c96a8dfe'
+    link: 'https://pub.dartlang.org/packages/location'
+    author:
+        - lyokone
+-
+    package_name: cellular_automata
+    package_version: v0.7.0
+    title: 'v0.7.0 of cellular_automata'
+    published: '2017-07-07T12:55:16+00:00'
+    id: 'urn:uuid:ab34ef68-d269-58c0-b844-968eccd970c5'
+    link: 'https://pub.dartlang.org/packages/cellular_automata'
+    author:
+        - 'jimmyff <jimmyff@jimmyff.uk>'
+-
+    package_name: ducene
+    package_version: v0.5.0
+    title: 'v0.5.0 of ducene'
+    published: '2017-07-07T12:40:15+00:00'
+    id: 'urn:uuid:b13cd765-eab9-5875-b922-5537651c9926'
+    link: 'https://pub.dartlang.org/packages/ducene'
+    author:
+        - 'Shinichiro Abe <shinichiro.abe.1@gmail.com>'
+-
+    package_name: protoc_plugin
+    package_version: v0.7.4
+    title: 'v0.7.4 of protoc_plugin'
+    published: '2017-07-07T12:37:18+00:00'
+    id: 'urn:uuid:108da735-30f4-580b-a4ce-638159dd13f9'
+    link: 'https://pub.dartlang.org/packages/protoc_plugin'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: entify
+    package_version: v0.1.2+1
+    title: 'v0.1.2+1 of entify'
+    published: '2017-07-07T11:59:06+00:00'
+    id: 'urn:uuid:1996d195-bb5e-5912-ab38-814d9bb9de20'
+    link: 'https://pub.dartlang.org/packages/entify'
+    author:
+        - 'Peter Siroki <psiroki@skawa.hu>'
