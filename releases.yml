@@ -101972,3 +101972,12 @@
     link: 'https://pub.dartlang.org/packages/node_interop'
     author:
         - 'Anatoly Pulyaevskiy <anatoly.pulyaevskiy@gmail.com>'
+-
+    package_name: firebase_admin_interop
+    package_version: v0.0.1
+    title: 'v0.0.1 of firebase_admin_interop'
+    published: '2017-07-08T15:00:15+00:00'
+    id: 'urn:uuid:e1a656f3-5e47-5e66-8d78-535c6bef055c'
+    link: 'https://pub.dartlang.org/packages/firebase_admin_interop'
+    author:
+        - 'Anatoly Pulyaevskiy <anatoly.pulyaevskiy@gmail.com>'
