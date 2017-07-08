@@ -101963,3 +101963,12 @@
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: node_interop
+    package_version: v0.0.4
+    title: 'v0.0.4 of node_interop'
+    published: '2017-07-08T13:44:00+00:00'
+    id: 'urn:uuid:50c836e0-1939-568f-abf7-44a3775206da'
+    link: 'https://pub.dartlang.org/packages/node_interop'
+    author:
+        - 'Anatoly Pulyaevskiy <anatoly.pulyaevskiy@gmail.com>'
