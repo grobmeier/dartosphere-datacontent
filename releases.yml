@@ -102045,3 +102045,33 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_json
+    package_version: v0.1.1
+    title: 'v0.1.1 of jaguar_json'
+    published: '2017-07-09T12:40:34+00:00'
+    id: 'urn:uuid:87e9c7a0-1c6d-53fd-ae51-471457317555'
+    link: 'https://pub.dartlang.org/packages/jaguar_json'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: teja_http_json
+    package_version: v0.1.5
+    title: 'v0.1.5 of teja_http_json'
+    published: '2017-07-09T12:21:53+00:00'
+    id: 'urn:uuid:30464a8c-d316-5c15-bf1f-9aad49bbd48a'
+    link: 'https://pub.dartlang.org/packages/teja_http_json'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: jaguar_serializer
+    package_version: v0.3.10
+    title: 'v0.3.10 of jaguar_serializer'
+    published: '2017-07-09T11:59:48+00:00'
+    id: 'urn:uuid:73deaecd-746f-562b-8b01-989fffa57277'
+    link: 'https://pub.dartlang.org/packages/jaguar_serializer'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
