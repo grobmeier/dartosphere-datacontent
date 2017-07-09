@@ -102075,3 +102075,80 @@
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: jaguar_cli
+    package_version: v0.0.27
+    title: 'v0.0.27 of jaguar_cli'
+    published: '2017-07-09T17:14:44+00:00'
+    id: 'urn:uuid:eb526504-d826-5fa3-9e34-fd56000c5386'
+    link: 'https://pub.dartlang.org/packages/jaguar_cli'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_generator
+    package_version: v0.7.0
+    title: 'v0.7.0 of jaguar_generator'
+    published: '2017-07-09T16:53:37+00:00'
+    id: 'urn:uuid:6d403c78-9ec8-518a-9c80-6b3962a3345c'
+    link: 'https://pub.dartlang.org/packages/jaguar_generator'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.6+2
+    title: 'v1.0.6+2 of angel_framework'
+    published: '2017-07-09T16:50:58+00:00'
+    id: 'urn:uuid:e12164ab-a6a5-5a13-865a-fc35f7932d42'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: editex
+    package_version: v0.2.2+3
+    title: 'v0.2.2+3 of editex'
+    published: '2017-07-09T16:49:31+00:00'
+    id: 'urn:uuid:465b1b99-4ad1-5c59-a15b-bec03e9c590d'
+    link: 'https://pub.dartlang.org/packages/editex'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: jaguar
+    package_version: v0.6.0
+    title: 'v0.6.0 of jaguar'
+    published: '2017-07-09T16:49:03+00:00'
+    id: 'urn:uuid:1a3b78f5-ba87-5e72-9870-1ba45eef78b5'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: eqlib
+    package_version: v0.15.0
+    title: 'v0.15.0 of eqlib'
+    published: '2017-07-09T16:47:53+00:00'
+    id: 'urn:uuid:c5b64bb6-7424-514f-9b8b-cefea8acc200'
+    link: 'https://pub.dartlang.org/packages/eqlib'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: owl_codegen
+    package_version: v0.2.1+2
+    title: 'v0.2.1+2 of owl_codegen'
+    published: '2017-07-09T15:33:09+00:00'
+    id: 'urn:uuid:b0dad842-79e2-524e-a1eb-856bb807dc47'
+    link: 'https://pub.dartlang.org/packages/owl_codegen'
+    author:
+        - 'Istvan Soos <istvan.soos@agilord.com>'
+-
+    package_name: jaguar_serializer
+    package_version: v0.3.11
+    title: 'v0.3.11 of jaguar_serializer'
+    published: '2017-07-09T14:44:01+00:00'
+    id: 'urn:uuid:e15fd3f2-1793-5edf-9b96-23cb47a099b6'
+    link: 'https://pub.dartlang.org/packages/jaguar_serializer'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
