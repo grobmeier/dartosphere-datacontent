@@ -102152,3 +102152,90 @@
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: jaguar_auth
+    package_version: v0.9.2
+    title: 'v0.9.2 of jaguar_auth'
+    published: '2017-07-09T21:55:17+00:00'
+    id: 'urn:uuid:57653a72-14df-58d4-9404-d16537282de9'
+    link: 'https://pub.dartlang.org/packages/jaguar_auth'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_session
+    package_version: v0.8.1
+    title: 'v0.8.1 of jaguar_session'
+    published: '2017-07-09T21:55:03+00:00'
+    id: 'urn:uuid:d214dbbc-c6c0-5cdc-b847-8c81c2208062'
+    link: 'https://pub.dartlang.org/packages/jaguar_session'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_json
+    package_version: v0.1.2
+    title: 'v0.1.2 of jaguar_json'
+    published: '2017-07-09T21:43:05+00:00'
+    id: 'urn:uuid:a488f0d2-d3d9-50a7-99e5-0269d803711e'
+    link: 'https://pub.dartlang.org/packages/jaguar_json'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar
+    package_version: v0.6.5
+    title: 'v0.6.5 of jaguar'
+    published: '2017-07-09T21:35:22+00:00'
+    id: 'urn:uuid:40276251-370f-57a3-948d-ddff4a9badf2'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: angel_task
+    package_version: v1.1.0+1
+    title: 'v1.1.0+1 of angel_task'
+    published: '2017-07-09T19:50:38+00:00'
+    id: 'urn:uuid:e686eec6-e01d-5fa0-a43a-705c979d21ed'
+    link: 'https://pub.dartlang.org/packages/angel_task'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: cellular_automata
+    package_version: v0.8.0
+    title: 'v0.8.0 of cellular_automata'
+    published: '2017-07-09T19:04:40+00:00'
+    id: 'urn:uuid:aa591139-edd6-5767-bb11-b55abd84ec5f'
+    link: 'https://pub.dartlang.org/packages/cellular_automata'
+    author:
+        - 'jimmyff <jimmyff@jimmyff.uk>'
+-
+    package_name: jaguar_cli
+    package_version: v0.0.29
+    title: 'v0.0.29 of jaguar_cli'
+    published: '2017-07-09T18:52:43+00:00'
+    id: 'urn:uuid:a9951308-b901-5945-9762-6bada957bb72'
+    link: 'https://pub.dartlang.org/packages/jaguar_cli'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_generator
+    package_version: v0.7.2
+    title: 'v0.7.2 of jaguar_generator'
+    published: '2017-07-09T18:51:42+00:00'
+    id: 'urn:uuid:1a93eec7-8967-5f92-b0c1-dde40f365eb0'
+    link: 'https://pub.dartlang.org/packages/jaguar_generator'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: angel_mongo
+    package_version: v1.1.6
+    title: 'v1.1.6 of angel_mongo'
+    published: '2017-07-09T18:07:10+00:00'
+    id: 'urn:uuid:fa57a97a-5d29-5f1e-8c85-8dde66d50ae0'
+    link: 'https://pub.dartlang.org/packages/angel_mongo'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
