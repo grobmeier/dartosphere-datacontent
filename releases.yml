@@ -102338,3 +102338,15 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: mailer2
+    package_version: v1.1.5
+    title: 'v1.1.5 of mailer2'
+    published: '2017-07-10T04:22:19+00:00'
+    id: 'urn:uuid:76874075-149e-5183-a080-e1981b2259cb'
+    link: 'https://pub.dartlang.org/packages/mailer2'
+    author:
+        - 'Kai Sellgren <kaisellgren@gmail.com>'
+        - 'Dan Rubel <danrubel@google.com>'
+        - 'Matthew Butler <butler.matthew@gmail.com>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
