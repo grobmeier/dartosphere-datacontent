@@ -102395,3 +102395,50 @@
     link: 'https://pub.dartlang.org/packages/googleapis'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: jaguar_query_postgresql
+    package_version: v0.1.1
+    title: 'v0.1.1 of jaguar_query_postgresql'
+    published: '2017-07-10T16:56:44+00:00'
+    id: 'urn:uuid:d1fa8a78-1818-55e7-b0e5-5775f9c8932a'
+    link: 'https://pub.dartlang.org/packages/jaguar_query_postgresql'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_query
+    package_version: v0.1.8
+    title: 'v0.1.8 of jaguar_query'
+    published: '2017-07-10T16:29:32+00:00'
+    id: 'urn:uuid:35b949ac-857f-5845-ae27-136243a6a46d'
+    link: 'https://pub.dartlang.org/packages/jaguar_query'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: angel_serialize_generator
+    package_version: v1.0.0-alpha+1
+    title: 'v1.0.0-alpha+1 of angel_serialize_generator'
+    published: '2017-07-10T15:10:56+00:00'
+    id: 'urn:uuid:0dc3716d-c2d6-5e23-b177-f18a87d894d3'
+    link: 'https://pub.dartlang.org/packages/angel_serialize_generator'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_serialize_builder
+    package_version: v1.0.0-alpha+1
+    title: 'v1.0.0-alpha+1 of angel_serialize_builder'
+    published: '2017-07-10T15:08:55+00:00'
+    id: 'urn:uuid:a192704d-15f1-5667-b59d-a86e88655f8e'
+    link: 'https://pub.dartlang.org/packages/angel_serialize_builder'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_serialize
+    package_version: v1.0.0-alpha+1
+    title: 'v1.0.0-alpha+1 of angel_serialize'
+    published: '2017-07-10T14:59:39+00:00'
+    id: 'urn:uuid:026beff1-da6e-5f15-b80e-4643e6d543b9'
+    link: 'https://pub.dartlang.org/packages/angel_serialize'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
