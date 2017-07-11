@@ -102553,3 +102553,40 @@
     link: 'https://pub.dartlang.org/packages/angel_orm'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: stream_transform
+    package_version: v0.0.6
+    title: 'v0.0.6 of stream_transform'
+    published: '2017-07-11T17:49:52+00:00'
+    id: 'urn:uuid:3e848bdd-5608-5879-86b3-288d13876fa9'
+    link: 'https://pub.dartlang.org/packages/stream_transform'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: opentracing
+    package_version: v0.2.1
+    title: 'v0.2.1 of opentracing'
+    published: '2017-07-11T15:49:27+00:00'
+    id: 'urn:uuid:4b5b4f5b-e002-5000-920f-6e116c9ea07a'
+    link: 'https://pub.dartlang.org/packages/opentracing'
+    author:
+        - 'The OpenTracing Authors <https://groups.google.com/forum/#!forum/distributed-tracing>'
+-
+    package_name: angular2_mdl
+    package_version: v0.1.6
+    title: 'v0.1.6 of angular2_mdl'
+    published: '2017-07-11T14:52:27+00:00'
+    id: 'urn:uuid:ca3e32e3-6aed-5693-94ca-6fce66539edd'
+    link: 'https://pub.dartlang.org/packages/angular2_mdl'
+    author:
+        - 'Nikaoly Chesnokov <nikolaychesnokov@gmail.com>'
+-
+    package_name: postgresql2
+    package_version: v0.3.4+3
+    title: 'v0.3.4+3 of postgresql2'
+    published: '2017-07-11T14:51:09+00:00'
+    id: 'urn:uuid:e741330e-358e-53f2-a407-aa806a4a0357'
+    link: 'https://pub.dartlang.org/packages/postgresql2'
+    author:
+        - 'Greg Lowe <greg@vis.net.nz>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
