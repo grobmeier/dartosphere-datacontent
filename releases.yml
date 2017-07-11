@@ -102590,3 +102590,57 @@
     author:
         - 'Greg Lowe <greg@vis.net.nz>'
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: pana
+    package_version: v0.2.4
+    title: 'v0.2.4 of pana'
+    published: '2017-07-11T20:59:20+00:00'
+    id: 'urn:uuid:0cd14571-6c67-5241-8568-8d36a7f8a7be'
+    link: 'https://pub.dartlang.org/packages/pana'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angel_framework
+    package_version: v1.0.7+1
+    title: 'v1.0.7+1 of angel_framework'
+    published: '2017-07-11T20:47:33+00:00'
+    id: 'urn:uuid:b20b431e-adda-5889-a005-edb6bf2cc65c'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_model
+    package_version: v1.0.0
+    title: 'v1.0.0 of angel_model'
+    published: '2017-07-11T20:45:46+00:00'
+    id: 'urn:uuid:00ac25c9-e2c1-556a-acd5-93a3a2dc504c'
+    link: 'https://pub.dartlang.org/packages/angel_model'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angular_test
+    package_version: v1.0.0-beta+4
+    title: 'v1.0.0-beta+4 of angular_test'
+    published: '2017-07-11T20:44:20+00:00'
+    id: 'urn:uuid:af9e4355-7a32-533a-866d-a08aaf0915a4'
+    link: 'https://pub.dartlang.org/packages/angular_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: source_gen
+    package_version: v0.6.1
+    title: 'v0.6.1 of source_gen'
+    published: '2017-07-11T20:17:56+00:00'
+    id: 'urn:uuid:e8119582-3bac-5aed-b046-c37e816e5205'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angular_compiler
+    package_version: v0.1.0
+    title: 'v0.1.0 of angular_compiler'
+    published: '2017-07-11T19:54:54+00:00'
+    id: 'urn:uuid:e19f7beb-9f76-5dd2-9e8e-154cc7e21aae'
+    link: 'https://pub.dartlang.org/packages/angular_compiler'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
