@@ -102693,3 +102693,12 @@
     author:
         - 'Todd Volkert <tvolkert@google.com>'
         - 'Michael Goderbauer <goderbauer@google.com>'
+-
+    package_name: github
+    package_version: v3.0.2
+    title: 'v3.0.2 of github'
+    published: '2017-07-12T02:29:17+00:00'
+    id: 'urn:uuid:356b12eb-b664-5530-b05f-6d025bde1c84'
+    link: 'https://pub.dartlang.org/packages/github'
+    author:
+        - 'Kenneth Endfinger <kaendfinger@gmail.com>'
