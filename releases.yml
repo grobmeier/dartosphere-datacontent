@@ -102644,3 +102644,52 @@
     link: 'https://pub.dartlang.org/packages/angular_compiler'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angular_compiler
+    package_version: v0.1.1
+    title: 'v0.1.1 of angular_compiler'
+    published: '2017-07-12T01:18:28+00:00'
+    id: 'urn:uuid:f602a4b8-c6f2-5baf-8728-83b6f32e71cb'
+    link: 'https://pub.dartlang.org/packages/angular_compiler'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: jaguar_sqljocky
+    package_version: v0.0.1
+    title: 'v0.0.1 of jaguar_sqljocky'
+    published: '2017-07-12T01:00:45+00:00'
+    id: 'urn:uuid:4c706ea4-be19-5108-905c-52c2a8b2774d'
+    link: 'https://pub.dartlang.org/packages/jaguar_sqljocky'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: jaguar_query
+    package_version: v0.1.10
+    title: 'v0.1.10 of jaguar_query'
+    published: '2017-07-12T00:55:10+00:00'
+    id: 'urn:uuid:f57923ba-070f-51aa-a531-eb9036ef1a59'
+    link: 'https://pub.dartlang.org/packages/jaguar_query'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: file
+    package_version: v2.3.3
+    title: 'v2.3.3 of file'
+    published: '2017-07-11T22:08:20+00:00'
+    id: 'urn:uuid:11535dd3-d4df-5627-babf-6ba640f7fb29'
+    link: 'https://pub.dartlang.org/packages/file'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Todd Volkert <tvolkert@google.com>'
+-
+    package_name: process
+    package_version: v2.0.4
+    title: 'v2.0.4 of process'
+    published: '2017-07-11T22:07:44+00:00'
+    id: 'urn:uuid:cb48a2ef-fc1c-5668-acfc-f7bdda29f567'
+    link: 'https://pub.dartlang.org/packages/process'
+    author:
+        - 'Todd Volkert <tvolkert@google.com>'
+        - 'Michael Goderbauer <goderbauer@google.com>'
