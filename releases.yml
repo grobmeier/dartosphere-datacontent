@@ -102712,3 +102712,63 @@
     author:
         - 'Jimmy Shiau <jimmyshiau@potix.com>'
         - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: jaguar_query_sqljocky
+    package_version: v0.2.0
+    title: 'v0.2.0 of jaguar_query_sqljocky'
+    published: '2017-07-12T12:38:25+00:00'
+    id: 'urn:uuid:c27a30e7-c4f2-59eb-bf2f-cc2897972694'
+    link: 'https://pub.dartlang.org/packages/jaguar_query_sqljocky'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_query_postgresql
+    package_version: v0.2.1
+    title: 'v0.2.1 of jaguar_query_postgresql'
+    published: '2017-07-12T12:30:24+00:00'
+    id: 'urn:uuid:01e994df-d421-59cc-b387-ec2d118a5d4c'
+    link: 'https://pub.dartlang.org/packages/jaguar_query_postgresql'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_query
+    package_version: v0.2.1
+    title: 'v0.2.1 of jaguar_query'
+    published: '2017-07-12T12:27:30+00:00'
+    id: 'urn:uuid:2be342c5-6a68-5416-89e0-ee53cc3d66bb'
+    link: 'https://pub.dartlang.org/packages/jaguar_query'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_reflect
+    package_version: v0.5.2
+    title: 'v0.5.2 of jaguar_reflect'
+    published: '2017-07-12T11:47:44+00:00'
+    id: 'urn:uuid:4ab74d50-8de0-5a75-ac40-76bf8660e20b'
+    link: 'https://pub.dartlang.org/packages/jaguar_reflect'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_mux
+    package_version: v0.5.1
+    title: 'v0.5.1 of jaguar_mux'
+    published: '2017-07-12T11:21:09+00:00'
+    id: 'urn:uuid:9319b481-7ec0-507e-8527-151d0eb9edd6'
+    link: 'https://pub.dartlang.org/packages/jaguar_mux'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: built_collection
+    package_version: v1.5.0
+    title: 'v1.5.0 of built_collection'
+    published: '2017-07-12T10:39:35+00:00'
+    id: 'urn:uuid:f228f3a9-7c92-52c5-a033-f09c64238662'
+    link: 'https://pub.dartlang.org/packages/built_collection'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+        - 'Matan Lurey <matanl@google.com>'
