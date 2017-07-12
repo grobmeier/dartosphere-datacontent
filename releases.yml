@@ -102702,3 +102702,13 @@
     link: 'https://pub.dartlang.org/packages/github'
     author:
         - 'Kenneth Endfinger <kaendfinger@gmail.com>'
+-
+    package_name: bootjack_datepicker
+    package_version: v0.5.8+2
+    title: 'v0.5.8+2 of bootjack_datepicker'
+    published: '2017-07-12T06:59:04+00:00'
+    id: 'urn:uuid:3bf0b11a-3a07-51ad-9bf0-de8f09219b29'
+    link: 'https://pub.dartlang.org/packages/bootjack_datepicker'
+    author:
+        - 'Jimmy Shiau <jimmyshiau@potix.com>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
