@@ -102947,3 +102947,77 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: reflectable
+    package_version: v1.0.3
+    title: 'v1.0.3 of reflectable'
+    published: '2017-07-13T15:39:59+00:00'
+    id: 'urn:uuid:7b58dd47-e1d2-5d56-923f-1b870f803c79'
+    link: 'https://pub.dartlang.org/packages/reflectable'
+    author:
+        - 'The Dart Team <dart@google.com>'
+-
+    package_name: scarabei_android_red
+    package_version: v0.0.4
+    title: 'v0.0.4 of scarabei_android_red'
+    published: '2017-07-13T14:22:51+00:00'
+    id: 'urn:uuid:483decaf-b2fe-5cd5-84b4-c1a45bdb4e05'
+    link: 'https://pub.dartlang.org/packages/scarabei_android_red'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei_desktop_red
+    package_version: v0.0.4
+    title: 'v0.0.4 of scarabei_desktop_red'
+    published: '2017-07-13T14:20:57+00:00'
+    id: 'urn:uuid:4b1dc396-fcbc-593f-a489-2bbc640b7a4d'
+    link: 'https://pub.dartlang.org/packages/scarabei_desktop_red'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei_android_api
+    package_version: v0.0.4
+    title: 'v0.0.4 of scarabei_android_api'
+    published: '2017-07-13T14:11:40+00:00'
+    id: 'urn:uuid:db7eba76-285b-5b56-8442-1f8e811cc871'
+    link: 'https://pub.dartlang.org/packages/scarabei_android_api'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei_desktop_api
+    package_version: v0.0.4
+    title: 'v0.0.4 of scarabei_desktop_api'
+    published: '2017-07-13T14:10:16+00:00'
+    id: 'urn:uuid:2594f657-b25e-5f29-a71d-bc0768753501'
+    link: 'https://pub.dartlang.org/packages/scarabei_desktop_api'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei_red
+    package_version: v0.0.4
+    title: 'v0.0.4 of scarabei_red'
+    published: '2017-07-13T14:09:27+00:00'
+    id: 'urn:uuid:f8f2ab1a-c08d-5dff-8eb9-473d7136c53d'
+    link: 'https://pub.dartlang.org/packages/scarabei_red'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: jaguar_serializer
+    package_version: v0.3.12
+    title: 'v0.3.12 of jaguar_serializer'
+    published: '2017-07-13T14:09:03+00:00'
+    id: 'urn:uuid:7b3e10c1-f88d-541f-8f2a-02c9fdcecfea'
+    link: 'https://pub.dartlang.org/packages/jaguar_serializer'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: scarabei_api
+    package_version: v0.0.4
+    title: 'v0.0.4 of scarabei_api'
+    published: '2017-07-13T14:08:04+00:00'
+    id: 'urn:uuid:564b36b4-dad9-50e1-a4a2-b8275a891608'
+    link: 'https://pub.dartlang.org/packages/scarabei_api'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
