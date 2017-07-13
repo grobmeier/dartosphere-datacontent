@@ -102813,3 +102813,91 @@
     link: 'https://pub.dartlang.org/packages/angular_recaptcha'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: angular_components
+    package_version: v0.5.3+1
+    title: 'v0.5.3+1 of angular_components'
+    published: '2017-07-12T23:54:11+00:00'
+    id: 'urn:uuid:335b9424-3b94-5b93-b615-ef6d9f9dabaf'
+    link: 'https://pub.dartlang.org/packages/angular_components'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: jaguar_mongo_data_store
+    package_version: v0.2.4
+    title: 'v0.2.4 of jaguar_mongo_data_store'
+    published: '2017-07-12T23:40:06+00:00'
+    id: 'urn:uuid:b3b3ab57-4c6e-5788-ac21-48f19ea129fc'
+    link: 'https://pub.dartlang.org/packages/jaguar_mongo_data_store'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_query_sqljocky_data_store
+    package_version: v0.0.1
+    title: 'v0.0.1 of jaguar_query_sqljocky_data_store'
+    published: '2017-07-12T23:23:48+00:00'
+    id: 'urn:uuid:31661fbe-cefb-5edc-914f-c1af987a47f4'
+    link: 'https://pub.dartlang.org/packages/jaguar_query_sqljocky_data_store'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: jaguar_query_postgresql_data_store
+    package_version: v0.2.1
+    title: 'v0.2.1 of jaguar_query_postgresql_data_store'
+    published: '2017-07-12T23:20:38+00:00'
+    id: 'urn:uuid:19692687-3f3c-51d2-9f5c-d38b3664e88b'
+    link: 'https://pub.dartlang.org/packages/jaguar_query_postgresql_data_store'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_query_data_store
+    package_version: v0.2.1
+    title: 'v0.2.1 of jaguar_query_data_store'
+    published: '2017-07-12T23:12:41+00:00'
+    id: 'urn:uuid:f4a26d4b-0bac-51b2-ae72-fa2f74218ad0'
+    link: 'https://pub.dartlang.org/packages/jaguar_query_data_store'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_query_sqljocky
+    package_version: v0.2.2
+    title: 'v0.2.2 of jaguar_query_sqljocky'
+    published: '2017-07-12T22:59:43+00:00'
+    id: 'urn:uuid:094a44fa-9bf6-5424-9c69-dc6470535993'
+    link: 'https://pub.dartlang.org/packages/jaguar_query_sqljocky'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_sqljocky
+    package_version: v0.1.0
+    title: 'v0.1.0 of jaguar_sqljocky'
+    published: '2017-07-12T22:44:15+00:00'
+    id: 'urn:uuid:3e33aa12-625f-5769-bf3b-9d739b53cecc'
+    link: 'https://pub.dartlang.org/packages/jaguar_sqljocky'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: sqljocky5
+    package_version: v1.0.0
+    title: 'v1.0.0 of sqljocky5'
+    published: '2017-07-12T22:39:49+00:00'
+    id: 'urn:uuid:149f5da3-8ff7-5cda-99db-d80a577ac6ff'
+    link: 'https://pub.dartlang.org/packages/sqljocky5'
+    author:
+        - 'James Ots <code@jamesots.com>'
+        - 'Faisal Abid <faisal.abid@gmail.com>'
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: jaguar_data_store
+    package_version: v0.1.0
+    title: 'v0.1.0 of jaguar_data_store'
+    published: '2017-07-12T22:13:22+00:00'
+    id: 'urn:uuid:2324a7f6-60c6-513e-8ff2-29a47ee2af56'
+    link: 'https://pub.dartlang.org/packages/jaguar_data_store'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
