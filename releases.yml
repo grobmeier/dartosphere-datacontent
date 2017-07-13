@@ -102910,3 +102910,21 @@
     link: 'https://pub.dartlang.org/packages/zoomable_image'
     author:
         - 'perlatus <perlatus@zoomable_image.email.vczf.io>'
+-
+    package_name: mqtt_client
+    package_version: v1.0.0
+    title: 'v1.0.0 of mqtt_client'
+    published: '2017-07-13T09:47:32+00:00'
+    id: 'urn:uuid:1ff5377d-0675-59c8-88d6-64c95e251e57'
+    link: 'https://pub.dartlang.org/packages/mqtt_client'
+    author:
+        - 'Steve Hamblett <steve.hamblett@linux.com>'
+-
+    package_name: spritewidget
+    package_version: v0.9.4
+    title: 'v0.9.4 of spritewidget'
+    published: '2017-07-13T08:05:01+00:00'
+    id: 'urn:uuid:bd62147e-5222-5044-a93b-7595b24f06f8'
+    link: 'https://pub.dartlang.org/packages/spritewidget'
+    author:
+        - 'Viktor Lidholt <viktorlidholt@gmail.com>'
