@@ -103096,3 +103096,30 @@
     link: 'https://pub.dartlang.org/packages/mark_with_label'
     author:
         - 'Emerson Moura <olimou@gmail.com>'
+-
+    package_name: mdl
+    package_version: v2.0.0
+    title: 'v2.0.0 of mdl'
+    published: '2017-07-14T09:45:01+00:00'
+    id: 'urn:uuid:a9f7f45d-3e28-54e1-af66-d9f840c65877'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: jaguar_client
+    package_version: v0.0.1-dev
+    title: 'v0.0.1-dev of jaguar_client'
+    published: '2017-07-14T08:47:13+00:00'
+    id: 'urn:uuid:6c28dff3-82c8-58dd-8274-5ec223954c01'
+    link: 'https://pub.dartlang.org/packages/jaguar_client'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: cbor
+    package_version: v1.0.2
+    title: 'v1.0.2 of cbor'
+    published: '2017-07-14T07:19:43+00:00'
+    id: 'urn:uuid:791d3f29-7b10-55f9-b809-bbfd332765ed'
+    link: 'https://pub.dartlang.org/packages/cbor'
+    author:
+        - 'Steve Hamblett <steve.hamblett@linux.com>'
