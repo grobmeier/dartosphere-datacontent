@@ -103123,3 +103123,30 @@
     link: 'https://pub.dartlang.org/packages/cbor'
     author:
         - 'Steve Hamblett <steve.hamblett@linux.com>'
+-
+    package_name: jaguar_client
+    package_version: v0.0.3-dev
+    title: 'v0.0.3-dev of jaguar_client'
+    published: '2017-07-14T12:52:20+00:00'
+    id: 'urn:uuid:d1f8d4be-2558-5c7b-9f3b-8f1ea3e4baa9'
+    link: 'https://pub.dartlang.org/packages/jaguar_client'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: xml2json
+    package_version: v2.0.9
+    title: 'v2.0.9 of xml2json'
+    published: '2017-07-14T10:33:45+00:00'
+    id: 'urn:uuid:9aa5b7d9-c26b-5d46-ae9d-41bd88c2f2c8'
+    link: 'https://pub.dartlang.org/packages/xml2json'
+    author:
+        - 'S. Hamblett <steve.hamblett@linux.com>'
+-
+    package_name: mdl
+    package_version: v2.0.1
+    title: 'v2.0.1 of mdl'
+    published: '2017-07-14T10:08:24+00:00'
+    id: 'urn:uuid:5c5b77fd-4962-53db-ac6c-7c3b0dc80662'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
