@@ -103087,3 +103087,12 @@
     link: 'https://pub.dartlang.org/packages/dht'
     author:
         - 'Yuriy Olkhovyy <yuriy.olkhovyy@gmail.com>'
+-
+    package_name: mark_with_label
+    package_version: v0.0.3
+    title: 'v0.0.3 of mark_with_label'
+    published: '2017-07-13T22:10:58+00:00'
+    id: 'urn:uuid:b23ed1d9-99a3-510c-bce1-a1fb05c49218'
+    link: 'https://pub.dartlang.org/packages/mark_with_label'
+    author:
+        - 'Emerson Moura <olimou@gmail.com>'
