@@ -103258,3 +103258,12 @@
     link: 'https://pub.dartlang.org/packages/angel_orm'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: html5
+    package_version: v0.1.7
+    title: 'v0.1.7 of html5'
+    published: '2017-07-15T09:38:38+00:00'
+    id: 'urn:uuid:46aeddea-f746-54f3-9a78-95e5c46935cb'
+    link: 'https://pub.dartlang.org/packages/html5'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
