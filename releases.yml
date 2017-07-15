@@ -103286,3 +103286,30 @@
     link: 'https://pub.dartlang.org/packages/jaguar_client'
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: nbp_transformer
+    package_version: v0.0.1
+    title: 'v0.0.1 of nbp_transformer'
+    published: '2017-07-15T17:55:05+00:00'
+    id: 'urn:uuid:368a0e61-a995-5770-b19f-5e781127e13f'
+    link: 'https://pub.dartlang.org/packages/nbp_transformer'
+    author:
+        - 'Nikita Babanin <nikitared@iwtlab.net>'
+-
+    package_name: angel_orm_generator
+    package_version: v1.0.0-alpha+2
+    title: 'v1.0.0-alpha+2 of angel_orm_generator'
+    published: '2017-07-15T15:12:21+00:00'
+    id: 'urn:uuid:ee059685-be10-555f-9444-764407c10671'
+    link: 'https://pub.dartlang.org/packages/angel_orm_generator'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_orm
+    package_version: v1.0.0-alpha+6
+    title: 'v1.0.0-alpha+6 of angel_orm'
+    published: '2017-07-15T14:24:26+00:00'
+    id: 'urn:uuid:3fafda5a-483b-5e69-94da-09ac22b481e2'
+    link: 'https://pub.dartlang.org/packages/angel_orm'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
