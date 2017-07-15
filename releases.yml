@@ -103231,3 +103231,30 @@
     link: 'https://pub.dartlang.org/packages/orderable_stack'
     author:
         - 'rxlabz <erick@rxla.bz>'
+-
+    package_name: marker_with_label
+    package_version: v0.0.8
+    title: 'v0.0.8 of marker_with_label'
+    published: '2017-07-15T00:23:59+00:00'
+    id: 'urn:uuid:b1aff854-9753-5344-9523-39ef2a1870a6'
+    link: 'https://pub.dartlang.org/packages/marker_with_label'
+    author:
+        - 'Emerson Moura <olimou@gmail.com>'
+-
+    package_name: angel_orm_generator
+    package_version: v1.0.0-alpha+1
+    title: 'v1.0.0-alpha+1 of angel_orm_generator'
+    published: '2017-07-14T23:10:59+00:00'
+    id: 'urn:uuid:5eaecc26-f556-5d0c-8be4-62cf7226473c'
+    link: 'https://pub.dartlang.org/packages/angel_orm_generator'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_orm
+    package_version: v1.0.0-alpha+5
+    title: 'v1.0.0-alpha+5 of angel_orm'
+    published: '2017-07-14T23:10:06+00:00'
+    id: 'urn:uuid:b072ffa5-43fb-5300-945d-d355730b1caa'
+    link: 'https://pub.dartlang.org/packages/angel_orm'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
