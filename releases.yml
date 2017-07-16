@@ -103440,3 +103440,23 @@
     link: 'https://pub.dartlang.org/packages/orderable_stack'
     author:
         - 'rxlabz <erick@rxla.bz>'
+-
+    package_name: jaguar_session
+    package_version: v0.9.0
+    title: 'v0.9.0 of jaguar_session'
+    published: '2017-07-16T20:46:43+00:00'
+    id: 'urn:uuid:dcd28b25-0b50-5ec0-b70f-5c0767241da1'
+    link: 'https://pub.dartlang.org/packages/jaguar_session'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_auth
+    package_version: v0.10.1
+    title: 'v0.10.1 of jaguar_auth'
+    published: '2017-07-16T20:45:00+00:00'
+    id: 'urn:uuid:92889e85-763d-5f79-b044-ac953cba96eb'
+    link: 'https://pub.dartlang.org/packages/jaguar_auth'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
