@@ -103413,3 +103413,30 @@
     link: 'https://pub.dartlang.org/packages/simplegamelib'
     author:
         - 'Davy Mitchell <daftspaniel@gmail.com>'
+-
+    package_name: jaguar_client
+    package_version: v0.1.2
+    title: 'v0.1.2 of jaguar_client'
+    published: '2017-07-16T12:32:42+00:00'
+    id: 'urn:uuid:ee5581c3-4fe8-5f1d-b3c8-facb5bdcd440'
+    link: 'https://pub.dartlang.org/packages/jaguar_client'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: auth_header
+    package_version: v0.0.3
+    title: 'v0.0.3 of auth_header'
+    published: '2017-07-16T12:17:16+00:00'
+    id: 'urn:uuid:13b17edc-5a8a-5e78-a705-64b933c9a1d3'
+    link: 'https://pub.dartlang.org/packages/auth_header'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: orderable_stack
+    package_version: v0.1.2
+    title: 'v0.1.2 of orderable_stack'
+    published: '2017-07-16T11:11:04+00:00'
+    id: 'urn:uuid:c0acf37c-1fb3-5049-8c27-88cb7c667c1c'
+    link: 'https://pub.dartlang.org/packages/orderable_stack'
+    author:
+        - 'rxlabz <erick@rxla.bz>'
