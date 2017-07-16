@@ -103350,3 +103350,12 @@
     link: 'https://pub.dartlang.org/packages/angel_orm'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: union_type
+    package_version: v1.0.1
+    title: 'v1.0.1 of union_type'
+    published: '2017-07-15T23:48:08+00:00'
+    id: 'urn:uuid:e587d5d9-3ceb-5825-86e9-e20ea6e36b2e'
+    link: 'https://pub.dartlang.org/packages/union_type'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
