@@ -103460,3 +103460,12 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_recaptcha
+    package_version: v0.0.3
+    title: 'v0.0.3 of jaguar_recaptcha'
+    published: '2017-07-16T23:30:27+00:00'
+    id: 'urn:uuid:eb3d5321-1507-5cc9-b0d9-e72a4ae68c4d'
+    link: 'https://pub.dartlang.org/packages/jaguar_recaptcha'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
