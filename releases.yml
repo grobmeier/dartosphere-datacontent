@@ -103508,3 +103508,40 @@
     link: 'https://pub.dartlang.org/packages/linter'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: jaguar_http
+    package_version: v0.0.1
+    title: 'v0.0.1 of jaguar_http'
+    published: '2017-07-17T20:43:07+00:00'
+    id: 'urn:uuid:54571262-5633-50c0-8ec3-4f7a5e20787e'
+    link: 'https://pub.dartlang.org/packages/jaguar_http'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: gitter
+    package_version: v0.1.2
+    title: 'v0.1.2 of gitter'
+    published: '2017-07-17T20:13:12+00:00'
+    id: 'urn:uuid:dbec5ba7-56d5-5597-b369-361327d7a313'
+    link: 'https://pub.dartlang.org/packages/gitter'
+    author:
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: shelf_exception_response
+    package_version: v0.1.1+1
+    title: 'v0.1.1+1 of shelf_exception_response'
+    published: '2017-07-17T19:36:25+00:00'
+    id: 'urn:uuid:e0d354f9-3ac0-51a8-a8a6-a7e4a4d64c01'
+    link: 'https://pub.dartlang.org/packages/shelf_exception_response'
+    author:
+        - 'Thomas Profelt <tom@octobyte.at>'
+-
+    package_name: location
+    package_version: v1.1.0
+    title: 'v1.1.0 of location'
+    published: '2017-07-17T18:12:52+00:00'
+    id: 'urn:uuid:21cde48c-54e8-5777-8b3f-43dc4987e836'
+    link: 'https://pub.dartlang.org/packages/location'
+    author:
+        - 'Guillaume Bernos'
