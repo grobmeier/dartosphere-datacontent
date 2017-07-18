@@ -103590,3 +103590,21 @@
     link: 'https://pub.dartlang.org/packages/jaguar_client'
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: jaguar_recaptcha
+    package_version: v0.0.4
+    title: 'v0.0.4 of jaguar_recaptcha'
+    published: '2017-07-18T21:30:36+00:00'
+    id: 'urn:uuid:5fe2e698-f76e-54a7-aa82-3aae34e09c92'
+    link: 'https://pub.dartlang.org/packages/jaguar_recaptcha'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: source_gen
+    package_version: v0.6.1+1
+    title: 'v0.6.1+1 of source_gen'
+    published: '2017-07-18T19:01:32+00:00'
+    id: 'urn:uuid:f1376831-ac94-5400-a31e-e27672c5f26e'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
