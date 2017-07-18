@@ -103572,3 +103572,21 @@
     link: 'https://pub.dartlang.org/packages/dart_language_server'
     author:
         - 'Nate Bosch <nbosch1@gmail.com>'
+-
+    package_name: http2
+    package_version: v0.1.3
+    title: 'v0.1.3 of http2'
+    published: '2017-07-18T08:38:12+00:00'
+    id: 'urn:uuid:b72854d4-426f-5f10-9199-c71214e4f2ea'
+    link: 'https://pub.dartlang.org/packages/http2'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: jaguar_client
+    package_version: v0.1.3
+    title: 'v0.1.3 of jaguar_client'
+    published: '2017-07-18T07:21:50+00:00'
+    id: 'urn:uuid:cf3afb91-2687-5067-923f-e2626107e3e9'
+    link: 'https://pub.dartlang.org/packages/jaguar_client'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
