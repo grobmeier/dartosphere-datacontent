@@ -103608,3 +103608,30 @@
     link: 'https://pub.dartlang.org/packages/source_gen'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: built_redux
+    package_version: v2.0.1
+    title: 'v2.0.1 of built_redux'
+    published: '2017-07-18T23:43:53+00:00'
+    id: 'urn:uuid:82d1c671-590a-5538-821b-23717ed982f4'
+    link: 'https://pub.dartlang.org/packages/built_redux'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: angel_auth_instagram
+    package_version: v1.0.0
+    title: 'v1.0.0 of angel_auth_instagram'
+    published: '2017-07-18T23:42:21+00:00'
+    id: 'urn:uuid:d25e9e19-dc5f-5103-ac8a-478de4060fd5'
+    link: 'https://pub.dartlang.org/packages/angel_auth_instagram'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: instagram
+    package_version: v1.0.0-beta+2
+    title: 'v1.0.0-beta+2 of instagram'
+    published: '2017-07-18T23:21:20+00:00'
+    id: 'urn:uuid:75b4462f-298c-5f6f-910e-fc96fe3a5a66'
+    link: 'https://pub.dartlang.org/packages/instagram'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
