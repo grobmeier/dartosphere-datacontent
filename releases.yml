@@ -103653,3 +103653,12 @@
     link: 'https://pub.dartlang.org/packages/bullseye'
     author:
         - 'Hanyuan Li <completelyderp@gmail.com>'
+-
+    package_name: graphql_client
+    package_version: v0.0.1
+    title: 'v0.0.1 of graphql_client'
+    published: '2017-07-19T13:05:20+00:00'
+    id: 'urn:uuid:d820e7ec-bee4-532e-9586-d78f9ee65371'
+    link: 'https://pub.dartlang.org/packages/graphql_client'
+    author:
+        - 'Thomas Hourlier <hourliert@gmail.com>'
