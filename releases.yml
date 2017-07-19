@@ -103700,3 +103700,76 @@
     link: 'https://pub.dartlang.org/packages/wilt'
     author:
         - 'S. Hamblett <steve.hamblett@linux.com>'
+-
+    package_name: meta
+    package_version: v1.1.1
+    title: 'v1.1.1 of meta'
+    published: '2017-07-19T21:45:02+00:00'
+    id: 'urn:uuid:dd0f60cd-b342-5af5-bb10-29bf9cba2c2d'
+    link: 'https://pub.dartlang.org/packages/meta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: body_parser
+    package_version: v1.0.2
+    title: 'v1.0.2 of body_parser'
+    published: '2017-07-19T21:21:08+00:00'
+    id: 'urn:uuid:502ac84f-3df2-5343-8afe-9b472af5530d'
+    link: 'https://pub.dartlang.org/packages/body_parser'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: dart_dev
+    package_version: v1.7.8
+    title: 'v1.7.8 of dart_dev'
+    published: '2017-07-19T21:13:12+00:00'
+    id: 'urn:uuid:8f8f7125-b46c-5978-98d1-fad78e488e9f'
+    link: 'https://pub.dartlang.org/packages/dart_dev'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: crypto
+    package_version: v2.0.2
+    title: 'v2.0.2 of crypto'
+    published: '2017-07-19T19:52:11+00:00'
+    id: 'urn:uuid:882b7a48-8a88-58f4-990a-8af4298d4a27'
+    link: 'https://pub.dartlang.org/packages/crypto'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: package_config
+    package_version: v1.0.2
+    title: 'v1.0.2 of package_config'
+    published: '2017-07-19T19:48:40+00:00'
+    id: 'urn:uuid:56313cec-7aa9-5eca-a716-cde10c5cd847'
+    link: 'https://pub.dartlang.org/packages/package_config'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: fixnum
+    package_version: v0.10.6
+    title: 'v0.10.6 of fixnum'
+    published: '2017-07-19T19:40:32+00:00'
+    id: 'urn:uuid:01b0b4bc-4f95-50e5-af4e-caf9f2ec7d74'
+    link: 'https://pub.dartlang.org/packages/fixnum'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: w_transport
+    package_version: v3.1.0
+    title: 'v3.1.0 of w_transport'
+    published: '2017-07-19T19:28:03+00:00'
+    id: 'urn:uuid:993e7014-248b-56e6-9e04-67ead8e37b3c'
+    link: 'https://pub.dartlang.org/packages/w_transport'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
