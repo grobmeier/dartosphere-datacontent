@@ -103662,3 +103662,41 @@
     link: 'https://pub.dartlang.org/packages/graphql_client'
     author:
         - 'Thomas Hourlier <hourliert@gmail.com>'
+-
+    package_name: stagehand
+    package_version: v1.1.5
+    title: 'v1.1.5 of stagehand'
+    published: '2017-07-19T17:33:34+00:00'
+    id: 'urn:uuid:b0eae4f8-5e27-57b3-99d8-c23dfe634c38'
+    link: 'https://pub.dartlang.org/packages/stagehand'
+    author:
+        - 'Seth Ladd <sethladd@google.com>'
+        - 'Devon Carew <devoncarew@google.com>'
+        - 'Kathy Walrath <kathyw@google.com>'
+-
+    package_name: built_redux
+    package_version: v2.0.2
+    title: 'v2.0.2 of built_redux'
+    published: '2017-07-19T17:03:33+00:00'
+    id: 'urn:uuid:4e3bd00d-b746-5d83-bec3-ef2c5d71c4da'
+    link: 'https://pub.dartlang.org/packages/built_redux'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: graphql_schema
+    package_version: v1.0.0-beta
+    title: 'v1.0.0-beta of graphql_schema'
+    published: '2017-07-19T14:42:46+00:00'
+    id: 'urn:uuid:589c06e0-726c-5c96-80e6-defe3ee85e35'
+    link: 'https://pub.dartlang.org/packages/graphql_schema'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: wilt
+    package_version: v3.3.0
+    title: 'v3.3.0 of wilt'
+    published: '2017-07-19T14:16:54+00:00'
+    id: 'urn:uuid:3d147b49-f8eb-5d54-bea4-0cf2ac8edeaa'
+    link: 'https://pub.dartlang.org/packages/wilt'
+    author:
+        - 'S. Hamblett <steve.hamblett@linux.com>'
