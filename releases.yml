@@ -103773,3 +103773,21 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: http
+    package_version: v0.11.3+14
+    title: 'v0.11.3+14 of http'
+    published: '2017-07-20T01:14:12+00:00'
+    id: 'urn:uuid:f4aad6aa-fe3f-540d-98d2-5964ea513c6f'
+    link: 'https://pub.dartlang.org/packages/http'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: symbol_table
+    package_version: v1.0.1
+    title: 'v1.0.1 of symbol_table'
+    published: '2017-07-19T23:12:52+00:00'
+    id: 'urn:uuid:11bf5aa4-7866-53c4-9faf-97bdc58a7477'
+    link: 'https://pub.dartlang.org/packages/symbol_table'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
