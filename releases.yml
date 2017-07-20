@@ -103791,3 +103791,21 @@
     link: 'https://pub.dartlang.org/packages/symbol_table'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: collection
+    package_version: v1.14.3
+    title: 'v1.14.3 of collection'
+    published: '2017-07-20T03:45:42+00:00'
+    id: 'urn:uuid:2d1e57d3-0f96-5d68-ac3f-87e59be51886'
+    link: 'https://pub.dartlang.org/packages/collection'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: built_mirrors
+    package_version: v0.2.4
+    title: 'v0.2.4 of built_mirrors'
+    published: '2017-07-20T02:17:21+00:00'
+    id: 'urn:uuid:f25956f4-b52f-50b5-bea8-8b200e7954af'
+    link: 'https://pub.dartlang.org/packages/built_mirrors'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
