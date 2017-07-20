@@ -103837,3 +103837,48 @@
     author:
         - 'Tomucha <tomucha@gmail.com>'
         - 'Honza Bittner <the@honzabittner.cz>'
+-
+    package_name: json_serializable
+    package_version: v0.1.0+1
+    title: 'v0.1.0+1 of json_serializable'
+    published: '2017-07-20T17:16:15+00:00'
+    id: 'urn:uuid:4f049140-2f12-5637-9925-d5c29935a78f'
+    link: 'https://pub.dartlang.org/packages/json_serializable'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: aqueduct
+    package_version: v2.3.1
+    title: 'v2.3.1 of aqueduct'
+    published: '2017-07-20T16:10:28+00:00'
+    id: 'urn:uuid:c10e58da-8a4c-543c-a836-0d52f3664743'
+    link: 'https://pub.dartlang.org/packages/aqueduct'
+    author:
+        - 'stable|kernel <http://stablekernel.com>'
+-
+    package_name: plugin
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of plugin'
+    published: '2017-07-20T16:03:35+00:00'
+    id: 'urn:uuid:9be805c9-b430-5ac5-8276-e9e3806c42f4'
+    link: 'https://pub.dartlang.org/packages/plugin'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build_runner
+    package_version: v0.3.4+1
+    title: 'v0.3.4+1 of build_runner'
+    published: '2017-07-20T15:30:45+00:00'
+    id: 'urn:uuid:519d8f6d-7f3d-5e34-ad72-d744e4beb6a4'
+    link: 'https://pub.dartlang.org/packages/build_runner'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: static_dom
+    package_version: v0.0.3
+    title: 'v0.0.3 of static_dom'
+    published: '2017-07-20T14:57:09+00:00'
+    id: 'urn:uuid:e8fd1476-4e16-57bf-a284-e4dc45e79b73'
+    link: 'https://pub.dartlang.org/packages/static_dom'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
