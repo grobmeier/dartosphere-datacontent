@@ -103997,3 +103997,33 @@
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: jaguar_static_file
+    package_version: v0.5.3
+    title: 'v0.5.3 of jaguar_static_file'
+    published: '2017-07-21T21:00:05+00:00'
+    id: 'urn:uuid:63fc8eed-6f65-50d2-8afa-20fd03c6f9eb'
+    link: 'https://pub.dartlang.org/packages/jaguar_static_file'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_session
+    package_version: v0.9.1
+    title: 'v0.9.1 of jaguar_session'
+    published: '2017-07-21T20:49:40+00:00'
+    id: 'urn:uuid:cae4464b-781e-5ff0-bbea-57d6b5ae191d'
+    link: 'https://pub.dartlang.org/packages/jaguar_session'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_auth
+    package_version: v0.10.2
+    title: 'v0.10.2 of jaguar_auth'
+    published: '2017-07-21T20:44:26+00:00'
+    id: 'urn:uuid:4033e498-ed94-5087-8b9c-fe6a6ffc54c0'
+    link: 'https://pub.dartlang.org/packages/jaguar_auth'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
