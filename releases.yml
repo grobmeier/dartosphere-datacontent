@@ -104072,3 +104072,21 @@
     link: 'https://pub.dartlang.org/packages/observable_roles'
     author:
         - 'Roman Snitko <roman.snitko@gmail.com>'
+-
+    package_name: stringprocess
+    package_version: v0.0.4
+    title: 'v0.0.4 of stringprocess'
+    published: '2017-07-22T09:31:43+00:00'
+    id: 'urn:uuid:76776671-a386-59f8-a105-b950dc74b66e'
+    link: 'https://pub.dartlang.org/packages/stringprocess'
+    author:
+        - 'Davy Mitchell <daftspaniel@gmail.com>'
+-
+    package_name: more
+    package_version: v1.7.0
+    title: 'v1.7.0 of more'
+    published: '2017-07-22T08:55:33+00:00'
+    id: 'urn:uuid:3646f42e-8aec-5209-9ef6-9d60671ca7bc'
+    link: 'https://pub.dartlang.org/packages/more'
+    author:
+        - 'Lukas Renggli <renggli@gmail.com>'
