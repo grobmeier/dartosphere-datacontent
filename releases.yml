@@ -104108,3 +104108,12 @@
     link: 'https://pub.dartlang.org/packages/more'
     author:
         - 'Lukas Renggli <renggli@gmail.com>'
+-
+    package_name: aqueduct
+    package_version: v2.3.2
+    title: 'v2.3.2 of aqueduct'
+    published: '2017-07-22T16:56:52+00:00'
+    id: 'urn:uuid:e2a2378d-8563-54e4-b68f-cd4d78541e4e'
+    link: 'https://pub.dartlang.org/packages/aqueduct'
+    author:
+        - 'stable|kernel <http://stablekernel.com>'
