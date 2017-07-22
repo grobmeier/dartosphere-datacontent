@@ -104090,3 +104090,21 @@
     link: 'https://pub.dartlang.org/packages/more'
     author:
         - 'Lukas Renggli <renggli@gmail.com>'
+-
+    package_name: jaguar_cache_redis
+    package_version: v0.1.0
+    title: 'v0.1.0 of jaguar_cache_redis'
+    published: '2017-07-22T12:55:10+00:00'
+    id: 'urn:uuid:1824bba4-3df9-5500-b2d9-9fb0dbc7b257'
+    link: 'https://pub.dartlang.org/packages/jaguar_cache_redis'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: more
+    package_version: v1.7.1
+    title: 'v1.7.1 of more'
+    published: '2017-07-22T12:30:22+00:00'
+    id: 'urn:uuid:f38068b4-3b8f-5589-9391-fde0f0c29307'
+    link: 'https://pub.dartlang.org/packages/more'
+    author:
+        - 'Lukas Renggli <renggli@gmail.com>'
