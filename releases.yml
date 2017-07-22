@@ -104054,3 +104054,21 @@
     link: 'https://pub.dartlang.org/packages/tzolkin'
     author:
         - 'John Ryan <john.p.ryan4@gmail.com>'
+-
+    package_name: dartifact
+    package_version: v0.6.86
+    title: 'v0.6.86 of dartifact'
+    published: '2017-07-22T04:04:14+00:00'
+    id: 'urn:uuid:5646b620-e1a8-576e-97d8-b2e73b66d578'
+    link: 'https://pub.dartlang.org/packages/dartifact'
+    author:
+        - 'Roman Snitko <roman.snitko@gmail.com>'
+-
+    package_name: observable_roles
+    package_version: v0.1.43
+    title: 'v0.1.43 of observable_roles'
+    published: '2017-07-22T02:31:40+00:00'
+    id: 'urn:uuid:7399833b-9648-5617-9dc1-e227d13c861c'
+    link: 'https://pub.dartlang.org/packages/observable_roles'
+    author:
+        - 'Roman Snitko <roman.snitko@gmail.com>'
