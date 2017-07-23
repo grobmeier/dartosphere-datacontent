@@ -104288,3 +104288,31 @@
     link: 'https://pub.dartlang.org/packages/angel_framework'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: jaguar_throttle
+    package_version: v0.2.1
+    title: 'v0.2.1 of jaguar_throttle'
+    published: '2017-07-23T21:15:45+00:00'
+    id: 'urn:uuid:a27eedaa-02af-5cf6-9d7d-ade7a924d256'
+    link: 'https://pub.dartlang.org/packages/jaguar_throttle'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: jaguar_cache_redis
+    package_version: v0.1.1
+    title: 'v0.1.1 of jaguar_cache_redis'
+    published: '2017-07-23T18:12:21+00:00'
+    id: 'urn:uuid:1e7bf81b-a5cf-5e75-a634-d95b1f3a2584'
+    link: 'https://pub.dartlang.org/packages/jaguar_cache_redis'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: jaguar_hotreload
+    package_version: v0.1.0
+    title: 'v0.1.0 of jaguar_hotreload'
+    published: '2017-07-23T18:06:09+00:00'
+    id: 'urn:uuid:592c2426-b6f0-56a7-9683-73cde1140b30'
+    link: 'https://pub.dartlang.org/packages/jaguar_hotreload'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
