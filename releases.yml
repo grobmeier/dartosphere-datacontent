@@ -104135,3 +104135,41 @@
     link: 'https://pub.dartlang.org/packages/indenting_buffer'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: chronosgl
+    package_version: v3.2.0
+    title: 'v3.2.0 of chronosgl'
+    published: '2017-07-23T01:36:11+00:00'
+    id: 'urn:uuid:60b00254-d5e2-5429-931f-597cf32ca0ef'
+    link: 'https://pub.dartlang.org/packages/chronosgl'
+    author:
+        - 'Robert Muth <robert@muth.org>'
+        - 'Ray Hulha <java4life@gmail.com>'
+-
+    package_name: instagram
+    package_version: v1.0.0-rc.1
+    title: 'v1.0.0-rc.1 of instagram'
+    published: '2017-07-23T00:50:58+00:00'
+    id: 'urn:uuid:fccd7a12-9923-5bd9-b778-99aadfc72f31'
+    link: 'https://pub.dartlang.org/packages/instagram'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: jaguar_throttle
+    package_version: v0.0.1
+    title: 'v0.0.1 of jaguar_throttle'
+    published: '2017-07-22T22:55:50+00:00'
+    id: 'urn:uuid:60ad64b5-fe4f-54eb-b1b7-9baf01760910'
+    link: 'https://pub.dartlang.org/packages/jaguar_throttle'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: jaguar
+    package_version: v0.6.9
+    title: 'v0.6.9 of jaguar'
+    published: '2017-07-22T22:27:13+00:00'
+    id: 'urn:uuid:020890a5-6232-5003-8bb1-e3d96df5d3b3'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
