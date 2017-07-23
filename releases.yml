@@ -104173,3 +104173,23 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: mongo_dart_query
+    package_version: v0.3.0
+    title: 'v0.3.0 of mongo_dart_query'
+    published: '2017-07-23T09:52:24+00:00'
+    id: 'urn:uuid:0477060b-fb84-5611-814c-f5572eab80c0'
+    link: 'https://pub.dartlang.org/packages/mongo_dart_query'
+    author:
+        - 'Vadim Tsushko <vadimtsushko@gmail.com>'
+        - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
+-
+    package_name: bson
+    package_version: v0.3.0
+    title: 'v0.3.0 of bson'
+    published: '2017-07-23T09:46:53+00:00'
+    id: 'urn:uuid:e13f3d19-bf51-5fc4-af8a-dde5adb95685'
+    link: 'https://pub.dartlang.org/packages/bson'
+    author:
+        - 'Vadim Tsushko <vadimtsushko@gmail.com>'
+        - 'Ad van der Veer <advanderveer@gmail.com>'
