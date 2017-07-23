@@ -104233,3 +104233,58 @@
     link: 'https://pub.dartlang.org/packages/server_client_comm'
     author:
         - 'Alex Clarke <ajclarke903@gmail.com>'
+-
+    package_name: jaguar_throttle
+    package_version: v0.1.0
+    title: 'v0.1.0 of jaguar_throttle'
+    published: '2017-07-23T17:21:42+00:00'
+    id: 'urn:uuid:09f75b2f-626b-5915-a473-ebed9475ff50'
+    link: 'https://pub.dartlang.org/packages/jaguar_throttle'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: jaguar_cache
+    package_version: v0.1.2
+    title: 'v0.1.2 of jaguar_cache'
+    published: '2017-07-23T17:18:31+00:00'
+    id: 'urn:uuid:58087f81-201f-546a-8b16-eb0cadd57b87'
+    link: 'https://pub.dartlang.org/packages/jaguar_cache'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: jaguar
+    package_version: v0.6.10
+    title: 'v0.6.10 of jaguar'
+    published: '2017-07-23T17:15:14+00:00'
+    id: 'urn:uuid:c13c17ab-0c6a-5616-af67-c1a1dc5dd35f'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: html_builder
+    package_version: v1.0.2
+    title: 'v1.0.2 of html_builder'
+    published: '2017-07-23T16:05:33+00:00'
+    id: 'urn:uuid:8572568e-828a-594f-b681-d7ecc9ba8ed6'
+    link: 'https://pub.dartlang.org/packages/html_builder'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_html
+    package_version: v1.0.0
+    title: 'v1.0.0 of angel_html'
+    published: '2017-07-23T15:50:22+00:00'
+    id: 'urn:uuid:bd7aab2b-4cbc-551a-aef1-0407ed01adc3'
+    link: 'https://pub.dartlang.org/packages/angel_html'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.7+2
+    title: 'v1.0.7+2 of angel_framework'
+    published: '2017-07-23T15:41:19+00:00'
+    id: 'urn:uuid:0e071e13-4c79-5699-a21e-0e05d9b780e5'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
