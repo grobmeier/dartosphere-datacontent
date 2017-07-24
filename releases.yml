@@ -104411,3 +104411,30 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: w_common
+    package_version: v1.7.1
+    title: 'v1.7.1 of w_common'
+    published: '2017-07-24T20:42:51+00:00'
+    id: 'urn:uuid:3500541d-2b21-54b7-827c-f40f7d34b070'
+    link: 'https://pub.dartlang.org/packages/w_common'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+-
+    package_name: flutter_facebook_connect
+    package_version: v0.0.2
+    title: 'v0.0.2 of flutter_facebook_connect'
+    published: '2017-07-24T20:27:32+00:00'
+    id: 'urn:uuid:17632582-8687-5fb1-99ab-c650f971bbfb'
+    link: 'https://pub.dartlang.org/packages/flutter_facebook_connect'
+    author:
+        - 'lejard_h <email@example.com>'
+-
+    package_name: over_react
+    package_version: v1.15.0
+    title: 'v1.15.0 of over_react'
+    published: '2017-07-24T20:05:37+00:00'
+    id: 'urn:uuid:7b66bd94-5a0a-5fdb-8fe3-aa0d0a865ec3'
+    link: 'https://pub.dartlang.org/packages/over_react'
+    author:
+        - 'Workiva UI Platform Team <uip@workiva.com>'
