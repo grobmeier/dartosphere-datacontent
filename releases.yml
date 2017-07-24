@@ -104316,3 +104316,12 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_throttle
+    package_version: v0.2.2
+    title: 'v0.2.2 of jaguar_throttle'
+    published: '2017-07-23T23:16:31+00:00'
+    id: 'urn:uuid:03d94e32-115b-552d-919d-96bbc5eaa5a6'
+    link: 'https://pub.dartlang.org/packages/jaguar_throttle'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
