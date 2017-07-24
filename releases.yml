@@ -104325,3 +104325,30 @@
     link: 'https://pub.dartlang.org/packages/jaguar_throttle'
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: np8080
+    package_version: v0.0.23
+    title: 'v0.0.23 of np8080'
+    published: '2017-07-24T04:53:59+00:00'
+    id: 'urn:uuid:8fc1223e-6a74-58ab-a96c-d41ebbeeabe9'
+    link: 'https://pub.dartlang.org/packages/np8080'
+    author:
+        - 'Davy Mitchell <daftspaniel@gmail.com>'
+-
+    package_name: bidirectional_scroll_view
+    package_version: v0.0.2
+    title: 'v0.0.2 of bidirectional_scroll_view'
+    published: '2017-07-24T04:37:26+00:00'
+    id: 'urn:uuid:987783d4-3516-54bb-9ec3-972a4d656ea7'
+    link: 'https://pub.dartlang.org/packages/bidirectional_scroll_view'
+    author:
+        - 'Toufik Zitouni <toufiksapps@gmail.com>'
+-
+    package_name: angel_proxy
+    package_version: v1.0.9
+    title: 'v1.0.9 of angel_proxy'
+    published: '2017-07-24T03:33:46+00:00'
+    id: 'urn:uuid:cdeae287-43e3-5f34-98c1-ab7e66677aa6'
+    link: 'https://pub.dartlang.org/packages/angel_proxy'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
