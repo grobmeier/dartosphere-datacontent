@@ -104352,3 +104352,21 @@
     link: 'https://pub.dartlang.org/packages/angel_proxy'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: polymerize
+    package_version: v0.9.5
+    title: 'v0.9.5 of polymerize'
+    published: '2017-07-24T08:30:20+00:00'
+    id: 'urn:uuid:e073f77f-4d9d-5025-8c05-8f5147a2c676'
+    link: 'https://pub.dartlang.org/packages/polymerize'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: polymer_element
+    package_version: v2.0.6
+    title: 'v2.0.6 of polymer_element'
+    published: '2017-07-24T08:18:51+00:00'
+    id: 'urn:uuid:24e33437-3f7a-5bb2-addf-04cdb70cdb75'
+    link: 'https://pub.dartlang.org/packages/polymer_element'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
