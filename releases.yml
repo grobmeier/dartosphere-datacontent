@@ -104477,3 +104477,40 @@
     link: 'https://pub.dartlang.org/packages/w_common'
     author:
         - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+-
+    package_name: jaguar_hotreload
+    package_version: v0.2.3
+    title: 'v0.2.3 of jaguar_hotreload'
+    published: '2017-07-25T21:07:46+00:00'
+    id: 'urn:uuid:fe1d53af-cdcc-55c7-8335-ca865819e09a'
+    link: 'https://pub.dartlang.org/packages/jaguar_hotreload'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: json_serializable
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of json_serializable'
+    published: '2017-07-25T20:25:57+00:00'
+    id: 'urn:uuid:6dc4dd03-e0c6-50c5-a977-0f16fed8be2d'
+    link: 'https://pub.dartlang.org/packages/json_serializable'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: ecb_fx
+    package_version: v0.0.1
+    title: 'v0.0.1 of ecb_fx'
+    published: '2017-07-25T19:37:00+00:00'
+    id: 'urn:uuid:939e35be-5200-5003-905d-f4b8cc5f4a3e'
+    link: 'https://pub.dartlang.org/packages/ecb_fx'
+    author:
+        - 'Istvan Soos <istvan.soos@agilord.com>'
+-
+    package_name: texture_atlas_transformer
+    package_version: v1.0.0
+    title: 'v1.0.0 of texture_atlas_transformer'
+    published: '2017-07-25T19:03:03+00:00'
+    id: 'urn:uuid:cf8cbf48-93dc-5958-9b71-c4736dac6a32'
+    link: 'https://pub.dartlang.org/packages/texture_atlas_transformer'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
