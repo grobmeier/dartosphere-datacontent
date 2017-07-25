@@ -104449,3 +104449,13 @@
         - 'Prasad Sunkari <prsd@google.com>'
         - 'Michael Cheng <midoringo@google.com>'
         - 'Yan Qiao <yqiao@google.com>'
+-
+    package_name: ng_bootstrap
+    package_version: v0.6.7
+    title: 'v0.6.7 of ng_bootstrap'
+    published: '2017-07-25T03:12:24+00:00'
+    id: 'urn:uuid:dd3fa247-8f6d-537e-80fd-a2ebad9ab2c0'
+    link: 'https://pub.dartlang.org/packages/ng_bootstrap'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+        - 'Adao Jr. <itsjunnior@gmail.com>'
