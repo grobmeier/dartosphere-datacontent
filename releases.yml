@@ -104459,3 +104459,21 @@
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
         - 'Adao Jr. <itsjunnior@gmail.com>'
+-
+    package_name: dart_ng
+    package_version: v0.0.1
+    title: 'v0.0.1 of dart_ng'
+    published: '2017-07-25T16:36:43+00:00'
+    id: 'urn:uuid:d66a44b0-2fc5-5e8c-a879-1a5be95c27c5'
+    link: 'https://pub.dartlang.org/packages/dart_ng'
+    author:
+        - 'Alexandre Del Bigio <alescdb@users.noreply.github.com>'
+-
+    package_name: w_common
+    package_version: v1.7.2
+    title: 'v1.7.2 of w_common'
+    published: '2017-07-25T15:24:44+00:00'
+    id: 'urn:uuid:5c4b7982-8060-5a61-8b8c-65d9e933b82b'
+    link: 'https://pub.dartlang.org/packages/w_common'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
