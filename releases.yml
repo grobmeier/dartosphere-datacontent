@@ -104523,3 +104523,21 @@
     link: 'https://pub.dartlang.org/packages/texture_atlas_transformer'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: built_redux
+    package_version: v2.1.1
+    title: 'v2.1.1 of built_redux'
+    published: '2017-07-26T03:38:07+00:00'
+    id: 'urn:uuid:ff1118a4-eecd-50ff-846f-77303841458c'
+    link: 'https://pub.dartlang.org/packages/built_redux'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: stream
+    package_version: v1.6.8+2
+    title: 'v1.6.8+2 of stream'
+    published: '2017-07-26T03:18:33+00:00'
+    id: 'urn:uuid:3a25e97b-8ece-532f-958e-b9dec73c82aa'
+    link: 'https://pub.dartlang.org/packages/stream'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
