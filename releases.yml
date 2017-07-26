@@ -104568,3 +104568,48 @@
     link: 'https://pub.dartlang.org/packages/over_react_test'
     author:
         - 'Workiva UI Platform Team <uip@workiva.com>'
+-
+    package_name: json_serializable
+    package_version: v0.2.1
+    title: 'v0.2.1 of json_serializable'
+    published: '2017-07-26T17:23:40+00:00'
+    id: 'urn:uuid:5cbc72c5-d7c8-5214-a8ae-073aa1a3f5cc'
+    link: 'https://pub.dartlang.org/packages/json_serializable'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: source_gen
+    package_version: v0.7.0
+    title: 'v0.7.0 of source_gen'
+    published: '2017-07-26T15:53:26+00:00'
+    id: 'urn:uuid:3fada737-0887-5ed6-99a1-966a9d4938bd'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: vi_auth_client
+    package_version: v0.0.6
+    title: 'v0.0.6 of vi_auth_client'
+    published: '2017-07-26T15:01:49+00:00'
+    id: 'urn:uuid:795a78f3-3438-538a-ab5f-b4656177ce28'
+    link: 'https://pub.dartlang.org/packages/vi_auth_client'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: eqlib
+    package_version: v0.15.2
+    title: 'v0.15.2 of eqlib'
+    published: '2017-07-26T14:58:22+00:00'
+    id: 'urn:uuid:9bc44c54-1e31-5bf0-bff8-d98fb37af163'
+    link: 'https://pub.dartlang.org/packages/eqlib'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: stream_store
+    package_version: v0.0.1
+    title: 'v0.0.1 of stream_store'
+    published: '2017-07-26T14:19:22+00:00'
+    id: 'urn:uuid:78528bb7-c914-531d-8cc1-2c0da28ecb12'
+    link: 'https://pub.dartlang.org/packages/stream_store'
+    author:
+        - 'brian.egan <brian@brianegan.com>'
