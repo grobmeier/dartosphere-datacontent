@@ -104550,3 +104550,21 @@
     link: 'https://pub.dartlang.org/packages/image_picker'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: vi_auth_client
+    package_version: v0.0.2
+    title: 'v0.0.2 of vi_auth_client'
+    published: '2017-07-26T12:56:21+00:00'
+    id: 'urn:uuid:87ecf84f-71d9-5abe-b9c5-d7d76d00236b'
+    link: 'https://pub.dartlang.org/packages/vi_auth_client'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: over_react_test
+    package_version: v1.1.0
+    title: 'v1.1.0 of over_react_test'
+    published: '2017-07-26T12:51:40+00:00'
+    id: 'urn:uuid:f2584966-2d87-52c8-bd2d-61fdb9c0d876'
+    link: 'https://pub.dartlang.org/packages/over_react_test'
+    author:
+        - 'Workiva UI Platform Team <uip@workiva.com>'
