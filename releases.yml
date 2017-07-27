@@ -104651,3 +104651,12 @@
     link: 'https://pub.dartlang.org/packages/ViAuthClient'
     author:
         - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: entify
+    package_version: v0.1.2+2
+    title: 'v0.1.2+2 of entify'
+    published: '2017-07-27T12:19:30+00:00'
+    id: 'urn:uuid:1cb14e78-49d3-51db-8568-5c20a89fe0e8'
+    link: 'https://pub.dartlang.org/packages/entify'
+    author:
+        - 'Peter Siroki <psiroki@skawa.hu>'
