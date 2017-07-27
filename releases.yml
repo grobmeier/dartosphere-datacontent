@@ -104613,3 +104613,14 @@
     link: 'https://pub.dartlang.org/packages/stream_store'
     author:
         - 'brian.egan <brian@brianegan.com>'
+-
+    package_name: charted
+    package_version: v0.4.8
+    title: 'v0.4.8 of charted'
+    published: '2017-07-26T22:30:03+00:00'
+    id: 'urn:uuid:78aaaa2e-d4ab-5cdf-a19a-747fbe9cae64'
+    link: 'https://pub.dartlang.org/packages/charted'
+    author:
+        - 'Prasad Sunkari <prsd@google.com>'
+        - 'Michael Cheng <midoringo@google.com>'
+        - 'Yan Qiao <yqiao@google.com>'
