@@ -104624,3 +104624,30 @@
         - 'Prasad Sunkari <prsd@google.com>'
         - 'Michael Cheng <midoringo@google.com>'
         - 'Yan Qiao <yqiao@google.com>'
+-
+    package_name: nomirrorsmap
+    package_version: v1.1.2
+    title: 'v1.1.2 of nomirrorsmap'
+    published: '2017-07-27T09:37:30+00:00'
+    id: 'urn:uuid:3f1d92fd-d591-5a5b-a459-3d4590d55812'
+    link: 'https://pub.dartlang.org/packages/nomirrorsmap'
+    author:
+        - jrote1<jrote1@me.com>
+-
+    package_name: vi_auth_client
+    package_version: v0.0.8
+    title: 'v0.0.8 of vi_auth_client'
+    published: '2017-07-27T08:58:42+00:00'
+    id: 'urn:uuid:d21d55fa-5d8e-5455-8a46-f4b68cc79888'
+    link: 'https://pub.dartlang.org/packages/vi_auth_client'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
+-
+    package_name: ViAuthClient
+    package_version: v0.0.1
+    title: 'v0.0.1 of ViAuthClient'
+    published: '2017-07-27T07:50:39+00:00'
+    id: 'urn:uuid:fc988e66-c684-53a8-927f-589507403525'
+    link: 'https://pub.dartlang.org/packages/ViAuthClient'
+    author:
+        - 'Patrick Minogue <patrick.minogue@gmail.com>'
