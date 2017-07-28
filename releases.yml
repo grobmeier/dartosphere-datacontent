@@ -104678,3 +104678,12 @@
     link: 'https://pub.dartlang.org/packages/test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: crypt
+    package_version: v1.0.4
+    title: 'v1.0.4 of crypt'
+    published: '2017-07-28T00:26:39+00:00'
+    id: 'urn:uuid:2cd9978b-d229-5bc4-a082-fd55e8e2afeb'
+    link: 'https://pub.dartlang.org/packages/crypt'
+    author:
+        - 'Hoylen Sue <hoylen@hoylen.com>'
