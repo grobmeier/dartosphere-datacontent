@@ -104723,3 +104723,37 @@
     link: 'https://pub.dartlang.org/packages/appengine'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: jaguar_query_postgresql
+    package_version: v0.2.2
+    title: 'v0.2.2 of jaguar_query_postgresql'
+    published: '2017-07-28T17:16:29+00:00'
+    id: 'urn:uuid:1bab669c-554f-576d-9477-1ae264ea3f02'
+    link: 'https://pub.dartlang.org/packages/jaguar_query_postgresql'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_query
+    package_version: v0.2.2
+    title: 'v0.2.2 of jaguar_query'
+    published: '2017-07-28T17:15:24+00:00'
+    id: 'urn:uuid:a1d4fff6-435d-55a4-9304-95c55f327621'
+    link: 'https://pub.dartlang.org/packages/jaguar_query'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: w_module
+    package_version: v1.2.6
+    title: 'v1.2.6 of w_module'
+    published: '2017-07-28T15:32:25+00:00'
+    id: 'urn:uuid:2bb14e4b-dd95-529c-bf07-357a37b64cef'
+    link: 'https://pub.dartlang.org/packages/w_module'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
