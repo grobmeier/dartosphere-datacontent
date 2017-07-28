@@ -104714,3 +104714,12 @@
     link: 'https://pub.dartlang.org/packages/built_mirrors'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: appengine
+    package_version: v0.4.1
+    title: 'v0.4.1 of appengine'
+    published: '2017-07-28T09:30:58+00:00'
+    id: 'urn:uuid:7283f2ac-a0b2-58a9-beca-655b497017ca'
+    link: 'https://pub.dartlang.org/packages/appengine'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
