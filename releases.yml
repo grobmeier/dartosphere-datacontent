@@ -104757,3 +104757,12 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: linter
+    package_version: v0.1.35
+    title: 'v0.1.35 of linter'
+    published: '2017-07-28T20:58:53+00:00'
+    id: 'urn:uuid:6b09a025-0402-5d40-bd4e-a0bb74a939d3'
+    link: 'https://pub.dartlang.org/packages/linter'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
