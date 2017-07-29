@@ -104820,3 +104820,21 @@
     link: 'https://pub.dartlang.org/packages/secure_string'
     author:
         - 'Ice Flake <iceflake@cloudwards.es>'
+-
+    package_name: qedb_client
+    package_version: v0.2.1
+    title: 'v0.2.1 of qedb_client'
+    published: '2017-07-29T15:16:39+00:00'
+    id: 'urn:uuid:f3fab8f2-1e38-50d9-9f05-9c05c2da596e'
+    link: 'https://pub.dartlang.org/packages/qedb_client'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: firebase_database
+    package_version: v0.0.13
+    title: 'v0.0.13 of firebase_database'
+    published: '2017-07-29T14:53:50+00:00'
+    id: 'urn:uuid:819dd0d8-2b5e-5a20-bd3a-229e78253539'
+    link: 'https://pub.dartlang.org/packages/firebase_database'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
