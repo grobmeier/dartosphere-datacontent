@@ -104811,3 +104811,12 @@
     link: 'https://pub.dartlang.org/packages/bidirectional_scroll_view'
     author:
         - 'Toufik Zitouni <toufiksapps@gmail.com>'
+-
+    package_name: secure_string
+    package_version: v2.0.0
+    title: 'v2.0.0 of secure_string'
+    published: '2017-07-29T10:16:35+00:00'
+    id: 'urn:uuid:e69dd092-c52d-5e40-b4f9-2339b23ddf8c'
+    link: 'https://pub.dartlang.org/packages/secure_string'
+    author:
+        - 'Ice Flake <iceflake@cloudwards.es>'
