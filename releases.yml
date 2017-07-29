@@ -104766,3 +104766,48 @@
     link: 'https://pub.dartlang.org/packages/linter'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: secure_string
+    package_version: v1.1.0
+    title: 'v1.1.0 of secure_string'
+    published: '2017-07-29T09:43:58+00:00'
+    id: 'urn:uuid:1316904e-7cd9-5cc4-ba3d-e5e31023dda1'
+    link: 'https://pub.dartlang.org/packages/secure_string'
+    author:
+        - 'Ice Flake <iceflake@cloudwards.es>'
+-
+    package_name: qedb_client
+    package_version: v0.2.0
+    title: 'v0.2.0 of qedb_client'
+    published: '2017-07-29T08:41:43+00:00'
+    id: 'urn:uuid:0c50aa7c-92ff-55d8-9d17-87748af9a3fc'
+    link: 'https://pub.dartlang.org/packages/qedb_client'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: editex
+    package_version: v0.2.2+4
+    title: 'v0.2.2+4 of editex'
+    published: '2017-07-29T08:18:26+00:00'
+    id: 'urn:uuid:4503d9d2-6a9a-568f-8a0c-f369475ef92b'
+    link: 'https://pub.dartlang.org/packages/editex'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: eqlib
+    package_version: v0.16.0
+    title: 'v0.16.0 of eqlib'
+    published: '2017-07-29T08:15:02+00:00'
+    id: 'urn:uuid:f7b1601d-b9a2-58b2-b71d-5b2ba1b04314'
+    link: 'https://pub.dartlang.org/packages/eqlib'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: bidirectional_scroll_view
+    package_version: v0.0.3
+    title: 'v0.0.3 of bidirectional_scroll_view'
+    published: '2017-07-29T08:14:24+00:00'
+    id: 'urn:uuid:09e10c57-77d9-5e66-8ed7-273e339a2266'
+    link: 'https://pub.dartlang.org/packages/bidirectional_scroll_view'
+    author:
+        - 'Toufik Zitouni <toufiksapps@gmail.com>'
