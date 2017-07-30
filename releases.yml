@@ -104931,3 +104931,21 @@
     link: 'https://pub.dartlang.org/packages/flutter_facebook_connect'
     author:
         - 'lejard_h <hadrien.lejard@gmail.com>'
+-
+    package_name: scarabei_flutter
+    package_version: v1.0.0
+    title: 'v1.0.0 of scarabei_flutter'
+    published: '2017-07-30T21:37:49+00:00'
+    id: 'urn:uuid:6719f67e-af59-5dc8-a0bb-6fd3f05d317c'
+    link: 'https://pub.dartlang.org/packages/scarabei_flutter'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei
+    package_version: v1.0.0
+    title: 'v1.0.0 of scarabei'
+    published: '2017-07-30T21:35:47+00:00'
+    id: 'urn:uuid:a75e36f4-061c-59c0-96da-4f5b8dc3d324'
+    link: 'https://pub.dartlang.org/packages/scarabei'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
