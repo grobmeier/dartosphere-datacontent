@@ -104886,3 +104886,30 @@
     link: 'https://pub.dartlang.org/packages/bidirectional_scroll_view'
     author:
         - 'Toufik Zitouni <toufiksapps@gmail.com>'
+-
+    package_name: ts_definition
+    package_version: v1.0.0-alpha+2
+    title: 'v1.0.0-alpha+2 of ts_definition'
+    published: '2017-07-30T05:48:21+00:00'
+    id: 'urn:uuid:74c2ee07-f138-56f3-b759-d629de5ed320'
+    link: 'https://pub.dartlang.org/packages/ts_definition'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: dart_language_server
+    package_version: v0.0.13
+    title: 'v0.0.13 of dart_language_server'
+    published: '2017-07-30T05:17:58+00:00'
+    id: 'urn:uuid:8c3c487a-9b74-5f84-a3fb-15a303bcde51'
+    link: 'https://pub.dartlang.org/packages/dart_language_server'
+    author:
+        - 'Nate Bosch <nbosch1@gmail.com>'
+-
+    package_name: bidirectional_scroll_view
+    package_version: v0.0.5
+    title: 'v0.0.5 of bidirectional_scroll_view'
+    published: '2017-07-30T04:15:55+00:00'
+    id: 'urn:uuid:afa6c844-afb2-5d03-a251-98ccabcb864b'
+    link: 'https://pub.dartlang.org/packages/bidirectional_scroll_view'
+    author:
+        - 'Toufik Zitouni <toufiksapps@gmail.com>'
