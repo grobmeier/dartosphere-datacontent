@@ -104838,3 +104838,51 @@
     link: 'https://pub.dartlang.org/packages/firebase_database'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: lcov
+    package_version: v2.0.0
+    title: 'v2.0.0 of lcov'
+    published: '2017-07-30T00:59:39+00:00'
+    id: 'urn:uuid:7b571390-4b3d-53fa-8c18-3f0c8c27573c'
+    link: 'https://pub.dartlang.org/packages/lcov'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: chronosgl
+    package_version: v3.2.1
+    title: 'v3.2.1 of chronosgl'
+    published: '2017-07-30T00:12:26+00:00'
+    id: 'urn:uuid:7da71903-ba3a-562d-9f75-ee7d78e9a0ac'
+    link: 'https://pub.dartlang.org/packages/chronosgl'
+    author:
+        - 'Robert Muth <robert@muth.org>'
+        - 'Ray Hulha <java4life@gmail.com>'
+-
+    package_name: jaguar_query
+    package_version: v0.2.5
+    title: 'v0.2.5 of jaguar_query'
+    published: '2017-07-29T23:21:48+00:00'
+    id: 'urn:uuid:d92b56eb-07c8-5ce8-b37e-8f7e3e336e7b'
+    link: 'https://pub.dartlang.org/packages/jaguar_query'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_query_postgresql
+    package_version: v0.2.4
+    title: 'v0.2.4 of jaguar_query_postgresql'
+    published: '2017-07-29T23:07:13+00:00'
+    id: 'urn:uuid:a97fb285-e36b-500a-9f11-dbd43bd05b2e'
+    link: 'https://pub.dartlang.org/packages/jaguar_query_postgresql'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: bidirectional_scroll_view
+    package_version: v0.0.4
+    title: 'v0.0.4 of bidirectional_scroll_view'
+    published: '2017-07-29T22:03:50+00:00'
+    id: 'urn:uuid:4124e37c-5f49-5cba-949e-35d367f2bd25'
+    link: 'https://pub.dartlang.org/packages/bidirectional_scroll_view'
+    author:
+        - 'Toufik Zitouni <toufiksapps@gmail.com>'
