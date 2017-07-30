@@ -104922,3 +104922,12 @@
     link: 'https://pub.dartlang.org/packages/revolver'
     author:
         - 'Keith Elliott <keith.b.elliott@gmail.com>'
+-
+    package_name: flutter_facebook_connect
+    package_version: v0.0.3
+    title: 'v0.0.3 of flutter_facebook_connect'
+    published: '2017-07-30T13:45:16+00:00'
+    id: 'urn:uuid:062e115b-678e-5084-bf2a-be2cb8d85336'
+    link: 'https://pub.dartlang.org/packages/flutter_facebook_connect'
+    author:
+        - 'lejard_h <hadrien.lejard@gmail.com>'
