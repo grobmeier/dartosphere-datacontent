@@ -104913,3 +104913,12 @@
     link: 'https://pub.dartlang.org/packages/bidirectional_scroll_view'
     author:
         - 'Toufik Zitouni <toufiksapps@gmail.com>'
+-
+    package_name: revolver
+    package_version: v1.1.0
+    title: 'v1.1.0 of revolver'
+    published: '2017-07-30T06:22:40+00:00'
+    id: 'urn:uuid:370cf1f9-0d7b-5473-a8d1-4e035346d3cc'
+    link: 'https://pub.dartlang.org/packages/revolver'
+    author:
+        - 'Keith Elliott <keith.b.elliott@gmail.com>'
