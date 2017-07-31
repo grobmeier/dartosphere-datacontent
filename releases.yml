@@ -104949,3 +104949,21 @@
     link: 'https://pub.dartlang.org/packages/scarabei'
     author:
         - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: dart_language_server
+    package_version: v0.0.13+1
+    title: 'v0.0.13+1 of dart_language_server'
+    published: '2017-07-31T00:35:06+00:00'
+    id: 'urn:uuid:1958e432-9634-5634-8c14-a2ffc5e809f0'
+    link: 'https://pub.dartlang.org/packages/dart_language_server'
+    author:
+        - 'Nate Bosch <nbosch1@gmail.com>'
+-
+    package_name: ts_definition
+    package_version: v1.0.0-beta
+    title: 'v1.0.0-beta of ts_definition'
+    published: '2017-07-30T23:20:20+00:00'
+    id: 'urn:uuid:1117c8f5-bcd8-5e84-9461-540e60d609a1'
+    link: 'https://pub.dartlang.org/packages/ts_definition'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
