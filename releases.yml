@@ -104976,3 +104976,30 @@
     link: 'https://pub.dartlang.org/packages/googleapis'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: scarabei_flutter_reyer
+    package_version: v1.1.1
+    title: 'v1.1.1 of scarabei_flutter_reyer'
+    published: '2017-07-31T19:52:38+00:00'
+    id: 'urn:uuid:795d7208-7992-5227-821c-83aa51f91fc3'
+    link: 'https://pub.dartlang.org/packages/scarabei_flutter_reyer'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei_reyer
+    package_version: v1.1.1
+    title: 'v1.1.1 of scarabei_reyer'
+    published: '2017-07-31T19:39:34+00:00'
+    id: 'urn:uuid:b58d0d90-e8d9-5c29-821e-d9bea0626fee'
+    link: 'https://pub.dartlang.org/packages/scarabei_reyer'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei
+    package_version: v1.1.1
+    title: 'v1.1.1 of scarabei'
+    published: '2017-07-31T19:34:32+00:00'
+    id: 'urn:uuid:e5341766-cbc5-520b-9c25-9f7d5e7f93d7'
+    link: 'https://pub.dartlang.org/packages/scarabei'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
