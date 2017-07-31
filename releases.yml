@@ -104967,3 +104967,12 @@
     link: 'https://pub.dartlang.org/packages/ts_definition'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: googleapis
+    package_version: v0.42.0
+    title: 'v0.42.0 of googleapis'
+    published: '2017-07-31T10:50:44+00:00'
+    id: 'urn:uuid:194566f0-0935-5d90-a560-e53a2cfa77b8'
+    link: 'https://pub.dartlang.org/packages/googleapis'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
