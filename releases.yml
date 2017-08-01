@@ -105031,3 +105031,44 @@
     link: 'https://pub.dartlang.org/packages/revolver'
     author:
         - 'Keith Elliott <keith.b.elliott@gmail.com>'
+-
+    package_name: w_module
+    package_version: v1.3.0
+    title: 'v1.3.0 of w_module'
+    published: '2017-08-01T16:20:05+00:00'
+    id: 'urn:uuid:9d4d0237-0113-5601-9232-c297962a2b49'
+    link: 'https://pub.dartlang.org/packages/w_module'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: uri
+    package_version: v0.11.1
+    title: 'v0.11.1 of uri'
+    published: '2017-08-01T15:16:09+00:00'
+    id: 'urn:uuid:2579bc17-0ad5-55a9-9e39-023e321a2730'
+    link: 'https://pub.dartlang.org/packages/uri'
+    author:
+        - 'Dart Authors <misc@dartlang.org>'
+-
+    package_name: euclid
+    package_version: v0.0.2
+    title: 'v0.0.2 of euclid'
+    published: '2017-08-01T14:45:07+00:00'
+    id: 'urn:uuid:b58ce4a2-da26-5852-add5-c2cdffcc975b'
+    link: 'https://pub.dartlang.org/packages/euclid'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: firebase_functions_interop
+    package_version: v0.0.2
+    title: 'v0.0.2 of firebase_functions_interop'
+    published: '2017-08-01T14:00:55+00:00'
+    id: 'urn:uuid:a56c1dd8-c898-5f46-ae29-9adfde61341e'
+    link: 'https://pub.dartlang.org/packages/firebase_functions_interop'
+    author:
+        - 'Anatoly Pulyaevskiy <anatoly.pulyaevskiy@gmail.com>'
