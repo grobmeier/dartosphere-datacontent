@@ -105013,3 +105013,21 @@
     author:
         - 'Dmitriy Fibulwinter <fibulwinter@gmail.com>'
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angel_orm_generator
+    package_version: v1.0.0-alpha+3
+    title: 'v1.0.0-alpha+3 of angel_orm_generator'
+    published: '2017-08-01T05:46:25+00:00'
+    id: 'urn:uuid:2d787877-d1cb-5ea0-944e-2972097d962b'
+    link: 'https://pub.dartlang.org/packages/angel_orm_generator'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: revolver
+    package_version: v1.2.0
+    title: 'v1.2.0 of revolver'
+    published: '2017-08-01T04:15:03+00:00'
+    id: 'urn:uuid:fa1e258f-d24c-5af3-a3ca-222736e3943f'
+    link: 'https://pub.dartlang.org/packages/revolver'
+    author:
+        - 'Keith Elliott <keith.b.elliott@gmail.com>'
