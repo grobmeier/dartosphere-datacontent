@@ -105072,3 +105072,12 @@
     link: 'https://pub.dartlang.org/packages/firebase_functions_interop'
     author:
         - 'Anatoly Pulyaevskiy <anatoly.pulyaevskiy@gmail.com>'
+-
+    package_name: image_picker
+    package_version: v0.1.1
+    title: 'v0.1.1 of image_picker'
+    published: '2017-08-01T19:49:44+00:00'
+    id: 'urn:uuid:248e85d6-e589-5c9b-bd55-ba057c8dd21b'
+    link: 'https://pub.dartlang.org/packages/image_picker'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
