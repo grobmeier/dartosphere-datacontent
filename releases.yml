@@ -105003,3 +105003,13 @@
     link: 'https://pub.dartlang.org/packages/scarabei'
     author:
         - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: mockito
+    package_version: v2.1.0
+    title: 'v2.1.0 of mockito'
+    published: '2017-07-31T22:13:21+00:00'
+    id: 'urn:uuid:ed95b8c4-c80a-5d13-a572-77be33f4b894'
+    link: 'https://pub.dartlang.org/packages/mockito'
+    author:
+        - 'Dmitriy Fibulwinter <fibulwinter@gmail.com>'
+        - 'Dart Team <misc@dartlang.org>'
