@@ -105153,3 +105153,12 @@
     link: 'https://pub.dartlang.org/packages/revolver'
     author:
         - 'Keith Elliott <keith.b.elliott@gmail.com>'
+-
+    package_name: dobx_ds
+    package_version: v0.4.2
+    title: 'v0.4.2 of dobx_ds'
+    published: '2017-08-02T15:54:56+00:00'
+    id: 'urn:uuid:e6c32b13-e262-5a5c-b2f2-24a44881bd0e'
+    link: 'https://pub.dartlang.org/packages/dobx_ds'
+    author:
+        - 'dyu <davidyu@cebu.io>'
