@@ -105090,3 +105090,21 @@
     link: 'https://pub.dartlang.org/packages/firebase_auth'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: react
+    package_version: v3.4.4
+    title: 'v3.4.4 of react'
+    published: '2017-08-02T05:23:31+00:00'
+    id: 'urn:uuid:07e4ad09-0c02-5efb-ba95-0203e67e5ef9'
+    link: 'https://pub.dartlang.org/packages/react'
+    author:
+        - 'Clean Team <clean@vacuumlabs.com>'
+-
+    package_name: dart_language_server
+    package_version: v0.0.14
+    title: 'v0.0.14 of dart_language_server'
+    published: '2017-08-02T04:28:54+00:00'
+    id: 'urn:uuid:a6b711a3-0c90-5c44-9da9-3cb19de333a2'
+    link: 'https://pub.dartlang.org/packages/dart_language_server'
+    author:
+        - 'Nate Bosch <nbosch1@gmail.com>'
