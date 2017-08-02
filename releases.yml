@@ -105081,3 +105081,12 @@
     link: 'https://pub.dartlang.org/packages/image_picker'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: firebase_auth
+    package_version: v0.1.2
+    title: 'v0.1.2 of firebase_auth'
+    published: '2017-08-01T23:15:20+00:00'
+    id: 'urn:uuid:cb00de68-a5e0-5e18-821b-81a47be1901a'
+    link: 'https://pub.dartlang.org/packages/firebase_auth'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
