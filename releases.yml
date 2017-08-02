@@ -105162,3 +105162,21 @@
     link: 'https://pub.dartlang.org/packages/dobx_ds'
     author:
         - 'dyu <davidyu@cebu.io>'
+-
+    package_name: stringprocess
+    package_version: v0.0.5
+    title: 'v0.0.5 of stringprocess'
+    published: '2017-08-02T19:43:22+00:00'
+    id: 'urn:uuid:39a275a6-6f4d-50a5-ada9-1116ecda446e'
+    link: 'https://pub.dartlang.org/packages/stringprocess'
+    author:
+        - 'Davy Mitchell <daftspaniel@gmail.com>'
+-
+    package_name: jaguar_client
+    package_version: v0.1.4
+    title: 'v0.1.4 of jaguar_client'
+    published: '2017-08-02T19:10:14+00:00'
+    id: 'urn:uuid:146d1348-b3f7-5ba3-8c8e-f62b6f7c9576'
+    link: 'https://pub.dartlang.org/packages/jaguar_client'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
