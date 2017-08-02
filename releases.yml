@@ -105135,3 +105135,21 @@
     link: 'https://pub.dartlang.org/packages/built_value'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: euclid
+    package_version: v0.0.3
+    title: 'v0.0.3 of euclid'
+    published: '2017-08-02T13:50:28+00:00'
+    id: 'urn:uuid:c67d645c-3884-553c-ad7e-8844c7bd2dc5'
+    link: 'https://pub.dartlang.org/packages/euclid'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: revolver
+    package_version: v1.2.1
+    title: 'v1.2.1 of revolver'
+    published: '2017-08-02T12:55:30+00:00'
+    id: 'urn:uuid:eb627962-da25-5601-80ff-a3367aaf409d'
+    link: 'https://pub.dartlang.org/packages/revolver'
+    author:
+        - 'Keith Elliott <keith.b.elliott@gmail.com>'
