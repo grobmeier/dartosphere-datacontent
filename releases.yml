@@ -105243,3 +105243,67 @@
     link: 'https://pub.dartlang.org/packages/platform_detect'
     author:
         - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+-
+    package_name: firebase
+    package_version: v4.1.0
+    title: 'v4.1.0 of firebase'
+    published: '2017-08-03T20:59:46+00:00'
+    id: 'urn:uuid:db5f0b05-63d9-5ff8-b288-b31a90b524b9'
+    link: 'https://pub.dartlang.org/packages/firebase'
+    author:
+        - 'Jana Moudra <jana.moudra@gmail.com>'
+        - 'Kevin Moore <kevmoo@google.com>'
+-
+    package_name: stringprocess
+    package_version: v0.0.6
+    title: 'v0.0.6 of stringprocess'
+    published: '2017-08-03T20:41:23+00:00'
+    id: 'urn:uuid:0abc3559-885b-5ae4-af2b-f49bc46f24da'
+    link: 'https://pub.dartlang.org/packages/stringprocess'
+    author:
+        - 'Davy Mitchell <daftspaniel@gmail.com>'
+-
+    package_name: android_app_info
+    package_version: v0.0.2
+    title: 'v0.0.2 of android_app_info'
+    published: '2017-08-03T20:40:34+00:00'
+    id: 'urn:uuid:8194b021-7132-5c1e-8bdd-89d6a4101e11'
+    link: 'https://pub.dartlang.org/packages/android_app_info'
+    author:
+        - 'Ryan Gonzalez <rymg19@gmail.com>'
+-
+    package_name: angel_migration_runner
+    package_version: v1.0.0-alpha
+    title: 'v1.0.0-alpha of angel_migration_runner'
+    published: '2017-08-03T20:07:09+00:00'
+    id: 'urn:uuid:80c650d0-81ae-5501-b39f-fd004a0da35b'
+    link: 'https://pub.dartlang.org/packages/angel_migration_runner'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_migration
+    package_version: v1.0.0-alpha
+    title: 'v1.0.0-alpha of angel_migration'
+    published: '2017-08-03T20:06:40+00:00'
+    id: 'urn:uuid:1ba2c130-caf5-534f-a610-061c18c96435'
+    link: 'https://pub.dartlang.org/packages/angel_migration'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: pubviz
+    package_version: v2.3.9+1
+    title: 'v2.3.9+1 of pubviz'
+    published: '2017-08-03T19:07:46+00:00'
+    id: 'urn:uuid:60ee582c-fa92-5f54-8427-0e1e953aebdc'
+    link: 'https://pub.dartlang.org/packages/pubviz'
+    author:
+        - 'Kevin Moore <kevmoo@google.com>'
+-
+    package_name: gviz
+    package_version: v0.0.1
+    title: 'v0.0.1 of gviz'
+    published: '2017-08-03T19:02:17+00:00'
+    id: 'urn:uuid:bcf8cbfb-44a4-5a54-9ddf-67e847fc2bc5'
+    link: 'https://pub.dartlang.org/packages/gviz'
+    author:
+        - 'Kevin Moore <github@j832.com>'
