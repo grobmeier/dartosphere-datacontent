@@ -105189,3 +105189,57 @@
     link: 'https://pub.dartlang.org/packages/typed_data'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angel_framework
+    package_version: v1.0.8
+    title: 'v1.0.8 of angel_framework'
+    published: '2017-08-03T17:52:23+00:00'
+    id: 'urn:uuid:fd48df61-6654-5afe-8c86-031a1c1c586b'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: scarabei_flutter_reyer
+    package_version: v1.1.2
+    title: 'v1.1.2 of scarabei_flutter_reyer'
+    published: '2017-08-03T17:01:20+00:00'
+    id: 'urn:uuid:dcf72bea-d801-5e23-8f44-3ce9e6b4e6ec'
+    link: 'https://pub.dartlang.org/packages/scarabei_flutter_reyer'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei_reyer
+    package_version: v1.1.2
+    title: 'v1.1.2 of scarabei_reyer'
+    published: '2017-08-03T16:52:49+00:00'
+    id: 'urn:uuid:c2ad7d70-3365-55f8-9e74-f5d849ecb42e'
+    link: 'https://pub.dartlang.org/packages/scarabei_reyer'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei
+    package_version: v1.1.2
+    title: 'v1.1.2 of scarabei'
+    published: '2017-08-03T16:48:04+00:00'
+    id: 'urn:uuid:a682ed1b-8921-594d-ac0a-ad938edec983'
+    link: 'https://pub.dartlang.org/packages/scarabei'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: angel_route
+    package_version: v1.0.5
+    title: 'v1.0.5 of angel_route'
+    published: '2017-08-03T16:14:36+00:00'
+    id: 'urn:uuid:9b34501c-4676-56eb-89ae-b8dc4a1ff6a4'
+    link: 'https://pub.dartlang.org/packages/angel_route'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: platform_detect
+    package_version: v1.3.3
+    title: 'v1.3.3 of platform_detect'
+    published: '2017-08-03T14:43:10+00:00'
+    id: 'urn:uuid:78ef88e5-3bfd-5551-b4e4-a7cb38388c8f'
+    link: 'https://pub.dartlang.org/packages/platform_detect'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
