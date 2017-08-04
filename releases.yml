@@ -105334,3 +105334,49 @@
     link: 'https://pub.dartlang.org/packages/built_redux'
     author:
         - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: jaguar
+    package_version: v0.6.11
+    title: 'v0.6.11 of jaguar'
+    published: '2017-08-04T13:58:12+00:00'
+    id: 'urn:uuid:ae09f1f9-e15e-507e-83c1-aca8635b10f8'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: angel_migration_runner
+    package_version: v1.0.0-alpha+1
+    title: 'v1.0.0-alpha+1 of angel_migration_runner'
+    published: '2017-08-04T13:14:09+00:00'
+    id: 'urn:uuid:2a24ce32-394c-5a28-bd9e-efde78f4fbdc'
+    link: 'https://pub.dartlang.org/packages/angel_migration_runner'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: built_value_test
+    package_version: v2.1.0
+    title: 'v2.1.0 of built_value_test'
+    published: '2017-08-04T11:21:31+00:00'
+    id: 'urn:uuid:aa291ce2-2840-53dd-aeb6-a944a9af311c'
+    link: 'https://pub.dartlang.org/packages/built_value_test'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value_generator
+    package_version: v2.1.0
+    title: 'v2.1.0 of built_value_generator'
+    published: '2017-08-04T11:21:16+00:00'
+    id: 'urn:uuid:3d851377-33de-5f74-8d65-e7d53ca42eee'
+    link: 'https://pub.dartlang.org/packages/built_value_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value
+    package_version: v2.1.0
+    title: 'v2.1.0 of built_value'
+    published: '2017-08-04T11:20:53+00:00'
+    id: 'urn:uuid:487a59e3-f7ac-51bc-9709-38291a9282c2'
+    link: 'https://pub.dartlang.org/packages/built_value'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
