@@ -105325,3 +105325,12 @@
     link: 'https://pub.dartlang.org/packages/over_react'
     author:
         - 'Workiva UI Platform Team <uip@workiva.com>'
+-
+    package_name: built_redux
+    package_version: v2.1.2
+    title: 'v2.1.2 of built_redux'
+    published: '2017-08-04T03:32:19+00:00'
+    id: 'urn:uuid:7402c210-e421-5292-9388-f20e9253f5e1'
+    link: 'https://pub.dartlang.org/packages/built_redux'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
