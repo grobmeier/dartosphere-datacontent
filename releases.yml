@@ -105380,3 +105380,49 @@
     link: 'https://pub.dartlang.org/packages/built_value'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: test
+    package_version: v0.12.24+2
+    title: 'v0.12.24+2 of test'
+    published: '2017-08-04T17:50:20+00:00'
+    id: 'urn:uuid:be7fe6ed-dd50-526a-9cc1-554422db5b41'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: web_socket_channel
+    package_version: v1.0.5
+    title: 'v1.0.5 of web_socket_channel'
+    published: '2017-08-04T17:30:37+00:00'
+    id: 'urn:uuid:69e19a4c-b9cd-5684-8f61-0ee09759f22a'
+    link: 'https://pub.dartlang.org/packages/web_socket_channel'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: haystack
+    package_version: v0.4.21
+    title: 'v0.4.21 of haystack'
+    published: '2017-08-04T17:26:18+00:00'
+    id: 'urn:uuid:e6e855a5-4a3a-52eb-b52a-ebb9559ca733'
+    link: 'https://pub.dartlang.org/packages/haystack'
+    author:
+        - 'Dmitriy Vasilyev <dmitry@basservices.net>'
+-
+    package_name: angel_migration_runner
+    package_version: v1.0.0-alpha+2
+    title: 'v1.0.0-alpha+2 of angel_migration_runner'
+    published: '2017-08-04T15:24:22+00:00'
+    id: 'urn:uuid:57c47bbd-1e56-5178-b611-a0dd758c81f9'
+    link: 'https://pub.dartlang.org/packages/angel_migration_runner'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: jaguar_generator
+    package_version: v0.8.0
+    title: 'v0.8.0 of jaguar_generator'
+    published: '2017-08-04T14:49:21+00:00'
+    id: 'urn:uuid:b9f70aa6-3849-5cb5-b087-d6aecc97fbd3'
+    link: 'https://pub.dartlang.org/packages/jaguar_generator'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
