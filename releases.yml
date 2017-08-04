@@ -105307,3 +105307,21 @@
     link: 'https://pub.dartlang.org/packages/gviz'
     author:
         - 'Kevin Moore <github@j832.com>'
+-
+    package_name: firebase_database
+    package_version: v0.0.14
+    title: 'v0.0.14 of firebase_database'
+    published: '2017-08-03T23:09:56+00:00'
+    id: 'urn:uuid:19f5b5c5-2c8f-5ac8-8531-ca282a2e3dba'
+    link: 'https://pub.dartlang.org/packages/firebase_database'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: over_react
+    package_version: v1.15.1
+    title: 'v1.15.1 of over_react'
+    published: '2017-08-03T22:58:03+00:00'
+    id: 'urn:uuid:3d2919fc-b715-5c37-a382-fd575a9e9be0'
+    link: 'https://pub.dartlang.org/packages/over_react'
+    author:
+        - 'Workiva UI Platform Team <uip@workiva.com>'
