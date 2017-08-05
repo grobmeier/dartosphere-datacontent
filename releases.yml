@@ -105499,3 +105499,12 @@
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
         - 'Adao Jr. <itsjunnior@gmail.com>'
+-
+    package_name: sass_builder
+    package_version: v0.1.2
+    title: 'v0.1.2 of sass_builder'
+    published: '2017-08-05T17:47:49+00:00'
+    id: 'urn:uuid:96b40d58-5684-5f69-aa4b-a09d8600d40c'
+    link: 'https://pub.dartlang.org/packages/sass_builder'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
