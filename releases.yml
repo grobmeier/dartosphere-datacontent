@@ -105571,3 +105571,48 @@
     link: 'https://pub.dartlang.org/packages/stream_transform'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: sentry
+    package_version: v0.0.4
+    title: 'v0.0.4 of sentry'
+    published: '2017-08-07T21:43:40+00:00'
+    id: 'urn:uuid:f67a325d-b313-5084-8b97-fa08aa5939dc'
+    link: 'https://pub.dartlang.org/packages/sentry'
+    author:
+        - 'Yegor Jbanov <yjbanov@google.com>'
+-
+    package_name: numberpicker
+    package_version: v0.1.0
+    title: 'v0.1.0 of numberpicker'
+    published: '2017-08-07T20:08:55+00:00'
+    id: 'urn:uuid:5e51cb18-2f56-5a2a-ae8b-ef56d685ff24'
+    link: 'https://pub.dartlang.org/packages/numberpicker'
+    author:
+        - 'Marcin Szalek <marcinszalek1@gmail.com>'
+-
+    package_name: angular_test
+    package_version: v1.0.0-beta+5
+    title: 'v1.0.0-beta+5 of angular_test'
+    published: '2017-08-07T18:55:00+00:00'
+    id: 'urn:uuid:3e2a5015-5cdf-518c-845f-f4783d19cdd7'
+    link: 'https://pub.dartlang.org/packages/angular_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angular_router
+    package_version: v1.0.0
+    title: 'v1.0.0 of angular_router'
+    published: '2017-08-07T18:53:19+00:00'
+    id: 'urn:uuid:d542d679-ad93-50e9-88ae-1605eb20eb3a'
+    link: 'https://pub.dartlang.org/packages/angular_router'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angular_compiler
+    package_version: v0.2.0
+    title: 'v0.2.0 of angular_compiler'
+    published: '2017-08-07T18:09:28+00:00'
+    id: 'urn:uuid:3998259c-af50-5116-b532-75acdad93822'
+    link: 'https://pub.dartlang.org/packages/angular_compiler'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
