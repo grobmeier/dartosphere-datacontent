@@ -105535,3 +105535,30 @@
     link: 'https://pub.dartlang.org/packages/scarabei'
     author:
         - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei_flutter_reyer
+    package_version: v1.2.0
+    title: 'v1.2.0 of scarabei_flutter_reyer'
+    published: '2017-08-07T11:55:57+00:00'
+    id: 'urn:uuid:60444ed4-5926-55c1-9324-68fb5aa92d12'
+    link: 'https://pub.dartlang.org/packages/scarabei_flutter_reyer'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei_reyer
+    package_version: v1.2.0
+    title: 'v1.2.0 of scarabei_reyer'
+    published: '2017-08-07T11:54:19+00:00'
+    id: 'urn:uuid:e1062968-34d3-5dc9-8a1a-d605adc5aa17'
+    link: 'https://pub.dartlang.org/packages/scarabei_reyer'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei
+    package_version: v1.2.0
+    title: 'v1.2.0 of scarabei'
+    published: '2017-08-07T11:53:31+00:00'
+    id: 'urn:uuid:cdb2e04c-3a1c-5a7a-bcb8-7cc73e5ffe07'
+    link: 'https://pub.dartlang.org/packages/scarabei'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
