@@ -105562,3 +105562,12 @@
     link: 'https://pub.dartlang.org/packages/scarabei'
     author:
         - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: stream_transform
+    package_version: v0.0.9
+    title: 'v0.0.9 of stream_transform'
+    published: '2017-08-07T17:50:45+00:00'
+    id: 'urn:uuid:cf232867-3eee-597c-b46b-bf5d03d51b65'
+    link: 'https://pub.dartlang.org/packages/stream_transform'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
