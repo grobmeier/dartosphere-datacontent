@@ -105616,3 +105616,12 @@
     link: 'https://pub.dartlang.org/packages/angular_compiler'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angel_cli
+    package_version: v1.1.5
+    title: 'v1.1.5 of angel_cli'
+    published: '2017-08-08T01:45:56+00:00'
+    id: 'urn:uuid:ccc1e9a7-80bc-51d4-8312-3dd8e684a37f'
+    link: 'https://pub.dartlang.org/packages/angel_cli'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
