@@ -105643,3 +105643,12 @@
     link: 'https://pub.dartlang.org/packages/angel_cli'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: np8080
+    package_version: v0.0.24
+    title: 'v0.0.24 of np8080'
+    published: '2017-08-08T07:17:58+00:00'
+    id: 'urn:uuid:9e37a440-4c89-5ee0-bf8e-0871d0a0aefe'
+    link: 'https://pub.dartlang.org/packages/np8080'
+    author:
+        - 'Davy Mitchell <daftspaniel@gmail.com>'
