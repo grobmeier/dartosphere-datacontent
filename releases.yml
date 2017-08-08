@@ -105625,3 +105625,21 @@
     link: 'https://pub.dartlang.org/packages/angel_cli'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: ducene
+    package_version: v0.5.1
+    title: 'v0.5.1 of ducene'
+    published: '2017-08-08T03:45:46+00:00'
+    id: 'urn:uuid:b1a74ab7-d850-5424-ad4d-c0ca46310b63'
+    link: 'https://pub.dartlang.org/packages/ducene'
+    author:
+        - 'Shinichiro Abe <shinichiro.abe.1@gmail.com>'
+-
+    package_name: angel_cli
+    package_version: v1.1.5+2
+    title: 'v1.1.5+2 of angel_cli'
+    published: '2017-08-08T02:09:18+00:00'
+    id: 'urn:uuid:72fb3f1a-88f8-5d36-9add-1945d9480fcc'
+    link: 'https://pub.dartlang.org/packages/angel_cli'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
