@@ -105760,3 +105760,21 @@
     link: 'https://pub.dartlang.org/packages/sentry_client'
     author:
         - 'Ivan Evsikov <ivan.evsikov@team.wrike.com>'
+-
+    package_name: flutter_image
+    package_version: v0.0.1
+    title: 'v0.0.1 of flutter_image'
+    published: '2017-08-09T20:11:54+00:00'
+    id: 'urn:uuid:b6d27fcf-8c99-5e78-ba96-e119b40b4cde'
+    link: 'https://pub.dartlang.org/packages/flutter_image'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: w_common
+    package_version: v1.8.0
+    title: 'v1.8.0 of w_common'
+    published: '2017-08-09T18:13:25+00:00'
+    id: 'urn:uuid:6d0c6273-3d7a-50b3-9522-abe6cc5a7fef'
+    link: 'https://pub.dartlang.org/packages/w_common'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
