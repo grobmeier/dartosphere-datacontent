@@ -105737,3 +105737,26 @@
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: dart_dev
+    package_version: v1.8.0
+    title: 'v1.8.0 of dart_dev'
+    published: '2017-08-09T16:29:56+00:00'
+    id: 'urn:uuid:efd87422-2cd3-5766-8634-b1b01d90585d'
+    link: 'https://pub.dartlang.org/packages/dart_dev'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: sentry_client
+    package_version: v4.0.1
+    title: 'v4.0.1 of sentry_client'
+    published: '2017-08-09T14:52:14+00:00'
+    id: 'urn:uuid:55e1d8f0-3292-5581-a0d7-f77753ec0462'
+    link: 'https://pub.dartlang.org/packages/sentry_client'
+    author:
+        - 'Ivan Evsikov <ivan.evsikov@team.wrike.com>'
