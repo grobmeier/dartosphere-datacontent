@@ -105851,3 +105851,12 @@
     link: 'https://pub.dartlang.org/packages/scarabei'
     author:
         - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: where
+    package_version: v1.0.0
+    title: 'v1.0.0 of where'
+    published: '2017-08-11T16:25:11+00:00'
+    id: 'urn:uuid:fd10ac74-9db8-594a-aef7-87f25bd39490'
+    link: 'https://pub.dartlang.org/packages/where'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
