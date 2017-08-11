@@ -105860,3 +105860,45 @@
     link: 'https://pub.dartlang.org/packages/where'
     author:
         - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: shared_preferences_red
+    package_version: v0.2.8
+    title: 'v0.2.8 of shared_preferences_red'
+    published: '2017-08-11T21:25:04+00:00'
+    id: 'urn:uuid:812e1bdb-d08a-5af7-9a46-0b35483a56ee'
+    link: 'https://pub.dartlang.org/packages/shared_preferences_red'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: chronosgl
+    package_version: v3.2.2
+    title: 'v3.2.2 of chronosgl'
+    published: '2017-08-11T20:01:28+00:00'
+    id: 'urn:uuid:5b2e3ed3-ad01-5ad0-98d5-93ec5042b542'
+    link: 'https://pub.dartlang.org/packages/chronosgl'
+    author:
+        - 'Robert Muth <robert@muth.org>'
+        - 'Ray Hulha <java4life@gmail.com>'
+-
+    package_name: over_react_test
+    package_version: v1.2.0
+    title: 'v1.2.0 of over_react_test'
+    published: '2017-08-11T19:29:23+00:00'
+    id: 'urn:uuid:126d77ee-3869-513e-913b-0f0aea032def'
+    link: 'https://pub.dartlang.org/packages/over_react_test'
+    author:
+        - 'Workiva UI Platform Team <uip@workiva.com>'
+-
+    package_name: w_flux
+    package_version: v2.9.0
+    title: 'v2.9.0 of w_flux'
+    published: '2017-08-11T19:14:25+00:00'
+    id: 'urn:uuid:c8977380-ac51-5f9f-b831-9607aec5f887'
+    link: 'https://pub.dartlang.org/packages/w_flux'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
