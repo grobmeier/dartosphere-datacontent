@@ -105929,3 +105929,12 @@
     link: 'https://pub.dartlang.org/packages/built_mirrors'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: shared_preferences_red
+    package_version: v0.2.9
+    title: 'v0.2.9 of shared_preferences_red'
+    published: '2017-08-12T11:54:23+00:00'
+    id: 'urn:uuid:c3a366e9-c48b-5dc6-8bb7-822777f329fc'
+    link: 'https://pub.dartlang.org/packages/shared_preferences_red'
+    author:
+        - '<custom build>'
