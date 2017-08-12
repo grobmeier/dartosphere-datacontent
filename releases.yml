@@ -105938,3 +105938,14 @@
     link: 'https://pub.dartlang.org/packages/shared_preferences_red'
     author:
         - '<custom build>'
+-
+    package_name: ng_bootstrap
+    package_version: v0.7.1
+    title: 'v0.7.1 of ng_bootstrap'
+    published: '2017-08-12T15:35:49+00:00'
+    id: 'urn:uuid:7d1f6476-7111-5ae7-934c-7671436d0399'
+    link: 'https://pub.dartlang.org/packages/ng_bootstrap'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+        - 'Adao Jr. <itsjunnior@gmail.com>'
+        - 'Ismael Blasco <isdswii@gmail.com>'
