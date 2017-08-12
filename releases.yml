@@ -105902,3 +105902,30 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: dson
+    package_version: v0.8.0
+    title: 'v0.8.0 of dson'
+    published: '2017-08-11T23:32:00+00:00'
+    id: 'urn:uuid:86b018de-c7a6-57ef-af6f-fc369ac4bd16'
+    link: 'https://pub.dartlang.org/packages/dson'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: serializable
+    package_version: v0.5.0
+    title: 'v0.5.0 of serializable'
+    published: '2017-08-11T22:58:20+00:00'
+    id: 'urn:uuid:dc30e0a6-e9c9-59f3-954f-97fbff4c48f5'
+    link: 'https://pub.dartlang.org/packages/serializable'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: built_mirrors
+    package_version: v0.4.0
+    title: 'v0.4.0 of built_mirrors'
+    published: '2017-08-11T22:49:05+00:00'
+    id: 'urn:uuid:f2f2dbd3-ca49-5a7e-90c1-399feb002354'
+    link: 'https://pub.dartlang.org/packages/built_mirrors'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
