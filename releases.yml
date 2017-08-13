@@ -105994,3 +105994,39 @@
     link: 'https://pub.dartlang.org/packages/d_components'
     author:
         - 'Dejan Marlovic <dmarlovic83@gmail.com>'
+-
+    package_name: built_redux
+    package_version: v3.0.0
+    title: 'v3.0.0 of built_redux'
+    published: '2017-08-13T20:47:35+00:00'
+    id: 'urn:uuid:cdf652a3-0a03-5a99-9e67-154734709f4f'
+    link: 'https://pub.dartlang.org/packages/built_redux'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: sentry_client
+    package_version: v4.0.3
+    title: 'v4.0.3 of sentry_client'
+    published: '2017-08-13T20:21:11+00:00'
+    id: 'urn:uuid:aa206811-d4cf-595b-a532-22e8757889ef'
+    link: 'https://pub.dartlang.org/packages/sentry_client'
+    author:
+        - 'Ivan Evsikov <ivan.evsikov@team.wrike.com>'
+-
+    package_name: flutter_built_redux
+    package_version: v0.0.2
+    title: 'v0.0.2 of flutter_built_redux'
+    published: '2017-08-13T20:14:54+00:00'
+    id: 'urn:uuid:42b1d47e-0a4f-5886-b552-908a98e34853'
+    link: 'https://pub.dartlang.org/packages/flutter_built_redux'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: angel_markdown
+    package_version: v1.0.0+1
+    title: 'v1.0.0+1 of angel_markdown'
+    published: '2017-08-13T19:42:22+00:00'
+    id: 'urn:uuid:18cee608-a685-56f3-86ed-970279906b9b'
+    link: 'https://pub.dartlang.org/packages/angel_markdown'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
