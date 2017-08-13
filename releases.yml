@@ -105967,3 +105967,12 @@
     link: 'https://pub.dartlang.org/packages/lookaround_iterator'
     author:
         - 'Philipp Schiffmann <philippschiffmann93@gmail.com>'
+-
+    package_name: angel_markdown
+    package_version: v1.0.0
+    title: 'v1.0.0 of angel_markdown'
+    published: '2017-08-13T04:24:45+00:00'
+    id: 'urn:uuid:f55d0b7e-8fe7-5da8-8223-8d81bbfbd9eb'
+    link: 'https://pub.dartlang.org/packages/angel_markdown'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
