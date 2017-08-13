@@ -105949,3 +105949,21 @@
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
         - 'Adao Jr. <itsjunnior@gmail.com>'
         - 'Ismael Blasco <isdswii@gmail.com>'
+-
+    package_name: spotify
+    package_version: v0.0.3
+    title: 'v0.0.3 of spotify'
+    published: '2017-08-13T01:38:59+00:00'
+    id: 'urn:uuid:11c6fb4d-a179-595f-9e97-4a0f655e706f'
+    link: 'https://pub.dartlang.org/packages/spotify'
+    author:
+        - 'rinukkusu <rinukkusu@auen.land>'
+-
+    package_name: lookaround_iterator
+    package_version: v1.0.0
+    title: 'v1.0.0 of lookaround_iterator'
+    published: '2017-08-13T01:09:22+00:00'
+    id: 'urn:uuid:d09ce400-0500-5698-bd9f-101b5174cc27'
+    link: 'https://pub.dartlang.org/packages/lookaround_iterator'
+    author:
+        - 'Philipp Schiffmann <philippschiffmann93@gmail.com>'
