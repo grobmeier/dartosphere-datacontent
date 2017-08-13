@@ -105985,3 +105985,12 @@
     link: 'https://pub.dartlang.org/packages/dht'
     author:
         - 'Yuriy Olkhovyy <yuriy.olkhovyy@gmail.com>'
+-
+    package_name: d_components
+    package_version: v0.0.2
+    title: 'v0.0.2 of d_components'
+    published: '2017-08-13T17:07:43+00:00'
+    id: 'urn:uuid:826787ea-918a-578b-9fc7-4c54bc7a324f'
+    link: 'https://pub.dartlang.org/packages/d_components'
+    author:
+        - 'Dejan Marlovic <dmarlovic83@gmail.com>'
