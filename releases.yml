@@ -106048,3 +106048,58 @@
     link: 'https://pub.dartlang.org/packages/protobuf'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build_barback
+    package_version: v0.4.0
+    title: 'v0.4.0 of build_barback'
+    published: '2017-08-14T17:47:29+00:00'
+    id: 'urn:uuid:1397731b-7cbd-5ddf-9790-1755f19b2f50'
+    link: 'https://pub.dartlang.org/packages/build_barback'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build_test
+    package_version: v0.6.4
+    title: 'v0.6.4 of build_test'
+    published: '2017-08-14T17:46:31+00:00'
+    id: 'urn:uuid:1f211962-83a5-5df3-abd9-e862a78ddeda'
+    link: 'https://pub.dartlang.org/packages/build_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build_runner
+    package_version: v0.4.0
+    title: 'v0.4.0 of build_runner'
+    published: '2017-08-14T17:46:20+00:00'
+    id: 'urn:uuid:0af79a43-6eae-53ed-abfb-8f522dd7693d'
+    link: 'https://pub.dartlang.org/packages/build_runner'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build
+    package_version: v0.10.0
+    title: 'v0.10.0 of build'
+    published: '2017-08-14T17:46:05+00:00'
+    id: 'urn:uuid:9a7fc553-581e-5662-9aa7-232ad6be1d61'
+    link: 'https://pub.dartlang.org/packages/build'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: serializer
+    package_version: v0.6.2+1
+    title: 'v0.6.2+1 of serializer'
+    published: '2017-08-14T17:40:01+00:00'
+    id: 'urn:uuid:5c61f15f-a0f0-5609-8398-e3662a1183d3'
+    link: 'https://pub.dartlang.org/packages/serializer'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+        - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+-
+    package_name: over_react
+    package_version: v1.16.0
+    title: 'v1.16.0 of over_react'
+    published: '2017-08-14T15:31:19+00:00'
+    id: 'urn:uuid:66245f78-7194-5e6d-a534-a05538e24262'
+    link: 'https://pub.dartlang.org/packages/over_react'
+    author:
+        - 'Workiva UI Platform Team <uip@workiva.com>'
