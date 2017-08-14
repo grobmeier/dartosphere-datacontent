@@ -106030,3 +106030,21 @@
     link: 'https://pub.dartlang.org/packages/angel_markdown'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: protoc_plugin
+    package_version: v0.7.5
+    title: 'v0.7.5 of protoc_plugin'
+    published: '2017-08-14T12:12:11+00:00'
+    id: 'urn:uuid:3eb184cc-6de5-5465-bfb0-28d3fad6b2d2'
+    link: 'https://pub.dartlang.org/packages/protoc_plugin'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: protobuf
+    package_version: v0.5.5
+    title: 'v0.5.5 of protobuf'
+    published: '2017-08-14T12:02:25+00:00'
+    id: 'urn:uuid:6652145b-72d4-5242-a396-005f21c626d2'
+    link: 'https://pub.dartlang.org/packages/protobuf'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
