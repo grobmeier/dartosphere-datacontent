@@ -106216,3 +106216,30 @@
     link: 'https://pub.dartlang.org/packages/w_common'
     author:
         - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+-
+    package_name: angular_compiler
+    package_version: v0.2.1
+    title: 'v0.2.1 of angular_compiler'
+    published: '2017-08-15T21:53:52+00:00'
+    id: 'urn:uuid:dc14d0ee-6115-59ff-b601-96c9560d16fa'
+    link: 'https://pub.dartlang.org/packages/angular_compiler'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: json_serializable
+    package_version: v0.2.2
+    title: 'v0.2.2 of json_serializable'
+    published: '2017-08-15T21:14:46+00:00'
+    id: 'urn:uuid:d5694bed-7380-5aab-b116-c42a8d28ba28'
+    link: 'https://pub.dartlang.org/packages/json_serializable'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build_runner
+    package_version: v0.4.0+2
+    title: 'v0.4.0+2 of build_runner'
+    published: '2017-08-15T20:04:16+00:00'
+    id: 'urn:uuid:834d33a1-e6c0-532a-abd5-38fb7e844728'
+    link: 'https://pub.dartlang.org/packages/build_runner'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
