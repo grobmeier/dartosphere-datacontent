@@ -106157,3 +106157,12 @@
     link: 'https://pub.dartlang.org/packages/build_test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: sentry
+    package_version: v0.0.5
+    title: 'v0.0.5 of sentry'
+    published: '2017-08-15T00:00:45+00:00'
+    id: 'urn:uuid:49b2140f-3543-5ee0-9d38-99a730e384b3'
+    link: 'https://pub.dartlang.org/packages/sentry'
+    author:
+        - 'Yegor Jbanov <yjbanov@google.com>'
