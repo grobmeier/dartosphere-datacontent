@@ -106166,3 +106166,12 @@
     link: 'https://pub.dartlang.org/packages/sentry'
     author:
         - 'Yegor Jbanov <yjbanov@google.com>'
+-
+    package_name: d_components
+    package_version: v0.0.8
+    title: 'v0.0.8 of d_components'
+    published: '2017-08-15T12:50:25+00:00'
+    id: 'urn:uuid:62978ec0-d0e4-58b5-80cf-102318dc810a'
+    link: 'https://pub.dartlang.org/packages/d_components'
+    author:
+        - 'Dejan Marlovic <dmarlovic83@gmail.com>'
