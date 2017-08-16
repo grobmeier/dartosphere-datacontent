@@ -106307,3 +106307,48 @@
     link: 'https://pub.dartlang.org/packages/angular_data_grid'
     author:
         - 'abhishek buragadda <abhishek.b007@gmail.com>'
+-
+    package_name: pubviz
+    package_version: v2.3.10
+    title: 'v2.3.10 of pubviz'
+    published: '2017-08-16T17:48:43+00:00'
+    id: 'urn:uuid:6134198c-6375-5ba1-8899-916bdc35973a'
+    link: 'https://pub.dartlang.org/packages/pubviz'
+    author:
+        - 'Kevin Moore <kevmoo@google.com>'
+-
+    package_name: build_runner
+    package_version: v0.4.0+3
+    title: 'v0.4.0+3 of build_runner'
+    published: '2017-08-16T17:39:19+00:00'
+    id: 'urn:uuid:2783cb7f-3045-59dd-b6ac-332151c0368b'
+    link: 'https://pub.dartlang.org/packages/build_runner'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: over_react
+    package_version: v1.16.2
+    title: 'v1.16.2 of over_react'
+    published: '2017-08-16T17:32:22+00:00'
+    id: 'urn:uuid:2901d063-c4bb-55a9-97b5-ecc172842a19'
+    link: 'https://pub.dartlang.org/packages/over_react'
+    author:
+        - 'Workiva UI Platform Team <uip@workiva.com>'
+-
+    package_name: build_test
+    package_version: v0.7.0+1
+    title: 'v0.7.0+1 of build_test'
+    published: '2017-08-16T16:43:13+00:00'
+    id: 'urn:uuid:15f1f21a-318d-579f-a8f2-d642d5e045d7'
+    link: 'https://pub.dartlang.org/packages/build_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: static_dom
+    package_version: v0.1.0
+    title: 'v0.1.0 of static_dom'
+    published: '2017-08-16T15:00:13+00:00'
+    id: 'urn:uuid:6742bcc9-400c-5152-af3d-fbba6e0c0866'
+    link: 'https://pub.dartlang.org/packages/static_dom'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
