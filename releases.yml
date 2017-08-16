@@ -106289,3 +106289,12 @@
     link: 'https://pub.dartlang.org/packages/angular_forms'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: url_launcher
+    package_version: v0.4.2+4
+    title: 'v0.4.2+4 of url_launcher'
+    published: '2017-08-16T09:14:51+00:00'
+    id: 'urn:uuid:1113354d-3592-5e97-aa79-2ecf046a1fe1'
+    link: 'https://pub.dartlang.org/packages/url_launcher'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
