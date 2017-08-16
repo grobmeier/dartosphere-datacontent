@@ -106243,3 +106243,49 @@
     link: 'https://pub.dartlang.org/packages/build_runner'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angel_configuration
+    package_version: v1.0.5
+    title: 'v1.0.5 of angel_configuration'
+    published: '2017-08-16T00:29:26+00:00'
+    id: 'urn:uuid:d35ce142-d12f-5f61-9458-7d2db72e9965'
+    link: 'https://pub.dartlang.org/packages/angel_configuration'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_static
+    package_version: v1.2.5
+    title: 'v1.2.5 of angel_static'
+    published: '2017-08-16T00:01:23+00:00'
+    id: 'urn:uuid:553456c0-e9a3-5129-ad96-6bce4abb601f'
+    link: 'https://pub.dartlang.org/packages/angel_static'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.9
+    title: 'v1.0.9 of angel_framework'
+    published: '2017-08-15T23:05:20+00:00'
+    id: 'urn:uuid:ee3f1d27-41e3-542c-be04-76d07bda2041'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: mockito
+    package_version: v2.2.0
+    title: 'v2.2.0 of mockito'
+    published: '2017-08-15T22:56:09+00:00'
+    id: 'urn:uuid:476db9db-cb57-55ed-bf66-b93c4ed62625'
+    link: 'https://pub.dartlang.org/packages/mockito'
+    author:
+        - 'Dmitriy Fibulwinter <fibulwinter@gmail.com>'
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angular_forms
+    package_version: v0.1.0
+    title: 'v0.1.0 of angular_forms'
+    published: '2017-08-15T22:13:08+00:00'
+    id: 'urn:uuid:abb09ee7-9e82-51f3-9fa6-036762fb8bec'
+    link: 'https://pub.dartlang.org/packages/angular_forms'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
