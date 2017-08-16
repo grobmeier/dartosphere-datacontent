@@ -106298,3 +106298,12 @@
     link: 'https://pub.dartlang.org/packages/url_launcher'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: angular_data_grid
+    package_version: v0.0.1
+    title: 'v0.0.1 of angular_data_grid'
+    published: '2017-08-16T13:09:46+00:00'
+    id: 'urn:uuid:8e6cfcd3-ea6d-5af1-a779-a8e0e0eaffd0'
+    link: 'https://pub.dartlang.org/packages/angular_data_grid'
+    author:
+        - 'abhishek buragadda <abhishek.b007@gmail.com>'
