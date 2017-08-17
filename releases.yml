@@ -106415,3 +106415,48 @@
     link: 'https://pub.dartlang.org/packages/local_auth'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: dson
+    package_version: v0.9.0
+    title: 'v0.9.0 of dson'
+    published: '2017-08-17T03:05:28+00:00'
+    id: 'urn:uuid:8048001f-1d74-5308-a64e-6593cc31dfa9'
+    link: 'https://pub.dartlang.org/packages/dson'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: sass_builder
+    package_version: v0.2.0+1
+    title: 'v0.2.0+1 of sass_builder'
+    published: '2017-08-17T02:52:28+00:00'
+    id: 'urn:uuid:e3367490-1081-584e-889e-1ca58cd83c8a'
+    link: 'https://pub.dartlang.org/packages/sass_builder'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: serializable
+    package_version: v0.6.0
+    title: 'v0.6.0 of serializable'
+    published: '2017-08-17T02:41:15+00:00'
+    id: 'urn:uuid:f82b114a-65d2-5828-87dc-82ea7008bc50'
+    link: 'https://pub.dartlang.org/packages/serializable'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: deeplearning4d
+    package_version: v0.0.1
+    title: 'v0.0.1 of deeplearning4d'
+    published: '2017-08-17T02:31:55+00:00'
+    id: 'urn:uuid:2fdbc240-d3ef-5d3f-8b38-a1ab4176a03f'
+    link: 'https://pub.dartlang.org/packages/deeplearning4d'
+    author:
+        - 'Marat Gubaidullin <marat.gubaidullin@gmail.com>'
+-
+    package_name: built_mirrors
+    package_version: v0.5.0
+    title: 'v0.5.0 of built_mirrors'
+    published: '2017-08-17T02:29:45+00:00'
+    id: 'urn:uuid:32b0de64-3872-5546-8441-d15284feed39'
+    link: 'https://pub.dartlang.org/packages/built_mirrors'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
