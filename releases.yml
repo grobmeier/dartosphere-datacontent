@@ -106523,3 +106523,12 @@
     link: 'https://pub.dartlang.org/packages/d_charts'
     author:
         - 'dmarl <dmarlovic@hgmail.com>'
+-
+    package_name: android_app_info
+    package_version: v0.0.4
+    title: 'v0.0.4 of android_app_info'
+    published: '2017-08-17T18:20:40+00:00'
+    id: 'urn:uuid:d3d592dc-f29f-561f-b8a3-2787f1b22c29'
+    link: 'https://pub.dartlang.org/packages/android_app_info'
+    author:
+        - 'Ryan Gonzalez <rymg19@gmail.com>'
