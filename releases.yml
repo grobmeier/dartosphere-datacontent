@@ -106460,3 +106460,21 @@
     link: 'https://pub.dartlang.org/packages/built_mirrors'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: mdl
+    package_version: v2.0.3
+    title: 'v2.0.3 of mdl'
+    published: '2017-08-17T08:41:21+00:00'
+    id: 'urn:uuid:4e8867e9-4fdb-58ac-8dfc-472034fe4a07'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: mock_web_server
+    package_version: v1.0.0
+    title: 'v1.0.0 of mock_web_server'
+    published: '2017-08-17T06:39:56+00:00'
+    id: 'urn:uuid:b67e8db1-01f5-560b-b30f-59e555936220'
+    link: 'https://pub.dartlang.org/packages/mock_web_server'
+    author:
+        - 'Miguel Castiblanco <miguel@starcarr.co>'
