@@ -106478,3 +106478,30 @@
     link: 'https://pub.dartlang.org/packages/mock_web_server'
     author:
         - 'Miguel Castiblanco <miguel@starcarr.co>'
+-
+    package_name: scoped_model
+    package_version: v0.1.0
+    title: 'v0.1.0 of scoped_model'
+    published: '2017-08-17T13:46:08+00:00'
+    id: 'urn:uuid:36d76b9a-52dc-58df-9b92-57eda8f21ec0'
+    link: 'https://pub.dartlang.org/packages/scoped_model'
+    author:
+        - 'brian.egan <brian@brianegan.com>'
+-
+    package_name: angular_data_grid
+    package_version: v1.0.0
+    title: 'v1.0.0 of angular_data_grid'
+    published: '2017-08-17T13:36:56+00:00'
+    id: 'urn:uuid:9defea4c-9e0d-5ac7-9961-51e021adfe36'
+    link: 'https://pub.dartlang.org/packages/angular_data_grid'
+    author:
+        - 'abhishek b <abhishek.b007@gmail.com>'
+-
+    package_name: l10n
+    package_version: v0.17.0
+    title: 'v0.17.0 of l10n'
+    published: '2017-08-17T12:52:48+00:00'
+    id: 'urn:uuid:2ed51a2f-a68c-59f6-852d-eafdd455efa5'
+    link: 'https://pub.dartlang.org/packages/l10n'
+    author:
+        - 'Mike Mitterer  <office@mikemitterer.at>'
