@@ -106505,3 +106505,21 @@
     link: 'https://pub.dartlang.org/packages/l10n'
     author:
         - 'Mike Mitterer  <office@mikemitterer.at>'
+-
+    package_name: r_tree
+    package_version: v1.0.2
+    title: 'v1.0.2 of r_tree'
+    published: '2017-08-17T14:42:41+00:00'
+    id: 'urn:uuid:e8261e3a-4bd1-5b93-81f8-48894fdc81e4'
+    link: 'https://pub.dartlang.org/packages/r_tree'
+    author:
+        - 'Taylor Anderson <taylor.anderson@workiva.com>'
+-
+    package_name: d_charts
+    package_version: v0.0.1
+    title: 'v0.0.1 of d_charts'
+    published: '2017-08-17T14:13:28+00:00'
+    id: 'urn:uuid:2bd458bd-4537-58b0-bba4-9cb23f474f36'
+    link: 'https://pub.dartlang.org/packages/d_charts'
+    author:
+        - 'dmarl <dmarlovic@hgmail.com>'
