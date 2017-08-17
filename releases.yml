@@ -106397,3 +106397,21 @@
     link: 'https://pub.dartlang.org/packages/firebase_auth'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: sass_builder
+    package_version: v0.2.0
+    title: 'v0.2.0 of sass_builder'
+    published: '2017-08-17T01:33:49+00:00'
+    id: 'urn:uuid:a91a1ed7-7d40-5878-b993-e275769b051d'
+    link: 'https://pub.dartlang.org/packages/sass_builder'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: local_auth
+    package_version: v0.0.1
+    title: 'v0.0.1 of local_auth'
+    published: '2017-08-17T01:05:33+00:00'
+    id: 'urn:uuid:e9c959eb-eb19-5c29-b41f-abf278eb1ecc'
+    link: 'https://pub.dartlang.org/packages/local_auth'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
