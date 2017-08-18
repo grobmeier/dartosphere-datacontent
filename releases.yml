@@ -106550,3 +106550,12 @@
     link: 'https://pub.dartlang.org/packages/json_serializable'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: markd
+    package_version: v0.11.4
+    title: 'v0.11.4 of markd'
+    published: '2017-08-18T08:58:34+00:00'
+    id: 'urn:uuid:9a5bf57f-9156-5c8f-8b59-6c54d601d945'
+    link: 'https://pub.dartlang.org/packages/markd'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
