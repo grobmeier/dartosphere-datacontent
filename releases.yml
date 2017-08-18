@@ -106532,3 +106532,21 @@
     link: 'https://pub.dartlang.org/packages/android_app_info'
     author:
         - 'Ryan Gonzalez <rymg19@gmail.com>'
+-
+    package_name: sprintf
+    package_version: v3.0.2
+    title: 'v3.0.2 of sprintf'
+    published: '2017-08-18T00:58:09+00:00'
+    id: 'urn:uuid:aec2f5c0-16fa-5f6c-9e23-f19ef041885c'
+    link: 'https://pub.dartlang.org/packages/sprintf'
+    author:
+        - 'Richard Eames <dartsprintf@naddiseo.ca>'
+-
+    package_name: json_serializable
+    package_version: v0.2.2+1
+    title: 'v0.2.2+1 of json_serializable'
+    published: '2017-08-17T23:40:39+00:00'
+    id: 'urn:uuid:bd74dc70-6cad-5a1f-9445-6a9e1b0a4523'
+    link: 'https://pub.dartlang.org/packages/json_serializable'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
