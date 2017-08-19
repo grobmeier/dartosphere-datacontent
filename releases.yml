@@ -106598,3 +106598,12 @@
     link: 'https://pub.dartlang.org/packages/dht'
     author:
         - 'Yuriy Olkhovyy <yuriy.olkhovyy@gmail.com>'
+-
+    package_name: sqflite
+    package_version: v0.2.2
+    title: 'v0.2.2 of sqflite'
+    published: '2017-08-19T11:42:37+00:00'
+    id: 'urn:uuid:06bdcf7f-c12e-542c-a62d-3421a768a41a'
+    link: 'https://pub.dartlang.org/packages/sqflite'
+    author:
+        - 'Tekartik <alex@tekartik.com>'
