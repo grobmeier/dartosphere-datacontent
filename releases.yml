@@ -106607,3 +106607,13 @@
     link: 'https://pub.dartlang.org/packages/sqflite'
     author:
         - 'Tekartik <alex@tekartik.com>'
+-
+    package_name: flutter_webview_plugin
+    package_version: v0.0.6
+    title: 'v0.0.6 of flutter_webview_plugin'
+    published: '2017-08-19T15:29:24+00:00'
+    id: 'urn:uuid:12acd78f-0a4f-53dc-9a37-e11ae88e7c71'
+    link: 'https://pub.dartlang.org/packages/flutter_webview_plugin'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+        - 'Toufik Zitouni <toufiksapps@gmail.com>'
