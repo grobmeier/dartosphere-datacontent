@@ -106589,3 +106589,12 @@
     link: 'https://pub.dartlang.org/packages/lab_rat_wp_api'
     author:
         - 'Laboratory Rat <Oleg.Timofeev20@gmail.com>'
+-
+    package_name: dht
+    package_version: v0.0.5
+    title: 'v0.0.5 of dht'
+    published: '2017-08-19T08:30:36+00:00'
+    id: 'urn:uuid:56827d0a-260f-5585-9f4b-6ec6f2b87f44'
+    link: 'https://pub.dartlang.org/packages/dht'
+    author:
+        - 'Yuriy Olkhovyy <yuriy.olkhovyy@gmail.com>'
