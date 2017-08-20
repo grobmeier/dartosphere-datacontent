@@ -106653,3 +106653,21 @@
     link: 'https://pub.dartlang.org/packages/modern_charts'
     author:
         - 'Man Hoang <jolleekin@outlook.com>'
+-
+    package_name: youtube_parser
+    package_version: v0.9.1
+    title: 'v0.9.1 of youtube_parser'
+    published: '2017-08-20T13:57:36+00:00'
+    id: 'urn:uuid:33253bde-2454-5930-a82c-0115b7e1f4a0'
+    link: 'https://pub.dartlang.org/packages/youtube_parser'
+    author:
+        - 'rblau <github@blau.bz>'
+-
+    package_name: deeplearnjs_facade
+    package_version: v0.0.1
+    title: 'v0.0.1 of deeplearnjs_facade'
+    published: '2017-08-20T10:11:45+00:00'
+    id: 'urn:uuid:463bd917-1bb2-5fcf-83c8-8ceae40ab0a0'
+    link: 'https://pub.dartlang.org/packages/deeplearnjs_facade'
+    author:
+        - 'Dominic Jack <thedomjack@gmail.com>'
