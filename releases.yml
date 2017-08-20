@@ -106689,3 +106689,12 @@
     link: 'https://pub.dartlang.org/packages/string_mask'
     author:
         - 'EmersonMoura <olimou@gmail.com>'
+-
+    package_name: mock_web_server
+    package_version: v1.1.0
+    title: 'v1.1.0 of mock_web_server'
+    published: '2017-08-20T19:53:17+00:00'
+    id: 'urn:uuid:da646ec6-dcc8-5383-b01f-38e4584d2bc9'
+    link: 'https://pub.dartlang.org/packages/mock_web_server'
+    author:
+        - 'Miguel Castiblanco <miguel@starcarr.co>'
