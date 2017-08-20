@@ -106626,3 +106626,30 @@
     link: 'https://pub.dartlang.org/packages/shuttlecock'
     author:
         - 'Alexei Eleusis Díaz Vera <alexei.eleusis@gmail.com>'
+-
+    package_name: dht
+    package_version: v0.0.6
+    title: 'v0.0.6 of dht'
+    published: '2017-08-20T09:20:31+00:00'
+    id: 'urn:uuid:f1126f7c-b400-5fc2-b12b-c851c1a8aa24'
+    link: 'https://pub.dartlang.org/packages/dht'
+    author:
+        - 'Yuriy Olkhovyy <yuriy.olkhovyy@gmail.com>'
+-
+    package_name: dart_amqp
+    package_version: v0.0.8
+    title: 'v0.0.8 of dart_amqp'
+    published: '2017-08-20T06:17:53+00:00'
+    id: 'urn:uuid:5c18e025-bbc3-5a42-a8ec-14b00fba2e54'
+    link: 'https://pub.dartlang.org/packages/dart_amqp'
+    author:
+        - 'Achilleas Anagnostopoulos'
+-
+    package_name: modern_charts
+    package_version: v0.1.9
+    title: 'v0.1.9 of modern_charts'
+    published: '2017-08-20T06:15:06+00:00'
+    id: 'urn:uuid:e208c7ee-6731-505c-91a6-ce5c9065beaa'
+    link: 'https://pub.dartlang.org/packages/modern_charts'
+    author:
+        - 'Man Hoang <jolleekin@outlook.com>'
