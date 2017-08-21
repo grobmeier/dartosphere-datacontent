@@ -106698,3 +106698,21 @@
     link: 'https://pub.dartlang.org/packages/mock_web_server'
     author:
         - 'Miguel Castiblanco <miguel@starcarr.co>'
+-
+    package_name: observable_roles
+    package_version: v0.1.44
+    title: 'v0.1.44 of observable_roles'
+    published: '2017-08-21T08:48:50+00:00'
+    id: 'urn:uuid:1124b713-1b7f-5a75-bd79-515d08e9beb8'
+    link: 'https://pub.dartlang.org/packages/observable_roles'
+    author:
+        - 'Roman Snitko <roman.snitko@gmail.com>'
+-
+    package_name: modern_charts
+    package_version: v0.1.10
+    title: 'v0.1.10 of modern_charts'
+    published: '2017-08-21T07:23:41+00:00'
+    id: 'urn:uuid:2f8e244d-4779-5d62-b0dd-1e1dec329b6a'
+    link: 'https://pub.dartlang.org/packages/modern_charts'
+    author:
+        - 'Man Hoang <jolleekin@outlook.com>'
