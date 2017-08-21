@@ -106725,3 +106725,35 @@
     link: 'https://pub.dartlang.org/packages/logging_service'
     author:
         - 'Ivan Evsikov <ivan.evsikov@team.wrike.com>'
+-
+    package_name: googleapis_beta
+    package_version: v0.39.1
+    title: 'v0.39.1 of googleapis_beta'
+    published: '2017-08-21T15:38:29+00:00'
+    id: 'urn:uuid:93ed7311-57fe-5107-8808-3c08042f1e12'
+    link: 'https://pub.dartlang.org/packages/googleapis_beta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: googleapis
+    package_version: v0.43.0
+    title: 'v0.43.0 of googleapis'
+    published: '2017-08-21T15:38:17+00:00'
+    id: 'urn:uuid:949399b6-d148-5110-afe9-a90560243db3'
+    link: 'https://pub.dartlang.org/packages/googleapis'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: w_flux
+    package_version: v2.9.2
+    title: 'v2.9.2 of w_flux'
+    published: '2017-08-21T14:57:09+00:00'
+    id: 'urn:uuid:d1305936-7800-51cf-b250-39607866e476'
+    link: 'https://pub.dartlang.org/packages/w_flux'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
