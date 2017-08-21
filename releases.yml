@@ -106757,3 +106757,31 @@
         - 'Jay Udey <jay.udey@workiva.com>'
         - 'Max Peterson <maxwell.peterson@workiva.com>'
         - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: chrome
+    package_version: v0.9.32
+    title: 'v0.9.32 of chrome'
+    published: '2017-08-21T21:56:51+00:00'
+    id: 'urn:uuid:59cd9003-e860-5f23-a8ee-3b387b23a87e'
+    link: 'https://pub.dartlang.org/packages/chrome'
+    author:
+        - 'Adam Bender <adambender@gmail.com>'
+        - 'Ben Holtz <bholtz@cs.stanford.edu>'
+-
+    package_name: json_serializable
+    package_version: v0.2.3
+    title: 'v0.2.3 of json_serializable'
+    published: '2017-08-21T19:34:45+00:00'
+    id: 'urn:uuid:f6993e85-fe38-565e-978c-5c0c3d2848a2'
+    link: 'https://pub.dartlang.org/packages/json_serializable'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: modern_charts_angular_wrapper
+    package_version: v0.0.1
+    title: 'v0.0.1 of modern_charts_angular_wrapper'
+    published: '2017-08-21T18:21:10+00:00'
+    id: 'urn:uuid:7bd98310-016d-54bc-b151-feaac83ab827'
+    link: 'https://pub.dartlang.org/packages/modern_charts_angular_wrapper'
+    author:
+        - 'Dejan Marlovic <dMarlovic83@gmail.com>'
