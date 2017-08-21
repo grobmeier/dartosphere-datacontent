@@ -106716,3 +106716,12 @@
     link: 'https://pub.dartlang.org/packages/modern_charts'
     author:
         - 'Man Hoang <jolleekin@outlook.com>'
+-
+    package_name: logging_service
+    package_version: v3.0.1
+    title: 'v3.0.1 of logging_service'
+    published: '2017-08-21T12:33:32+00:00'
+    id: 'urn:uuid:a30f29be-98cd-512e-abc6-8e6b7bc93fc0'
+    link: 'https://pub.dartlang.org/packages/logging_service'
+    author:
+        - 'Ivan Evsikov <ivan.evsikov@team.wrike.com>'
