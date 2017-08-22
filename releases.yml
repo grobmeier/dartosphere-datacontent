@@ -106803,3 +106803,50 @@
     link: 'https://pub.dartlang.org/packages/d_components'
     author:
         - 'Dejan Marlovic <dmarlovic83@gmail.com>'
+-
+    package_name: serializer
+    package_version: v0.7.0
+    title: 'v0.7.0 of serializer'
+    published: '2017-08-22T16:20:10+00:00'
+    id: 'urn:uuid:80281d95-2296-5f82-8a9b-2423bc38244d'
+    link: 'https://pub.dartlang.org/packages/serializer'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+        - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+-
+    package_name: serializer_generator
+    package_version: v0.7.0
+    title: 'v0.7.0 of serializer_generator'
+    published: '2017-08-22T16:19:58+00:00'
+    id: 'urn:uuid:b5b45a6c-e025-5892-aee7-c85688678c2c'
+    link: 'https://pub.dartlang.org/packages/serializer_generator'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+        - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+-
+    package_name: modern_charts_angular_wrapper
+    package_version: v0.0.2
+    title: 'v0.0.2 of modern_charts_angular_wrapper'
+    published: '2017-08-22T15:14:33+00:00'
+    id: 'urn:uuid:4321aee1-11e7-5192-ae55-3a4cb4a2041e'
+    link: 'https://pub.dartlang.org/packages/modern_charts_angular_wrapper'
+    author:
+        - 'Dejan Marlovic <dMarlovic83@gmail.com>'
+-
+    package_name: entify
+    package_version: v0.2.1
+    title: 'v0.2.1 of entify'
+    published: '2017-08-22T15:00:24+00:00'
+    id: 'urn:uuid:6738aa1d-034e-5701-89ea-d3955dc01c51'
+    link: 'https://pub.dartlang.org/packages/entify'
+    author:
+        - 'Peter Siroki <psiroki@skawa.hu>'
+-
+    package_name: l10n
+    package_version: v0.18.0
+    title: 'v0.18.0 of l10n'
+    published: '2017-08-22T14:59:26+00:00'
+    id: 'urn:uuid:0c278e04-7a00-5bd8-9cc7-46dff9edb64f'
+    link: 'https://pub.dartlang.org/packages/l10n'
+    author:
+        - 'Mike Mitterer  <office@mikemitterer.at>'
