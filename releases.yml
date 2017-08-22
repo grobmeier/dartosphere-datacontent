@@ -106850,3 +106850,21 @@
     link: 'https://pub.dartlang.org/packages/l10n'
     author:
         - 'Mike Mitterer  <office@mikemitterer.at>'
+-
+    package_name: angular_modern_charts
+    package_version: v0.0.5
+    title: 'v0.0.5 of angular_modern_charts'
+    published: '2017-08-22T21:08:50+00:00'
+    id: 'urn:uuid:a14abe46-0159-5589-a26c-927d6d21802f'
+    link: 'https://pub.dartlang.org/packages/angular_modern_charts'
+    author:
+        - 'Dejan Marlovic <dMarlovic83@gmail.com>'
+-
+    package_name: modern_charts_angular_wrapper
+    package_version: v0.0.3
+    title: 'v0.0.3 of modern_charts_angular_wrapper'
+    published: '2017-08-22T18:43:08+00:00'
+    id: 'urn:uuid:ada38922-6bf8-5fd6-8692-a3056e0f7129'
+    link: 'https://pub.dartlang.org/packages/modern_charts_angular_wrapper'
+    author:
+        - 'Dejan Marlovic <dMarlovic83@gmail.com>'
