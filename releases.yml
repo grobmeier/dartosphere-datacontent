@@ -106785,3 +106785,21 @@
     link: 'https://pub.dartlang.org/packages/modern_charts_angular_wrapper'
     author:
         - 'Dejan Marlovic <dMarlovic83@gmail.com>'
+-
+    package_name: static_dom
+    package_version: v0.1.1
+    title: 'v0.1.1 of static_dom'
+    published: '2017-08-22T13:27:01+00:00'
+    id: 'urn:uuid:f04054e0-c019-5628-a5cd-8807b170adce'
+    link: 'https://pub.dartlang.org/packages/static_dom'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: d_components
+    package_version: v0.0.9
+    title: 'v0.0.9 of d_components'
+    published: '2017-08-22T12:37:19+00:00'
+    id: 'urn:uuid:3c6c31df-ea8c-569a-a4f4-06e73ac9453f'
+    link: 'https://pub.dartlang.org/packages/d_components'
+    author:
+        - 'Dejan Marlovic <dmarlovic83@gmail.com>'
