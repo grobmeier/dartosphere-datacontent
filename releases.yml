@@ -106922,3 +106922,22 @@
     link: 'https://pub.dartlang.org/packages/react'
     author:
         - 'Clean Team <clean@vacuumlabs.com>'
+-
+    package_name: chrome
+    package_version: v0.9.33
+    title: 'v0.9.33 of chrome'
+    published: '2017-08-23T21:00:03+00:00'
+    id: 'urn:uuid:39544ad5-6931-508a-ba14-1c84c421611c'
+    link: 'https://pub.dartlang.org/packages/chrome'
+    author:
+        - 'Adam Bender <adambender@gmail.com>'
+        - 'Ben Holtz <bholtz@cs.stanford.edu>'
+-
+    package_name: stomp_sockjs
+    package_version: v0.2.0
+    title: 'v0.2.0 of stomp_sockjs'
+    published: '2017-08-23T20:18:47+00:00'
+    id: 'urn:uuid:484dfeaa-07ca-5341-b559-6a3881e01831'
+    link: 'https://pub.dartlang.org/packages/stomp_sockjs'
+    author:
+        - 'Tamas Kiss <stompsockjsdart@gmail.com>'
