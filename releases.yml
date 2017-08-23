@@ -106868,3 +106868,12 @@
     link: 'https://pub.dartlang.org/packages/modern_charts_angular_wrapper'
     author:
         - 'Dejan Marlovic <dMarlovic83@gmail.com>'
+-
+    package_name: l10n
+    package_version: v0.19.0
+    title: 'v0.19.0 of l10n'
+    published: '2017-08-23T08:50:32+00:00'
+    id: 'urn:uuid:708fb90c-630f-5adc-9065-7b4d2d8f2cc2'
+    link: 'https://pub.dartlang.org/packages/l10n'
+    author:
+        - 'Mike Mitterer  <office@mikemitterer.at>'
