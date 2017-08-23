@@ -106895,3 +106895,30 @@
     link: 'https://pub.dartlang.org/packages/protoc_plugin'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angular_modern_charts
+    package_version: v0.0.6
+    title: 'v0.0.6 of angular_modern_charts'
+    published: '2017-08-23T17:34:47+00:00'
+    id: 'urn:uuid:975a3ac7-41e8-599d-9e19-de176b2d5bd4'
+    link: 'https://pub.dartlang.org/packages/angular_modern_charts'
+    author:
+        - 'Dejan Marlovic <dMarlovic83@gmail.com>'
+-
+    package_name: vm_service_lib
+    package_version: v0.3.5+1
+    title: 'v0.3.5+1 of vm_service_lib'
+    published: '2017-08-23T16:50:51+00:00'
+    id: 'urn:uuid:31fe62dd-bc1f-59bb-b2e7-43676d02eac4'
+    link: 'https://pub.dartlang.org/packages/vm_service_lib'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: react
+    package_version: v3.4.5
+    title: 'v3.4.5 of react'
+    published: '2017-08-23T16:03:28+00:00'
+    id: 'urn:uuid:35af14cd-ee5a-572f-b4b5-ce27c30ae8de'
+    link: 'https://pub.dartlang.org/packages/react'
+    author:
+        - 'Clean Team <clean@vacuumlabs.com>'
