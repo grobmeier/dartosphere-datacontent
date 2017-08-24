@@ -106941,3 +106941,12 @@
     link: 'https://pub.dartlang.org/packages/stomp_sockjs'
     author:
         - 'Tamas Kiss <stompsockjsdart@gmail.com>'
+-
+    package_name: modern_charts
+    package_version: v0.1.11
+    title: 'v0.1.11 of modern_charts'
+    published: '2017-08-24T07:26:41+00:00'
+    id: 'urn:uuid:16395a14-6ce0-5c09-815b-190f57519d5c'
+    link: 'https://pub.dartlang.org/packages/modern_charts'
+    author:
+        - 'Man Hoang <jolleekin@outlook.com>'
