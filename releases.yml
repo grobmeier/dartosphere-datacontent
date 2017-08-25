@@ -107081,3 +107081,12 @@
     link: 'https://pub.dartlang.org/packages/graphql_client'
     author:
         - 'Thomas Hourlier <hourliert@gmail.com>'
+-
+    package_name: analyzer_plugin
+    package_version: v0.0.1-alpha.0
+    title: 'v0.0.1-alpha.0 of analyzer_plugin'
+    published: '2017-08-25T21:16:46+00:00'
+    id: 'urn:uuid:2771f8a1-5b21-59e4-a790-56d18e12e8f6'
+    link: 'https://pub.dartlang.org/packages/analyzer_plugin'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
