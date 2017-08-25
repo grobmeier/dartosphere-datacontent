@@ -106986,3 +106986,21 @@
     link: 'https://pub.dartlang.org/packages/tw_angular_test_utils'
     author:
         - 'Portal Architecture <portalarchitecture@trustwave.com>'
+-
+    package_name: angular_router
+    package_version: v1.0.1
+    title: 'v1.0.1 of angular_router'
+    published: '2017-08-24T19:45:19+00:00'
+    id: 'urn:uuid:39b21f12-edc5-52be-b5ab-d66a4bc499f2'
+    link: 'https://pub.dartlang.org/packages/angular_router'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angular_compiler
+    package_version: v0.3.0
+    title: 'v0.3.0 of angular_compiler'
+    published: '2017-08-24T19:42:18+00:00'
+    id: 'urn:uuid:45087e99-b69c-5688-9ceb-6078dd3cee8a'
+    link: 'https://pub.dartlang.org/packages/angular_compiler'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
