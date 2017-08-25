@@ -107022,3 +107022,53 @@
     link: 'https://pub.dartlang.org/packages/shelf_packages_handler'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: l10n
+    package_version: v1.0.1
+    title: 'v1.0.1 of l10n'
+    published: '2017-08-25T13:50:22+00:00'
+    id: 'urn:uuid:18f48d3b-ebff-5134-9fc7-342255f28aba'
+    link: 'https://pub.dartlang.org/packages/l10n'
+    author:
+        - 'Mike Mitterer  <office@mikemitterer.at>'
+-
+    package_name: w_flux
+    package_version: v2.9.3
+    title: 'v2.9.3 of w_flux'
+    published: '2017-08-25T13:30:51+00:00'
+    id: 'urn:uuid:94f68f64-49be-5251-ba13-7fbedafd2f45'
+    link: 'https://pub.dartlang.org/packages/w_flux'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: graphql_client
+    package_version: v0.0.2
+    title: 'v0.0.2 of graphql_client'
+    published: '2017-08-25T13:09:18+00:00'
+    id: 'urn:uuid:47ce11fc-ade8-595a-9e23-d11d768cc2b2'
+    link: 'https://pub.dartlang.org/packages/graphql_client'
+    author:
+        - 'Thomas Hourlier <hourliert@gmail.com>'
+-
+    package_name: fs_shim
+    package_version: v0.7.1
+    title: 'v0.7.1 of fs_shim'
+    published: '2017-08-25T13:07:03+00:00'
+    id: 'urn:uuid:c327d415-5d38-5e4d-bd20-098d013031c8'
+    link: 'https://pub.dartlang.org/packages/fs_shim'
+    author:
+        - 'Tekartik <alex@tekartik.com>'
+-
+    package_name: d_components
+    package_version: v0.0.10
+    title: 'v0.0.10 of d_components'
+    published: '2017-08-25T11:34:50+00:00'
+    id: 'urn:uuid:a4cf14a4-be09-5d23-b1f8-88d79b03bdb7'
+    link: 'https://pub.dartlang.org/packages/d_components'
+    author:
+        - 'Dejan Marlovic <dmarlovic83@gmail.com>'
