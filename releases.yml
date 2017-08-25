@@ -107004,3 +107004,21 @@
     link: 'https://pub.dartlang.org/packages/angular_compiler'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: mock_web_server
+    package_version: v1.2.0
+    title: 'v1.2.0 of mock_web_server'
+    published: '2017-08-25T05:18:26+00:00'
+    id: 'urn:uuid:5ff38435-9c07-5959-9302-f2fd0366daff'
+    link: 'https://pub.dartlang.org/packages/mock_web_server'
+    author:
+        - 'Miguel Castiblanco <miguel@starcarr.co>'
+-
+    package_name: shelf_packages_handler
+    package_version: v1.0.1
+    title: 'v1.0.1 of shelf_packages_handler'
+    published: '2017-08-25T02:28:29+00:00'
+    id: 'urn:uuid:c0a1b71c-f0c1-5ca9-95d3-635caa56c5ef'
+    link: 'https://pub.dartlang.org/packages/shelf_packages_handler'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
