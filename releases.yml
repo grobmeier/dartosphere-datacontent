@@ -107193,3 +107193,23 @@
     author:
         - 'Alex Gann <k.alexgann@gmail.com>'
         - 'Bernhard Pichler <support@stagexl.org>'
+-
+    package_name: ng_bootstrap
+    package_version: v0.8.1
+    title: 'v0.8.1 of ng_bootstrap'
+    published: '2017-08-26T21:06:48+00:00'
+    id: 'urn:uuid:a4789674-40b1-58fe-ae4b-7a106a02b8e7'
+    link: 'https://pub.dartlang.org/packages/ng_bootstrap'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+        - 'Adao Jr. <itsjunnior@gmail.com>'
+        - 'Ismael Blasco <isdswii@gmail.com>'
+-
+    package_name: d_components
+    package_version: v0.0.12
+    title: 'v0.0.12 of d_components'
+    published: '2017-08-26T18:44:15+00:00'
+    id: 'urn:uuid:bb65446d-24c8-5171-b892-ad89c0b6d4ef'
+    link: 'https://pub.dartlang.org/packages/d_components'
+    author:
+        - 'Dejan Marlovic <dmarlovic83@gmail.com>'
