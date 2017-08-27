@@ -107233,3 +107233,12 @@
     link: 'https://pub.dartlang.org/packages/animation_builder'
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: animation_builder
+    package_version: v0.0.4
+    title: 'v0.0.4 of animation_builder'
+    published: '2017-08-27T11:49:30+00:00'
+    id: 'urn:uuid:07db1b12-8553-5593-919e-59248fe02e54'
+    link: 'https://pub.dartlang.org/packages/animation_builder'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
