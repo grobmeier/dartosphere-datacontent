@@ -107269,3 +107269,39 @@
     link: 'https://pub.dartlang.org/packages/owl'
     author:
         - 'Istvan Soos <istvan.soos@agilord.com>'
+-
+    package_name: flutter_redux
+    package_version: v0.2.0
+    title: 'v0.2.0 of flutter_redux'
+    published: '2017-08-27T21:15:35+00:00'
+    id: 'urn:uuid:d6db3132-2e45-5f38-b0b4-373fed3218c9'
+    link: 'https://pub.dartlang.org/packages/flutter_redux'
+    author:
+        - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: redux_thunk
+    package_version: v0.1.0
+    title: 'v0.1.0 of redux_thunk'
+    published: '2017-08-27T20:32:25+00:00'
+    id: 'urn:uuid:c20b501c-7313-553f-9f8b-bf2024a24a44'
+    link: 'https://pub.dartlang.org/packages/redux_thunk'
+    author:
+        - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: redux_future
+    package_version: v0.1.0
+    title: 'v0.1.0 of redux_future'
+    published: '2017-08-27T19:45:25+00:00'
+    id: 'urn:uuid:43186b1b-c73e-5219-ae64-2fef54dd0ea3'
+    link: 'https://pub.dartlang.org/packages/redux_future'
+    author:
+        - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: redux_logging
+    package_version: v0.1.1
+    title: 'v0.1.1 of redux_logging'
+    published: '2017-08-27T18:59:21+00:00'
+    id: 'urn:uuid:8d46f792-6964-5487-ad52-ffc86c51bb95'
+    link: 'https://pub.dartlang.org/packages/redux_logging'
+    author:
+        - 'Brian Egan <brian@brianegan.com>'
