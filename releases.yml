@@ -107224,3 +107224,12 @@
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
         - 'Adao Jr. <itsjunnior@gmail.com>'
         - 'Ismael Blasco <isdswii@gmail.com>'
+-
+    package_name: animation_builder
+    package_version: v0.0.2
+    title: 'v0.0.2 of animation_builder'
+    published: '2017-08-27T08:53:52+00:00'
+    id: 'urn:uuid:eb6f1e9f-db8d-5f21-bb6b-db04bdb19ae8'
+    link: 'https://pub.dartlang.org/packages/animation_builder'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
