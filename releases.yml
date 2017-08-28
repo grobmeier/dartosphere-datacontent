@@ -107449,3 +107449,39 @@
     link: 'https://pub.dartlang.org/packages/js_wrapping_generator'
     author:
         - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+-
+    package_name: scarabei_flutter_reyer
+    package_version: v1.3.2
+    title: 'v1.3.2 of scarabei_flutter_reyer'
+    published: '2017-08-28T20:51:35+00:00'
+    id: 'urn:uuid:4f074a63-2481-5592-afa1-7f46e86a497b'
+    link: 'https://pub.dartlang.org/packages/scarabei_flutter_reyer'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei_reyer
+    package_version: v1.3.2
+    title: 'v1.3.2 of scarabei_reyer'
+    published: '2017-08-28T20:49:03+00:00'
+    id: 'urn:uuid:ece95465-7904-58de-a223-02b7ca742fcb'
+    link: 'https://pub.dartlang.org/packages/scarabei_reyer'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei
+    package_version: v1.3.2
+    title: 'v1.3.2 of scarabei'
+    published: '2017-08-28T20:48:30+00:00'
+    id: 'urn:uuid:2758037a-8c88-58e7-9590-c28cfa0f4b66'
+    link: 'https://pub.dartlang.org/packages/scarabei'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: redux_dev_tools
+    package_version: v0.1.1
+    title: 'v0.1.1 of redux_dev_tools'
+    published: '2017-08-28T18:53:45+00:00'
+    id: 'urn:uuid:4e1241c0-97c4-5967-bfff-e4ce50c3f2ff'
+    link: 'https://pub.dartlang.org/packages/redux_dev_tools'
+    author:
+        - 'Brian Egan <brian@brianegan.com>'
