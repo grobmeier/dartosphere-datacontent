@@ -107305,3 +107305,12 @@
     link: 'https://pub.dartlang.org/packages/redux_logging'
     author:
         - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: angular_modern_charts
+    package_version: v0.0.7
+    title: 'v0.0.7 of angular_modern_charts'
+    published: '2017-08-27T22:19:09+00:00'
+    id: 'urn:uuid:1f17655e-942c-5f76-9789-d09018290a23'
+    link: 'https://pub.dartlang.org/packages/angular_modern_charts'
+    author:
+        - 'Dejan Marlovic <dMarlovic83@gmail.com>'
