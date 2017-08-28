@@ -107350,3 +107350,12 @@
     link: 'https://pub.dartlang.org/packages/w_common'
     author:
         - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+-
+    package_name: flutter_redux
+    package_version: v0.3.0
+    title: 'v0.3.0 of flutter_redux'
+    published: '2017-08-28T13:29:22+00:00'
+    id: 'urn:uuid:c5621359-1ac3-562c-815c-dbf770409c48'
+    link: 'https://pub.dartlang.org/packages/flutter_redux'
+    author:
+        - 'Brian Egan <brian@brianegan.com>'
