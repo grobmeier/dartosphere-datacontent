@@ -107314,3 +107314,12 @@
     link: 'https://pub.dartlang.org/packages/angular_modern_charts'
     author:
         - 'Dejan Marlovic <dMarlovic83@gmail.com>'
+-
+    package_name: grizzly_vizdom
+    package_version: v0.0.3-dev
+    title: 'v0.0.3-dev of grizzly_vizdom'
+    published: '2017-08-28T05:34:03+00:00'
+    id: 'urn:uuid:1975977a-ad4a-5d6d-9a27-c45b5586170c'
+    link: 'https://pub.dartlang.org/packages/grizzly_vizdom'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
