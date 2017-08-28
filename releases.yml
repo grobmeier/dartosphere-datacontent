@@ -107323,3 +107323,30 @@
     link: 'https://pub.dartlang.org/packages/grizzly_vizdom'
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: angular_data_grid
+    package_version: v2.0.1
+    title: 'v2.0.1 of angular_data_grid'
+    published: '2017-08-28T06:55:38+00:00'
+    id: 'urn:uuid:42ffe7a4-22e0-5bec-b99f-fb555d460e4e'
+    link: 'https://pub.dartlang.org/packages/angular_data_grid'
+    author:
+        - 'abhishek b <abhishek.b007@gmail.com>'
+-
+    package_name: multi_select_tree
+    package_version: v1.0.1
+    title: 'v1.0.1 of multi_select_tree'
+    published: '2017-08-28T06:50:00+00:00'
+    id: 'urn:uuid:466dc383-c1c9-5db1-ad0c-315b82f7fb90'
+    link: 'https://pub.dartlang.org/packages/multi_select_tree'
+    author:
+        - 'abhishek buragadda<abhishek.b007@gmail.com>'
+-
+    package_name: w_common
+    package_version: v1.8.2
+    title: 'v1.8.2 of w_common'
+    published: '2017-08-28T06:13:47+00:00'
+    id: 'urn:uuid:77466296-c59a-51ca-8e8c-b6197d0801af'
+    link: 'https://pub.dartlang.org/packages/w_common'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
