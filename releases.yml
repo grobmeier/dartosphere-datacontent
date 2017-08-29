@@ -107521,3 +107521,21 @@
     link: 'https://pub.dartlang.org/packages/built_redux_thunk'
     author:
         - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: srec_codec
+    package_version: v0.0.2
+    title: 'v0.0.2 of srec_codec'
+    published: '2017-08-29T09:46:30+00:00'
+    id: 'urn:uuid:cb4e96e5-4345-5c01-8da9-07e74f4686b0'
+    link: 'https://pub.dartlang.org/packages/srec_codec'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: built_mirrors
+    package_version: v0.5.1
+    title: 'v0.5.1 of built_mirrors'
+    published: '2017-08-29T06:24:15+00:00'
+    id: 'urn:uuid:e7bb36b0-37e1-5258-a4bf-2a668a31f8a5'
+    link: 'https://pub.dartlang.org/packages/built_mirrors'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
