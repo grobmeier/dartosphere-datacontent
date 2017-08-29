@@ -107557,3 +107557,21 @@
     link: 'https://pub.dartlang.org/packages/flutter_redux_dev_tools'
     author:
         - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: d_components
+    package_version: v0.0.15
+    title: 'v0.0.15 of d_components'
+    published: '2017-08-29T16:01:50+00:00'
+    id: 'urn:uuid:0b8fedb8-0f7f-581f-b5b1-424d564bf61c'
+    link: 'https://pub.dartlang.org/packages/d_components'
+    author:
+        - 'Dejan Marlovic <dmarlovic83@gmail.com>'
+-
+    package_name: angular_modern_charts
+    package_version: v0.0.9
+    title: 'v0.0.9 of angular_modern_charts'
+    published: '2017-08-29T16:01:09+00:00'
+    id: 'urn:uuid:358b47a9-3e40-5709-b427-51639d0b1f7f'
+    link: 'https://pub.dartlang.org/packages/angular_modern_charts'
+    author:
+        - 'Dejan Marlovic <dMarlovic83@gmail.com>'
