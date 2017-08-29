@@ -107485,3 +107485,30 @@
     link: 'https://pub.dartlang.org/packages/redux_dev_tools'
     author:
         - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: angular2_material
+    package_version: v2.0.0-beta.11
+    title: 'v2.0.0-beta.11 of angular2_material'
+    published: '2017-08-28T22:37:15+00:00'
+    id: 'urn:uuid:3d0ecd71-13c0-577e-a976-6bf5a4f5b1f3'
+    link: 'https://pub.dartlang.org/packages/angular2_material'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: react
+    package_version: v4.0.0
+    title: 'v4.0.0 of react'
+    published: '2017-08-28T22:20:43+00:00'
+    id: 'urn:uuid:c5733a48-b66a-5629-9f8d-e04380bc4da4'
+    link: 'https://pub.dartlang.org/packages/react'
+    author:
+        - 'Clean Team <clean@vacuumlabs.com>'
+-
+    package_name: flutter_redux_dev_tools
+    package_version: v0.1.2
+    title: 'v0.1.2 of flutter_redux_dev_tools'
+    published: '2017-08-28T22:11:34+00:00'
+    id: 'urn:uuid:1e9e0f7b-7e3d-50b1-b84b-98b290659c0a'
+    link: 'https://pub.dartlang.org/packages/flutter_redux_dev_tools'
+    author:
+        - 'Brian Egan <brian@brianegan.com>'
