@@ -107512,3 +107512,12 @@
     link: 'https://pub.dartlang.org/packages/flutter_redux_dev_tools'
     author:
         - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: built_redux_thunk
+    package_version: v0.0.1
+    title: 'v0.0.1 of built_redux_thunk'
+    published: '2017-08-29T05:48:51+00:00'
+    id: 'urn:uuid:ea21c3b5-f96d-522f-978b-62a74e84bf4f'
+    link: 'https://pub.dartlang.org/packages/built_redux_thunk'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
