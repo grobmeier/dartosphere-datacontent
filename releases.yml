@@ -107620,3 +107620,12 @@
     link: 'https://pub.dartlang.org/packages/shelf'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: built_redux
+    package_version: v4.0.0
+    title: 'v4.0.0 of built_redux'
+    published: '2017-08-30T05:40:32+00:00'
+    id: 'urn:uuid:3eb075c5-53d4-5998-a480-192ef3cb90b5'
+    link: 'https://pub.dartlang.org/packages/built_redux'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
