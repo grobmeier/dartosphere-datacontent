@@ -107638,3 +107638,12 @@
     link: 'https://pub.dartlang.org/packages/srec_codec'
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: mqtt_client
+    package_version: v1.1.0
+    title: 'v1.1.0 of mqtt_client'
+    published: '2017-08-30T12:24:49+00:00'
+    id: 'urn:uuid:de45e218-3c39-525c-872b-8e72dbbeb67e'
+    link: 'https://pub.dartlang.org/packages/mqtt_client'
+    author:
+        - 'Steve Hamblett <steve.hamblett@linux.com>'
