@@ -107710,3 +107710,75 @@
     link: 'https://pub.dartlang.org/packages/aqueduct'
     author:
         - 'stable|kernel <http://stablekernel.com>'
+-
+    package_name: angular_test
+    package_version: v1.0.0
+    title: 'v1.0.0 of angular_test'
+    published: '2017-08-30T21:23:37+00:00'
+    id: 'urn:uuid:142dbfc2-7e11-5868-90be-ded99e0a2bad'
+    link: 'https://pub.dartlang.org/packages/angular_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angular_router
+    package_version: v1.0.2
+    title: 'v1.0.2 of angular_router'
+    published: '2017-08-30T21:09:24+00:00'
+    id: 'urn:uuid:54a099e7-5008-5769-93c5-046f98e0e3c1'
+    link: 'https://pub.dartlang.org/packages/angular_router'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angular_forms
+    package_version: v1.0.0
+    title: 'v1.0.0 of angular_forms'
+    published: '2017-08-30T21:07:57+00:00'
+    id: 'urn:uuid:43ab6423-ee87-51bb-b256-b5891600e73c'
+    link: 'https://pub.dartlang.org/packages/angular_forms'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angular
+    package_version: v4.0.0
+    title: 'v4.0.0 of angular'
+    published: '2017-08-30T21:05:24+00:00'
+    id: 'urn:uuid:7eb95640-3c24-5723-84a4-2267cc002c1b'
+    link: 'https://pub.dartlang.org/packages/angular'
+    author:
+        - 'Dart Team <web@dartlang.org>'
+-
+    package_name: shelf_packages_handler
+    package_version: v1.0.2
+    title: 'v1.0.2 of shelf_packages_handler'
+    published: '2017-08-30T20:47:43+00:00'
+    id: 'urn:uuid:7f2cdbbc-27ad-51ae-81cc-82e9e7e94cb1'
+    link: 'https://pub.dartlang.org/packages/shelf_packages_handler'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dartz
+    package_version: v0.6.1
+    title: 'v0.6.1 of dartz'
+    published: '2017-08-30T20:36:16+00:00'
+    id: 'urn:uuid:663e277d-4495-5749-b78c-dcefdcff7704'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: js_wrapping_generator
+    package_version: v0.4.2
+    title: 'v0.4.2 of js_wrapping_generator'
+    published: '2017-08-30T20:00:56+00:00'
+    id: 'urn:uuid:4fe32388-2ec9-5b8a-adb1-b6d8fef2dfae'
+    link: 'https://pub.dartlang.org/packages/js_wrapping_generator'
+    author:
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+-
+    package_name: js_wrapping
+    package_version: v0.4.2
+    title: 'v0.4.2 of js_wrapping'
+    published: '2017-08-30T20:00:31+00:00'
+    id: 'urn:uuid:331ad170-3c63-5d89-a277-82cbd599c2d0'
+    link: 'https://pub.dartlang.org/packages/js_wrapping'
+    author:
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
