@@ -107593,3 +107593,30 @@
     link: 'https://pub.dartlang.org/packages/firebase_database'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: shelf_test_handler
+    package_version: v1.0.1
+    title: 'v1.0.1 of shelf_test_handler'
+    published: '2017-08-30T00:02:24+00:00'
+    id: 'urn:uuid:9ab1cf2e-4f03-53c4-a5f2-12974fed7fd0'
+    link: 'https://pub.dartlang.org/packages/shelf_test_handler'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: vue2
+    package_version: v0.1.0
+    title: 'v0.1.0 of vue2'
+    published: '2017-08-29T22:48:38+00:00'
+    id: 'urn:uuid:14f27985-adde-51ff-a10e-db2598bf6dec'
+    link: 'https://pub.dartlang.org/packages/vue2'
+    author:
+        - 'Ryan Gonzalez <rymg19@gmail.com>'
+-
+    package_name: shelf
+    package_version: v0.7.0
+    title: 'v0.7.0 of shelf'
+    published: '2017-08-29T22:04:21+00:00'
+    id: 'urn:uuid:4359b652-7598-59c8-9ecb-ae7330d230d0'
+    link: 'https://pub.dartlang.org/packages/shelf'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
