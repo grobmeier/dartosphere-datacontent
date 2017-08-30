@@ -107647,3 +107647,66 @@
     link: 'https://pub.dartlang.org/packages/mqtt_client'
     author:
         - 'Steve Hamblett <steve.hamblett@linux.com>'
+-
+    package_name: shared_preferences
+    package_version: v0.2.5
+    title: 'v0.2.5 of shared_preferences'
+    published: '2017-08-30T17:09:33+00:00'
+    id: 'urn:uuid:446d97ae-866b-578c-a9ec-6579302651e1'
+    link: 'https://pub.dartlang.org/packages/shared_preferences'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: initialize
+    package_version: v0.6.2+7
+    title: 'v0.6.2+7 of initialize'
+    published: '2017-08-30T16:33:52+00:00'
+    id: 'urn:uuid:5531059a-6d27-5246-9536-b6dabbe1bdd0'
+    link: 'https://pub.dartlang.org/packages/initialize'
+    author:
+        - 'Polymer.dart Authors <web@dartlang.org>'
+-
+    package_name: dart2js_info
+    package_version: v0.5.5+1
+    title: 'v0.5.5+1 of dart2js_info'
+    published: '2017-08-30T16:33:06+00:00'
+    id: 'urn:uuid:a224f4f4-0bd4-5c29-bce7-d8ce481e6d66'
+    link: 'https://pub.dartlang.org/packages/dart2js_info'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: scarabei_flutter_reyer
+    package_version: v1.3.3
+    title: 'v1.3.3 of scarabei_flutter_reyer'
+    published: '2017-08-30T15:17:28+00:00'
+    id: 'urn:uuid:1fa2b8b8-3908-5b65-b13e-5720537c76cf'
+    link: 'https://pub.dartlang.org/packages/scarabei_flutter_reyer'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei_reyer
+    package_version: v1.3.3
+    title: 'v1.3.3 of scarabei_reyer'
+    published: '2017-08-30T15:16:45+00:00'
+    id: 'urn:uuid:dff7936e-4dd0-5404-8da4-8a5dad778a22'
+    link: 'https://pub.dartlang.org/packages/scarabei_reyer'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei
+    package_version: v1.3.3
+    title: 'v1.3.3 of scarabei'
+    published: '2017-08-30T15:16:05+00:00'
+    id: 'urn:uuid:36b6a6a8-c680-5b54-9626-4e857b48e9ba'
+    link: 'https://pub.dartlang.org/packages/scarabei'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: aqueduct
+    package_version: v2.4.0
+    title: 'v2.4.0 of aqueduct'
+    published: '2017-08-30T14:48:20+00:00'
+    id: 'urn:uuid:8eeba299-d4a3-5162-aa65-c8cc03fa7609'
+    link: 'https://pub.dartlang.org/packages/aqueduct'
+    author:
+        - 'stable|kernel <http://stablekernel.com>'
