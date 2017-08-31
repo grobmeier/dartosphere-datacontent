@@ -107838,3 +107838,50 @@
     link: 'https://pub.dartlang.org/packages/d_components'
     author:
         - 'Dejan Marlovic <dmarlovic83@gmail.com>'
+-
+    package_name: ng_bootstrap
+    package_version: v0.8.4
+    title: 'v0.8.4 of ng_bootstrap'
+    published: '2017-08-31T16:59:25+00:00'
+    id: 'urn:uuid:69457805-200e-5abe-9813-ab41b7fa32b5'
+    link: 'https://pub.dartlang.org/packages/ng_bootstrap'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+        - 'Adao Jr. <itsjunnior@gmail.com>'
+        - 'Ismael Blasco <isdswii@gmail.com>'
+-
+    package_name: angular_modern_charts
+    package_version: v0.0.11
+    title: 'v0.0.11 of angular_modern_charts'
+    published: '2017-08-31T16:52:38+00:00'
+    id: 'urn:uuid:a2cd238c-8a19-596b-bc5a-50bdb00b4693'
+    link: 'https://pub.dartlang.org/packages/angular_modern_charts'
+    author:
+        - 'Dejan Marlovic <dMarlovic83@gmail.com>'
+-
+    package_name: scarabei_flutter_reyer
+    package_version: v1.3.4
+    title: 'v1.3.4 of scarabei_flutter_reyer'
+    published: '2017-08-31T14:05:14+00:00'
+    id: 'urn:uuid:63944b10-87ac-5966-a9e9-ecf94b021f4e'
+    link: 'https://pub.dartlang.org/packages/scarabei_flutter_reyer'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei_reyer
+    package_version: v1.3.4
+    title: 'v1.3.4 of scarabei_reyer'
+    published: '2017-08-31T14:04:56+00:00'
+    id: 'urn:uuid:5746214d-2d0e-5561-bd2e-0a3c9c8fff11'
+    link: 'https://pub.dartlang.org/packages/scarabei_reyer'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei
+    package_version: v1.3.4
+    title: 'v1.3.4 of scarabei'
+    published: '2017-08-31T14:04:37+00:00'
+    id: 'urn:uuid:04560be8-8a37-5ce1-b77d-cb0833bbb92e'
+    link: 'https://pub.dartlang.org/packages/scarabei'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
