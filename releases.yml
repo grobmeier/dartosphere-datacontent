@@ -107885,3 +107885,30 @@
     link: 'https://pub.dartlang.org/packages/scarabei'
     author:
         - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: petitparser
+    package_version: v1.6.1
+    title: 'v1.6.1 of petitparser'
+    published: '2017-08-31T21:30:05+00:00'
+    id: 'urn:uuid:d23a8a62-6345-57fd-b7fc-c4fcad8af4f3'
+    link: 'https://pub.dartlang.org/packages/petitparser'
+    author:
+        - 'Lukas Renggli <renggli@gmail.com>'
+-
+    package_name: angular2
+    package_version: v3.1.0+1
+    title: 'v3.1.0+1 of angular2'
+    published: '2017-08-31T19:47:05+00:00'
+    id: 'urn:uuid:98aa2735-7c70-57e0-bc34-696941ecf795'
+    link: 'https://pub.dartlang.org/packages/angular2'
+    author:
+        - 'Dart Team <web@dartlang.org>'
+-
+    package_name: dartz
+    package_version: v0.6.2
+    title: 'v0.6.2 of dartz'
+    published: '2017-08-31T18:16:53+00:00'
+    id: 'urn:uuid:f5460004-8c4c-565a-9879-c40c48dc59f4'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
