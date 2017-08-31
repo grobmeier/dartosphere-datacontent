@@ -107818,3 +107818,23 @@
     link: 'https://pub.dartlang.org/packages/ng_di'
     author:
         - 'Luis vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: ng_bootstrap
+    package_version: v0.8.3
+    title: 'v0.8.3 of ng_bootstrap'
+    published: '2017-08-31T08:47:28+00:00'
+    id: 'urn:uuid:f85429fc-c27f-57fd-ba6e-c33f37a036d6'
+    link: 'https://pub.dartlang.org/packages/ng_bootstrap'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+        - 'Adao Jr. <itsjunnior@gmail.com>'
+        - 'Ismael Blasco <isdswii@gmail.com>'
+-
+    package_name: d_components
+    package_version: v0.0.17
+    title: 'v0.0.17 of d_components'
+    published: '2017-08-31T07:38:43+00:00'
+    id: 'urn:uuid:dbd83d74-e553-51c2-afdb-6c99fc10f1e7'
+    link: 'https://pub.dartlang.org/packages/d_components'
+    author:
+        - 'Dejan Marlovic <dmarlovic83@gmail.com>'
