@@ -107921,3 +107921,39 @@
     link: 'https://pub.dartlang.org/packages/web_uri'
     author:
         - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: l10n
+    package_version: v1.1.0
+    title: 'v1.1.0 of l10n'
+    published: '2017-09-01T09:39:43+00:00'
+    id: 'urn:uuid:79c6a943-7077-5f80-b2b6-fa02dce60dec'
+    link: 'https://pub.dartlang.org/packages/l10n'
+    author:
+        - 'Mike Mitterer  <office@mikemitterer.at>'
+-
+    package_name: flutter_blue
+    package_version: v0.0.1
+    title: 'v0.0.1 of flutter_blue'
+    published: '2017-09-01T08:27:55+00:00'
+    id: 'urn:uuid:933d63b8-b9d4-5e8f-9fe0-9f290c75ba8c'
+    link: 'https://pub.dartlang.org/packages/flutter_blue'
+    author:
+        - 'Paul DeMarco <paulmdemarco@gmail.com>'
+-
+    package_name: more
+    package_version: v1.8.0
+    title: 'v1.8.0 of more'
+    published: '2017-09-01T07:57:40+00:00'
+    id: 'urn:uuid:52f826da-046d-5241-a14f-114290955b44'
+    link: 'https://pub.dartlang.org/packages/more'
+    author:
+        - 'Lukas Renggli <renggli@gmail.com>'
+-
+    package_name: d_components
+    package_version: v0.0.18
+    title: 'v0.0.18 of d_components'
+    published: '2017-09-01T06:32:02+00:00'
+    id: 'urn:uuid:52e98560-065f-559c-ab03-c3b25fcbcc9e'
+    link: 'https://pub.dartlang.org/packages/d_components'
+    author:
+        - 'Dejan Marlovic <dmarlovic83@gmail.com>'
