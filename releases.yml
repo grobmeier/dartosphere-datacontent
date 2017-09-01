@@ -107912,3 +107912,12 @@
     link: 'https://pub.dartlang.org/packages/dartz'
     author:
         - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: web_uri
+    package_version: v0.1.0
+    title: 'v0.1.0 of web_uri'
+    published: '2017-09-01T01:07:54+00:00'
+    id: 'urn:uuid:cd71d9b3-83da-542d-954e-8c4746f383fd'
+    link: 'https://pub.dartlang.org/packages/web_uri'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
