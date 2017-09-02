@@ -107977,3 +107977,12 @@
     link: 'https://pub.dartlang.org/packages/dartdoc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: pub_mediator
+    package_version: v1.0.1
+    title: 'v1.0.1 of pub_mediator'
+    published: '2017-09-02T00:36:49+00:00'
+    id: 'urn:uuid:21fa54aa-03c4-5757-9094-b89d8103033c'
+    link: 'https://pub.dartlang.org/packages/pub_mediator'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
