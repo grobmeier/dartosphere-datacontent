@@ -107986,3 +107986,12 @@
     link: 'https://pub.dartlang.org/packages/pub_mediator'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: shuttlecock
+    package_version: v0.2.1
+    title: 'v0.2.1 of shuttlecock'
+    published: '2017-09-02T04:32:09+00:00'
+    id: 'urn:uuid:e75bfa05-1bd7-53bc-bdc5-f94955654b2c'
+    link: 'https://pub.dartlang.org/packages/shuttlecock'
+    author:
+        - 'Alexei Eleusis Díaz Vera <alexei.eleusis@gmail.com>'
