@@ -107995,3 +107995,30 @@
     link: 'https://pub.dartlang.org/packages/shuttlecock'
     author:
         - 'Alexei Eleusis Díaz Vera <alexei.eleusis@gmail.com>'
+-
+    package_name: scarabei_flutter_reyer
+    package_version: v1.3.6
+    title: 'v1.3.6 of scarabei_flutter_reyer'
+    published: '2017-09-02T12:15:37+00:00'
+    id: 'urn:uuid:044416d3-864d-5c66-96f8-b5df710b3238'
+    link: 'https://pub.dartlang.org/packages/scarabei_flutter_reyer'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei_reyer
+    package_version: v1.3.6
+    title: 'v1.3.6 of scarabei_reyer'
+    published: '2017-09-02T12:15:10+00:00'
+    id: 'urn:uuid:49ca9d1e-c006-56c3-b55c-d31188d8d533'
+    link: 'https://pub.dartlang.org/packages/scarabei_reyer'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei
+    package_version: v1.3.6
+    title: 'v1.3.6 of scarabei'
+    published: '2017-09-02T12:14:38+00:00'
+    id: 'urn:uuid:38840505-305f-5e19-af79-f5685ff46b90'
+    link: 'https://pub.dartlang.org/packages/scarabei'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
