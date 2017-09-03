@@ -108058,3 +108058,12 @@
     link: 'https://pub.dartlang.org/packages/angular_cli'
     author:
         - 'Jonah Williams <jonahwilliams@google.com>'
+-
+    package_name: randchoice
+    package_version: v0.0.1
+    title: 'v0.0.1 of randchoice'
+    published: '2017-09-03T14:20:02+00:00'
+    id: 'urn:uuid:2b31982c-5440-5a89-8de8-032e5619bba6'
+    link: 'https://pub.dartlang.org/packages/randchoice'
+    author:
+        - 'Davy Mitchell <daftspaniel@gmail.com>'
