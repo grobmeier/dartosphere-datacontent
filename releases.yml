@@ -108049,3 +108049,12 @@
     link: 'https://pub.dartlang.org/packages/scarabei'
     author:
         - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: angular_cli
+    package_version: v0.0.2
+    title: 'v0.0.2 of angular_cli'
+    published: '2017-09-03T02:56:14+00:00'
+    id: 'urn:uuid:32d3e0a4-8c2e-5ce6-a2ba-090c7ea81f72'
+    link: 'https://pub.dartlang.org/packages/angular_cli'
+    author:
+        - 'Jonah Williams <jonahwilliams@google.com>'
