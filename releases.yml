@@ -108076,3 +108076,12 @@
     link: 'https://pub.dartlang.org/packages/grizzly_io'
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: angular_modern_charts
+    package_version: v0.0.12
+    title: 'v0.0.12 of angular_modern_charts'
+    published: '2017-09-03T23:29:08+00:00'
+    id: 'urn:uuid:187cb0b3-16e4-5208-9ad5-bdf6109b3f85'
+    link: 'https://pub.dartlang.org/packages/angular_modern_charts'
+    author:
+        - 'Dejan Marlovic <dMarlovic83@gmail.com>'
