@@ -108232,3 +108232,22 @@
     link: 'https://pub.dartlang.org/packages/scarabei'
     author:
         - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: redux
+    package_version: v2.0.1
+    title: 'v2.0.1 of redux'
+    published: '2017-09-05T17:46:50+00:00'
+    id: 'urn:uuid:f2982d8d-a5df-5d30-8c9f-52873e434b84'
+    link: 'https://pub.dartlang.org/packages/redux'
+    author:
+        - 'John Ryan <john.p.ryan4@gmail.com>'
+        - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: dawo
+    package_version: v0.0.1
+    title: 'v0.0.1 of dawo'
+    published: '2017-09-05T16:37:05+00:00'
+    id: 'urn:uuid:d0c3f1d0-83f2-5ddf-8f64-fc06baa1b8fb'
+    link: 'https://pub.dartlang.org/packages/dawo'
+    author:
+        - 'Heikki K Lappalainen <heikkiklappalainen@gmail.com.com>'
