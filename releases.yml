@@ -108287,3 +108287,76 @@
     link: 'https://pub.dartlang.org/packages/flutter_blue'
     author:
         - 'Paul DeMarco <paulmdemarco@gmail.com>'
+-
+    package_name: access
+    package_version: v0.11.0
+    title: 'v0.11.0 of access'
+    published: '2017-09-06T13:02:01+00:00'
+    id: 'urn:uuid:f5eaca1c-7899-5782-b9fb-36f69280c704'
+    link: 'https://pub.dartlang.org/packages/access'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: flutter_google_places_autocomplete
+    package_version: v0.0.1
+    title: 'v0.0.1 of flutter_google_places_autocomplete'
+    published: '2017-09-06T12:52:07+00:00'
+    id: 'urn:uuid:1fadb2a7-1c5d-5ce6-a9c0-581c37d75cdb'
+    link: 'https://pub.dartlang.org/packages/flutter_google_places_autocomplete'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: rxdart
+    package_version: v0.14.0+1
+    title: 'v0.14.0+1 of rxdart'
+    published: '2017-09-06T12:22:03+00:00'
+    id: 'urn:uuid:0897a345-e568-5001-b2ff-5fb3968bf01d'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
+        - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: built_value_test
+    package_version: v3.0.0
+    title: 'v3.0.0 of built_value_test'
+    published: '2017-09-06T12:08:54+00:00'
+    id: 'urn:uuid:a9f8e831-449b-598e-b86a-4363d40236f7'
+    link: 'https://pub.dartlang.org/packages/built_value_test'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value_generator
+    package_version: v3.0.0
+    title: 'v3.0.0 of built_value_generator'
+    published: '2017-09-06T12:08:40+00:00'
+    id: 'urn:uuid:41f94023-ce9e-5d13-bc3b-60a05ae1185a'
+    link: 'https://pub.dartlang.org/packages/built_value_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value
+    package_version: v3.0.0
+    title: 'v3.0.0 of built_value'
+    published: '2017-09-06T12:08:19+00:00'
+    id: 'urn:uuid:7493eb0b-4ec8-57a3-9245-87f49e4b99da'
+    link: 'https://pub.dartlang.org/packages/built_value'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: google_maps_webservice
+    package_version: v0.0.1
+    title: 'v0.0.1 of google_maps_webservice'
+    published: '2017-09-06T11:51:29+00:00'
+    id: 'urn:uuid:1204b128-08ec-5d5e-9460-8bd5c3b1a296'
+    link: 'https://pub.dartlang.org/packages/google_maps_webservice'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: video_launcher
+    package_version: v0.3.0
+    title: 'v0.3.0 of video_launcher'
+    published: '2017-09-06T10:26:54+00:00'
+    id: 'urn:uuid:27e091b1-fc39-57fe-83b2-f81e108475d7'
+    link: 'https://pub.dartlang.org/packages/video_launcher'
+    author:
+        - 'Erick Ghaumez <erick@rxla.bz>'
