@@ -108405,3 +108405,40 @@
     link: 'https://pub.dartlang.org/packages/built_value'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: reselect
+    package_version: v0.2.0
+    title: 'v0.2.0 of reselect'
+    published: '2017-09-06T21:18:22+00:00'
+    id: 'urn:uuid:b8025a59-d4ce-5eb7-abb1-6cfc90959af8'
+    link: 'https://pub.dartlang.org/packages/reselect'
+    author:
+        - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: memoize
+    package_version: v1.3.0
+    title: 'v1.3.0 of memoize'
+    published: '2017-09-06T21:03:48+00:00'
+    id: 'urn:uuid:74002ed1-e9c2-50b3-92cf-9348de3dd4c0'
+    link: 'https://pub.dartlang.org/packages/memoize'
+    author:
+        - 'Alexander Polyankin <alexander.polyankin@team.wrike.com>'
+        - 'Max Grebenschikov <maxim.grebenshikov@team.wrike.com>'
+-
+    package_name: flutter_blue
+    package_version: v0.2.2
+    title: 'v0.2.2 of flutter_blue'
+    published: '2017-09-06T21:00:19+00:00'
+    id: 'urn:uuid:aba0e19e-537e-5945-aca3-782bcc053fb4'
+    link: 'https://pub.dartlang.org/packages/flutter_blue'
+    author:
+        - 'Paul DeMarco <paulmdemarco@gmail.com>'
+-
+    package_name: image
+    package_version: v1.1.28
+    title: 'v1.1.28 of image'
+    published: '2017-09-06T20:09:03+00:00'
+    id: 'urn:uuid:8dd401e1-86a4-5464-a126-b6a75e3b8bc5'
+    link: 'https://pub.dartlang.org/packages/image'
+    author:
+        - 'Brendan Duncan <brendanduncan@gmail.com>'
