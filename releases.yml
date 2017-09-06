@@ -108360,3 +108360,48 @@
     link: 'https://pub.dartlang.org/packages/video_launcher'
     author:
         - 'Erick Ghaumez <erick@rxla.bz>'
+-
+    package_name: analysis_server_lib
+    package_version: v0.1.2+2
+    title: 'v0.1.2+2 of analysis_server_lib'
+    published: '2017-09-06T17:14:24+00:00'
+    id: 'urn:uuid:35d669ab-8afb-5c0d-bff2-dc79684157e2'
+    link: 'https://pub.dartlang.org/packages/analysis_server_lib'
+    author:
+        - 'Devon Carew <devoncarew@google.com>'
+-
+    package_name: pub_server
+    package_version: v0.1.1+4
+    title: 'v0.1.1+4 of pub_server'
+    published: '2017-09-06T16:03:18+00:00'
+    id: 'urn:uuid:eacb093b-b3b1-5bcb-b058-30943e2fd7f7'
+    link: 'https://pub.dartlang.org/packages/pub_server'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: built_value_test
+    package_version: v4.0.0
+    title: 'v4.0.0 of built_value_test'
+    published: '2017-09-06T15:24:54+00:00'
+    id: 'urn:uuid:575a6546-6e0d-5f4e-aebe-00a0cd858d68'
+    link: 'https://pub.dartlang.org/packages/built_value_test'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value_generator
+    package_version: v4.0.0
+    title: 'v4.0.0 of built_value_generator'
+    published: '2017-09-06T15:24:12+00:00'
+    id: 'urn:uuid:e6e3e973-8e6b-5ab8-8c6e-2e4c3ff51a36'
+    link: 'https://pub.dartlang.org/packages/built_value_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value
+    package_version: v4.0.0
+    title: 'v4.0.0 of built_value'
+    published: '2017-09-06T15:23:26+00:00'
+    id: 'urn:uuid:3cee8bfe-5a41-523d-b754-1d9d14eda853'
+    link: 'https://pub.dartlang.org/packages/built_value'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
