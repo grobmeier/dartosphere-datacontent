@@ -108451,3 +108451,13 @@
     link: 'https://pub.dartlang.org/packages/chess'
     author:
         - 'David Kopec <david@oaksnow.com>'
+-
+    package_name: dnd_html5
+    package_version: v0.3.6
+    title: 'v0.3.6 of dnd_html5'
+    published: '2017-09-07T07:45:18+00:00'
+    id: 'urn:uuid:8a51c3de-ffe1-59fe-86d2-6bbbe29be277'
+    link: 'https://pub.dartlang.org/packages/dnd_html5'
+    author:
+        - 'Marco Jakob <majakob@gmx.ch>'
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
