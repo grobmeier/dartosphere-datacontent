@@ -108442,3 +108442,12 @@
     link: 'https://pub.dartlang.org/packages/image'
     author:
         - 'Brendan Duncan <brendanduncan@gmail.com>'
+-
+    package_name: chess
+    package_version: v0.6.3
+    title: 'v0.6.3 of chess'
+    published: '2017-09-07T02:21:03+00:00'
+    id: 'urn:uuid:cf04ed77-3934-52e3-b32b-c7a84004a5ce'
+    link: 'https://pub.dartlang.org/packages/chess'
+    author:
+        - 'David Kopec <david@oaksnow.com>'
