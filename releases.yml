@@ -108552,3 +108552,21 @@
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: built_redux
+    package_version: v5.0.0
+    title: 'v5.0.0 of built_redux'
+    published: '2017-09-08T04:17:59+00:00'
+    id: 'urn:uuid:8f21e3d5-e418-5ed6-a358-a4658d795b26'
+    link: 'https://pub.dartlang.org/packages/built_redux'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: angular_modern_charts
+    package_version: v0.0.14
+    title: 'v0.0.14 of angular_modern_charts'
+    published: '2017-09-08T03:00:08+00:00'
+    id: 'urn:uuid:a05cb273-b77d-5f3a-abfd-893d0d425f5d'
+    link: 'https://pub.dartlang.org/packages/angular_modern_charts'
+    author:
+        - 'Dejan Marlovic <dMarlovic83@gmail.com>'
