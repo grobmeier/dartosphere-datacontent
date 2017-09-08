@@ -108570,3 +108570,30 @@
     link: 'https://pub.dartlang.org/packages/angular_modern_charts'
     author:
         - 'Dejan Marlovic <dMarlovic83@gmail.com>'
+-
+    package_name: appengine
+    package_version: v0.4.2
+    title: 'v0.4.2 of appengine'
+    published: '2017-09-08T17:03:00+00:00'
+    id: 'urn:uuid:a83df1f8-3be2-58b3-9fd5-974a4942b032'
+    link: 'https://pub.dartlang.org/packages/appengine'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: solarium_tools
+    package_version: v0.0.2
+    title: 'v0.0.2 of solarium_tools'
+    published: '2017-09-08T15:32:25+00:00'
+    id: 'urn:uuid:7bba9b74-e42c-5ac5-b090-a28921ca8dc0'
+    link: 'https://pub.dartlang.org/packages/solarium_tools'
+    author:
+        - 'Michael Francis <michael@solariumvr.com>'
+-
+    package_name: angular_modern_charts
+    package_version: v0.0.15
+    title: 'v0.0.15 of angular_modern_charts'
+    published: '2017-09-08T15:21:18+00:00'
+    id: 'urn:uuid:75c38c07-29e8-5f9f-93c4-db37e0e9a4b9'
+    link: 'https://pub.dartlang.org/packages/angular_modern_charts'
+    author:
+        - 'Dejan Marlovic <dMarlovic83@gmail.com>'
