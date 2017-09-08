@@ -108497,3 +108497,58 @@
     link: 'https://pub.dartlang.org/packages/tripledes'
     author:
         - 'John Ryan <john.p.ryan4@gmail.com>'
+-
+    package_name: dson
+    package_version: v0.9.1
+    title: 'v0.9.1 of dson'
+    published: '2017-09-07T22:04:50+00:00'
+    id: 'urn:uuid:7b1f72e7-8b0a-59b4-8c0c-8ac6a3e3f5aa'
+    link: 'https://pub.dartlang.org/packages/dson'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: serializable
+    package_version: v0.6.1
+    title: 'v0.6.1 of serializable'
+    published: '2017-09-07T21:55:17+00:00'
+    id: 'urn:uuid:c61aa5d3-108b-56f0-b9b9-ad7bb855711e'
+    link: 'https://pub.dartlang.org/packages/serializable'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: redux_logging
+    package_version: v0.1.2
+    title: 'v0.1.2 of redux_logging'
+    published: '2017-09-07T20:04:57+00:00'
+    id: 'urn:uuid:d2d9a892-4ec1-5434-8651-395fd492ecaf'
+    link: 'https://pub.dartlang.org/packages/redux_logging'
+    author:
+        - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: quiver_iterables
+    package_version: v1.0.1
+    title: 'v1.0.1 of quiver_iterables'
+    published: '2017-09-07T18:46:08+00:00'
+    id: 'urn:uuid:6b2809d0-a7dd-5ce0-b5c6-4410f6dfcb92'
+    link: 'https://pub.dartlang.org/packages/quiver_iterables'
+    author:
+        - 'Justin Fagnani <justinfagnani@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Chris Bracken <cbracken@google.com>'
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+        - 'David Morgan <davidmorgan@google.com>'
+        - 'John McDole <codefu@google.com>'
+        - 'Matan Lurey <matanl@google.com>'
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+        - 'Sean Eagan <seaneagan1@gmail.com>'
+        - 'Victor Berchet <victor@suumit.com>'
+-
+    package_name: ng2gen
+    package_version: v0.3.0
+    title: 'v0.3.0 of ng2gen'
+    published: '2017-09-07T18:39:10+00:00'
+    id: 'urn:uuid:14dd28e9-959b-5c41-8fc3-4a033d5105a7'
+    link: 'https://pub.dartlang.org/packages/ng2gen'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
