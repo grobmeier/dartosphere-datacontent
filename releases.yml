@@ -108615,3 +108615,39 @@
     link: 'https://pub.dartlang.org/packages/where'
     author:
         - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: export_files_generator
+    package_version: v1.0.3
+    title: 'v1.0.3 of export_files_generator'
+    published: '2017-09-09T15:56:36+00:00'
+    id: 'urn:uuid:c7635af3-3adc-55b4-ba41-4b10325ec449'
+    link: 'https://pub.dartlang.org/packages/export_files_generator'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei_flutter_reyer
+    package_version: v1.4.6
+    title: 'v1.4.6 of scarabei_flutter_reyer'
+    published: '2017-09-09T15:41:23+00:00'
+    id: 'urn:uuid:56350aa7-9220-5476-8955-11d36fe80d74'
+    link: 'https://pub.dartlang.org/packages/scarabei_flutter_reyer'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei_reyer
+    package_version: v1.4.6
+    title: 'v1.4.6 of scarabei_reyer'
+    published: '2017-09-09T15:41:06+00:00'
+    id: 'urn:uuid:5fdfb783-f993-5eaa-b0e1-efa06772c9f6'
+    link: 'https://pub.dartlang.org/packages/scarabei_reyer'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei
+    package_version: v1.4.6
+    title: 'v1.4.6 of scarabei'
+    published: '2017-09-09T15:40:50+00:00'
+    id: 'urn:uuid:adea1d03-9744-57b3-ac8d-6f7dcf3bb1c2'
+    link: 'https://pub.dartlang.org/packages/scarabei'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
