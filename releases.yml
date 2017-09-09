@@ -108597,3 +108597,21 @@
     link: 'https://pub.dartlang.org/packages/angular_modern_charts'
     author:
         - 'Dejan Marlovic <dMarlovic83@gmail.com>'
+-
+    package_name: lcov
+    package_version: v2.1.0
+    title: 'v2.1.0 of lcov'
+    published: '2017-09-09T01:27:09+00:00'
+    id: 'urn:uuid:0a2d2317-f95f-518c-b8f8-9b3438a67f83'
+    link: 'https://pub.dartlang.org/packages/lcov'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: where
+    package_version: v1.1.0
+    title: 'v1.1.0 of where'
+    published: '2017-09-08T22:32:09+00:00'
+    id: 'urn:uuid:7dc58243-6865-53a7-b6f7-ffa44f4b7254'
+    link: 'https://pub.dartlang.org/packages/where'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
