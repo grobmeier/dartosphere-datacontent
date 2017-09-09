@@ -108651,3 +108651,21 @@
     link: 'https://pub.dartlang.org/packages/scarabei'
     author:
         - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: d_components
+    package_version: v0.0.19
+    title: 'v0.0.19 of d_components'
+    published: '2017-09-09T20:31:10+00:00'
+    id: 'urn:uuid:1bcb0b2e-2830-570a-9aa1-5c44f30f5b9f'
+    link: 'https://pub.dartlang.org/packages/d_components'
+    author:
+        - 'Dejan Marlovic <dmarlovic83@gmail.com>'
+-
+    package_name: export_files_generator
+    package_version: v1.0.6
+    title: 'v1.0.6 of export_files_generator'
+    published: '2017-09-09T20:20:43+00:00'
+    id: 'urn:uuid:360e6248-acbc-56d0-af03-6c98acd56a83'
+    link: 'https://pub.dartlang.org/packages/export_files_generator'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
