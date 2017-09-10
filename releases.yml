@@ -108723,3 +108723,12 @@
     link: 'https://pub.dartlang.org/packages/export_files_generator'
     author:
         - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: flutter_3d_obj
+    package_version: v0.0.3
+    title: 'v0.0.3 of flutter_3d_obj'
+    published: '2017-09-10T10:22:32+00:00'
+    id: 'urn:uuid:0c5327f4-cdba-5bc2-852b-cf0c660d2636'
+    link: 'https://pub.dartlang.org/packages/flutter_3d_obj'
+    author:
+        - 'Hemanth Raj <raj84325@gmail.com>'
