@@ -108732,3 +108732,12 @@
     link: 'https://pub.dartlang.org/packages/flutter_3d_obj'
     author:
         - 'Hemanth Raj <raj84325@gmail.com>'
+-
+    package_name: piecemeal
+    package_version: v0.3.1
+    title: 'v0.3.1 of piecemeal'
+    published: '2017-09-10T15:57:15+00:00'
+    id: 'urn:uuid:8dcd6735-442f-5660-a015-b5d6f98838c3'
+    link: 'https://pub.dartlang.org/packages/piecemeal'
+    author:
+        - 'Bob Nystrom <robert@stuffwithstuff.com>'
