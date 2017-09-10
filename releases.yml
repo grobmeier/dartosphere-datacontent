@@ -108669,3 +108669,57 @@
     link: 'https://pub.dartlang.org/packages/export_files_generator'
     author:
         - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei_flutter_reyer
+    package_version: v1.4.7
+    title: 'v1.4.7 of scarabei_flutter_reyer'
+    published: '2017-09-10T09:35:04+00:00'
+    id: 'urn:uuid:3f688a1e-8cbe-5f7c-9503-72356a59df9b'
+    link: 'https://pub.dartlang.org/packages/scarabei_flutter_reyer'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei_reyer
+    package_version: v1.4.7
+    title: 'v1.4.7 of scarabei_reyer'
+    published: '2017-09-10T09:34:53+00:00'
+    id: 'urn:uuid:7717e770-7acc-586c-afe0-4c70c46db531'
+    link: 'https://pub.dartlang.org/packages/scarabei_reyer'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei
+    package_version: v1.4.7
+    title: 'v1.4.7 of scarabei'
+    published: '2017-09-10T09:34:37+00:00'
+    id: 'urn:uuid:24e9bdfb-e4ff-5d5b-af86-9a93cda6e140'
+    link: 'https://pub.dartlang.org/packages/scarabei'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: flutter_3d_obj
+    package_version: v0.0.1
+    title: 'v0.0.1 of flutter_3d_obj'
+    published: '2017-09-10T09:16:36+00:00'
+    id: 'urn:uuid:648abcd2-fea5-5fd1-8ad3-771e57875173'
+    link: 'https://pub.dartlang.org/packages/flutter_3d_obj'
+    author:
+        - 'Hemanth Raj <raj84325@gmail.com>'
+-
+    package_name: polymerize
+    package_version: v0.9.6
+    title: 'v0.9.6 of polymerize'
+    published: '2017-09-10T09:14:25+00:00'
+    id: 'urn:uuid:ea5eae88-7849-58e7-b7c0-3b41da656310'
+    link: 'https://pub.dartlang.org/packages/polymerize'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: export_files_generator
+    package_version: v1.0.8
+    title: 'v1.0.8 of export_files_generator'
+    published: '2017-09-10T08:28:13+00:00'
+    id: 'urn:uuid:768c1b1c-7a0a-5a79-af5a-288dd28b85e4'
+    link: 'https://pub.dartlang.org/packages/export_files_generator'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
