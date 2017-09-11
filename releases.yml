@@ -108750,3 +108750,66 @@
     link: 'https://pub.dartlang.org/packages/dawo'
     author:
         - 'Heikki K Lappalainen <heikkiklappalainen@gmail.com.com>'
+-
+    package_name: where
+    package_version: v2.0.0
+    title: 'v2.0.0 of where'
+    published: '2017-09-11T13:51:58+00:00'
+    id: 'urn:uuid:8bca759f-5bfc-5a00-9814-b8c458eb0c01'
+    link: 'https://pub.dartlang.org/packages/where'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: modern_charts
+    package_version: v0.1.12
+    title: 'v0.1.12 of modern_charts'
+    published: '2017-09-11T13:31:25+00:00'
+    id: 'urn:uuid:c0ade359-0604-512a-a3c5-1605730ef9d6'
+    link: 'https://pub.dartlang.org/packages/modern_charts'
+    author:
+        - 'Man Hoang <jolleekin@outlook.com>'
+-
+    package_name: git_version
+    package_version: v0.1.7
+    title: 'v0.1.7 of git_version'
+    published: '2017-09-11T13:25:45+00:00'
+    id: 'urn:uuid:a76c2f95-bad2-5a0a-97c2-0f1c6cceae5b'
+    link: 'https://pub.dartlang.org/packages/git_version'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: changelog
+    package_version: v1.5.2
+    title: 'v1.5.2 of changelog'
+    published: '2017-09-11T12:11:59+00:00'
+    id: 'urn:uuid:23ab662f-dcd3-5c74-8505-187ae231ab59'
+    link: 'https://pub.dartlang.org/packages/changelog'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: googleapis
+    package_version: v0.44.0
+    title: 'v0.44.0 of googleapis'
+    published: '2017-09-11T10:39:06+00:00'
+    id: 'urn:uuid:5e674a10-a114-5813-b174-4735112df712'
+    link: 'https://pub.dartlang.org/packages/googleapis'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: googleapis_beta
+    package_version: v0.39.2
+    title: 'v0.39.2 of googleapis_beta'
+    published: '2017-09-11T10:39:00+00:00'
+    id: 'urn:uuid:0b7c3ce9-d7a4-5dc3-84c2-4aefdecd7180'
+    link: 'https://pub.dartlang.org/packages/googleapis_beta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: discoveryapis_generator
+    package_version: v0.9.1
+    title: 'v0.9.1 of discoveryapis_generator'
+    published: '2017-09-11T10:25:43+00:00'
+    id: 'urn:uuid:9b1f4922-936f-5940-acf6-e354fec9d27b'
+    link: 'https://pub.dartlang.org/packages/discoveryapis_generator'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
