@@ -108813,3 +108813,12 @@
     link: 'https://pub.dartlang.org/packages/discoveryapis_generator'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dartdoc
+    package_version: v0.13.0+3
+    title: 'v0.13.0+3 of dartdoc'
+    published: '2017-09-11T16:40:56+00:00'
+    id: 'urn:uuid:72dad202-48d4-5843-8b77-8e1a0dba3699'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
