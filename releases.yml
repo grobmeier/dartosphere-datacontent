@@ -108741,3 +108741,12 @@
     link: 'https://pub.dartlang.org/packages/piecemeal'
     author:
         - 'Bob Nystrom <robert@stuffwithstuff.com>'
+-
+    package_name: dawo
+    package_version: v0.0.2
+    title: 'v0.0.2 of dawo'
+    published: '2017-09-11T07:20:13+00:00'
+    id: 'urn:uuid:81af130b-4da2-55e1-96c0-33759cb79071'
+    link: 'https://pub.dartlang.org/packages/dawo'
+    author:
+        - 'Heikki K Lappalainen <heikkiklappalainen@gmail.com.com>'
