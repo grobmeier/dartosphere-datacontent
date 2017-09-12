@@ -108906,3 +108906,32 @@
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: serializer
+    package_version: v0.7.1
+    title: 'v0.7.1 of serializer'
+    published: '2017-09-12T17:32:18+00:00'
+    id: 'urn:uuid:e9a212c2-126b-5e86-af27-069604a61ea0'
+    link: 'https://pub.dartlang.org/packages/serializer'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+        - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+-
+    package_name: serializer_generator
+    package_version: v0.7.1
+    title: 'v0.7.1 of serializer_generator'
+    published: '2017-09-12T17:31:52+00:00'
+    id: 'urn:uuid:2f954d07-9b17-53a4-834c-130b132a6a85'
+    link: 'https://pub.dartlang.org/packages/serializer_generator'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+        - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+-
+    package_name: google_maps_markerclusterer
+    package_version: v0.1.0
+    title: 'v0.1.0 of google_maps_markerclusterer'
+    published: '2017-09-12T14:06:27+00:00'
+    id: 'urn:uuid:0db1e2c6-8343-5dc1-b04f-bd9de316c591'
+    link: 'https://pub.dartlang.org/packages/google_maps_markerclusterer'
+    author:
+        - 'Stéphane Este-Gracias <email@example.com>'
