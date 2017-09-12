@@ -108876,3 +108876,12 @@
     link: 'https://pub.dartlang.org/packages/firebase_auth'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: sporran
+    package_version: v3.0.0
+    title: 'v3.0.0 of sporran'
+    published: '2017-09-12T06:53:54+00:00'
+    id: 'urn:uuid:bc758200-d66c-587a-ab25-ffbd34f26f8d'
+    link: 'https://pub.dartlang.org/packages/sporran'
+    author:
+        - 'S. Hamblett <steve.hamblett@linux.com>'
