@@ -108885,3 +108885,24 @@
     link: 'https://pub.dartlang.org/packages/sporran'
     author:
         - 'S. Hamblett <steve.hamblett@linux.com>'
+-
+    package_name: vy_range_collection
+    package_version: v0.2.0
+    title: 'v0.2.0 of vy_range_collection'
+    published: '2017-09-12T13:37:57+00:00'
+    id: 'urn:uuid:20aacbd3-0044-545f-8b01-efe96138d43d'
+    link: 'https://pub.dartlang.org/packages/vy_range_collection'
+    author:
+        - 'Kwang Yul Seo <kwangyul.seo@gmail.com>'
+        - 'Giorgio Franceschetti<giorgiofran@gmail.com>'
+-
+    package_name: jaguar_serializer
+    package_version: v0.4.2
+    title: 'v0.4.2 of jaguar_serializer'
+    published: '2017-09-12T12:14:51+00:00'
+    id: 'urn:uuid:2dcc0ec9-a91c-5960-8e9d-4f3d2b112f1b'
+    link: 'https://pub.dartlang.org/packages/jaguar_serializer'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
