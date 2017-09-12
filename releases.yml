@@ -108867,3 +108867,12 @@
     link: 'https://pub.dartlang.org/packages/where'
     author:
         - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: firebase_auth
+    package_version: v0.2.3
+    title: 'v0.2.3 of firebase_auth'
+    published: '2017-09-12T00:35:06+00:00'
+    id: 'urn:uuid:47810e7c-4646-5c6e-8098-bf37ebadfb5c'
+    link: 'https://pub.dartlang.org/packages/firebase_auth'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
