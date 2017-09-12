@@ -108935,3 +108935,12 @@
     link: 'https://pub.dartlang.org/packages/google_maps_markerclusterer'
     author:
         - 'Stéphane Este-Gracias <email@example.com>'
+-
+    package_name: location
+    package_version: v1.1.4
+    title: 'v1.1.4 of location'
+    published: '2017-09-12T19:07:25+00:00'
+    id: 'urn:uuid:d8840dea-f4c6-5683-9ffe-fbf7f47d1f55'
+    link: 'https://pub.dartlang.org/packages/location'
+    author:
+        - 'Guillaume Bernos'
