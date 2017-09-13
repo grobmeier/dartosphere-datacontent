@@ -109007,3 +109007,30 @@
     link: 'https://pub.dartlang.org/packages/scarabei'
     author:
         - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: build_runner
+    package_version: v0.5.0
+    title: 'v0.5.0 of build_runner'
+    published: '2017-09-13T21:08:50+00:00'
+    id: 'urn:uuid:364f4c5f-448b-528e-998f-55213d16b329'
+    link: 'https://pub.dartlang.org/packages/build_runner'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build_test
+    package_version: v0.7.1
+    title: 'v0.7.1 of build_test'
+    published: '2017-09-13T21:08:21+00:00'
+    id: 'urn:uuid:d963d4ff-41b4-59e2-be58-6a44c87dfefb'
+    link: 'https://pub.dartlang.org/packages/build_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build
+    package_version: v0.10.1
+    title: 'v0.10.1 of build'
+    published: '2017-09-13T21:03:30+00:00'
+    id: 'urn:uuid:32c0420a-de79-5d2f-8bb7-51025d1dc2e3'
+    link: 'https://pub.dartlang.org/packages/build'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
