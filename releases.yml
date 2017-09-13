@@ -108962,3 +108962,21 @@
     link: 'https://pub.dartlang.org/packages/lcov'
     author:
         - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: pdfmakr
+    package_version: v0.0.1+1
+    title: 'v0.0.1+1 of pdfmakr'
+    published: '2017-09-13T12:32:39+00:00'
+    id: 'urn:uuid:434860d8-df63-5e1c-82ca-e525d134fb7e'
+    link: 'https://pub.dartlang.org/packages/pdfmakr'
+    author:
+        - 'rxlabz <dev@rxla.bz>'
+-
+    package_name: leveldb
+    package_version: v4.0.0
+    title: 'v4.0.0 of leveldb'
+    published: '2017-09-13T10:32:56+00:00'
+    id: 'urn:uuid:0aff5dfb-2766-5e9c-aff9-7115dc3016e1'
+    link: 'https://pub.dartlang.org/packages/leveldb'
+    author:
+        - 'Adam Lofts <adam.lofts@gmail.com>'
