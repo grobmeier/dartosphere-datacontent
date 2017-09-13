@@ -108953,3 +108953,12 @@
     link: 'https://pub.dartlang.org/packages/test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: lcov
+    package_version: v3.0.0
+    title: 'v3.0.0 of lcov'
+    published: '2017-09-13T02:17:44+00:00'
+    id: 'urn:uuid:83de3bdf-552f-5959-8277-19cf45d78cbb'
+    link: 'https://pub.dartlang.org/packages/lcov'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
