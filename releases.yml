@@ -108980,3 +108980,30 @@
     link: 'https://pub.dartlang.org/packages/leveldb'
     author:
         - 'Adam Lofts <adam.lofts@gmail.com>'
+-
+    package_name: scarabei_flutter_reyer
+    package_version: v1.4.8
+    title: 'v1.4.8 of scarabei_flutter_reyer'
+    published: '2017-09-13T15:53:04+00:00'
+    id: 'urn:uuid:64725523-7524-5fd4-a4ab-91a1920de7c6'
+    link: 'https://pub.dartlang.org/packages/scarabei_flutter_reyer'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei_reyer
+    package_version: v1.4.8
+    title: 'v1.4.8 of scarabei_reyer'
+    published: '2017-09-13T15:52:33+00:00'
+    id: 'urn:uuid:731b98b7-b76b-5afa-af27-c71775c46169'
+    link: 'https://pub.dartlang.org/packages/scarabei_reyer'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei
+    package_version: v1.4.8
+    title: 'v1.4.8 of scarabei'
+    published: '2017-09-13T15:51:51+00:00'
+    id: 'urn:uuid:98e479a0-e143-5814-85ca-df93b1df34b1'
+    link: 'https://pub.dartlang.org/packages/scarabei'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
