@@ -109043,3 +109043,21 @@
     link: 'https://pub.dartlang.org/packages/din'
     author:
         - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: rikulo_security
+    package_version: v0.8.6
+    title: 'v0.8.6 of rikulo_security'
+    published: '2017-09-14T08:45:54+00:00'
+    id: 'urn:uuid:85a2f7b9-0382-5abe-bcf8-ceee4bc8802e'
+    link: 'https://pub.dartlang.org/packages/rikulo_security'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: din
+    package_version: v0.1.0-alpha+2
+    title: 'v0.1.0-alpha+2 of din'
+    published: '2017-09-14T06:33:25+00:00'
+    id: 'urn:uuid:fd38b8b8-f517-5f77-ac57-9ae485e7c321'
+    link: 'https://pub.dartlang.org/packages/din'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
