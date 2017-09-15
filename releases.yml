@@ -109088,3 +109088,12 @@
     link: 'https://pub.dartlang.org/packages/built_value'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: angel_serialize_generator
+    package_version: v1.0.0-alpha+3
+    title: 'v1.0.0-alpha+3 of angel_serialize_generator'
+    published: '2017-09-15T00:36:15+00:00'
+    id: 'urn:uuid:e8a881ef-686f-5fff-8945-c864be17e79e'
+    link: 'https://pub.dartlang.org/packages/angel_serialize_generator'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
