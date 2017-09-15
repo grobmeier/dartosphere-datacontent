@@ -109097,3 +109097,12 @@
     link: 'https://pub.dartlang.org/packages/angel_serialize_generator'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: din
+    package_version: v0.1.0-alpha+3
+    title: 'v0.1.0-alpha+3 of din'
+    published: '2017-09-15T04:31:25+00:00'
+    id: 'urn:uuid:92a807b8-ae50-59fa-9610-88fc35987ed0'
+    link: 'https://pub.dartlang.org/packages/din'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
