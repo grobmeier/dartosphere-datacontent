@@ -109207,3 +109207,48 @@
     link: 'https://pub.dartlang.org/packages/where'
     author:
         - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: stack_trace
+    package_version: v1.8.1
+    title: 'v1.8.1 of stack_trace'
+    published: '2017-09-15T20:46:29+00:00'
+    id: 'urn:uuid:d99fbe45-bc06-53be-ab87-6b2f9b8d535b'
+    link: 'https://pub.dartlang.org/packages/stack_trace'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: din
+    package_version: v0.1.0-alpha+5
+    title: 'v0.1.0-alpha+5 of din'
+    published: '2017-09-15T19:54:53+00:00'
+    id: 'urn:uuid:9459cab3-3588-5005-9a8a-ad78d0b3b4c8'
+    link: 'https://pub.dartlang.org/packages/din'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: pikaday_datepicker_angular2
+    package_version: v2.2.0
+    title: 'v2.2.0 of pikaday_datepicker_angular2'
+    published: '2017-09-15T19:53:22+00:00'
+    id: 'urn:uuid:e76e6261-e217-5c10-939e-53f12b5574f0'
+    link: 'https://pub.dartlang.org/packages/pikaday_datepicker_angular2'
+    author:
+        - 'Stephan Schroeder <simon.void+github@gmail.com>'
+-
+    package_name: angel_orm_generator
+    package_version: v1.0.0-alpha+4
+    title: 'v1.0.0-alpha+4 of angel_orm_generator'
+    published: '2017-09-15T19:24:05+00:00'
+    id: 'urn:uuid:045cd618-47b3-560c-a1a7-889279acc1ab'
+    link: 'https://pub.dartlang.org/packages/angel_orm_generator'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: pikaday_datepicker_angular
+    package_version: v3.0.0
+    title: 'v3.0.0 of pikaday_datepicker_angular'
+    published: '2017-09-15T19:03:47+00:00'
+    id: 'urn:uuid:3cf00b18-c61c-585c-8c51-046167ed2a9c'
+    link: 'https://pub.dartlang.org/packages/pikaday_datepicker_angular'
+    author:
+        - 'Stephan Schroeder <simon.void+github@gmail.com>'
