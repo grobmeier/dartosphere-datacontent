@@ -109106,3 +109106,21 @@
     link: 'https://pub.dartlang.org/packages/din'
     author:
         - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: signalr2
+    package_version: v1.0.0-alpha1-final
+    title: 'v1.0.0-alpha1-final of signalr2'
+    published: '2017-09-15T09:16:30+00:00'
+    id: 'urn:uuid:abf533ad-f429-58e7-8d2f-29f4130f65d3'
+    link: 'https://pub.dartlang.org/packages/signalr2'
+    author:
+        - 'rinukkusu <rinukkusu@auen.land>'
+-
+    package_name: din
+    package_version: v0.1.0-alpha+4
+    title: 'v0.1.0-alpha+4 of din'
+    published: '2017-09-15T07:06:29+00:00'
+    id: 'urn:uuid:f4108a05-2d9f-51d2-bace-718ccf84dc47'
+    link: 'https://pub.dartlang.org/packages/din'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
