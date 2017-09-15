@@ -109124,3 +109124,39 @@
     link: 'https://pub.dartlang.org/packages/din'
     author:
         - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: coveralls
+    package_version: v2.0.0
+    title: 'v2.0.0 of coveralls'
+    published: '2017-09-15T13:57:32+00:00'
+    id: 'urn:uuid:575a36c5-e449-5ca3-8546-b8193e861018'
+    link: 'https://pub.dartlang.org/packages/coveralls'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: scarabei_flutter_reyer
+    package_version: v1.4.9
+    title: 'v1.4.9 of scarabei_flutter_reyer'
+    published: '2017-09-15T10:40:11+00:00'
+    id: 'urn:uuid:a25eabb2-28bb-5adf-8ecd-c8b76e7965b0'
+    link: 'https://pub.dartlang.org/packages/scarabei_flutter_reyer'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei_reyer
+    package_version: v1.4.9
+    title: 'v1.4.9 of scarabei_reyer'
+    published: '2017-09-15T10:39:49+00:00'
+    id: 'urn:uuid:4a8acfad-a0cf-5345-be2f-6db4ed54602f'
+    link: 'https://pub.dartlang.org/packages/scarabei_reyer'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei
+    package_version: v1.4.9
+    title: 'v1.4.9 of scarabei'
+    published: '2017-09-15T10:39:29+00:00'
+    id: 'urn:uuid:75682aca-c961-56d8-b0b9-da19a07e603e'
+    link: 'https://pub.dartlang.org/packages/scarabei'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
