@@ -109270,3 +109270,21 @@
     link: 'https://pub.dartlang.org/packages/test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: pusher_flutter
+    package_version: v0.0.5
+    title: 'v0.0.5 of pusher_flutter'
+    published: '2017-09-16T16:58:43+00:00'
+    id: 'urn:uuid:65c6d86e-5689-5027-a86c-f99a58f7735c'
+    link: 'https://pub.dartlang.org/packages/pusher_flutter'
+    author:
+        - 'Matthew Smith <matthew@apptree.cloud>'
+-
+    package_name: doksan
+    package_version: v0.0.11
+    title: 'v0.0.11 of doksan'
+    published: '2017-09-16T15:59:22+00:00'
+    id: 'urn:uuid:4e82bf82-d131-51b4-8ed6-aec2081d73cf'
+    link: 'https://pub.dartlang.org/packages/doksan'
+    author:
+        - 'Muhammed Ali Sit <sitmuhammedali@gmail.com>'
