@@ -109288,3 +109288,12 @@
     link: 'https://pub.dartlang.org/packages/doksan'
     author:
         - 'Muhammed Ali Sit <sitmuhammedali@gmail.com>'
+-
+    package_name: qrcode_reader
+    package_version: v0.1.2
+    title: 'v0.1.2 of qrcode_reader'
+    published: '2017-09-16T21:46:23+00:00'
+    id: 'urn:uuid:75de6633-54a2-577e-8f30-ad9b1fbfbb80'
+    link: 'https://pub.dartlang.org/packages/qrcode_reader'
+    author:
+        - 'Matheus Villela <matheusvillela@gmail.com>'
