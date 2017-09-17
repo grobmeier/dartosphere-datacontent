@@ -109324,3 +109324,21 @@
     link: 'https://pub.dartlang.org/packages/piecemeal'
     author:
         - 'Bob Nystrom <robert@stuffwithstuff.com>'
+-
+    package_name: server_client_comm
+    package_version: v0.1.5
+    title: 'v0.1.5 of server_client_comm'
+    published: '2017-09-17T20:14:37+00:00'
+    id: 'urn:uuid:0636bc4d-5948-56bd-8300-67e2054eaf9d'
+    link: 'https://pub.dartlang.org/packages/server_client_comm'
+    author:
+        - 'Alex Clarke <ajclarke903@gmail.com>'
+-
+    package_name: google_maps_webservice
+    package_version: v0.0.2
+    title: 'v0.0.2 of google_maps_webservice'
+    published: '2017-09-17T18:25:42+00:00'
+    id: 'urn:uuid:fe2191c9-1ed8-5884-bbbd-0b7f0dc293a2'
+    link: 'https://pub.dartlang.org/packages/google_maps_webservice'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
