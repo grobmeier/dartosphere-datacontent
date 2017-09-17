@@ -109297,3 +109297,30 @@
     link: 'https://pub.dartlang.org/packages/qrcode_reader'
     author:
         - 'Matheus Villela <matheusvillela@gmail.com>'
+-
+    package_name: qrcode_reader
+    package_version: v0.1.4
+    title: 'v0.1.4 of qrcode_reader'
+    published: '2017-09-16T23:24:49+00:00'
+    id: 'urn:uuid:925601ed-3c37-53f9-876d-0351a018b6d9'
+    link: 'https://pub.dartlang.org/packages/qrcode_reader'
+    author:
+        - 'Matheus Villela <matheusvillela@gmail.com>'
+-
+    package_name: malison
+    package_version: v0.7.0
+    title: 'v0.7.0 of malison'
+    published: '2017-09-16T22:41:22+00:00'
+    id: 'urn:uuid:a6122185-77ca-59a2-88d4-da4b1afef254'
+    link: 'https://pub.dartlang.org/packages/malison'
+    author:
+        - 'Bob Nystrom <robert@stuffwithstuff.com>'
+-
+    package_name: piecemeal
+    package_version: v0.3.2
+    title: 'v0.3.2 of piecemeal'
+    published: '2017-09-16T22:34:54+00:00'
+    id: 'urn:uuid:f1876b3b-24d6-5564-9997-70f3b7028568'
+    link: 'https://pub.dartlang.org/packages/piecemeal'
+    author:
+        - 'Bob Nystrom <robert@stuffwithstuff.com>'
