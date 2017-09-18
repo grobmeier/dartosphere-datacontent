@@ -109342,3 +109342,13 @@
     link: 'https://pub.dartlang.org/packages/google_maps_webservice'
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: jaguar
+    package_version: v0.6.13
+    title: 'v0.6.13 of jaguar'
+    published: '2017-09-18T09:09:33+00:00'
+    id: 'urn:uuid:c9445ba4-53ec-517d-8960-91b8274b0ca6'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
