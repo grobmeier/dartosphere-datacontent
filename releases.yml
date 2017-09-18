@@ -109352,3 +109352,49 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: dartz
+    package_version: v0.6.3
+    title: 'v0.6.3 of dartz'
+    published: '2017-09-18T17:10:11+00:00'
+    id: 'urn:uuid:fc48d0b2-d1c6-5a05-acb0-94a2dce847db'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: jaguar_cors
+    package_version: v0.5.2
+    title: 'v0.5.2 of jaguar_cors'
+    published: '2017-09-18T16:20:02+00:00'
+    id: 'urn:uuid:7fc225ef-344d-5812-969d-cd7e5d7381d6'
+    link: 'https://pub.dartlang.org/packages/jaguar_cors'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: scarabei_flutter_reyer
+    package_version: v1.5.0
+    title: 'v1.5.0 of scarabei_flutter_reyer'
+    published: '2017-09-18T15:28:36+00:00'
+    id: 'urn:uuid:566540ba-b041-55f0-b97a-be65905cf0f4'
+    link: 'https://pub.dartlang.org/packages/scarabei_flutter_reyer'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei_reyer
+    package_version: v1.5.0
+    title: 'v1.5.0 of scarabei_reyer'
+    published: '2017-09-18T15:27:56+00:00'
+    id: 'urn:uuid:f7b0ad6a-5289-549b-a754-d266a6a33e4e'
+    link: 'https://pub.dartlang.org/packages/scarabei_reyer'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei
+    package_version: v1.5.0
+    title: 'v1.5.0 of scarabei'
+    published: '2017-09-18T15:27:04+00:00'
+    id: 'urn:uuid:0e403e23-c300-545f-959d-f598c492a333'
+    link: 'https://pub.dartlang.org/packages/scarabei'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
