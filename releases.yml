@@ -109398,3 +109398,43 @@
     link: 'https://pub.dartlang.org/packages/scarabei'
     author:
         - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: flutter_image
+    package_version: v0.0.2
+    title: 'v0.0.2 of flutter_image'
+    published: '2017-09-18T19:56:00+00:00'
+    id: 'urn:uuid:ef4e5863-d66e-5a1b-b0d8-9d58fe593cb8'
+    link: 'https://pub.dartlang.org/packages/flutter_image'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: sentry
+    package_version: v0.0.6
+    title: 'v0.0.6 of sentry'
+    published: '2017-09-18T19:53:17+00:00'
+    id: 'urn:uuid:3b0cc903-1cc5-5646-be79-8232797ed0c4'
+    link: 'https://pub.dartlang.org/packages/sentry'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: state_machine
+    package_version: v2.0.2
+    title: 'v2.0.2 of state_machine'
+    published: '2017-09-18T19:06:31+00:00'
+    id: 'urn:uuid:2c768dcf-9d43-565a-bd48-7e91188dcdc5'
+    link: 'https://pub.dartlang.org/packages/state_machine'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: jaguar_cors
+    package_version: v0.5.3
+    title: 'v0.5.3 of jaguar_cors'
+    published: '2017-09-18T18:55:00+00:00'
+    id: 'urn:uuid:812a9ca1-792e-5ee8-8d70-785206882a47'
+    link: 'https://pub.dartlang.org/packages/jaguar_cors'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
