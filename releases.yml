@@ -109510,3 +109510,60 @@
     link: 'https://pub.dartlang.org/packages/crypto'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: db_executor
+    package_version: v0.1.0
+    title: 'v0.1.0 of db_executor'
+    published: '2017-09-19T20:56:03+00:00'
+    id: 'urn:uuid:70c93924-c5d2-5b0b-85ac-bf22d8494140'
+    link: 'https://pub.dartlang.org/packages/db_executor'
+    author:
+        - 'Istvan Soos <istvan.soos@agilord.com>'
+-
+    package_name: angular_components
+    package_version: v0.7.0
+    title: 'v0.7.0 of angular_components'
+    published: '2017-09-19T20:54:59+00:00'
+    id: 'urn:uuid:e5a12177-d094-509f-9ece-76862f8db687'
+    link: 'https://pub.dartlang.org/packages/angular_components'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: executor
+    package_version: v1.0.0
+    title: 'v1.0.0 of executor'
+    published: '2017-09-19T20:37:03+00:00'
+    id: 'urn:uuid:95003a65-e6dc-5953-aeb3-38794c9f9766'
+    link: 'https://pub.dartlang.org/packages/executor'
+    author:
+        - 'Istvan Soos <istvan.soos@agilord.com>'
+-
+    package_name: dartdap
+    package_version: v0.2.2
+    title: 'v0.2.2 of dartdap'
+    published: '2017-09-19T19:42:21+00:00'
+    id: 'urn:uuid:03b7a5d6-f4cc-59f7-ade2-eb5a474f3a57'
+    link: 'https://pub.dartlang.org/packages/dartdap'
+    author:
+        - 'Warren Strange <warren.strange@gmail.com>'
+        - 'Chris Ridd <chrisridd@mac.com>'
+        - 'Hoylen Sue <hoylen@hoylen.com>'
+        - 'Matthew Butler <butler.matthew@gmail.com>'
+-
+    package_name: stringprocess
+    package_version: v0.0.7
+    title: 'v0.0.7 of stringprocess'
+    published: '2017-09-19T18:59:17+00:00'
+    id: 'urn:uuid:fcc4d6d5-17af-53a4-88c8-5c26afeb7bc9'
+    link: 'https://pub.dartlang.org/packages/stringprocess'
+    author:
+        - 'Davy Mitchell <daftspaniel@gmail.com>'
+-
+    package_name: test
+    package_version: v0.12.24+6
+    title: 'v0.12.24+6 of test'
+    published: '2017-09-19T18:25:00+00:00'
+    id: 'urn:uuid:3e1c9935-23cd-574f-9cd9-89518d49ab8b'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
