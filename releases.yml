@@ -109456,3 +109456,39 @@
     link: 'https://pub.dartlang.org/packages/connectivity'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: image
+    package_version: v1.1.29
+    title: 'v1.1.29 of image'
+    published: '2017-09-19T05:20:42+00:00'
+    id: 'urn:uuid:16b2e4d0-86fb-59a8-8a6b-c528873f3aa3'
+    link: 'https://pub.dartlang.org/packages/image'
+    author:
+        - 'Brendan Duncan <brendanduncan@gmail.com>'
+-
+    package_name: contact_picker
+    package_version: v0.0.1+2
+    title: 'v0.0.1+2 of contact_picker'
+    published: '2017-09-19T04:59:25+00:00'
+    id: 'urn:uuid:c78020a6-f91a-5a16-baec-b9ca828919a2'
+    link: 'https://pub.dartlang.org/packages/contact_picker'
+    author:
+        - 'Michael Goderbauer <michael@goderbauer.net>'
+-
+    package_name: json_serializable
+    package_version: v0.2.3+1
+    title: 'v0.2.3+1 of json_serializable'
+    published: '2017-09-19T04:34:27+00:00'
+    id: 'urn:uuid:0964b288-1667-59f0-b9b3-98bee05f64bd'
+    link: 'https://pub.dartlang.org/packages/json_serializable'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: cli_util
+    package_version: v0.1.2+1
+    title: 'v0.1.2+1 of cli_util'
+    published: '2017-09-19T04:28:12+00:00'
+    id: 'urn:uuid:23491784-b6e7-559f-ab80-d181f24029e8'
+    link: 'https://pub.dartlang.org/packages/cli_util'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
