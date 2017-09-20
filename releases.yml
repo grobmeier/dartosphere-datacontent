@@ -109621,3 +109621,39 @@
     link: 'https://pub.dartlang.org/packages/url_launcher'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: drails_di
+    package_version: v0.2.0
+    title: 'v0.2.0 of drails_di'
+    published: '2017-09-20T17:12:03+00:00'
+    id: 'urn:uuid:352a0e23-f81d-5c7e-bf42-62a1630c3f9a'
+    link: 'https://pub.dartlang.org/packages/drails_di'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: dson
+    package_version: v0.10.0
+    title: 'v0.10.0 of dson'
+    published: '2017-09-20T17:01:11+00:00'
+    id: 'urn:uuid:2924bc44-4687-5579-be4f-1760f39c019c'
+    link: 'https://pub.dartlang.org/packages/dson'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: serializable
+    package_version: v0.7.0
+    title: 'v0.7.0 of serializable'
+    published: '2017-09-20T16:53:26+00:00'
+    id: 'urn:uuid:d9beadd2-9fc1-5b98-878a-b302ca0c660a'
+    link: 'https://pub.dartlang.org/packages/serializable'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: built_mirrors
+    package_version: v0.6.0+1
+    title: 'v0.6.0+1 of built_mirrors'
+    published: '2017-09-20T16:52:53+00:00'
+    id: 'urn:uuid:5331032c-b655-5e34-93fd-db5a27571afc'
+    link: 'https://pub.dartlang.org/packages/built_mirrors'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
