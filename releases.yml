@@ -109567,3 +109567,57 @@
     link: 'https://pub.dartlang.org/packages/test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: db_executor
+    package_version: v0.1.0+1
+    title: 'v0.1.0+1 of db_executor'
+    published: '2017-09-20T13:10:16+00:00'
+    id: 'urn:uuid:6ce357cf-a0ca-5fc9-86a2-87f43e1382b3'
+    link: 'https://pub.dartlang.org/packages/db_executor'
+    author:
+        - 'Istvan Soos <istvan.soos@agilord.com>'
+-
+    package_name: scarabei_flutter_reyer
+    package_version: v2.0.0
+    title: 'v2.0.0 of scarabei_flutter_reyer'
+    published: '2017-09-20T12:58:53+00:00'
+    id: 'urn:uuid:e383ca2e-263b-547a-9c46-350690140269'
+    link: 'https://pub.dartlang.org/packages/scarabei_flutter_reyer'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei_reyer
+    package_version: v2.0.0
+    title: 'v2.0.0 of scarabei_reyer'
+    published: '2017-09-20T12:58:40+00:00'
+    id: 'urn:uuid:c25e6837-4856-59c1-a5d2-7947d7527ef6'
+    link: 'https://pub.dartlang.org/packages/scarabei_reyer'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei
+    package_version: v2.0.0
+    title: 'v2.0.0 of scarabei'
+    published: '2017-09-20T12:58:28+00:00'
+    id: 'urn:uuid:e1286b45-eead-579f-a11f-996322d0b77a'
+    link: 'https://pub.dartlang.org/packages/scarabei'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: np8080
+    package_version: v0.0.26
+    title: 'v0.0.26 of np8080'
+    published: '2017-09-20T12:09:05+00:00'
+    id: 'urn:uuid:ebbdece5-02fa-5c1f-8de0-56814be1b088'
+    link: 'https://pub.dartlang.org/packages/np8080'
+    author:
+        - 'Davy Mitchell <daftspaniel@gmail.com>'
+-
+    package_name: url_launcher
+    package_version: v0.4.2+5
+    title: 'v0.4.2+5 of url_launcher'
+    published: '2017-09-20T11:21:04+00:00'
+    id: 'urn:uuid:f2716fdc-c088-5feb-851d-c93c1451f29c'
+    link: 'https://pub.dartlang.org/packages/url_launcher'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
