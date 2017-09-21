@@ -109766,3 +109766,30 @@
     link: 'https://pub.dartlang.org/packages/setalpha'
     author:
         - 'Richard Ambler <rambler@ibwya.net.com>'
+-
+    package_name: angular_recaptcha
+    package_version: v0.0.8
+    title: 'v0.0.8 of angular_recaptcha'
+    published: '2017-09-21T17:45:01+00:00'
+    id: 'urn:uuid:a959f452-cb36-525c-9cc6-2ff0858b7b79'
+    link: 'https://pub.dartlang.org/packages/angular_recaptcha'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: tw_saved_search_angular
+    package_version: v0.0.1
+    title: 'v0.0.1 of tw_saved_search_angular'
+    published: '2017-09-21T17:14:08+00:00'
+    id: 'urn:uuid:3ca151ca-933e-5e79-9c4b-e6287687ca00'
+    link: 'https://pub.dartlang.org/packages/tw_saved_search_angular'
+    author:
+        - 'Portal Architecture portalarchitecture@trustwave.com'
+-
+    package_name: pool
+    package_version: v1.3.2
+    title: 'v1.3.2 of pool'
+    published: '2017-09-21T15:52:39+00:00'
+    id: 'urn:uuid:c2fabb3b-aeee-55c4-a10b-25381210b72a'
+    link: 'https://pub.dartlang.org/packages/pool'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
