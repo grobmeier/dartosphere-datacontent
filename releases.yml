@@ -109757,3 +109757,12 @@
     link: 'https://pub.dartlang.org/packages/stack_trace'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: setalpha
+    package_version: v0.5.1
+    title: 'v0.5.1 of setalpha'
+    published: '2017-09-21T09:43:14+00:00'
+    id: 'urn:uuid:6a4c5fc2-e0ba-5bd7-8e3c-86147a0dd155'
+    link: 'https://pub.dartlang.org/packages/setalpha'
+    author:
+        - 'Richard Ambler <rambler@ibwya.net.com>'
