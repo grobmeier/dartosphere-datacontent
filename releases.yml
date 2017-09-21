@@ -109793,3 +109793,30 @@
     link: 'https://pub.dartlang.org/packages/pool'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dart_style
+    package_version: v1.0.8
+    title: 'v1.0.8 of dart_style'
+    published: '2017-09-21T21:40:47+00:00'
+    id: 'urn:uuid:3d03383b-4693-5c52-9ecb-557425d0312e'
+    link: 'https://pub.dartlang.org/packages/dart_style'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: analyzer
+    package_version: v0.30.0+4
+    title: 'v0.30.0+4 of analyzer'
+    published: '2017-09-21T20:05:35+00:00'
+    id: 'urn:uuid:1fa64c76-3549-5ab8-b10d-cec305bb99e6'
+    link: 'https://pub.dartlang.org/packages/analyzer'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: csslib
+    package_version: v0.14.1
+    title: 'v0.14.1 of csslib'
+    published: '2017-09-21T19:07:40+00:00'
+    id: 'urn:uuid:b3ac596c-0e03-549a-8398-32bb4df29e5f'
+    link: 'https://pub.dartlang.org/packages/csslib'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
