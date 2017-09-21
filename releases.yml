@@ -109730,3 +109730,30 @@
     link: 'https://pub.dartlang.org/packages/junitreport'
     author:
         - 'Roel Spilker <r.spilker@gmail.com>'
+-
+    package_name: shuttlecock
+    package_version: v0.3.3
+    title: 'v0.3.3 of shuttlecock'
+    published: '2017-09-21T05:09:04+00:00'
+    id: 'urn:uuid:8a0fbb28-4165-56b5-a0c3-9d6d96219c5d'
+    link: 'https://pub.dartlang.org/packages/shuttlecock'
+    author:
+        - 'Alexei Eleusis Díaz Vera <alexei.eleusis@gmail.com>'
+-
+    package_name: markd
+    package_version: v0.11.4+3
+    title: 'v0.11.4+3 of markd'
+    published: '2017-09-21T04:19:22+00:00'
+    id: 'urn:uuid:2a39cd8b-ab5e-5dbe-b422-df53f47f0c59'
+    link: 'https://pub.dartlang.org/packages/markd'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: stack_trace
+    package_version: v1.8.2
+    title: 'v1.8.2 of stack_trace'
+    published: '2017-09-21T02:51:56+00:00'
+    id: 'urn:uuid:c21d00ef-6f43-5466-97fe-867b80b50db8'
+    link: 'https://pub.dartlang.org/packages/stack_trace'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
