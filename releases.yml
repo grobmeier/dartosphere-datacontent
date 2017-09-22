@@ -109919,3 +109919,94 @@
     link: 'https://pub.dartlang.org/packages/build'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: over_react_test
+    package_version: v1.3.0
+    title: 'v1.3.0 of over_react_test'
+    published: '2017-09-22T21:40:50+00:00'
+    id: 'urn:uuid:e79080de-7bf9-5b54-b617-7718b2ccb253'
+    link: 'https://pub.dartlang.org/packages/over_react_test'
+    author:
+        - 'Workiva UI Platform Team <uip@workiva.com>'
+-
+    package_name: web_socket_channel
+    package_version: v1.0.6
+    title: 'v1.0.6 of web_socket_channel'
+    published: '2017-09-22T20:55:13+00:00'
+    id: 'urn:uuid:fe849ae1-0b84-55d8-94fa-17cba5646e0c'
+    link: 'https://pub.dartlang.org/packages/web_socket_channel'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: test_descriptor
+    package_version: v1.0.2
+    title: 'v1.0.2 of test_descriptor'
+    published: '2017-09-22T20:47:18+00:00'
+    id: 'urn:uuid:0e0b38a7-455f-5f09-a970-c978ad359fed'
+    link: 'https://pub.dartlang.org/packages/test_descriptor'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: barback
+    package_version: v0.15.2+12
+    title: 'v0.15.2+12 of barback'
+    published: '2017-09-22T20:46:28+00:00'
+    id: 'urn:uuid:1163b939-23d1-57d0-a9eb-db0ebd3a3ee9'
+    link: 'https://pub.dartlang.org/packages/barback'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: test_process
+    package_version: v1.0.1
+    title: 'v1.0.1 of test_process'
+    published: '2017-09-22T20:45:45+00:00'
+    id: 'urn:uuid:e437c6e5-80eb-50ff-96e2-b90d22aec7d8'
+    link: 'https://pub.dartlang.org/packages/test_process'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: jaguar_query
+    package_version: v0.2.8
+    title: 'v0.2.8 of jaguar_query'
+    published: '2017-09-22T20:45:32+00:00'
+    id: 'urn:uuid:8fb5545c-3325-5c95-b4c5-23983ff8f482'
+    link: 'https://pub.dartlang.org/packages/jaguar_query'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: glob
+    package_version: v1.1.5
+    title: 'v1.1.5 of glob'
+    published: '2017-09-22T20:45:14+00:00'
+    id: 'urn:uuid:8165b914-93b8-54b9-98fb-42b8360c4091'
+    link: 'https://pub.dartlang.org/packages/glob'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: stream_channel
+    package_version: v1.6.2
+    title: 'v1.6.2 of stream_channel'
+    published: '2017-09-22T20:44:31+00:00'
+    id: 'urn:uuid:9a51fc7f-0f62-5f49-bdda-c96dc763fb4d'
+    link: 'https://pub.dartlang.org/packages/stream_channel'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: http_multi_server
+    package_version: v2.0.4
+    title: 'v2.0.4 of http_multi_server'
+    published: '2017-09-22T20:43:30+00:00'
+    id: 'urn:uuid:c41de5bb-ae81-509e-8cec-71564c96cd01'
+    link: 'https://pub.dartlang.org/packages/http_multi_server'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: pool
+    package_version: v1.3.3
+    title: 'v1.3.3 of pool'
+    published: '2017-09-22T20:42:21+00:00'
+    id: 'urn:uuid:cd5de391-23ff-57e9-b6bf-c2521632fc74'
+    link: 'https://pub.dartlang.org/packages/pool'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
