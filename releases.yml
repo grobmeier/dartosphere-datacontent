@@ -109865,3 +109865,12 @@
     link: 'https://pub.dartlang.org/packages/scratch_space'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angel_http_exception
+    package_version: v1.0.0
+    title: 'v1.0.0 of angel_http_exception'
+    published: '2017-09-22T04:35:45+00:00'
+    id: 'urn:uuid:451e002a-5581-5595-bd91-b770b2354207'
+    link: 'https://pub.dartlang.org/packages/angel_http_exception'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
