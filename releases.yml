@@ -109820,3 +109820,48 @@
     link: 'https://pub.dartlang.org/packages/csslib'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: code_buffer
+    package_version: v1.0.0
+    title: 'v1.0.0 of code_buffer'
+    published: '2017-09-21T22:52:26+00:00'
+    id: 'urn:uuid:362a47c4-9b0f-5e3b-8d1b-a1bea399298a'
+    link: 'https://pub.dartlang.org/packages/code_buffer'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: watcher
+    package_version: v0.9.7+4
+    title: 'v0.9.7+4 of watcher'
+    published: '2017-09-21T22:51:23+00:00'
+    id: 'urn:uuid:728e57cc-ee55-553c-8fe3-a6b13c04cd11'
+    link: 'https://pub.dartlang.org/packages/watcher'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: shelf_packages_handler
+    package_version: v1.0.3
+    title: 'v1.0.3 of shelf_packages_handler'
+    published: '2017-09-21T22:40:12+00:00'
+    id: 'urn:uuid:700cc2fa-0109-51fb-b301-9ea94fb5c08b'
+    link: 'https://pub.dartlang.org/packages/shelf_packages_handler'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build_barback
+    package_version: v0.4.0+1
+    title: 'v0.4.0+1 of build_barback'
+    published: '2017-09-21T22:03:18+00:00'
+    id: 'urn:uuid:72236f98-196e-5303-b109-865109cc6746'
+    link: 'https://pub.dartlang.org/packages/build_barback'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: scratch_space
+    package_version: v0.0.1
+    title: 'v0.0.1 of scratch_space'
+    published: '2017-09-21T22:01:50+00:00'
+    id: 'urn:uuid:b1fad5e0-d31a-58d2-8c86-e1a025758638'
+    link: 'https://pub.dartlang.org/packages/scratch_space'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
