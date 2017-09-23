@@ -110010,3 +110010,12 @@
     link: 'https://pub.dartlang.org/packages/pool'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: telegrambot
+    package_version: v0.1.0
+    title: 'v0.1.0 of telegrambot'
+    published: '2017-09-22T23:49:47+00:00'
+    id: 'urn:uuid:3c63abe0-4fc1-5ff3-94db-fd9faaf1f2b2'
+    link: 'https://pub.dartlang.org/packages/telegrambot'
+    author:
+        - 'Roel Spilker <r.spilker@gmail.com>'
