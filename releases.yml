@@ -110019,3 +110019,12 @@
     link: 'https://pub.dartlang.org/packages/telegrambot'
     author:
         - 'Roel Spilker <r.spilker@gmail.com>'
+-
+    package_name: setalpha
+    package_version: v0.6.0
+    title: 'v0.6.0 of setalpha'
+    published: '2017-09-23T06:01:39+00:00'
+    id: 'urn:uuid:0546ff6b-f90e-56ba-9b03-1b72ac629fa6'
+    link: 'https://pub.dartlang.org/packages/setalpha'
+    author:
+        - 'Richard Ambler <rambler@ibwya.net.com>'
