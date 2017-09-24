@@ -110085,3 +110085,40 @@
     link: 'https://pub.dartlang.org/packages/function_tree'
     author:
         - 'Richard Ambler <rambler@ibwya.net>'
+-
+    package_name: timeago
+    package_version: v1.1.1
+    title: 'v1.1.1 of timeago'
+    published: '2017-09-24T21:43:17+00:00'
+    id: 'urn:uuid:449961f9-093f-5f91-9d51-58a775d877eb'
+    link: 'https://pub.dartlang.org/packages/timeago'
+    author:
+        - 'Andres Araujo <a.araujo.azua@gmail.com>'
+-
+    package_name: jaguar_orm
+    package_version: v0.2.4
+    title: 'v0.2.4 of jaguar_orm'
+    published: '2017-09-24T20:48:47+00:00'
+    id: 'urn:uuid:a7991832-860d-5f70-a5e1-a5d06dc704d8'
+    link: 'https://pub.dartlang.org/packages/jaguar_orm'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: jaguar_orm_cli
+    package_version: v0.2.4
+    title: 'v0.2.4 of jaguar_orm_cli'
+    published: '2017-09-24T19:45:46+00:00'
+    id: 'urn:uuid:23d6bc4c-7bf0-56d9-aa3b-0996eecc267f'
+    link: 'https://pub.dartlang.org/packages/jaguar_orm_cli'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: din
+    package_version: v0.1.0-alpha+6
+    title: 'v0.1.0-alpha+6 of din'
+    published: '2017-09-24T18:55:10+00:00'
+    id: 'urn:uuid:de372def-47fa-5d1d-a858-5fd488618cda'
+    link: 'https://pub.dartlang.org/packages/din'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
