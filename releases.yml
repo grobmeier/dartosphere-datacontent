@@ -110028,3 +110028,32 @@
     link: 'https://pub.dartlang.org/packages/setalpha'
     author:
         - 'Richard Ambler <rambler@ibwya.net.com>'
+-
+    package_name: lab_rat_wp_api
+    package_version: v1.0.8
+    title: 'v1.0.8 of lab_rat_wp_api'
+    published: '2017-09-24T12:47:25+00:00'
+    id: 'urn:uuid:1f15e181-d3fd-5162-bf91-d32b907858ef'
+    link: 'https://pub.dartlang.org/packages/lab_rat_wp_api'
+    author:
+        - 'Laboratory Rat <Oleg.Timofeev20@gmail.com>'
+-
+    package_name: jaguar_query_postgresql
+    package_version: v0.2.5
+    title: 'v0.2.5 of jaguar_query_postgresql'
+    published: '2017-09-24T11:51:25+00:00'
+    id: 'urn:uuid:5064323e-7120-5a5a-a1c8-818ec418562e'
+    link: 'https://pub.dartlang.org/packages/jaguar_query_postgresql'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_orm_cli
+    package_version: v0.2.0-dev
+    title: 'v0.2.0-dev of jaguar_orm_cli'
+    published: '2017-09-24T11:12:11+00:00'
+    id: 'urn:uuid:e1c83df1-3bff-5cf1-9e0c-4d9b6201f81c'
+    link: 'https://pub.dartlang.org/packages/jaguar_orm_cli'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
