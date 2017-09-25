@@ -110151,3 +110151,39 @@
     link: 'https://pub.dartlang.org/packages/dawo'
     author:
         - 'Heikki K Lappalainen <heikkiklappalainen@gmail.com.com>'
+-
+    package_name: rikulo_security
+    package_version: v0.8.8+2
+    title: 'v0.8.8+2 of rikulo_security'
+    published: '2017-09-25T07:36:26+00:00'
+    id: 'urn:uuid:8700d32b-662f-53f2-b3ce-24d8fc044b77'
+    link: 'https://pub.dartlang.org/packages/rikulo_security'
+    author:
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: built_value_test
+    package_version: v4.2.0
+    title: 'v4.2.0 of built_value_test'
+    published: '2017-09-25T07:24:04+00:00'
+    id: 'urn:uuid:4f6eedf6-e344-5023-a254-5aef51cf0916'
+    link: 'https://pub.dartlang.org/packages/built_value_test'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value_generator
+    package_version: v4.2.0
+    title: 'v4.2.0 of built_value_generator'
+    published: '2017-09-25T07:23:47+00:00'
+    id: 'urn:uuid:1592fc07-5bc8-50f2-b8a8-8dacc290290f'
+    link: 'https://pub.dartlang.org/packages/built_value_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value
+    package_version: v4.2.0
+    title: 'v4.2.0 of built_value'
+    published: '2017-09-25T07:23:15+00:00'
+    id: 'urn:uuid:2e683b90-d307-560a-875b-6f9d021e605f'
+    link: 'https://pub.dartlang.org/packages/built_value'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
