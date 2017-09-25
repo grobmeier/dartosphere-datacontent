@@ -110187,3 +110187,12 @@
     link: 'https://pub.dartlang.org/packages/built_value'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: protoc_plugin
+    package_version: v0.7.7
+    title: 'v0.7.7 of protoc_plugin'
+    published: '2017-09-25T12:57:05+00:00'
+    id: 'urn:uuid:95572f5a-abc5-5976-82d8-e05b19358495'
+    link: 'https://pub.dartlang.org/packages/protoc_plugin'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
