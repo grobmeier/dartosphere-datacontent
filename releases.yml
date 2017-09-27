@@ -110264,3 +110264,21 @@
     link: 'https://pub.dartlang.org/packages/scopify'
     author:
         - 'Ryan Gonzalez <rymg19@gmail.com>'
+-
+    package_name: built_redux
+    package_version: v5.1.0
+    title: 'v5.1.0 of built_redux'
+    published: '2017-09-27T03:12:24+00:00'
+    id: 'urn:uuid:860df5bf-646c-51d7-9400-14b435796c70'
+    link: 'https://pub.dartlang.org/packages/built_redux'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: built_redux_thunk
+    package_version: v0.1.0
+    title: 'v0.1.0 of built_redux_thunk'
+    published: '2017-09-27T03:09:51+00:00'
+    id: 'urn:uuid:eb98d7f6-806d-595b-8c89-7ef7bd8425d9'
+    link: 'https://pub.dartlang.org/packages/built_redux_thunk'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
