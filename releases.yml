@@ -110293,3 +110293,30 @@
         - 'Tianfei Zhu <tianfei@google.com>'
         - 'Jing Bian <jingbian@google.com>'
         - 'Jonah Williams <jonahwilliams@google.com>'
+-
+    package_name: scarabei_flutter_reyer
+    package_version: v3.0.0
+    title: 'v3.0.0 of scarabei_flutter_reyer'
+    published: '2017-09-27T17:45:33+00:00'
+    id: 'urn:uuid:071daba3-e04f-5bca-88c6-1cf1d09978e5'
+    link: 'https://pub.dartlang.org/packages/scarabei_flutter_reyer'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei_reyer
+    package_version: v3.0.0
+    title: 'v3.0.0 of scarabei_reyer'
+    published: '2017-09-27T17:45:05+00:00'
+    id: 'urn:uuid:53e27dc5-7d0b-5d64-bdcc-999187e1cf4d'
+    link: 'https://pub.dartlang.org/packages/scarabei_reyer'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei
+    package_version: v3.0.0
+    title: 'v3.0.0 of scarabei'
+    published: '2017-09-27T17:44:36+00:00'
+    id: 'urn:uuid:96e5a725-63b1-57b1-bc3a-656aa5357846'
+    link: 'https://pub.dartlang.org/packages/scarabei'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
