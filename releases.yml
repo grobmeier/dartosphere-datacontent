@@ -110383,3 +110383,30 @@
     link: 'https://pub.dartlang.org/packages/json_annotation'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: flutter_built_redux
+    package_version: v0.1.0
+    title: 'v0.1.0 of flutter_built_redux'
+    published: '2017-09-28T05:51:47+00:00'
+    id: 'urn:uuid:5fe4cba6-bb5d-5f25-88f3-36a3ff71dda7'
+    link: 'https://pub.dartlang.org/packages/flutter_built_redux'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: built_redux
+    package_version: v6.0.0
+    title: 'v6.0.0 of built_redux'
+    published: '2017-09-28T05:35:25+00:00'
+    id: 'urn:uuid:70752b65-5e43-5cf2-ad5b-cf463bb63562'
+    link: 'https://pub.dartlang.org/packages/built_redux'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: sass_builder
+    package_version: v1.0.0
+    title: 'v1.0.0 of sass_builder'
+    published: '2017-09-28T04:13:52+00:00'
+    id: 'urn:uuid:e6f2f9cd-5286-57f9-a0c6-e1c224d3166e'
+    link: 'https://pub.dartlang.org/packages/sass_builder'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
