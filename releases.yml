@@ -110477,3 +110477,57 @@
     link: 'https://pub.dartlang.org/packages/angular_components'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: test
+    package_version: v0.12.24+8
+    title: 'v0.12.24+8 of test'
+    published: '2017-09-28T21:59:00+00:00'
+    id: 'urn:uuid:ae2cde2c-bd77-570b-9b66-492899f77545'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: meta
+    package_version: v1.1.2
+    title: 'v1.1.2 of meta'
+    published: '2017-09-28T19:34:42+00:00'
+    id: 'urn:uuid:c6a33027-0cfd-59b3-aa9f-6fac8a470b42'
+    link: 'https://pub.dartlang.org/packages/meta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angular_barcode
+    package_version: v0.0.3
+    title: 'v0.0.3 of angular_barcode'
+    published: '2017-09-28T19:27:30+00:00'
+    id: 'urn:uuid:5621aee8-e1a1-5efa-955d-8230ff2bae06'
+    link: 'https://pub.dartlang.org/packages/angular_barcode'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: minibus
+    package_version: v0.0.4
+    title: 'v0.0.4 of minibus'
+    published: '2017-09-28T18:46:07+00:00'
+    id: 'urn:uuid:962c1a2d-672f-50bb-9bff-6c69c066f027'
+    link: 'https://pub.dartlang.org/packages/minibus'
+    author:
+        - 'Davy Mitchell <daftspaniel@gmail.com>'
+-
+    package_name: stringprocess
+    package_version: v0.0.8
+    title: 'v0.0.8 of stringprocess'
+    published: '2017-09-28T18:44:13+00:00'
+    id: 'urn:uuid:b10e4c3d-82ad-5b69-8cc0-b9f497b94d2e'
+    link: 'https://pub.dartlang.org/packages/stringprocess'
+    author:
+        - 'Davy Mitchell <daftspaniel@gmail.com>'
+-
+    package_name: RAL
+    package_version: v1.5.0
+    title: 'v1.5.0 of RAL'
+    published: '2017-09-28T18:29:51+00:00'
+    id: 'urn:uuid:031a768e-aef5-53b3-bdbd-27fcceeedff9'
+    link: 'https://pub.dartlang.org/packages/RAL'
+    author:
+        - 'Igor Demyanov<igor.demyanov@gmail.com>'
