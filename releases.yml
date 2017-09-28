@@ -110410,3 +110410,14 @@
     link: 'https://pub.dartlang.org/packages/sass_builder'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: angular_cli
+    package_version: v0.1.0+3
+    title: 'v0.1.0+3 of angular_cli'
+    published: '2017-09-28T08:25:42+00:00'
+    id: 'urn:uuid:f1e701e0-aed5-55e4-becc-844a0dee6541'
+    link: 'https://pub.dartlang.org/packages/angular_cli'
+    author:
+        - 'Tianfei Zhu <tianfei@google.com>'
+        - 'Jing Bian <jingbian@google.com>'
+        - 'Jonah Williams <jonahwilliams@google.com>'
