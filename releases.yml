@@ -110448,3 +110448,32 @@
     link: 'https://pub.dartlang.org/packages/scarabei'
     author:
         - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: ng_bootstrap
+    package_version: v0.8.5+1
+    title: 'v0.8.5+1 of ng_bootstrap'
+    published: '2017-09-28T17:43:25+00:00'
+    id: 'urn:uuid:0d0f2fde-9913-595a-a237-cb44d7afd8a0'
+    link: 'https://pub.dartlang.org/packages/ng_bootstrap'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+        - 'Adao Jr. <itsjunnior@gmail.com>'
+        - 'Ismael Blasco <isdswii@gmail.com>'
+-
+    package_name: over_react
+    package_version: v1.17.0
+    title: 'v1.17.0 of over_react'
+    published: '2017-09-28T17:41:11+00:00'
+    id: 'urn:uuid:6fd02388-f343-52de-baac-36d955238021'
+    link: 'https://pub.dartlang.org/packages/over_react'
+    author:
+        - 'Workiva UI Platform Team <uip@workiva.com>'
+-
+    package_name: angular_components
+    package_version: v0.7.1
+    title: 'v0.7.1 of angular_components'
+    published: '2017-09-28T17:25:35+00:00'
+    id: 'urn:uuid:ee7a77e5-69d9-5334-87f8-a81b700980ab'
+    link: 'https://pub.dartlang.org/packages/angular_components'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
