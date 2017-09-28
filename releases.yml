@@ -110356,3 +110356,30 @@
     link: 'https://pub.dartlang.org/packages/http'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: test
+    package_version: v0.12.24+7
+    title: 'v0.12.24+7 of test'
+    published: '2017-09-27T22:29:25+00:00'
+    id: 'urn:uuid:33102d80-64b5-5462-93e8-59377c51a2b7'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: json_serializable
+    package_version: v0.2.4
+    title: 'v0.2.4 of json_serializable'
+    published: '2017-09-27T22:23:23+00:00'
+    id: 'urn:uuid:3e3e1951-3d8b-587c-ade4-46faee40167a'
+    link: 'https://pub.dartlang.org/packages/json_serializable'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: json_annotation
+    package_version: v0.2.0
+    title: 'v0.2.0 of json_annotation'
+    published: '2017-09-27T22:04:55+00:00'
+    id: 'urn:uuid:e9c6914f-f2a0-5347-9be1-2b3aaefecdba'
+    link: 'https://pub.dartlang.org/packages/json_annotation'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
