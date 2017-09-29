@@ -110560,3 +110560,71 @@
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
         - 'Adao Jr. <itsjunnior@gmail.com>'
         - 'Ismael Blasco <isdswii@gmail.com>'
+-
+    package_name: angular_cli
+    package_version: v0.1.1
+    title: 'v0.1.1 of angular_cli'
+    published: '2017-09-29T09:40:51+00:00'
+    id: 'urn:uuid:f2310ab3-fb4f-5d1b-937c-e6b09b81dc23'
+    link: 'https://pub.dartlang.org/packages/angular_cli'
+    author:
+        - 'Tianfei Zhu <tianfei@google.com>'
+        - 'Jing Bian <jingbian@google.com>'
+        - 'Jonah Williams <jonahwilliams@google.com>'
+-
+    package_name: export_files_generator
+    package_version: v1.0.9
+    title: 'v1.0.9 of export_files_generator'
+    published: '2017-09-29T09:19:14+00:00'
+    id: 'urn:uuid:872e8aa3-3d44-57dd-b1e7-83aa2c5f03c8'
+    link: 'https://pub.dartlang.org/packages/export_files_generator'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: mailer2
+    package_version: v1.1.6
+    title: 'v1.1.6 of mailer2'
+    published: '2017-09-29T09:00:22+00:00'
+    id: 'urn:uuid:e2e964ba-3620-5c93-ac5d-101c747a39b5'
+    link: 'https://pub.dartlang.org/packages/mailer2'
+    author:
+        - 'Kai Sellgren <kaisellgren@gmail.com>'
+        - 'Dan Rubel <danrubel@google.com>'
+        - 'Matthew Butler <butler.matthew@gmail.com>'
+        - 'Tom Yeh <tomyeh@rikulo.org>'
+-
+    package_name: RAL
+    package_version: v1.5.1
+    title: 'v1.5.1 of RAL'
+    published: '2017-09-29T08:00:38+00:00'
+    id: 'urn:uuid:af376283-831d-588c-90fa-36463862d246'
+    link: 'https://pub.dartlang.org/packages/RAL'
+    author:
+        - 'Igor Demyanov<igor.demyanov@gmail.com>'
+-
+    package_name: scarabei_flutter_reyer
+    package_version: v3.2.0
+    title: 'v3.2.0 of scarabei_flutter_reyer'
+    published: '2017-09-29T06:07:57+00:00'
+    id: 'urn:uuid:f693561c-2607-5e71-9321-609aab653307'
+    link: 'https://pub.dartlang.org/packages/scarabei_flutter_reyer'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei_reyer
+    package_version: v3.2.0
+    title: 'v3.2.0 of scarabei_reyer'
+    published: '2017-09-29T06:07:09+00:00'
+    id: 'urn:uuid:89c48648-0e7c-5e78-9e8a-0c608140d1c0'
+    link: 'https://pub.dartlang.org/packages/scarabei_reyer'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei
+    package_version: v3.2.0
+    title: 'v3.2.0 of scarabei'
+    published: '2017-09-29T06:06:49+00:00'
+    id: 'urn:uuid:25fe28f0-ea53-5f2e-bb43-dfec39d15103'
+    link: 'https://pub.dartlang.org/packages/scarabei'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
