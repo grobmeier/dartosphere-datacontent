@@ -110646,3 +110646,48 @@
     link: 'https://pub.dartlang.org/packages/RAL'
     author:
         - 'Igor Demyanov<igor.demyanov@gmail.com>'
+-
+    package_name: typed_data
+    package_version: v1.1.5
+    title: 'v1.1.5 of typed_data'
+    published: '2017-09-29T17:30:07+00:00'
+    id: 'urn:uuid:e5e1a506-bba3-5a09-aac5-20d59d6e678e'
+    link: 'https://pub.dartlang.org/packages/typed_data'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: plugin
+    package_version: v0.2.0+2
+    title: 'v0.2.0+2 of plugin'
+    published: '2017-09-29T17:07:04+00:00'
+    id: 'urn:uuid:31f4c9f2-f648-5b81-ac8a-50cbc4984f42'
+    link: 'https://pub.dartlang.org/packages/plugin'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build
+    package_version: v0.10.2+1
+    title: 'v0.10.2+1 of build'
+    published: '2017-09-29T16:39:48+00:00'
+    id: 'urn:uuid:cdf08653-6067-59ea-9a6b-c786f9787193'
+    link: 'https://pub.dartlang.org/packages/build'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: astrocalc
+    package_version: v0.0.1
+    title: 'v0.0.1 of astrocalc'
+    published: '2017-09-29T15:37:56+00:00'
+    id: 'urn:uuid:bfe8887e-8e5d-55ab-a763-24e3547f1008'
+    link: 'https://pub.dartlang.org/packages/astrocalc'
+    author:
+        - 'PJ Essien <princess-jewel.essien@andela.com>'
+-
+    package_name: service_worker
+    package_version: v0.1.0
+    title: 'v0.1.0 of service_worker'
+    published: '2017-09-29T14:55:35+00:00'
+    id: 'urn:uuid:0ca84411-34ba-59df-bc9d-5c51ac009457'
+    link: 'https://pub.dartlang.org/packages/service_worker'
+    author:
+        - 'Istvan Soos <istvan.soos@gmail.com>'
