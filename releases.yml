@@ -110531,3 +110531,32 @@
     link: 'https://pub.dartlang.org/packages/RAL'
     author:
         - 'Igor Demyanov<igor.demyanov@gmail.com>'
+-
+    package_name: scarabei_reyer
+    package_version: v3.1.1
+    title: 'v3.1.1 of scarabei_reyer'
+    published: '2017-09-29T05:50:28+00:00'
+    id: 'urn:uuid:a30feabc-8e6e-5439-a1c6-5aa6a17c8675'
+    link: 'https://pub.dartlang.org/packages/scarabei_reyer'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: serializable
+    package_version: v0.7.1
+    title: 'v0.7.1 of serializable'
+    published: '2017-09-29T05:47:46+00:00'
+    id: 'urn:uuid:d9e8cc3f-5cc4-5a7c-8da4-139675e4adcb'
+    link: 'https://pub.dartlang.org/packages/serializable'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: ng_bootstrap
+    package_version: v0.8.6
+    title: 'v0.8.6 of ng_bootstrap'
+    published: '2017-09-29T04:14:16+00:00'
+    id: 'urn:uuid:5a5b0434-bf6b-583d-99e3-4dc01c8b8cb1'
+    link: 'https://pub.dartlang.org/packages/ng_bootstrap'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+        - 'Adao Jr. <itsjunnior@gmail.com>'
+        - 'Ismael Blasco <isdswii@gmail.com>'
