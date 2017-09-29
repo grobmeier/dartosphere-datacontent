@@ -110628,3 +110628,21 @@
     link: 'https://pub.dartlang.org/packages/scarabei'
     author:
         - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: flutter_fab_dialer
+    package_version: v0.0.2
+    title: 'v0.0.2 of flutter_fab_dialer'
+    published: '2017-09-29T11:56:24+00:00'
+    id: 'urn:uuid:5f105f90-9a55-5e80-8a21-b63396c7097f'
+    link: 'https://pub.dartlang.org/packages/flutter_fab_dialer'
+    author:
+        - 'Leondev7 <leondev7jgt@gmail.com>'
+-
+    package_name: RAL
+    package_version: v1.5.2
+    title: 'v1.5.2 of RAL'
+    published: '2017-09-29T11:30:20+00:00'
+    id: 'urn:uuid:87105af3-134e-5e52-8d6e-095fdc5d2fc0'
+    link: 'https://pub.dartlang.org/packages/RAL'
+    author:
+        - 'Igor Demyanov<igor.demyanov@gmail.com>'
