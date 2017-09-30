@@ -110691,3 +110691,30 @@
     link: 'https://pub.dartlang.org/packages/service_worker'
     author:
         - 'Istvan Soos <istvan.soos@gmail.com>'
+-
+    package_name: firebase_functions_interop
+    package_version: v0.0.3
+    title: 'v0.0.3 of firebase_functions_interop'
+    published: '2017-09-30T05:54:05+00:00'
+    id: 'urn:uuid:6bfe65bf-6436-5b60-91c4-5b97dd704a23'
+    link: 'https://pub.dartlang.org/packages/firebase_functions_interop'
+    author:
+        - 'Anatoly Pulyaevskiy <anatoly.pulyaevskiy@gmail.com>'
+-
+    package_name: jael
+    package_version: v1.0.0-alpha+1
+    title: 'v1.0.0-alpha+1 of jael'
+    published: '2017-09-30T04:23:59+00:00'
+    id: 'urn:uuid:0b2e1b18-ded5-5136-98da-e33d3b15bfd7'
+    link: 'https://pub.dartlang.org/packages/jael'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: setalpha
+    package_version: v0.7.0
+    title: 'v0.7.0 of setalpha'
+    published: '2017-09-30T03:15:25+00:00'
+    id: 'urn:uuid:cd715b0e-e2ba-5a32-9677-1cd58f72064e'
+    link: 'https://pub.dartlang.org/packages/setalpha'
+    author:
+        - 'Richard Ambler <rambler@ibwya.net.com>'
