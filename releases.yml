@@ -110718,3 +110718,12 @@
     link: 'https://pub.dartlang.org/packages/setalpha'
     author:
         - 'Richard Ambler <rambler@ibwya.net.com>'
+-
+    package_name: lessql
+    package_version: v0.0.1-alpha
+    title: 'v0.0.1-alpha of lessql'
+    published: '2017-09-30T09:28:00+00:00'
+    id: 'urn:uuid:11aabfe1-d328-53f6-a45d-35ccdc99c134'
+    link: 'https://pub.dartlang.org/packages/lessql'
+    author:
+        - 'scott <zqlxtt@live.com>'
