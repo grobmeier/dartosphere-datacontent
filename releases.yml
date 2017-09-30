@@ -110745,3 +110745,12 @@
     link: 'https://pub.dartlang.org/packages/server_client_comm'
     author:
         - 'Alex Clarke <ajclarke903@gmail.com>'
+-
+    package_name: lr_storage
+    package_version: v1.1.0
+    title: 'v1.1.0 of lr_storage'
+    published: '2017-09-30T21:23:56+00:00'
+    id: 'urn:uuid:dfa5f3e0-620f-5461-8e8b-7f94946d2427'
+    link: 'https://pub.dartlang.org/packages/lr_storage'
+    author:
+        - 'Laboratory Rat <Oleg.Timofeev20@gmail.com>'
