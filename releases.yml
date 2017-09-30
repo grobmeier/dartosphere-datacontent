@@ -110727,3 +110727,21 @@
     link: 'https://pub.dartlang.org/packages/lessql'
     author:
         - 'scott <zqlxtt@live.com>'
+-
+    package_name: haversine
+    package_version: v0.0.1
+    title: 'v0.0.1 of haversine'
+    published: '2017-09-30T12:09:14+00:00'
+    id: 'urn:uuid:67e9105e-224d-5758-b1f9-a9e0c72bb823'
+    link: 'https://pub.dartlang.org/packages/haversine'
+    author:
+        - 'Yeradis P. Barbosa Marrero <yeradis@gmail.com>'
+-
+    package_name: server_client_comm
+    package_version: v0.1.6
+    title: 'v0.1.6 of server_client_comm'
+    published: '2017-09-30T11:02:17+00:00'
+    id: 'urn:uuid:6b376c85-9524-5ae5-86e0-b60a2aeb4827'
+    link: 'https://pub.dartlang.org/packages/server_client_comm'
+    author:
+        - 'Alex Clarke <ajclarke903@gmail.com>'
