@@ -110790,3 +110790,39 @@
     link: 'https://pub.dartlang.org/packages/jael_preprocessor'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: great_circle_distance
+    package_version: v0.0.3
+    title: 'v0.0.3 of great_circle_distance'
+    published: '2017-10-01T13:57:36+00:00'
+    id: 'urn:uuid:d4f9e155-3d36-5eb8-8d8a-3619e14c9f71'
+    link: 'https://pub.dartlang.org/packages/great_circle_distance'
+    author:
+        - 'Yeradis P. Barbosa Marrero <yeradis@gmail.com>'
+-
+    package_name: piecemeal
+    package_version: v0.3.3
+    title: 'v0.3.3 of piecemeal'
+    published: '2017-10-01T13:24:42+00:00'
+    id: 'urn:uuid:5ec0c34f-8cf9-5ec3-a251-ca3571a99a41'
+    link: 'https://pub.dartlang.org/packages/piecemeal'
+    author:
+        - 'Bob Nystrom <robert@stuffwithstuff.com>'
+-
+    package_name: lab_rat_wp_api
+    package_version: v1.1.0
+    title: 'v1.1.0 of lab_rat_wp_api'
+    published: '2017-10-01T12:32:20+00:00'
+    id: 'urn:uuid:a0c06ffc-0835-5e5c-80c1-872e0c93515a'
+    link: 'https://pub.dartlang.org/packages/lab_rat_wp_api'
+    author:
+        - 'Laboratory Rat <Oleg.Timofeev20@gmail.com>'
+-
+    package_name: haversine
+    package_version: v0.0.2
+    title: 'v0.0.2 of haversine'
+    published: '2017-10-01T10:48:36+00:00'
+    id: 'urn:uuid:3845eeb3-192c-5871-991c-9bfe23f441aa'
+    link: 'https://pub.dartlang.org/packages/haversine'
+    author:
+        - 'Yeradis P. Barbosa Marrero <yeradis@gmail.com>'
