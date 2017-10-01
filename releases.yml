@@ -110826,3 +110826,12 @@
     link: 'https://pub.dartlang.org/packages/haversine'
     author:
         - 'Yeradis P. Barbosa Marrero <yeradis@gmail.com>'
+-
+    package_name: built_redux
+    package_version: v6.1.0
+    title: 'v6.1.0 of built_redux'
+    published: '2017-10-01T21:53:12+00:00'
+    id: 'urn:uuid:f3dae521-8313-5855-b216-41238aaaf934'
+    link: 'https://pub.dartlang.org/packages/built_redux'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
