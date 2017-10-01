@@ -110754,3 +110754,39 @@
     link: 'https://pub.dartlang.org/packages/lr_storage'
     author:
         - 'Laboratory Rat <Oleg.Timofeev20@gmail.com>'
+-
+    package_name: jael
+    package_version: v1.0.0-alpha+3
+    title: 'v1.0.0-alpha+3 of jael'
+    published: '2017-10-01T04:44:48+00:00'
+    id: 'urn:uuid:2d041076-b8f9-5560-b78f-c2fac23027c0'
+    link: 'https://pub.dartlang.org/packages/jael'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: node_interop
+    package_version: v0.0.5
+    title: 'v0.0.5 of node_interop'
+    published: '2017-10-01T04:00:03+00:00'
+    id: 'urn:uuid:9e470170-3f0e-5d97-be38-a3c29bb38c6a'
+    link: 'https://pub.dartlang.org/packages/node_interop'
+    author:
+        - 'Anatoly Pulyaevskiy <anatoly.pulyaevskiy@gmail.com>'
+-
+    package_name: angel_jael
+    package_version: v1.0.0-alpha
+    title: 'v1.0.0-alpha of angel_jael'
+    published: '2017-10-01T03:17:41+00:00'
+    id: 'urn:uuid:e445293b-3341-5592-97b4-94fa7b0f8731'
+    link: 'https://pub.dartlang.org/packages/angel_jael'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: jael_preprocessor
+    package_version: v1.0.0-alpha
+    title: 'v1.0.0-alpha of jael_preprocessor'
+    published: '2017-10-01T03:16:04+00:00'
+    id: 'urn:uuid:b172c785-6435-5767-b94d-f96b256fe72f'
+    link: 'https://pub.dartlang.org/packages/jael_preprocessor'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
