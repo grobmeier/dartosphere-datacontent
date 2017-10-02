@@ -110889,3 +110889,39 @@
     link: 'https://pub.dartlang.org/packages/stencil'
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: jael
+    package_version: v1.0.0-beta
+    title: 'v1.0.0-beta of jael'
+    published: '2017-10-02T17:00:25+00:00'
+    id: 'urn:uuid:e4246c0c-eaac-5c4c-b792-4c68c28daf80'
+    link: 'https://pub.dartlang.org/packages/jael'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_jael
+    package_version: v1.0.0-alpha+1
+    title: 'v1.0.0-alpha+1 of angel_jael'
+    published: '2017-10-02T16:12:22+00:00'
+    id: 'urn:uuid:904c0f6c-ec5a-5e67-84a2-a766833b588c'
+    link: 'https://pub.dartlang.org/packages/angel_jael'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: jael_preprocessor
+    package_version: v1.0.0-alpha+2
+    title: 'v1.0.0-alpha+2 of jael_preprocessor'
+    published: '2017-10-02T16:07:53+00:00'
+    id: 'urn:uuid:69d67796-38bf-5ba9-9200-f235dbc11ae4'
+    link: 'https://pub.dartlang.org/packages/jael_preprocessor'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: leveldb
+    package_version: v5.0.0
+    title: 'v5.0.0 of leveldb'
+    published: '2017-10-02T14:09:17+00:00'
+    id: 'urn:uuid:817aec57-fe0b-5cbf-a187-5dc6d0a58583'
+    link: 'https://pub.dartlang.org/packages/leveldb'
+    author:
+        - 'Adam Lofts <adam.lofts@gmail.com>'
