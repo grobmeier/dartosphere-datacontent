@@ -110862,3 +110862,21 @@
     link: 'https://pub.dartlang.org/packages/function_tree'
     author:
         - 'Richard Ambler <rambler@ibwya.net>'
+-
+    package_name: http2
+    package_version: v0.1.4
+    title: 'v0.1.4 of http2'
+    published: '2017-10-02T07:43:03+00:00'
+    id: 'urn:uuid:13a72b99-857e-552f-b163-20a5371c6a59'
+    link: 'https://pub.dartlang.org/packages/http2'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: mustache_recase
+    package_version: v1.0.0
+    title: 'v1.0.0 of mustache_recase'
+    published: '2017-10-02T06:45:26+00:00'
+    id: 'urn:uuid:ffdd4305-d120-5231-ba18-3639cb54ed8e'
+    link: 'https://pub.dartlang.org/packages/mustache_recase'
+    author:
+        - 'Rodsevich <nicorodsevich@gmail.com>'
