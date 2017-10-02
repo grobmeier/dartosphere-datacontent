@@ -110844,3 +110844,21 @@
     link: 'https://pub.dartlang.org/packages/expressjs_interop'
     author:
         - 'Anatoly Pulyaevskiy <anatoly.pulyaevskiy@gmail.com>'
+-
+    package_name: json_serializable
+    package_version: v0.2.4+1
+    title: 'v0.2.4+1 of json_serializable'
+    published: '2017-10-02T05:33:08+00:00'
+    id: 'urn:uuid:8d6ab791-33bd-59cf-a42e-966eb1cf37a4'
+    link: 'https://pub.dartlang.org/packages/json_serializable'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: function_tree
+    package_version: v0.1.1
+    title: 'v0.1.1 of function_tree'
+    published: '2017-10-02T03:01:06+00:00'
+    id: 'urn:uuid:6718731b-d7fc-59d4-8750-b366009ff54a'
+    link: 'https://pub.dartlang.org/packages/function_tree'
+    author:
+        - 'Richard Ambler <rambler@ibwya.net>'
