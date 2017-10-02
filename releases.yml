@@ -110925,3 +110925,21 @@
     link: 'https://pub.dartlang.org/packages/leveldb'
     author:
         - 'Adam Lofts <adam.lofts@gmail.com>'
+-
+    package_name: coverage
+    package_version: v0.9.3
+    title: 'v0.9.3 of coverage'
+    published: '2017-10-02T19:46:34+00:00'
+    id: 'urn:uuid:a9070a01-2f2d-58d0-9de1-5c4a51a7f865'
+    link: 'https://pub.dartlang.org/packages/coverage'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: json_object_lite
+    package_version: v1.0.1
+    title: 'v1.0.1 of json_object_lite'
+    published: '2017-10-02T19:06:29+00:00'
+    id: 'urn:uuid:7cf13dde-39d8-5936-8257-9e33cbf612f5'
+    link: 'https://pub.dartlang.org/packages/json_object_lite'
+    author:
+        - 'Steve Hamblett <steve.hamblett@linux.com>'
