@@ -110835,3 +110835,12 @@
     link: 'https://pub.dartlang.org/packages/built_redux'
     author:
         - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: expressjs_interop
+    package_version: v0.0.1
+    title: 'v0.0.1 of expressjs_interop'
+    published: '2017-10-01T23:15:56+00:00'
+    id: 'urn:uuid:a832e6aa-2b96-547f-8866-111d51d60091'
+    link: 'https://pub.dartlang.org/packages/expressjs_interop'
+    author:
+        - 'Anatoly Pulyaevskiy <anatoly.pulyaevskiy@gmail.com>'
