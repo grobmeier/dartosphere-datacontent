@@ -110943,3 +110943,12 @@
     link: 'https://pub.dartlang.org/packages/json_object_lite'
     author:
         - 'Steve Hamblett <steve.hamblett@linux.com>'
+-
+    package_name: node_interop
+    package_version: v0.0.6
+    title: 'v0.0.6 of node_interop'
+    published: '2017-10-03T06:55:49+00:00'
+    id: 'urn:uuid:a0b832bc-dd3a-5661-98aa-12af9380e61c'
+    link: 'https://pub.dartlang.org/packages/node_interop'
+    author:
+        - 'Anatoly Pulyaevskiy <anatoly.pulyaevskiy@gmail.com>'
