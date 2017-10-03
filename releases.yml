@@ -110970,3 +110970,12 @@
     link: 'https://pub.dartlang.org/packages/connectivity_status'
     author:
         - 'Erick Ghaumez <erick@rxla.bz>'
+-
+    package_name: logging_service
+    package_version: v3.0.2
+    title: 'v3.0.2 of logging_service'
+    published: '2017-10-03T14:55:31+00:00'
+    id: 'urn:uuid:7e59427b-50e0-5d95-93b5-0db8adc4fe3e'
+    link: 'https://pub.dartlang.org/packages/logging_service'
+    author:
+        - 'Ivan Evsikov <ivan.evsikov@team.wrike.com>'
