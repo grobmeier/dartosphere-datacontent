@@ -110952,3 +110952,21 @@
     link: 'https://pub.dartlang.org/packages/node_interop'
     author:
         - 'Anatoly Pulyaevskiy <anatoly.pulyaevskiy@gmail.com>'
+-
+    package_name: keypress_listener
+    package_version: v1.0.0
+    title: 'v1.0.0 of keypress_listener'
+    published: '2017-10-03T13:39:49+00:00'
+    id: 'urn:uuid:1f15f41b-57e7-59d0-b385-4ceab95cb615'
+    link: 'https://pub.dartlang.org/packages/keypress_listener'
+    author:
+        - 'Dmitriy Vasilyev <kelegorm1@gmail.com>'
+-
+    package_name: connectivity_status
+    package_version: v0.1.2
+    title: 'v0.1.2 of connectivity_status'
+    published: '2017-10-03T10:20:30+00:00'
+    id: 'urn:uuid:a7771282-c095-5913-ae15-23f22c71ea71'
+    link: 'https://pub.dartlang.org/packages/connectivity_status'
+    author:
+        - 'Erick Ghaumez <erick@rxla.bz>'
