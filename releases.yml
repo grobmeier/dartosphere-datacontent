@@ -111047,3 +111047,21 @@
     link: 'https://pub.dartlang.org/packages/args'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: RAL
+    package_version: v1.5.3
+    title: 'v1.5.3 of RAL'
+    published: '2017-10-04T09:02:41+00:00'
+    id: 'urn:uuid:7fbb9d66-5ce5-50d5-84a2-0bdd8c9c2251'
+    link: 'https://pub.dartlang.org/packages/RAL'
+    author:
+        - 'Igor Demyanov<igor.demyanov@gmail.com>'
+-
+    package_name: node_interop
+    package_version: v0.0.7
+    title: 'v0.0.7 of node_interop'
+    published: '2017-10-04T06:11:56+00:00'
+    id: 'urn:uuid:f8ace65b-17fc-5105-b927-6ee4ade147f8'
+    link: 'https://pub.dartlang.org/packages/node_interop'
+    author:
+        - 'Anatoly Pulyaevskiy <anatoly.pulyaevskiy@gmail.com>'
