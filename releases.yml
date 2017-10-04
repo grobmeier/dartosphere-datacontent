@@ -111065,3 +111065,30 @@
     link: 'https://pub.dartlang.org/packages/node_interop'
     author:
         - 'Anatoly Pulyaevskiy <anatoly.pulyaevskiy@gmail.com>'
+-
+    package_name: react
+    package_version: v4.1.0
+    title: 'v4.1.0 of react'
+    published: '2017-10-04T17:13:46+00:00'
+    id: 'urn:uuid:8ad6a1f9-cc61-5fec-b7c4-b191816ebb1f'
+    link: 'https://pub.dartlang.org/packages/react'
+    author:
+        - 'Clean Team <clean@vacuumlabs.com>'
+-
+    package_name: entify
+    package_version: v0.2.1+1
+    title: 'v0.2.1+1 of entify'
+    published: '2017-10-04T14:30:57+00:00'
+    id: 'urn:uuid:ca2b099b-ef49-5e47-8e48-606c05d03564'
+    link: 'https://pub.dartlang.org/packages/entify'
+    author:
+        - 'Peter Siroki <psiroki@skawa.hu>'
+-
+    package_name: scratch_space
+    package_version: v0.0.1+1
+    title: 'v0.0.1+1 of scratch_space'
+    published: '2017-10-04T14:28:30+00:00'
+    id: 'urn:uuid:3e47dded-9d70-54ab-bcc5-e9103c5a3fd4'
+    link: 'https://pub.dartlang.org/packages/scratch_space'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
