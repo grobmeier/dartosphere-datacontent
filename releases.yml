@@ -111247,3 +111247,23 @@
     link: 'https://pub.dartlang.org/packages/googleapis'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: jaguar
+    package_version: v0.6.17
+    title: 'v0.6.17 of jaguar'
+    published: '2017-10-05T21:18:22+00:00'
+    id: 'urn:uuid:034479cc-044a-53a1-8668-809ba454cc07'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_auth
+    package_version: v0.11.2
+    title: 'v0.11.2 of jaguar_auth'
+    published: '2017-10-05T21:05:33+00:00'
+    id: 'urn:uuid:72c89ea3-8f41-5462-acff-eccbd9d22e1e'
+    link: 'https://pub.dartlang.org/packages/jaguar_auth'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
