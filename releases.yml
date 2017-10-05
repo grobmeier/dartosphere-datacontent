@@ -111128,3 +111128,12 @@
     link: 'https://pub.dartlang.org/packages/built_redux_thunk'
     author:
         - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: rad_textures
+    package_version: v1.0.21
+    title: 'v1.0.21 of rad_textures'
+    published: '2017-10-05T09:59:01+00:00'
+    id: 'urn:uuid:15c7db72-fec2-5dc8-a118-2521c9c9acfb'
+    link: 'https://pub.dartlang.org/packages/rad_textures'
+    author:
+        - 'John Davis <unicomp21@gmail.com>'
