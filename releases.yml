@@ -111137,3 +111137,39 @@
     link: 'https://pub.dartlang.org/packages/rad_textures'
     author:
         - 'John Davis <unicomp21@gmail.com>'
+-
+    package_name: grinder_php_minify
+    package_version: v1.0.0
+    title: 'v1.0.0 of grinder_php_minify'
+    published: '2017-10-05T13:36:07+00:00'
+    id: 'urn:uuid:543e2cfa-7e54-5263-93ac-d91e8378ddc4'
+    link: 'https://pub.dartlang.org/packages/grinder_php_minify'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: http2
+    package_version: v0.1.5
+    title: 'v0.1.5 of http2'
+    published: '2017-10-05T12:22:00+00:00'
+    id: 'urn:uuid:d5a17ce9-4e2d-59d9-beac-0361ee725a02'
+    link: 'https://pub.dartlang.org/packages/http2'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: haiku
+    package_version: v1.0.1
+    title: 'v1.0.1 of haiku'
+    published: '2017-10-05T10:35:56+00:00'
+    id: 'urn:uuid:2bf218f6-8e2c-5d07-ba78-9bf1b8a4d959'
+    link: 'https://pub.dartlang.org/packages/haiku'
+    author:
+        - 'Kendal Harland <kendaljharland@gmail.com>'
+-
+    package_name: discoveryapis_generator
+    package_version: v0.9.1+1
+    title: 'v0.9.1+1 of discoveryapis_generator'
+    published: '2017-10-05T10:15:22+00:00'
+    id: 'urn:uuid:15c9e97a-4361-5742-a548-ee0615fed7c4'
+    link: 'https://pub.dartlang.org/packages/discoveryapis_generator'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
