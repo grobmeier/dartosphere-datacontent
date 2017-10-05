@@ -111110,3 +111110,21 @@
     link: 'https://pub.dartlang.org/packages/haiku'
     author:
         - 'Kendal Harland <kendaljharland@gmail.com>'
+-
+    package_name: built_redux_repatch
+    package_version: v0.1.0
+    title: 'v0.1.0 of built_redux_repatch'
+    published: '2017-10-05T05:21:53+00:00'
+    id: 'urn:uuid:4f3e5f78-6d86-502c-b39a-41aa19f77fba'
+    link: 'https://pub.dartlang.org/packages/built_redux_repatch'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: built_redux_thunk
+    package_version: v0.2.0
+    title: 'v0.2.0 of built_redux_thunk'
+    published: '2017-10-05T05:05:06+00:00'
+    id: 'urn:uuid:f999b8b2-850a-5d34-ab8c-4f46533bd059'
+    link: 'https://pub.dartlang.org/packages/built_redux_thunk'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
