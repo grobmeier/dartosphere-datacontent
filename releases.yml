@@ -111173,3 +111173,77 @@
     link: 'https://pub.dartlang.org/packages/discoveryapis_generator'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: barback
+    package_version: v0.15.2+13
+    title: 'v0.15.2+13 of barback'
+    published: '2017-10-05T17:32:17+00:00'
+    id: 'urn:uuid:f2cdc382-c815-5105-923e-ad2436eba326'
+    link: 'https://pub.dartlang.org/packages/barback'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dartdoc
+    package_version: v0.14.1
+    title: 'v0.14.1 of dartdoc'
+    published: '2017-10-05T17:03:05+00:00'
+    id: 'urn:uuid:cae6eb91-2acc-5ebe-be32-2451c2939e6f'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: jaguar_json
+    package_version: v0.1.4
+    title: 'v0.1.4 of jaguar_json'
+    published: '2017-10-05T16:58:36+00:00'
+    id: 'urn:uuid:daf91b41-ca93-5e8e-8e72-69b76a3b916a'
+    link: 'https://pub.dartlang.org/packages/jaguar_json'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: postgres
+    package_version: v0.9.6
+    title: 'v0.9.6 of postgres'
+    published: '2017-10-05T16:44:41+00:00'
+    id: 'urn:uuid:396b1506-b385-5d1b-957f-0dceb4d10933'
+    link: 'https://pub.dartlang.org/packages/postgres'
+    author:
+        - 'stable|kernel <jobs@stablekernel.com>'
+-
+    package_name: jaguar
+    package_version: v0.6.14
+    title: 'v0.6.14 of jaguar'
+    published: '2017-10-05T16:32:54+00:00'
+    id: 'urn:uuid:d6873e70-d4a0-54b9-8286-a092540951d8'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: discoveryapis_generator
+    package_version: v0.9.1+2
+    title: 'v0.9.1+2 of discoveryapis_generator'
+    published: '2017-10-05T15:25:12+00:00'
+    id: 'urn:uuid:7b288375-30a3-5839-aa03-ed51df561147'
+    link: 'https://pub.dartlang.org/packages/discoveryapis_generator'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: googleapis_beta
+    package_version: v0.40.0
+    title: 'v0.40.0 of googleapis_beta'
+    published: '2017-10-05T14:55:47+00:00'
+    id: 'urn:uuid:f265f957-8ccb-5834-95c6-6385c93ed921'
+    link: 'https://pub.dartlang.org/packages/googleapis_beta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: googleapis
+    package_version: v0.45.0
+    title: 'v0.45.0 of googleapis'
+    published: '2017-10-05T14:55:43+00:00'
+    id: 'urn:uuid:3037a885-912f-5d4f-94ae-40b2b2b34c3e'
+    link: 'https://pub.dartlang.org/packages/googleapis'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
