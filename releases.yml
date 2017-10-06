@@ -111267,3 +111267,30 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: haiku
+    package_version: v1.0.3
+    title: 'v1.0.3 of haiku'
+    published: '2017-10-06T13:40:26+00:00'
+    id: 'urn:uuid:a18687aa-1001-526a-a372-8e3eb4f57444'
+    link: 'https://pub.dartlang.org/packages/haiku'
+    author:
+        - 'Kendal Harland <kendaljharland@gmail.com>'
+-
+    package_name: RAL
+    package_version: v1.5.5
+    title: 'v1.5.5 of RAL'
+    published: '2017-10-06T13:37:17+00:00'
+    id: 'urn:uuid:ef24e899-55df-5ea0-bc73-db27c0957103'
+    link: 'https://pub.dartlang.org/packages/RAL'
+    author:
+        - 'Igor Demyanov<igor.demyanov@gmail.com>'
+-
+    package_name: telegram_bot
+    package_version: v0.0.6
+    title: 'v0.0.6 of telegram_bot'
+    published: '2017-10-06T11:32:34+00:00'
+    id: 'urn:uuid:7b754984-5ff3-528b-84d6-dae0c7c943d9'
+    link: 'https://pub.dartlang.org/packages/telegram_bot'
+    author:
+        - 'Kendal Harland <kendaljharland@gmail.com>'
