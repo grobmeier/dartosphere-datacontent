@@ -111312,3 +111312,39 @@
     link: 'https://pub.dartlang.org/packages/haiku'
     author:
         - 'Kendal Harland <kendaljharland@gmail.com>'
+-
+    package_name: fluro
+    package_version: v1.2.1
+    title: 'v1.2.1 of fluro'
+    published: '2017-10-06T20:59:56+00:00'
+    id: 'urn:uuid:8e8f6fd7-5216-5af9-acdc-5bd8d23cdf1e'
+    link: 'https://pub.dartlang.org/packages/fluro'
+    author:
+        - 'Posse Productions LLC <apps@goposse.com>'
+-
+    package_name: gcloud
+    package_version: v0.4.0+1
+    title: 'v0.4.0+1 of gcloud'
+    published: '2017-10-06T20:19:13+00:00'
+    id: 'urn:uuid:0284a325-1e3e-5faf-ba4c-df2dc9dd8f4f'
+    link: 'https://pub.dartlang.org/packages/gcloud'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: syllables
+    package_version: v0.0.4
+    title: 'v0.0.4 of syllables'
+    published: '2017-10-06T18:25:24+00:00'
+    id: 'urn:uuid:d863358a-c752-50a9-83be-95f6e3c7fb94'
+    link: 'https://pub.dartlang.org/packages/syllables'
+    author:
+        - 'Kendal Harland <kendaljharland@gmail.com>'
+-
+    package_name: haiku
+    package_version: v1.0.6
+    title: 'v1.0.6 of haiku'
+    published: '2017-10-06T18:09:23+00:00'
+    id: 'urn:uuid:67d651ed-ce0f-5c24-b943-4cc04470af80'
+    link: 'https://pub.dartlang.org/packages/haiku'
+    author:
+        - 'Kendal Harland <kendaljharland@gmail.com>'
