@@ -111348,3 +111348,12 @@
     link: 'https://pub.dartlang.org/packages/haiku'
     author:
         - 'Kendal Harland <kendaljharland@gmail.com>'
+-
+    package_name: great_circle_distance
+    package_version: v0.0.6
+    title: 'v0.0.6 of great_circle_distance'
+    published: '2017-10-07T08:03:47+00:00'
+    id: 'urn:uuid:2945d989-d5ff-5c64-9b33-75c39d23c7e4'
+    link: 'https://pub.dartlang.org/packages/great_circle_distance'
+    author:
+        - 'Yeradis P. Barbosa Marrero <yeradis@gmail.com>'
