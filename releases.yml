@@ -111375,3 +111375,12 @@
     link: 'https://pub.dartlang.org/packages/jaguar_falcor'
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: firebase_functions_interop
+    package_version: v0.0.4
+    title: 'v0.0.4 of firebase_functions_interop'
+    published: '2017-10-08T06:12:51+00:00'
+    id: 'urn:uuid:4036a1a4-fb56-5e69-a2e1-7e52b09abbf3'
+    link: 'https://pub.dartlang.org/packages/firebase_functions_interop'
+    author:
+        - 'Anatoly Pulyaevskiy <anatoly.pulyaevskiy@gmail.com>'
