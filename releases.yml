@@ -111393,3 +111393,52 @@
     link: 'https://pub.dartlang.org/packages/RAL'
     author:
         - 'Igor Demyanov<igor.demyanov@gmail.com>'
+-
+    package_name: webide_splitter
+    package_version: v0.0.2
+    title: 'v0.0.2 of webide_splitter'
+    published: '2017-10-08T21:03:31+00:00'
+    id: 'urn:uuid:79097615-f96a-504d-b284-b42b9faad1e7'
+    link: 'https://pub.dartlang.org/packages/webide_splitter'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: jaguar_serializer_cli
+    package_version: v0.5.0
+    title: 'v0.5.0 of jaguar_serializer_cli'
+    published: '2017-10-08T20:59:04+00:00'
+    id: 'urn:uuid:12d625cd-172e-5771-8b7f-06b882b8fbc2'
+    link: 'https://pub.dartlang.org/packages/jaguar_serializer_cli'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: jaguar_serializer
+    package_version: v0.5.0
+    title: 'v0.5.0 of jaguar_serializer'
+    published: '2017-10-08T20:58:43+00:00'
+    id: 'urn:uuid:a8605392-f41c-5d9b-8cc4-d3391ceef227'
+    link: 'https://pub.dartlang.org/packages/jaguar_serializer'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: async_loader
+    package_version: v0.1.0
+    title: 'v0.1.0 of async_loader'
+    published: '2017-10-08T20:52:45+00:00'
+    id: 'urn:uuid:4ffc03fc-a821-5127-b8fd-268392027ed0'
+    link: 'https://pub.dartlang.org/packages/async_loader'
+    author:
+        - 'Ryan Edge <ryan.c.edge@outlook.com>'
+-
+    package_name: angular_modern_charts
+    package_version: v0.0.16
+    title: 'v0.0.16 of angular_modern_charts'
+    published: '2017-10-08T20:24:26+00:00'
+    id: 'urn:uuid:9c31cff6-14e4-5fe3-a262-612e1bdf954a'
+    link: 'https://pub.dartlang.org/packages/angular_modern_charts'
+    author:
+        - 'Dejan Marlovic <dMarlovic83@gmail.com>'
