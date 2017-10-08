@@ -111384,3 +111384,12 @@
     link: 'https://pub.dartlang.org/packages/firebase_functions_interop'
     author:
         - 'Anatoly Pulyaevskiy <anatoly.pulyaevskiy@gmail.com>'
+-
+    package_name: RAL
+    package_version: v1.5.6
+    title: 'v1.5.6 of RAL'
+    published: '2017-10-08T16:43:58+00:00'
+    id: 'urn:uuid:97b31627-c9c2-57d5-951a-da497c996fb4'
+    link: 'https://pub.dartlang.org/packages/RAL'
+    author:
+        - 'Igor Demyanov<igor.demyanov@gmail.com>'
