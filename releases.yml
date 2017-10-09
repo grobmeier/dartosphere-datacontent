@@ -111498,3 +111498,21 @@
     link: 'https://pub.dartlang.org/packages/gtag_analytics'
     author:
         - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: angel_route
+    package_version: v1.0.7
+    title: 'v1.0.7 of angel_route'
+    published: '2017-10-09T13:39:05+00:00'
+    id: 'urn:uuid:7ba4164b-ceca-5cbb-ae39-86e85284ecef'
+    link: 'https://pub.dartlang.org/packages/angel_route'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: mqtt_client
+    package_version: v1.2.0
+    title: 'v1.2.0 of mqtt_client'
+    published: '2017-10-09T12:45:47+00:00'
+    id: 'urn:uuid:63181ee9-3446-5cc0-bc9e-275fc6b6a4d2'
+    link: 'https://pub.dartlang.org/packages/mqtt_client'
+    author:
+        - 'Steve Hamblett <steve.hamblett@linux.com>'
