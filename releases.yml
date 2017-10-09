@@ -111489,3 +111489,12 @@
         - 'Tianfei Zhu <tianfei@google.com>'
         - 'Jing Bian <jingbian@google.com>'
         - 'Jonah Williams <jonahwilliams@google.com>'
+-
+    package_name: gtag_analytics
+    package_version: v0.1.4
+    title: 'v0.1.4 of gtag_analytics'
+    published: '2017-10-09T06:13:54+00:00'
+    id: 'urn:uuid:d76c5ec5-01c4-5e2e-b837-100f58755b67'
+    link: 'https://pub.dartlang.org/packages/gtag_analytics'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
