@@ -111516,3 +111516,30 @@
     link: 'https://pub.dartlang.org/packages/mqtt_client'
     author:
         - 'Steve Hamblett <steve.hamblett@linux.com>'
+-
+    package_name: source_gen
+    package_version: v0.7.2
+    title: 'v0.7.2 of source_gen'
+    published: '2017-10-09T17:29:13+00:00'
+    id: 'urn:uuid:513e9359-bb12-5be8-a1b4-99d1f8f2c789'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: firebase_auth
+    package_version: v0.2.4
+    title: 'v0.2.4 of firebase_auth'
+    published: '2017-10-09T17:20:48+00:00'
+    id: 'urn:uuid:3a513ab4-7002-5d40-8514-f4a966b2ca31'
+    link: 'https://pub.dartlang.org/packages/firebase_auth'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: angular_modern_charts
+    package_version: v0.0.17
+    title: 'v0.0.17 of angular_modern_charts'
+    published: '2017-10-09T14:18:32+00:00'
+    id: 'urn:uuid:e859c3c6-7d3c-5b6b-9bc9-984bb855d1ce'
+    link: 'https://pub.dartlang.org/packages/angular_modern_charts'
+    author:
+        - 'Dejan Marlovic <dMarlovic83@gmail.com>'
