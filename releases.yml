@@ -111543,3 +111543,39 @@
     link: 'https://pub.dartlang.org/packages/angular_modern_charts'
     author:
         - 'Dejan Marlovic <dMarlovic83@gmail.com>'
+-
+    package_name: pygments
+    package_version: v0.1.2
+    title: 'v0.1.2 of pygments'
+    published: '2017-10-09T21:48:14+00:00'
+    id: 'urn:uuid:ed86bc5e-113b-5eed-acc1-75d524a10f01'
+    link: 'https://pub.dartlang.org/packages/pygments'
+    author:
+        - 'Ryan Gonzalez <rymg19@gmail.com>'
+-
+    package_name: gtag_analytics
+    package_version: v0.1.5
+    title: 'v0.1.5 of gtag_analytics'
+    published: '2017-10-09T21:43:00+00:00'
+    id: 'urn:uuid:e102f15a-0c87-5ddf-a9eb-c4936e4785d4'
+    link: 'https://pub.dartlang.org/packages/gtag_analytics'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: htgen
+    package_version: v0.0.1+1
+    title: 'v0.0.1+1 of htgen'
+    published: '2017-10-09T21:24:11+00:00'
+    id: 'urn:uuid:c8f6c5eb-2e8b-596d-b832-3caeec5214ca'
+    link: 'https://pub.dartlang.org/packages/htgen'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: grinder_php_minify
+    package_version: v1.0.1
+    title: 'v1.0.1 of grinder_php_minify'
+    published: '2017-10-09T21:15:12+00:00'
+    id: 'urn:uuid:9dc97851-4dab-5062-9b36-659108762de3'
+    link: 'https://pub.dartlang.org/packages/grinder_php_minify'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
