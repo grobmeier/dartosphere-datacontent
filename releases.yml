@@ -111460,3 +111460,32 @@
     link: 'https://pub.dartlang.org/packages/angel_route'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: gtag_analytics
+    package_version: v0.1.3
+    title: 'v0.1.3 of gtag_analytics'
+    published: '2017-10-09T05:09:35+00:00'
+    id: 'urn:uuid:d767b706-d441-559d-a00a-15fcaf85f5e0'
+    link: 'https://pub.dartlang.org/packages/gtag_analytics'
+    author:
+        - 'Filip Hracek <filip.hracek@gmail.com>'
+-
+    package_name: firebase_functions_interop
+    package_version: v0.0.4+1
+    title: 'v0.0.4+1 of firebase_functions_interop'
+    published: '2017-10-09T02:23:32+00:00'
+    id: 'urn:uuid:5901e5cf-e41d-57dc-a762-b532c9aad0a0'
+    link: 'https://pub.dartlang.org/packages/firebase_functions_interop'
+    author:
+        - 'Anatoly Pulyaevskiy <anatoly.pulyaevskiy@gmail.com>'
+-
+    package_name: angular_cli
+    package_version: v0.1.2
+    title: 'v0.1.2 of angular_cli'
+    published: '2017-10-09T02:21:13+00:00'
+    id: 'urn:uuid:50926ac9-a2d7-5812-a3c1-23f5ef5c7d78'
+    link: 'https://pub.dartlang.org/packages/angular_cli'
+    author:
+        - 'Tianfei Zhu <tianfei@google.com>'
+        - 'Jing Bian <jingbian@google.com>'
+        - 'Jonah Williams <jonahwilliams@google.com>'
