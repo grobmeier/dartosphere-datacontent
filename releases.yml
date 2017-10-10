@@ -111608,3 +111608,32 @@
         - 'Seth Ladd <sethladd@google.com>'
         - 'Devon Carew <devoncarew@google.com>'
         - 'Kathy Walrath <kathyw@google.com>'
+-
+    package_name: sass_builder
+    package_version: v1.0.1
+    title: 'v1.0.1 of sass_builder'
+    published: '2017-10-10T21:49:48+00:00'
+    id: 'urn:uuid:8e08a479-e449-5c2d-8501-f8cd2438abcd'
+    link: 'https://pub.dartlang.org/packages/sass_builder'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+        - 'Kevin Moore <kevmoo@github.com>'
+        - 'Nicholas Shahan <nshahan@github.com>'
+-
+    package_name: youtube_player_interop
+    package_version: v0.1.0+1
+    title: 'v0.1.0+1 of youtube_player_interop'
+    published: '2017-10-10T20:44:13+00:00'
+    id: 'urn:uuid:1f69110d-533f-5878-919e-7f11a9befb30'
+    link: 'https://pub.dartlang.org/packages/youtube_player_interop'
+    author:
+        - 'rxlabz <dev@rxla.bz>'
+-
+    package_name: chartjs
+    package_version: v0.4.0+1
+    title: 'v0.4.0+1 of chartjs'
+    published: '2017-10-10T20:42:13+00:00'
+    id: 'urn:uuid:24df063f-c984-52da-8258-7b3440421a2b'
+    link: 'https://pub.dartlang.org/packages/chartjs'
+    author:
+        - 'Kevin Moore <kevmoo+github@google.com>'
