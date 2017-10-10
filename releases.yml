@@ -111579,3 +111579,21 @@
     link: 'https://pub.dartlang.org/packages/grinder_php_minify'
     author:
         - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: sqflite
+    package_version: v0.2.3
+    title: 'v0.2.3 of sqflite'
+    published: '2017-10-10T12:19:12+00:00'
+    id: 'urn:uuid:5727e57d-d62a-5f8a-8d81-4d00cd99e158'
+    link: 'https://pub.dartlang.org/packages/sqflite'
+    author:
+        - 'Tekartik <alex@tekartik.com>'
+-
+    package_name: medcorder_audio
+    package_version: v0.0.1
+    title: 'v0.0.1 of medcorder_audio'
+    published: '2017-10-10T10:04:09+00:00'
+    id: 'urn:uuid:5dbc3fcc-6adc-5711-86ff-c2413ed7d15a'
+    link: 'https://pub.dartlang.org/packages/medcorder_audio'
+    author:
+        - 'Dzmirty Kryvalapau <dimmetrius@gmail.com>'
