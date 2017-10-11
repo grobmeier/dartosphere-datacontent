@@ -111682,3 +111682,39 @@
     link: 'https://pub.dartlang.org/packages/youtube_player_interop'
     author:
         - 'rxlabz <dev@rxla.bz>'
+-
+    package_name: firebase_auth
+    package_version: v0.2.5
+    title: 'v0.2.5 of firebase_auth'
+    published: '2017-10-11T17:00:09+00:00'
+    id: 'urn:uuid:3bd426dc-1313-5429-90f1-3748b2a66edf'
+    link: 'https://pub.dartlang.org/packages/firebase_auth'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: stay_points
+    package_version: v0.0.9
+    title: 'v0.0.9 of stay_points'
+    published: '2017-10-11T16:52:14+00:00'
+    id: 'urn:uuid:85b6f394-8a7d-510a-b230-ef47d22c8d01'
+    link: 'https://pub.dartlang.org/packages/stay_points'
+    author:
+        - 'Yeradis P. Barbosa Marrero <yeradis@gmail.com>'
+-
+    package_name: qrcode_reader
+    package_version: v0.3.0
+    title: 'v0.3.0 of qrcode_reader'
+    published: '2017-10-11T16:50:24+00:00'
+    id: 'urn:uuid:019e4018-9972-5581-b78e-6fe547910ba0'
+    link: 'https://pub.dartlang.org/packages/qrcode_reader'
+    author:
+        - 'Matheus Villela <matheusvillela@gmail.com>'
+-
+    package_name: RAL
+    package_version: v1.6.0
+    title: 'v1.6.0 of RAL'
+    published: '2017-10-11T16:21:02+00:00'
+    id: 'urn:uuid:5bccd327-517d-5ce1-ba0c-2f2299d3fd50'
+    link: 'https://pub.dartlang.org/packages/RAL'
+    author:
+        - 'Igor Demyanov<igor.demyanov@gmail.com>'
