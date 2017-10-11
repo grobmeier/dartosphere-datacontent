@@ -111637,3 +111637,21 @@
     link: 'https://pub.dartlang.org/packages/chartjs'
     author:
         - 'Kevin Moore <kevmoo+github@google.com>'
+-
+    package_name: jaguar_cache
+    package_version: v0.2.1
+    title: 'v0.2.1 of jaguar_cache'
+    published: '2017-10-11T01:49:31+00:00'
+    id: 'urn:uuid:ca1bb5f7-5cf1-53fc-9d80-751a51d584ee'
+    link: 'https://pub.dartlang.org/packages/jaguar_cache'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: jaguar_martini
+    package_version: v0.0.1-dev
+    title: 'v0.0.1-dev of jaguar_martini'
+    published: '2017-10-10T22:46:26+00:00'
+    id: 'urn:uuid:9373c4f4-9eed-5f18-9a6f-ca7fcc455335'
+    link: 'https://pub.dartlang.org/packages/jaguar_martini'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
