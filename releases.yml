@@ -111655,3 +111655,12 @@
     link: 'https://pub.dartlang.org/packages/jaguar_martini'
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: open_api
+    package_version: v0.9.1
+    title: 'v0.9.1 of open_api'
+    published: '2017-10-11T03:21:08+00:00'
+    id: 'urn:uuid:0468af6f-1359-5a40-afe9-562a829886d3'
+    link: 'https://pub.dartlang.org/packages/open_api'
+    author:
+        - 'stable|kernel <jobs@stablekernel.com>'
