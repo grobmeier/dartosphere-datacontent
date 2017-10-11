@@ -111664,3 +111664,21 @@
     link: 'https://pub.dartlang.org/packages/open_api'
     author:
         - 'stable|kernel <jobs@stablekernel.com>'
+-
+    package_name: angular_youtube_iframe
+    package_version: v0.1.0
+    title: 'v0.1.0 of angular_youtube_iframe'
+    published: '2017-10-11T12:41:46+00:00'
+    id: 'urn:uuid:d5ce837c-3a1c-52f5-bf25-eb4e3fe0e0c6'
+    link: 'https://pub.dartlang.org/packages/angular_youtube_iframe'
+    author:
+        - 'rxlabz <dev@rxla.bz>'
+-
+    package_name: youtube_player_interop
+    package_version: v0.1.1
+    title: 'v0.1.1 of youtube_player_interop'
+    published: '2017-10-11T12:14:41+00:00'
+    id: 'urn:uuid:a9311f4e-0e5b-55f7-9dee-6b9d43f034ee'
+    link: 'https://pub.dartlang.org/packages/youtube_player_interop'
+    author:
+        - 'rxlabz <dev@rxla.bz>'
