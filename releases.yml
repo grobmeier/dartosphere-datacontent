@@ -111835,3 +111835,48 @@
     link: 'https://pub.dartlang.org/packages/grpc'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: archive
+    package_version: v1.0.32
+    title: 'v1.0.32 of archive'
+    published: '2017-10-12T21:06:41+00:00'
+    id: 'urn:uuid:a34871f1-4c26-5e61-a819-7e8ab9590bab'
+    link: 'https://pub.dartlang.org/packages/archive'
+    author:
+        - 'Brendan Duncan <brendanduncan@gmail.com>'
+-
+    package_name: dacsslide
+    package_version: v0.2.0
+    title: 'v0.2.0 of dacsslide'
+    published: '2017-10-12T20:58:34+00:00'
+    id: 'urn:uuid:b51f1771-8c48-51eb-b674-962087afd047'
+    link: 'https://pub.dartlang.org/packages/dacsslide'
+    author:
+        - 'Valentyn Shybanov <olostan@gmail.com>'
+-
+    package_name: json_validator
+    package_version: v0.0.1
+    title: 'v0.0.1 of json_validator'
+    published: '2017-10-12T20:11:42+00:00'
+    id: 'urn:uuid:a469abbd-8735-5d8e-b30d-a0a7eebf0405'
+    link: 'https://pub.dartlang.org/packages/json_validator'
+    author:
+        - 'ehrt74 <edouardtavinor@gmail.com>'
+-
+    package_name: aqueduct
+    package_version: v2.5.0
+    title: 'v2.5.0 of aqueduct'
+    published: '2017-10-12T19:08:12+00:00'
+    id: 'urn:uuid:fd548897-a712-5d25-8fa7-172c7f5b0ba8'
+    link: 'https://pub.dartlang.org/packages/aqueduct'
+    author:
+        - 'stable|kernel <http://stablekernel.com>'
+-
+    package_name: units
+    package_version: v0.0.1
+    title: 'v0.0.1 of units'
+    published: '2017-10-12T18:30:07+00:00'
+    id: 'urn:uuid:6d0c678a-37fb-5603-8c26-5c6e2a8b2fbd'
+    link: 'https://pub.dartlang.org/packages/units'
+    author:
+        - 'Yeradis P. Barbosa Marrero <yeradis@gmail.com>'
