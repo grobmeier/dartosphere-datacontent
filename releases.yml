@@ -111736,3 +111736,39 @@
     link: 'https://pub.dartlang.org/packages/flutter_blue'
     author:
         - 'Paul DeMarco <paulmdemarco@gmail.com>'
+-
+    package_name: stay_points
+    package_version: v0.10.0
+    title: 'v0.10.0 of stay_points'
+    published: '2017-10-12T05:29:26+00:00'
+    id: 'urn:uuid:70591e2d-855f-516d-b2ba-0d84e26c2eff'
+    link: 'https://pub.dartlang.org/packages/stay_points'
+    author:
+        - 'Yeradis P. Barbosa Marrero <yeradis@gmail.com>'
+-
+    package_name: io
+    package_version: v0.3.0
+    title: 'v0.3.0 of io'
+    published: '2017-10-12T04:32:28+00:00'
+    id: 'urn:uuid:0ea1dc90-df00-514a-9485-85a1ebcb3866'
+    link: 'https://pub.dartlang.org/packages/io'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: body_parser
+    package_version: v1.0.3
+    title: 'v1.0.3 of body_parser'
+    published: '2017-10-12T02:32:20+00:00'
+    id: 'urn:uuid:ce09d4f7-3aaa-5262-9353-8028910db5aa'
+    link: 'https://pub.dartlang.org/packages/body_parser'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: setalpha
+    package_version: v0.8.0
+    title: 'v0.8.0 of setalpha'
+    published: '2017-10-12T02:21:01+00:00'
+    id: 'urn:uuid:46e12380-73b0-5c96-a1e1-59a3bdced51c'
+    link: 'https://pub.dartlang.org/packages/setalpha'
+    author:
+        - 'Richard Ambler <rambler@ibwya.net.com>'
