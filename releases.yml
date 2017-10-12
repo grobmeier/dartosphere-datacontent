@@ -111727,3 +111727,12 @@
     link: 'https://pub.dartlang.org/packages/qrcode_reader'
     author:
         - 'Matheus Villela <matheusvillela@gmail.com>'
+-
+    package_name: flutter_blue
+    package_version: v0.2.3
+    title: 'v0.2.3 of flutter_blue'
+    published: '2017-10-11T23:14:00+00:00'
+    id: 'urn:uuid:dda15f47-14f6-5b06-b7c7-70b9d6097bea'
+    link: 'https://pub.dartlang.org/packages/flutter_blue'
+    author:
+        - 'Paul DeMarco <paulmdemarco@gmail.com>'
