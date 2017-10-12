@@ -111799,3 +111799,30 @@
     link: 'https://pub.dartlang.org/packages/mock_web_server'
     author:
         - 'Miguel Castiblanco <miguel@starcarr.co>'
+-
+    package_name: angular_youtube_iframe
+    package_version: v0.1.2
+    title: 'v0.1.2 of angular_youtube_iframe'
+    published: '2017-10-12T12:31:45+00:00'
+    id: 'urn:uuid:ec1f75c2-d1dc-5330-93d3-9ea27ac0a294'
+    link: 'https://pub.dartlang.org/packages/angular_youtube_iframe'
+    author:
+        - 'rxlabz <dev@rxla.bz>'
+-
+    package_name: youtube_player_interop
+    package_version: v0.1.2
+    title: 'v0.1.2 of youtube_player_interop'
+    published: '2017-10-12T11:40:04+00:00'
+    id: 'urn:uuid:8fd95a70-a35a-51b3-96a8-4deed76ffcc4'
+    link: 'https://pub.dartlang.org/packages/youtube_player_interop'
+    author:
+        - 'rxlabz <dev@rxla.bz>'
+-
+    package_name: spotify
+    package_version: v0.0.4
+    title: 'v0.0.4 of spotify'
+    published: '2017-10-12T11:24:58+00:00'
+    id: 'urn:uuid:3cb0a2ba-41ee-5a58-bec6-347c67b6f5c3'
+    link: 'https://pub.dartlang.org/packages/spotify'
+    author:
+        - 'rinukkusu <rinukkusu@auen.land>'
