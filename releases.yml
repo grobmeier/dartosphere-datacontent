@@ -111772,3 +111772,30 @@
     link: 'https://pub.dartlang.org/packages/setalpha'
     author:
         - 'Richard Ambler <rambler@ibwya.net.com>'
+-
+    package_name: haversine
+    package_version: v1.0.1
+    title: 'v1.0.1 of haversine'
+    published: '2017-10-12T07:27:39+00:00'
+    id: 'urn:uuid:0e9975a6-8a8f-5c21-92a4-db9dd1ac3daf'
+    link: 'https://pub.dartlang.org/packages/haversine'
+    author:
+        - 'Yeradis P. Barbosa Marrero <yeradis@gmail.com>'
+-
+    package_name: great_circle_distance
+    package_version: v1.0.0
+    title: 'v1.0.0 of great_circle_distance'
+    published: '2017-10-12T07:26:34+00:00'
+    id: 'urn:uuid:4163b2d3-3ddf-59bc-9dbf-09c4be14f02a'
+    link: 'https://pub.dartlang.org/packages/great_circle_distance'
+    author:
+        - 'Yeradis P. Barbosa Marrero <yeradis@gmail.com>'
+-
+    package_name: mock_web_server
+    package_version: v1.3.0
+    title: 'v1.3.0 of mock_web_server'
+    published: '2017-10-12T06:50:58+00:00'
+    id: 'urn:uuid:ff7d45e0-4939-5819-83ae-3181e8cd7c22'
+    link: 'https://pub.dartlang.org/packages/mock_web_server'
+    author:
+        - 'Miguel Castiblanco <miguel@starcarr.co>'
