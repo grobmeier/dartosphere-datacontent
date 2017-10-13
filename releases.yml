@@ -111970,3 +111970,30 @@
     link: 'https://pub.dartlang.org/packages/grizzly_scales'
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: image_carousel
+    package_version: v0.1.0
+    title: 'v0.1.0 of image_carousel'
+    published: '2017-10-13T21:32:31+00:00'
+    id: 'urn:uuid:fe8c485d-1ef5-5ee7-ab72-6f5ea9e49c95'
+    link: 'https://pub.dartlang.org/packages/image_carousel'
+    author:
+        - 'Theo Bouwman <theobouwman98@gmail.com>'
+-
+    package_name: grizzly_series
+    package_version: v0.0.6-dev
+    title: 'v0.0.6-dev of grizzly_series'
+    published: '2017-10-13T21:26:17+00:00'
+    id: 'urn:uuid:25216001-0e60-50a2-a3a5-af5780abebbb'
+    link: 'https://pub.dartlang.org/packages/grizzly_series'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: qrcode_reader
+    package_version: v0.3.2
+    title: 'v0.3.2 of qrcode_reader'
+    published: '2017-10-13T18:36:17+00:00'
+    id: 'urn:uuid:17bcdaf8-4aa3-537f-a9d2-097ce484881c'
+    link: 'https://pub.dartlang.org/packages/qrcode_reader'
+    author:
+        - 'Matheus Villela <matheusvillela@gmail.com>'
