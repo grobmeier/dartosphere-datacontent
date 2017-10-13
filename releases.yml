@@ -111925,3 +111925,21 @@
     link: 'https://pub.dartlang.org/packages/built_redux'
     author:
         - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: units
+    package_version: v0.0.3
+    title: 'v0.0.3 of units'
+    published: '2017-10-13T09:25:53+00:00'
+    id: 'urn:uuid:5ff53f6a-eb90-5066-a180-c309b3073f08'
+    link: 'https://pub.dartlang.org/packages/units'
+    author:
+        - 'Yeradis P. Barbosa Marrero <yeradis@gmail.com>'
+-
+    package_name: json_object_lite
+    package_version: v1.0.2
+    title: 'v1.0.2 of json_object_lite'
+    published: '2017-10-13T07:21:53+00:00'
+    id: 'urn:uuid:d923b8f3-fcea-54c8-99b0-7f3d60bacd19'
+    link: 'https://pub.dartlang.org/packages/json_object_lite'
+    author:
+        - 'Steve Hamblett <steve.hamblett@linux.com>'
