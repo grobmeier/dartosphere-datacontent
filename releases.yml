@@ -111943,3 +111943,12 @@
     link: 'https://pub.dartlang.org/packages/json_object_lite'
     author:
         - 'Steve Hamblett <steve.hamblett@linux.com>'
+-
+    package_name: units
+    package_version: v0.0.4
+    title: 'v0.0.4 of units'
+    published: '2017-10-13T13:53:10+00:00'
+    id: 'urn:uuid:d5e260bd-e182-5866-8a2c-4d3fb47d615a'
+    link: 'https://pub.dartlang.org/packages/units'
+    author:
+        - 'Yeradis P. Barbosa Marrero <yeradis@gmail.com>'
