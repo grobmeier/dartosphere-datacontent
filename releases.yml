@@ -111880,3 +111880,12 @@
     link: 'https://pub.dartlang.org/packages/units'
     author:
         - 'Yeradis P. Barbosa Marrero <yeradis@gmail.com>'
+-
+    package_name: http
+    package_version: v0.11.3+16
+    title: 'v0.11.3+16 of http'
+    published: '2017-10-13T01:58:57+00:00'
+    id: 'urn:uuid:820c2e40-af0f-5da8-9a31-ff25655177cc'
+    link: 'https://pub.dartlang.org/packages/http'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
