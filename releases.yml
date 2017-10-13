@@ -111952,3 +111952,21 @@
     link: 'https://pub.dartlang.org/packages/units'
     author:
         - 'Yeradis P. Barbosa Marrero <yeradis@gmail.com>'
+-
+    package_name: grizzly_series
+    package_version: v0.0.4-dev
+    title: 'v0.0.4-dev of grizzly_series'
+    published: '2017-10-13T17:18:39+00:00'
+    id: 'urn:uuid:5c8eb9f5-638d-5cc8-a153-1b2207fbdc4c'
+    link: 'https://pub.dartlang.org/packages/grizzly_series'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: grizzly_scales
+    package_version: v0.0.3-dev
+    title: 'v0.0.3-dev of grizzly_scales'
+    published: '2017-10-13T17:16:35+00:00'
+    id: 'urn:uuid:a118df64-d2d6-5121-b06e-1fca30df77c5'
+    link: 'https://pub.dartlang.org/packages/grizzly_scales'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
