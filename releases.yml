@@ -112060,3 +112060,21 @@
     link: 'https://pub.dartlang.org/packages/spotify'
     author:
         - 'rinukkusu <rinukkusu@auen.land>'
+-
+    package_name: units
+    package_version: v0.0.5
+    title: 'v0.0.5 of units'
+    published: '2017-10-14T14:56:52+00:00'
+    id: 'urn:uuid:5cc7d6f4-35ac-5243-910d-ff5c8f07bdb8'
+    link: 'https://pub.dartlang.org/packages/units'
+    author:
+        - 'Yeradis P. Barbosa Marrero <yeradis@gmail.com>'
+-
+    package_name: json_validator
+    package_version: v0.2.2
+    title: 'v0.2.2 of json_validator'
+    published: '2017-10-14T14:43:17+00:00'
+    id: 'urn:uuid:b244cace-ba65-52cf-88a2-25fa8f9c0a80'
+    link: 'https://pub.dartlang.org/packages/json_validator'
+    author:
+        - 'ehrt74 <edouardtavinor@gmail.com>'
