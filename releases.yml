@@ -112033,3 +112033,12 @@
     link: 'https://pub.dartlang.org/packages/image_carousel'
     author:
         - 'Theo Bouwman <theobouwman98@gmail.com>'
+-
+    package_name: json_validator
+    package_version: v0.2.1
+    title: 'v0.2.1 of json_validator'
+    published: '2017-10-14T07:37:03+00:00'
+    id: 'urn:uuid:7016cabc-13ed-5a1e-b13e-0ad74efef33b'
+    link: 'https://pub.dartlang.org/packages/json_validator'
+    author:
+        - 'ehrt74 <edouardtavinor@gmail.com>'
