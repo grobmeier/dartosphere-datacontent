@@ -112078,3 +112078,12 @@
     link: 'https://pub.dartlang.org/packages/json_validator'
     author:
         - 'ehrt74 <edouardtavinor@gmail.com>'
+-
+    package_name: jaguar_martini
+    package_version: v0.0.2-dev
+    title: 'v0.0.2-dev of jaguar_martini'
+    published: '2017-10-14T20:45:00+00:00'
+    id: 'urn:uuid:9c839be9-0499-50fd-960d-aec8e882cfa9'
+    link: 'https://pub.dartlang.org/packages/jaguar_martini'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
