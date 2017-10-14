@@ -112042,3 +112042,21 @@
     link: 'https://pub.dartlang.org/packages/json_validator'
     author:
         - 'ehrt74 <edouardtavinor@gmail.com>'
+-
+    package_name: mapd
+    package_version: v1.0.0
+    title: 'v1.0.0 of mapd'
+    published: '2017-10-14T12:44:35+00:00'
+    id: 'urn:uuid:55b29e16-425d-5b86-bae3-bb3ab2b2ce90'
+    link: 'https://pub.dartlang.org/packages/mapd'
+    author:
+        - 'Vadim Tsushko <vadimtsushko@gmail.com>'
+-
+    package_name: spotify
+    package_version: v0.0.5
+    title: 'v0.0.5 of spotify'
+    published: '2017-10-14T10:56:36+00:00'
+    id: 'urn:uuid:70ccc567-c64c-5ce5-ba23-2cb020642323'
+    link: 'https://pub.dartlang.org/packages/spotify'
+    author:
+        - 'rinukkusu <rinukkusu@auen.land>'
