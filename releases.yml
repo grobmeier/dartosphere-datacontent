@@ -112195,3 +112195,31 @@
     link: 'https://pub.dartlang.org/packages/image_carousel'
     author:
         - 'Theo Bouwman <theobouwman98@gmail.com>'
+-
+    package_name: jaguar_static_file
+    package_version: v0.5.5
+    title: 'v0.5.5 of jaguar_static_file'
+    published: '2017-10-15T21:44:25+00:00'
+    id: 'urn:uuid:4ddba8d6-55c4-56ca-8997-20c6742eea53'
+    link: 'https://pub.dartlang.org/packages/jaguar_static_file'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_martini
+    package_version: v0.0.3-dev
+    title: 'v0.0.3-dev of jaguar_martini'
+    published: '2017-10-15T21:13:32+00:00'
+    id: 'urn:uuid:28bad686-9b03-54ee-b28c-fa04efe5fb4a'
+    link: 'https://pub.dartlang.org/packages/jaguar_martini'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: mock_web_server
+    package_version: v2.0.0
+    title: 'v2.0.0 of mock_web_server'
+    published: '2017-10-15T20:18:56+00:00'
+    id: 'urn:uuid:c773e48b-97c9-5299-963f-33dbfdaa3a28'
+    link: 'https://pub.dartlang.org/packages/mock_web_server'
+    author:
+        - 'Miguel Castiblanco <miguel@starcarr.co>'
