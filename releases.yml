@@ -112087,3 +112087,12 @@
     link: 'https://pub.dartlang.org/packages/jaguar_martini'
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: expressjs_interop
+    package_version: v0.0.2
+    title: 'v0.0.2 of expressjs_interop'
+    published: '2017-10-15T04:16:49+00:00'
+    id: 'urn:uuid:6c6a87dd-8f49-51fc-b9a6-399653e91f13'
+    link: 'https://pub.dartlang.org/packages/expressjs_interop'
+    author:
+        - 'Anatoly Pulyaevskiy <anatoly.pulyaevskiy@gmail.com>'
