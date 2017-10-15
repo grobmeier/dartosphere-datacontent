@@ -112096,3 +112096,21 @@
     link: 'https://pub.dartlang.org/packages/expressjs_interop'
     author:
         - 'Anatoly Pulyaevskiy <anatoly.pulyaevskiy@gmail.com>'
+-
+    package_name: stencil
+    package_version: v0.0.2
+    title: 'v0.0.2 of stencil'
+    published: '2017-10-15T09:17:21+00:00'
+    id: 'urn:uuid:e616b8b9-ae9b-52d7-9576-972f893b9e1d'
+    link: 'https://pub.dartlang.org/packages/stencil'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: units
+    package_version: v0.0.6
+    title: 'v0.0.6 of units'
+    published: '2017-10-15T06:10:50+00:00'
+    id: 'urn:uuid:45a86fcf-cf19-5317-a621-791a71ee1127'
+    link: 'https://pub.dartlang.org/packages/units'
+    author:
+        - 'Yeradis P. Barbosa Marrero <yeradis@gmail.com>'
