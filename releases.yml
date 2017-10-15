@@ -112132,3 +112132,66 @@
     link: 'https://pub.dartlang.org/packages/spotify'
     author:
         - 'rinukkusu <rinukkusu@auen.land>'
+-
+    package_name: json_validator
+    package_version: v0.3.0
+    title: 'v0.3.0 of json_validator'
+    published: '2017-10-15T17:54:22+00:00'
+    id: 'urn:uuid:783a8c81-9d9d-532f-bd14-01b0d4dcb0d0'
+    link: 'https://pub.dartlang.org/packages/json_validator'
+    author:
+        - 'ehrt74 <edouardtavinor@gmail.com>'
+-
+    package_name: server_client_comm
+    package_version: v0.1.7
+    title: 'v0.1.7 of server_client_comm'
+    published: '2017-10-15T17:21:45+00:00'
+    id: 'urn:uuid:49e09095-140a-51ab-8758-1b96c538b3e4'
+    link: 'https://pub.dartlang.org/packages/server_client_comm'
+    author:
+        - 'Alex Clarke <ajclarke903@gmail.com>'
+-
+    package_name: dart_updater
+    package_version: v0.3.0
+    title: 'v0.3.0 of dart_updater'
+    published: '2017-10-15T17:21:00+00:00'
+    id: 'urn:uuid:cff0e86c-d843-5265-8e4e-7071b0f589ff'
+    link: 'https://pub.dartlang.org/packages/dart_updater'
+    author:
+        - 'Joel Trottier-Hebert (Pacane) <iamquebecois@gmail.com>'
+-
+    package_name: sqflite
+    package_version: v0.2.4
+    title: 'v0.2.4 of sqflite'
+    published: '2017-10-15T16:52:37+00:00'
+    id: 'urn:uuid:4916b16d-a7c1-52c1-8284-bba24cfacbcb'
+    link: 'https://pub.dartlang.org/packages/sqflite'
+    author:
+        - 'Tekartik <alex@tekartik.com>'
+-
+    package_name: synchronized
+    package_version: v1.1.0
+    title: 'v1.1.0 of synchronized'
+    published: '2017-10-15T16:47:46+00:00'
+    id: 'urn:uuid:fc1ac90c-0397-596d-ae50-2bb447f41735'
+    link: 'https://pub.dartlang.org/packages/synchronized'
+    author:
+        - 'Tekartik <dev@tekartik.com>'
+-
+    package_name: youtube_parser
+    package_version: v0.9.2
+    title: 'v0.9.2 of youtube_parser'
+    published: '2017-10-15T16:18:25+00:00'
+    id: 'urn:uuid:0a30c0d4-2d9f-55cb-8870-fca4c59b972f'
+    link: 'https://pub.dartlang.org/packages/youtube_parser'
+    author:
+        - 'rblau <github@blau.bz>'
+-
+    package_name: image_carousel
+    package_version: v0.2.0
+    title: 'v0.2.0 of image_carousel'
+    published: '2017-10-15T14:30:52+00:00'
+    id: 'urn:uuid:bbb5e771-f77d-5951-a007-4c52bcbef738'
+    link: 'https://pub.dartlang.org/packages/image_carousel'
+    author:
+        - 'Theo Bouwman <theobouwman98@gmail.com>'
