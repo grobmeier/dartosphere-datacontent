@@ -112114,3 +112114,21 @@
     link: 'https://pub.dartlang.org/packages/units'
     author:
         - 'Yeradis P. Barbosa Marrero <yeradis@gmail.com>'
+-
+    package_name: location
+    package_version: v1.1.5
+    title: 'v1.1.5 of location'
+    published: '2017-10-15T10:57:56+00:00'
+    id: 'urn:uuid:03cbc526-9e69-593b-b7e5-7549702e2ccf'
+    link: 'https://pub.dartlang.org/packages/location'
+    author:
+        - 'Guillaume Bernos'
+-
+    package_name: spotify
+    package_version: v0.0.6
+    title: 'v0.0.6 of spotify'
+    published: '2017-10-15T10:08:25+00:00'
+    id: 'urn:uuid:04f05d90-7e83-5ad3-9da4-4c8f40c70a76'
+    link: 'https://pub.dartlang.org/packages/spotify'
+    author:
+        - 'rinukkusu <rinukkusu@auen.land>'
