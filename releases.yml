@@ -112250,3 +112250,21 @@
     link: 'https://pub.dartlang.org/packages/rethinkdb_driver'
     author:
         - 'William Welch <billywelch@gmail.com>'
+-
+    package_name: octal_clock
+    package_version: v0.0.2
+    title: 'v0.0.2 of octal_clock'
+    published: '2017-10-16T04:51:18+00:00'
+    id: 'urn:uuid:95efcc34-9c07-5de3-8506-6767dd2eba4e'
+    link: 'https://pub.dartlang.org/packages/octal_clock'
+    author:
+        - 'Brian Armstrong <brian@flutter.institute>'
+-
+    package_name: dawo
+    package_version: v0.0.4
+    title: 'v0.0.4 of dawo'
+    published: '2017-10-16T03:47:19+00:00'
+    id: 'urn:uuid:ce0c57c1-5f09-588f-8110-3a25aa40688d'
+    link: 'https://pub.dartlang.org/packages/dawo'
+    author:
+        - 'Heikki K Lappalainen <heikkiklappalainen@gmail.com.com>'
