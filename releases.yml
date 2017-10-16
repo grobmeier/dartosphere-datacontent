@@ -112340,3 +112340,21 @@
     link: 'https://pub.dartlang.org/packages/angel_oauth2'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: jaguar_martini
+    package_version: v0.0.5-dev
+    title: 'v0.0.5-dev of jaguar_martini'
+    published: '2017-10-16T21:08:43+00:00'
+    id: 'urn:uuid:dc5e33c4-bfd5-519d-83c5-9986e7a9cfb9'
+    link: 'https://pub.dartlang.org/packages/jaguar_martini'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: jael
+    package_version: v1.0.0-beta+1
+    title: 'v1.0.0-beta+1 of jael'
+    published: '2017-10-16T21:01:25+00:00'
+    id: 'urn:uuid:d30c29e6-dc3a-5942-bb78-d318652f7a14'
+    link: 'https://pub.dartlang.org/packages/jael'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
