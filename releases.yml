@@ -112430,3 +112430,67 @@
     link: 'https://pub.dartlang.org/packages/sembast'
     author:
         - 'Alexandre Roux Tekartik <alex.tekartik.pub@gmail.com>'
+-
+    package_name: state_city_population
+    package_version: v0.0.2
+    title: 'v0.0.2 of state_city_population'
+    published: '2017-10-17T16:33:10+00:00'
+    id: 'urn:uuid:67f7eede-0929-5db5-b5be-2d2be48e329c'
+    link: 'https://pub.dartlang.org/packages/state_city_population'
+    author:
+        - 'Emerson Moura <olimou@gmail.com>'
+-
+    package_name: json_validator
+    package_version: v0.4.0
+    title: 'v0.4.0 of json_validator'
+    published: '2017-10-17T16:11:42+00:00'
+    id: 'urn:uuid:453bf5ff-d0cc-5f4f-8fb6-18a09cd2b31a'
+    link: 'https://pub.dartlang.org/packages/json_validator'
+    author:
+        - 'ehrt74 <edouardtavinor@gmail.com>'
+-
+    package_name: built_value_test
+    package_version: v4.2.1
+    title: 'v4.2.1 of built_value_test'
+    published: '2017-10-17T15:37:40+00:00'
+    id: 'urn:uuid:10a8f84f-bd03-5b27-bfca-76afab8ec225'
+    link: 'https://pub.dartlang.org/packages/built_value_test'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value_generator
+    package_version: v4.2.1
+    title: 'v4.2.1 of built_value_generator'
+    published: '2017-10-17T15:37:20+00:00'
+    id: 'urn:uuid:d6a31e30-31c0-5185-955c-755962a4c0a6'
+    link: 'https://pub.dartlang.org/packages/built_value_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value
+    package_version: v4.2.1
+    title: 'v4.2.1 of built_value'
+    published: '2017-10-17T15:37:03+00:00'
+    id: 'urn:uuid:0f523ccc-c7a8-571b-b75b-06deb0416707'
+    link: 'https://pub.dartlang.org/packages/built_value'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_collection
+    package_version: v1.6.0
+    title: 'v1.6.0 of built_collection'
+    published: '2017-10-17T15:26:36+00:00'
+    id: 'urn:uuid:235490c5-ca4c-5a32-a4f6-8b53b0577c52'
+    link: 'https://pub.dartlang.org/packages/built_collection'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+        - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: discoveryapis_generator
+    package_version: v0.9.2
+    title: 'v0.9.2 of discoveryapis_generator'
+    published: '2017-10-17T14:59:16+00:00'
+    id: 'urn:uuid:eaf7f0fb-88d6-5887-9793-9df86f083c6c'
+    link: 'https://pub.dartlang.org/packages/discoveryapis_generator'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
