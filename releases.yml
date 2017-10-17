@@ -112385,3 +112385,30 @@
     link: 'https://pub.dartlang.org/packages/dacsslide'
     author:
         - 'Valentyn Shybanov <olostan@gmail.com>'
+-
+    package_name: jael
+    package_version: v1.0.0-beta+3
+    title: 'v1.0.0-beta+3 of jael'
+    published: '2017-10-17T05:14:38+00:00'
+    id: 'urn:uuid:893c888d-18d2-59b7-810c-5340084d9b1a'
+    link: 'https://pub.dartlang.org/packages/jael'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: wilddog_sync
+    package_version: v0.0.1
+    title: 'v0.0.1 of wilddog_sync'
+    published: '2017-10-17T04:59:45+00:00'
+    id: 'urn:uuid:e28879f9-3d2b-5219-9bca-dfde0c795d1c'
+    link: 'https://pub.dartlang.org/packages/wilddog_sync'
+    author:
+        - 'Hekaiyou <hekaiyou@qq.com>'
+-
+    package_name: firestore_interop
+    package_version: v0.0.1
+    title: 'v0.0.1 of firestore_interop'
+    published: '2017-10-17T03:35:02+00:00'
+    id: 'urn:uuid:b0647351-5d7b-5efa-8efd-950cb7d022bf'
+    link: 'https://pub.dartlang.org/packages/firestore_interop'
+    author:
+        - 'Anatoly Pulyaevskiy <anatoly.pulyaevskiy@gmail.com>'
