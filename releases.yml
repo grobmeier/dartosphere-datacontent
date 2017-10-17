@@ -112358,3 +112358,30 @@
     link: 'https://pub.dartlang.org/packages/jael'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_jael
+    package_version: v1.0.0-alpha+2
+    title: 'v1.0.0-alpha+2 of angel_jael'
+    published: '2017-10-16T23:20:18+00:00'
+    id: 'urn:uuid:9bbae883-1c41-5066-8d1b-5c773103f252'
+    link: 'https://pub.dartlang.org/packages/angel_jael'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: jael
+    package_version: v1.0.0-beta+2
+    title: 'v1.0.0-beta+2 of jael'
+    published: '2017-10-16T22:48:51+00:00'
+    id: 'urn:uuid:9c552605-2afd-594d-9d9f-38d38d6c6fe6'
+    link: 'https://pub.dartlang.org/packages/jael'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: dacsslide
+    package_version: v0.2.1
+    title: 'v0.2.1 of dacsslide'
+    published: '2017-10-16T22:42:15+00:00'
+    id: 'urn:uuid:76875eda-4c21-53d4-9afc-970ababc6e38'
+    link: 'https://pub.dartlang.org/packages/dacsslide'
+    author:
+        - 'Valentyn Shybanov <olostan@gmail.com>'
