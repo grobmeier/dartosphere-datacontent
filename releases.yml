@@ -112530,3 +112530,75 @@
     link: 'https://pub.dartlang.org/packages/test_descriptor'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: google_sign_in
+    package_version: v1.0.1
+    title: 'v1.0.1 of google_sign_in'
+    published: '2017-10-17T23:38:44+00:00'
+    id: 'urn:uuid:73e914f6-34b6-57a9-9852-1588aa8b96ad'
+    link: 'https://pub.dartlang.org/packages/google_sign_in'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: firebase_storage
+    package_version: v0.0.7
+    title: 'v0.0.7 of firebase_storage'
+    published: '2017-10-17T23:38:22+00:00'
+    id: 'urn:uuid:5c86b948-9467-577a-96ae-b030a4fdda2c'
+    link: 'https://pub.dartlang.org/packages/firebase_storage'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: firebase_messaging
+    package_version: v0.0.6
+    title: 'v0.0.6 of firebase_messaging'
+    published: '2017-10-17T23:38:12+00:00'
+    id: 'urn:uuid:6c60533c-01b5-5615-8dcd-7c9fb1d1fead'
+    link: 'https://pub.dartlang.org/packages/firebase_messaging'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: firebase_database
+    package_version: v0.1.2
+    title: 'v0.1.2 of firebase_database'
+    published: '2017-10-17T23:38:00+00:00'
+    id: 'urn:uuid:f7f22f37-b429-545b-9b8f-194ba03da1e8'
+    link: 'https://pub.dartlang.org/packages/firebase_database'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: firebase_auth
+    package_version: v0.3.1
+    title: 'v0.3.1 of firebase_auth'
+    published: '2017-10-17T23:37:47+00:00'
+    id: 'urn:uuid:c39ffa50-434d-5c1b-b5ba-517d1500c27f'
+    link: 'https://pub.dartlang.org/packages/firebase_auth'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: firebase_analytics
+    package_version: v0.1.1
+    title: 'v0.1.1 of firebase_analytics'
+    published: '2017-10-17T23:37:38+00:00'
+    id: 'urn:uuid:a98a39bd-2c44-596b-875f-9d655b8d0704'
+    link: 'https://pub.dartlang.org/packages/firebase_analytics'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: firebase_admob
+    package_version: v0.0.2
+    title: 'v0.0.2 of firebase_admob'
+    published: '2017-10-17T23:37:14+00:00'
+    id: 'urn:uuid:7512d975-e183-547b-bea0-2ab86aa3e04e'
+    link: 'https://pub.dartlang.org/packages/firebase_admob'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: ngx_core
+    package_version: v0.1.0
+    title: 'v0.1.0 of ngx_core'
+    published: '2017-10-17T23:14:07+00:00'
+    id: 'urn:uuid:66ef6d88-d9fb-5759-a3d7-42ef38abe2c5'
+    link: 'https://pub.dartlang.org/packages/ngx_core'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
