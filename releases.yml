@@ -112602,3 +112602,12 @@
     link: 'https://pub.dartlang.org/packages/ngx_core'
     author:
         - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: wilddog_sync
+    package_version: v0.0.2
+    title: 'v0.0.2 of wilddog_sync'
+    published: '2017-10-18T10:27:21+00:00'
+    id: 'urn:uuid:44aab9d6-456b-5561-b65d-b6c7529b7060'
+    link: 'https://pub.dartlang.org/packages/wilddog_sync'
+    author:
+        - 'Hekaiyou <hekaiyou@qq.com>'
