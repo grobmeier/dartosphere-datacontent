@@ -112611,3 +112611,26 @@
     link: 'https://pub.dartlang.org/packages/wilddog_sync'
     author:
         - 'Hekaiyou <hekaiyou@qq.com>'
+-
+    package_name: dart_dev
+    package_version: v1.8.1
+    title: 'v1.8.1 of dart_dev'
+    published: '2017-10-18T19:44:07+00:00'
+    id: 'urn:uuid:63fef0d8-bc3a-5702-804d-b27c43c6b35e'
+    link: 'https://pub.dartlang.org/packages/dart_dev'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: over_react
+    package_version: v1.18.1
+    title: 'v1.18.1 of over_react'
+    published: '2017-10-18T18:26:09+00:00'
+    id: 'urn:uuid:a8552ef9-5611-571d-b385-80d10df17b0f'
+    link: 'https://pub.dartlang.org/packages/over_react'
+    author:
+        - 'Workiva UI Platform Team <uip@workiva.com>'
