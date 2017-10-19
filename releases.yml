@@ -112726,3 +112726,39 @@
         - 'Seth Ladd <sethladd@google.com>'
         - 'Devon Carew <devoncarew@google.com>'
         - 'Kathy Walrath <kathyw@google.com>'
+-
+    package_name: flutterdux
+    package_version: v0.0.1
+    title: 'v0.0.1 of flutterdux'
+    published: '2017-10-19T20:54:38+00:00'
+    id: 'urn:uuid:cb246639-ded1-5d51-9d83-9685ebc45fa5'
+    link: 'https://pub.dartlang.org/packages/flutterdux'
+    author:
+        - 'Paul DeMarco <paulmdemarco@gmail.com>'
+-
+    package_name: grizzly_series
+    package_version: v0.0.8-dev
+    title: 'v0.0.8-dev of grizzly_series'
+    published: '2017-10-19T19:16:37+00:00'
+    id: 'urn:uuid:70bf0cd8-4fab-571c-ac8a-07cdef63fdc1'
+    link: 'https://pub.dartlang.org/packages/grizzly_series'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: intl
+    package_version: v0.15.2
+    title: 'v0.15.2 of intl'
+    published: '2017-10-19T18:42:29+00:00'
+    id: 'urn:uuid:d86f8ddd-01d4-56e4-b7b0-d416cc39b236'
+    link: 'https://pub.dartlang.org/packages/intl'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: intl_translation
+    package_version: v0.16.0
+    title: 'v0.16.0 of intl_translation'
+    published: '2017-10-19T18:41:59+00:00'
+    id: 'urn:uuid:7dd803f5-3e6f-5c37-875b-7548c0648bb2'
+    link: 'https://pub.dartlang.org/packages/intl_translation'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
