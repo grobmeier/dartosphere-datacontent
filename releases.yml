@@ -112643,3 +112643,48 @@
     link: 'https://pub.dartlang.org/packages/shelf_static'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: cupertino_segment_control
+    package_version: v0.0.2
+    title: 'v0.0.2 of cupertino_segment_control'
+    published: '2017-10-19T09:37:09+00:00'
+    id: 'urn:uuid:41ef7126-0cbe-5438-929b-793f6713071d'
+    link: 'https://pub.dartlang.org/packages/cupertino_segment_control'
+    author:
+        - 'Theo Bouwman <theobouwman98@gmail.com>'
+-
+    package_name: d_components
+    package_version: v0.0.22
+    title: 'v0.0.22 of d_components'
+    published: '2017-10-19T09:28:53+00:00'
+    id: 'urn:uuid:9d5b2e8e-f921-53e8-aa9c-4f69d4cee810'
+    link: 'https://pub.dartlang.org/packages/d_components'
+    author:
+        - 'Dejan Marlovic <dmarlovic83@gmail.com>'
+-
+    package_name: grizzly_regress
+    package_version: v0.0.1-dev
+    title: 'v0.0.1-dev of grizzly_regress'
+    published: '2017-10-19T09:26:57+00:00'
+    id: 'urn:uuid:4012c066-ef6b-5ac2-b7e2-8471bd214f98'
+    link: 'https://pub.dartlang.org/packages/grizzly_regress'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: angular_modern_charts
+    package_version: v0.0.18
+    title: 'v0.0.18 of angular_modern_charts'
+    published: '2017-10-19T09:20:44+00:00'
+    id: 'urn:uuid:94947f63-7da7-5805-b25b-6d734c7b9325'
+    link: 'https://pub.dartlang.org/packages/angular_modern_charts'
+    author:
+        - 'Dejan Marlovic <dMarlovic83@gmail.com>'
+-
+    package_name: grizzly_series
+    package_version: v0.0.7-dev
+    title: 'v0.0.7-dev of grizzly_series'
+    published: '2017-10-19T09:18:10+00:00'
+    id: 'urn:uuid:5a303112-a6d2-5e72-880c-f4e08cf5f6f6'
+    link: 'https://pub.dartlang.org/packages/grizzly_series'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
