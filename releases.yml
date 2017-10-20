@@ -112807,3 +112807,12 @@
     link: 'https://pub.dartlang.org/packages/csharp_parser'
     author:
         - 'Tomasz Kubacki <Tomasz.kubacki@gmail.com>'
+-
+    package_name: angel_cli
+    package_version: v1.2.0+4
+    title: 'v1.2.0+4 of angel_cli'
+    published: '2017-10-20T06:31:29+00:00'
+    id: 'urn:uuid:b88e56c1-0e10-55f8-a58c-7e932411e850'
+    link: 'https://pub.dartlang.org/packages/angel_cli'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
