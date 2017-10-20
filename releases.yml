@@ -112825,3 +112825,30 @@
     link: 'https://pub.dartlang.org/packages/angular_grecaptcha'
     author:
         - 'Aleksey Danilevskiy <alexey.danilevsky@gmail.com>'
+-
+    package_name: mono_repo
+    package_version: v0.1.0
+    title: 'v0.1.0 of mono_repo'
+    published: '2017-10-20T17:56:28+00:00'
+    id: 'urn:uuid:68ac0f86-6d56-5a24-8301-a22791b316ae'
+    link: 'https://pub.dartlang.org/packages/mono_repo'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angel_cli
+    package_version: v1.2.0+5
+    title: 'v1.2.0+5 of angel_cli'
+    published: '2017-10-20T14:32:08+00:00'
+    id: 'urn:uuid:8dfdfc2a-ad65-54a6-9648-ae4b0c879486'
+    link: 'https://pub.dartlang.org/packages/angel_cli'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: l10n
+    package_version: v1.1.1
+    title: 'v1.1.1 of l10n'
+    published: '2017-10-20T14:14:17+00:00'
+    id: 'urn:uuid:cbeea9db-a834-5afc-ba6a-c6221e367267'
+    link: 'https://pub.dartlang.org/packages/l10n'
+    author:
+        - 'Mike Mitterer  <office@mikemitterer.at>'
