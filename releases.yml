@@ -112762,3 +112762,30 @@
     link: 'https://pub.dartlang.org/packages/intl_translation'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angel_cli
+    package_version: v1.2.0+2
+    title: 'v1.2.0+2 of angel_cli'
+    published: '2017-10-20T01:17:53+00:00'
+    id: 'urn:uuid:4528d951-a30f-53e7-8419-e9b9b27da1b1'
+    link: 'https://pub.dartlang.org/packages/angel_cli'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: test
+    package_version: v0.12.25
+    title: 'v0.12.25 of test'
+    published: '2017-10-19T22:42:15+00:00'
+    id: 'urn:uuid:0b154ae0-bd19-5ff7-a93b-6a93739dbce9'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: args
+    package_version: v1.0.2
+    title: 'v1.0.2 of args'
+    published: '2017-10-19T22:01:29+00:00'
+    id: 'urn:uuid:09422fbd-2816-56e6-ab0a-309313bafcc4'
+    link: 'https://pub.dartlang.org/packages/args'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
