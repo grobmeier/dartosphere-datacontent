@@ -112852,3 +112852,30 @@
     link: 'https://pub.dartlang.org/packages/l10n'
     author:
         - 'Mike Mitterer  <office@mikemitterer.at>'
+-
+    package_name: grizzly_series
+    package_version: v0.0.9-dev
+    title: 'v0.0.9-dev of grizzly_series'
+    published: '2017-10-20T21:32:18+00:00'
+    id: 'urn:uuid:9ff7f002-80cc-5c0a-846f-0db1e37f5b5f'
+    link: 'https://pub.dartlang.org/packages/grizzly_series'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: device_info
+    package_version: v0.0.2
+    title: 'v0.0.2 of device_info'
+    published: '2017-10-20T18:17:02+00:00'
+    id: 'urn:uuid:1332d6ed-4860-5f0a-aeb9-593f951bcdd1'
+    link: 'https://pub.dartlang.org/packages/device_info'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: firebase_messaging
+    package_version: v0.0.7
+    title: 'v0.0.7 of firebase_messaging'
+    published: '2017-10-20T18:15:56+00:00'
+    id: 'urn:uuid:975089bd-8559-58fd-b93f-3cff30a1a04a'
+    link: 'https://pub.dartlang.org/packages/firebase_messaging'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
