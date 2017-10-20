@@ -112789,3 +112789,21 @@
     link: 'https://pub.dartlang.org/packages/args'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: octal_clock
+    package_version: v0.0.4
+    title: 'v0.0.4 of octal_clock'
+    published: '2017-10-20T05:27:46+00:00'
+    id: 'urn:uuid:4ea502fa-5c3b-5f4f-8637-6abc2147ae16'
+    link: 'https://pub.dartlang.org/packages/octal_clock'
+    author:
+        - 'Brian Armstrong <brian@flutter.institute>'
+-
+    package_name: csharp_parser
+    package_version: v0.0.4
+    title: 'v0.0.4 of csharp_parser'
+    published: '2017-10-20T05:14:04+00:00'
+    id: 'urn:uuid:8aa8aa98-b15d-5af6-8865-01927caad027'
+    link: 'https://pub.dartlang.org/packages/csharp_parser'
+    author:
+        - 'Tomasz Kubacki <Tomasz.kubacki@gmail.com>'
