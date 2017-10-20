@@ -112816,3 +112816,12 @@
     link: 'https://pub.dartlang.org/packages/angel_cli'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angular_grecaptcha
+    package_version: v0.0.1
+    title: 'v0.0.1 of angular_grecaptcha'
+    published: '2017-10-20T10:43:43+00:00'
+    id: 'urn:uuid:3bda7d00-957a-5bc4-8136-c85dc30e6da1'
+    link: 'https://pub.dartlang.org/packages/angular_grecaptcha'
+    author:
+        - 'Aleksey Danilevskiy <alexey.danilevsky@gmail.com>'
