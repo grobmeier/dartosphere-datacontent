@@ -112915,3 +112915,30 @@
     link: 'https://pub.dartlang.org/packages/octal_clock'
     author:
         - 'Brian Armstrong <brian@flutter.institute>'
+-
+    package_name: befuddle
+    package_version: v0.1.0
+    title: 'v0.1.0 of befuddle'
+    published: '2017-10-21T05:29:39+00:00'
+    id: 'urn:uuid:276ca1c6-968e-52d8-89e6-ead3aa88d40f'
+    link: 'https://pub.dartlang.org/packages/befuddle'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: cable_stackdriver
+    package_version: v0.1.0
+    title: 'v0.1.0 of cable_stackdriver'
+    published: '2017-10-21T03:22:08+00:00'
+    id: 'urn:uuid:411775b7-0554-505c-9869-6374ed8ba5ae'
+    link: 'https://pub.dartlang.org/packages/cable_stackdriver'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: cable
+    package_version: v0.1.0+1
+    title: 'v0.1.0+1 of cable'
+    published: '2017-10-21T02:34:32+00:00'
+    id: 'urn:uuid:3d3db7bb-8d04-58e5-a0a8-d72d86436067'
+    link: 'https://pub.dartlang.org/packages/cable'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
