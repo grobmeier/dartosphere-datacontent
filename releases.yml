@@ -113023,3 +113023,30 @@
     link: 'https://pub.dartlang.org/packages/dartz'
     author:
         - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: stack_trace_codec
+    package_version: v0.1.0
+    title: 'v0.1.0 of stack_trace_codec'
+    published: '2017-10-21T21:39:05+00:00'
+    id: 'urn:uuid:45dd2e3f-2c2f-59a8-a740-e9dd49b21888'
+    link: 'https://pub.dartlang.org/packages/stack_trace_codec'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: angel_migration_runner
+    package_version: v1.0.0-alpha+5
+    title: 'v1.0.0-alpha+5 of angel_migration_runner'
+    published: '2017-10-21T20:26:18+00:00'
+    id: 'urn:uuid:1ab2494e-c54c-5794-b26c-ecd4eba4bee1'
+    link: 'https://pub.dartlang.org/packages/angel_migration_runner'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_migration
+    package_version: v1.0.0-alpha+1
+    title: 'v1.0.0-alpha+1 of angel_migration'
+    published: '2017-10-21T20:24:53+00:00'
+    id: 'urn:uuid:71f03a14-3cfd-5a5c-a630-95c4634f7c64'
+    link: 'https://pub.dartlang.org/packages/angel_migration'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
