@@ -112960,3 +112960,57 @@
     link: 'https://pub.dartlang.org/packages/wilddog_sync'
     author:
         - 'Hekaiyou <hekaiyou@qq.com>'
+-
+    package_name: ngx_core
+    package_version: v0.2.0
+    title: 'v0.2.0 of ngx_core'
+    published: '2017-10-21T14:00:04+00:00'
+    id: 'urn:uuid:faeb3cef-f4c8-59ad-937e-67ea5eb5640e'
+    link: 'https://pub.dartlang.org/packages/ngx_core'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: lab_rat_wp_api
+    package_version: v1.1.21
+    title: 'v1.1.21 of lab_rat_wp_api'
+    published: '2017-10-21T13:36:26+00:00'
+    id: 'urn:uuid:295054a3-9276-5588-9fa5-b2737ed7c939'
+    link: 'https://pub.dartlang.org/packages/lab_rat_wp_api'
+    author:
+        - 'Laboratory Rat <Oleg.Timofeev20@gmail.com>'
+-
+    package_name: grizzly_regress
+    package_version: v0.0.2-dev
+    title: 'v0.0.2-dev of grizzly_regress'
+    published: '2017-10-21T11:31:42+00:00'
+    id: 'urn:uuid:6f3f80b5-a387-5f5c-8f05-582f24fa76b7'
+    link: 'https://pub.dartlang.org/packages/grizzly_regress'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: grizzly_linalg
+    package_version: v0.0.1-dev
+    title: 'v0.0.1-dev of grizzly_linalg'
+    published: '2017-10-21T11:25:55+00:00'
+    id: 'urn:uuid:115bf3c4-f0cc-5188-976f-4462df4de7e1'
+    link: 'https://pub.dartlang.org/packages/grizzly_linalg'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: mock_web_server
+    package_version: v2.1.0
+    title: 'v2.1.0 of mock_web_server'
+    published: '2017-10-21T11:22:24+00:00'
+    id: 'urn:uuid:39f0b6fb-855f-5518-b66c-8abd324fcad1'
+    link: 'https://pub.dartlang.org/packages/mock_web_server'
+    author:
+        - 'Miguel Castiblanco <miguel@starcarr.co>'
+-
+    package_name: grizzly_series
+    package_version: v0.0.10-dev
+    title: 'v0.0.10-dev of grizzly_series'
+    published: '2017-10-21T10:57:50+00:00'
+    id: 'urn:uuid:5980cbd9-9057-5ac6-b9ce-42f7b3069114'
+    link: 'https://pub.dartlang.org/packages/grizzly_series'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
