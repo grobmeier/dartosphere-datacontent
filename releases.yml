@@ -112942,3 +112942,21 @@
     link: 'https://pub.dartlang.org/packages/cable'
     author:
         - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: din
+    package_version: v0.1.0-alpha+7
+    title: 'v0.1.0-alpha+7 of din'
+    published: '2017-10-21T07:16:38+00:00'
+    id: 'urn:uuid:379579b7-fa8f-5df0-bf36-1525719e8065'
+    link: 'https://pub.dartlang.org/packages/din'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: wilddog_sync
+    package_version: v0.0.3
+    title: 'v0.0.3 of wilddog_sync'
+    published: '2017-10-21T06:46:26+00:00'
+    id: 'urn:uuid:4513a319-1705-50ec-8efc-30a6ffa5e95b'
+    link: 'https://pub.dartlang.org/packages/wilddog_sync'
+    author:
+        - 'Hekaiyou <hekaiyou@qq.com>'
