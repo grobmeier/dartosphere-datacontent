@@ -113086,3 +113086,21 @@
     link: 'https://pub.dartlang.org/packages/json_validator'
     author:
         - 'ehrt74 <edouardtavinor@gmail.com>'
+-
+    package_name: calendar
+    package_version: v0.0.3
+    title: 'v0.0.3 of calendar'
+    published: '2017-10-22T16:37:35+00:00'
+    id: 'urn:uuid:dcfaa285-48f0-5351-86e9-31fd29b2200b'
+    link: 'https://pub.dartlang.org/packages/calendar'
+    author:
+        - 'Theo Bouwman <theobouwman98@gmail.com>'
+-
+    package_name: flame
+    package_version: v0.3.0
+    title: 'v0.3.0 of flame'
+    published: '2017-10-22T16:01:12+00:00'
+    id: 'urn:uuid:6c04d0a0-9ec5-59b3-8659-6c32674fed7b'
+    link: 'https://pub.dartlang.org/packages/flame'
+    author:
+        - 'Luan Nico <luannico27@gmail.com>'
