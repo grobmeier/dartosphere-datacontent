@@ -113104,3 +113104,66 @@
     link: 'https://pub.dartlang.org/packages/flame'
     author:
         - 'Luan Nico <luannico27@gmail.com>'
+-
+    package_name: audioplayers
+    package_version: v0.2.0
+    title: 'v0.2.0 of audioplayers'
+    published: '2017-10-22T21:23:01+00:00'
+    id: 'urn:uuid:029705d6-afdf-57aa-b5c6-8c720ac0b681'
+    link: 'https://pub.dartlang.org/packages/audioplayers'
+    author:
+        - 'Luan Nico <luannico27@gmail.com>'
+-
+    package_name: flutter_built_redux
+    package_version: v0.3.0
+    title: 'v0.3.0 of flutter_built_redux'
+    published: '2017-10-22T19:41:28+00:00'
+    id: 'urn:uuid:acbc0130-af2d-59c7-abaf-a473a742d832'
+    link: 'https://pub.dartlang.org/packages/flutter_built_redux'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: grizzly_series
+    package_version: v0.0.13-dev
+    title: 'v0.0.13-dev of grizzly_series'
+    published: '2017-10-22T19:41:21+00:00'
+    id: 'urn:uuid:8d462eb2-49f7-5a7a-b031-4fd3a192a0e5'
+    link: 'https://pub.dartlang.org/packages/grizzly_series'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: flutter_iap
+    package_version: v1.0.0
+    title: 'v1.0.0 of flutter_iap'
+    published: '2017-10-22T19:27:49+00:00'
+    id: 'urn:uuid:83c59778-e4d9-53f0-bf88-8f59aaf94775'
+    link: 'https://pub.dartlang.org/packages/flutter_iap'
+    author:
+        - 'Jack ODonnell <jackappdevinc@gmail.com>'
+-
+    package_name: built_redux_thunk
+    package_version: v0.4.0
+    title: 'v0.4.0 of built_redux_thunk'
+    published: '2017-10-22T19:12:34+00:00'
+    id: 'urn:uuid:922d3f76-5fec-557d-b919-96d1674b2345'
+    link: 'https://pub.dartlang.org/packages/built_redux_thunk'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: built_redux_repatch
+    package_version: v0.3.0
+    title: 'v0.3.0 of built_redux_repatch'
+    published: '2017-10-22T19:10:29+00:00'
+    id: 'urn:uuid:062d6da8-8264-553b-a859-74ceb6582bb0'
+    link: 'https://pub.dartlang.org/packages/built_redux_repatch'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: built_redux
+    package_version: v7.0.0
+    title: 'v7.0.0 of built_redux'
+    published: '2017-10-22T18:48:13+00:00'
+    id: 'urn:uuid:b688eed5-c511-5628-bf44-8501184e1833'
+    link: 'https://pub.dartlang.org/packages/built_redux'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
