@@ -113176,3 +113176,30 @@
     link: 'https://pub.dartlang.org/packages/flame'
     author:
         - 'Luan Nico <luannico27@gmail.com>'
+-
+    package_name: audioplayer
+    package_version: v0.3.0
+    title: 'v0.3.0 of audioplayer'
+    published: '2017-10-23T09:47:17+00:00'
+    id: 'urn:uuid:e2c76ea0-252b-566f-a431-a7bd1e08bfe4'
+    link: 'https://pub.dartlang.org/packages/audioplayer'
+    author:
+        - 'Erick Ghaumez <erick@rxla.bz>'
+-
+    package_name: googleapis_beta
+    package_version: v0.40.1
+    title: 'v0.40.1 of googleapis_beta'
+    published: '2017-10-23T09:34:42+00:00'
+    id: 'urn:uuid:092df4ab-cde1-5856-ad7c-a747fb7ee9b7'
+    link: 'https://pub.dartlang.org/packages/googleapis_beta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: googleapis
+    package_version: v0.46.0
+    title: 'v0.46.0 of googleapis'
+    published: '2017-10-23T09:34:35+00:00'
+    id: 'urn:uuid:1d4670c4-bf8e-50a9-8db5-20eae6ba790f'
+    link: 'https://pub.dartlang.org/packages/googleapis'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
