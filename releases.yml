@@ -113212,3 +113212,30 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: grizzly_linalg
+    package_version: v0.0.2-dev
+    title: 'v0.0.2-dev of grizzly_linalg'
+    published: '2017-10-23T20:18:59+00:00'
+    id: 'urn:uuid:25103a63-ca8a-5686-a7d5-c987ebacf4b8'
+    link: 'https://pub.dartlang.org/packages/grizzly_linalg'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: timeago
+    package_version: v1.2.0
+    title: 'v1.2.0 of timeago'
+    published: '2017-10-23T20:11:34+00:00'
+    id: 'urn:uuid:74c76dd0-fa2f-5d36-b47c-42a8c745e761'
+    link: 'https://pub.dartlang.org/packages/timeago'
+    author:
+        - 'Andres Araujo <a.araujo.azua@gmail.com>'
+-
+    package_name: grizzly_series
+    package_version: v0.0.14-dev
+    title: 'v0.0.14-dev of grizzly_series'
+    published: '2017-10-23T18:36:21+00:00'
+    id: 'urn:uuid:4762117c-6f0d-57e7-b5b8-78cbc9122531'
+    link: 'https://pub.dartlang.org/packages/grizzly_series'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
