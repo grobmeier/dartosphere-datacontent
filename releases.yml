@@ -113167,3 +113167,12 @@
     link: 'https://pub.dartlang.org/packages/built_redux'
     author:
         - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: flame
+    package_version: v0.4.0
+    title: 'v0.4.0 of flame'
+    published: '2017-10-22T22:06:21+00:00'
+    id: 'urn:uuid:7e52af08-aa64-5cf7-a0bd-dca7c1f823e8'
+    link: 'https://pub.dartlang.org/packages/flame'
+    author:
+        - 'Luan Nico <luannico27@gmail.com>'
