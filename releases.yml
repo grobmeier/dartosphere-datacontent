@@ -113284,3 +113284,62 @@
     link: 'https://pub.dartlang.org/packages/pikaday_datepicker_angular'
     author:
         - 'Stephan Schroeder <simon.void+github@gmail.com>'
+-
+    package_name: linter
+    package_version: v0.1.37
+    title: 'v0.1.37 of linter'
+    published: '2017-10-24T21:31:27+00:00'
+    id: 'urn:uuid:90517a9c-23a7-5fd2-8165-64cef2e84ffd'
+    link: 'https://pub.dartlang.org/packages/linter'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: mongo_dart
+    package_version: v0.3.1
+    title: 'v0.3.1 of mongo_dart'
+    published: '2017-10-24T20:15:55+00:00'
+    id: 'urn:uuid:7365f048-36a3-56f4-afd8-742d89d9dd16'
+    link: 'https://pub.dartlang.org/packages/mongo_dart'
+    author:
+        - 'Vadim Tsushko <vadimtsushko@gmail.com>'
+        - 'Ted Sander <ted@tedsander.com>'
+        - 'Paul Evans <pevans@sonardesign.com>'
+        - 'Stéphane Este-Gracias <sestegra@gmail.com>'
+        - 'Joel Trottier-Hebert <iamquebecois@gmail.com>'
+-
+    package_name: flutter_webview_plugin
+    package_version: v0.0.8
+    title: 'v0.0.8 of flutter_webview_plugin'
+    published: '2017-10-24T20:10:19+00:00'
+    id: 'urn:uuid:9d193cfe-6bad-526f-a3b5-2427e12fc35c'
+    link: 'https://pub.dartlang.org/packages/flutter_webview_plugin'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+        - 'Toufik Zitouni <toufiksapps@gmail.com>'
+-
+    package_name: angular_grecaptcha
+    package_version: v0.0.2
+    title: 'v0.0.2 of angular_grecaptcha'
+    published: '2017-10-24T20:05:51+00:00'
+    id: 'urn:uuid:f5e643f7-c9ad-5004-9918-34de64828002'
+    link: 'https://pub.dartlang.org/packages/angular_grecaptcha'
+    author:
+        - 'Aleksey Danilevskiy <alexey.danilevsky@gmail.com>'
+-
+    package_name: grizzly_series
+    package_version: v0.0.15-dev
+    title: 'v0.0.15-dev of grizzly_series'
+    published: '2017-10-24T19:59:23+00:00'
+    id: 'urn:uuid:8326b16d-e2ec-56be-9016-f17376329330'
+    link: 'https://pub.dartlang.org/packages/grizzly_series'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: stack_trace
+    package_version: v1.8.3
+    title: 'v1.8.3 of stack_trace'
+    published: '2017-10-24T19:01:00+00:00'
+    id: 'urn:uuid:fd17870f-e265-53a0-b641-c03310c90553'
+    link: 'https://pub.dartlang.org/packages/stack_trace'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
