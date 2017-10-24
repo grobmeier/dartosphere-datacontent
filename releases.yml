@@ -113266,3 +113266,12 @@
     link: 'https://pub.dartlang.org/packages/sweetalert_angular_dart'
     author:
         - 'Nick Ng <ngyewch@gmail.com>'
+-
+    package_name: mdl
+    package_version: v2.1.2
+    title: 'v2.1.2 of mdl'
+    published: '2017-10-24T10:22:13+00:00'
+    id: 'urn:uuid:9d27b28a-042a-5d73-af5b-ec6173fc177a'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
