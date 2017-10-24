@@ -113275,3 +113275,12 @@
     link: 'https://pub.dartlang.org/packages/mdl'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: pikaday_datepicker_angular
+    package_version: v3.0.1
+    title: 'v3.0.1 of pikaday_datepicker_angular'
+    published: '2017-10-24T17:23:07+00:00'
+    id: 'urn:uuid:28dda07b-eefe-5238-9623-9e24c68d5503'
+    link: 'https://pub.dartlang.org/packages/pikaday_datepicker_angular'
+    author:
+        - 'Stephan Schroeder <simon.void+github@gmail.com>'
