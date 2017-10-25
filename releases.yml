@@ -113343,3 +113343,12 @@
     link: 'https://pub.dartlang.org/packages/stack_trace'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: grizzly_series
+    package_version: v0.0.16-dev
+    title: 'v0.0.16-dev of grizzly_series'
+    published: '2017-10-24T22:57:51+00:00'
+    id: 'urn:uuid:b125655a-0ef7-5738-b05a-65094203bc7f'
+    link: 'https://pub.dartlang.org/packages/grizzly_series'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
