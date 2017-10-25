@@ -113424,3 +113424,12 @@
     link: 'https://pub.dartlang.org/packages/marek_test'
     author:
         - 'Marek Chen<c491843272@gmail.com>'
+-
+    package_name: material_icons_font
+    package_version: v0.1.1
+    title: 'v0.1.1 of material_icons_font'
+    published: '2017-10-25T18:55:00+00:00'
+    id: 'urn:uuid:5c7d3374-c26c-500a-9791-87539dd53ed7'
+    link: 'https://pub.dartlang.org/packages/material_icons_font'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
