@@ -113478,3 +113478,30 @@
     link: 'https://pub.dartlang.org/packages/RAL'
     author:
         - 'Igor Demyanov<igor.demyanov@gmail.com>'
+-
+    package_name: linter
+    package_version: v0.1.38
+    title: 'v0.1.38 of linter'
+    published: '2017-10-26T16:46:50+00:00'
+    id: 'urn:uuid:543a969b-1f37-5c3e-bca7-dfbf18bbf9db'
+    link: 'https://pub.dartlang.org/packages/linter'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: device_info
+    package_version: v0.0.3
+    title: 'v0.0.3 of device_info'
+    published: '2017-10-26T16:43:12+00:00'
+    id: 'urn:uuid:129bb0b1-947e-524d-add5-b9159545d0a7'
+    link: 'https://pub.dartlang.org/packages/device_info'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: android_intent
+    package_version: v0.0.2
+    title: 'v0.0.2 of android_intent'
+    published: '2017-10-26T15:06:27+00:00'
+    id: 'urn:uuid:1efda521-af46-5d9e-abd8-86f7a4318381'
+    link: 'https://pub.dartlang.org/packages/android_intent'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
