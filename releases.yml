@@ -113469,3 +113469,12 @@
     link: 'https://pub.dartlang.org/packages/built_value'
     author:
         - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: RAL
+    package_version: v1.8.0
+    title: 'v1.8.0 of RAL'
+    published: '2017-10-26T11:45:35+00:00'
+    id: 'urn:uuid:c057b30f-fc2a-5347-b087-29ffa8809809'
+    link: 'https://pub.dartlang.org/packages/RAL'
+    author:
+        - 'Igor Demyanov<igor.demyanov@gmail.com>'
