@@ -113523,3 +113523,13 @@
     link: 'https://pub.dartlang.org/packages/w_common'
     author:
         - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+-
+    package_name: rxdart
+    package_version: v0.14.0+2
+    title: 'v0.14.0+2 of rxdart'
+    published: '2017-10-27T13:27:39+00:00'
+    id: 'urn:uuid:9060ba97-240a-54b8-b1d7-c90fc667189e'
+    link: 'https://pub.dartlang.org/packages/rxdart'
+    author:
+        - 'Frank Pepermans <frank@igindo.com>'
+        - 'Brian Egan <brian@brianegan.com>'
