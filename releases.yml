@@ -113514,3 +113514,12 @@
     link: 'https://pub.dartlang.org/packages/shelf'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: w_common
+    package_version: v1.9.0
+    title: 'v1.9.0 of w_common'
+    published: '2017-10-26T23:32:50+00:00'
+    id: 'urn:uuid:4d4e088b-4de3-5f14-a5df-b24ec9545c90'
+    link: 'https://pub.dartlang.org/packages/w_common'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
