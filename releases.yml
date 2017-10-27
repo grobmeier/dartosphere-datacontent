@@ -113533,3 +113533,12 @@
     author:
         - 'Frank Pepermans <frank@igindo.com>'
         - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: grizzly_series
+    package_version: v0.0.20-dev
+    title: 'v0.0.20-dev of grizzly_series'
+    published: '2017-10-27T17:53:19+00:00'
+    id: 'urn:uuid:d2b03db2-0ed8-5edb-aaad-32455ceacb98'
+    link: 'https://pub.dartlang.org/packages/grizzly_series'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
