@@ -113542,3 +113542,21 @@
     link: 'https://pub.dartlang.org/packages/grizzly_series'
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: image_picker
+    package_version: v0.1.2
+    title: 'v0.1.2 of image_picker'
+    published: '2017-10-27T21:55:59+00:00'
+    id: 'urn:uuid:055c0244-b6e0-552c-b93c-be27c5f649e5'
+    link: 'https://pub.dartlang.org/packages/image_picker'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: dht
+    package_version: v0.0.8
+    title: 'v0.0.8 of dht'
+    published: '2017-10-27T20:40:22+00:00'
+    id: 'urn:uuid:34843b14-7a0a-5c6b-acd6-66b41020a49c'
+    link: 'https://pub.dartlang.org/packages/dht'
+    author:
+        - 'Yuriy Olkhovyy <yuriy.olkhovyy@gmail.com>'
