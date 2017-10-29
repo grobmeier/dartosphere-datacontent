@@ -113646,3 +113646,21 @@
     link: 'https://pub.dartlang.org/packages/grizzly_primitives'
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: flame
+    package_version: v0.5.0
+    title: 'v0.5.0 of flame'
+    published: '2017-10-29T21:51:17+00:00'
+    id: 'urn:uuid:6056bff6-0699-55e5-afb3-8dbb96a77f8f'
+    link: 'https://pub.dartlang.org/packages/flame'
+    author:
+        - 'Luan Nico <luannico27@gmail.com>'
+-
+    package_name: grizzly_primitives
+    package_version: v0.0.2
+    title: 'v0.0.2 of grizzly_primitives'
+    published: '2017-10-29T20:19:11+00:00'
+    id: 'urn:uuid:3a4d7e54-9def-5592-87f7-2c6aa5f2d4bb'
+    link: 'https://pub.dartlang.org/packages/grizzly_primitives'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
