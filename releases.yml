@@ -113736,3 +113736,12 @@
     link: 'https://pub.dartlang.org/packages/pub_server'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: RAL
+    package_version: v1.9.1
+    title: 'v1.9.1 of RAL'
+    published: '2017-10-30T15:20:49+00:00'
+    id: 'urn:uuid:3185f693-e960-5898-a843-55f698567cae'
+    link: 'https://pub.dartlang.org/packages/RAL'
+    author:
+        - 'Igor Demyanov<igor.demyanov@gmail.com>'
