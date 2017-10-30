@@ -113745,3 +113745,12 @@
     link: 'https://pub.dartlang.org/packages/RAL'
     author:
         - 'Igor Demyanov<igor.demyanov@gmail.com>'
+-
+    package_name: grizzly_plotly
+    package_version: v0.0.2-dev
+    title: 'v0.0.2-dev of grizzly_plotly'
+    published: '2017-10-30T22:32:34+00:00'
+    id: 'urn:uuid:d7f36e4b-c2ff-5c43-a904-a69173c4754c'
+    link: 'https://pub.dartlang.org/packages/grizzly_plotly'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
