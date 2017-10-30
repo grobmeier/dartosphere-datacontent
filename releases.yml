@@ -113682,3 +113682,57 @@
     link: 'https://pub.dartlang.org/packages/grizzly_plotly'
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: ngx_core
+    package_version: v0.3.0
+    title: 'v0.3.0 of ngx_core'
+    published: '2017-10-30T13:19:55+00:00'
+    id: 'urn:uuid:5b0102f5-4996-5c25-b81a-bb52fc48db5f'
+    link: 'https://pub.dartlang.org/packages/ngx_core'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: built_value_test
+    package_version: v4.3.2
+    title: 'v4.3.2 of built_value_test'
+    published: '2017-10-30T12:51:41+00:00'
+    id: 'urn:uuid:3c26b940-a951-515e-95e4-c980c4817381'
+    link: 'https://pub.dartlang.org/packages/built_value_test'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value_generator
+    package_version: v4.3.2
+    title: 'v4.3.2 of built_value_generator'
+    published: '2017-10-30T12:51:27+00:00'
+    id: 'urn:uuid:22bd0654-29d1-5931-bb67-27fefd163395'
+    link: 'https://pub.dartlang.org/packages/built_value_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value
+    package_version: v4.3.2
+    title: 'v4.3.2 of built_value'
+    published: '2017-10-30T12:50:06+00:00'
+    id: 'urn:uuid:7c9ffafb-7571-5b09-a71a-e0c13aeb44be'
+    link: 'https://pub.dartlang.org/packages/built_value'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: mdl
+    package_version: v2.1.4
+    title: 'v2.1.4 of mdl'
+    published: '2017-10-30T11:01:25+00:00'
+    id: 'urn:uuid:97cc0fd1-df60-5bd8-9792-b6a08223f208'
+    link: 'https://pub.dartlang.org/packages/mdl'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: pub_server
+    package_version: v0.1.2
+    title: 'v0.1.2 of pub_server'
+    published: '2017-10-30T11:01:09+00:00'
+    id: 'urn:uuid:884fcea6-9ee1-511f-8368-8a8994201a5b'
+    link: 'https://pub.dartlang.org/packages/pub_server'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
