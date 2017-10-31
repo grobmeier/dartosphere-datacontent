@@ -113799,3 +113799,30 @@
     link: 'https://pub.dartlang.org/packages/polymerize'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: flutter_redux
+    package_version: v0.3.2
+    title: 'v0.3.2 of flutter_redux'
+    published: '2017-10-31T16:41:44+00:00'
+    id: 'urn:uuid:55916612-c9d3-5071-a11b-4125a1b209ef'
+    link: 'https://pub.dartlang.org/packages/flutter_redux'
+    author:
+        - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: dart_language_server
+    package_version: v0.0.15
+    title: 'v0.0.15 of dart_language_server'
+    published: '2017-10-31T16:24:13+00:00'
+    id: 'urn:uuid:11ac5a7f-c156-5c76-88da-6e8a965ea6cc'
+    link: 'https://pub.dartlang.org/packages/dart_language_server'
+    author:
+        - 'Nate Bosch <nbosch1@gmail.com>'
+-
+    package_name: flutter_secure_storage
+    package_version: v0.0.1
+    title: 'v0.0.1 of flutter_secure_storage'
+    published: '2017-10-31T15:14:15+00:00'
+    id: 'urn:uuid:926808b5-f3e7-5b04-b0bd-984476e3e967'
+    link: 'https://pub.dartlang.org/packages/flutter_secure_storage'
+    author:
+        - 'German Saprykin <saprykin.h@gmail.com>'
