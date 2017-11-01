@@ -113871,3 +113871,12 @@
     link: 'https://pub.dartlang.org/packages/vertx_dart_sockjs'
     author:
         - 'Michel Werren <michel.werren@source-motion.ch>'
+-
+    package_name: dart_rope
+    package_version: v0.0.1
+    title: 'v0.0.1 of dart_rope'
+    published: '2017-11-01T14:12:17+00:00'
+    id: 'urn:uuid:5fa0e09e-860d-519b-b33a-a99c2e9d79b7'
+    link: 'https://pub.dartlang.org/packages/dart_rope'
+    author:
+        - 'Peter Van Drunen <peter.b.vandrunen@gmail.com>'
