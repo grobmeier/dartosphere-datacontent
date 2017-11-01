@@ -113862,3 +113862,12 @@
     link: 'https://pub.dartlang.org/packages/built_redux_rx'
     author:
         - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: vertx_dart_sockjs
+    package_version: v3.5.0
+    title: 'v3.5.0 of vertx_dart_sockjs'
+    published: '2017-11-01T07:00:56+00:00'
+    id: 'urn:uuid:91197dae-daa7-5b65-b9bc-cb1afaf823d4'
+    link: 'https://pub.dartlang.org/packages/vertx_dart_sockjs'
+    author:
+        - 'Michel Werren <michel.werren@source-motion.ch>'
