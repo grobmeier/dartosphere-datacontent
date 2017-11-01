@@ -113844,3 +113844,21 @@
     link: 'https://pub.dartlang.org/packages/grizzly_stats'
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: built_redux
+    package_version: v7.1.0
+    title: 'v7.1.0 of built_redux'
+    published: '2017-11-01T06:19:28+00:00'
+    id: 'urn:uuid:326d1225-c22a-5caa-88ee-815f919d81c1'
+    link: 'https://pub.dartlang.org/packages/built_redux'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: built_redux_rx
+    package_version: v0.1.0
+    title: 'v0.1.0 of built_redux_rx'
+    published: '2017-11-01T04:09:50+00:00'
+    id: 'urn:uuid:e615c5a4-5b00-5355-bb16-7ee421f3ad26'
+    link: 'https://pub.dartlang.org/packages/built_redux_rx'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
