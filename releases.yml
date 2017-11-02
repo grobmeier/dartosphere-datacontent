@@ -114044,3 +114044,66 @@
     link: 'https://pub.dartlang.org/packages/markdown'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: buildbucket
+    package_version: v0.1.0-dev
+    title: 'v0.1.0-dev of buildbucket'
+    published: '2017-11-02T22:01:26+00:00'
+    id: 'urn:uuid:a10fb930-6ec0-5d2f-8919-0693bbb0707c'
+    link: 'https://pub.dartlang.org/packages/buildbucket'
+    author:
+        - 'Kendal Harland <kendal@kendalhar.land>'
+-
+    package_name: lr_storage
+    package_version: v1.1.2
+    title: 'v1.1.2 of lr_storage'
+    published: '2017-11-02T21:53:41+00:00'
+    id: 'urn:uuid:90294c73-954a-52eb-8db0-56dbe74fd1a3'
+    link: 'https://pub.dartlang.org/packages/lr_storage'
+    author:
+        - 'Laboratory Rat <Oleg.Timofeev20@gmail.com>'
+-
+    package_name: source_gen
+    package_version: v0.7.2+1
+    title: 'v0.7.2+1 of source_gen'
+    published: '2017-11-02T21:40:20+00:00'
+    id: 'urn:uuid:0827c72c-d9b4-5d32-aa52-85d1f33c227a'
+    link: 'https://pub.dartlang.org/packages/source_gen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build_runner
+    package_version: v0.6.0
+    title: 'v0.6.0 of build_runner'
+    published: '2017-11-02T21:16:27+00:00'
+    id: 'urn:uuid:923b5b98-745f-5ca2-955c-1a6d7537590b'
+    link: 'https://pub.dartlang.org/packages/build_runner'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build_test
+    package_version: v0.9.0
+    title: 'v0.9.0 of build_test'
+    published: '2017-11-02T21:15:48+00:00'
+    id: 'urn:uuid:ab8f9284-dfb0-5160-ab6f-b2a72400cb52'
+    link: 'https://pub.dartlang.org/packages/build_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build_barback
+    package_version: v0.4.0+2
+    title: 'v0.4.0+2 of build_barback'
+    published: '2017-11-02T21:15:17+00:00'
+    id: 'urn:uuid:4559d430-106a-55b7-bbf7-ed22daf670eb'
+    link: 'https://pub.dartlang.org/packages/build_barback'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build
+    package_version: v0.11.0
+    title: 'v0.11.0 of build'
+    published: '2017-11-02T21:13:29+00:00'
+    id: 'urn:uuid:3b3cdb78-816f-5a41-bffa-4ea7be47693b'
+    link: 'https://pub.dartlang.org/packages/build'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
