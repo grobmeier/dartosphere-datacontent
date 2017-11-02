@@ -113945,3 +113945,12 @@
         - 'Sean Eagan <seaneagan1@gmail.com>'
         - 'Victor Berchet <victor@suumit.com>'
         - 'Wil Pirino <willyp@google.com>'
+-
+    package_name: wui_builder
+    package_version: v0.0.2
+    title: 'v0.0.2 of wui_builder'
+    published: '2017-11-02T02:20:43+00:00'
+    id: 'urn:uuid:97d63b02-6634-5a2d-a238-16c3c5c7c61f'
+    link: 'https://pub.dartlang.org/packages/wui_builder'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
