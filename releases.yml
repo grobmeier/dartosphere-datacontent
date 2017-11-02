@@ -113954,3 +113954,12 @@
     link: 'https://pub.dartlang.org/packages/wui_builder'
     author:
         - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: markd
+    package_version: v0.11.5+1
+    title: 'v0.11.5+1 of markd'
+    published: '2017-11-02T06:44:45+00:00'
+    id: 'urn:uuid:ce295422-e715-54d0-9674-74d0fb8f1120'
+    link: 'https://pub.dartlang.org/packages/markd'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
