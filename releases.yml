@@ -113963,3 +113963,48 @@
     link: 'https://pub.dartlang.org/packages/markd'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: RAL
+    package_version: v1.11.0
+    title: 'v1.11.0 of RAL'
+    published: '2017-11-02T10:12:42+00:00'
+    id: 'urn:uuid:a0b98c41-53fa-5575-9ca8-5910103fd81b'
+    link: 'https://pub.dartlang.org/packages/RAL'
+    author:
+        - 'Igor Demyanov<igor.demyanov@gmail.com>'
+-
+    package_name: wilddog_sync
+    package_version: v0.0.5
+    title: 'v0.0.5 of wilddog_sync'
+    published: '2017-11-02T09:47:55+00:00'
+    id: 'urn:uuid:2644c385-21ea-5cf0-a3c3-808525f11dd9'
+    link: 'https://pub.dartlang.org/packages/wilddog_sync'
+    author:
+        - 'Hekaiyou <hekaiyou@qq.com>'
+-
+    package_name: scarabei_flutter_reyer
+    package_version: v4.0.0
+    title: 'v4.0.0 of scarabei_flutter_reyer'
+    published: '2017-11-02T09:19:50+00:00'
+    id: 'urn:uuid:4d7834d9-6ab3-5c5a-b613-6f807e983a25'
+    link: 'https://pub.dartlang.org/packages/scarabei_flutter_reyer'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei_reyer
+    package_version: v4.0.0
+    title: 'v4.0.0 of scarabei_reyer'
+    published: '2017-11-02T09:19:40+00:00'
+    id: 'urn:uuid:adeb44f4-bfc5-5df9-a49d-3d01d4337e9e'
+    link: 'https://pub.dartlang.org/packages/scarabei_reyer'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: scarabei
+    package_version: v4.0.0
+    title: 'v4.0.0 of scarabei'
+    published: '2017-11-02T09:19:26+00:00'
+    id: 'urn:uuid:59ed83d3-dac5-50eb-b0d0-27eb7ecf2fc9'
+    link: 'https://pub.dartlang.org/packages/scarabei'
+    author:
+        - 'J Fixby <dart@jfixby.com>'
