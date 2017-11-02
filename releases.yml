@@ -114026,3 +114026,21 @@
     link: 'https://pub.dartlang.org/packages/scarabei_reyer'
     author:
         - 'J Fixby <dart@jfixby.com>'
+-
+    package_name: linter
+    package_version: v0.1.39
+    title: 'v0.1.39 of linter'
+    published: '2017-11-02T17:55:57+00:00'
+    id: 'urn:uuid:e87bd069-cfb8-5cff-966a-9bddf2f8c91f'
+    link: 'https://pub.dartlang.org/packages/linter'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: markdown
+    package_version: v1.0.0
+    title: 'v1.0.0 of markdown'
+    published: '2017-11-02T17:55:02+00:00'
+    id: 'urn:uuid:c0a7da1e-6ef3-5364-a2cf-46ada1559a75'
+    link: 'https://pub.dartlang.org/packages/markdown'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
