@@ -114152,3 +114152,12 @@
     link: 'https://pub.dartlang.org/packages/json_annotation'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: flutter_charts
+    package_version: v0.1.0
+    title: 'v0.1.0 of flutter_charts'
+    published: '2017-11-03T06:32:48+00:00'
+    id: 'urn:uuid:5ecebb0a-5fd9-50f2-9c9c-170cba7551ee'
+    link: 'https://pub.dartlang.org/packages/flutter_charts'
+    author:
+        - 'Milan Zimmermann <milan.zimmermann@gmail.com>'
