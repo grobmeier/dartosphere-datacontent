@@ -114107,3 +114107,48 @@
     link: 'https://pub.dartlang.org/packages/build'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build_compilers
+    package_version: v0.0.1
+    title: 'v0.0.1 of build_compilers'
+    published: '2017-11-03T00:07:17+00:00'
+    id: 'urn:uuid:66352a4b-e25b-57c4-9b5c-f14517d63b04'
+    link: 'https://pub.dartlang.org/packages/build_compilers'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: scratch_space
+    package_version: v0.0.1+2
+    title: 'v0.0.1+2 of scratch_space'
+    published: '2017-11-02T23:58:33+00:00'
+    id: 'urn:uuid:aa2205aa-a88d-5868-a995-83171d5f524b'
+    link: 'https://pub.dartlang.org/packages/scratch_space'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: test
+    package_version: v0.12.27
+    title: 'v0.12.27 of test'
+    published: '2017-11-02T23:46:08+00:00'
+    id: 'urn:uuid:66f1a094-b898-506c-821e-42127b9e5f19'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: json_serializable
+    package_version: v0.2.5
+    title: 'v0.2.5 of json_serializable'
+    published: '2017-11-02T23:41:10+00:00'
+    id: 'urn:uuid:33a28062-78af-52c4-a372-b14b2a82ba49'
+    link: 'https://pub.dartlang.org/packages/json_serializable'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: json_annotation
+    package_version: v0.2.1
+    title: 'v0.2.1 of json_annotation'
+    published: '2017-11-02T23:27:45+00:00'
+    id: 'urn:uuid:5df9865e-cf20-5223-858d-ead4ff53a827'
+    link: 'https://pub.dartlang.org/packages/json_annotation'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
