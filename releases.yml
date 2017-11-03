@@ -114161,3 +114161,12 @@
     link: 'https://pub.dartlang.org/packages/flutter_charts'
     author:
         - 'Milan Zimmermann <milan.zimmermann@gmail.com>'
+-
+    package_name: flutter_charts
+    package_version: v0.1.2
+    title: 'v0.1.2 of flutter_charts'
+    published: '2017-11-03T07:23:00+00:00'
+    id: 'urn:uuid:dff30e45-0676-5066-af36-7b6530bb7a4f'
+    link: 'https://pub.dartlang.org/packages/flutter_charts'
+    author:
+        - 'Milan Zimmermann <milan.zimmermann@gmail.com>'
