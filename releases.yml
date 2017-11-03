@@ -114237,3 +114237,78 @@
     link: 'https://pub.dartlang.org/packages/flutter_charts'
     author:
         - 'Milan Zimmermann <milan.zimmermann@gmail.com>'
+-
+    package_name: jaguar_json
+    package_version: v0.2.0
+    title: 'v0.2.0 of jaguar_json'
+    published: '2017-11-03T22:56:30+00:00'
+    id: 'urn:uuid:64e632b2-20c7-5ad3-abaa-ef81eea8a86f'
+    link: 'https://pub.dartlang.org/packages/jaguar_json'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: where
+    package_version: v2.2.0
+    title: 'v2.2.0 of where'
+    published: '2017-11-03T21:53:58+00:00'
+    id: 'urn:uuid:f79151f0-3c81-5b73-b5b8-b925bed41314'
+    link: 'https://pub.dartlang.org/packages/where'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: build_runner
+    package_version: v0.6.0+1
+    title: 'v0.6.0+1 of build_runner'
+    published: '2017-11-03T21:53:19+00:00'
+    id: 'urn:uuid:5c989ace-531e-5e14-88dc-5b875e0552bb'
+    link: 'https://pub.dartlang.org/packages/build_runner'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: lcov
+    package_version: v3.1.0
+    title: 'v3.1.0 of lcov'
+    published: '2017-11-03T21:43:15+00:00'
+    id: 'urn:uuid:b2b08aab-1463-503a-94ea-5c6612ba9dc4'
+    link: 'https://pub.dartlang.org/packages/lcov'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: free_mobile
+    package_version: v3.1.0
+    title: 'v3.1.0 of free_mobile'
+    published: '2017-11-03T21:35:15+00:00'
+    id: 'urn:uuid:1c63b7e9-ee9b-56fb-b8bd-1a8718bd07b6'
+    link: 'https://pub.dartlang.org/packages/free_mobile'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: coveralls
+    package_version: v2.1.0
+    title: 'v2.1.0 of coveralls'
+    published: '2017-11-03T21:23:55+00:00'
+    id: 'urn:uuid:1568c918-917b-53c7-858a-6511e8e78b27'
+    link: 'https://pub.dartlang.org/packages/coveralls'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: akismet
+    package_version: v3.1.0
+    title: 'v3.1.0 of akismet'
+    published: '2017-11-03T21:13:35+00:00'
+    id: 'urn:uuid:962f6b12-0bfd-5895-8851-0bdac56642ed'
+    link: 'https://pub.dartlang.org/packages/akismet'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: jaguar_serializer_cli
+    package_version: v0.5.2
+    title: 'v0.5.2 of jaguar_serializer_cli'
+    published: '2017-11-03T19:57:52+00:00'
+    id: 'urn:uuid:e5359dac-b09d-5fd8-b424-bf975e6198f0'
+    link: 'https://pub.dartlang.org/packages/jaguar_serializer_cli'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
