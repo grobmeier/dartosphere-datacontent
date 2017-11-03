@@ -114170,3 +114170,12 @@
     link: 'https://pub.dartlang.org/packages/flutter_charts'
     author:
         - 'Milan Zimmermann <milan.zimmermann@gmail.com>'
+-
+    package_name: http2
+    package_version: v0.1.6
+    title: 'v0.1.6 of http2'
+    published: '2017-11-03T13:37:16+00:00'
+    id: 'urn:uuid:2f9e1d35-6f03-5658-8d43-7d4529a9c172'
+    link: 'https://pub.dartlang.org/packages/http2'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
