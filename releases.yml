@@ -114179,3 +114179,61 @@
     link: 'https://pub.dartlang.org/packages/http2'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: bazel_worker
+    package_version: v0.1.6
+    title: 'v0.1.6 of bazel_worker'
+    published: '2017-11-03T18:21:35+00:00'
+    id: 'urn:uuid:42cf2e09-0c31-57bd-8163-3d6f775b6750'
+    link: 'https://pub.dartlang.org/packages/bazel_worker'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: jaguar_serializer
+    package_version: v0.5.1
+    title: 'v0.5.1 of jaguar_serializer'
+    published: '2017-11-03T18:10:20+00:00'
+    id: 'urn:uuid:ec41d288-a23b-5abf-8190-997255da575a'
+    link: 'https://pub.dartlang.org/packages/jaguar_serializer'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: jaguar_serializer_cli
+    package_version: v0.5.1
+    title: 'v0.5.1 of jaguar_serializer_cli'
+    published: '2017-11-03T17:38:24+00:00'
+    id: 'urn:uuid:2b0490b6-17f8-5ebd-961d-1861d4895a15'
+    link: 'https://pub.dartlang.org/packages/jaguar_serializer_cli'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: jaguar_client
+    package_version: v0.2.0
+    title: 'v0.2.0 of jaguar_client'
+    published: '2017-11-03T17:24:17+00:00'
+    id: 'urn:uuid:33eb1a0f-4707-5b84-8c27-d6e4fef31b03'
+    link: 'https://pub.dartlang.org/packages/jaguar_client'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: _bazel_codegen
+    package_version: v0.2.1
+    title: 'v0.2.1 of _bazel_codegen'
+    published: '2017-11-03T16:41:40+00:00'
+    id: 'urn:uuid:30bbc4d7-c2ef-5ec3-b724-74d9d5c5d8cc'
+    link: 'https://pub.dartlang.org/packages/_bazel_codegen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: flutter_charts
+    package_version: v0.1.3
+    title: 'v0.1.3 of flutter_charts'
+    published: '2017-11-03T15:06:33+00:00'
+    id: 'urn:uuid:13671fe2-f98d-5994-8263-53f19b7a4e11'
+    link: 'https://pub.dartlang.org/packages/flutter_charts'
+    author:
+        - 'Milan Zimmermann <milan.zimmermann@gmail.com>'
