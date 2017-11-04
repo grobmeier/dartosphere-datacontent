@@ -114312,3 +114312,13 @@
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: jaguar_serializer_mongo
+    package_version: v0.2.0
+    title: 'v0.2.0 of jaguar_serializer_mongo'
+    published: '2017-11-03T23:41:30+00:00'
+    id: 'urn:uuid:7341ea9f-4f4c-5080-a3cf-e703cdba4b84'
+    link: 'https://pub.dartlang.org/packages/jaguar_serializer_mongo'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
