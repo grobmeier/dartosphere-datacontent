@@ -114350,3 +114350,21 @@
     link: 'https://pub.dartlang.org/packages/mapd'
     author:
         - 'Vadim Tsushko <vadimtsushko@gmail.com>'
+-
+    package_name: lab_rat_wp_api
+    package_version: v1.1.23
+    title: 'v1.1.23 of lab_rat_wp_api'
+    published: '2017-11-04T13:33:26+00:00'
+    id: 'urn:uuid:c873ddf5-9741-51b0-8cac-5b12072a4980'
+    link: 'https://pub.dartlang.org/packages/lab_rat_wp_api'
+    author:
+        - 'Laboratory Rat <Oleg.Timofeev20@gmail.com>'
+-
+    package_name: lr_storage
+    package_version: v1.1.21
+    title: 'v1.1.21 of lr_storage'
+    published: '2017-11-04T13:32:54+00:00'
+    id: 'urn:uuid:f727449e-8437-5106-b442-a02159eaf2f6'
+    link: 'https://pub.dartlang.org/packages/lr_storage'
+    author:
+        - 'Laboratory Rat <Oleg.Timofeev20@gmail.com>'
