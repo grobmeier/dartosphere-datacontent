@@ -114464,3 +114464,12 @@
     link: 'https://pub.dartlang.org/packages/more'
     author:
         - 'Lukas Renggli <renggli@gmail.com>'
+-
+    package_name: tzolkin
+    package_version: v2.0.4
+    title: 'v2.0.4 of tzolkin'
+    published: '2017-11-05T16:45:39+00:00'
+    id: 'urn:uuid:fa27a02a-c41d-5428-a756-eb681a51e2f1'
+    link: 'https://pub.dartlang.org/packages/tzolkin'
+    author:
+        - 'John Ryan <john.p.ryan4@gmail.com>'
