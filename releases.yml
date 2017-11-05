@@ -114427,3 +114427,31 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jsbench
+    package_version: v0.2.0
+    title: 'v0.2.0 of jsbench'
+    published: '2017-11-05T01:44:04+00:00'
+    id: 'urn:uuid:c531e911-d315-5ea3-a686-3cb8fae43ab4'
+    link: 'https://pub.dartlang.org/packages/jsbench'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: built_redux
+    package_version: v7.2.0
+    title: 'v7.2.0 of built_redux'
+    published: '2017-11-05T01:28:04+00:00'
+    id: 'urn:uuid:4c756677-fc47-5589-be49-2e2bf9117317'
+    link: 'https://pub.dartlang.org/packages/built_redux'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: jaguar_auth
+    package_version: v0.12.0
+    title: 'v0.12.0 of jaguar_auth'
+    published: '2017-11-05T01:14:22+00:00'
+    id: 'urn:uuid:9369d9cb-1d2a-5e1c-bf22-f926f94478d7'
+    link: 'https://pub.dartlang.org/packages/jaguar_auth'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
