@@ -114538,3 +114538,30 @@
     link: 'https://pub.dartlang.org/packages/linear_memory'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: r_tree
+    package_version: v1.0.3
+    title: 'v1.0.3 of r_tree'
+    published: '2017-11-06T22:00:25+00:00'
+    id: 'urn:uuid:c6969b2b-68d7-5004-92e7-0ffb6d5d6d0f'
+    link: 'https://pub.dartlang.org/packages/r_tree'
+    author:
+        - 'Taylor Anderson <taylor.anderson@workiva.com>'
+-
+    package_name: cryptonator_api
+    package_version: v0.0.1
+    title: 'v0.0.1 of cryptonator_api'
+    published: '2017-11-06T19:23:16+00:00'
+    id: 'urn:uuid:dfcfa7a4-2c3b-5634-ad7e-fee89e73f711'
+    link: 'https://pub.dartlang.org/packages/cryptonator_api'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: grinder_php_minify
+    package_version: v2.0.0
+    title: 'v2.0.0 of grinder_php_minify'
+    published: '2017-11-06T19:21:10+00:00'
+    id: 'urn:uuid:5cbd627c-01ad-54e8-ae57-bc5db81d3c6c'
+    link: 'https://pub.dartlang.org/packages/grinder_php_minify'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
