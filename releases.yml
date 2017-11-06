@@ -114520,3 +114520,21 @@
     link: 'https://pub.dartlang.org/packages/dawo'
     author:
         - 'Heikki K Lappalainen <heikkiklappalainen@gmail.com.com>'
+-
+    package_name: combinator
+    package_version: v1.0.0-beta+2
+    title: 'v1.0.0-beta+2 of combinator'
+    published: '2017-11-06T17:54:41+00:00'
+    id: 'urn:uuid:416b03a5-3517-5c6d-8e79-fd3f54878ab3'
+    link: 'https://pub.dartlang.org/packages/combinator'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: linear_memory
+    package_version: v1.0.1
+    title: 'v1.0.1 of linear_memory'
+    published: '2017-11-06T15:43:29+00:00'
+    id: 'urn:uuid:9779278b-c73f-5338-8525-4bd486766096'
+    link: 'https://pub.dartlang.org/packages/linear_memory'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
