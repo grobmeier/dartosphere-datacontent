@@ -114502,3 +114502,21 @@
     link: 'https://pub.dartlang.org/packages/linear_memory'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: generator_plus
+    package_version: v0.0.1
+    title: 'v0.0.1 of generator_plus'
+    published: '2017-11-06T05:50:19+00:00'
+    id: 'urn:uuid:69c0fa27-7cf9-533f-81dd-ca75218b8888'
+    link: 'https://pub.dartlang.org/packages/generator_plus'
+    author:
+        - 'Rodsevich <nicorodsevich@gmail.com>'
+-
+    package_name: dawo
+    package_version: v0.0.5
+    title: 'v0.0.5 of dawo'
+    published: '2017-11-06T05:36:12+00:00'
+    id: 'urn:uuid:587e4bfd-85e1-5470-83e0-39e1b336b387'
+    link: 'https://pub.dartlang.org/packages/dawo'
+    author:
+        - 'Heikki K Lappalainen <heikkiklappalainen@gmail.com.com>'
