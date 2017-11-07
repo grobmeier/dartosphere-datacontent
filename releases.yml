@@ -114574,3 +114574,21 @@
     link: 'https://pub.dartlang.org/packages/jsbench'
     author:
         - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: flutter_web_view
+    package_version: v0.0.2
+    title: 'v0.0.2 of flutter_web_view'
+    published: '2017-11-07T14:14:28+00:00'
+    id: 'urn:uuid:3f4f1132-16ac-542d-bb7d-399760696d53'
+    link: 'https://pub.dartlang.org/packages/flutter_web_view'
+    author:
+        - 'Matthew Smith <matthew@apptree.cloud>'
+-
+    package_name: memcache
+    package_version: v0.2.1+2
+    title: 'v0.2.1+2 of memcache'
+    published: '2017-11-07T13:39:26+00:00'
+    id: 'urn:uuid:49a2d9e9-8221-5a89-a6b9-70877e4b85f7'
+    link: 'https://pub.dartlang.org/packages/memcache'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
