@@ -114565,3 +114565,12 @@
     link: 'https://pub.dartlang.org/packages/grinder_php_minify'
     author:
         - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: jsbench
+    package_version: v0.2.1
+    title: 'v0.2.1 of jsbench'
+    published: '2017-11-06T23:22:38+00:00'
+    id: 'urn:uuid:4a4d671b-b9f8-50ca-a2ff-552554168273'
+    link: 'https://pub.dartlang.org/packages/jsbench'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
