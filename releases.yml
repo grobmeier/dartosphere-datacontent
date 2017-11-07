@@ -114611,3 +114611,49 @@
     link: 'https://pub.dartlang.org/packages/flutter_markdown'
     author:
         - 'Flutter Authors <flutter-dev@googlegroups.com>'
+-
+    package_name: angular_grecaptcha
+    package_version: v0.0.3
+    title: 'v0.0.3 of angular_grecaptcha'
+    published: '2017-11-07T22:49:08+00:00'
+    id: 'urn:uuid:1dfb4b9f-495f-5c8e-adbe-4219b51b16c5'
+    link: 'https://pub.dartlang.org/packages/angular_grecaptcha'
+    author:
+        - 'Aleksey Danilevskiy <alexey.danilevsky@gmail.com>'
+-
+    package_name: htgen
+    package_version: v0.0.2+1
+    title: 'v0.0.2+1 of htgen'
+    published: '2017-11-07T22:01:40+00:00'
+    id: 'urn:uuid:2bb5eaa0-8a8e-5243-b95d-ad872a7424f6'
+    link: 'https://pub.dartlang.org/packages/htgen'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: map_view
+    package_version: v0.0.2
+    title: 'v0.0.2 of map_view'
+    published: '2017-11-07T21:47:56+00:00'
+    id: 'urn:uuid:0a5adea8-8039-5308-a322-50f73bf53af7'
+    link: 'https://pub.dartlang.org/packages/map_view'
+    author:
+        - 'Matthew Smith<matthew.smith@apptree.cloud>'
+-
+    package_name: jaguar_oauth
+    package_version: v0.2.0
+    title: 'v0.2.0 of jaguar_oauth'
+    published: '2017-11-07T21:46:19+00:00'
+    id: 'urn:uuid:bfbba5c1-91f7-5c75-a43a-fef9e4edf936'
+    link: 'https://pub.dartlang.org/packages/jaguar_oauth'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: path
+    package_version: v1.5.0
+    title: 'v1.5.0 of path'
+    published: '2017-11-07T20:10:14+00:00'
+    id: 'urn:uuid:c756ba11-f933-5108-9951-495c9422be5a'
+    link: 'https://pub.dartlang.org/packages/path'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
