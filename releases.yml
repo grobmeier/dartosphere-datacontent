@@ -114592,3 +114592,22 @@
     link: 'https://pub.dartlang.org/packages/memcache'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: flutter_webview_plugin
+    package_version: v0.0.9
+    title: 'v0.0.9 of flutter_webview_plugin'
+    published: '2017-11-07T18:39:12+00:00'
+    id: 'urn:uuid:c4320f09-8a7a-5f66-87a7-f5f7a4ca8164'
+    link: 'https://pub.dartlang.org/packages/flutter_webview_plugin'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+        - 'Toufik Zitouni <toufiksapps@gmail.com>'
+-
+    package_name: flutter_markdown
+    package_version: v0.1.0
+    title: 'v0.1.0 of flutter_markdown'
+    published: '2017-11-07T18:14:08+00:00'
+    id: 'urn:uuid:1173dcbe-9e84-549a-85b1-eefb5715844c'
+    link: 'https://pub.dartlang.org/packages/flutter_markdown'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
