@@ -114675,3 +114675,21 @@
     link: 'https://pub.dartlang.org/packages/test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: pdfjs
+    package_version: v0.0.0
+    title: 'v0.0.0 of pdfjs'
+    published: '2017-11-08T22:54:50+00:00'
+    id: 'urn:uuid:607fe4d5-d756-5ff2-9b22-f43f9704f23f'
+    link: 'https://pub.dartlang.org/packages/pdfjs'
+    author:
+        - 'Sean Burke <sean.burke@workiva.com>'
+-
+    package_name: map_view
+    package_version: v0.0.4
+    title: 'v0.0.4 of map_view'
+    published: '2017-11-08T19:30:17+00:00'
+    id: 'urn:uuid:9388a586-1c66-527b-ba50-b6ab33e4aaa9'
+    link: 'https://pub.dartlang.org/packages/map_view'
+    author:
+        - 'AppTree Software<flutter@apptreesoftware.com>'
