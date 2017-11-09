@@ -114693,3 +114693,21 @@
     link: 'https://pub.dartlang.org/packages/map_view'
     author:
         - 'AppTree Software<flutter@apptreesoftware.com>'
+-
+    package_name: stack_trace
+    package_version: v1.9.1
+    title: 'v1.9.1 of stack_trace'
+    published: '2017-11-08T23:32:31+00:00'
+    id: 'urn:uuid:4183eb4e-0bb0-5c9f-8bab-abb41be12240'
+    link: 'https://pub.dartlang.org/packages/stack_trace'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: pdfjs
+    package_version: v1.10.90
+    title: 'v1.10.90 of pdfjs'
+    published: '2017-11-08T23:06:33+00:00'
+    id: 'urn:uuid:82965bf8-04be-5184-bd27-298a0760fdae'
+    link: 'https://pub.dartlang.org/packages/pdfjs'
+    author:
+        - 'Sean Burke <sean.burke@workiva.com>'
