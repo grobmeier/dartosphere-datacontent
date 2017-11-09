@@ -114711,3 +114711,40 @@
     link: 'https://pub.dartlang.org/packages/pdfjs'
     author:
         - 'Sean Burke <sean.burke@workiva.com>'
+-
+    package_name: built_value_test
+    package_version: v4.3.3
+    title: 'v4.3.3 of built_value_test'
+    published: '2017-11-09T09:24:59+00:00'
+    id: 'urn:uuid:7d93df09-caa1-5d9f-80ac-87a5e78c9a10'
+    link: 'https://pub.dartlang.org/packages/built_value_test'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value_generator
+    package_version: v4.3.3
+    title: 'v4.3.3 of built_value_generator'
+    published: '2017-11-09T09:22:32+00:00'
+    id: 'urn:uuid:2b4916bd-d7fa-51ea-8eb4-03d4aebdee86'
+    link: 'https://pub.dartlang.org/packages/built_value_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value
+    package_version: v4.3.3
+    title: 'v4.3.3 of built_value'
+    published: '2017-11-09T09:22:05+00:00'
+    id: 'urn:uuid:442300c5-22e1-5758-b3fe-0bc21111a3d2'
+    link: 'https://pub.dartlang.org/packages/built_value'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_collection
+    package_version: v1.6.1
+    title: 'v1.6.1 of built_collection'
+    published: '2017-11-09T09:16:04+00:00'
+    id: 'urn:uuid:a36fc42d-e483-56ae-a9cc-a1551c0edc1c'
+    link: 'https://pub.dartlang.org/packages/built_collection'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+        - 'Matan Lurey <matanl@google.com>'
