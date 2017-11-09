@@ -114766,3 +114766,12 @@
     link: 'https://pub.dartlang.org/packages/dart_updater'
     author:
         - 'Joel Trottier-Hebert (Pacane) <iamquebecois@gmail.com>'
+-
+    package_name: fludex
+    package_version: v0.0.5
+    title: 'v0.0.5 of fludex'
+    published: '2017-11-09T15:12:53+00:00'
+    id: 'urn:uuid:8771ab38-b172-5c64-8a8f-72cca68fae1e'
+    link: 'https://pub.dartlang.org/packages/fludex'
+    author:
+        - 'Hemanth Raj <raj84325@gmail.com>'
