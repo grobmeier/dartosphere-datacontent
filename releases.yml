@@ -114775,3 +114775,12 @@
     link: 'https://pub.dartlang.org/packages/fludex'
     author:
         - 'Hemanth Raj <raj84325@gmail.com>'
+-
+    package_name: audioplayers
+    package_version: v0.3.0
+    title: 'v0.3.0 of audioplayers'
+    published: '2017-11-09T19:17:44+00:00'
+    id: 'urn:uuid:b788b465-d604-556f-9f9e-1b5611a7f477'
+    link: 'https://pub.dartlang.org/packages/audioplayers'
+    author:
+        - 'Luan Nico <luannico27@gmail.com>'
