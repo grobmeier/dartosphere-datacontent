@@ -114811,3 +114811,12 @@
     link: 'https://pub.dartlang.org/packages/dart_range'
     author:
         - 'Koto Furumiya <kotofurumiya@gmail.com>'
+-
+    package_name: solarium_tools
+    package_version: v0.0.3
+    title: 'v0.0.3 of solarium_tools'
+    published: '2017-11-10T15:11:42+00:00'
+    id: 'urn:uuid:c7169fc0-abb7-5476-aec3-014a26efc55a'
+    link: 'https://pub.dartlang.org/packages/solarium_tools'
+    author:
+        - 'Michael Francis <michael@solariumvr.com>'
