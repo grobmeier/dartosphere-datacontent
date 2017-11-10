@@ -114820,3 +114820,12 @@
     link: 'https://pub.dartlang.org/packages/solarium_tools'
     author:
         - 'Michael Francis <michael@solariumvr.com>'
+-
+    package_name: solarium_mason
+    package_version: v0.0.1
+    title: 'v0.0.1 of solarium_mason'
+    published: '2017-11-10T21:24:37+00:00'
+    id: 'urn:uuid:c10403c4-9ee2-51e1-8c28-e5e6c0008866'
+    link: 'https://pub.dartlang.org/packages/solarium_mason'
+    author:
+        - 'Michael Francis<michael@solariumvr.com>'
