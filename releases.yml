@@ -114829,3 +114829,21 @@
     link: 'https://pub.dartlang.org/packages/solarium_mason'
     author:
         - 'Michael Francis<michael@solariumvr.com>'
+-
+    package_name: dart_language_server
+    package_version: v0.0.16
+    title: 'v0.0.16 of dart_language_server'
+    published: '2017-11-11T06:40:41+00:00'
+    id: 'urn:uuid:7f8fbf53-dc5c-53b7-b389-9d3307129f64'
+    link: 'https://pub.dartlang.org/packages/dart_language_server'
+    author:
+        - 'Nate Bosch <nbosch1@gmail.com>'
+-
+    package_name: dawolang
+    package_version: v0.0.1
+    title: 'v0.0.1 of dawolang'
+    published: '2017-11-11T06:01:22+00:00'
+    id: 'urn:uuid:d1974146-1a69-560e-b921-28ec45cf7d1b'
+    link: 'https://pub.dartlang.org/packages/dawolang'
+    author:
+        - 'Heikki K Lappalainen <heikkiklappalainen@gmail.com.com>'
