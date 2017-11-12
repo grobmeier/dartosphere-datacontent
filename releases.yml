@@ -114874,3 +114874,12 @@
     link: 'https://pub.dartlang.org/packages/lr_storage'
     author:
         - 'Laboratory Rat <Oleg.Timofeev20@gmail.com>'
+-
+    package_name: lab_rat_wp_api
+    package_version: v1.1.25
+    title: 'v1.1.25 of lab_rat_wp_api'
+    published: '2017-11-12T19:03:35+00:00'
+    id: 'urn:uuid:b867d46c-3e49-5c60-a110-717f8bccdc04'
+    link: 'https://pub.dartlang.org/packages/lab_rat_wp_api'
+    author:
+        - 'Laboratory Rat <Oleg.Timofeev20@gmail.com>'
