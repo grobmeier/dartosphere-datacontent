@@ -114856,3 +114856,21 @@
     link: 'https://pub.dartlang.org/packages/flame'
     author:
         - 'Luan Nico <luannico27@gmail.com>'
+-
+    package_name: lab_rat_wp_api
+    package_version: v1.1.24
+    title: 'v1.1.24 of lab_rat_wp_api'
+    published: '2017-11-12T18:57:16+00:00'
+    id: 'urn:uuid:beb857a9-e527-5b11-98fb-dc61598886b5'
+    link: 'https://pub.dartlang.org/packages/lab_rat_wp_api'
+    author:
+        - 'Laboratory Rat <Oleg.Timofeev20@gmail.com>'
+-
+    package_name: lr_storage
+    package_version: v1.1.22
+    title: 'v1.1.22 of lr_storage'
+    published: '2017-11-12T18:55:53+00:00'
+    id: 'urn:uuid:42638dc9-66b7-5aee-8a52-7d08b1ce569d'
+    link: 'https://pub.dartlang.org/packages/lr_storage'
+    author:
+        - 'Laboratory Rat <Oleg.Timofeev20@gmail.com>'
