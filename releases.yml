@@ -114910,3 +114910,21 @@
     link: 'https://pub.dartlang.org/packages/flame'
     author:
         - 'Luan Nico <luannico27@gmail.com>'
+-
+    package_name: googleapis
+    package_version: v0.47.0
+    title: 'v0.47.0 of googleapis'
+    published: '2017-11-13T11:17:11+00:00'
+    id: 'urn:uuid:6292bef7-d001-5404-b672-28e60fc71de5'
+    link: 'https://pub.dartlang.org/packages/googleapis'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: googleapis_beta
+    package_version: v0.41.0
+    title: 'v0.41.0 of googleapis_beta'
+    published: '2017-11-13T11:17:08+00:00'
+    id: 'urn:uuid:db9b5be8-1e47-52da-a341-ed59e9204c49'
+    link: 'https://pub.dartlang.org/packages/googleapis_beta'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
