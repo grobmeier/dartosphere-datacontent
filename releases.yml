@@ -114892,3 +114892,12 @@
     link: 'https://pub.dartlang.org/packages/nodejs_interop'
     author:
         - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: device_info
+    package_version: v0.0.4
+    title: 'v0.0.4 of device_info'
+    published: '2017-11-13T06:53:46+00:00'
+    id: 'urn:uuid:fcb27d49-b901-55ec-8635-1e72074d8f2b'
+    link: 'https://pub.dartlang.org/packages/device_info'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
