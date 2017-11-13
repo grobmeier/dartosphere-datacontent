@@ -114901,3 +114901,12 @@
     link: 'https://pub.dartlang.org/packages/device_info'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: flame
+    package_version: v0.6.1
+    title: 'v0.6.1 of flame'
+    published: '2017-11-13T09:42:42+00:00'
+    id: 'urn:uuid:a4a8cf32-c4b3-5ca4-b08d-29beaffec68c'
+    link: 'https://pub.dartlang.org/packages/flame'
+    author:
+        - 'Luan Nico <luannico27@gmail.com>'
