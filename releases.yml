@@ -114991,3 +114991,21 @@
     link: 'https://pub.dartlang.org/packages/map_view'
     author:
         - 'AppTree Software<flutter@apptreesoftware.com>'
+-
+    package_name: material_color_picker
+    package_version: v0.0.1
+    title: 'v0.0.1 of material_color_picker'
+    published: '2017-11-14T23:00:21+00:00'
+    id: 'urn:uuid:b16fc007-cfbf-5983-ba19-5c700df0c341'
+    link: 'https://pub.dartlang.org/packages/material_color_picker'
+    author:
+        - 'Lung Razvan (long1eu)<lung.razvan@gmail.com>'
+-
+    package_name: test
+    package_version: v0.12.28
+    title: 'v0.12.28 of test'
+    published: '2017-11-14T22:11:48+00:00'
+    id: 'urn:uuid:4f5e261d-54f2-54a5-afda-f533dcf831f5'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
