@@ -114955,3 +114955,12 @@
     link: 'https://pub.dartlang.org/packages/mqtt_client'
     author:
         - 'Steve Hamblett <steve.hamblett@linux.com>'
+-
+    package_name: nodejs_interop
+    package_version: v0.3.0
+    title: 'v0.3.0 of nodejs_interop'
+    published: '2017-11-14T00:39:56+00:00'
+    id: 'urn:uuid:fe134938-4bc2-59d5-b8e2-16cbdd39c1ab'
+    link: 'https://pub.dartlang.org/packages/nodejs_interop'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
