@@ -114964,3 +114964,30 @@
     link: 'https://pub.dartlang.org/packages/nodejs_interop'
     author:
         - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: build_config
+    package_version: v0.1.0
+    title: 'v0.1.0 of build_config'
+    published: '2017-11-14T18:58:09+00:00'
+    id: 'urn:uuid:1859bd93-c2c3-5619-bc14-027f5a1a80db'
+    link: 'https://pub.dartlang.org/packages/build_config'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: image_picker
+    package_version: v0.1.3
+    title: 'v0.1.3 of image_picker'
+    published: '2017-11-14T18:01:03+00:00'
+    id: 'urn:uuid:15f6c847-8346-5dd0-8946-a36c4a1fd178'
+    link: 'https://pub.dartlang.org/packages/image_picker'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: map_view
+    package_version: v0.0.5
+    title: 'v0.0.5 of map_view'
+    published: '2017-11-14T15:43:54+00:00'
+    id: 'urn:uuid:aa8c4100-bd00-5bb5-8f29-d8a0b9505dcc'
+    link: 'https://pub.dartlang.org/packages/map_view'
+    author:
+        - 'AppTree Software<flutter@apptreesoftware.com>'
