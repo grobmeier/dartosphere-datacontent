@@ -115009,3 +115009,21 @@
     link: 'https://pub.dartlang.org/packages/test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: couchbase
+    package_version: v0.0.1
+    title: 'v0.0.1 of couchbase'
+    published: '2017-11-15T07:29:28+00:00'
+    id: 'urn:uuid:8ad3f5e2-1be7-568c-8398-dbbbc2d9c499'
+    link: 'https://pub.dartlang.org/packages/couchbase'
+    author:
+        - 'Benjamin Thong <BenjaminThong@gmail.com>'
+-
+    package_name: dart_language_server
+    package_version: v0.1.0
+    title: 'v0.1.0 of dart_language_server'
+    published: '2017-11-15T07:25:07+00:00'
+    id: 'urn:uuid:742edf3d-e160-51a9-b9b8-350f799df81c'
+    link: 'https://pub.dartlang.org/packages/dart_language_server'
+    author:
+        - 'Nate Bosch <nbosch1@gmail.com>'
