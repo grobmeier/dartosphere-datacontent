@@ -115027,3 +115027,12 @@
     link: 'https://pub.dartlang.org/packages/dart_language_server'
     author:
         - 'Nate Bosch <nbosch1@gmail.com>'
+-
+    package_name: cloud_firestore
+    package_version: v0.0.4
+    title: 'v0.0.4 of cloud_firestore'
+    published: '2017-11-15T14:01:33+00:00'
+    id: 'urn:uuid:4ee4bbb6-0920-5d84-87ff-5873450edd10'
+    link: 'https://pub.dartlang.org/packages/cloud_firestore'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
