@@ -115072,3 +115072,30 @@
     link: 'https://pub.dartlang.org/packages/oddjobs_client_model'
     author:
         - 'Ross Albertson <magnusthegood@yahoo.com>'
+-
+    package_name: wilddog_auth
+    package_version: v0.0.1
+    title: 'v0.0.1 of wilddog_auth'
+    published: '2017-11-16T10:50:54+00:00'
+    id: 'urn:uuid:b8ccc575-eb92-5580-8ffb-5b5561acc8b0'
+    link: 'https://pub.dartlang.org/packages/wilddog_auth'
+    author:
+        - 'Hekaiyou <hekaiyou@qq.com>'
+-
+    package_name: polymerize
+    package_version: v0.9.8
+    title: 'v0.9.8 of polymerize'
+    published: '2017-11-16T09:19:25+00:00'
+    id: 'urn:uuid:5591eff7-e956-5a03-a8c1-d2387dcdcfdb'
+    link: 'https://pub.dartlang.org/packages/polymerize'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: polymer_element
+    package_version: v2.0.8
+    title: 'v2.0.8 of polymer_element'
+    published: '2017-11-16T09:16:46+00:00'
+    id: 'urn:uuid:cc131233-8feb-55cb-ad09-6d41c2c1b91c'
+    link: 'https://pub.dartlang.org/packages/polymer_element'
+    author:
+        - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
