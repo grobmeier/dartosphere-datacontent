@@ -115118,3 +115118,52 @@
     link: 'https://pub.dartlang.org/packages/fludex'
     author:
         - 'Hemanth Raj <raj84325@gmail.com>'
+-
+    package_name: quiver
+    package_version: v0.26.1
+    title: 'v0.26.1 of quiver'
+    published: '2017-11-16T18:50:20+00:00'
+    id: 'urn:uuid:fc64af33-eac6-5301-95fb-11d029c5e9fb'
+    link: 'https://pub.dartlang.org/packages/quiver'
+    author:
+        - 'Justin Fagnani <justinfagnani@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Chris Bracken <cbracken@google.com>'
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+        - 'David Morgan <davidmorgan@google.com>'
+        - 'John McDole <codefu@google.com>'
+        - 'Matan Lurey <matanl@google.com>'
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+        - 'Sean Eagan <seaneagan1@gmail.com>'
+        - 'Victor Berchet <victor@suumit.com>'
+        - 'Wil Pirino <willyp@google.com>'
+-
+    package_name: ng_bootstrap
+    package_version: v0.9.0
+    title: 'v0.9.0 of ng_bootstrap'
+    published: '2017-11-16T17:02:08+00:00'
+    id: 'urn:uuid:e7b0a78a-2898-55ad-a748-24b09d73b1ef'
+    link: 'https://pub.dartlang.org/packages/ng_bootstrap'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+        - 'Adao Jr. <itsjunnior@gmail.com>'
+        - 'Ismael Blasco <isdswii@gmail.com>'
+-
+    package_name: font_awesome
+    package_version: v4.7.0
+    title: 'v4.7.0 of font_awesome'
+    published: '2017-11-16T16:51:54+00:00'
+    id: 'urn:uuid:3fc3f08a-e66c-5cd6-998a-5ff18bdb128f'
+    link: 'https://pub.dartlang.org/packages/font_awesome'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+        - 'Dave Gandy <dave@fontawesome.io>'
+-
+    package_name: wilddog_auth
+    package_version: v0.0.2
+    title: 'v0.0.2 of wilddog_auth'
+    published: '2017-11-16T15:15:02+00:00'
+    id: 'urn:uuid:c069841a-b353-53c6-9831-d704d77b58af'
+    link: 'https://pub.dartlang.org/packages/wilddog_auth'
+    author:
+        - 'Hekaiyou <hekaiyou@qq.com>'
