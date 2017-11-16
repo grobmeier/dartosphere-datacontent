@@ -115099,3 +115099,22 @@
     link: 'https://pub.dartlang.org/packages/polymer_element'
     author:
         - 'Vittorio Ballestra <vittorio.ballestra@gmail.com>'
+-
+    package_name: built_collection
+    package_version: v1.6.2
+    title: 'v1.6.2 of built_collection'
+    published: '2017-11-16T12:55:14+00:00'
+    id: 'urn:uuid:73693c15-79eb-542f-83d3-1bc9dd784236'
+    link: 'https://pub.dartlang.org/packages/built_collection'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+        - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: fludex
+    package_version: v0.1.1
+    title: 'v0.1.1 of fludex'
+    published: '2017-11-16T11:57:11+00:00'
+    id: 'urn:uuid:35bf18c6-5acf-5a81-b4d0-d7bb58a2c2c3'
+    link: 'https://pub.dartlang.org/packages/fludex'
+    author:
+        - 'Hemanth Raj <raj84325@gmail.com>'
