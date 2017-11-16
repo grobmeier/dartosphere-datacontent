@@ -115167,3 +115167,53 @@
     link: 'https://pub.dartlang.org/packages/wilddog_auth'
     author:
         - 'Hekaiyou <hekaiyou@qq.com>'
+-
+    package_name: charted
+    package_version: v0.5.0
+    title: 'v0.5.0 of charted'
+    published: '2017-11-16T22:47:07+00:00'
+    id: 'urn:uuid:6bd73720-3a73-55f0-afa1-db45d227d33b'
+    link: 'https://pub.dartlang.org/packages/charted'
+    author:
+        - 'Prasad Sunkari <prsd@google.com>'
+        - 'Michael Cheng <midoringo@google.com>'
+        - 'Yan Qiao <yqiao@google.com>'
+-
+    package_name: mockito
+    package_version: v2.2.1
+    title: 'v2.2.1 of mockito'
+    published: '2017-11-16T22:12:06+00:00'
+    id: 'urn:uuid:041d8365-fb28-5879-8308-9e53d6e3c459'
+    link: 'https://pub.dartlang.org/packages/mockito'
+    author:
+        - 'Dmitriy Fibulwinter <fibulwinter@gmail.com>'
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: pana
+    package_version: v0.6.1
+    title: 'v0.6.1 of pana'
+    published: '2017-11-16T21:04:14+00:00'
+    id: 'urn:uuid:24237a30-b09b-5a3e-b900-aca92d3a8ef5'
+    link: 'https://pub.dartlang.org/packages/pana'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: quiver
+    package_version: v0.26.2
+    title: 'v0.26.2 of quiver'
+    published: '2017-11-16T20:18:28+00:00'
+    id: 'urn:uuid:6ff48fb8-18f0-528b-a95c-9c047e62a6c1'
+    link: 'https://pub.dartlang.org/packages/quiver'
+    author:
+        - 'Justin Fagnani <justinfagnani@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Chris Bracken <cbracken@google.com>'
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+        - 'David Morgan <davidmorgan@google.com>'
+        - 'John McDole <codefu@google.com>'
+        - 'Matan Lurey <matanl@google.com>'
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+        - 'Sean Eagan <seaneagan1@gmail.com>'
+        - 'Victor Berchet <victor@suumit.com>'
+        - 'Wil Pirino <willyp@google.com>'
+        - 'Adam Lofts <adam.lofts@gmail.com>'
