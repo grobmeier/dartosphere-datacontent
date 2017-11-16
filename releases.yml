@@ -115063,3 +115063,12 @@
     link: 'https://pub.dartlang.org/packages/pana'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: oddjobs_client_model
+    package_version: v0.0.1
+    title: 'v0.0.1 of oddjobs_client_model'
+    published: '2017-11-16T03:10:35+00:00'
+    id: 'urn:uuid:74f445a3-6d43-5bfe-915e-3be003b32a26'
+    link: 'https://pub.dartlang.org/packages/oddjobs_client_model'
+    author:
+        - 'Ross Albertson <magnusthegood@yahoo.com>'
