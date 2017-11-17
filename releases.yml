@@ -115217,3 +115217,21 @@
         - 'Victor Berchet <victor@suumit.com>'
         - 'Wil Pirino <willyp@google.com>'
         - 'Adam Lofts <adam.lofts@gmail.com>'
+-
+    package_name: symbol_table
+    package_version: v1.0.2
+    title: 'v1.0.2 of symbol_table'
+    published: '2017-11-17T02:21:13+00:00'
+    id: 'urn:uuid:b591153d-d8e5-5875-8e30-67443eb15209'
+    link: 'https://pub.dartlang.org/packages/symbol_table'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: pana
+    package_version: v0.6.2
+    title: 'v0.6.2 of pana'
+    published: '2017-11-17T00:35:55+00:00'
+    id: 'urn:uuid:769ab9d7-6aea-5c46-9d3c-201111a05440'
+    link: 'https://pub.dartlang.org/packages/pana'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
