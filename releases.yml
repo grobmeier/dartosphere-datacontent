@@ -115245,3 +115245,12 @@
     author:
         - 'Jace Hensley <jace.hensley@workiva.com>'
         - 'Evan Weible <evan.weible@workiva.com>'
+-
+    package_name: symbol_table
+    package_version: v1.0.3
+    title: 'v1.0.3 of symbol_table'
+    published: '2017-11-17T16:15:07+00:00'
+    id: 'urn:uuid:657cbd5b-538e-52d6-898b-fe3c4df307cc'
+    link: 'https://pub.dartlang.org/packages/symbol_table'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
