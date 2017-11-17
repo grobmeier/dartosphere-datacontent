@@ -115235,3 +115235,13 @@
     link: 'https://pub.dartlang.org/packages/pana'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dependency_validator
+    package_version: v1.0.0
+    title: 'v1.0.0 of dependency_validator'
+    published: '2017-11-17T14:42:12+00:00'
+    id: 'urn:uuid:ac1c5202-4437-521d-8670-3d9365eb07a5'
+    link: 'https://pub.dartlang.org/packages/dependency_validator'
+    author:
+        - 'Jace Hensley <jace.hensley@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
