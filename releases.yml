@@ -115299,3 +115299,12 @@
     link: 'https://pub.dartlang.org/packages/llvm'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: url_launcher
+    package_version: v1.0.1
+    title: 'v1.0.1 of url_launcher'
+    published: '2017-11-18T10:44:40+00:00'
+    id: 'urn:uuid:a35a6c3f-ac43-5a81-9412-321db602f86b'
+    link: 'https://pub.dartlang.org/packages/url_launcher'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
