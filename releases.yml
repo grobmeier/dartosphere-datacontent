@@ -115272,3 +115272,30 @@
     link: 'https://pub.dartlang.org/packages/wui_builder'
     author:
         - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: angel_errors
+    package_version: v1.1.0
+    title: 'v1.1.0 of angel_errors'
+    published: '2017-11-18T05:34:59+00:00'
+    id: 'urn:uuid:20e4dc98-6ded-5bb2-932f-1f7bef39e764'
+    link: 'https://pub.dartlang.org/packages/angel_errors'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_route
+    package_version: v1.0.8
+    title: 'v1.0.8 of angel_route'
+    published: '2017-11-18T05:29:26+00:00'
+    id: 'urn:uuid:e1305f2d-2bdd-534e-8124-294119859280'
+    link: 'https://pub.dartlang.org/packages/angel_route'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: llvm
+    package_version: v0.0.0
+    title: 'v0.0.0 of llvm'
+    published: '2017-11-18T04:26:03+00:00'
+    id: 'urn:uuid:39076015-8e0d-539b-813d-8dfd35cf25b6'
+    link: 'https://pub.dartlang.org/packages/llvm'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
