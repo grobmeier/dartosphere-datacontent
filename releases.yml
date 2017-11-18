@@ -115254,3 +115254,21 @@
     link: 'https://pub.dartlang.org/packages/symbol_table'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: audioplayers
+    package_version: v0.4.0
+    title: 'v0.4.0 of audioplayers'
+    published: '2017-11-18T02:25:41+00:00'
+    id: 'urn:uuid:23cdd25c-b2b1-5fe0-9e88-ce7c1bcf954e'
+    link: 'https://pub.dartlang.org/packages/audioplayers'
+    author:
+        - 'Luan Nico <luannico27@gmail.com>'
+-
+    package_name: wui_builder
+    package_version: v0.1.0
+    title: 'v0.1.0 of wui_builder'
+    published: '2017-11-18T01:23:27+00:00'
+    id: 'urn:uuid:2feba376-0ff9-5f4a-8786-c0e3d3a49ea8'
+    link: 'https://pub.dartlang.org/packages/wui_builder'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
