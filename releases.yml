@@ -115371,3 +115371,21 @@
     link: 'https://pub.dartlang.org/packages/built_redux'
     author:
         - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: angel_migration
+    package_version: v1.0.0-alpha+2
+    title: 'v1.0.0-alpha+2 of angel_migration'
+    published: '2017-11-18T20:04:36+00:00'
+    id: 'urn:uuid:ac2b7fc2-8dca-5885-8a98-a108cfa99a8a'
+    link: 'https://pub.dartlang.org/packages/angel_migration'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_orm
+    package_version: v1.0.0-alpha+8
+    title: 'v1.0.0-alpha+8 of angel_orm'
+    published: '2017-11-18T20:02:08+00:00'
+    id: 'urn:uuid:af6cec06-dea4-5f7d-8e26-ee9ebf1471ea'
+    link: 'https://pub.dartlang.org/packages/angel_orm'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
