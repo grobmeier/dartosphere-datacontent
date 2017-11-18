@@ -115308,3 +115308,66 @@
     link: 'https://pub.dartlang.org/packages/url_launcher'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: angel_auth_google
+    package_version: v1.1.0+1
+    title: 'v1.1.0+1 of angel_auth_google'
+    published: '2017-11-18T18:55:25+00:00'
+    id: 'urn:uuid:5dd72238-caec-5fad-940c-6cd0051f0c0f'
+    link: 'https://pub.dartlang.org/packages/angel_auth_google'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_mustache
+    package_version: v1.1.0
+    title: 'v1.1.0 of angel_mustache'
+    published: '2017-11-18T18:39:43+00:00'
+    id: 'urn:uuid:1a95565b-c03d-5a3f-b29c-a97793e0c009'
+    link: 'https://pub.dartlang.org/packages/angel_mustache'
+    author:
+        - 'thosakwe <thosakwe@gmail.com>'
+-
+    package_name: angel_validate
+    package_version: v1.0.3
+    title: 'v1.0.3 of angel_validate'
+    published: '2017-11-18T18:24:34+00:00'
+    id: 'urn:uuid:5248ee73-48de-5873-a693-483831dad02a'
+    link: 'https://pub.dartlang.org/packages/angel_validate'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_seeder
+    package_version: v1.0.2
+    title: 'v1.0.2 of angel_seeder'
+    published: '2017-11-18T18:20:32+00:00'
+    id: 'urn:uuid:25bc440b-5932-5f1e-9a53-1fa8091b686e'
+    link: 'https://pub.dartlang.org/packages/angel_seeder'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_task
+    package_version: v1.1.1
+    title: 'v1.1.1 of angel_task'
+    published: '2017-11-18T18:08:59+00:00'
+    id: 'urn:uuid:46cda170-3128-582f-97cd-b07850f885ca'
+    link: 'https://pub.dartlang.org/packages/angel_task'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_cors
+    package_version: v1.0.0+2
+    title: 'v1.0.0+2 of angel_cors'
+    published: '2017-11-18T17:30:48+00:00'
+    id: 'urn:uuid:5304b5a1-7d78-5d27-9886-2b1f87162a3f'
+    link: 'https://pub.dartlang.org/packages/angel_cors'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: built_redux
+    package_version: v7.3.0
+    title: 'v7.3.0 of built_redux'
+    published: '2017-11-18T17:15:32+00:00'
+    id: 'urn:uuid:d00b82eb-9643-5722-86a7-28512434c23c'
+    link: 'https://pub.dartlang.org/packages/built_redux'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
