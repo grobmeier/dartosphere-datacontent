@@ -115416,3 +115416,30 @@
     link: 'https://pub.dartlang.org/packages/dartz'
     author:
         - 'Björn Sperber <spebbe@gmail.com>'
+-
+    package_name: hexview
+    package_version: v0.0.1
+    title: 'v0.0.1 of hexview'
+    published: '2017-11-19T20:51:03+00:00'
+    id: 'urn:uuid:b34c4a14-368a-514a-808b-71f433aa3163'
+    link: 'https://pub.dartlang.org/packages/hexview'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: lab_rat_wp_api
+    package_version: v1.1.27
+    title: 'v1.1.27 of lab_rat_wp_api'
+    published: '2017-11-19T19:40:10+00:00'
+    id: 'urn:uuid:68c1df26-ca8a-5c85-866b-b411e3fc8e2f'
+    link: 'https://pub.dartlang.org/packages/lab_rat_wp_api'
+    author:
+        - 'Laboratory Rat <Oleg.Timofeev20@gmail.com>'
+-
+    package_name: lr_storage
+    package_version: v1.1.24
+    title: 'v1.1.24 of lr_storage'
+    published: '2017-11-19T19:39:34+00:00'
+    id: 'urn:uuid:8aeb9e70-1c6a-58e9-a3b8-f8436f43b469'
+    link: 'https://pub.dartlang.org/packages/lr_storage'
+    author:
+        - 'Laboratory Rat <Oleg.Timofeev20@gmail.com>'
