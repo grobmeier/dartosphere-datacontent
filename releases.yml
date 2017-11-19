@@ -115389,3 +115389,21 @@
     link: 'https://pub.dartlang.org/packages/angel_orm'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: aspen_assets
+    package_version: v0.1.0
+    title: 'v0.1.0 of aspen_assets'
+    published: '2017-11-18T23:34:38+00:00'
+    id: 'urn:uuid:954c0914-2b10-5a7a-b18b-3079f7bebce6'
+    link: 'https://pub.dartlang.org/packages/aspen_assets'
+    author:
+        - 'Ryan Gonzalez <rymg19@gmail.com>'
+-
+    package_name: aspen
+    package_version: v0.1.0
+    title: 'v0.1.0 of aspen'
+    published: '2017-11-18T23:34:30+00:00'
+    id: 'urn:uuid:286881f3-f1ae-57a8-9a73-f1ef1f9e17f8'
+    link: 'https://pub.dartlang.org/packages/aspen'
+    author:
+        - 'Ryan Gonzalez <rymg19@gmail.com>'
