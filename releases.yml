@@ -115407,3 +115407,12 @@
     link: 'https://pub.dartlang.org/packages/aspen'
     author:
         - 'Ryan Gonzalez <rymg19@gmail.com>'
+-
+    package_name: dartz
+    package_version: v0.7.1
+    title: 'v0.7.1 of dartz'
+    published: '2017-11-19T15:52:15+00:00'
+    id: 'urn:uuid:0a510070-aa5b-581e-9c03-c4c81515a638'
+    link: 'https://pub.dartlang.org/packages/dartz'
+    author:
+        - 'Björn Sperber <spebbe@gmail.com>'
