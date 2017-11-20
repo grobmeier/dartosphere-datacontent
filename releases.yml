@@ -115562,3 +115562,44 @@
         - 'David Morgan <davidmorgan@google.com>'
         - 'Matan Lurey <matanl@google.com>'
         - 'Philipp Schiffmann <philippschiffmann93@gmail.com>'
+-
+    package_name: dart_dev
+    package_version: v1.8.2
+    title: 'v1.8.2 of dart_dev'
+    published: '2017-11-20T22:43:11+00:00'
+    id: 'urn:uuid:b44880e0-5fed-528c-af1c-53ed9af99e96'
+    link: 'https://pub.dartlang.org/packages/dart_dev'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: mustache
+    package_version: v1.0.0
+    title: 'v1.0.0 of mustache'
+    published: '2017-11-20T20:24:33+00:00'
+    id: 'urn:uuid:0fc25fb8-33d1-5186-9b3b-c3b5d6a98973'
+    link: 'https://pub.dartlang.org/packages/mustache'
+    author:
+        - 'Greg Lowe <greg@vis.net.nz>'
+-
+    package_name: vue2_cli
+    package_version: v0.1.0
+    title: 'v0.1.0 of vue2_cli'
+    published: '2017-11-20T20:04:07+00:00'
+    id: 'urn:uuid:6cec6b50-19d4-529c-8c7f-b75ed59b7146'
+    link: 'https://pub.dartlang.org/packages/vue2_cli'
+    author:
+        - 'Ryan Gonzalez <rymg19@gmail.com>'
+-
+    package_name: vue2
+    package_version: v0.3.0
+    title: 'v0.3.0 of vue2'
+    published: '2017-11-20T20:03:17+00:00'
+    id: 'urn:uuid:87c49d30-07c4-52be-ac39-c3ebfe4b3129'
+    link: 'https://pub.dartlang.org/packages/vue2'
+    author:
+        - 'Ryan Gonzalez <rymg19@gmail.com>'
