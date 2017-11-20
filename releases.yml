@@ -115479,3 +115479,21 @@
     link: 'https://pub.dartlang.org/packages/hexview'
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: graphql_fetch_generator
+    package_version: v0.0.2
+    title: 'v0.0.2 of graphql_fetch_generator'
+    published: '2017-11-20T13:57:39+00:00'
+    id: 'urn:uuid:9384e1a7-c825-5ace-8e03-1249b7ac069c'
+    link: 'https://pub.dartlang.org/packages/graphql_fetch_generator'
+    author:
+        - 'draco <allendragon@gmail.com>'
+-
+    package_name: graphql_fetch
+    package_version: v0.0.2
+    title: 'v0.0.2 of graphql_fetch'
+    published: '2017-11-20T13:57:23+00:00'
+    id: 'urn:uuid:4b0e7ec3-16a1-5035-a4e2-b0c33954efd0'
+    link: 'https://pub.dartlang.org/packages/graphql_fetch'
+    author:
+        - 'draco <allendragon@gmail.com>'
