@@ -115443,3 +115443,21 @@
     link: 'https://pub.dartlang.org/packages/lr_storage'
     author:
         - 'Laboratory Rat <Oleg.Timofeev20@gmail.com>'
+-
+    package_name: aspen
+    package_version: v0.1.2
+    title: 'v0.1.2 of aspen'
+    published: '2017-11-20T01:59:18+00:00'
+    id: 'urn:uuid:1c1901e3-bd12-54d8-94dd-33dfd2da553a'
+    link: 'https://pub.dartlang.org/packages/aspen'
+    author:
+        - 'Ryan Gonzalez <rymg19@gmail.com>'
+-
+    package_name: aspen_assets
+    package_version: v0.1.1
+    title: 'v0.1.1 of aspen_assets'
+    published: '2017-11-20T01:46:42+00:00'
+    id: 'urn:uuid:c305845d-df3c-51ac-b0e3-88052b1f75f9'
+    link: 'https://pub.dartlang.org/packages/aspen_assets'
+    author:
+        - 'Ryan Gonzalez <rymg19@gmail.com>'
