@@ -115621,3 +115621,12 @@
     link: 'https://pub.dartlang.org/packages/nodejs_interop'
     author:
         - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: mqtt_client
+    package_version: v1.4.0
+    title: 'v1.4.0 of mqtt_client'
+    published: '2017-11-21T10:39:08+00:00'
+    id: 'urn:uuid:fabcc478-53a7-512c-a28c-c0737ab37e81'
+    link: 'https://pub.dartlang.org/packages/mqtt_client'
+    author:
+        - 'Steve Hamblett <steve.hamblett@linux.com>'
