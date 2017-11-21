@@ -115630,3 +115630,21 @@
     link: 'https://pub.dartlang.org/packages/mqtt_client'
     author:
         - 'Steve Hamblett <steve.hamblett@linux.com>'
+-
+    package_name: llvm
+    package_version: v0.0.8
+    title: 'v0.0.8 of llvm'
+    published: '2017-11-21T18:34:14+00:00'
+    id: 'urn:uuid:49683a71-e8c0-5356-bf3c-38115524bf4b'
+    link: 'https://pub.dartlang.org/packages/llvm'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: bazel_worker
+    package_version: v0.1.7
+    title: 'v0.1.7 of bazel_worker'
+    published: '2017-11-21T17:06:57+00:00'
+    id: 'urn:uuid:04fe0981-1657-56b2-bf28-bbafa0e6d059'
+    link: 'https://pub.dartlang.org/packages/bazel_worker'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
