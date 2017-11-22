@@ -115667,3 +115667,14 @@
     author:
         - 'Frank Pepermans <frank@igindo.com>'
         - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: file
+    package_version: v2.3.5
+    title: 'v2.3.5 of file'
+    published: '2017-11-22T01:53:28+00:00'
+    id: 'urn:uuid:65d324df-4219-5caa-b90a-ae93569ac4fc'
+    link: 'https://pub.dartlang.org/packages/file'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Todd Volkert <tvolkert@google.com>'
