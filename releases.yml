@@ -115705,3 +115705,23 @@
     link: 'https://pub.dartlang.org/packages/material_pickers'
     author:
         - 'Lung Razvan (long1eu)<lung.razvan@gmail.com>'
+-
+    package_name: angular_analyzer_plugin
+    package_version: v0.0.11
+    title: 'v0.0.11 of angular_analyzer_plugin'
+    published: '2017-11-22T18:05:57+00:00'
+    id: 'urn:uuid:0fa04a37-5d14-58e0-9517-5d4e413ad5c1'
+    link: 'https://pub.dartlang.org/packages/angular_analyzer_plugin'
+    author:
+        - 'Konstantin Scheglov <scheglov@google.com>'
+        - 'Mike Fairhurst <mfairhurst@google.com>'
+        - 'Max Kim <maxkim@google.com>'
+-
+    package_name: revolver
+    package_version: v1.3.0
+    title: 'v1.3.0 of revolver'
+    published: '2017-11-22T15:26:18+00:00'
+    id: 'urn:uuid:df275145-7b3f-5a68-9502-db1b2bae47d3'
+    link: 'https://pub.dartlang.org/packages/revolver'
+    author:
+        - 'Keith Elliott <keith.b.elliott@gmail.com>'
