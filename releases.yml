@@ -115696,3 +115696,12 @@
     link: 'https://pub.dartlang.org/packages/wilddog_auth'
     author:
         - 'Hekaiyou <hekaiyou@qq.com>'
+-
+    package_name: material_pickers
+    package_version: v0.0.2
+    title: 'v0.0.2 of material_pickers'
+    published: '2017-11-22T09:06:19+00:00'
+    id: 'urn:uuid:89dbc609-2ac2-5ed4-a0d5-958a12d8b242'
+    link: 'https://pub.dartlang.org/packages/material_pickers'
+    author:
+        - 'Lung Razvan (long1eu)<lung.razvan@gmail.com>'
