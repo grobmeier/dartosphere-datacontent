@@ -115678,3 +115678,21 @@
         - 'Matan Lurey <matanl@google.com>'
         - 'Yegor Jbanov <yjbanov@google.com>'
         - 'Todd Volkert <tvolkert@google.com>'
+-
+    package_name: code_builder
+    package_version: v2.2.0
+    title: 'v2.2.0 of code_builder'
+    published: '2017-11-22T05:04:25+00:00'
+    id: 'urn:uuid:36845e19-854a-5131-972b-2f79c0e6f4f9'
+    link: 'https://pub.dartlang.org/packages/code_builder'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: wilddog_auth
+    package_version: v0.0.3
+    title: 'v0.0.3 of wilddog_auth'
+    published: '2017-11-22T04:13:34+00:00'
+    id: 'urn:uuid:37debf79-8ebe-5d12-8cbe-404a79fe1e96'
+    link: 'https://pub.dartlang.org/packages/wilddog_auth'
+    author:
+        - 'Hekaiyou <hekaiyou@qq.com>'
