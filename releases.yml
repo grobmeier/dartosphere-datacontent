@@ -115881,3 +115881,21 @@
     link: 'https://pub.dartlang.org/packages/piecemeal'
     author:
         - 'Bob Nystrom <robert@stuffwithstuff.com>'
+-
+    package_name: angel_orm
+    package_version: v1.0.0-alpha+10
+    title: 'v1.0.0-alpha+10 of angel_orm'
+    published: '2017-11-23T22:38:27+00:00'
+    id: 'urn:uuid:bef0c3e9-aa0a-5512-87eb-7798ce00a75c'
+    link: 'https://pub.dartlang.org/packages/angel_orm'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: intl_translation
+    package_version: v0.16.1
+    title: 'v0.16.1 of intl_translation'
+    published: '2017-11-23T22:07:19+00:00'
+    id: 'urn:uuid:afdfce74-ff90-5c27-9a0f-80f58346351d'
+    link: 'https://pub.dartlang.org/packages/intl_translation'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
