@@ -115779,3 +115779,15 @@
     link: 'https://pub.dartlang.org/packages/pana'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: irc
+    package_version: v3.1.0
+    title: 'v3.1.0 of irc'
+    published: '2017-11-23T03:55:14+00:00'
+    id: 'urn:uuid:cee45511-f9db-5ab8-9054-7ca2e91e197f'
+    link: 'https://pub.dartlang.org/packages/irc'
+    author:
+        - 'Kenneth Endfinger <kaendfinger@gmail.com>'
+        - 'samrg472 <samrg472@gmail.com>'
+        - 'TheMike <zeusintraining@gmail.com>'
+        - 'Logan Gorence <loganjohngorence@gmail.com>'
