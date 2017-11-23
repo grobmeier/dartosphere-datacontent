@@ -115809,3 +115809,12 @@
     link: 'https://pub.dartlang.org/packages/graphql_fetch'
     author:
         - 'draco <allendragon@gmail.com>'
+-
+    package_name: video_player
+    package_version: v0.0.2
+    title: 'v0.0.2 of video_player'
+    published: '2017-11-23T14:39:10+00:00'
+    id: 'urn:uuid:97d603fd-b378-510b-8296-03bb5d9105fd'
+    link: 'https://pub.dartlang.org/packages/video_player'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
