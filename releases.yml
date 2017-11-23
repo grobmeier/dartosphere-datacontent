@@ -115791,3 +115791,21 @@
         - 'samrg472 <samrg472@gmail.com>'
         - 'TheMike <zeusintraining@gmail.com>'
         - 'Logan Gorence <loganjohngorence@gmail.com>'
+-
+    package_name: graphql_fetch_generator
+    package_version: v0.0.3
+    title: 'v0.0.3 of graphql_fetch_generator'
+    published: '2017-11-23T09:04:20+00:00'
+    id: 'urn:uuid:731dd971-cab9-5200-bb15-e3a77de1dcea'
+    link: 'https://pub.dartlang.org/packages/graphql_fetch_generator'
+    author:
+        - 'draco <allendragon@gmail.com>'
+-
+    package_name: graphql_fetch
+    package_version: v0.0.3
+    title: 'v0.0.3 of graphql_fetch'
+    published: '2017-11-23T09:01:41+00:00'
+    id: 'urn:uuid:9f4cf014-5f89-5f1a-b68d-c5c8f550b827'
+    link: 'https://pub.dartlang.org/packages/graphql_fetch'
+    author:
+        - 'draco <allendragon@gmail.com>'
