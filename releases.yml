@@ -115818,3 +115818,66 @@
     link: 'https://pub.dartlang.org/packages/video_player'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: angel_migration
+    package_version: v1.0.0-alpha+3
+    title: 'v1.0.0-alpha+3 of angel_migration'
+    published: '2017-11-23T18:45:14+00:00'
+    id: 'urn:uuid:209da3f4-dc96-588f-9410-a20909687d8b'
+    link: 'https://pub.dartlang.org/packages/angel_migration'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_orm
+    package_version: v1.0.0-alpha+9
+    title: 'v1.0.0-alpha+9 of angel_orm'
+    published: '2017-11-23T18:42:08+00:00'
+    id: 'urn:uuid:429ca924-4119-5feb-ae3f-844907f7566d'
+    link: 'https://pub.dartlang.org/packages/angel_orm'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: image_whisperer
+    package_version: v0.9.1+1
+    title: 'v0.9.1+1 of image_whisperer'
+    published: '2017-11-23T18:05:53+00:00'
+    id: 'urn:uuid:a55d72b0-6f44-520e-ae11-ba85c789fd1b'
+    link: 'https://pub.dartlang.org/packages/image_whisperer'
+    author:
+        - 'Peter Siroki <psiroki@skawa.hu>'
+-
+    package_name: entify
+    package_version: v0.2.2
+    title: 'v0.2.2 of entify'
+    published: '2017-11-23T17:49:40+00:00'
+    id: 'urn:uuid:d2151d6a-c4c3-537e-b04c-015513f08dc7'
+    link: 'https://pub.dartlang.org/packages/entify'
+    author:
+        - 'Peter Siroki <psiroki@skawa.hu>'
+-
+    package_name: angel_migration_runner
+    package_version: v1.0.0-alpha+6
+    title: 'v1.0.0-alpha+6 of angel_migration_runner'
+    published: '2017-11-23T17:23:14+00:00'
+    id: 'urn:uuid:869cd79b-293a-562b-9951-40c1d7f8c7ef'
+    link: 'https://pub.dartlang.org/packages/angel_migration_runner'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: exifdart
+    package_version: v0.5.0+3
+    title: 'v0.5.0+3 of exifdart'
+    published: '2017-11-23T17:08:10+00:00'
+    id: 'urn:uuid:a3be63d4-2b47-5d84-9e16-6ead95366d50'
+    link: 'https://pub.dartlang.org/packages/exifdart'
+    author:
+        - 'Peter Siroki <psiroki@users.noreply.github.com>'
+-
+    package_name: piecemeal
+    package_version: v0.3.4
+    title: 'v0.3.4 of piecemeal'
+    published: '2017-11-23T16:38:38+00:00'
+    id: 'urn:uuid:7361488e-72b9-5815-8455-cf210295d3dc'
+    link: 'https://pub.dartlang.org/packages/piecemeal'
+    author:
+        - 'Bob Nystrom <robert@stuffwithstuff.com>'
