@@ -115917,3 +115917,30 @@
     link: 'https://pub.dartlang.org/packages/symbol_table'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: image_whisperer
+    package_version: v0.9.1+2
+    title: 'v0.9.1+2 of image_whisperer'
+    published: '2017-11-24T14:30:02+00:00'
+    id: 'urn:uuid:91187837-f322-5d74-8c81-6f924b4f2e90'
+    link: 'https://pub.dartlang.org/packages/image_whisperer'
+    author:
+        - 'Peter Siroki <psiroki@skawa.hu>'
+-
+    package_name: rpc
+    package_version: v0.5.8
+    title: 'v0.5.8 of rpc'
+    published: '2017-11-24T11:59:59+00:00'
+    id: 'urn:uuid:5cc41f42-ac17-55e1-bdea-b950966e8512'
+    link: 'https://pub.dartlang.org/packages/rpc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: pwa
+    package_version: v0.1.8
+    title: 'v0.1.8 of pwa'
+    published: '2017-11-24T11:23:59+00:00'
+    id: 'urn:uuid:40fc742c-66f7-57a4-991c-bb960010dcf0'
+    link: 'https://pub.dartlang.org/packages/pwa'
+    author:
+        - 'Istvan Soos <istvan.soos@gmail.com>'
