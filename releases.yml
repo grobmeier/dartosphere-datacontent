@@ -115899,3 +115899,21 @@
     link: 'https://pub.dartlang.org/packages/intl_translation'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: din
+    package_version: v0.1.0-alpha+8
+    title: 'v0.1.0-alpha+8 of din'
+    published: '2017-11-24T06:27:04+00:00'
+    id: 'urn:uuid:93643576-fb20-54a3-a49e-0bb21dcb0e08'
+    link: 'https://pub.dartlang.org/packages/din'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: symbol_table
+    package_version: v1.0.4
+    title: 'v1.0.4 of symbol_table'
+    published: '2017-11-24T05:40:58+00:00'
+    id: 'urn:uuid:9703d6b1-0d35-506a-a70c-f143579dd6f7'
+    link: 'https://pub.dartlang.org/packages/symbol_table'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
