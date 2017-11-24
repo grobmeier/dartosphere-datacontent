@@ -115953,3 +115953,21 @@
     link: 'https://pub.dartlang.org/packages/dart_create_react_app'
     author:
         - 'Lee Robinson <lee.robinson@workiva.com>'
+-
+    package_name: dart_create_react_app
+    package_version: v0.3.2
+    title: 'v0.3.2 of dart_create_react_app'
+    published: '2017-11-24T22:05:31+00:00'
+    id: 'urn:uuid:00e712dd-d280-5d8e-b990-e6613e2e8555'
+    link: 'https://pub.dartlang.org/packages/dart_create_react_app'
+    author:
+        - 'Lee Robinson <lee.robinson@workiva.com>'
+-
+    package_name: cable_stackdriver
+    package_version: v0.1.1
+    title: 'v0.1.1 of cable_stackdriver'
+    published: '2017-11-24T20:25:28+00:00'
+    id: 'urn:uuid:1fcb37a3-5cc5-52b8-aeb6-26b94eaf1a01'
+    link: 'https://pub.dartlang.org/packages/cable_stackdriver'
+    author:
+        - 'Matan Lurey <matanl@google.com>'
