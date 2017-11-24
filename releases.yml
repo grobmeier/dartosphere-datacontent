@@ -115944,3 +115944,12 @@
     link: 'https://pub.dartlang.org/packages/pwa'
     author:
         - 'Istvan Soos <istvan.soos@gmail.com>'
+-
+    package_name: dart_create_react_app
+    package_version: v0.2.0
+    title: 'v0.2.0 of dart_create_react_app'
+    published: '2017-11-24T18:53:46+00:00'
+    id: 'urn:uuid:d7a3ceed-69a3-5516-ba17-2dd0e4625191'
+    link: 'https://pub.dartlang.org/packages/dart_create_react_app'
+    author:
+        - 'Lee Robinson <lee.robinson@workiva.com>'
