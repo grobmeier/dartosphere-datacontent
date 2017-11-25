@@ -115971,3 +115971,21 @@
     link: 'https://pub.dartlang.org/packages/cable_stackdriver'
     author:
         - 'Matan Lurey <matanl@google.com>'
+-
+    package_name: dart_create_react_app
+    package_version: v1.0.0
+    title: 'v1.0.0 of dart_create_react_app'
+    published: '2017-11-25T02:39:53+00:00'
+    id: 'urn:uuid:bcc1f57a-894f-55be-a095-569f450f1941'
+    link: 'https://pub.dartlang.org/packages/dart_create_react_app'
+    author:
+        - 'Lee Robinson <lee.robinson@workiva.com>'
+-
+    package_name: angel_route
+    package_version: v2.0.1
+    title: 'v2.0.1 of angel_route'
+    published: '2017-11-25T00:29:13+00:00'
+    id: 'urn:uuid:c6190334-6b15-555f-8c74-354bfdf2ba66'
+    link: 'https://pub.dartlang.org/packages/angel_route'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
