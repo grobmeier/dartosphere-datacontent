@@ -116034,3 +116034,57 @@
     link: 'https://pub.dartlang.org/packages/zoomable_image'
     author:
         - 'perlatus <perlatus@zoomable_image.email.vczf.io>'
+-
+    package_name: reselect
+    package_version: v0.2.1
+    title: 'v0.2.1 of reselect'
+    published: '2017-11-25T22:41:40+00:00'
+    id: 'urn:uuid:7bfd74b1-14ef-5a2a-bd35-c38bd715940f'
+    link: 'https://pub.dartlang.org/packages/reselect'
+    author:
+        - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: redux_logging
+    package_version: v0.1.3
+    title: 'v0.1.3 of redux_logging'
+    published: '2017-11-25T22:16:45+00:00'
+    id: 'urn:uuid:1a14e83e-64b1-5510-bf07-0b9c58c7ad53'
+    link: 'https://pub.dartlang.org/packages/redux_logging'
+    author:
+        - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: redux_dev_tools
+    package_version: v0.1.2
+    title: 'v0.1.2 of redux_dev_tools'
+    published: '2017-11-25T21:56:33+00:00'
+    id: 'urn:uuid:d453e9f6-8ce4-5305-a8e3-86953a382563'
+    link: 'https://pub.dartlang.org/packages/redux_dev_tools'
+    author:
+        - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: flutter_redux_dev_tools
+    package_version: v0.1.4
+    title: 'v0.1.4 of flutter_redux_dev_tools'
+    published: '2017-11-25T20:41:28+00:00'
+    id: 'urn:uuid:3854c385-27b9-53c7-95b5-e896f37e904f'
+    link: 'https://pub.dartlang.org/packages/flutter_redux_dev_tools'
+    author:
+        - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: evo
+    package_version: v1.0.1
+    title: 'v1.0.1 of evo'
+    published: '2017-11-25T20:12:55+00:00'
+    id: 'urn:uuid:ed8c9a86-4c1f-58fa-90cd-5f2ee287651c'
+    link: 'https://pub.dartlang.org/packages/evo'
+    author:
+        - 'Michael Bürgerling <michael.buergerling@gmail.com>'
+-
+    package_name: dart_language_server
+    package_version: v0.1.1
+    title: 'v0.1.1 of dart_language_server'
+    published: '2017-11-25T19:45:11+00:00'
+    id: 'urn:uuid:2623a056-1914-53a9-bd94-384414a3f355'
+    link: 'https://pub.dartlang.org/packages/dart_language_server'
+    author:
+        - 'Nate Bosch <nbosch1@gmail.com>'
