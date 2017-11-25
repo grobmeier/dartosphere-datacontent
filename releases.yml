@@ -115998,3 +115998,12 @@
     link: 'https://pub.dartlang.org/packages/redux_epics'
     author:
         - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: evo
+    package_version: v1.0.0
+    title: 'v1.0.0 of evo'
+    published: '2017-11-25T14:01:58+00:00'
+    id: 'urn:uuid:46c700d8-4fc0-58b8-b7c5-e5804f4c923e'
+    link: 'https://pub.dartlang.org/packages/evo'
+    author:
+        - 'Michael Bürgerling <michael.buergerling@gmail.com>'
