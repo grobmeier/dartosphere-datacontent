@@ -115989,3 +115989,12 @@
     link: 'https://pub.dartlang.org/packages/angel_route'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: redux_epics
+    package_version: v0.6.1
+    title: 'v0.6.1 of redux_epics'
+    published: '2017-11-25T10:39:16+00:00'
+    id: 'urn:uuid:8ac8afc9-4016-5ae7-a19a-eecbc875292e'
+    link: 'https://pub.dartlang.org/packages/redux_epics'
+    author:
+        - 'Brian Egan <brian@brianegan.com>'
