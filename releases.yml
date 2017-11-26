@@ -116088,3 +116088,48 @@
     link: 'https://pub.dartlang.org/packages/dart_language_server'
     author:
         - 'Nate Bosch <nbosch1@gmail.com>'
+-
+    package_name: redux_logging
+    package_version: v0.1.4
+    title: 'v0.1.4 of redux_logging'
+    published: '2017-11-26T01:38:56+00:00'
+    id: 'urn:uuid:5a85384a-74a4-559e-9768-703c28cd42f7'
+    link: 'https://pub.dartlang.org/packages/redux_logging'
+    author:
+        - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: combinator
+    package_version: v1.0.0-beta+7
+    title: 'v1.0.0-beta+7 of combinator'
+    published: '2017-11-26T01:21:42+00:00'
+    id: 'urn:uuid:835616b1-b357-5e95-a9e7-8d61c4539dc9'
+    link: 'https://pub.dartlang.org/packages/combinator'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: scoped_model
+    package_version: v0.1.1
+    title: 'v0.1.1 of scoped_model'
+    published: '2017-11-25T23:31:03+00:00'
+    id: 'urn:uuid:9f7a103c-45a5-58f2-bb4a-64c2374eeac1'
+    link: 'https://pub.dartlang.org/packages/scoped_model'
+    author:
+        - 'brian.egan <brian@brianegan.com>'
+-
+    package_name: flutter_stream_friends
+    package_version: v0.6.1
+    title: 'v0.6.1 of flutter_stream_friends'
+    published: '2017-11-25T23:18:50+00:00'
+    id: 'urn:uuid:3906881f-99cc-5394-90b8-237903895d1c'
+    link: 'https://pub.dartlang.org/packages/flutter_stream_friends'
+    author:
+        - 'brian.egan <brian@brianegan.com>'
+-
+    package_name: redux_thunk
+    package_version: v0.1.1
+    title: 'v0.1.1 of redux_thunk'
+    published: '2017-11-25T23:01:41+00:00'
+    id: 'urn:uuid:b854137b-4a7c-5d03-943d-bf307118baa4'
+    link: 'https://pub.dartlang.org/packages/redux_thunk'
+    author:
+        - 'Brian Egan <brian@brianegan.com>'
