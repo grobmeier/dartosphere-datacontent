@@ -116205,3 +116205,12 @@
     link: 'https://pub.dartlang.org/packages/image_whisperer'
     author:
         - 'Peter Siroki <psiroki@skawa.hu>'
+-
+    package_name: image_whisperer
+    package_version: v0.9.3
+    title: 'v0.9.3 of image_whisperer'
+    published: '2017-11-27T17:41:51+00:00'
+    id: 'urn:uuid:de0c64a1-d9d6-5229-978d-f91a7c3d9044'
+    link: 'https://pub.dartlang.org/packages/image_whisperer'
+    author:
+        - 'Peter Siroki <psiroki@skawa.hu>'
