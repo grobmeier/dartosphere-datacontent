@@ -116178,3 +116178,21 @@
     link: 'https://pub.dartlang.org/packages/odd_jobs_test_model'
     author:
         - 'Ross Albertson <magnusthegood@yahoo.com>'
+-
+    package_name: dawo
+    package_version: v0.0.6
+    title: 'v0.0.6 of dawo'
+    published: '2017-11-27T06:04:13+00:00'
+    id: 'urn:uuid:7c453b36-6da3-57c2-bbd9-1eb0cbaf589e'
+    link: 'https://pub.dartlang.org/packages/dawo'
+    author:
+        - 'Heikki K Lappalainen <heikkiklappalainen@gmail.com.com>'
+-
+    package_name: code_builder
+    package_version: v2.3.0
+    title: 'v2.3.0 of code_builder'
+    published: '2017-11-27T04:00:06+00:00'
+    id: 'urn:uuid:4499c171-13d0-5ebd-8678-3a1c73199241'
+    link: 'https://pub.dartlang.org/packages/code_builder'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
