@@ -116160,3 +116160,21 @@
     link: 'https://pub.dartlang.org/packages/dribbble_client'
     author:
         - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: angel_route
+    package_version: v2.0.3
+    title: 'v2.0.3 of angel_route'
+    published: '2017-11-27T02:21:10+00:00'
+    id: 'urn:uuid:d6109005-faaf-5e95-9e20-92ded5def932'
+    link: 'https://pub.dartlang.org/packages/angel_route'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: odd_jobs_test_model
+    package_version: v0.0.1
+    title: 'v0.0.1 of odd_jobs_test_model'
+    published: '2017-11-27T01:26:01+00:00'
+    id: 'urn:uuid:9e503a40-2452-5dd7-adbe-ec9d1fecfbe4'
+    link: 'https://pub.dartlang.org/packages/odd_jobs_test_model'
+    author:
+        - 'Ross Albertson <magnusthegood@yahoo.com>'
