@@ -116295,3 +116295,21 @@
     link: 'https://pub.dartlang.org/packages/dart_dice_parser'
     author:
         - 'steve christensen <adventuresmith.rpg@gmail.com>'
+-
+    package_name: stream_store
+    package_version: v0.1.0
+    title: 'v0.1.0 of stream_store'
+    published: '2017-11-28T13:06:56+00:00'
+    id: 'urn:uuid:12565a28-4e94-5da5-8fbe-ba1c9674193a'
+    link: 'https://pub.dartlang.org/packages/stream_store'
+    author:
+        - 'brian.egan <brian@brianegan.com>'
+-
+    package_name: image_picker
+    package_version: v0.1.4
+    title: 'v0.1.4 of image_picker'
+    published: '2017-11-28T12:43:39+00:00'
+    id: 'urn:uuid:72c3a790-49bf-5899-8aa8-9b84eeaa97ed'
+    link: 'https://pub.dartlang.org/packages/image_picker'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
