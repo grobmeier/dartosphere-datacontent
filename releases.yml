@@ -116313,3 +116313,59 @@
     link: 'https://pub.dartlang.org/packages/image_picker'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: angel_framework
+    package_version: v1.0.11
+    title: 'v1.0.11 of angel_framework'
+    published: '2017-11-28T18:25:22+00:00'
+    id: 'urn:uuid:c20d533b-43fd-55a8-ab7f-95a0868cf566'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_route
+    package_version: v2.0.3+2
+    title: 'v2.0.3+2 of angel_route'
+    published: '2017-11-28T18:07:24+00:00'
+    id: 'urn:uuid:a51f6f2e-e399-5c45-932d-7a94220bb2df'
+    link: 'https://pub.dartlang.org/packages/angel_route'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angular_analyzer_plugin
+    package_version: v0.0.11+1
+    title: 'v0.0.11+1 of angular_analyzer_plugin'
+    published: '2017-11-28T17:20:27+00:00'
+    id: 'urn:uuid:bd859d66-8d68-512d-9bcd-527406806b0a'
+    link: 'https://pub.dartlang.org/packages/angular_analyzer_plugin'
+    author:
+        - 'Konstantin Scheglov <scheglov@google.com>'
+        - 'Mike Fairhurst <mfairhurst@google.com>'
+        - 'Max Kim <maxkim@google.com>'
+-
+    package_name: built_value_test
+    package_version: v4.4.0
+    title: 'v4.4.0 of built_value_test'
+    published: '2017-11-28T15:04:06+00:00'
+    id: 'urn:uuid:7f6eb5d9-4de7-5475-9b80-a6821cac7455'
+    link: 'https://pub.dartlang.org/packages/built_value_test'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value_generator
+    package_version: v4.4.0
+    title: 'v4.4.0 of built_value_generator'
+    published: '2017-11-28T15:03:50+00:00'
+    id: 'urn:uuid:38ac080c-ea83-590f-8aa3-b416bc0a1ad5'
+    link: 'https://pub.dartlang.org/packages/built_value_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value
+    package_version: v4.4.0
+    title: 'v4.4.0 of built_value'
+    published: '2017-11-28T15:03:24+00:00'
+    id: 'urn:uuid:02f5d1e9-01b8-5db5-b7bc-07a23a04817a'
+    link: 'https://pub.dartlang.org/packages/built_value'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
