@@ -116268,3 +116268,21 @@
     link: 'https://pub.dartlang.org/packages/pana'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: flutter_charts
+    package_version: v0.1.5
+    title: 'v0.1.5 of flutter_charts'
+    published: '2017-11-28T06:45:29+00:00'
+    id: 'urn:uuid:0a27235b-5bec-5024-94da-aeff353c0e1c'
+    link: 'https://pub.dartlang.org/packages/flutter_charts'
+    author:
+        - 'Milan Zimmermann <milan.zimmermann@gmail.com>'
+-
+    package_name: dart_dice_parser
+    package_version: v0.0.3
+    title: 'v0.0.3 of dart_dice_parser'
+    published: '2017-11-28T05:26:25+00:00'
+    id: 'urn:uuid:909fd8ff-8d28-54f5-a2f3-8d5621a0c144'
+    link: 'https://pub.dartlang.org/packages/dart_dice_parser'
+    author:
+        - 'steve christensen <adventuresmith.rpg@gmail.com>'
