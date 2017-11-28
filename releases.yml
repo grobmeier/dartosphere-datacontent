@@ -116286,3 +116286,12 @@
     link: 'https://pub.dartlang.org/packages/dart_dice_parser'
     author:
         - 'steve christensen <adventuresmith.rpg@gmail.com>'
+-
+    package_name: dart_dice_parser
+    package_version: v0.0.5
+    title: 'v0.0.5 of dart_dice_parser'
+    published: '2017-11-28T07:14:15+00:00'
+    id: 'urn:uuid:04d15176-c4c8-5994-8a5c-c938cd036c21'
+    link: 'https://pub.dartlang.org/packages/dart_dice_parser'
+    author:
+        - 'steve christensen <adventuresmith.rpg@gmail.com>'
