@@ -116468,3 +116468,39 @@
     link: 'https://pub.dartlang.org/packages/compiled_mustache'
     author:
         - 'thislooksfun <thislooksfun@repbot.com>'
+-
+    package_name: RAL
+    package_version: v1.12.0
+    title: 'v1.12.0 of RAL'
+    published: '2017-11-29T09:27:56+00:00'
+    id: 'urn:uuid:8371e349-404c-52a1-b5f1-9ab1efe77968'
+    link: 'https://pub.dartlang.org/packages/RAL'
+    author:
+        - 'Igor Demyanov<igor.demyanov@gmail.com>'
+-
+    package_name: leveldb
+    package_version: v5.0.1
+    title: 'v5.0.1 of leveldb'
+    published: '2017-11-29T09:25:25+00:00'
+    id: 'urn:uuid:90b03975-8c96-5e44-b886-e8839dd2e510'
+    link: 'https://pub.dartlang.org/packages/leveldb'
+    author:
+        - 'Adam Lofts <adam.lofts@gmail.com>'
+-
+    package_name: location
+    package_version: v1.1.7
+    title: 'v1.1.7 of location'
+    published: '2017-11-29T09:01:04+00:00'
+    id: 'urn:uuid:ff904c26-d168-5319-a242-d254c841bfa8'
+    link: 'https://pub.dartlang.org/packages/location'
+    author:
+        - 'Guillaume Bernos'
+-
+    package_name: compiled_mustache
+    package_version: v1.0.1
+    title: 'v1.0.1 of compiled_mustache'
+    published: '2017-11-29T07:35:26+00:00'
+    id: 'urn:uuid:176110dd-d5fd-5a26-8a7c-1576583536d6'
+    link: 'https://pub.dartlang.org/packages/compiled_mustache'
+    author:
+        - 'thislooksfun <thislooksfun@repbot.com>'
