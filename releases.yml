@@ -116459,3 +116459,12 @@
     link: 'https://pub.dartlang.org/packages/jael'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: compiled_mustache
+    package_version: v1.0.0
+    title: 'v1.0.0 of compiled_mustache'
+    published: '2017-11-29T05:56:02+00:00'
+    id: 'urn:uuid:c2738e46-735c-501e-878a-249c424d7473'
+    link: 'https://pub.dartlang.org/packages/compiled_mustache'
+    author:
+        - 'thislooksfun <thislooksfun@repbot.com>'
