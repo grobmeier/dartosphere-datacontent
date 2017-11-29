@@ -116504,3 +116504,31 @@
     link: 'https://pub.dartlang.org/packages/compiled_mustache'
     author:
         - 'thislooksfun <thislooksfun@repbot.com>'
+-
+    package_name: _bazel_codegen
+    package_version: v0.3.0
+    title: 'v0.3.0 of _bazel_codegen'
+    published: '2017-11-29T18:01:12+00:00'
+    id: 'urn:uuid:a87b189f-9329-507a-bce0-0bbc78813c94'
+    link: 'https://pub.dartlang.org/packages/_bazel_codegen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: redux
+    package_version: v2.0.4
+    title: 'v2.0.4 of redux'
+    published: '2017-11-29T17:31:05+00:00'
+    id: 'urn:uuid:f2990291-1ddd-5d0c-80cd-619896128d5e'
+    link: 'https://pub.dartlang.org/packages/redux'
+    author:
+        - 'John Ryan <john.p.ryan4@gmail.com>'
+        - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: video_player
+    package_version: v0.0.3
+    title: 'v0.0.3 of video_player'
+    published: '2017-11-29T15:38:08+00:00'
+    id: 'urn:uuid:bf6ba0e1-1ac6-55f3-b7f0-35b0b09141e4'
+    link: 'https://pub.dartlang.org/packages/video_player'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
