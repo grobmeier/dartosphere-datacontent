@@ -116414,3 +116414,48 @@
     link: 'https://pub.dartlang.org/packages/pubviz'
     author:
         - 'Kevin Moore <kevmoo@google.com>'
+-
+    package_name: angel_orm
+    package_version: v1.0.0-alpha+11
+    title: 'v1.0.0-alpha+11 of angel_orm'
+    published: '2017-11-29T02:30:14+00:00'
+    id: 'urn:uuid:8b470893-4079-50db-8b1b-cbb25335807b'
+    link: 'https://pub.dartlang.org/packages/angel_orm'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: build
+    package_version: v0.11.1
+    title: 'v0.11.1 of build'
+    published: '2017-11-28T23:39:24+00:00'
+    id: 'urn:uuid:4b1bb124-a264-55dd-aab8-a9cffe79f235'
+    link: 'https://pub.dartlang.org/packages/build'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angel_jael
+    package_version: v1.0.0
+    title: 'v1.0.0 of angel_jael'
+    published: '2017-11-28T23:15:23+00:00'
+    id: 'urn:uuid:0b68f9cf-752f-5b85-a275-02058e436102'
+    link: 'https://pub.dartlang.org/packages/angel_jael'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: jael_preprocessor
+    package_version: v1.0.0
+    title: 'v1.0.0 of jael_preprocessor'
+    published: '2017-11-28T23:14:49+00:00'
+    id: 'urn:uuid:dda1312e-b67e-5efa-8a94-8a02547a067c'
+    link: 'https://pub.dartlang.org/packages/jael_preprocessor'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: jael
+    package_version: v1.0.0
+    title: 'v1.0.0 of jael'
+    published: '2017-11-28T23:14:08+00:00'
+    id: 'urn:uuid:815066df-5e72-5c04-8ec4-c23246e65429'
+    link: 'https://pub.dartlang.org/packages/jael'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
