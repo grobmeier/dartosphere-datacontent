@@ -116568,3 +116568,21 @@
     link: 'https://pub.dartlang.org/packages/built_redux'
     author:
         - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: appengine
+    package_version: v0.4.3
+    title: 'v0.4.3 of appengine'
+    published: '2017-11-30T18:09:29+00:00'
+    id: 'urn:uuid:5e25b0cb-26fe-5666-a65e-43ddd3e4c45f'
+    link: 'https://pub.dartlang.org/packages/appengine'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: video_player
+    package_version: v0.0.4
+    title: 'v0.0.4 of video_player'
+    published: '2017-11-30T15:31:24+00:00'
+    id: 'urn:uuid:e1104f07-0bd6-5377-9af3-72f0e148f9ca'
+    link: 'https://pub.dartlang.org/packages/video_player'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
