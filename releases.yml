@@ -116541,3 +116541,21 @@
     link: 'https://pub.dartlang.org/packages/pana'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build_test
+    package_version: v0.9.1
+    title: 'v0.9.1 of build_test'
+    published: '2017-11-30T00:31:06+00:00'
+    id: 'urn:uuid:40801875-d21f-58c8-9552-6bfde9c3c66e'
+    link: 'https://pub.dartlang.org/packages/build_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: url_launcher
+    package_version: v1.0.2
+    title: 'v1.0.2 of url_launcher'
+    published: '2017-11-29T23:09:06+00:00'
+    id: 'urn:uuid:0a34afb8-d979-5f82-9b0a-dec8289e3f71'
+    link: 'https://pub.dartlang.org/packages/url_launcher'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
