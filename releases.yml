@@ -116559,3 +116559,12 @@
     link: 'https://pub.dartlang.org/packages/url_launcher'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: built_redux
+    package_version: v7.3.1
+    title: 'v7.3.1 of built_redux'
+    published: '2017-11-30T05:23:06+00:00'
+    id: 'urn:uuid:6469d05c-d004-51f6-b96f-625959e705a0'
+    link: 'https://pub.dartlang.org/packages/built_redux'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
