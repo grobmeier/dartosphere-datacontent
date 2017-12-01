@@ -116658,3 +116658,21 @@
     link: 'https://pub.dartlang.org/packages/dart_dice_parser'
     author:
         - 'steve christensen <adventuresmith.rpg@gmail.com>'
+-
+    package_name: dart_collection_sampler
+    package_version: v0.0.1
+    title: 'v0.0.1 of dart_collection_sampler'
+    published: '2017-12-01T10:23:38+00:00'
+    id: 'urn:uuid:724fad0d-7ac6-5a58-a7e0-e1a43a3cb444'
+    link: 'https://pub.dartlang.org/packages/dart_collection_sampler'
+    author:
+        - 'steve christensen <adventuresmith.rpg@gmail.com>'
+-
+    package_name: dart_dice_parser
+    package_version: v0.1.2
+    title: 'v0.1.2 of dart_dice_parser'
+    published: '2017-12-01T09:34:36+00:00'
+    id: 'urn:uuid:5607655f-439b-523f-8cc5-b096de9310d1'
+    link: 'https://pub.dartlang.org/packages/dart_dice_parser'
+    author:
+        - 'steve christensen <adventuresmith.rpg@gmail.com>'
