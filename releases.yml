@@ -116676,3 +116676,12 @@
     link: 'https://pub.dartlang.org/packages/dart_dice_parser'
     author:
         - 'steve christensen <adventuresmith.rpg@gmail.com>'
+-
+    package_name: video_player
+    package_version: v0.0.5
+    title: 'v0.0.5 of video_player'
+    published: '2017-12-01T13:27:49+00:00'
+    id: 'urn:uuid:24634a59-4037-5fd7-bb29-bc8c4e7f0602'
+    link: 'https://pub.dartlang.org/packages/video_player'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
