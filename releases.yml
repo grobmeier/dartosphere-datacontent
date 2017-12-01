@@ -116622,3 +116622,30 @@
     link: 'https://pub.dartlang.org/packages/appengine'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build_runner
+    package_version: v0.6.1
+    title: 'v0.6.1 of build_runner'
+    published: '2017-12-01T00:10:24+00:00'
+    id: 'urn:uuid:286988b8-2ee4-5d76-88ff-b340aa22a0f3'
+    link: 'https://pub.dartlang.org/packages/build_runner'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build_compilers
+    package_version: v0.1.0
+    title: 'v0.1.0 of build_compilers'
+    published: '2017-11-30T23:49:57+00:00'
+    id: 'urn:uuid:e5e2a855-5c90-57f7-9ced-df79e7aae15b'
+    link: 'https://pub.dartlang.org/packages/build_compilers'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build_config
+    package_version: v0.1.1
+    title: 'v0.1.1 of build_config'
+    published: '2017-11-30T23:23:05+00:00'
+    id: 'urn:uuid:1925047b-372b-5df5-a018-4494a077d810'
+    link: 'https://pub.dartlang.org/packages/build_config'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
