@@ -116685,3 +116685,12 @@
     link: 'https://pub.dartlang.org/packages/video_player'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: pikaday
+    package_version: v1.2.0
+    title: 'v1.2.0 of pikaday'
+    published: '2017-12-01T18:09:47+00:00'
+    id: 'urn:uuid:b876b484-5a08-500b-a915-6a38ab67e0c1'
+    link: 'https://pub.dartlang.org/packages/pikaday'
+    author:
+        - 'John Ryan <john.p.ryan4@gmail.com>'
