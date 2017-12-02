@@ -116802,3 +116802,12 @@
     link: 'https://pub.dartlang.org/packages/http_client'
     author:
         - 'Istvan Soos <istvan.soos@gmail.com>'
+-
+    package_name: stagexl
+    package_version: v1.3.0+1
+    title: 'v1.3.0+1 of stagexl'
+    published: '2017-12-02T13:06:24+00:00'
+    id: 'urn:uuid:64f2a70c-1202-5f34-b497-99a713f3247a'
+    link: 'https://pub.dartlang.org/packages/stagexl'
+    author:
+        - 'Bernhard Pichler <support@stagexl.org>'
