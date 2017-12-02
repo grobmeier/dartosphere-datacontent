@@ -116793,3 +116793,12 @@
     link: 'https://pub.dartlang.org/packages/compiled_mustache'
     author:
         - 'thislooksfun <thislooksfun@repbot.org>'
+-
+    package_name: http_client
+    package_version: v0.3.0
+    title: 'v0.3.0 of http_client'
+    published: '2017-12-02T10:45:40+00:00'
+    id: 'urn:uuid:3d663265-6a24-5216-a963-21c0bf391805'
+    link: 'https://pub.dartlang.org/packages/http_client'
+    author:
+        - 'Istvan Soos <istvan.soos@gmail.com>'
