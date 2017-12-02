@@ -116766,3 +116766,30 @@
     link: 'https://pub.dartlang.org/packages/multi_server_socket'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: angel_compiled_mustache
+    package_version: v1.0.1
+    title: 'v1.0.1 of angel_compiled_mustache'
+    published: '2017-12-02T06:22:16+00:00'
+    id: 'urn:uuid:946938e4-64db-5b09-b1b7-39401e63d557'
+    link: 'https://pub.dartlang.org/packages/angel_compiled_mustache'
+    author:
+        - 'thislooksfun <thislooksfun@repbot.org>'
+-
+    package_name: dart_collection_sampler
+    package_version: v0.3.0
+    title: 'v0.3.0 of dart_collection_sampler'
+    published: '2017-12-02T05:19:26+00:00'
+    id: 'urn:uuid:bf380afa-a0ff-5f2a-b873-38a75c348e2e'
+    link: 'https://pub.dartlang.org/packages/dart_collection_sampler'
+    author:
+        - 'steve christensen <adventuresmith.rpg@gmail.com>'
+-
+    package_name: compiled_mustache
+    package_version: v1.0.2
+    title: 'v1.0.2 of compiled_mustache'
+    published: '2017-12-02T04:50:38+00:00'
+    id: 'urn:uuid:f16e9768-246d-5d6d-99e0-f53dacb5f0c6'
+    link: 'https://pub.dartlang.org/packages/compiled_mustache'
+    author:
+        - 'thislooksfun <thislooksfun@repbot.org>'
