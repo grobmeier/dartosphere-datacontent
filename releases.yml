@@ -116847,3 +116847,93 @@
     link: 'https://pub.dartlang.org/packages/silent_auth'
     author:
         - 'Man Hoang <jolleekin@outlook.com>'
+-
+    package_name: native_extension_template
+    package_version: v0.0.1
+    title: 'v0.0.1 of native_extension_template'
+    published: '2017-12-03T18:36:06+00:00'
+    id: 'urn:uuid:cceeb955-d593-5e7f-9cdf-be81821e0aa1'
+    link: 'https://pub.dartlang.org/packages/native_extension_template'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: quick_actions
+    package_version: v0.0.2
+    title: 'v0.0.2 of quick_actions'
+    published: '2017-12-03T18:18:44+00:00'
+    id: 'urn:uuid:630d3535-2703-54e1-8184-5bb50c72fbb8'
+    link: 'https://pub.dartlang.org/packages/quick_actions'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: package_info
+    package_version: v0.0.2
+    title: 'v0.0.2 of package_info'
+    published: '2017-12-03T18:18:12+00:00'
+    id: 'urn:uuid:01a6266c-34dd-54b4-b138-6754a93ceb45'
+    link: 'https://pub.dartlang.org/packages/package_info'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: local_auth
+    package_version: v0.0.3
+    title: 'v0.0.3 of local_auth'
+    published: '2017-12-03T18:17:58+00:00'
+    id: 'urn:uuid:6bd40fbb-7701-5a2d-a842-a9cdfa378340'
+    link: 'https://pub.dartlang.org/packages/local_auth'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: image_picker
+    package_version: v0.1.5
+    title: 'v0.1.5 of image_picker'
+    published: '2017-12-03T18:17:38+00:00'
+    id: 'urn:uuid:72b4f267-fdec-539c-be8b-7b04a8fad5d9'
+    link: 'https://pub.dartlang.org/packages/image_picker'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: firebase_database
+    package_version: v0.1.4
+    title: 'v0.1.4 of firebase_database'
+    published: '2017-12-03T18:15:57+00:00'
+    id: 'urn:uuid:5b205232-5623-5b0d-a7c4-30c4c51ab281'
+    link: 'https://pub.dartlang.org/packages/firebase_database'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: device_info
+    package_version: v0.0.5
+    title: 'v0.0.5 of device_info'
+    published: '2017-12-03T18:14:20+00:00'
+    id: 'urn:uuid:1101ac60-e96e-5229-8d31-544cc6518054'
+    link: 'https://pub.dartlang.org/packages/device_info'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: connectivity
+    package_version: v0.1.1
+    title: 'v0.1.1 of connectivity'
+    published: '2017-12-03T18:14:01+00:00'
+    id: 'urn:uuid:a110ecfa-357c-59c3-828c-e218beca652b'
+    link: 'https://pub.dartlang.org/packages/connectivity'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: android_intent
+    package_version: v0.0.3
+    title: 'v0.0.3 of android_intent'
+    published: '2017-12-03T18:13:10+00:00'
+    id: 'urn:uuid:b39f1285-0473-5ee8-9085-57edd810aff1'
+    link: 'https://pub.dartlang.org/packages/android_intent'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: android_alarm_manager
+    package_version: v0.0.2
+    title: 'v0.0.2 of android_alarm_manager'
+    published: '2017-12-03T18:12:41+00:00'
+    id: 'urn:uuid:5edda5a1-76dc-5239-9f79-0d71d3a13381'
+    link: 'https://pub.dartlang.org/packages/android_alarm_manager'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
