@@ -116937,3 +116937,14 @@
     link: 'https://pub.dartlang.org/packages/android_alarm_manager'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: sass_builder
+    package_version: v1.1.0
+    title: 'v1.1.0 of sass_builder'
+    published: '2017-12-03T22:54:28+00:00'
+    id: 'urn:uuid:e9620f41-ef39-53b4-9248-6170bc79c177'
+    link: 'https://pub.dartlang.org/packages/sass_builder'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+        - 'Kevin Moore <kevmoo@github.com>'
+        - 'Nicholas Shahan <nshahan@github.com>'
