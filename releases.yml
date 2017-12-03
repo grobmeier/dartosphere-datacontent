@@ -116829,3 +116829,21 @@
     link: 'https://pub.dartlang.org/packages/idle_tracker'
     author:
         - 'mhoang <jolleekin@outlook.com>'
+-
+    package_name: apn_fb_login
+    package_version: v0.0.2
+    title: 'v0.0.2 of apn_fb_login'
+    published: '2017-12-03T14:16:05+00:00'
+    id: 'urn:uuid:d206d67b-2a85-5f6c-b043-91dc8b2a7860'
+    link: 'https://pub.dartlang.org/packages/apn_fb_login'
+    author:
+        - 'Mark Mooibroek <mark@appnormal.com>'
+-
+    package_name: silent_auth
+    package_version: v0.0.1
+    title: 'v0.0.1 of silent_auth'
+    published: '2017-12-03T13:52:57+00:00'
+    id: 'urn:uuid:28746c16-2560-5b29-be6c-d2f6cb12fe3c'
+    link: 'https://pub.dartlang.org/packages/silent_auth'
+    author:
+        - 'Man Hoang <jolleekin@outlook.com>'
