@@ -117092,3 +117092,77 @@
     link: 'https://pub.dartlang.org/packages/wui_builder'
     author:
         - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: drag_drop
+    package_version: v1.0.0
+    title: 'v1.0.0 of drag_drop'
+    published: '2017-12-04T14:38:32+00:00'
+    id: 'urn:uuid:63070774-ca55-5c14-9304-b41b2bf1a079'
+    link: 'https://pub.dartlang.org/packages/drag_drop'
+    author:
+        - 'Oleg Bezuglov <oleg.bezuglov@team.wrike.com>'
+-
+    package_name: user_environment_angular
+    package_version: v1.0.0
+    title: 'v1.0.0 of user_environment_angular'
+    published: '2017-12-04T12:44:46+00:00'
+    id: 'urn:uuid:c301e3c6-a33b-5fd2-a834-d283d78a5048'
+    link: 'https://pub.dartlang.org/packages/user_environment_angular'
+    author:
+        - 'Oleg Bezuglov <oleg.bezuglov@team.wrike.com>'
+-
+    package_name: built_value_test
+    package_version: v4.4.1
+    title: 'v4.4.1 of built_value_test'
+    published: '2017-12-04T12:35:29+00:00'
+    id: 'urn:uuid:80f04475-e002-56c2-a642-46aa6ed3a7f0'
+    link: 'https://pub.dartlang.org/packages/built_value_test'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value_generator
+    package_version: v4.4.1
+    title: 'v4.4.1 of built_value_generator'
+    published: '2017-12-04T12:35:14+00:00'
+    id: 'urn:uuid:f2d52877-fcde-5e4d-91f7-fecf4cce53f1'
+    link: 'https://pub.dartlang.org/packages/built_value_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value
+    package_version: v4.4.1
+    title: 'v4.4.1 of built_value'
+    published: '2017-12-04T12:34:53+00:00'
+    id: 'urn:uuid:47da9dab-eb52-5060-9355-fb515acfc64f'
+    link: 'https://pub.dartlang.org/packages/built_value'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_collection
+    package_version: v2.1.0
+    title: 'v2.1.0 of built_collection'
+    published: '2017-12-04T12:09:06+00:00'
+    id: 'urn:uuid:07366bfb-af17-5222-b6d6-0661adafa4d4'
+    link: 'https://pub.dartlang.org/packages/built_collection'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+        - 'Matan Lurey <matanl@google.com>'
+        - 'Philipp Schiffmann <philippschiffmann93@gmail.com>'
+-
+    package_name: user_environment
+    package_version: v1.0.1
+    title: 'v1.0.1 of user_environment'
+    published: '2017-12-04T11:34:30+00:00'
+    id: 'urn:uuid:178c1801-0f03-5bc6-8e5e-722eaca66dd9'
+    link: 'https://pub.dartlang.org/packages/user_environment'
+    author:
+        - 'Oleg Bezuglov <oleg.bezuglov@team.wrike.com>'
+-
+    package_name: video_player
+    package_version: v0.0.6
+    title: 'v0.0.6 of video_player'
+    published: '2017-12-04T11:33:42+00:00'
+    id: 'urn:uuid:8a328509-a335-50c1-86cc-28a12d14c595'
+    link: 'https://pub.dartlang.org/packages/video_player'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
