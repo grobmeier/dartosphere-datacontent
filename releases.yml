@@ -116948,3 +116948,30 @@
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
         - 'Kevin Moore <kevmoo@github.com>'
         - 'Nicholas Shahan <nshahan@github.com>'
+-
+    package_name: dart_data_io
+    package_version: v0.0.1
+    title: 'v0.0.1 of dart_data_io'
+    published: '2017-12-04T02:18:19+00:00'
+    id: 'urn:uuid:6ac10214-b346-59f1-a6e6-7d56ccbbdb4a'
+    link: 'https://pub.dartlang.org/packages/dart_data_io'
+    author:
+        - 'Mark McLaren <mark.k.mclaren@gmail.com>'
+-
+    package_name: serializable
+    package_version: v0.8.0
+    title: 'v0.8.0 of serializable'
+    published: '2017-12-04T00:51:22+00:00'
+    id: 'urn:uuid:4334c217-7e67-54a2-b2d5-696fb19fd262'
+    link: 'https://pub.dartlang.org/packages/serializable'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: built_mirrors
+    package_version: v0.7.0
+    title: 'v0.7.0 of built_mirrors'
+    published: '2017-12-04T00:40:29+00:00'
+    id: 'urn:uuid:cd3f39ab-0242-5f24-ba29-b33ce111ed9e'
+    link: 'https://pub.dartlang.org/packages/built_mirrors'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
