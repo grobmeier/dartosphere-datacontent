@@ -116975,3 +116975,30 @@
     link: 'https://pub.dartlang.org/packages/built_mirrors'
     author:
         - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: dart_wordlists
+    package_version: v0.0.1
+    title: 'v0.0.1 of dart_wordlists'
+    published: '2017-12-04T05:40:40+00:00'
+    id: 'urn:uuid:35482e26-93ff-5f01-a5a1-1087afb74af6'
+    link: 'https://pub.dartlang.org/packages/dart_wordlists'
+    author:
+        - 'steve christensen <adventuresmith.rpg@gmail.com>'
+-
+    package_name: dson
+    package_version: v0.11.0
+    title: 'v0.11.0 of dson'
+    published: '2017-12-04T05:20:13+00:00'
+    id: 'urn:uuid:ee2cedc5-b1d2-5486-b793-2019586dd6f6'
+    link: 'https://pub.dartlang.org/packages/dson'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
+-
+    package_name: built_mirrors
+    package_version: v0.7.1
+    title: 'v0.7.1 of built_mirrors'
+    published: '2017-12-04T03:29:31+00:00'
+    id: 'urn:uuid:b239150a-f04e-5ca2-b973-ca2f29dadf07'
+    link: 'https://pub.dartlang.org/packages/built_mirrors'
+    author:
+        - 'Luis Vargas <luisvargastijerino@gmail.com>'
