@@ -117275,3 +117275,12 @@
     link: 'https://pub.dartlang.org/packages/wilddog_auth'
     author:
         - 'Hekaiyou <hekaiyou@qq.com>'
+-
+    package_name: font_awesome_flutter
+    package_version: v5.0.0
+    title: 'v5.0.0 of font_awesome_flutter'
+    published: '2017-12-06T09:42:04+00:00'
+    id: 'urn:uuid:4a09bf8a-4741-531a-a808-4a89735923fe'
+    link: 'https://pub.dartlang.org/packages/font_awesome_flutter'
+    author:
+        - 'Brian Egan <brian@brianegan.com>'
