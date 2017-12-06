@@ -117302,3 +117302,62 @@
     link: 'https://pub.dartlang.org/packages/console_log_handler'
     author:
         - 'Mike Mitterer  <office@mikemitterer.at>'
+-
+    package_name: l10n
+    package_version: v1.2.2
+    title: 'v1.2.2 of l10n'
+    published: '2017-12-06T17:47:24+00:00'
+    id: 'urn:uuid:0fbb4d04-2b34-5bbd-b371-dfacc0992f43'
+    link: 'https://pub.dartlang.org/packages/l10n'
+    author:
+        - 'Mike Mitterer  <office@mikemitterer.at>'
+-
+    package_name: dart_dev
+    package_version: v1.9.0
+    title: 'v1.9.0 of dart_dev'
+    published: '2017-12-06T17:34:51+00:00'
+    id: 'urn:uuid:b16d18a3-43a7-5a22-a74c-a9f6d4690ee1'
+    link: 'https://pub.dartlang.org/packages/dart_dev'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Dustin Lessard <dustin.lessard@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
+        - 'Jay Udey <jay.udey@workiva.com>'
+        - 'Max Peterson <maxwell.peterson@workiva.com>'
+        - 'Trent Grover <trent.grover@workiva.com>'
+-
+    package_name: angel_file_security
+    package_version: v1.1.0
+    title: 'v1.1.0 of angel_file_security'
+    published: '2017-12-06T17:02:44+00:00'
+    id: 'urn:uuid:ccb2aae5-b591-5461-8b89-5c887c08f492'
+    link: 'https://pub.dartlang.org/packages/angel_file_security'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: console_log_handler
+    package_version: v0.4.1
+    title: 'v0.4.1 of console_log_handler'
+    published: '2017-12-06T16:55:21+00:00'
+    id: 'urn:uuid:8b58a861-4f5b-5534-88fe-5af1acb375c1'
+    link: 'https://pub.dartlang.org/packages/console_log_handler'
+    author:
+        - 'Mike Mitterer  <office@mikemitterer.at>'
+-
+    package_name: lookaround_iterator
+    package_version: v1.0.1
+    title: 'v1.0.1 of lookaround_iterator'
+    published: '2017-12-06T15:46:30+00:00'
+    id: 'urn:uuid:6ea7463c-ca00-5e4b-a854-a9130657b68b'
+    link: 'https://pub.dartlang.org/packages/lookaround_iterator'
+    author:
+        - 'Philipp Schiffmann <philippschiffmann93@gmail.com>'
+-
+    package_name: pana
+    package_version: v0.7.3+1
+    title: 'v0.7.3+1 of pana'
+    published: '2017-12-06T15:19:54+00:00'
+    id: 'urn:uuid:32564232-c8b2-574b-af70-431bc224897a'
+    link: 'https://pub.dartlang.org/packages/pana'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
