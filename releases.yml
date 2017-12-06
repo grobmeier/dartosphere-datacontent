@@ -117361,3 +117361,12 @@
     link: 'https://pub.dartlang.org/packages/pana'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: font_face_observer
+    package_version: v2.0.5
+    title: 'v2.0.5 of font_face_observer'
+    published: '2017-12-06T22:29:36+00:00'
+    id: 'urn:uuid:8fd6c73f-4a34-515e-a3b1-da7947c92daf'
+    link: 'https://pub.dartlang.org/packages/font_face_observer'
+    author:
+        - 'Rob Becker <rob.becker@workiva.com>'
