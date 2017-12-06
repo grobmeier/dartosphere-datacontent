@@ -117257,3 +117257,21 @@
     author:
         - 'Franz Silva <franzsilva@gmail.com>'
         - 'Mark O''Sullivan <mos182@hotmail.co.uk>'
+-
+    package_name: wilddog_sync
+    package_version: v0.0.6
+    title: 'v0.0.6 of wilddog_sync'
+    published: '2017-12-06T05:02:14+00:00'
+    id: 'urn:uuid:54a05481-0338-5ec0-b9ec-64ae7a8993b0'
+    link: 'https://pub.dartlang.org/packages/wilddog_sync'
+    author:
+        - 'Hekaiyou <hekaiyou@qq.com>'
+-
+    package_name: wilddog_auth
+    package_version: v0.0.4
+    title: 'v0.0.4 of wilddog_auth'
+    published: '2017-12-06T04:55:10+00:00'
+    id: 'urn:uuid:41e8a674-6f89-5fe8-8e69-46a18476917b'
+    link: 'https://pub.dartlang.org/packages/wilddog_auth'
+    author:
+        - 'Hekaiyou <hekaiyou@qq.com>'
