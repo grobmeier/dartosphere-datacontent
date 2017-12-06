@@ -117166,3 +117166,94 @@
     link: 'https://pub.dartlang.org/packages/video_player'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: args
+    package_version: v1.2.0
+    title: 'v1.2.0 of args'
+    published: '2017-12-06T00:51:28+00:00'
+    id: 'urn:uuid:baacf268-2674-5db7-a364-12056440607a'
+    link: 'https://pub.dartlang.org/packages/args'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: where
+    package_version: v3.0.0
+    title: 'v3.0.0 of where'
+    published: '2017-12-06T00:21:15+00:00'
+    id: 'urn:uuid:b649dd4d-b212-59bb-8fc8-e39b672f2f9e'
+    link: 'https://pub.dartlang.org/packages/where'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: cloud_firestore
+    package_version: v0.1.1
+    title: 'v0.1.1 of cloud_firestore'
+    published: '2017-12-05T23:21:18+00:00'
+    id: 'urn:uuid:9be2c943-0b6a-55f5-8368-e1e0cd006851'
+    link: 'https://pub.dartlang.org/packages/cloud_firestore'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: chewie
+    package_version: v0.2.0
+    title: 'v0.2.0 of chewie'
+    published: '2017-12-05T22:57:22+00:00'
+    id: 'urn:uuid:43096986-d396-5954-9672-490ea454464d'
+    link: 'https://pub.dartlang.org/packages/chewie'
+    author:
+        - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: pana
+    package_version: v0.7.3
+    title: 'v0.7.3 of pana'
+    published: '2017-12-05T19:47:29+00:00'
+    id: 'urn:uuid:999bdff0-3b1b-58eb-9736-152680b0142c'
+    link: 'https://pub.dartlang.org/packages/pana'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: nodejs_interop
+    package_version: v0.6.0
+    title: 'v0.6.0 of nodejs_interop'
+    published: '2017-12-05T10:57:55+00:00'
+    id: 'urn:uuid:340dddff-9003-5934-8161-ffa643f7eacc'
+    link: 'https://pub.dartlang.org/packages/nodejs_interop'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: drag_drop_angular
+    package_version: v1.0.2
+    title: 'v1.0.2 of drag_drop_angular'
+    published: '2017-12-05T08:46:48+00:00'
+    id: 'urn:uuid:049b0a51-29da-5971-884e-4c2f629d6de6'
+    link: 'https://pub.dartlang.org/packages/drag_drop_angular'
+    author:
+        - 'Oleg Bezuglov <oleg.bezuglov@team.wrike.com>'
+-
+    package_name: markd
+    package_version: v0.11.5+2
+    title: 'v0.11.5+2 of markd'
+    published: '2017-12-05T06:29:45+00:00'
+    id: 'urn:uuid:d5162cc5-0bb6-5583-bdc7-e4273be0fc6a'
+    link: 'https://pub.dartlang.org/packages/markd'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: built_redux
+    package_version: v7.3.2
+    title: 'v7.3.2 of built_redux'
+    published: '2017-12-05T05:36:52+00:00'
+    id: 'urn:uuid:54d2f21e-34e9-501b-befe-7abec0a39116'
+    link: 'https://pub.dartlang.org/packages/built_redux'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: flutter_launcher_icons
+    package_version: v0.1.0
+    title: 'v0.1.0 of flutter_launcher_icons'
+    published: '2017-12-05T02:06:07+00:00'
+    id: 'urn:uuid:30022400-0991-5238-afad-bb1c7de127d5'
+    link: 'https://pub.dartlang.org/packages/flutter_launcher_icons'
+    author:
+        - 'Franz Silva <franzsilva@gmail.com>'
+        - 'Mark O''Sullivan <mos182@hotmail.co.uk>'
