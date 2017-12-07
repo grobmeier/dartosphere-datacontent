@@ -117469,3 +117469,84 @@
     link: 'https://pub.dartlang.org/packages/angel_proxy'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: fcm_push
+    package_version: v1.1.9
+    title: 'v1.1.9 of fcm_push'
+    published: '2017-12-07T10:59:36+00:00'
+    id: 'urn:uuid:04d6ee0b-40de-5ad3-8d62-710944669484'
+    link: 'https://pub.dartlang.org/packages/fcm_push'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: docker
+    package_version: v0.2.4
+    title: 'v0.2.4 of docker'
+    published: '2017-12-07T10:23:28+00:00'
+    id: 'urn:uuid:b5e5124c-b6d6-5438-8c08-fea26580d39a'
+    link: 'https://pub.dartlang.org/packages/docker'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: console_log_handler
+    package_version: v0.5.4
+    title: 'v0.5.4 of console_log_handler'
+    published: '2017-12-07T09:58:28+00:00'
+    id: 'urn:uuid:b3fd7e6d-62d2-588a-a488-b078f6c58d80'
+    link: 'https://pub.dartlang.org/packages/console_log_handler'
+    author:
+        - 'Mike Mitterer  <office@mikemitterer.at>'
+-
+    package_name: l10n
+    package_version: v1.2.7
+    title: 'v1.2.7 of l10n'
+    published: '2017-12-07T09:48:45+00:00'
+    id: 'urn:uuid:d7b57d81-57ff-5179-a9dd-c32f207c5253'
+    link: 'https://pub.dartlang.org/packages/l10n'
+    author:
+        - 'Mike Mitterer  <office@mikemitterer.at>'
+-
+    package_name: markd
+    package_version: v0.11.5+3
+    title: 'v0.11.5+3 of markd'
+    published: '2017-12-07T09:31:15+00:00'
+    id: 'urn:uuid:4c9ac171-460e-5524-a865-7a332b164d4e'
+    link: 'https://pub.dartlang.org/packages/markd'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: exifdart
+    package_version: v0.5.0+4
+    title: 'v0.5.0+4 of exifdart'
+    published: '2017-12-07T07:40:51+00:00'
+    id: 'urn:uuid:9dedc56f-c484-5afe-8da9-1a46fd498067'
+    link: 'https://pub.dartlang.org/packages/exifdart'
+    author:
+        - 'Peter Siroki <psiroki@users.noreply.github.com>'
+-
+    package_name: angel_orm
+    package_version: v1.0.0-alpha+12
+    title: 'v1.0.0-alpha+12 of angel_orm'
+    published: '2017-12-07T07:35:47+00:00'
+    id: 'urn:uuid:c7e0ac14-05b9-5b64-a96f-4f6b0dd0494c'
+    link: 'https://pub.dartlang.org/packages/angel_orm'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_serialize_generator
+    package_version: v1.0.0
+    title: 'v1.0.0 of angel_serialize_generator'
+    published: '2017-12-07T07:08:18+00:00'
+    id: 'urn:uuid:32a95528-9241-523e-bad0-3cc74242b690'
+    link: 'https://pub.dartlang.org/packages/angel_serialize_generator'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_serialize
+    package_version: v1.0.0
+    title: 'v1.0.0 of angel_serialize'
+    published: '2017-12-07T07:04:38+00:00'
+    id: 'urn:uuid:c450e717-6582-5473-925e-4799313b5516'
+    link: 'https://pub.dartlang.org/packages/angel_serialize'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
