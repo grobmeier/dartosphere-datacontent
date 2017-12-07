@@ -117586,3 +117586,30 @@
     link: 'https://pub.dartlang.org/packages/http_utils'
     author:
         - 'Mike Mitterer  <office@mikemitterer.at>'
+-
+    package_name: dartdoc
+    package_version: v0.15.0
+    title: 'v0.15.0 of dartdoc'
+    published: '2017-12-07T17:55:23+00:00'
+    id: 'urn:uuid:56f18b52-94b9-509d-b772-7d980366b8ed'
+    link: 'https://pub.dartlang.org/packages/dartdoc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: test_reflective_loader
+    package_version: v0.1.1
+    title: 'v0.1.1 of test_reflective_loader'
+    published: '2017-12-07T17:42:45+00:00'
+    id: 'urn:uuid:3e9190e7-7261-535e-8bf9-7d2cb49a50db'
+    link: 'https://pub.dartlang.org/packages/test_reflective_loader'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: mime_types
+    package_version: v0.0.1
+    title: 'v0.0.1 of mime_types'
+    published: '2017-12-07T17:07:17+00:00'
+    id: 'urn:uuid:66b3fb2c-5e7d-5ee0-9508-58cf6a9e8426'
+    link: 'https://pub.dartlang.org/packages/mime_types'
+    author:
+        - 'Todd Mannherz <todd.mannherz@gmail.com>'
