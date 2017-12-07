@@ -117550,3 +117550,39 @@
     link: 'https://pub.dartlang.org/packages/angel_serialize'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: akismet
+    package_version: v3.2.0
+    title: 'v3.2.0 of akismet'
+    published: '2017-12-07T13:43:31+00:00'
+    id: 'urn:uuid:6b8275a6-9629-5b7e-9a9e-cfae0f68a5b7'
+    link: 'https://pub.dartlang.org/packages/akismet'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: free_mobile
+    package_version: v3.2.0
+    title: 'v3.2.0 of free_mobile'
+    published: '2017-12-07T13:19:27+00:00'
+    id: 'urn:uuid:14f6eff1-5711-5a80-a5fa-f37077f376bc'
+    link: 'https://pub.dartlang.org/packages/free_mobile'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: verbose_regexp
+    package_version: v1.0.0
+    title: 'v1.0.0 of verbose_regexp'
+    published: '2017-12-07T13:17:49+00:00'
+    id: 'urn:uuid:fabbe16d-94ae-5825-8c67-edad258bb144'
+    link: 'https://pub.dartlang.org/packages/verbose_regexp'
+    author:
+        - 'Philipp Schiffmann <philippschiffmann93@gmail.com>'
+-
+    package_name: http_utils
+    package_version: v1.5.1
+    title: 'v1.5.1 of http_utils'
+    published: '2017-12-07T11:53:03+00:00'
+    id: 'urn:uuid:31db04ce-e7c5-5879-b38b-9c372f263a92'
+    link: 'https://pub.dartlang.org/packages/http_utils'
+    author:
+        - 'Mike Mitterer  <office@mikemitterer.at>'
