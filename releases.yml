@@ -117370,3 +117370,30 @@
     link: 'https://pub.dartlang.org/packages/font_face_observer'
     author:
         - 'Rob Becker <rob.becker@workiva.com>'
+-
+    package_name: trotter
+    package_version: v0.9.0
+    title: 'v0.9.0 of trotter'
+    published: '2017-12-07T00:58:06+00:00'
+    id: 'urn:uuid:aefd6a3e-b289-5699-8e2c-8431f2e8bf26'
+    link: 'https://pub.dartlang.org/packages/trotter'
+    author:
+        - 'Richard Ambler <rambler@ibwya.net.com>'
+-
+    package_name: angular
+    package_version: v4.0.0+1
+    title: 'v4.0.0+1 of angular'
+    published: '2017-12-07T00:56:25+00:00'
+    id: 'urn:uuid:84aa0f9d-2a8f-591f-a08f-66bbb8c86df4'
+    link: 'https://pub.dartlang.org/packages/angular'
+    author:
+        - 'Dart Team <web@dartlang.org>'
+-
+    package_name: font_face_observer
+    package_version: v2.0.6
+    title: 'v2.0.6 of font_face_observer'
+    published: '2017-12-06T23:55:02+00:00'
+    id: 'urn:uuid:775462a4-28b0-5b77-a598-23f9f6f2ba35'
+    link: 'https://pub.dartlang.org/packages/font_face_observer'
+    author:
+        - 'Rob Becker <rob.becker@workiva.com>'
