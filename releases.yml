@@ -117695,3 +117695,21 @@
     link: 'https://pub.dartlang.org/packages/markd'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dart_wordlists
+    package_version: v0.0.2
+    title: 'v0.0.2 of dart_wordlists'
+    published: '2017-12-08T07:33:59+00:00'
+    id: 'urn:uuid:a96907d3-cd05-5fb5-b236-fcde6840582f'
+    link: 'https://pub.dartlang.org/packages/dart_wordlists'
+    author:
+        - 'steve christensen <adventuresmith.rpg@gmail.com>'
+-
+    package_name: dart_collection_sampler
+    package_version: v0.4.0
+    title: 'v0.4.0 of dart_collection_sampler'
+    published: '2017-12-08T07:23:02+00:00'
+    id: 'urn:uuid:4c182a5f-8b7f-5af4-99d5-5987bcc538b0'
+    link: 'https://pub.dartlang.org/packages/dart_collection_sampler'
+    author:
+        - 'steve christensen <adventuresmith.rpg@gmail.com>'
