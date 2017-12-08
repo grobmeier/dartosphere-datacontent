@@ -117713,3 +117713,21 @@
     link: 'https://pub.dartlang.org/packages/dart_collection_sampler'
     author:
         - 'steve christensen <adventuresmith.rpg@gmail.com>'
+-
+    package_name: flutter_storey
+    package_version: v0.0.2
+    title: 'v0.0.2 of flutter_storey'
+    published: '2017-12-08T14:49:21+00:00'
+    id: 'urn:uuid:239e54bf-d12e-5cdc-8ccf-58df12a40728'
+    link: 'https://pub.dartlang.org/packages/flutter_storey'
+    author:
+        - 'Kezhu Wang <kezhuw@gmail.com>'
+-
+    package_name: apn_fb_login
+    package_version: v0.0.3
+    title: 'v0.0.3 of apn_fb_login'
+    published: '2017-12-08T13:28:14+00:00'
+    id: 'urn:uuid:13174120-fd8a-5799-b5b6-7267dcb9c976'
+    link: 'https://pub.dartlang.org/packages/apn_fb_login'
+    author:
+        - 'Mark Mooibroek <mark@appnormal.com>'
