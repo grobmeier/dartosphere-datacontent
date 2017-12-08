@@ -117776,3 +117776,21 @@
     link: 'https://pub.dartlang.org/packages/flutter_oauth'
     author:
         - 'Joe Birch <hitherejoebirch@googlemail.com>'
+-
+    package_name: partial
+    package_version: v0.0.0
+    title: 'v0.0.0 of partial'
+    published: '2017-12-08T19:43:32+00:00'
+    id: 'urn:uuid:9004b38a-0278-5e8c-9b35-db9330299ec4'
+    link: 'https://pub.dartlang.org/packages/partial'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: evo
+    package_version: v1.0.1+1
+    title: 'v1.0.1+1 of evo'
+    published: '2017-12-08T19:03:52+00:00'
+    id: 'urn:uuid:efb22e76-3a79-5ec8-9958-4227a69ae044'
+    link: 'https://pub.dartlang.org/packages/evo'
+    author:
+        - 'Michael Bürgerling <michael.buergerling@gmail.com>'
