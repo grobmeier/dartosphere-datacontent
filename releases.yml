@@ -117686,3 +117686,12 @@
     link: 'https://pub.dartlang.org/packages/mime'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: markd
+    package_version: v0.11.5+4
+    title: 'v0.11.5+4 of markd'
+    published: '2017-12-08T05:57:50+00:00'
+    id: 'urn:uuid:5196efc5-4e40-595a-970b-b69bfbebcffa'
+    link: 'https://pub.dartlang.org/packages/markd'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
