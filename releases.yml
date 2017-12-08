@@ -117677,3 +117677,12 @@
     author:
         - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
         - 'Toufik Zitouni <toufiksapps@gmail.com>'
+-
+    package_name: mime
+    package_version: v0.9.5
+    title: 'v0.9.5 of mime'
+    published: '2017-12-07T23:08:23+00:00'
+    id: 'urn:uuid:0d9d5e55-beff-5706-ac47-71607244c9a1'
+    link: 'https://pub.dartlang.org/packages/mime'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
