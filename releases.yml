@@ -117794,3 +117794,13 @@
     link: 'https://pub.dartlang.org/packages/evo'
     author:
         - 'Michael Bürgerling <michael.buergerling@gmail.com>'
+-
+    package_name: firebase
+    package_version: v4.2.0+1
+    title: 'v4.2.0+1 of firebase'
+    published: '2017-12-09T01:22:25+00:00'
+    id: 'urn:uuid:3a3ea817-fb32-5176-bf6d-f2a623a6c4e5'
+    link: 'https://pub.dartlang.org/packages/firebase'
+    author:
+        - 'Jana Moudra <jana.moudra@gmail.com>'
+        - 'Kevin Moore <kevmoo@google.com>'
