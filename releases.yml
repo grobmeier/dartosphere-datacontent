@@ -117921,3 +117921,57 @@
     link: 'https://pub.dartlang.org/packages/dart_collection_sampler'
     author:
         - 'steve christensen <adventuresmith.rpg@gmail.com>'
+-
+    package_name: flutter_storey
+    package_version: v0.1.1
+    title: 'v0.1.1 of flutter_storey'
+    published: '2017-12-10T06:33:33+00:00'
+    id: 'urn:uuid:48c33664-78b4-5511-ba72-57ecbd98990f'
+    link: 'https://pub.dartlang.org/packages/flutter_storey'
+    author:
+        - 'Kezhu Wang <kezhuw@gmail.com>'
+-
+    package_name: storey
+    package_version: v0.2.0
+    title: 'v0.2.0 of storey'
+    published: '2017-12-10T06:29:09+00:00'
+    id: 'urn:uuid:8e2e21d9-ecef-5bba-962a-e9cb41b8b3bc'
+    link: 'https://pub.dartlang.org/packages/storey'
+    author:
+        - 'Kezhu Wang <kezhuw@gmail.com>'
+-
+    package_name: angel_websocket
+    package_version: v1.1.0+1
+    title: 'v1.1.0+1 of angel_websocket'
+    published: '2017-12-10T05:31:28+00:00'
+    id: 'urn:uuid:fcddafd2-2eb9-552b-b438-d63a6f12236f'
+    link: 'https://pub.dartlang.org/packages/angel_websocket'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_client
+    package_version: v1.1.0+1
+    title: 'v1.1.0+1 of angel_client'
+    published: '2017-12-10T05:13:19+00:00'
+    id: 'urn:uuid:594e2673-3235-5860-b844-55cb86ef209c'
+    link: 'https://pub.dartlang.org/packages/angel_client'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.1.0+1
+    title: 'v1.1.0+1 of angel_framework'
+    published: '2017-12-10T05:05:37+00:00'
+    id: 'urn:uuid:787b9419-aa1b-506f-b546-304089a59ff9'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: trotter
+    package_version: v0.9.1
+    title: 'v0.9.1 of trotter'
+    published: '2017-12-10T04:58:46+00:00'
+    id: 'urn:uuid:90acdaf5-8da2-51c0-ab0b-15732787b624'
+    link: 'https://pub.dartlang.org/packages/trotter'
+    author:
+        - 'Richard Ambler <rambler@ibwya.net.com>'
