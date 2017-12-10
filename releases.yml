@@ -117975,3 +117975,12 @@
     link: 'https://pub.dartlang.org/packages/trotter'
     author:
         - 'Richard Ambler <rambler@ibwya.net.com>'
+-
+    package_name: cached_network_image
+    package_version: v0.0.2
+    title: 'v0.0.2 of cached_network_image'
+    published: '2017-12-10T11:58:28+00:00'
+    id: 'urn:uuid:553d0a66-2736-5463-886e-a1957f96afee'
+    link: 'https://pub.dartlang.org/packages/cached_network_image'
+    author:
+        - 'Rene Floor <pub@renefloor.nl>'
