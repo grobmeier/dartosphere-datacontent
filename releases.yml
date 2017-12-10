@@ -117903,3 +117903,21 @@
     link: 'https://pub.dartlang.org/packages/build_test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dart_wordlists
+    package_version: v0.1.1
+    title: 'v0.1.1 of dart_wordlists'
+    published: '2017-12-10T01:04:44+00:00'
+    id: 'urn:uuid:c31b6442-4283-5bc0-add4-1b9733d05a76'
+    link: 'https://pub.dartlang.org/packages/dart_wordlists'
+    author:
+        - 'steve christensen <adventuresmith.rpg@gmail.com>'
+-
+    package_name: dart_collection_sampler
+    package_version: v0.5.1
+    title: 'v0.5.1 of dart_collection_sampler'
+    published: '2017-12-10T00:17:33+00:00'
+    id: 'urn:uuid:0699185f-7644-5a60-add3-1b38f0c6f6fe'
+    link: 'https://pub.dartlang.org/packages/dart_collection_sampler'
+    author:
+        - 'steve christensen <adventuresmith.rpg@gmail.com>'
