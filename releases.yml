@@ -118084,3 +118084,30 @@
     link: 'https://pub.dartlang.org/packages/woomera'
     author:
         - 'Hoylen Sue <hoylen@hoylen.com>'
+-
+    package_name: json_object_lite
+    package_version: v1.1.1
+    title: 'v1.1.1 of json_object_lite'
+    published: '2017-12-11T14:42:56+00:00'
+    id: 'urn:uuid:503b46bc-3a06-5458-aa87-604dfd80aa46'
+    link: 'https://pub.dartlang.org/packages/json_object_lite'
+    author:
+        - 'Steve Hamblett <steve.hamblett@linux.com>'
+-
+    package_name: xml2json
+    package_version: v2.0.10
+    title: 'v2.0.10 of xml2json'
+    published: '2017-12-11T14:04:50+00:00'
+    id: 'urn:uuid:6dc30f47-5fd6-51ba-a5b4-d57bf9f1e5b9'
+    link: 'https://pub.dartlang.org/packages/xml2json'
+    author:
+        - 'S. Hamblett <steve.hamblett@linux.com>'
+-
+    package_name: cbor
+    package_version: v1.0.3
+    title: 'v1.0.3 of cbor'
+    published: '2017-12-11T13:22:27+00:00'
+    id: 'urn:uuid:3acbef65-fa36-59a7-8ef9-d303f4d0061a'
+    link: 'https://pub.dartlang.org/packages/cbor'
+    author:
+        - 'Steve Hamblett <steve.hamblett@linux.com>'
