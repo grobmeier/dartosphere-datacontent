@@ -118011,3 +118011,30 @@
     link: 'https://pub.dartlang.org/packages/dev_test'
     author:
         - 'Tekartik <alex@tekartik.com>'
+-
+    package_name: code_builder
+    package_version: v2.4.0
+    title: 'v2.4.0 of code_builder'
+    published: '2017-12-11T02:32:13+00:00'
+    id: 'urn:uuid:75d8cd47-96ec-557d-9b07-09202a07bc13'
+    link: 'https://pub.dartlang.org/packages/code_builder'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: wui_builder
+    package_version: v0.3.0
+    title: 'v0.3.0 of wui_builder'
+    published: '2017-12-11T00:30:49+00:00'
+    id: 'urn:uuid:e5a327c2-ef2a-5862-952f-704d79bc96d6'
+    link: 'https://pub.dartlang.org/packages/wui_builder'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: zenity
+    package_version: v1.0.1
+    title: 'v1.0.1 of zenity'
+    published: '2017-12-10T23:52:47+00:00'
+    id: 'urn:uuid:72057c62-73fb-51cd-a38f-d889e3f1971c'
+    link: 'https://pub.dartlang.org/packages/zenity'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
