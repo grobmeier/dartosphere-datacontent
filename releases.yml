@@ -118038,3 +118038,31 @@
     link: 'https://pub.dartlang.org/packages/zenity'
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: angel_compiled_mustache
+    package_version: v1.1.0
+    title: 'v1.1.0 of angel_compiled_mustache'
+    published: '2017-12-11T04:51:48+00:00'
+    id: 'urn:uuid:a1d42712-0e59-523a-9099-1d056dd8f77f'
+    link: 'https://pub.dartlang.org/packages/angel_compiled_mustache'
+    author:
+        - 'thislooksfun <thislooksfun@repbot.org>'
+-
+    package_name: message_builder
+    package_version: v0.1.0
+    title: 'v0.1.0 of message_builder'
+    published: '2017-12-11T04:05:23+00:00'
+    id: 'urn:uuid:83d4bfe7-2949-5a8b-92e8-849427c42b75'
+    link: 'https://pub.dartlang.org/packages/message_builder'
+    author:
+        - 'Nate Bosch <nbosch1@gmail.com>'
+-
+    package_name: calzone
+    package_version: v0.4.0
+    title: 'v0.4.0 of calzone'
+    published: '2017-12-11T03:01:53+00:00'
+    id: 'urn:uuid:4f8ebc87-778b-5263-8285-b4d54075b230'
+    link: 'https://pub.dartlang.org/packages/calzone'
+    author:
+        - 'Michael Bullington <m.bullington@dglogik.com>'
+        - 'Kenneth Endfinger <k.endfinger@dglogik.com>'
