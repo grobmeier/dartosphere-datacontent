@@ -118129,3 +118129,21 @@
     link: 'https://pub.dartlang.org/packages/firebase_compute'
     author:
         - 'Rik Bellens <rik.bellens@appsup.be>'
+-
+    package_name: aspen_assets
+    package_version: v0.2.0
+    title: 'v0.2.0 of aspen_assets'
+    published: '2017-12-11T22:48:38+00:00'
+    id: 'urn:uuid:02e2b451-3ace-5f9e-9099-15ea885525b3'
+    link: 'https://pub.dartlang.org/packages/aspen_assets'
+    author:
+        - 'Ryan Gonzalez <rymg19@gmail.com>'
+-
+    package_name: aspen
+    package_version: v0.2.0
+    title: 'v0.2.0 of aspen'
+    published: '2017-12-11T22:48:31+00:00'
+    id: 'urn:uuid:1313d08b-3092-5ab9-8722-38ef7edccfda'
+    link: 'https://pub.dartlang.org/packages/aspen'
+    author:
+        - 'Ryan Gonzalez <rymg19@gmail.com>'
