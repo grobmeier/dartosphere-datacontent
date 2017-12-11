@@ -118111,3 +118111,21 @@
     link: 'https://pub.dartlang.org/packages/cbor'
     author:
         - 'Steve Hamblett <steve.hamblett@linux.com>'
+-
+    package_name: _bazel_codegen
+    package_version: v0.3.1
+    title: 'v0.3.1 of _bazel_codegen'
+    published: '2017-12-11T17:44:05+00:00'
+    id: 'urn:uuid:1dc5052b-f434-5111-8104-dfc68e155a9e'
+    link: 'https://pub.dartlang.org/packages/_bazel_codegen'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: firebase_compute
+    package_version: v0.1.2
+    title: 'v0.1.2 of firebase_compute'
+    published: '2017-12-11T16:09:22+00:00'
+    id: 'urn:uuid:889bbe2e-47b7-5d05-a47c-97b1c392a0cf'
+    link: 'https://pub.dartlang.org/packages/firebase_compute'
+    author:
+        - 'Rik Bellens <rik.bellens@appsup.be>'
