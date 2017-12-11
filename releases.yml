@@ -118066,3 +118066,21 @@
     author:
         - 'Michael Bullington <m.bullington@dglogik.com>'
         - 'Kenneth Endfinger <k.endfinger@dglogik.com>'
+-
+    package_name: console_log_handler
+    package_version: v0.5.7
+    title: 'v0.5.7 of console_log_handler'
+    published: '2017-12-11T08:37:28+00:00'
+    id: 'urn:uuid:d9385626-f96c-5594-a122-b9bc97fddb44'
+    link: 'https://pub.dartlang.org/packages/console_log_handler'
+    author:
+        - 'Mike Mitterer  <office@mikemitterer.at>'
+-
+    package_name: woomera
+    package_version: v2.0.0
+    title: 'v2.0.0 of woomera'
+    published: '2017-12-11T08:12:40+00:00'
+    id: 'urn:uuid:d76d1840-2412-5c0a-aee2-d3663f35fbae'
+    link: 'https://pub.dartlang.org/packages/woomera'
+    author:
+        - 'Hoylen Sue <hoylen@hoylen.com>'
