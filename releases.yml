@@ -118165,3 +118165,21 @@
     link: 'https://pub.dartlang.org/packages/git'
     author:
         - 'Kevin Moore <github@j832.com>'
+-
+    package_name: typedparser
+    package_version: v0.1.0
+    title: 'v0.1.0 of typedparser'
+    published: '2017-12-12T10:09:39+00:00'
+    id: 'urn:uuid:9c2c3ee4-fffa-5255-acbe-fb447fde2673'
+    link: 'https://pub.dartlang.org/packages/typedparser'
+    author:
+        - 'Rik Bellens <rik.bellens@appsup.be>'
+-
+    package_name: vanilla
+    package_version: v0.0.2
+    title: 'v0.0.2 of vanilla'
+    published: '2017-12-12T09:08:37+00:00'
+    id: 'urn:uuid:6443ce78-b131-5bc7-8c1e-f105b59f1792'
+    link: 'https://pub.dartlang.org/packages/vanilla'
+    author:
+        - 'Beta Kuang <beta.kuang@gmail.com>'
