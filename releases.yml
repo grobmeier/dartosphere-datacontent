@@ -118211,3 +118211,13 @@
     author:
         - 'Workiva Client Platform Team <clientplatform@workiva.com>'
         - 'Evan Weible <evan.weible@workiva.com>'
+-
+    package_name: sockjs_client_wrapper
+    package_version: v1.0.1
+    title: 'v1.0.1 of sockjs_client_wrapper'
+    published: '2017-12-12T19:18:27+00:00'
+    id: 'urn:uuid:aa3e817b-33f1-532e-acdc-08e3dd2da632'
+    link: 'https://pub.dartlang.org/packages/sockjs_client_wrapper'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
