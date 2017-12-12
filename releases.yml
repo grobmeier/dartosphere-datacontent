@@ -118147,3 +118147,21 @@
     link: 'https://pub.dartlang.org/packages/aspen'
     author:
         - 'Ryan Gonzalez <rymg19@gmail.com>'
+-
+    package_name: draw
+    package_version: v0.0.1
+    title: 'v0.0.1 of draw'
+    published: '2017-12-12T00:37:49+00:00'
+    id: 'urn:uuid:ab200601-8d0a-521d-a2df-898519acebea'
+    link: 'https://pub.dartlang.org/packages/draw'
+    author:
+        - 'Ben Konyi <bkonyi@google.com>'
+-
+    package_name: git
+    package_version: v0.4.4+3
+    title: 'v0.4.4+3 of git'
+    published: '2017-12-12T00:08:10+00:00'
+    id: 'urn:uuid:0a2ac1e8-2200-533b-af9c-ff20284035aa'
+    link: 'https://pub.dartlang.org/packages/git'
+    author:
+        - 'Kevin Moore <github@j832.com>'
