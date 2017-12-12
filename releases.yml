@@ -118183,3 +118183,31 @@
     link: 'https://pub.dartlang.org/packages/vanilla'
     author:
         - 'Beta Kuang <beta.kuang@gmail.com>'
+-
+    package_name: angel_framework
+    package_version: v1.1.0+3
+    title: 'v1.1.0+3 of angel_framework'
+    published: '2017-12-12T18:33:42+00:00'
+    id: 'urn:uuid:d5f26c5a-93b4-527c-87be-5e034fecd533'
+    link: 'https://pub.dartlang.org/packages/angel_framework'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: bot_io
+    package_version: v0.26.4+1
+    title: 'v0.26.4+1 of bot_io'
+    published: '2017-12-12T18:33:34+00:00'
+    id: 'urn:uuid:8d30023b-792e-514e-894a-b1bccbed6812'
+    link: 'https://pub.dartlang.org/packages/bot_io'
+    author:
+        - 'Kevin Moore <github@j832.com>'
+-
+    package_name: sockjs_client_wrapper
+    package_version: v0.0.0
+    title: 'v0.0.0 of sockjs_client_wrapper'
+    published: '2017-12-12T16:22:49+00:00'
+    id: 'urn:uuid:6e471b32-912d-598f-8c42-a7d287eceb85'
+    link: 'https://pub.dartlang.org/packages/sockjs_client_wrapper'
+    author:
+        - 'Workiva Client Platform Team <clientplatform@workiva.com>'
+        - 'Evan Weible <evan.weible@workiva.com>'
