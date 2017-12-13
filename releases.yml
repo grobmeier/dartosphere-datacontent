@@ -118302,3 +118302,39 @@
     link: 'https://pub.dartlang.org/packages/http_utils'
     author:
         - 'Mike Mitterer  <office@mikemitterer.at>'
+-
+    package_name: git_version
+    package_version: v0.1.17
+    title: 'v0.1.17 of git_version'
+    published: '2017-12-13T12:10:43+00:00'
+    id: 'urn:uuid:b75fe035-5423-51ac-9cd1-4bea6234c91c'
+    link: 'https://pub.dartlang.org/packages/git_version'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: latlong
+    package_version: v0.4.5
+    title: 'v0.4.5 of latlong'
+    published: '2017-12-13T11:51:10+00:00'
+    id: 'urn:uuid:aebeddf5-3e37-5f1a-988f-9a76fde3776a'
+    link: 'https://pub.dartlang.org/packages/latlong'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: l10n
+    package_version: v1.2.9
+    title: 'v1.2.9 of l10n'
+    published: '2017-12-13T11:48:48+00:00'
+    id: 'urn:uuid:53194a53-7538-52a3-b812-5d18c8b62f3a'
+    link: 'https://pub.dartlang.org/packages/l10n'
+    author:
+        - 'Mike Mitterer  <office@mikemitterer.at>'
+-
+    package_name: validate
+    package_version: v1.6.0
+    title: 'v1.6.0 of validate'
+    published: '2017-12-13T11:17:30+00:00'
+    id: 'urn:uuid:96db6913-48ab-549e-9095-d866db9eeb6d'
+    link: 'https://pub.dartlang.org/packages/validate'
+    author:
+        - 'Mike Mitterer  <office@mikemitterer.at>'
