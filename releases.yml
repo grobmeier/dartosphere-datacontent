@@ -118338,3 +118338,30 @@
     link: 'https://pub.dartlang.org/packages/validate'
     author:
         - 'Mike Mitterer  <office@mikemitterer.at>'
+-
+    package_name: archive
+    package_version: v1.0.33
+    title: 'v1.0.33 of archive'
+    published: '2017-12-13T18:40:24+00:00'
+    id: 'urn:uuid:db1d86e8-997b-54ea-bf0f-db3c332b3ff5'
+    link: 'https://pub.dartlang.org/packages/archive'
+    author:
+        - 'Brendan Duncan <brendanduncan@gmail.com>'
+-
+    package_name: angel_client
+    package_version: v1.1.0+3
+    title: 'v1.1.0+3 of angel_client'
+    published: '2017-12-13T16:30:54+00:00'
+    id: 'urn:uuid:d3ae349b-416e-5c12-9f01-263edbc83668'
+    link: 'https://pub.dartlang.org/packages/angel_client'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: wilt
+    package_version: v3.4.0
+    title: 'v3.4.0 of wilt'
+    published: '2017-12-13T15:31:40+00:00'
+    id: 'urn:uuid:377af397-6711-513e-8813-55bbf931ee3d'
+    link: 'https://pub.dartlang.org/packages/wilt'
+    author:
+        - 'S. Hamblett <steve.hamblett@linux.com>'
