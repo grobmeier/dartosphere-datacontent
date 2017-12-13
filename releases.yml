@@ -118239,3 +118239,66 @@
     link: 'https://pub.dartlang.org/packages/angel_client'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: dev_test
+    package_version: v0.10.1
+    title: 'v0.10.1 of dev_test'
+    published: '2017-12-13T10:27:08+00:00'
+    id: 'urn:uuid:4454e6a1-b5ff-586f-bb89-aac2d4ef07ac'
+    link: 'https://pub.dartlang.org/packages/dev_test'
+    author:
+        - 'Tekartik <alex@tekartik.com>'
+-
+    package_name: packages
+    package_version: v0.2.4
+    title: 'v0.2.4 of packages'
+    published: '2017-12-13T10:18:21+00:00'
+    id: 'urn:uuid:31c4f519-9e89-5c1a-9430-4bd82ee4badb'
+    link: 'https://pub.dartlang.org/packages/packages'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: prettify
+    package_version: v0.3.2
+    title: 'v0.3.2 of prettify'
+    published: '2017-12-13T09:34:31+00:00'
+    id: 'urn:uuid:81a37e0d-82c8-54cf-88f8-c127fc617dba'
+    link: 'https://pub.dartlang.org/packages/prettify'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: material_icons
+    package_version: v1.1.0
+    title: 'v1.1.0 of material_icons'
+    published: '2017-12-13T09:05:02+00:00'
+    id: 'urn:uuid:4b4c6663-af19-5ecd-947a-2f17622b79aa'
+    link: 'https://pub.dartlang.org/packages/material_icons'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: latlong
+    package_version: v0.4.3
+    title: 'v0.4.3 of latlong'
+    published: '2017-12-13T08:49:32+00:00'
+    id: 'urn:uuid:d7ac6ce1-f526-59d1-aaf8-0c9bc73af744'
+    link: 'https://pub.dartlang.org/packages/latlong'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: markd
+    package_version: v0.11.5+5
+    title: 'v0.11.5+5 of markd'
+    published: '2017-12-13T08:18:15+00:00'
+    id: 'urn:uuid:3c92786e-d58e-5486-82c8-fb5124fce025'
+    link: 'https://pub.dartlang.org/packages/markd'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: http_utils
+    package_version: v1.5.4
+    title: 'v1.5.4 of http_utils'
+    published: '2017-12-13T08:06:04+00:00'
+    id: 'urn:uuid:b7a6b0a4-ba4d-5846-9ee1-81c7ac655600'
+    link: 'https://pub.dartlang.org/packages/http_utils'
+    author:
+        - 'Mike Mitterer  <office@mikemitterer.at>'
