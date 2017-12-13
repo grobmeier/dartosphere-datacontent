@@ -118221,3 +118221,12 @@
     author:
         - 'Workiva Client Platform Team <clientplatform@workiva.com>'
         - 'Evan Weible <evan.weible@workiva.com>'
+-
+    package_name: http_retry
+    package_version: v0.1.0
+    title: 'v0.1.0 of http_retry'
+    published: '2017-12-12T23:14:55+00:00'
+    id: 'urn:uuid:04012e68-944e-5c8c-a0aa-fcb4d9498858'
+    link: 'https://pub.dartlang.org/packages/http_retry'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
