@@ -118374,3 +118374,23 @@
     link: 'https://pub.dartlang.org/packages/build_test'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: box2d
+    package_version: v0.4.0
+    title: 'v0.4.0 of box2d'
+    published: '2017-12-14T08:09:38+00:00'
+    id: 'urn:uuid:11f5f662-b479-5fb1-9b9b-8c943149d767'
+    link: 'https://pub.dartlang.org/packages/box2d'
+    author:
+        - 'Kevin Moore <kevmoo@google.com>'
+        - 'Srdjan Mitrovic <srdjan@google.com>'
+        - 'Filip Hracek <filiph@google.com>'
+-
+    package_name: git_version
+    package_version: v0.1.21
+    title: 'v0.1.21 of git_version'
+    published: '2017-12-14T07:25:24+00:00'
+    id: 'urn:uuid:7d96b822-266b-57d8-8fb5-6deef263868f'
+    link: 'https://pub.dartlang.org/packages/git_version'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
