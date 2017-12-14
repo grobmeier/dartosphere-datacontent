@@ -118394,3 +118394,66 @@
     link: 'https://pub.dartlang.org/packages/git_version'
     author:
         - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: coverage
+    package_version: v0.10.0
+    title: 'v0.10.0 of coverage'
+    published: '2017-12-14T18:28:43+00:00'
+    id: 'urn:uuid:3c8213e6-0700-5440-986e-b3059d238e31'
+    link: 'https://pub.dartlang.org/packages/coverage'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: linter
+    package_version: v0.1.41
+    title: 'v0.1.41 of linter'
+    published: '2017-12-14T17:41:03+00:00'
+    id: 'urn:uuid:c0b94543-8c87-5d63-b471-8ecfcf678ad5'
+    link: 'https://pub.dartlang.org/packages/linter'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: firebase_analytics
+    package_version: v0.1.2
+    title: 'v0.1.2 of firebase_analytics'
+    published: '2017-12-14T16:24:23+00:00'
+    id: 'urn:uuid:0e68472c-5b57-5979-a1b5-c26dd498fc4a'
+    link: 'https://pub.dartlang.org/packages/firebase_analytics'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: firebase_messaging
+    package_version: v0.0.8
+    title: 'v0.0.8 of firebase_messaging'
+    published: '2017-12-14T16:22:49+00:00'
+    id: 'urn:uuid:06a76e62-80fd-58bd-84ed-d1be2dce17f9'
+    link: 'https://pub.dartlang.org/packages/firebase_messaging'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: firebase_storage
+    package_version: v0.0.8
+    title: 'v0.0.8 of firebase_storage'
+    published: '2017-12-14T16:21:59+00:00'
+    id: 'urn:uuid:72e765ae-9486-53f4-865a-e3739538e3ac'
+    link: 'https://pub.dartlang.org/packages/firebase_storage'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: firebase_auth
+    package_version: v0.3.2
+    title: 'v0.3.2 of firebase_auth'
+    published: '2017-12-14T16:21:40+00:00'
+    id: 'urn:uuid:0af2d75b-f4af-5fe3-9c1b-172b23ec3bf8'
+    link: 'https://pub.dartlang.org/packages/firebase_auth'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: bliss
+    package_version: v0.3.1
+    title: 'v0.3.1 of bliss'
+    published: '2017-12-14T16:04:40+00:00'
+    id: 'urn:uuid:275b635b-de5a-5b52-9d42-e756db54a8ff'
+    link: 'https://pub.dartlang.org/packages/bliss'
+    author:
+        - 'Steven Upton <steven.upton@indecks.co>'
