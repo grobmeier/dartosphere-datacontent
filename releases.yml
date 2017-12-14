@@ -118365,3 +118365,12 @@
     link: 'https://pub.dartlang.org/packages/wilt'
     author:
         - 'S. Hamblett <steve.hamblett@linux.com>'
+-
+    package_name: build_test
+    package_version: v0.9.3
+    title: 'v0.9.3 of build_test'
+    published: '2017-12-13T23:54:44+00:00'
+    id: 'urn:uuid:af4d1407-5262-51d5-a57b-df8d504f9dfe'
+    link: 'https://pub.dartlang.org/packages/build_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
