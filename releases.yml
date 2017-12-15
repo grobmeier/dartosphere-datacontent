@@ -118547,3 +118547,30 @@
     link: 'https://pub.dartlang.org/packages/mk_static'
     author:
         - 'Dennis Trachuk <dennis.trachuk@gmail.com>'
+-
+    package_name: grpc
+    package_version: v0.2.0
+    title: 'v0.2.0 of grpc'
+    published: '2017-12-15T12:07:13+00:00'
+    id: 'urn:uuid:4992c848-e385-5cf7-be98-00e55858ba8e'
+    link: 'https://pub.dartlang.org/packages/grpc'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: flutter_redux_dev_tools
+    package_version: v0.2.0
+    title: 'v0.2.0 of flutter_redux_dev_tools'
+    published: '2017-12-15T11:58:27+00:00'
+    id: 'urn:uuid:f1a9edcd-0d02-5228-83d6-ec258a164929'
+    link: 'https://pub.dartlang.org/packages/flutter_redux_dev_tools'
+    author:
+        - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: sporran
+    package_version: v3.1.0
+    title: 'v3.1.0 of sporran'
+    published: '2017-12-15T11:12:17+00:00'
+    id: 'urn:uuid:8b04ec5c-dcc7-58fc-bbb0-6190b6837a07'
+    link: 'https://pub.dartlang.org/packages/sporran'
+    author:
+        - 'S. Hamblett <steve.hamblett@linux.com>'
