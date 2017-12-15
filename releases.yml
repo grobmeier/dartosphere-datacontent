@@ -118511,3 +118511,21 @@
     link: 'https://pub.dartlang.org/packages/react'
     author:
         - 'Clean Team <clean@vacuumlabs.com>'
+-
+    package_name: expr
+    package_version: v0.0.0
+    title: 'v0.0.0 of expr'
+    published: '2017-12-15T00:29:36+00:00'
+    id: 'urn:uuid:36edf588-16e4-518d-baa0-861578d497e4'
+    link: 'https://pub.dartlang.org/packages/expr'
+    author:
+        - 'Herman Bergwerf <hermanbergwerf@gmail.com>'
+-
+    package_name: redux_dev_tools
+    package_version: v0.1.4
+    title: 'v0.1.4 of redux_dev_tools'
+    published: '2017-12-15T00:07:04+00:00'
+    id: 'urn:uuid:ebece437-8c31-5d5f-bc6c-f7c47f276490'
+    link: 'https://pub.dartlang.org/packages/redux_dev_tools'
+    author:
+        - 'Brian Egan <brian@brianegan.com>'
