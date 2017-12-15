@@ -118574,3 +118574,49 @@
     link: 'https://pub.dartlang.org/packages/sporran'
     author:
         - 'S. Hamblett <steve.hamblett@linux.com>'
+-
+    package_name: draw
+    package_version: v0.0.2
+    title: 'v0.0.2 of draw'
+    published: '2017-12-15T22:48:36+00:00'
+    id: 'urn:uuid:6f84ee44-68fc-5d86-a291-f86c00fd5dbe'
+    link: 'https://pub.dartlang.org/packages/draw'
+    author:
+        - 'Ben Konyi <bkonyi@google.com>'
+        - 'Kartik Chopra'
+-
+    package_name: aspen
+    package_version: v0.2.1
+    title: 'v0.2.1 of aspen'
+    published: '2017-12-15T22:03:08+00:00'
+    id: 'urn:uuid:b8ebae6a-f364-5c82-aedf-d0cb06ce5cae'
+    link: 'https://pub.dartlang.org/packages/aspen'
+    author:
+        - 'Ryan Gonzalez <rymg19@gmail.com>'
+-
+    package_name: pana
+    package_version: v0.8.0
+    title: 'v0.8.0 of pana'
+    published: '2017-12-15T21:57:59+00:00'
+    id: 'urn:uuid:9d56e31f-8956-5897-a446-8171995590cd'
+    link: 'https://pub.dartlang.org/packages/pana'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: json_serializable
+    package_version: v0.3.0
+    title: 'v0.3.0 of json_serializable'
+    published: '2017-12-15T19:32:30+00:00'
+    id: 'urn:uuid:cc17f489-d60d-5b59-8e83-22b1e69b9400'
+    link: 'https://pub.dartlang.org/packages/json_serializable'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: json_annotation
+    package_version: v0.2.2
+    title: 'v0.2.2 of json_annotation'
+    published: '2017-12-15T19:27:22+00:00'
+    id: 'urn:uuid:66e8c354-197c-52f0-a4ee-0aff6f7c1a6e'
+    link: 'https://pub.dartlang.org/packages/json_annotation'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
