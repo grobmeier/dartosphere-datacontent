@@ -118529,3 +118529,21 @@
     link: 'https://pub.dartlang.org/packages/redux_dev_tools'
     author:
         - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: packages
+    package_version: v0.3.3
+    title: 'v0.3.3 of packages'
+    published: '2017-12-15T09:58:17+00:00'
+    id: 'urn:uuid:1904541a-70eb-5221-953a-a56047897579'
+    link: 'https://pub.dartlang.org/packages/packages'
+    author:
+        - 'Mike Mitterer <office@mikemitterer.at>'
+-
+    package_name: mk_static
+    package_version: v1.0.0
+    title: 'v1.0.0 of mk_static'
+    published: '2017-12-15T09:33:21+00:00'
+    id: 'urn:uuid:a4d1c27c-b225-5b84-84b5-e59a8bd0298e'
+    link: 'https://pub.dartlang.org/packages/mk_static'
+    author:
+        - 'Dennis Trachuk <dennis.trachuk@gmail.com>'
