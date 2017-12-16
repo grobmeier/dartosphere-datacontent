@@ -118620,3 +118620,57 @@
     link: 'https://pub.dartlang.org/packages/json_annotation'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: malison
+    package_version: v0.8.0
+    title: 'v0.8.0 of malison'
+    published: '2017-12-16T02:54:35+00:00'
+    id: 'urn:uuid:13e7fdb3-a1e8-5106-999c-4fc9bd0a16bd'
+    link: 'https://pub.dartlang.org/packages/malison'
+    author:
+        - 'Bob Nystrom <robert@stuffwithstuff.com>'
+-
+    package_name: piecemeal
+    package_version: v0.3.5
+    title: 'v0.3.5 of piecemeal'
+    published: '2017-12-16T02:51:49+00:00'
+    id: 'urn:uuid:e660c848-c49a-5824-beb3-c2536a9ad9e0'
+    link: 'https://pub.dartlang.org/packages/piecemeal'
+    author:
+        - 'Bob Nystrom <robert@stuffwithstuff.com>'
+-
+    package_name: vue2_cli
+    package_version: v0.1.1
+    title: 'v0.1.1 of vue2_cli'
+    published: '2017-12-16T00:57:00+00:00'
+    id: 'urn:uuid:420c299a-c361-5f98-b3e8-4ad33e567d38'
+    link: 'https://pub.dartlang.org/packages/vue2_cli'
+    author:
+        - 'Ryan Gonzalez <rymg19@gmail.com>'
+-
+    package_name: vue2
+    package_version: v0.3.1
+    title: 'v0.3.1 of vue2'
+    published: '2017-12-16T00:56:52+00:00'
+    id: 'urn:uuid:3dda3200-ba12-56dd-a859-0799e0985697'
+    link: 'https://pub.dartlang.org/packages/vue2'
+    author:
+        - 'Ryan Gonzalez <rymg19@gmail.com>'
+-
+    package_name: aspen
+    package_version: v0.2.2
+    title: 'v0.2.2 of aspen'
+    published: '2017-12-16T00:39:54+00:00'
+    id: 'urn:uuid:efd06c1d-7eb2-54ee-8928-76d1ba8091b7'
+    link: 'https://pub.dartlang.org/packages/aspen'
+    author:
+        - 'Ryan Gonzalez <rymg19@gmail.com>'
+-
+    package_name: scopify
+    package_version: v0.2.0
+    title: 'v0.2.0 of scopify'
+    published: '2017-12-16T00:28:46+00:00'
+    id: 'urn:uuid:37b1924e-e790-5997-aaa1-fc07f7a0235a'
+    link: 'https://pub.dartlang.org/packages/scopify'
+    author:
+        - 'Ryan Gonzalez <rymg19@gmail.com>'
