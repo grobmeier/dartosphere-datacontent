@@ -118674,3 +118674,12 @@
     link: 'https://pub.dartlang.org/packages/scopify'
     author:
         - 'Ryan Gonzalez <rymg19@gmail.com>'
+-
+    package_name: unification
+    package_version: v0.0.1+1
+    title: 'v0.0.1+1 of unification'
+    published: '2017-12-16T14:05:29+00:00'
+    id: 'urn:uuid:18efec07-9487-599e-b24e-16e460a3caa5'
+    link: 'https://pub.dartlang.org/packages/unification'
+    author:
+        - 'Michael Bürgerling <michael.buergerling@gmail.com>'
