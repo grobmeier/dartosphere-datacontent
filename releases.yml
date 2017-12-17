@@ -118683,3 +118683,30 @@
     link: 'https://pub.dartlang.org/packages/unification'
     author:
         - 'Michael Bürgerling <michael.buergerling@gmail.com>'
+-
+    package_name: flutter_charts
+    package_version: v0.1.7
+    title: 'v0.1.7 of flutter_charts'
+    published: '2017-12-17T06:34:26+00:00'
+    id: 'urn:uuid:31883d88-8761-5e3c-b870-7a676fe1ab68'
+    link: 'https://pub.dartlang.org/packages/flutter_charts'
+    author:
+        - 'Milan Zimmermann <milan.zimmermann@gmail.com>'
+-
+    package_name: dscript
+    package_version: v1.0.2
+    title: 'v1.0.2 of dscript'
+    published: '2017-12-17T05:29:36+00:00'
+    id: 'urn:uuid:e2d3b966-ed92-5a41-8062-8f68b5da6071'
+    link: 'https://pub.dartlang.org/packages/dscript'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: markd
+    package_version: v0.11.5+6
+    title: 'v0.11.5+6 of markd'
+    published: '2017-12-17T03:16:55+00:00'
+    id: 'urn:uuid:66534f2e-2da5-5a57-9e81-65ce9cc61242'
+    link: 'https://pub.dartlang.org/packages/markd'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
