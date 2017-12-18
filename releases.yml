@@ -118800,3 +118800,31 @@
     link: 'https://pub.dartlang.org/packages/less_dart'
     author:
         - 'Adalberto Lacruz <adalberto.lacruz@gmail.com>'
+-
+    package_name: dartsicord
+    package_version: v0.0.5
+    title: 'v0.0.5 of dartsicord'
+    published: '2017-12-18T22:54:27+00:00'
+    id: 'urn:uuid:4bab3f18-0eb3-5fff-bc3b-f0b865b93bff'
+    link: 'https://pub.dartlang.org/packages/dartsicord'
+    author:
+        - 'voximity <0zanfran@gmail.com>'
+-
+    package_name: test_webdriver
+    package_version: v0.0.2
+    title: 'v0.0.2 of test_webdriver'
+    published: '2017-12-18T21:06:59+00:00'
+    id: 'urn:uuid:655b545a-2154-5895-9ec2-fec317edfa4d'
+    link: 'https://pub.dartlang.org/packages/test_webdriver'
+    author:
+        - 'Doozer Team <dev@doozer.de>'
+-
+    package_name: swagger
+    package_version: v0.0.2
+    title: 'v0.0.2 of swagger'
+    published: '2017-12-18T19:51:49+00:00'
+    id: 'urn:uuid:982e4d04-0362-5bdd-a7fa-db529032625f'
+    link: 'https://pub.dartlang.org/packages/swagger'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
