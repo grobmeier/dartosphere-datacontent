@@ -118782,3 +118782,12 @@
     link: 'https://pub.dartlang.org/packages/dawo'
     author:
         - 'Heikki K Lappalainen <heikkiklappalainen@gmail.com.com>'
+-
+    package_name: hots_dog_api
+    package_version: v1.0.1
+    title: 'v1.0.1 of hots_dog_api'
+    published: '2017-12-18T13:47:00+00:00'
+    id: 'urn:uuid:7991b53b-5d64-58a1-a1b6-e487a4b7aa55'
+    link: 'https://pub.dartlang.org/packages/hots_dog_api'
+    author:
+        - 'Arran France <arranf@gmail.com>'
