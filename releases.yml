@@ -118773,3 +118773,12 @@
     link: 'https://pub.dartlang.org/packages/resize_observer_polyfill_wrapper'
     author:
         - 'Jace Hensley <jacehensley@example.com>'
+-
+    package_name: dawo
+    package_version: v0.0.7
+    title: 'v0.0.7 of dawo'
+    published: '2017-12-18T04:11:44+00:00'
+    id: 'urn:uuid:fd515520-6cc8-514d-baf3-8fc066a449ab'
+    link: 'https://pub.dartlang.org/packages/dawo'
+    author:
+        - 'Heikki K Lappalainen <heikkiklappalainen@gmail.com.com>'
