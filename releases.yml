@@ -118791,3 +118791,12 @@
     link: 'https://pub.dartlang.org/packages/hots_dog_api'
     author:
         - 'Arran France <arranf@gmail.com>'
+-
+    package_name: less_dart
+    package_version: v1.1.1
+    title: 'v1.1.1 of less_dart'
+    published: '2017-12-18T16:25:34+00:00'
+    id: 'urn:uuid:af29df55-9e17-54c5-99fb-d4bc546edf1f'
+    link: 'https://pub.dartlang.org/packages/less_dart'
+    author:
+        - 'Adalberto Lacruz <adalberto.lacruz@gmail.com>'
