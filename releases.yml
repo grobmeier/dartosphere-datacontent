@@ -118764,3 +118764,12 @@
     link: 'https://pub.dartlang.org/packages/dscript'
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: resize_observer_polyfill_wrapper
+    package_version: v1.0.0
+    title: 'v1.0.0 of resize_observer_polyfill_wrapper'
+    published: '2017-12-17T23:18:06+00:00'
+    id: 'urn:uuid:8f7e8149-9939-5793-9997-f746296efc1d'
+    link: 'https://pub.dartlang.org/packages/resize_observer_polyfill_wrapper'
+    author:
+        - 'Jace Hensley <jacehensley@example.com>'
