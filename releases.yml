@@ -118901,3 +118901,48 @@
     link: 'https://pub.dartlang.org/packages/exif'
     author:
         - 'Taesu Pyo <pyotaesu@gmail.com>'
+-
+    package_name: shuttlecock
+    package_version: v0.4.1
+    title: 'v0.4.1 of shuttlecock'
+    published: '2017-12-19T22:37:10+00:00'
+    id: 'urn:uuid:c198a9a6-4146-5a40-b9f6-833b906a32e1'
+    link: 'https://pub.dartlang.org/packages/shuttlecock'
+    author:
+        - 'Alexei Eleusis Díaz Vera <alexei.eleusis@gmail.com>'
+-
+    package_name: stream_channel
+    package_version: v1.6.3
+    title: 'v1.6.3 of stream_channel'
+    published: '2017-12-19T21:16:17+00:00'
+    id: 'urn:uuid:104aecf6-6507-59c5-afbc-6896ee118a7a'
+    link: 'https://pub.dartlang.org/packages/stream_channel'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: pana
+    package_version: v0.8.1
+    title: 'v0.8.1 of pana'
+    published: '2017-12-19T20:09:56+00:00'
+    id: 'urn:uuid:768f7ace-a4c1-5153-8538-efaf4a3f401d'
+    link: 'https://pub.dartlang.org/packages/pana'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: petitparser
+    package_version: v1.7.0
+    title: 'v1.7.0 of petitparser'
+    published: '2017-12-19T19:55:11+00:00'
+    id: 'urn:uuid:1d5557ed-f30b-5fcb-96f6-3f87446fd4b5'
+    link: 'https://pub.dartlang.org/packages/petitparser'
+    author:
+        - 'Lukas Renggli <renggli@gmail.com>'
+-
+    package_name: firebase_core
+    package_version: v0.0.1
+    title: 'v0.0.1 of firebase_core'
+    published: '2017-12-19T19:30:49+00:00'
+    id: 'urn:uuid:b8b6eccb-88d2-5711-81ba-efce89107f03'
+    link: 'https://pub.dartlang.org/packages/firebase_core'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
