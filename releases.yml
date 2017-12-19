@@ -118828,3 +118828,31 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: dartsicord
+    package_version: v0.0.6
+    title: 'v0.0.6 of dartsicord'
+    published: '2017-12-19T02:56:15+00:00'
+    id: 'urn:uuid:34b4ba01-793f-5d67-b8f0-195d9218d7ff'
+    link: 'https://pub.dartlang.org/packages/dartsicord'
+    author:
+        - 'voximity <0zanfran@gmail.com>'
+-
+    package_name: grinder
+    package_version: v0.8.1
+    title: 'v0.8.1 of grinder'
+    published: '2017-12-19T02:03:53+00:00'
+    id: 'urn:uuid:b1798690-61b1-5b01-8d3c-c3fab9a996a5'
+    link: 'https://pub.dartlang.org/packages/grinder'
+    author:
+        - 'Devon Carew <devoncarew@google.com>'
+        - 'Sean Eagan <seaneagan1@gmail.com>'
+-
+    package_name: angular_ast
+    package_version: v0.4.0
+    title: 'v0.4.0 of angular_ast'
+    published: '2017-12-19T01:24:22+00:00'
+    id: 'urn:uuid:0652567b-a027-5694-86d4-be12df9ca7c2'
+    link: 'https://pub.dartlang.org/packages/angular_ast'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
