@@ -118865,3 +118865,21 @@
     link: 'https://pub.dartlang.org/packages/test_webdriver'
     author:
         - 'Doozer Team <dev@doozer.de>'
+-
+    package_name: flutter_google_place_picker
+    package_version: v0.0.1
+    title: 'v0.0.1 of flutter_google_place_picker'
+    published: '2017-12-19T14:04:30+00:00'
+    id: 'urn:uuid:6d407150-aee2-5f07-909c-87040ad771cf'
+    link: 'https://pub.dartlang.org/packages/flutter_google_place_picker'
+    author:
+        - 'ameen ahsan < a2@codeslayers.in >'
+-
+    package_name: battery
+    package_version: v0.1.0
+    title: 'v0.1.0 of battery'
+    published: '2017-12-19T12:11:38+00:00'
+    id: 'urn:uuid:4a057f63-127a-588a-935d-12967d5347a3'
+    link: 'https://pub.dartlang.org/packages/battery'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
