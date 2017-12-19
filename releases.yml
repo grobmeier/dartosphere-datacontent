@@ -118883,3 +118883,21 @@
     link: 'https://pub.dartlang.org/packages/battery'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: polymer_highcharts
+    package_version: v0.2.1+10
+    title: 'v0.2.1+10 of polymer_highcharts'
+    published: '2017-12-19T15:46:25+00:00'
+    id: 'urn:uuid:69fa1d9f-65fe-5222-9974-c0d9715383d1'
+    link: 'https://pub.dartlang.org/packages/polymer_highcharts'
+    author:
+        - 'Gonzalo Pezzi <gonzalopezzi@gmail.com>'
+-
+    package_name: exif
+    package_version: v0.1.2
+    title: 'v0.1.2 of exif'
+    published: '2017-12-19T15:08:44+00:00'
+    id: 'urn:uuid:2d65c590-dc99-52c4-bada-a634bf9d06f9'
+    link: 'https://pub.dartlang.org/packages/exif'
+    author:
+        - 'Taesu Pyo <pyotaesu@gmail.com>'
