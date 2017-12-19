@@ -118856,3 +118856,12 @@
     link: 'https://pub.dartlang.org/packages/angular_ast'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: test_webdriver
+    package_version: v0.0.3
+    title: 'v0.0.3 of test_webdriver'
+    published: '2017-12-19T08:20:04+00:00'
+    id: 'urn:uuid:0e291886-caca-548a-a2e2-aac5866a146c'
+    link: 'https://pub.dartlang.org/packages/test_webdriver'
+    author:
+        - 'Doozer Team <dev@doozer.de>'
