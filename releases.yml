@@ -119226,3 +119226,21 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: dart_browser_loader
+    package_version: v0.0.1
+    title: 'v0.0.1 of dart_browser_loader'
+    published: '2017-12-20T22:33:58+00:00'
+    id: 'urn:uuid:4e7c3784-c546-5d9d-bc5c-542da84c90f5'
+    link: 'https://pub.dartlang.org/packages/dart_browser_loader'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: markdown
+    package_version: v1.1.0
+    title: 'v1.1.0 of markdown'
+    published: '2017-12-20T21:32:18+00:00'
+    id: 'urn:uuid:a61b3d76-1ff5-5abc-967c-792e31efc3df'
+    link: 'https://pub.dartlang.org/packages/markdown'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
