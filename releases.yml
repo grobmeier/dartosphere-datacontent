@@ -119171,3 +119171,58 @@
     link: 'https://pub.dartlang.org/packages/connectivity'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: built_value_test
+    package_version: v4.5.1
+    title: 'v4.5.1 of built_value_test'
+    published: '2017-12-20T16:17:08+00:00'
+    id: 'urn:uuid:6f80c585-5a37-5208-b5fa-9087b993f156'
+    link: 'https://pub.dartlang.org/packages/built_value_test'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value_generator
+    package_version: v4.5.1
+    title: 'v4.5.1 of built_value_generator'
+    published: '2017-12-20T16:16:46+00:00'
+    id: 'urn:uuid:9fe90c01-6a5e-5060-ae51-ed8da2fbd217'
+    link: 'https://pub.dartlang.org/packages/built_value_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value
+    package_version: v4.5.1
+    title: 'v4.5.1 of built_value'
+    published: '2017-12-20T16:15:48+00:00'
+    id: 'urn:uuid:77e1c2d3-b67c-5e0d-b1e2-b0214b4562ac'
+    link: 'https://pub.dartlang.org/packages/built_value'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: shared_preferences
+    package_version: v0.3.0
+    title: 'v0.3.0 of shared_preferences'
+    published: '2017-12-20T15:38:21+00:00'
+    id: 'urn:uuid:3585312c-c682-5af8-ba41-d1f62238080b'
+    link: 'https://pub.dartlang.org/packages/shared_preferences'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: url_launcher
+    package_version: v2.0.0
+    title: 'v2.0.0 of url_launcher'
+    published: '2017-12-20T15:22:06+00:00'
+    id: 'urn:uuid:5dccd456-72c6-507d-8e8a-fcc66326e3a4'
+    link: 'https://pub.dartlang.org/packages/url_launcher'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: jaguar
+    package_version: v0.6.20
+    title: 'v0.6.20 of jaguar'
+    published: '2017-12-20T14:59:57+00:00'
+    id: 'urn:uuid:2a05d8bf-eaed-5946-bc1a-83ceb3143c7b'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
