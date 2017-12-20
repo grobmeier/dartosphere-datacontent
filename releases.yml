@@ -119000,3 +119000,84 @@
     link: 'https://pub.dartlang.org/packages/dartsicord'
     author:
         - 'voximity <0zanfran@gmail.com>'
+-
+    package_name: built_value_test
+    package_version: v4.5.0
+    title: 'v4.5.0 of built_value_test'
+    published: '2017-12-20T10:31:49+00:00'
+    id: 'urn:uuid:3b7be33d-d09b-5147-b24f-72a038af1cda'
+    link: 'https://pub.dartlang.org/packages/built_value_test'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value_generator
+    package_version: v4.5.0
+    title: 'v4.5.0 of built_value_generator'
+    published: '2017-12-20T10:31:30+00:00'
+    id: 'urn:uuid:77cd6a19-99cd-5f82-97be-0c68ca90afed'
+    link: 'https://pub.dartlang.org/packages/built_value_generator'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: built_value
+    package_version: v4.5.0
+    title: 'v4.5.0 of built_value'
+    published: '2017-12-20T10:30:51+00:00'
+    id: 'urn:uuid:9dc493d7-2eaf-5344-9237-c716fba33de3'
+    link: 'https://pub.dartlang.org/packages/built_value'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+-
+    package_name: google_sign_in
+    package_version: v2.0.0
+    title: 'v2.0.0 of google_sign_in'
+    published: '2017-12-20T09:51:18+00:00'
+    id: 'urn:uuid:31cf583e-ecc6-580b-acda-c2453d3dbb82'
+    link: 'https://pub.dartlang.org/packages/google_sign_in'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: firebase_storage
+    package_version: v0.1.0
+    title: 'v0.1.0 of firebase_storage'
+    published: '2017-12-20T09:49:07+00:00'
+    id: 'urn:uuid:38ffc265-3dcf-5392-945b-16877f769c54'
+    link: 'https://pub.dartlang.org/packages/firebase_storage'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: firebase_messaging
+    package_version: v0.1.0
+    title: 'v0.1.0 of firebase_messaging'
+    published: '2017-12-20T09:48:46+00:00'
+    id: 'urn:uuid:3debdf91-2e7e-5c2d-aa4b-7514fb1e9031'
+    link: 'https://pub.dartlang.org/packages/firebase_messaging'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: firebase_database
+    package_version: v0.3.0
+    title: 'v0.3.0 of firebase_database'
+    published: '2017-12-20T09:48:30+00:00'
+    id: 'urn:uuid:e2ce0768-0c3a-548e-a0da-5b71d046c4b7'
+    link: 'https://pub.dartlang.org/packages/firebase_database'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: firebase_auth
+    package_version: v0.4.0
+    title: 'v0.4.0 of firebase_auth'
+    published: '2017-12-20T09:47:58+00:00'
+    id: 'urn:uuid:2e424a74-8038-50db-9d74-dd6036d39f50'
+    link: 'https://pub.dartlang.org/packages/firebase_auth'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: firebase_analytics
+    package_version: v0.2.0
+    title: 'v0.2.0 of firebase_analytics'
+    published: '2017-12-20T09:47:41+00:00'
+    id: 'urn:uuid:4d84a427-7427-59ed-b605-2d5465487876'
+    link: 'https://pub.dartlang.org/packages/firebase_analytics'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
