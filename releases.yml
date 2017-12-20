@@ -119081,3 +119081,93 @@
     link: 'https://pub.dartlang.org/packages/firebase_analytics'
     author:
         - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: share
+    package_version: v0.3.0
+    title: 'v0.3.0 of share'
+    published: '2017-12-20T14:48:15+00:00'
+    id: 'urn:uuid:8b2e4174-4e2e-5023-aeb2-f16a44241076'
+    link: 'https://pub.dartlang.org/packages/share'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: sensors
+    package_version: v0.2.0
+    title: 'v0.2.0 of sensors'
+    published: '2017-12-20T14:48:05+00:00'
+    id: 'urn:uuid:13ad0593-3ae6-5ab5-8627-e75c96ada8b0'
+    link: 'https://pub.dartlang.org/packages/sensors'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: quick_actions
+    package_version: v0.1.0
+    title: 'v0.1.0 of quick_actions'
+    published: '2017-12-20T14:47:48+00:00'
+    id: 'urn:uuid:7a7ba60a-a533-5272-815c-465356b3cf2f'
+    link: 'https://pub.dartlang.org/packages/quick_actions'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: path_provider
+    package_version: v0.3.0
+    title: 'v0.3.0 of path_provider'
+    published: '2017-12-20T13:56:45+00:00'
+    id: 'urn:uuid:94f634d2-858d-57e3-98ee-74eca4c730f2'
+    link: 'https://pub.dartlang.org/packages/path_provider'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: package_info
+    package_version: v0.1.0
+    title: 'v0.1.0 of package_info'
+    published: '2017-12-20T13:56:28+00:00'
+    id: 'urn:uuid:0815b763-181d-549f-8e26-db6b91871f07'
+    link: 'https://pub.dartlang.org/packages/package_info'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: local_auth
+    package_version: v0.1.0
+    title: 'v0.1.0 of local_auth'
+    published: '2017-12-20T13:56:17+00:00'
+    id: 'urn:uuid:11ace6ac-ad30-59fa-a7cd-4c2f79cd611c'
+    link: 'https://pub.dartlang.org/packages/local_auth'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: dartsicord
+    package_version: v0.0.9
+    title: 'v0.0.9 of dartsicord'
+    published: '2017-12-20T13:55:57+00:00'
+    id: 'urn:uuid:c4fda805-2fcf-5a20-87fd-b36963959b38'
+    link: 'https://pub.dartlang.org/packages/dartsicord'
+    author:
+        - 'voximity <0zanfran@gmail.com>'
+-
+    package_name: image_picker
+    package_version: v0.2.0
+    title: 'v0.2.0 of image_picker'
+    published: '2017-12-20T13:55:42+00:00'
+    id: 'urn:uuid:ae9399a7-d765-5b07-b8da-93ef0e9db51a'
+    link: 'https://pub.dartlang.org/packages/image_picker'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: device_info
+    package_version: v0.1.0
+    title: 'v0.1.0 of device_info'
+    published: '2017-12-20T13:55:27+00:00'
+    id: 'urn:uuid:a2442cd9-a3ad-5c9f-bce0-1d3a5185624f'
+    link: 'https://pub.dartlang.org/packages/device_info'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: connectivity
+    package_version: v0.2.0
+    title: 'v0.2.0 of connectivity'
+    published: '2017-12-20T13:55:13+00:00'
+    id: 'urn:uuid:4dd2fb54-0a28-508b-b71e-8713d5528087'
+    link: 'https://pub.dartlang.org/packages/connectivity'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
