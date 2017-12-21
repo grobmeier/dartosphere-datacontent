@@ -119318,3 +119318,59 @@
         - 'David Morgan <davidmorgan@google.com>'
         - 'Matan Lurey <matanl@google.com>'
         - 'Philipp Schiffmann <philippschiffmann93@gmail.com>'
+-
+    package_name: build_config
+    package_version: v0.2.0
+    title: 'v0.2.0 of build_config'
+    published: '2017-12-21T18:51:52+00:00'
+    id: 'urn:uuid:90d82a70-6afc-5ea8-aa70-e55c89362652'
+    link: 'https://pub.dartlang.org/packages/build_config'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dart_browser_loader
+    package_version: v0.0.2
+    title: 'v0.0.2 of dart_browser_loader'
+    published: '2017-12-21T18:34:50+00:00'
+    id: 'urn:uuid:d79e8eff-f5ce-5c4f-a446-0a64184b3a68'
+    link: 'https://pub.dartlang.org/packages/dart_browser_loader'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: cached_network_image
+    package_version: v0.1.0
+    title: 'v0.1.0 of cached_network_image'
+    published: '2017-12-21T18:31:09+00:00'
+    id: 'urn:uuid:6410724e-8ba5-5355-9490-589ec16eb8a2'
+    link: 'https://pub.dartlang.org/packages/cached_network_image'
+    author:
+        - 'Rene Floor <pub@renefloor.nl>'
+-
+    package_name: flutter_iap
+    package_version: v1.0.1
+    title: 'v1.0.1 of flutter_iap'
+    published: '2017-12-21T17:59:01+00:00'
+    id: 'urn:uuid:6ef7d17b-50ed-559a-ba75-26898e9a9eaf'
+    link: 'https://pub.dartlang.org/packages/flutter_iap'
+    author:
+        - 'Jack ODonnell <jackappdevinc@gmail.com>'
+-
+    package_name: pana
+    package_version: v0.8.2
+    title: 'v0.8.2 of pana'
+    published: '2017-12-21T17:54:29+00:00'
+    id: 'urn:uuid:99486328-4285-5dde-b0ee-2cff32d72e20'
+    link: 'https://pub.dartlang.org/packages/pana'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: built_collection
+    package_version: v2.1.2
+    title: 'v2.1.2 of built_collection'
+    published: '2017-12-21T15:02:24+00:00'
+    id: 'urn:uuid:1dfb2a89-ef46-5773-b25a-72f7bc6b5262'
+    link: 'https://pub.dartlang.org/packages/built_collection'
+    author:
+        - 'David Morgan <davidmorgan@google.com>'
+        - 'Matan Lurey <matanl@google.com>'
+        - 'Philipp Schiffmann <philippschiffmann93@gmail.com>'
