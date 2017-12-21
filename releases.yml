@@ -119374,3 +119374,66 @@
         - 'David Morgan <davidmorgan@google.com>'
         - 'Matan Lurey <matanl@google.com>'
         - 'Philipp Schiffmann <philippschiffmann93@gmail.com>'
+-
+    package_name: w_common
+    package_version: v1.10.0
+    title: 'v1.10.0 of w_common'
+    published: '2017-12-21T22:22:54+00:00'
+    id: 'urn:uuid:15534d7c-581f-56f1-9b7e-f782d74ec1c8'
+    link: 'https://pub.dartlang.org/packages/w_common'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+-
+    package_name: flutter_google_places_autocomplete
+    package_version: v0.0.3
+    title: 'v0.0.3 of flutter_google_places_autocomplete'
+    published: '2017-12-21T21:53:05+00:00'
+    id: 'urn:uuid:4cf272fe-b5f0-5a71-bc70-426e720566a0'
+    link: 'https://pub.dartlang.org/packages/flutter_google_places_autocomplete'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: build_test
+    package_version: v0.9.4
+    title: 'v0.9.4 of build_test'
+    published: '2017-12-21T21:18:41+00:00'
+    id: 'urn:uuid:ecca17e1-f935-5a86-b69e-1dfb3501ee0e'
+    link: 'https://pub.dartlang.org/packages/build_test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: google_maps_webservice
+    package_version: v0.0.3
+    title: 'v0.0.3 of google_maps_webservice'
+    published: '2017-12-21T21:06:14+00:00'
+    id: 'urn:uuid:34d61eef-4cac-5389-baf3-7fe9c52ffbf0'
+    link: 'https://pub.dartlang.org/packages/google_maps_webservice'
+    author:
+        - 'Hadrien Lejard <hadrien.lejard@gmail.com>'
+-
+    package_name: angel_websocket
+    package_version: v1.1.1
+    title: 'v1.1.1 of angel_websocket'
+    published: '2017-12-21T20:15:41+00:00'
+    id: 'urn:uuid:8e090da5-1bb3-56da-b32c-de334d026dae'
+    link: 'https://pub.dartlang.org/packages/angel_websocket'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_client
+    package_version: v1.2.0
+    title: 'v1.2.0 of angel_client'
+    published: '2017-12-21T20:08:54+00:00'
+    id: 'urn:uuid:074af5d4-062e-57a8-8cf2-cf75071b1495'
+    link: 'https://pub.dartlang.org/packages/angel_client'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_poll
+    package_version: v1.0.0
+    title: 'v1.0.0 of angel_poll'
+    published: '2017-12-21T19:26:47+00:00'
+    id: 'urn:uuid:656705be-e1fb-5459-8db6-a1ddbf73452c'
+    link: 'https://pub.dartlang.org/packages/angel_poll'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
