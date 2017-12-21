@@ -119244,3 +119244,21 @@
     link: 'https://pub.dartlang.org/packages/markdown'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: pubviz
+    package_version: v2.4.1
+    title: 'v2.4.1 of pubviz'
+    published: '2017-12-21T00:44:36+00:00'
+    id: 'urn:uuid:908ec09a-e392-5c97-bdb5-07773269403a'
+    link: 'https://pub.dartlang.org/packages/pubviz'
+    author:
+        - 'Kevin Moore <kevmoo@google.com>'
+-
+    package_name: gviz
+    package_version: v0.2.0
+    title: 'v0.2.0 of gviz'
+    published: '2017-12-21T00:32:16+00:00'
+    id: 'urn:uuid:3d56fb33-00ad-5ebc-aaa0-219e4c9d942f'
+    link: 'https://pub.dartlang.org/packages/gviz'
+    author:
+        - 'Kevin Moore <github@j832.com>'
