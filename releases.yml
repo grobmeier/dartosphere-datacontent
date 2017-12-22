@@ -119474,3 +119474,39 @@
     author:
         - 'John Ryan <john.p.ryan4@gmail.com>'
         - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: angel_security
+    package_version: v1.1.0
+    title: 'v1.1.0 of angel_security'
+    published: '2017-12-22T13:39:35+00:00'
+    id: 'urn:uuid:eeffd7a3-7447-5db5-8f5f-a321a1415c56'
+    link: 'https://pub.dartlang.org/packages/angel_security'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: angel_file_service
+    package_version: v1.1.0+2
+    title: 'v1.1.0+2 of angel_file_service'
+    published: '2017-12-22T13:04:35+00:00'
+    id: 'urn:uuid:8b1076d6-7e24-5239-a497-6e52218e4958'
+    link: 'https://pub.dartlang.org/packages/angel_file_service'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: ngx_core
+    package_version: v0.4.0
+    title: 'v0.4.0 of ngx_core'
+    published: '2017-12-22T13:03:52+00:00'
+    id: 'urn:uuid:593498e5-ea2c-51be-87fe-9be59f1fdb17'
+    link: 'https://pub.dartlang.org/packages/ngx_core'
+    author:
+        - 'Cédric Belin <cedric@belin.io>'
+-
+    package_name: image_carousel
+    package_version: v0.3.0
+    title: 'v0.3.0 of image_carousel'
+    published: '2017-12-22T12:34:25+00:00'
+    id: 'urn:uuid:7bb1ca48-b845-5fb2-bfe8-d164f44d1ee5'
+    link: 'https://pub.dartlang.org/packages/image_carousel'
+    author:
+        - 'Theo Bouwman <theobouwman98@gmail.com>'
