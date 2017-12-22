@@ -119510,3 +119510,21 @@
     link: 'https://pub.dartlang.org/packages/image_carousel'
     author:
         - 'Theo Bouwman <theobouwman98@gmail.com>'
+-
+    package_name: flame
+    package_version: v0.8.1
+    title: 'v0.8.1 of flame'
+    published: '2017-12-22T18:45:56+00:00'
+    id: 'urn:uuid:5c4e097a-6d9a-58db-8506-b7eeb3080f64'
+    link: 'https://pub.dartlang.org/packages/flame'
+    author:
+        - 'Luan Nico <luannico27@gmail.com>'
+-
+    package_name: flutter_markdown
+    package_version: v0.1.1
+    title: 'v0.1.1 of flutter_markdown'
+    published: '2017-12-22T18:17:41+00:00'
+    id: 'urn:uuid:b67cdf5b-77d8-5dd5-b9ef-78d5f4dfdfde'
+    link: 'https://pub.dartlang.org/packages/flutter_markdown'
+    author:
+        - 'Flutter Authors <flutter-dev@googlegroups.com>'
