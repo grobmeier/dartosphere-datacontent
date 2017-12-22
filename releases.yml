@@ -119437,3 +119437,12 @@
     link: 'https://pub.dartlang.org/packages/angel_poll'
     author:
         - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: html
+    package_version: v0.13.2+1
+    title: 'v0.13.2+1 of html'
+    published: '2017-12-22T00:36:10+00:00'
+    id: 'urn:uuid:8d6bcbd9-db5d-56d7-a07b-420b5ef6db13'
+    link: 'https://pub.dartlang.org/packages/html'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
