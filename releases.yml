@@ -119600,3 +119600,31 @@
     link: 'https://pub.dartlang.org/packages/jaguar_client'
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: jaguar_rpc
+    package_version: v1.0.0
+    title: 'v1.0.0 of jaguar_rpc'
+    published: '2017-12-23T22:16:15+00:00'
+    id: 'urn:uuid:00ff8da0-4302-5b40-968f-43d7a039db9f'
+    link: 'https://pub.dartlang.org/packages/jaguar_rpc'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: jaguar
+    package_version: v0.6.21
+    title: 'v0.6.21 of jaguar'
+    published: '2017-12-23T22:07:09+00:00'
+    id: 'urn:uuid:3faf0d91-96fe-56d7-9c8b-b9e6b31bf24f'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: dart_language_server
+    package_version: v0.1.2
+    title: 'v0.1.2 of dart_language_server'
+    published: '2017-12-23T19:38:24+00:00'
+    id: 'urn:uuid:74cb9e7c-bfa0-5f8b-9e85-2724ff6b4a4a'
+    link: 'https://pub.dartlang.org/packages/dart_language_server'
+    author:
+        - 'Nate Bosch <nbosch1@gmail.com>'
