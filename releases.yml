@@ -119564,3 +119564,21 @@
     link: 'https://pub.dartlang.org/packages/silent_auth'
     author:
         - 'Man Hoang <jolleekin@outlook.com>'
+-
+    package_name: build_runner
+    package_version: v0.7.1
+    title: 'v0.7.1 of build_runner'
+    published: '2017-12-23T00:17:35+00:00'
+    id: 'urn:uuid:82db66d3-f703-53be-ae05-8cffc578310f'
+    link: 'https://pub.dartlang.org/packages/build_runner'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build_web_compilers
+    package_version: v0.1.1
+    title: 'v0.1.1 of build_web_compilers'
+    published: '2017-12-22T23:00:32+00:00'
+    id: 'urn:uuid:19277f61-1d88-5e32-9066-fee213d2f9e1'
+    link: 'https://pub.dartlang.org/packages/build_web_compilers'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
