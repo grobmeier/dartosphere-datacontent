@@ -119591,3 +119591,12 @@
     link: 'https://pub.dartlang.org/packages/woomera'
     author:
         - 'Hoylen Sue <hoylen@hoylen.com>'
+-
+    package_name: jaguar_client
+    package_version: v0.2.1
+    title: 'v0.2.1 of jaguar_client'
+    published: '2017-12-23T11:31:12+00:00'
+    id: 'urn:uuid:bcf8c35d-8984-59b9-b4e5-6c343451175b'
+    link: 'https://pub.dartlang.org/packages/jaguar_client'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
