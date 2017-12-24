@@ -119637,3 +119637,12 @@
     link: 'https://pub.dartlang.org/packages/build_runner'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dartsicord
+    package_version: v0.0.10
+    title: 'v0.0.10 of dartsicord'
+    published: '2017-12-24T03:15:36+00:00'
+    id: 'urn:uuid:3794fc6b-dfc4-561a-bf18-59d15f7547f5'
+    link: 'https://pub.dartlang.org/packages/dartsicord'
+    author:
+        - 'voximity <0zanfran@gmail.com>'
