@@ -119674,3 +119674,22 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar
+    package_version: v0.6.23
+    title: 'v0.6.23 of jaguar'
+    published: '2017-12-25T18:23:05+00:00'
+    id: 'urn:uuid:c3f38644-0130-5eb3-a6a5-fb74474001d2'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: dartsicord
+    package_version: v0.0.13
+    title: 'v0.0.13 of dartsicord'
+    published: '2017-12-25T16:24:35+00:00'
+    id: 'urn:uuid:3790f137-f447-5b59-ae8d-13158fc4cbb7'
+    link: 'https://pub.dartlang.org/packages/dartsicord'
+    author:
+        - 'voximity <0zanfran@gmail.com>'
