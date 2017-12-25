@@ -119655,3 +119655,12 @@
     link: 'https://pub.dartlang.org/packages/dartsicord'
     author:
         - 'voximity <0zanfran@gmail.com>'
+-
+    package_name: dartsicord
+    package_version: v0.0.12
+    title: 'v0.0.12 of dartsicord'
+    published: '2017-12-25T02:52:04+00:00'
+    id: 'urn:uuid:34d81877-796b-5a89-aced-f2dee5065580'
+    link: 'https://pub.dartlang.org/packages/dartsicord'
+    author:
+        - 'voximity <0zanfran@gmail.com>'
