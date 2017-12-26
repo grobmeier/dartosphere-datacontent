@@ -119702,3 +119702,13 @@
     link: 'https://pub.dartlang.org/packages/dartsicord'
     author:
         - 'voximity <0zanfran@gmail.com>'
+-
+    package_name: jaguar
+    package_version: v0.6.25
+    title: 'v0.6.25 of jaguar'
+    published: '2017-12-26T20:48:16+00:00'
+    id: 'urn:uuid:9bd190a0-0856-59ee-ae32-a8d49e84ca06'
+    link: 'https://pub.dartlang.org/packages/jaguar'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
