@@ -119712,3 +119712,12 @@
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
         - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: side_header_list_view
+    package_version: v0.0.2
+    title: 'v0.0.2 of side_header_list_view'
+    published: '2017-12-27T10:38:11+00:00'
+    id: 'urn:uuid:101abc1a-0375-5332-b960-a6297d3888bb'
+    link: 'https://pub.dartlang.org/packages/side_header_list_view'
+    author:
+        - 'Rene Floor <pub@renefloor.nl>'
