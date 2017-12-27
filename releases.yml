@@ -119721,3 +119721,30 @@
     link: 'https://pub.dartlang.org/packages/side_header_list_view'
     author:
         - 'Rene Floor <pub@renefloor.nl>'
+-
+    package_name: observable
+    package_version: v0.20.4+2
+    title: 'v0.20.4+2 of observable'
+    published: '2017-12-27T18:49:28+00:00'
+    id: 'urn:uuid:5d4801d8-3aef-5898-a9a7-be0cd0d7a932'
+    link: 'https://pub.dartlang.org/packages/observable'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: map_view
+    package_version: v0.0.6
+    title: 'v0.0.6 of map_view'
+    published: '2017-12-27T16:39:21+00:00'
+    id: 'urn:uuid:fd260009-3a9f-5462-936f-c093ff789d68'
+    link: 'https://pub.dartlang.org/packages/map_view'
+    author:
+        - 'AppTree Software<flutter@apptreesoftware.com>'
+-
+    package_name: angel_client
+    package_version: v1.2.0+1
+    title: 'v1.2.0+1 of angel_client'
+    published: '2017-12-27T16:00:51+00:00'
+    id: 'urn:uuid:5f66fe6a-f621-5a13-88c4-eb4b2acfa75e'
+    link: 'https://pub.dartlang.org/packages/angel_client'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
