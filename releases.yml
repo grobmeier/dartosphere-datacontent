@@ -119766,3 +119766,23 @@
     link: 'https://pub.dartlang.org/packages/build_compilers'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: jaguar_auth_mongo
+    package_version: v0.2.0
+    title: 'v0.2.0 of jaguar_auth_mongo'
+    published: '2017-12-28T05:01:55+00:00'
+    id: 'urn:uuid:9c62bba9-142e-59d5-bdf0-cad9028e100f'
+    link: 'https://pub.dartlang.org/packages/jaguar_auth_mongo'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
+-
+    package_name: jaguar_common
+    package_version: v0.2.2
+    title: 'v0.2.2 of jaguar_common'
+    published: '2017-12-28T04:57:16+00:00'
+    id: 'urn:uuid:c51b668c-f30b-571f-bcd0-9e0d6709b2a1'
+    link: 'https://pub.dartlang.org/packages/jaguar_common'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+        - 'Kevin Segaud <segaud.kevin@gmail.com>'
