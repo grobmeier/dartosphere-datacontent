@@ -119877,3 +119877,12 @@
     link: 'https://pub.dartlang.org/packages/phoenix_wings'
     author:
         - mfeckie
+-
+    package_name: map_view
+    package_version: v0.0.8
+    title: 'v0.0.8 of map_view'
+    published: '2017-12-29T20:42:41+00:00'
+    id: 'urn:uuid:1eb28c1f-525c-56e5-97b4-3c04f996a44a'
+    link: 'https://pub.dartlang.org/packages/map_view'
+    author:
+        - 'AppTree Software<flutter@apptreesoftware.com>'
