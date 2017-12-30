@@ -119895,3 +119895,12 @@
     link: 'https://pub.dartlang.org/packages/shuttlecock'
     author:
         - 'Alexei Eleusis Díaz Vera <alexei.eleusis@gmail.com>'
+-
+    package_name: phoenix_wings
+    package_version: v0.0.2
+    title: 'v0.0.2 of phoenix_wings'
+    published: '2017-12-30T05:35:35+00:00'
+    id: 'urn:uuid:741536d8-3fab-5b89-8248-4081e8d44e9c'
+    link: 'https://pub.dartlang.org/packages/phoenix_wings'
+    author:
+        - mfeckie<mfeckie@gmail.com>
