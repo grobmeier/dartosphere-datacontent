@@ -119904,3 +119904,30 @@
     link: 'https://pub.dartlang.org/packages/phoenix_wings'
     author:
         - mfeckie<mfeckie@gmail.com>
+-
+    package_name: map_view
+    package_version: v0.0.10
+    title: 'v0.0.10 of map_view'
+    published: '2017-12-30T18:56:58+00:00'
+    id: 'urn:uuid:343a1338-a1b1-5aa0-8920-42561fde6690'
+    link: 'https://pub.dartlang.org/packages/map_view'
+    author:
+        - 'AppTree Software<flutter@apptreesoftware.com>'
+-
+    package_name: markdown
+    package_version: v1.1.1
+    title: 'v1.1.1 of markdown'
+    published: '2017-12-30T17:12:55+00:00'
+    id: 'urn:uuid:04b6391b-9558-5416-b129-925b20815b5e'
+    link: 'https://pub.dartlang.org/packages/markdown'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: go
+    package_version: v1.0.1
+    title: 'v1.0.1 of go'
+    published: '2017-12-30T17:12:27+00:00'
+    id: 'urn:uuid:d87e3d48-78fd-55a2-b54a-fa711b590178'
+    link: 'https://pub.dartlang.org/packages/go'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
