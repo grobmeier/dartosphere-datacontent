@@ -119886,3 +119886,12 @@
     link: 'https://pub.dartlang.org/packages/map_view'
     author:
         - 'AppTree Software<flutter@apptreesoftware.com>'
+-
+    package_name: shuttlecock
+    package_version: v0.4.3
+    title: 'v0.4.3 of shuttlecock'
+    published: '2017-12-30T00:29:53+00:00'
+    id: 'urn:uuid:baef1703-75e3-5613-bc21-6166fad0a6c3'
+    link: 'https://pub.dartlang.org/packages/shuttlecock'
+    author:
+        - 'Alexei Eleusis Díaz Vera <alexei.eleusis@gmail.com>'
