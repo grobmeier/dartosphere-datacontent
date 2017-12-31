@@ -119958,3 +119958,12 @@
     link: 'https://pub.dartlang.org/packages/built_redux'
     author:
         - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: go
+    package_version: v1.0.5
+    title: 'v1.0.5 of go'
+    published: '2017-12-31T12:37:51+00:00'
+    id: 'urn:uuid:09622e00-b95c-5acc-9d8c-e28831dd9b3c'
+    link: 'https://pub.dartlang.org/packages/go'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
