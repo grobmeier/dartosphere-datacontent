@@ -119949,3 +119949,12 @@
     link: 'https://pub.dartlang.org/packages/go'
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: built_redux
+    package_version: v7.3.3
+    title: 'v7.3.3 of built_redux'
+    published: '2017-12-31T07:06:38+00:00'
+    id: 'urn:uuid:d16b6806-3e76-536c-be52-8bf39659bc87'
+    link: 'https://pub.dartlang.org/packages/built_redux'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
