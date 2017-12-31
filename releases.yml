@@ -119940,3 +119940,12 @@
     link: 'https://pub.dartlang.org/packages/go'
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: go
+    package_version: v1.0.3
+    title: 'v1.0.3 of go'
+    published: '2017-12-31T00:30:49+00:00'
+    id: 'urn:uuid:5848f0f0-1ad2-5445-a4ae-50a3f78683fc'
+    link: 'https://pub.dartlang.org/packages/go'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
