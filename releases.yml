@@ -119967,3 +119967,12 @@
     link: 'https://pub.dartlang.org/packages/go'
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: wui_builder
+    package_version: v0.3.1
+    title: 'v0.3.1 of wui_builder'
+    published: '2017-12-31T22:00:35+00:00'
+    id: 'urn:uuid:e5eb2737-84fc-50f6-8c8b-5905d5e87036'
+    link: 'https://pub.dartlang.org/packages/wui_builder'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
