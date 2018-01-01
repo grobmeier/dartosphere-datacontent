@@ -119994,3 +119994,12 @@
     link: 'https://pub.dartlang.org/packages/phoenix_wings'
     author:
         - mfeckie<mfeckie@gmail.com>
+-
+    package_name: commandlist
+    package_version: v0.0.2
+    title: 'v0.0.2 of commandlist'
+    published: '2018-01-01T13:32:04+00:00'
+    id: 'urn:uuid:1c165645-f347-5c4b-8aca-232812d58818'
+    link: 'https://pub.dartlang.org/packages/commandlist'
+    author:
+        - 'tlarsen <tlarsen@porcupinesupernova.com>'
