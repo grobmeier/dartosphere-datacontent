@@ -120003,3 +120003,12 @@
     link: 'https://pub.dartlang.org/packages/commandlist'
     author:
         - 'tlarsen <tlarsen@porcupinesupernova.com>'
+-
+    package_name: duration
+    package_version: v1.0.0
+    title: 'v1.0.0 of duration'
+    published: '2018-01-01T18:01:58+00:00'
+    id: 'urn:uuid:9d35d176-fb77-5899-917b-50946120b6fe'
+    link: 'https://pub.dartlang.org/packages/duration'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
