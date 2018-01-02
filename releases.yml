@@ -120031,3 +120031,12 @@
     link: 'https://pub.dartlang.org/packages/dart_language_server'
     author:
         - 'Nate Bosch <nbosch1@gmail.com>'
+-
+    package_name: auto_api
+    package_version: v0.0.1-alpha.2
+    title: 'v0.0.1-alpha.2 of auto_api'
+    published: '2018-01-02T02:14:55+00:00'
+    id: 'urn:uuid:dd2832c2-a891-5ade-8d86-9ed8fa16fcc8'
+    link: 'https://pub.dartlang.org/packages/auto_api'
+    author:
+        - 'Jorge Garcia Irazabal <jorge.girazabal@gmail.com>'
