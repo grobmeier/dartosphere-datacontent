@@ -120076,3 +120076,31 @@
     link: 'https://pub.dartlang.org/packages/build_barback'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: process
+    package_version: v2.0.7
+    title: 'v2.0.7 of process'
+    published: '2018-01-02T22:02:20+00:00'
+    id: 'urn:uuid:3547b173-6f64-5725-a224-33eae5bf9d00'
+    link: 'https://pub.dartlang.org/packages/process'
+    author:
+        - 'Todd Volkert <tvolkert@google.com>'
+        - 'Michael Goderbauer <goderbauer@google.com>'
+-
+    package_name: text_table
+    package_version: v2.5.1
+    title: 'v2.5.1 of text_table'
+    published: '2018-01-02T21:13:14+00:00'
+    id: 'urn:uuid:2f7c2116-129b-528c-9d59-14261ee3fef3'
+    link: 'https://pub.dartlang.org/packages/text_table'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: build_runner
+    package_version: v0.7.2
+    title: 'v0.7.2 of build_runner'
+    published: '2018-01-02T20:42:41+00:00'
+    id: 'urn:uuid:78086d67-41bd-514a-9111-0eda58f0c7cb'
+    link: 'https://pub.dartlang.org/packages/build_runner'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
