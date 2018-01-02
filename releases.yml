@@ -120040,3 +120040,21 @@
     link: 'https://pub.dartlang.org/packages/auto_api'
     author:
         - 'Jorge Garcia Irazabal <jorge.girazabal@gmail.com>'
+-
+    package_name: logging_service
+    package_version: v3.0.3
+    title: 'v3.0.3 of logging_service'
+    published: '2018-01-02T06:48:24+00:00'
+    id: 'urn:uuid:d74736e2-95b1-5150-9296-0fe62e3c8637'
+    link: 'https://pub.dartlang.org/packages/logging_service'
+    author:
+        - 'Ivan Evsikov <ivan.evsikov@team.wrike.com>'
+-
+    package_name: auto_api
+    package_version: v0.0.1-alpha.3
+    title: 'v0.0.1-alpha.3 of auto_api'
+    published: '2018-01-02T04:50:58+00:00'
+    id: 'urn:uuid:2ed89ec6-cc7c-561e-965d-6f2c0d6723d3'
+    link: 'https://pub.dartlang.org/packages/auto_api'
+    author:
+        - 'Jorge Garcia Irazabal <jorge.girazabal@gmail.com>'
