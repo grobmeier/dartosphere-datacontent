@@ -120058,3 +120058,12 @@
     link: 'https://pub.dartlang.org/packages/auto_api'
     author:
         - 'Jorge Garcia Irazabal <jorge.girazabal@gmail.com>'
+-
+    package_name: text_table
+    package_version: v1.0.0
+    title: 'v1.0.0 of text_table'
+    published: '2018-01-02T14:52:02+00:00'
+    id: 'urn:uuid:8c244249-3f87-56b1-b6ee-c9cccf849dd0'
+    link: 'https://pub.dartlang.org/packages/text_table'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
