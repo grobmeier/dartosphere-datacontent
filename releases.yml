@@ -120176,3 +120176,21 @@
     link: 'https://pub.dartlang.org/packages/collection'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: image_carousel
+    package_version: v0.4.0
+    title: 'v0.4.0 of image_carousel'
+    published: '2018-01-03T17:27:30+00:00'
+    id: 'urn:uuid:2bc7f48c-4f37-5f6c-9790-44445144685f'
+    link: 'https://pub.dartlang.org/packages/image_carousel'
+    author:
+        - 'Theo Bouwman <theobouwman98@gmail.com>'
+-
+    package_name: go
+    package_version: v1.0.6
+    title: 'v1.0.6 of go'
+    published: '2018-01-03T16:44:19+00:00'
+    id: 'urn:uuid:63fd2bf9-47e7-5136-b018-cd6be8124016'
+    link: 'https://pub.dartlang.org/packages/go'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
