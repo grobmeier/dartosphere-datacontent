@@ -120194,3 +120194,58 @@
     link: 'https://pub.dartlang.org/packages/go'
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: test
+    package_version: v0.12.30
+    title: 'v0.12.30 of test'
+    published: '2018-01-03T22:28:54+00:00'
+    id: 'urn:uuid:01edbf5c-eb4d-57be-88c8-04825a8a9b41'
+    link: 'https://pub.dartlang.org/packages/test'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: cloud_firestore
+    package_version: v0.2.1
+    title: 'v0.2.1 of cloud_firestore'
+    published: '2018-01-03T21:03:56+00:00'
+    id: 'urn:uuid:328a734a-15da-5874-8aed-23665c21e57a'
+    link: 'https://pub.dartlang.org/packages/cloud_firestore'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: webide_splitter
+    package_version: v1.5.5
+    title: 'v1.5.5 of webide_splitter'
+    published: '2018-01-03T19:57:40+00:00'
+    id: 'urn:uuid:f6e6dd26-e0bc-59b8-b850-b004746152c7'
+    link: 'https://pub.dartlang.org/packages/webide_splitter'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: phaser
+    package_version: v2.9.4
+    title: 'v2.9.4 of phaser'
+    published: '2018-01-03T19:44:22+00:00'
+    id: 'urn:uuid:53564fc4-2c15-5117-93b3-c805f01fb870'
+    link: 'https://pub.dartlang.org/packages/phaser'
+    author:
+        - 'Tobe O <thosakwe@gmail.com>'
+-
+    package_name: font_awesome_flutter
+    package_version: v6.0.0
+    title: 'v6.0.0 of font_awesome_flutter'
+    published: '2018-01-03T19:23:24+00:00'
+    id: 'urn:uuid:315e3c3f-29bb-5615-9941-fa2dac4e8a2b'
+    link: 'https://pub.dartlang.org/packages/font_awesome_flutter'
+    author:
+        - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: redux
+    package_version: v2.1.1
+    title: 'v2.1.1 of redux'
+    published: '2018-01-03T19:00:29+00:00'
+    id: 'urn:uuid:e651897f-2e55-54b5-9719-6d23276fec7b'
+    link: 'https://pub.dartlang.org/packages/redux'
+    author:
+        - 'John Ryan <john.p.ryan4@gmail.com>'
+        - 'Brian Egan <brian@brianegan.com>'
