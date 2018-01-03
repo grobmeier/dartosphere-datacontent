@@ -120104,3 +120104,48 @@
     link: 'https://pub.dartlang.org/packages/build_runner'
     author:
         - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: audioplayers
+    package_version: v0.4.1
+    title: 'v0.4.1 of audioplayers'
+    published: '2018-01-03T01:37:08+00:00'
+    id: 'urn:uuid:6a4f519c-090b-5099-92a0-b3021e9d8978'
+    link: 'https://pub.dartlang.org/packages/audioplayers'
+    author:
+        - 'Luan Nico <luannico27@gmail.com>'
+-
+    package_name: multi_server_socket
+    package_version: v1.0.1
+    title: 'v1.0.1 of multi_server_socket'
+    published: '2018-01-03T01:22:19+00:00'
+    id: 'urn:uuid:4265cdbf-7eac-5b74-aa56-860394f89822'
+    link: 'https://pub.dartlang.org/packages/multi_server_socket'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: pygments
+    package_version: v0.1.3
+    title: 'v0.1.3 of pygments'
+    published: '2018-01-02T23:43:29+00:00'
+    id: 'urn:uuid:52f72d1d-9600-5778-9c89-040a2eaf7975'
+    link: 'https://pub.dartlang.org/packages/pygments'
+    author:
+        - 'Ryan Gonzalez <rymg19@gmail.com>'
+-
+    package_name: build_runner
+    package_version: v0.7.3
+    title: 'v0.7.3 of build_runner'
+    published: '2018-01-02T23:38:28+00:00'
+    id: 'urn:uuid:635cbf1b-3ae0-5b7a-b1f0-2a5f87c36649'
+    link: 'https://pub.dartlang.org/packages/build_runner'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: w_common
+    package_version: v1.11.0
+    title: 'v1.11.0 of w_common'
+    published: '2018-01-02T23:25:52+00:00'
+    id: 'urn:uuid:c629740d-10c2-5327-b83f-fa9d971f63b5'
+    link: 'https://pub.dartlang.org/packages/w_common'
+    author:
+        - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
