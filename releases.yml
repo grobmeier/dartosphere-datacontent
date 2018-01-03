@@ -120149,3 +120149,12 @@
     link: 'https://pub.dartlang.org/packages/w_common'
     author:
         - 'Workiva Client Platform Team <team-clientplatform@workiva.com>'
+-
+    package_name: async
+    package_version: v2.0.2
+    title: 'v2.0.2 of async'
+    published: '2018-01-03T03:41:44+00:00'
+    id: 'urn:uuid:88a33eb9-594a-5179-818f-755207d91f50'
+    link: 'https://pub.dartlang.org/packages/async'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
