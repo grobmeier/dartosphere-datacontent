@@ -120351,3 +120351,57 @@
     link: 'https://pub.dartlang.org/packages/fatint'
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: sqflite
+    package_version: v0.3.1
+    title: 'v0.3.1 of sqflite'
+    published: '2018-01-04T22:05:45+00:00'
+    id: 'urn:uuid:026c3a46-d635-5403-86ed-46e9ee519d35'
+    link: 'https://pub.dartlang.org/packages/sqflite'
+    author:
+        - 'Tekartik <alex@tekartik.com>'
+-
+    package_name: shelf_static
+    package_version: v0.2.7
+    title: 'v0.2.7 of shelf_static'
+    published: '2018-01-04T21:44:03+00:00'
+    id: 'urn:uuid:eacfb768-d4d5-50af-87b4-89ab8a478851'
+    link: 'https://pub.dartlang.org/packages/shelf_static'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: build_runner
+    package_version: v0.7.4
+    title: 'v0.7.4 of build_runner'
+    published: '2018-01-04T21:36:03+00:00'
+    id: 'urn:uuid:95b4c870-0ebc-5bc5-aa90-92720eca03d3'
+    link: 'https://pub.dartlang.org/packages/build_runner'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: pub_server
+    package_version: v0.1.3
+    title: 'v0.1.3 of pub_server'
+    published: '2018-01-04T21:25:43+00:00'
+    id: 'urn:uuid:399a931c-7465-5326-8dec-3f75514742c6'
+    link: 'https://pub.dartlang.org/packages/pub_server'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: shelf
+    package_version: v0.7.2
+    title: 'v0.7.2 of shelf'
+    published: '2018-01-04T20:38:48+00:00'
+    id: 'urn:uuid:3d33dc72-81ea-5847-84fe-3644cc671540'
+    link: 'https://pub.dartlang.org/packages/shelf'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: dart_style
+    package_version: v1.0.9
+    title: 'v1.0.9 of dart_style'
+    published: '2018-01-04T20:08:15+00:00'
+    id: 'urn:uuid:8ccd48c0-5313-56ab-bcf6-f1513cc76cf2'
+    link: 'https://pub.dartlang.org/packages/dart_style'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
