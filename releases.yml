@@ -120288,3 +120288,66 @@
         - 'Wil Pirino <willyp@google.com>'
         - 'Adam Lofts <adam.lofts@gmail.com>'
         - 'Alec Henninger <alechenninger@gmail.com>'
+-
+    package_name: firebase_admob
+    package_version: v0.2.2
+    title: 'v0.2.2 of firebase_admob'
+    published: '2018-01-04T18:40:57+00:00'
+    id: 'urn:uuid:f5821a0b-4f44-5456-b91b-2c8dd8b52bb1'
+    link: 'https://pub.dartlang.org/packages/firebase_admob'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: appcenter_crashes
+    package_version: v0.0.1
+    title: 'v0.0.1 of appcenter_crashes'
+    published: '2018-01-04T18:36:12+00:00'
+    id: 'urn:uuid:64aa8173-74b4-515d-94d4-222f85bd4c37'
+    link: 'https://pub.dartlang.org/packages/appcenter_crashes'
+    author:
+        - 'Aloïs Deniel<alois.deniel@outlook.com>'
+-
+    package_name: appcenter_analytics
+    package_version: v0.0.1
+    title: 'v0.0.1 of appcenter_analytics'
+    published: '2018-01-04T18:35:45+00:00'
+    id: 'urn:uuid:f6e1e309-39d1-56a7-884f-0c4883bce8ba'
+    link: 'https://pub.dartlang.org/packages/appcenter_analytics'
+    author:
+        - 'Aloïs Deniel<alois.deniel@outlook.com>'
+-
+    package_name: appcenter
+    package_version: v0.0.1
+    title: 'v0.0.1 of appcenter'
+    published: '2018-01-04T18:34:43+00:00'
+    id: 'urn:uuid:140f7269-ac25-5787-8a6b-5a272972013e'
+    link: 'https://pub.dartlang.org/packages/appcenter'
+    author:
+        - 'Aloïs Deniel<alois.deniel@outlook.com>'
+-
+    package_name: pdfjs
+    package_version: v1.10.90+2
+    title: 'v1.10.90+2 of pdfjs'
+    published: '2018-01-04T16:29:13+00:00'
+    id: 'urn:uuid:898c9fcf-7750-514c-9298-acbb790e8d2f'
+    link: 'https://pub.dartlang.org/packages/pdfjs'
+    author:
+        - 'Sean Burke <sean.burke@workiva.com>'
+-
+    package_name: pool
+    package_version: v1.3.4
+    title: 'v1.3.4 of pool'
+    published: '2018-01-04T16:25:51+00:00'
+    id: 'urn:uuid:60cf57be-b2cc-5e5c-bf21-4ae7081b39fc'
+    link: 'https://pub.dartlang.org/packages/pool'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: fatint
+    package_version: v1.0.0
+    title: 'v1.0.0 of fatint'
+    published: '2018-01-04T16:01:06+00:00'
+    id: 'urn:uuid:c001bedc-c5a9-59a0-a094-8dbbc7be9dd8'
+    link: 'https://pub.dartlang.org/packages/fatint'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
