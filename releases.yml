@@ -120249,3 +120249,42 @@
     author:
         - 'John Ryan <john.p.ryan4@gmail.com>'
         - 'Brian Egan <brian@brianegan.com>'
+-
+    package_name: json_serializable
+    package_version: v0.3.1
+    title: 'v0.3.1 of json_serializable'
+    published: '2018-01-04T01:25:26+00:00'
+    id: 'urn:uuid:1ad8982b-bca2-56d6-802a-4d6252a3a96b'
+    link: 'https://pub.dartlang.org/packages/json_serializable'
+    author:
+        - 'Dart Team <misc@dartlang.org>'
+-
+    package_name: firebase_admob
+    package_version: v0.2.0
+    title: 'v0.2.0 of firebase_admob'
+    published: '2018-01-04T00:07:25+00:00'
+    id: 'urn:uuid:8065178c-0930-562d-aabe-0abd13de6ebd'
+    link: 'https://pub.dartlang.org/packages/firebase_admob'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: quiver
+    package_version: v0.27.0
+    title: 'v0.27.0 of quiver'
+    published: '2018-01-03T23:10:52+00:00'
+    id: 'urn:uuid:76962638-bd00-5cee-ae3d-f32c0fdd393b'
+    link: 'https://pub.dartlang.org/packages/quiver'
+    author:
+        - 'Justin Fagnani <justinfagnani@google.com>'
+        - 'Yegor Jbanov <yjbanov@google.com>'
+        - 'Chris Bracken <cbracken@google.com>'
+        - 'Alexandre Ardhuin <alexandre.ardhuin@gmail.com>'
+        - 'David Morgan <davidmorgan@google.com>'
+        - 'John McDole <codefu@google.com>'
+        - 'Matan Lurey <matanl@google.com>'
+        - 'Günter Zöchbauer <guenter@gzoechbauer.com>'
+        - 'Sean Eagan <seaneagan1@gmail.com>'
+        - 'Victor Berchet <victor@suumit.com>'
+        - 'Wil Pirino <willyp@google.com>'
+        - 'Adam Lofts <adam.lofts@gmail.com>'
+        - 'Alec Henninger <alechenninger@gmail.com>'
