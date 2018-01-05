@@ -120459,3 +120459,12 @@
     link: 'https://pub.dartlang.org/packages/built_redux_dev_tools'
     author:
         - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: exifdart
+    package_version: v0.5.0+5
+    title: 'v0.5.0+5 of exifdart'
+    published: '2018-01-05T07:47:06+00:00'
+    id: 'urn:uuid:651947b1-871f-5a1f-be47-a5d7e44c9775'
+    link: 'https://pub.dartlang.org/packages/exifdart'
+    author:
+        - 'Peter Siroki <psiroki@users.noreply.github.com>'
