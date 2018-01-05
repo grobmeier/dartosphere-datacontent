@@ -120486,3 +120486,39 @@
     link: 'https://pub.dartlang.org/packages/biginteger_js'
     author:
         - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: firebase_database
+    package_version: v0.3.1
+    title: 'v0.3.1 of firebase_database'
+    published: '2018-01-05T18:32:05+00:00'
+    id: 'urn:uuid:f59b023a-b8c9-56a9-8fd2-66f36f9223cf'
+    link: 'https://pub.dartlang.org/packages/firebase_database'
+    author:
+        - 'Flutter Team <flutter-dev@googlegroups.com>'
+-
+    package_name: sealed_unions
+    package_version: v1.0.0
+    title: 'v1.0.0 of sealed_unions'
+    published: '2018-01-05T18:18:49+00:00'
+    id: 'urn:uuid:cb87d345-a42c-5ee9-95db-c4ef75cd893e'
+    link: 'https://pub.dartlang.org/packages/sealed_unions'
+    author:
+        - 'Flutter Consortium Team <contact+gh@androidalliance.co.uk>'
+-
+    package_name: daily_programmer_client_dart
+    package_version: v0.0.1
+    title: 'v0.0.1 of daily_programmer_client_dart'
+    published: '2018-01-05T17:52:15+00:00'
+    id: 'urn:uuid:f8d481a3-81cb-5d0c-873a-8b83385f5e9c'
+    link: 'https://pub.dartlang.org/packages/daily_programmer_client_dart'
+    author:
+        - 'gouvinb <brunogouvinhas@gmail.com>'
+-
+    package_name: twitter
+    package_version: v0.5.1
+    title: 'v0.5.1 of twitter'
+    published: '2018-01-05T17:28:47+00:00'
+    id: 'urn:uuid:45d3a929-c107-58e5-b6db-3a80a8289460'
+    link: 'https://pub.dartlang.org/packages/twitter'
+    author:
+        - 'sh4869 <nobuk4869@gmail.com>'
