@@ -120441,3 +120441,21 @@
     link: 'https://pub.dartlang.org/packages/dart_language_server'
     author:
         - 'Nate Bosch <nbosch1@gmail.com>'
+-
+    package_name: built_redux_dev_tools_web
+    package_version: v0.0.1
+    title: 'v0.0.1 of built_redux_dev_tools_web'
+    published: '2018-01-05T04:57:01+00:00'
+    id: 'urn:uuid:2b7c3f95-3d0d-509d-97b6-eded8323da39'
+    link: 'https://pub.dartlang.org/packages/built_redux_dev_tools_web'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
+-
+    package_name: built_redux_dev_tools
+    package_version: v0.0.1
+    title: 'v0.0.1 of built_redux_dev_tools'
+    published: '2018-01-05T04:24:48+00:00'
+    id: 'urn:uuid:7df35afe-2a8f-5595-bf8f-68d0e088c908'
+    link: 'https://pub.dartlang.org/packages/built_redux_dev_tools'
+    author:
+        - 'David Marne <davemarne@gmail.com>'
