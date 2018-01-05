@@ -120468,3 +120468,21 @@
     link: 'https://pub.dartlang.org/packages/exifdart'
     author:
         - 'Peter Siroki <psiroki@users.noreply.github.com>'
+-
+    package_name: fatint
+    package_version: v2.0.0
+    title: 'v2.0.0 of fatint'
+    published: '2018-01-05T13:34:15+00:00'
+    id: 'urn:uuid:f86ed73e-d970-59b3-a667-e6ead943ae00'
+    link: 'https://pub.dartlang.org/packages/fatint'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
+-
+    package_name: biginteger_js
+    package_version: v1.0.1
+    title: 'v1.0.1 of biginteger_js'
+    published: '2018-01-05T13:22:22+00:00'
+    id: 'urn:uuid:c34d6544-1b89-5e53-932e-a7241fe1df94'
+    link: 'https://pub.dartlang.org/packages/biginteger_js'
+    author:
+        - 'Ravi Teja Gudapati <tejainece@gmail.com>'
